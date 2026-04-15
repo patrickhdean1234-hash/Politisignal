@@ -378,17 +378,92 @@ footer {
 .toast-title { font-size: 14px; font-weight: 600; margin-bottom: 3px; }
 .toast-desc { font-size: 12px; color: var(--text2); line-height: 1.5; }
 
+/* HAMBURGER */
+.hamburger {
+  display: none; flex-direction: column; gap: 5px; cursor: pointer;
+  padding: 4px; background: none; border: none;
+}
+.hamburger span {
+  display: block; width: 22px; height: 2px;
+  background: var(--text2); border-radius: 2px;
+  transition: all 0.25s;
+}
+.hamburger.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+.hamburger.open span:nth-child(2) { opacity: 0; }
+.hamburger.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+.mobile-menu {
+  display: none; position: fixed; top: 64px; left: 0; right: 0; z-index: 99;
+  background: rgba(4,5,10,0.97); backdrop-filter: blur(20px);
+  border-bottom: 1px solid var(--border); padding: 20px;
+  flex-direction: column; gap: 4px;
+}
+.mobile-menu.open { display: flex; }
+.mobile-menu a {
+  color: var(--text2); text-decoration: none; font-size: 16px;
+  padding: 12px 8px; border-radius: 8px; transition: all 0.2s;
+}
+.mobile-menu a:hover { background: var(--surface); color: var(--text); }
+.mobile-menu .btn { width: 100%; justify-content: center; margin-top: 8px; padding: 13px; font-size: 15px; }
+
 @media (max-width: 768px) {
   nav { padding: 0 20px; }
   .nav-links { display: none; }
-  .hero { padding: 100px 20px 60px; }
-  .features-grid, .pricing-grid, .testi-grid, .steps { grid-template-columns: 1fr; }
-  .big-feat-grid { grid-template-columns: 1fr; gap: 40px; }
-  .steps::before { display: none; }
-  .features, .big-feature, .how, .pricing, .testimonials, .cta-section { padding-left: 20px; padding-right: 20px; }
-  footer { flex-direction: column; align-items: flex-start; padding: 24px 20px; }
-  .proof-bar { gap: 24px; padding: 20px; }
+  .nav-cta { display: none; }
+  .hamburger { display: flex; }
+
+  .hero { padding: 96px 20px 56px; }
+  .hero h1 { letter-spacing: -1px; }
+  .hero-sub { font-size: 15px; }
+
+  .waitlist-form { flex-direction: column; gap: 10px; }
   .waitlist-input { width: 100%; }
+  .waitlist-form .btn { width: 100%; justify-content: center; padding: 14px; }
+
+  .live-ticker { margin-top: 36px; }
+
+  .proof-bar {
+    display: grid; grid-template-columns: 1fr 1fr;
+    gap: 0; padding: 0;
+  }
+  .proof-bar > div {
+    padding: 18px 16px; border-right: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+  }
+  .proof-bar > div:nth-child(2n) { border-right: none; }
+  .proof-bar > div:nth-last-child(-n+2) { border-bottom: none; }
+  .proof-divider { display: none; }
+  .proof-num { font-size: 20px; }
+
+  .features { padding: 64px 20px; }
+  .features-grid { grid-template-columns: 1fr; gap: 12px; }
+  .feat-card { padding: 22px; }
+
+  .big-feature { padding: 0 20px 64px; }
+  .big-feat-grid { grid-template-columns: 1fr; gap: 36px; }
+  .section-title { letter-spacing: -0.8px; }
+
+  .how { padding: 0 20px 64px; }
+  .steps { grid-template-columns: 1fr; gap: 32px; }
+  .steps::before { display: none; }
+  .step { padding: 0; }
+
+  .pricing { padding: 64px 20px; }
+  .pricing-grid { grid-template-columns: 1fr; gap: 14px; }
+  .price-card.featured { order: -1; }
+
+  .testimonials { padding: 0 20px 64px; }
+  .testi-grid { grid-template-columns: 1fr; gap: 12px; }
+
+  .cta-section { padding: 64px 20px; }
+  .cta-box h2 { letter-spacing: -1px; }
+
+  footer {
+    flex-direction: column; align-items: flex-start;
+    padding: 28px 20px; gap: 16px;
+  }
+  .footer-links { flex-wrap: wrap; gap: 14px 20px; }
+  .footer-copy { font-size: 11px; }
 }
 </style>
 </head>
@@ -411,7 +486,17 @@ footer {
     <a class="btn btn-ghost" href="#pricing">See pricing</a>
     <button class="btn btn-primary" onclick="scrollToWaitlist()">Join Waitlist →</button>
   </div>
+  <button class="hamburger" id="hamburger" aria-label="Menu" onclick="toggleMenu()">
+    <span></span><span></span><span></span>
+  </button>
 </nav>
+
+<div class="mobile-menu" id="mobile-menu">
+  <a href="#features" onclick="closeMenu()">Features</a>
+  <a href="#how" onclick="closeMenu()">How it works</a>
+  <a href="#pricing" onclick="closeMenu()">Pricing</a>
+  <button class="btn btn-primary" onclick="closeMenu();scrollToWaitlist()">Join Waitlist →</button>
+</div>
 
 <!-- HERO -->
 <section class="hero">
@@ -815,6 +900,17 @@ function handleSubmit(event, inputId) {
       showToast('PolitiSignal');
     })
     .catch(() => showToast('PolitiSignal'));
+}
+
+function toggleMenu() {
+  const menu = document.getElementById('mobile-menu');
+  const btn = document.getElementById('hamburger');
+  menu.classList.toggle('open');
+  btn.classList.toggle('open');
+}
+function closeMenu() {
+  document.getElementById('mobile-menu').classList.remove('open');
+  document.getElementById('hamburger').classList.remove('open');
 }
 
 window.addEventListener('load', () => {
