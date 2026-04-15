@@ -328,38 +328,43 @@ section { position: relative; z-index: 1; }
 .price-btn-dark { background: var(--surface2); color: var(--text2); border: 1px solid var(--border2); }
 .price-btn-dark:hover { background: var(--surface); }
 
-/* VIDEO DEMO */
-.demo-section { padding: 0 40px 100px; max-width: 1000px; margin: 0 auto; text-align: center; }
-.video-wrapper {
-  margin-top: 48px; position: relative; border-radius: 20px; overflow: hidden;
-  border: 1px solid var(--border2); background: var(--bg3);
-  box-shadow: 0 24px 80px rgba(0,0,0,0.6), 0 0 0 1px rgba(79,125,255,0.08);
-}
-.video-wrapper iframe {
-  display: block; width: 100%; aspect-ratio: 16/9; border: none;
-}
-.video-placeholder {
-  aspect-ratio: 16/9; display: flex; flex-direction: column;
-  align-items: center; justify-content: center; gap: 20px;
-  background: linear-gradient(135deg, rgba(79,125,255,0.06), rgba(124,92,252,0.06));
+/* DEMO SECTION */
+.demo-section { padding: 0 40px 100px; max-width: 1100px; margin: 0 auto; text-align: center; }
+.browser-frame {
+  margin-top: 48px; border-radius: 16px; overflow: hidden;
+  border: 1px solid var(--border2);
+  box-shadow: 0 32px 100px rgba(0,0,0,0.7), 0 0 0 1px rgba(79,125,255,0.06);
   position: relative;
 }
-.video-placeholder::before {
-  content: ''; position: absolute; inset: 0;
-  background-image: linear-gradient(rgba(79,125,255,0.04) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(79,125,255,0.04) 1px, transparent 1px);
-  background-size: 40px 40px;
+.browser-bar {
+  background: #0d0e18; border-bottom: 1px solid var(--border);
+  padding: 10px 16px; display: flex; align-items: center; gap: 12px;
 }
-.play-btn {
-  width: 72px; height: 72px; border-radius: 50%;
-  background: linear-gradient(135deg, var(--accent), var(--accent2));
+.browser-dots { display: flex; gap: 6px; }
+.browser-dots span { width: 11px; height: 11px; border-radius: 50%; }
+.browser-url {
+  flex: 1; background: var(--surface); border: 1px solid var(--border);
+  border-radius: 6px; padding: 5px 12px; font-size: 11px;
+  color: var(--text3); font-family: 'DM Mono', monospace; text-align: left;
+}
+.browser-frame iframe {
+  display: block; width: 100%; height: 580px; border: none;
+  pointer-events: none;
+}
+.browser-overlay {
+  position: absolute; inset: 46px 0 0 0;
   display: flex; align-items: center; justify-content: center;
-  box-shadow: 0 8px 32px rgba(79,125,255,0.4); position: relative; z-index: 1;
-  cursor: pointer; transition: transform 0.2s, box-shadow 0.2s;
+  cursor: pointer; transition: background 0.2s;
 }
-.play-btn:hover { transform: scale(1.08); box-shadow: 0 12px 40px rgba(79,125,255,0.55); }
-.play-btn svg { margin-left: 4px; }
-.video-placeholder p { font-size: 14px; color: var(--text3); font-family: 'DM Mono', monospace; position: relative; z-index: 1; }
+.browser-overlay:hover { background: rgba(0,0,0,0.15); }
+.open-btn {
+  background: linear-gradient(135deg, var(--accent), var(--accent2));
+  color: white; padding: 12px 28px; border-radius: 10px;
+  font-size: 14px; font-weight: 600; font-family: 'Bricolage Grotesque', sans-serif;
+  box-shadow: 0 8px 32px rgba(79,125,255,0.4);
+  opacity: 0; transition: opacity 0.2s; pointer-events: none;
+}
+.browser-overlay:hover .open-btn { opacity: 1; }
 
 /* CTA */
 .cta-section { padding: 100px 40px; text-align: center; position: relative; }
@@ -476,6 +481,7 @@ footer {
   .price-card.featured { order: -1; }
 
   .demo-section { padding: 0 20px 64px; }
+  .browser-frame iframe { height: 360px; }
   .cta-section { padding: 64px 20px; }
   .cta-box h2 { letter-spacing: -1px; }
 
@@ -781,19 +787,25 @@ footer {
   </div>
 </section>
 
-<!-- VIDEO DEMO -->
+<!-- DEMO -->
 <section class="demo-section">
   <div class="reveal">
-    <div class="section-tag">▶ Product Demo</div>
-    <div class="section-title">See it in action.</div>
-    <p class="section-sub" style="margin:0 auto;">Watch how PolitiSignal catches a market-moving political post and delivers an actionable signal in real time.</p>
+    <div class="section-tag">⚡ Live Product</div>
+    <div class="section-title">The dashboard, live.</div>
+    <p class="section-sub" style="margin:0 auto;">This is the real PolitiSignal interface — live signal feed, AI analysis, market movers, and sentiment scoring all in one place.</p>
   </div>
-  <div class="video-wrapper reveal">
-    <div class="video-placeholder" id="video-placeholder">
-      <div class="play-btn" onclick="loadVideo()">
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="white"><polygon points="5,3 19,12 5,21"/></svg>
+  <div class="browser-frame reveal">
+    <div class="browser-bar">
+      <div class="browser-dots">
+        <span style="background:#ff5f57;"></span>
+        <span style="background:#febc2e;"></span>
+        <span style="background:#28c840;"></span>
       </div>
-      <p>Demo video coming soon</p>
+      <div class="browser-url">app.politisignal.com</div>
+    </div>
+    <iframe src="/app.html" scrolling="no" tabindex="-1"></iframe>
+    <div class="browser-overlay" onclick="window.open('/app.html','_blank')">
+      <div class="open-btn">Open Full Dashboard →</div>
     </div>
   </div>
 </section>
@@ -908,16 +920,6 @@ function handleSubmit(event, inputId) {
     .catch(() => showToast('PolitiSignal'));
 }
 
-function loadVideo() {
-  // Replace YOUR_VIDEO_ID with your YouTube video ID when ready
-  const videoId = 'YOUR_VIDEO_ID';
-  if (videoId === 'YOUR_VIDEO_ID') {
-    document.querySelector('#video-placeholder p').textContent = 'Video coming soon — check back shortly!';
-    return;
-  }
-  const wrapper = document.getElementById('video-placeholder');
-  wrapper.outerHTML = '<iframe src="https://www.youtube.com/embed/' + videoId + '?autoplay=1" allow="autoplay; fullscreen" allowfullscreen></iframe>';
-}
 
 function toggleMenu() {
   const menu = document.getElementById('mobile-menu');
