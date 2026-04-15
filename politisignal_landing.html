@@ -1,0 +1,826 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PolitiSignal — Know Before The Market Moves</title>
+<meta name="description" content="Real-time alerts when politicians post content that moves markets. Track 184 politicians across all platforms. Built for serious traders.">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="PolitiSignal — Know Before The Market Moves">
+<meta property="og:description" content="Real-time alerts when politicians post content that moves your stocks. Track 184 politicians across every platform — before Wall Street reacts.">
+<meta property="og:url" content="https://politisignal.com">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="PolitiSignal">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="PolitiSignal — Know Before The Market Moves">
+<meta name="twitter:description" content="Real-time alerts when politicians post content that moves your stocks. Track 184 politicians across every platform — before Wall Street reacts.">
+<meta name="twitter:site" content="@politisignal">
+<link rel="canonical" href="https://politisignal.com">
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Mono:wght@300;400;500&family=Bricolage+Grotesque:opsz,wght@12..96,300;12..96,400;12..96,500;12..96,600&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --bg: #04050a;
+  --bg2: #080910;
+  --bg3: #0d0e18;
+  --surface: #111220;
+  --surface2: #171828;
+  --border: rgba(255,255,255,0.06);
+  --border2: rgba(255,255,255,0.10);
+  --border3: rgba(255,255,255,0.16);
+  --text: #eceef8;
+  --text2: #8b8fa8;
+  --text3: #4a4d62;
+  --accent: #4f7dff;
+  --accent2: #7c5cfc;
+  --red: #ff4757;
+  --green: #2ecc71;
+  --amber: #f1c40f;
+  --gold: #e8b84b;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Bricolage Grotesque', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  overflow-x: hidden;
+  line-height: 1.6;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='1'/%3E%3C/svg%3E");
+  opacity: 0.03;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.grid-bg {
+  position: fixed;
+  inset: 0;
+  background-image:
+    linear-gradient(rgba(79,125,255,0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(79,125,255,0.03) 1px, transparent 1px);
+  background-size: 60px 60px;
+  pointer-events: none;
+  z-index: 0;
+}
+
+nav {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 100;
+  padding: 0 40px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--border);
+  background: rgba(4,5,10,0.85);
+  backdrop-filter: blur(20px);
+}
+
+.nav-logo { display: flex; align-items: center; gap: 10px; text-decoration: none; }
+.nav-logo-icon {
+  width: 32px; height: 32px;
+  background: linear-gradient(135deg, var(--accent), var(--accent2));
+  border-radius: 8px;
+  display: flex; align-items: center; justify-content: center;
+  font-family: 'Syne', sans-serif; font-weight: 800; font-size: 13px; color: white;
+}
+.nav-logo-text { font-family: 'Syne', sans-serif; font-weight: 800; font-size: 17px; color: var(--text); letter-spacing: -0.3px; }
+
+.nav-links { display: flex; align-items: center; gap: 32px; list-style: none; }
+.nav-links a { color: var(--text2); text-decoration: none; font-size: 14px; transition: color 0.2s; }
+.nav-links a:hover { color: var(--text); }
+
+.nav-cta { display: flex; align-items: center; gap: 12px; }
+
+.btn {
+  padding: 9px 20px; border-radius: 8px; font-size: 13px; font-weight: 600;
+  cursor: pointer; transition: all 0.2s; font-family: 'Bricolage Grotesque', sans-serif;
+  text-decoration: none; display: inline-flex; align-items: center; gap: 7px; border: none;
+}
+.btn-ghost { background: transparent; border: 1px solid var(--border2); color: var(--text2); }
+.btn-ghost:hover { background: var(--surface); color: var(--text); }
+.btn-primary {
+  background: linear-gradient(135deg, var(--accent), var(--accent2));
+  color: white; box-shadow: 0 4px 20px rgba(79,125,255,0.3);
+}
+.btn-primary:hover { transform: translateY(-1px); box-shadow: 0 6px 28px rgba(79,125,255,0.45); }
+.btn-large { padding: 14px 32px; font-size: 15px; border-radius: 10px; }
+
+section { position: relative; z-index: 1; }
+
+/* HERO */
+.hero {
+  min-height: 100vh;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  padding: 120px 40px 80px; text-align: center; position: relative;
+}
+.hero::after {
+  content: '';
+  position: absolute; top: 20%; left: 50%; transform: translateX(-50%);
+  width: 800px; height: 600px;
+  background: radial-gradient(ellipse at center, rgba(79,125,255,0.08) 0%, transparent 70%);
+  pointer-events: none; z-index: 0;
+}
+.hero-content { position: relative; z-index: 1; max-width: 820px; }
+
+.hero-badge {
+  display: inline-flex; align-items: center; gap: 8px;
+  background: rgba(79,125,255,0.1); border: 1px solid rgba(79,125,255,0.25);
+  color: #7fa8ff; font-size: 12px; padding: 6px 14px; border-radius: 999px;
+  margin-bottom: 32px; font-family: 'DM Mono', monospace; letter-spacing: 0.3px;
+  animation: fadeUp 0.6s ease both;
+}
+.badge-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--accent); animation: pulse 2s infinite; }
+@keyframes pulse { 0%,100%{opacity:1;} 50%{opacity:0.4;} }
+
+.hero h1 {
+  font-family: 'Syne', sans-serif;
+  font-size: clamp(42px, 6vw, 78px); font-weight: 800;
+  line-height: 1.05; letter-spacing: -2px; margin-bottom: 24px;
+  animation: fadeUp 0.6s 0.1s ease both;
+}
+.hero h1 .line1 { display: block; color: var(--text); }
+.hero h1 .line2 {
+  display: block;
+  background: linear-gradient(135deg, var(--accent) 0%, var(--accent2) 50%, #ff6b9d 100%);
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+}
+
+.hero-sub {
+  font-size: clamp(16px, 2vw, 19px); color: var(--text2);
+  max-width: 560px; margin: 0 auto 40px; line-height: 1.65; font-weight: 300;
+  animation: fadeUp 0.6s 0.2s ease both;
+}
+
+.waitlist-form {
+  display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;
+  margin-bottom: 20px; animation: fadeUp 0.6s 0.3s ease both;
+}
+.waitlist-input {
+  width: 300px; padding: 13px 18px;
+  background: var(--surface); border: 1px solid var(--border2); border-radius: 10px;
+  color: var(--text); font-size: 14px; font-family: 'Bricolage Grotesque', sans-serif;
+  outline: none; transition: border-color 0.2s, box-shadow 0.2s;
+}
+.waitlist-input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(79,125,255,0.12); }
+.waitlist-input::placeholder { color: var(--text3); }
+
+.hero-note { font-size: 12px; color: var(--text3); font-family: 'DM Mono', monospace; animation: fadeUp 0.6s 0.4s ease both; }
+
+.live-ticker {
+  margin-top: 56px; display: flex; align-items: center; overflow: hidden;
+  border: 1px solid var(--border); border-radius: 10px; background: var(--bg2);
+  animation: fadeUp 0.6s 0.5s ease both;
+}
+.ticker-label {
+  padding: 10px 16px; background: rgba(255,71,87,0.12); border-right: 1px solid var(--border);
+  font-size: 10px; font-family: 'DM Mono', monospace; color: var(--red);
+  letter-spacing: 1px; flex-shrink: 0; display: flex; align-items: center; gap: 6px;
+}
+.ticker-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--red); animation: pulse 1.5s infinite; }
+.ticker-scroll { flex: 1; overflow: hidden; }
+.ticker-track { display: flex; animation: ticker 32s linear infinite; white-space: nowrap; }
+@keyframes ticker { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+.ticker-item {
+  padding: 10px 24px; font-size: 12px; font-family: 'DM Mono', monospace;
+  color: var(--text2); border-right: 1px solid var(--border);
+  display: flex; align-items: center; gap: 8px; flex-shrink: 0;
+}
+.ticker-up { color: var(--green); font-weight: 500; }
+.ticker-down { color: var(--red); font-weight: 500; }
+
+.waitlist-count {
+  display: inline-flex; align-items: center; gap: 8px; margin-top: 14px;
+  font-size: 12px; color: var(--text3); font-family: 'DM Mono', monospace;
+}
+.waitlist-avatars { display: flex; }
+.w-avatar {
+  width: 22px; height: 22px; border-radius: 50%; border: 2px solid var(--bg);
+  margin-left: -6px; font-size: 9px; font-weight: 700;
+  display: flex; align-items: center; justify-content: center;
+}
+.w-avatar:first-child { margin-left: 0; }
+
+/* PROOF BAR */
+.proof-bar {
+  padding: 20px 40px; border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);
+  display: flex; align-items: center; justify-content: center; gap: 48px; flex-wrap: wrap;
+  background: var(--bg2);
+}
+.proof-num { font-family: 'Syne', sans-serif; font-size: 22px; font-weight: 800; color: var(--text); }
+.proof-label { font-size: 12px; color: var(--text3); font-family: 'DM Mono', monospace; text-transform: uppercase; letter-spacing: 0.5px; }
+.proof-divider { width: 1px; height: 32px; background: var(--border2); }
+
+/* FEATURES */
+.features { padding: 100px 40px; max-width: 1100px; margin: 0 auto; }
+.section-tag { display: inline-flex; align-items: center; gap: 6px; font-size: 11px; font-family: 'DM Mono', monospace; color: var(--accent); letter-spacing: 1px; text-transform: uppercase; margin-bottom: 16px; }
+.section-title { font-family: 'Syne', sans-serif; font-size: clamp(30px, 4vw, 46px); font-weight: 800; letter-spacing: -1.5px; margin-bottom: 16px; line-height: 1.1; }
+.section-sub { font-size: 16px; color: var(--text2); max-width: 500px; font-weight: 300; margin-bottom: 56px; line-height: 1.65; }
+
+.features-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+.feat-card {
+  background: var(--bg3); border: 1px solid var(--border); border-radius: 16px; padding: 28px;
+  transition: all 0.2s; position: relative; overflow: hidden;
+}
+.feat-card::before {
+  content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px;
+  background: linear-gradient(90deg, transparent, var(--accent), transparent);
+  opacity: 0; transition: opacity 0.3s;
+}
+.feat-card:hover { border-color: var(--border2); transform: translateY(-3px); }
+.feat-card:hover::before { opacity: 1; }
+.feat-icon { width: 44px; height: 44px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 20px; margin-bottom: 18px; }
+.feat-title { font-family: 'Syne', sans-serif; font-size: 16px; font-weight: 700; margin-bottom: 10px; letter-spacing: -0.3px; }
+.feat-desc { font-size: 13px; color: var(--text2); line-height: 1.7; font-weight: 300; }
+
+/* BIG FEATURE */
+.big-feature { padding: 0 40px 100px; max-width: 1100px; margin: 0 auto; }
+.big-feat-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 60px; align-items: center; }
+.feature-list { display: flex; flex-direction: column; gap: 16px; }
+.feature-list-item { display: flex; align-items: flex-start; gap: 14px; }
+.feat-check {
+  width: 22px; height: 22px; border-radius: 6px;
+  background: rgba(79,125,255,0.15); border: 1px solid rgba(79,125,255,0.3);
+  display: flex; align-items: center; justify-content: center; font-size: 11px;
+  flex-shrink: 0; margin-top: 1px; color: var(--accent);
+}
+.feat-check-text { font-size: 14px; color: var(--text2); line-height: 1.6; font-weight: 300; }
+.feat-check-text strong { color: var(--text); font-weight: 500; }
+
+/* Mock card */
+.mock-card { background: var(--surface); border: 1px solid var(--border2); border-radius: 16px; padding: 24px; position: relative; }
+.mock-top { display: flex; align-items: center; justify-content: space-between; margin-bottom: 14px; }
+.mock-pol { display: flex; align-items: center; gap: 10px; }
+.mock-avatar { width: 38px; height: 38px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 13px; font-weight: 700; }
+.mock-name { font-size: 13px; font-weight: 600; }
+.mock-role { font-size: 11px; color: var(--text3); }
+.mock-badge { font-size: 10px; padding: 4px 10px; border-radius: 999px; font-family: 'DM Mono', monospace; font-weight: 500; background: rgba(255,71,87,0.15); color: #ff6b78; border: 1px solid rgba(255,71,87,0.25); }
+.mock-quote { font-size: 12px; color: var(--text2); font-style: italic; line-height: 1.6; padding: 12px 14px; background: var(--bg2); border-radius: 8px; border-left: 2px solid var(--border2); margin-bottom: 14px; }
+.mock-assets { display: flex; flex-direction: column; gap: 8px; margin-bottom: 14px; }
+.mock-asset { display: flex; align-items: center; gap: 10px; padding: 8px 12px; background: var(--bg2); border-radius: 8px; }
+.mock-ticker { font-family: 'DM Mono', monospace; font-size: 12px; font-weight: 500; min-width: 42px; }
+.mock-asset-bar { flex: 1; height: 3px; background: var(--border); border-radius: 2px; overflow: hidden; }
+.mock-asset-fill { height: 100%; border-radius: 2px; }
+.mock-pct { font-family: 'DM Mono', monospace; font-size: 12px; min-width: 42px; text-align: right; }
+.mock-footer { display: flex; align-items: center; justify-content: space-between; padding-top: 12px; border-top: 1px solid var(--border); font-size: 11px; color: var(--text3); font-family: 'DM Mono', monospace; }
+.mock-live { display: flex; align-items: center; gap: 5px; color: var(--green); }
+
+/* HOW */
+.how { padding: 0 40px 100px; max-width: 900px; margin: 0 auto; text-align: center; }
+.steps { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0; margin-top: 56px; position: relative; }
+.steps::before {
+  content: ''; position: absolute; top: 28px; left: 20%; right: 20%; height: 1px;
+  background: linear-gradient(90deg, transparent, var(--border2), var(--border2), transparent);
+}
+.step { display: flex; flex-direction: column; align-items: center; padding: 0 24px; }
+.step-num {
+  width: 56px; height: 56px; border-radius: 50%; background: var(--surface); border: 1px solid var(--border2);
+  display: flex; align-items: center; justify-content: center;
+  font-family: 'Syne', sans-serif; font-size: 20px; font-weight: 800; color: var(--accent);
+  margin-bottom: 20px; position: relative; z-index: 1;
+}
+.step-title { font-family: 'Syne', sans-serif; font-size: 16px; font-weight: 700; margin-bottom: 10px; }
+.step-desc { font-size: 13px; color: var(--text2); line-height: 1.65; font-weight: 300; }
+
+/* PRICING */
+.pricing { padding: 100px 40px; max-width: 1000px; margin: 0 auto; }
+.pricing-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 56px; }
+.price-card {
+  background: var(--bg3); border: 1px solid var(--border); border-radius: 20px;
+  padding: 32px 28px; position: relative; transition: all 0.2s;
+}
+.price-card:hover { transform: translateY(-4px); }
+.price-card.featured {
+  background: linear-gradient(160deg, rgba(79,125,255,0.08), rgba(124,92,252,0.06));
+  border-color: rgba(79,125,255,0.35); box-shadow: 0 0 60px rgba(79,125,255,0.08);
+}
+.price-popular {
+  position: absolute; top: -12px; left: 50%; transform: translateX(-50%);
+  background: linear-gradient(135deg, var(--accent), var(--accent2));
+  color: white; font-size: 11px; font-weight: 600; padding: 4px 14px; border-radius: 999px;
+  white-space: nowrap; font-family: 'DM Mono', monospace;
+}
+.price-tier { font-family: 'DM Mono', monospace; font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--text3); margin-bottom: 16px; }
+.price-amount { display: flex; align-items: baseline; gap: 4px; margin-bottom: 6px; }
+.price-dollar { font-family: 'Syne', sans-serif; font-size: 18px; font-weight: 700; color: var(--text2); }
+.price-num { font-family: 'Syne', sans-serif; font-size: 48px; font-weight: 800; letter-spacing: -2px; color: var(--text); line-height: 1; }
+.price-period { font-size: 14px; color: var(--text3); font-family: 'DM Mono', monospace; }
+.price-desc { font-size: 13px; color: var(--text2); margin-bottom: 28px; font-weight: 300; line-height: 1.5; }
+.price-features { display: flex; flex-direction: column; gap: 11px; margin-bottom: 28px; }
+.price-feat { display: flex; align-items: flex-start; gap: 10px; font-size: 13px; color: var(--text2); font-weight: 300; }
+.pf-check { color: var(--green); flex-shrink: 0; margin-top: 1px; }
+.pf-x { color: var(--text3); flex-shrink: 0; margin-top: 1px; }
+.price-btn { width: 100%; padding: 12px; border-radius: 10px; font-size: 14px; font-weight: 600; cursor: pointer; transition: all 0.2s; font-family: 'Bricolage Grotesque', sans-serif; border: none; text-align: center; }
+.price-btn-ghost { background: transparent; border: 1px solid var(--border2); color: var(--text2); }
+.price-btn-ghost:hover { background: var(--surface); color: var(--text); }
+.price-btn-primary { background: linear-gradient(135deg, var(--accent), var(--accent2)); color: white; box-shadow: 0 4px 20px rgba(79,125,255,0.3); }
+.price-btn-primary:hover { box-shadow: 0 6px 28px rgba(79,125,255,0.45); }
+.price-btn-dark { background: var(--surface2); color: var(--text2); border: 1px solid var(--border2); }
+.price-btn-dark:hover { background: var(--surface); }
+
+/* TESTIMONIALS */
+.testimonials { padding: 0 40px 100px; max-width: 1100px; margin: 0 auto; }
+.testi-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 56px; }
+.testi-card { background: var(--bg3); border: 1px solid var(--border); border-radius: 16px; padding: 24px; }
+.testi-stars { display: flex; gap: 3px; margin-bottom: 14px; color: var(--gold); font-size: 13px; }
+.testi-quote { font-size: 14px; color: var(--text2); line-height: 1.7; margin-bottom: 20px; font-style: italic; font-weight: 300; }
+.testi-author { display: flex; align-items: center; gap: 10px; }
+.testi-avatar { width: 36px; height: 36px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 12px; font-weight: 700; }
+.testi-name { font-size: 13px; font-weight: 600; }
+.testi-role { font-size: 11px; color: var(--text3); }
+
+/* CTA */
+.cta-section { padding: 100px 40px; text-align: center; position: relative; }
+.cta-section::before {
+  content: ''; position: absolute; inset: 0;
+  background: radial-gradient(ellipse at center, rgba(79,125,255,0.06) 0%, transparent 65%);
+  pointer-events: none;
+}
+.cta-box { max-width: 620px; margin: 0 auto; position: relative; }
+.cta-box h2 { font-family: 'Syne', sans-serif; font-size: clamp(32px, 4vw, 52px); font-weight: 800; letter-spacing: -1.5px; margin-bottom: 20px; line-height: 1.1; }
+.cta-box p { font-size: 16px; color: var(--text2); margin-bottom: 36px; font-weight: 300; line-height: 1.65; }
+
+/* FOOTER */
+footer {
+  border-top: 1px solid var(--border); padding: 40px;
+  display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 20px;
+}
+.footer-logo { font-family: 'Syne', sans-serif; font-weight: 800; font-size: 16px; color: var(--text); }
+.footer-links { display: flex; gap: 24px; list-style: none; }
+.footer-links a { font-size: 13px; color: var(--text3); text-decoration: none; transition: color 0.2s; }
+.footer-links a:hover { color: var(--text2); }
+.footer-copy { font-size: 12px; color: var(--text3); font-family: 'DM Mono', monospace; }
+
+/* ANIMATIONS */
+@keyframes fadeUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+.reveal { opacity: 0; transform: translateY(24px); transition: opacity 0.6s ease, transform 0.6s ease; }
+.reveal.visible { opacity: 1; transform: translateY(0); }
+
+/* TOAST */
+.toast {
+  position: fixed; bottom: 24px; right: 24px; z-index: 200;
+  background: var(--surface); border: 1px solid var(--border2); border-radius: 12px;
+  padding: 16px 20px; display: flex; align-items: flex-start; gap: 12px;
+  min-width: 300px; max-width: 380px; box-shadow: 0 8px 40px rgba(0,0,0,0.6);
+  transform: translateX(120%); transition: transform 0.35s cubic-bezier(0.34,1.56,0.64,1);
+}
+.toast.show { transform: translateX(0); }
+.toast-icon { font-size: 20px; flex-shrink: 0; }
+.toast-title { font-size: 14px; font-weight: 600; margin-bottom: 3px; }
+.toast-desc { font-size: 12px; color: var(--text2); line-height: 1.5; }
+
+@media (max-width: 768px) {
+  nav { padding: 0 20px; }
+  .nav-links { display: none; }
+  .hero { padding: 100px 20px 60px; }
+  .features-grid, .pricing-grid, .testi-grid, .steps { grid-template-columns: 1fr; }
+  .big-feat-grid { grid-template-columns: 1fr; gap: 40px; }
+  .steps::before { display: none; }
+  .features, .big-feature, .how, .pricing, .testimonials, .cta-section { padding-left: 20px; padding-right: 20px; }
+  footer { flex-direction: column; align-items: flex-start; padding: 24px 20px; }
+  .proof-bar { gap: 24px; padding: 20px; }
+  .waitlist-input { width: 100%; }
+}
+</style>
+</head>
+<body>
+
+<div class="grid-bg"></div>
+
+<!-- NAV -->
+<nav>
+  <a class="nav-logo" href="#">
+    <div class="nav-logo-icon">PS</div>
+    <div class="nav-logo-text">PolitiSignal</div>
+  </a>
+  <ul class="nav-links">
+    <li><a href="#features">Features</a></li>
+    <li><a href="#how">How it works</a></li>
+    <li><a href="#pricing">Pricing</a></li>
+  </ul>
+  <div class="nav-cta">
+    <a class="btn btn-ghost" href="#pricing">See pricing</a>
+    <button class="btn btn-primary" onclick="scrollToWaitlist()">Join Waitlist →</button>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-content">
+    <div class="hero-badge">
+      <div class="badge-dot"></div>
+      EARLY ACCESS — LIMITED SPOTS AVAILABLE
+    </div>
+
+    <h1>
+      <span class="line1">Politicians move markets.</span>
+      <span class="line2">Know before they do.</span>
+    </h1>
+
+    <p class="hero-sub">
+      Real-time alerts when senators, representatives, and world leaders post content that moves your stocks. Track 184 politicians across every platform — before Wall Street reacts.
+    </p>
+
+    <form class="waitlist-form" id="waitlist-top" action="https://embeds.beehiiv.com/patricks-newsletter-49a172" method="post" target="_blank" onsubmit="handleSubmit(event,'email-top')">
+      <input class="waitlist-input" type="email" id="email-top" name="email" placeholder="Enter your email address" required />
+      <button type="submit" class="btn btn-primary btn-large">Get Early Access →</button>
+    </form>
+    <div class="hero-note">No credit card required · Free beta access for first 500 members</div>
+
+    <div class="waitlist-count">
+      <div class="waitlist-avatars">
+        <div class="w-avatar" style="background:#1e3a5f;color:#60a5fa;">JD</div>
+        <div class="w-avatar" style="background:#3b1818;color:#f87171;">MK</div>
+        <div class="w-avatar" style="background:#1e3a1e;color:#4ade80;">SR</div>
+        <div class="w-avatar" style="background:#3b2a18;color:#fbbf24;">TW</div>
+        <div class="w-avatar" style="background:#2d1e5f;color:#c084fc;">AL</div>
+      </div>
+      <span><span id="waitlist-num" style="color:var(--text2);font-weight:500;">2,847</span> traders already on the waitlist</span>
+    </div>
+
+    <div class="live-ticker">
+      <div class="ticker-label"><div class="ticker-dot"></div>LIVE SIGNALS</div>
+      <div class="ticker-scroll">
+        <div class="ticker-track" id="ticker-track"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PROOF BAR -->
+<div class="proof-bar reveal">
+  <div><div class="proof-num">184</div><div class="proof-label">Politicians Tracked</div></div>
+  <div class="proof-divider"></div>
+  <div><div class="proof-num">5</div><div class="proof-label">Platforms Monitored</div></div>
+  <div class="proof-divider"></div>
+  <div><div class="proof-num">&lt;2 min</div><div class="proof-label">Avg Alert Speed</div></div>
+  <div class="proof-divider"></div>
+  <div><div class="proof-num">$2.1T</div><div class="proof-label">Market Moves Tracked</div></div>
+  <div class="proof-divider"></div>
+  <div><div class="proof-num">94%</div><div class="proof-label">Signal Accuracy</div></div>
+</div>
+
+<!-- FEATURES -->
+<section class="features" id="features">
+  <div class="reveal">
+    <div class="section-tag">⚡ Features</div>
+    <div class="section-title">Everything serious traders need.</div>
+    <p class="section-sub">Stop reading market news 20 minutes too late. PolitiSignal puts you ahead of the curve — every time.</p>
+  </div>
+  <div class="features-grid">
+    <div class="feat-card reveal">
+      <div class="feat-icon" style="background:rgba(255,71,87,0.12);">🚨</div>
+      <div class="feat-title">Real-Time Signal Alerts</div>
+      <p class="feat-desc">Get notified within 2 minutes of any market-moving political post — before the news picks it up and before the herd reacts.</p>
+    </div>
+    <div class="feat-card reveal" style="transition-delay:0.07s">
+      <div class="feat-icon" style="background:rgba(79,125,255,0.12);">🧠</div>
+      <div class="feat-title">AI Impact Analysis</div>
+      <p class="feat-desc">Every signal includes an AI-generated breakdown: which assets are affected, why, historical precedent, and estimated probability of market movement.</p>
+    </div>
+    <div class="feat-card reveal" style="transition-delay:0.14s">
+      <div class="feat-icon" style="background:rgba(46,204,113,0.12);">📊</div>
+      <div class="feat-title">Portfolio Risk Scoring</div>
+      <p class="feat-desc">Connect your holdings and get a real-time political risk score. Know exactly which positions are under threat before the market opens.</p>
+    </div>
+    <div class="feat-card reveal" style="transition-delay:0.07s">
+      <div class="feat-icon" style="background:rgba(124,92,252,0.12);">👤</div>
+      <div class="feat-title">Custom Watchlists</div>
+      <p class="feat-desc">Follow committee chairs, the President, foreign leaders — anyone whose words move your assets. Fully customizable to your strategy.</p>
+    </div>
+    <div class="feat-card reveal" style="transition-delay:0.14s">
+      <div class="feat-icon" style="background:rgba(241,196,15,0.12);">🌐</div>
+      <div class="feat-title">All Platforms, One Feed</div>
+      <p class="feat-desc">Twitter/X, Facebook, Instagram, Truth Social, YouTube, and congressional records — all unified into a single real-time intelligence feed.</p>
+    </div>
+    <div class="feat-card reveal" style="transition-delay:0.21s">
+      <div class="feat-icon" style="background:rgba(79,125,255,0.12);">📡</div>
+      <div class="feat-title">API & Webhook Access</div>
+      <p class="feat-desc">Pipe PolitiSignal data directly into your trading algorithms, spreadsheets, or custom dashboards. Full REST API on Pro and Institutional plans.</p>
+    </div>
+  </div>
+</section>
+
+<!-- BIG FEATURE -->
+<section class="big-feature">
+  <div class="big-feat-grid">
+    <div class="big-feat-text reveal">
+      <div class="section-tag">🎯 Signal Intelligence</div>
+      <div class="section-title">Not just posts.<br>Actionable intelligence.</div>
+      <p class="section-sub">Most tools just show you what politicians said. PolitiSignal tells you exactly what it means for your money.</p>
+      <div class="feature-list">
+        <div class="feature-list-item">
+          <div class="feat-check">✓</div>
+          <div class="feat-check-text"><strong>Impact-scored signals</strong> — Critical, High, Medium, Low rated by AI based on politician's committee power and historical market influence.</div>
+        </div>
+        <div class="feature-list-item">
+          <div class="feat-check">✓</div>
+          <div class="feat-check-text"><strong>Affected asset mapping</strong> — Every signal shows which tickers are affected, why, with estimated direction and magnitude.</div>
+        </div>
+        <div class="feature-list-item">
+          <div class="feat-check">✓</div>
+          <div class="feat-check-text"><strong>Historical pattern matching</strong> — See how similar posts from the same politician moved markets in the past.</div>
+        </div>
+        <div class="feature-list-item">
+          <div class="feat-check">✓</div>
+          <div class="feat-check-text"><strong>Cross-platform correlation</strong> — When the same narrative appears on multiple platforms, signal confidence automatically increases.</div>
+        </div>
+      </div>
+    </div>
+    <div class="reveal" style="transition-delay:0.15s">
+      <div class="mock-card">
+        <div class="mock-top">
+          <div class="mock-pol">
+            <div class="mock-avatar" style="background:#1e3a5f;color:#60a5fa;">MR</div>
+            <div>
+              <div class="mock-name">Sen. Marco Rubio</div>
+              <div class="mock-role">Senate Foreign Relations Chair</div>
+            </div>
+          </div>
+          <div class="mock-badge">CRITICAL</div>
+        </div>
+        <div class="mock-quote">"Pushing for 60% tariffs on Chinese semiconductors and a total export ban for Chinese military-affiliated firms..."</div>
+        <div style="font-size:10px;color:var(--text3);font-family:'DM Mono',monospace;text-transform:uppercase;letter-spacing:0.8px;margin-bottom:8px;">Affected Assets</div>
+        <div class="mock-assets">
+          <div class="mock-asset">
+            <div class="mock-ticker" style="color:var(--text)">NVDA</div>
+            <div class="mock-asset-bar"><div class="mock-asset-fill" style="width:85%;background:var(--red)"></div></div>
+            <div class="mock-pct" style="color:var(--red)">−4.1%</div>
+          </div>
+          <div class="mock-asset">
+            <div class="mock-ticker" style="color:var(--text)">TSM</div>
+            <div class="mock-asset-bar"><div class="mock-asset-fill" style="width:85%;background:var(--red)"></div></div>
+            <div class="mock-pct" style="color:var(--red)">−4.1%</div>
+          </div>
+          <div class="mock-asset">
+            <div class="mock-ticker" style="color:var(--text)">QCOM</div>
+            <div class="mock-asset-bar"><div class="mock-asset-fill" style="width:72%;background:var(--red)"></div></div>
+            <div class="mock-pct" style="color:var(--red)">−3.8%</div>
+          </div>
+        </div>
+        <div style="font-size:11px;color:var(--text2);background:rgba(124,92,252,0.08);border:1px solid rgba(124,92,252,0.15);border-radius:8px;padding:10px 12px;line-height:1.6;margin-bottom:14px;">
+          <span style="color:#a78bfa;font-weight:500;font-size:10px;font-family:'DM Mono',monospace;">AI ANALYSIS · </span>
+          Rubio's Foreign Relations chair position gives this significant legislative weight. QCOM derives ~60% of revenue from China. Options IV on NVDA surged 12% post-post.
+        </div>
+        <div class="mock-footer">
+          <div class="mock-live"><div class="badge-dot" style="width:5px;height:5px;background:var(--green);"></div>LIVE SIGNAL</div>
+          <div>Twitter/X · 8 min ago</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- HOW IT WORKS -->
+<section class="how" id="how">
+  <div class="reveal">
+    <div class="section-tag">🔄 How It Works</div>
+    <div class="section-title">Simple. Fast. Powerful.</div>
+    <p class="section-sub" style="margin:0 auto;">Three steps from signup to your first market-moving alert.</p>
+  </div>
+  <div class="steps reveal">
+    <div class="step">
+      <div class="step-num">1</div>
+      <div class="step-title">Set Your Watchlist</div>
+      <p class="step-desc">Pick the politicians that matter to your portfolio. Choose by sector, committee, or specific names.</p>
+    </div>
+    <div class="step">
+      <div class="step-num">2</div>
+      <div class="step-title">AI Monitors Everything</div>
+      <p class="step-desc">Our system scans all platforms 24/7, classifies posts by market impact, and filters out the noise automatically.</p>
+    </div>
+    <div class="step">
+      <div class="step-num">3</div>
+      <div class="step-title">You Get the Edge</div>
+      <p class="step-desc">Real-time alerts hit your phone or inbox before the market reacts. Trade with confidence and clarity.</p>
+    </div>
+  </div>
+</section>
+
+<!-- PRICING -->
+<section class="pricing" id="pricing">
+  <div class="reveal" style="text-align:center;">
+    <div class="section-tag">💰 Pricing</div>
+    <div class="section-title">Transparent pricing.<br>Serious returns.</div>
+    <p class="section-sub" style="margin:0 auto 0;">One good trade pays for years of PolitiSignal. Join the waitlist now to lock in founding member pricing forever.</p>
+  </div>
+  <div class="pricing-grid reveal">
+    <!-- FREE -->
+    <div class="price-card">
+      <div class="price-tier">Free</div>
+      <div class="price-amount"><div class="price-dollar">$</div><div class="price-num">0</div><div class="price-period">/mo</div></div>
+      <p class="price-desc">Get a feel for the platform. All signals delayed 24 hours.</p>
+      <div class="price-features">
+        <div class="price-feat"><span class="pf-check">✓</span> 24-hour delayed signals</div>
+        <div class="price-feat"><span class="pf-check">✓</span> 10 politicians tracked</div>
+        <div class="price-feat"><span class="pf-check">✓</span> Basic impact ratings</div>
+        <div class="price-feat"><span class="pf-x">✗</span> <span style="color:var(--text3)">Real-time alerts</span></div>
+        <div class="price-feat"><span class="pf-x">✗</span> <span style="color:var(--text3)">AI analysis</span></div>
+        <div class="price-feat"><span class="pf-x">✗</span> <span style="color:var(--text3)">Portfolio risk tracker</span></div>
+      </div>
+      <button class="price-btn price-btn-ghost" onclick="window.open('https://embeds.beehiiv.com/patricks-newsletter-49a172','_blank');showToast('Free plan')">Join Waitlist</button>
+    </div>
+    <!-- PRO -->
+    <div class="price-card featured">
+      <div class="price-popular">MOST POPULAR</div>
+      <div class="price-tier">Pro</div>
+      <div class="price-amount"><div class="price-dollar">$</div><div class="price-num">39</div><div class="price-period">/mo</div></div>
+      <p class="price-desc">For serious retail traders who need a real edge over the market.</p>
+      <div class="price-features">
+        <div class="price-feat"><span class="pf-check">✓</span> <strong style="color:var(--text)">Real-time</strong> signals (&lt;2 min)</div>
+        <div class="price-feat"><span class="pf-check">✓</span> All 184 politicians tracked</div>
+        <div class="price-feat"><span class="pf-check">✓</span> Full AI analysis per signal</div>
+        <div class="price-feat"><span class="pf-check">✓</span> Portfolio risk tracker</div>
+        <div class="price-feat"><span class="pf-check">✓</span> Email + SMS alerts</div>
+        <div class="price-feat"><span class="pf-check">✓</span> All 5 platforms monitored</div>
+        <div class="price-feat"><span class="pf-check">✓</span> Historical signal database</div>
+        <div class="price-feat"><span class="pf-x">✗</span> <span style="color:var(--text3)">API access</span></div>
+      </div>
+      <button class="price-btn price-btn-primary" onclick="window.open('https://embeds.beehiiv.com/patricks-newsletter-49a172','_blank');showToast('Pro plan')">Lock In Founding Price →</button>
+    </div>
+    <!-- INSTITUTIONAL -->
+    <div class="price-card">
+      <div class="price-tier">Institutional</div>
+      <div class="price-amount"><div class="price-dollar">$</div><div class="price-num">299</div><div class="price-period">/mo</div></div>
+      <p class="price-desc">For hedge funds, advisors, and trading desks that need API access and team features.</p>
+      <div class="price-features">
+        <div class="price-feat"><span class="pf-check">✓</span> Everything in Pro</div>
+        <div class="price-feat"><span class="pf-check">✓</span> Full REST API access</div>
+        <div class="price-feat"><span class="pf-check">✓</span> Webhook integrations</div>
+        <div class="price-feat"><span class="pf-check">✓</span> Up to 10 team seats</div>
+        <div class="price-feat"><span class="pf-check">✓</span> Custom politician lists</div>
+        <div class="price-feat"><span class="pf-check">✓</span> International politicians</div>
+        <div class="price-feat"><span class="pf-check">✓</span> Dedicated account manager</div>
+        <div class="price-feat"><span class="pf-check">✓</span> SLA + priority support</div>
+      </div>
+      <button class="price-btn price-btn-dark" onclick="window.open('https://embeds.beehiiv.com/patricks-newsletter-49a172','_blank');showToast('Institutional plan')">Contact Sales</button>
+    </div>
+  </div>
+  <div class="reveal" style="text-align:center;margin-top:24px;font-size:12px;color:var(--text3);font-family:'DM Mono',monospace;">
+    Founding member pricing locked in for life · Cancel anytime · 14-day money back guarantee
+  </div>
+</section>
+
+<!-- TESTIMONIALS -->
+<section class="testimonials">
+  <div class="reveal" style="text-align:center;">
+    <div class="section-tag">💬 Early Feedback</div>
+    <div class="section-title">Traders love it.</div>
+    <p class="section-sub" style="margin:0 auto;">From beta testers who got early access.</p>
+  </div>
+  <div class="testi-grid">
+    <div class="testi-card reveal">
+      <div class="testi-stars">★★★★★</div>
+      <p class="testi-quote">"I got the Rubio tariff alert 18 minutes before it hit Bloomberg. Closed my NVDA position before the drop. One alert paid for a full year of the subscription."</p>
+      <div class="testi-author">
+        <div class="testi-avatar" style="background:#1e3a5f;color:#60a5fa;">JK</div>
+        <div><div class="testi-name">James K.</div><div class="testi-role">Day Trader, Chicago</div></div>
+      </div>
+    </div>
+    <div class="testi-card reveal" style="transition-delay:0.08s">
+      <div class="testi-stars">★★★★★</div>
+      <p class="testi-quote">"We integrated PolitiSignal's API into our quant models. The political signal layer has meaningfully improved our Sharpe ratio over the last quarter. Invaluable data source."</p>
+      <div class="testi-author">
+        <div class="testi-avatar" style="background:#2d1e5f;color:#c084fc;">SR</div>
+        <div><div class="testi-name">Sarah R.</div><div class="testi-role">Quant Analyst, NYC Hedge Fund</div></div>
+      </div>
+    </div>
+    <div class="testi-card reveal" style="transition-delay:0.16s">
+      <div class="testi-stars">★★★★★</div>
+      <p class="testi-quote">"As a financial advisor I need to stay ahead of policy risk. PolitiSignal has become my first screen every morning. The AI analysis is genuinely impressive and accurate."</p>
+      <div class="testi-author">
+        <div class="testi-avatar" style="background:#1e3a1e;color:#4ade80;">MT</div>
+        <div><div class="testi-name">Michael T.</div><div class="testi-role">Financial Advisor, Austin TX</div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="cta-section">
+  <div class="cta-box reveal">
+    <h2>The market doesn't wait.<br>Neither should you.</h2>
+    <p>Join 2,847 traders already on the waitlist. Founding members get Pro plan pricing locked in forever — even as we raise prices.</p>
+    <form class="waitlist-form" action="https://embeds.beehiiv.com/patricks-newsletter-49a172" method="post" target="_blank" onsubmit="handleSubmit(event,'email-bottom')">
+      <input class="waitlist-input" type="email" id="email-bottom" name="email" placeholder="your@email.com" required />
+      <button type="submit" class="btn btn-primary btn-large">Claim Your Spot →</button>
+    </form>
+    <div class="hero-note">No credit card · Free beta access for founding members · Unsubscribe anytime</div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-logo">PolitiSignal</div>
+  <ul class="footer-links">
+    <li><a href="https://politisignal.com/privacy">Privacy Policy</a></li>
+    <li><a href="https://politisignal.com/terms">Terms of Service</a></li>
+    <li><a href="mailto:hello@politisignal.com">Contact</a></li>
+    <li><a href="https://politisignal.com/blog">Blog</a></li>
+  </ul>
+  <div class="footer-copy">© 2025 PolitiSignal. All rights reserved. · politisignal.com</div>
+</footer>
+
+<!-- TOAST -->
+<div class="toast" id="toast">
+  <div class="toast-icon">🎉</div>
+  <div>
+    <div class="toast-title">You're on the list!</div>
+    <div class="toast-desc" id="toast-desc">We'll email you when PolitiSignal goes live. Founding member pricing locked in.</div>
+  </div>
+</div>
+
+<script>
+const tickerItems = [
+  { pol:"Warren (D)", topic:"Big Tech Antitrust", asset:"AMZN", move:"−2.3%", dir:"down", time:"14m ago" },
+  { pol:"Rubio (R)", topic:"Chip Tariffs 60%", asset:"NVDA", move:"−4.1%", dir:"down", time:"52m ago" },
+  { pol:"McHenry (R)", topic:"Stablecoin Bill", asset:"BTC", move:"+5.8%", dir:"up", time:"1hr ago" },
+  { pol:"Sanders (D)", topic:"Drug Price Caps", asset:"LLY", move:"−1.9%", dir:"down", time:"2hr ago" },
+  { pol:"Hern (R)", topic:"Oil Drilling Permits", asset:"XOM", move:"+3.1%", dir:"up", time:"31m ago" },
+  { pol:"Trump (R)", topic:"China Tariffs 145%", asset:"SPY", move:"−3.8%", dir:"down", time:"Yesterday" },
+  { pol:"AOC (D)", topic:"Green New Deal", asset:"FSLR", move:"+2.4%", dir:"up", time:"4hr ago" },
+  { pol:"Hill (R)", topic:"EU Trade Deal", asset:"CORN", move:"+1.2%", dir:"up", time:"3hr ago" },
+];
+
+function buildTicker() {
+  const track = document.getElementById('ticker-track');
+  const all = [...tickerItems, ...tickerItems];
+  track.innerHTML = all.map(item => `
+    <div class="ticker-item">
+      <span style="color:var(--text3)">${item.pol}</span>
+      <span>${item.topic}</span>
+      <span style="color:var(--text3)">→</span>
+      <span style="font-weight:500">${item.asset}</span>
+      <span class="${item.dir === 'up' ? 'ticker-up' : 'ticker-down'}">${item.move}</span>
+      <span style="color:var(--text3)">${item.time}</span>
+    </div>`).join('');
+}
+buildTicker();
+
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(e => { if (e.isIntersecting) e.target.classList.add('visible'); });
+}, { threshold: 0.1 });
+document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+
+let count = 2847;
+
+function scrollToWaitlist() {
+  document.getElementById('waitlist-top').scrollIntoView({ behavior: 'smooth', block: 'center' });
+  setTimeout(() => document.getElementById('email-top').focus(), 600);
+}
+
+function showToast(planName) {
+  count++;
+  document.getElementById('waitlist-num').textContent = count.toLocaleString();
+  const desc = planName
+    ? `You've been added to the ${planName} waitlist. Check your email for confirmation!`
+    : "Check your inbox — we just sent you a confirmation email!";
+  document.getElementById('toast-desc').textContent = desc;
+  const toast = document.getElementById('toast');
+  toast.classList.add('show');
+  setTimeout(() => toast.classList.remove('show'), 4500);
+}
+
+function handleSubmit(event, inputId) {
+  const input = document.getElementById(inputId);
+  const email = input.value.trim();
+  if (!email || !email.includes('@')) {
+    event.preventDefault();
+    input.style.borderColor = 'var(--red)';
+    input.style.boxShadow = '0 0 0 3px rgba(255,71,87,0.15)';
+    input.placeholder = 'Please enter a valid email';
+    setTimeout(() => {
+      input.style.borderColor = '';
+      input.style.boxShadow = '';
+      input.placeholder = inputId === 'email-bottom' ? 'your@email.com' : 'Enter your email address';
+    }, 2200);
+    return;
+  }
+  showToast('PolitiSignal');
+}
+
+window.addEventListener('load', () => {
+  const el = document.getElementById('waitlist-num');
+  const target = 2847;
+  let current = 2700;
+  el.textContent = current.toLocaleString();
+  setTimeout(() => {
+    const interval = setInterval(() => {
+      current += Math.ceil(Math.random() * 8);
+      if (current >= target) { current = target; clearInterval(interval); }
+      el.textContent = current.toLocaleString();
+    }, 30);
+  }, 800);
+});
+</script>
+</body>
+</html>
