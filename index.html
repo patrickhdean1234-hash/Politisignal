@@ -16,7 +16,7 @@
 <meta name="twitter:description" content="Real-time alerts when politicians post content that moves your stocks. Track 184 politicians across every platform — before Wall Street reacts.">
 <meta name="twitter:site" content="@politisignal">
 <link rel="canonical" href="https://politisignal.com">
-<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='url(%23g)'/%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0' stop-color='%234f7dff'/%3E%3Cstop offset='1' stop-color='%237c5cfc'/%3E%3C/linearGradient%3E%3C/defs%3E%3Ctext x='16' y='22' font-family='Arial Black,sans-serif' font-weight='900' font-size='14' fill='white' text-anchor='middle'%3EPS%3C/text%3E%3C/svg%3E">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='url(%23g)'/%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0' stop-color='%234f7dff'/%3E%3Cstop offset='1' stop-color='%237c5cfc'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpolyline points='4,20 8,20 11,11 15,23 18,15 21,20 25,20 28,20' fill='none' stroke='white' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
 <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Mono:wght@300;400;500&family=Bricolage+Grotesque:opsz,wght@12..96,300;12..96,400;12..96,500;12..96,600&display=swap" rel="stylesheet">
 <style>
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
@@ -328,16 +328,38 @@ section { position: relative; z-index: 1; }
 .price-btn-dark { background: var(--surface2); color: var(--text2); border: 1px solid var(--border2); }
 .price-btn-dark:hover { background: var(--surface); }
 
-/* TESTIMONIALS */
-.testimonials { padding: 0 40px 100px; max-width: 1100px; margin: 0 auto; }
-.testi-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 56px; }
-.testi-card { background: var(--bg3); border: 1px solid var(--border); border-radius: 16px; padding: 24px; }
-.testi-stars { display: flex; gap: 3px; margin-bottom: 14px; color: var(--gold); font-size: 13px; }
-.testi-quote { font-size: 14px; color: var(--text2); line-height: 1.7; margin-bottom: 20px; font-style: italic; font-weight: 300; }
-.testi-author { display: flex; align-items: center; gap: 10px; }
-.testi-avatar { width: 36px; height: 36px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 12px; font-weight: 700; }
-.testi-name { font-size: 13px; font-weight: 600; }
-.testi-role { font-size: 11px; color: var(--text3); }
+/* VIDEO DEMO */
+.demo-section { padding: 0 40px 100px; max-width: 1000px; margin: 0 auto; text-align: center; }
+.video-wrapper {
+  margin-top: 48px; position: relative; border-radius: 20px; overflow: hidden;
+  border: 1px solid var(--border2); background: var(--bg3);
+  box-shadow: 0 24px 80px rgba(0,0,0,0.6), 0 0 0 1px rgba(79,125,255,0.08);
+}
+.video-wrapper iframe {
+  display: block; width: 100%; aspect-ratio: 16/9; border: none;
+}
+.video-placeholder {
+  aspect-ratio: 16/9; display: flex; flex-direction: column;
+  align-items: center; justify-content: center; gap: 20px;
+  background: linear-gradient(135deg, rgba(79,125,255,0.06), rgba(124,92,252,0.06));
+  position: relative;
+}
+.video-placeholder::before {
+  content: ''; position: absolute; inset: 0;
+  background-image: linear-gradient(rgba(79,125,255,0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(79,125,255,0.04) 1px, transparent 1px);
+  background-size: 40px 40px;
+}
+.play-btn {
+  width: 72px; height: 72px; border-radius: 50%;
+  background: linear-gradient(135deg, var(--accent), var(--accent2));
+  display: flex; align-items: center; justify-content: center;
+  box-shadow: 0 8px 32px rgba(79,125,255,0.4); position: relative; z-index: 1;
+  cursor: pointer; transition: transform 0.2s, box-shadow 0.2s;
+}
+.play-btn:hover { transform: scale(1.08); box-shadow: 0 12px 40px rgba(79,125,255,0.55); }
+.play-btn svg { margin-left: 4px; }
+.video-placeholder p { font-size: 14px; color: var(--text3); font-family: 'DM Mono', monospace; position: relative; z-index: 1; }
 
 /* CTA */
 .cta-section { padding: 100px 40px; text-align: center; position: relative; }
@@ -453,9 +475,7 @@ footer {
   .pricing-grid { grid-template-columns: 1fr; gap: 14px; }
   .price-card.featured { order: -1; }
 
-  .testimonials { padding: 0 20px 64px; }
-  .testi-grid { grid-template-columns: 1fr; gap: 12px; }
-
+  .demo-section { padding: 0 20px 64px; }
   .cta-section { padding: 64px 20px; }
   .cta-box h2 { letter-spacing: -1px; }
 
@@ -475,7 +495,11 @@ footer {
 <!-- NAV -->
 <nav>
   <a class="nav-logo" href="#">
-    <div class="nav-logo-icon">PS</div>
+    <div class="nav-logo-icon">
+      <svg width="18" height="18" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <polyline points="2,20 8,20 11,9 15,24 18,14 22,20 28,20 30,20" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </div>
     <div class="nav-logo-text">PolitiSignal</div>
   </a>
   <ul class="nav-links">
@@ -757,37 +781,19 @@ footer {
   </div>
 </section>
 
-<!-- TESTIMONIALS -->
-<section class="testimonials">
-  <div class="reveal" style="text-align:center;">
-    <div class="section-tag">💬 Early Feedback</div>
-    <div class="section-title">Traders love it.</div>
-    <p class="section-sub" style="margin:0 auto;">From beta testers who got early access.</p>
+<!-- VIDEO DEMO -->
+<section class="demo-section">
+  <div class="reveal">
+    <div class="section-tag">▶ Product Demo</div>
+    <div class="section-title">See it in action.</div>
+    <p class="section-sub" style="margin:0 auto;">Watch how PolitiSignal catches a market-moving political post and delivers an actionable signal in real time.</p>
   </div>
-  <div class="testi-grid">
-    <div class="testi-card reveal">
-      <div class="testi-stars">★★★★★</div>
-      <p class="testi-quote">"This is exactly what I've been looking for. I used to spend an hour every morning scanning politician tweets before the market opened. PolitiSignal does it for me in real time."</p>
-      <div class="testi-author">
-        <div class="testi-avatar" style="background:#1e3a5f;color:#60a5fa;">JK</div>
-        <div><div class="testi-name">James K.</div><div class="testi-role">Retail Trader · Beta Tester</div></div>
+  <div class="video-wrapper reveal">
+    <div class="video-placeholder" id="video-placeholder">
+      <div class="play-btn" onclick="loadVideo()">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="white"><polygon points="5,3 19,12 5,21"/></svg>
       </div>
-    </div>
-    <div class="testi-card reveal" style="transition-delay:0.08s">
-      <div class="testi-stars">★★★★★</div>
-      <p class="testi-quote">"The AI breakdown on each signal is what sets this apart. It doesn't just tell you what was posted — it tells you which tickers are exposed and why. That's genuinely useful."</p>
-      <div class="testi-author">
-        <div class="testi-avatar" style="background:#2d1e5f;color:#c084fc;">SR</div>
-        <div><div class="testi-name">Sarah R.</div><div class="testi-role">Options Trader · Beta Tester</div></div>
-      </div>
-    </div>
-    <div class="testi-card reveal" style="transition-delay:0.16s">
-      <div class="testi-stars">★★★★★</div>
-      <p class="testi-quote">"I've tried building my own political monitoring setup. It's a nightmare. Having this all in one clean feed — across every platform — is a massive time saver. Sign me up day one."</p>
-      <div class="testi-author">
-        <div class="testi-avatar" style="background:#1e3a1e;color:#4ade80;">MT</div>
-        <div><div class="testi-name">Michael T.</div><div class="testi-role">Swing Trader · Beta Tester</div></div>
-      </div>
+      <p>Demo video coming soon</p>
     </div>
   </div>
 </section>
@@ -900,6 +906,17 @@ function handleSubmit(event, inputId) {
       showToast('PolitiSignal');
     })
     .catch(() => showToast('PolitiSignal'));
+}
+
+function loadVideo() {
+  // Replace YOUR_VIDEO_ID with your YouTube video ID when ready
+  const videoId = 'YOUR_VIDEO_ID';
+  if (videoId === 'YOUR_VIDEO_ID') {
+    document.querySelector('#video-placeholder p').textContent = 'Video coming soon — check back shortly!';
+    return;
+  }
+  const wrapper = document.getElementById('video-placeholder');
+  wrapper.outerHTML = '<iframe src="https://www.youtube.com/embed/' + videoId + '?autoplay=1" allow="autoplay; fullscreen" allowfullscreen></iframe>';
 }
 
 function toggleMenu() {
