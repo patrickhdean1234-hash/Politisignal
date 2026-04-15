@@ -1,0 +1,37 @@
+name: Fetch Political Signals
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # every 10 minutes
+  workflow_dispatch:           # allow manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install feedparser requests
+
+      - name: Run fetcher
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python scripts/fetch_signals.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "politisignal-bot"
+          git config user.email "bot@politisignal.com"
+          git add data/signals.json
+          git diff --staged --quiet || git commit -m "chore: update signals $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git push

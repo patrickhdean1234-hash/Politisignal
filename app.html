@@ -353,12 +353,12 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
   <!-- STATS BAR -->
   <div class="stats-bar">
     <div class="stat-cell">
-      <div class="stat-num">247</div>
+      <div class="stat-num" id="stat-total">247</div>
       <div class="stat-label">Signals Today</div>
-      <div class="stat-delta">▲ +38 vs yesterday</div>
+      <div class="stat-delta" id="last-updated">Loading live data…</div>
     </div>
     <div class="stat-cell">
-      <div class="stat-num red">12</div>
+      <div class="stat-num red" id="stat-critical">12</div>
       <div class="stat-label">Critical Alerts</div>
       <div class="stat-delta" style="color:var(--text3)">3 in last hour</div>
     </div>
@@ -389,7 +389,7 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
         <button class="filter-pill" onclick="setFilter(this)">Pharma</button>
       </div>
 
-      <div class="feed-list">
+      <div class="feed-list" id="signal-feed">
 
         <!-- Warren -->
         <div class="signal-card critical">
@@ -705,10 +705,85 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
 </div>
 
 <script>
+// ── State ──────────────────────────────────────────────────────────────────
+let allSignals = [];
+let activeFilter = 'All';
+
+// ── Filter tabs ────────────────────────────────────────────────────────────
 function setFilter(el) {
   document.querySelectorAll('.filter-pill').forEach(p => p.classList.remove('active'));
   el.classList.add('active');
+  activeFilter = el.textContent.trim();
+  renderFeed();
 }
+
+// ── Render signal cards ────────────────────────────────────────────────────
+function renderFeed() {
+  const list = document.getElementById('signal-feed');
+  const filtered = activeFilter === 'All'
+    ? allSignals
+    : allSignals.filter(s =>
+        s.severity === activeFilter.toLowerCase() ||
+        s.tags.some(t => t.toLowerCase() === activeFilter.toLowerCase())
+      );
+
+  if (filtered.length === 0) {
+    list.innerHTML = '<div style="text-align:center;padding:48px;color:var(--text3);font-family:\'DM Mono\',monospace;font-size:13px;">No signals yet — fetching live data every 10 minutes.</div>';
+    return;
+  }
+
+  list.innerHTML = filtered.map(s => `
+    <div class="signal-card ${s.severity}" onclick="s.url && window.open(s.url,'_blank')">
+      <div class="signal-top">
+        <div class="signal-avatar" style="background:${s.color.bg};color:${s.color.fg};">${s.initials}</div>
+        <div class="signal-meta">
+          <div class="signal-name">${s.politician}</div>
+          <div class="signal-role">${s.role}</div>
+        </div>
+        <div class="signal-right">
+          <span class="severity-badge ${s.severity}">${s.severity.toUpperCase()}</span>
+          <div class="signal-platforms">
+            <span class="platform-dot">${s.platform}</span>
+          </div>
+        </div>
+      </div>
+      <div class="signal-quote">"${s.content.replace(/"/g, '&quot;')}"</div>
+      ${s.tags.length ? `<div class="signal-tags">${s.tags.map(t => `<span class="signal-tag">${t}</span>`).join('')}</div>` : ''}
+      <div class="signal-footer">
+        ${s.tickers.length ? `<span class="signal-ticker">${s.tickers[0]}</span>` : ''}
+        <span class="signal-time">${s.time_ago}</span>
+      </div>
+      ${s.tickers.length > 1 ? `<div class="signal-affected" style="margin-top:6px;">Affected: ${s.tickers.join(', ')}</div>` : ''}
+    </div>
+  `).join('');
+}
+
+// ── Update stats bar ────────────────────────────────────────────────────────
+function updateStats() {
+  const critical = allSignals.filter(s => s.severity === 'critical').length;
+  document.getElementById('stat-total').textContent = allSignals.length;
+  document.getElementById('stat-critical').textContent = critical;
+}
+
+// ── Load signals.json ────────────────────────────────────────────────────────
+async function loadSignals() {
+  try {
+    const r = await fetch('/data/signals.json?t=' + Date.now());
+    const data = await r.json();
+    if (Array.isArray(data) && data.length > 0) {
+      allSignals = data;
+      updateStats();
+      renderFeed();
+      document.getElementById('last-updated').textContent = 'Updated ' + new Date().toLocaleTimeString();
+    }
+  } catch (e) {
+    console.warn('Could not load signals.json, using demo data');
+  }
+}
+
+// ── Bootstrap ────────────────────────────────────────────────────────────────
+loadSignals();
+setInterval(loadSignals, 10 * 60 * 1000); // refresh every 10 min
 </script>
 </body>
 </html>
