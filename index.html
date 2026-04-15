@@ -430,7 +430,8 @@ footer {
       Real-time alerts when senators, representatives, and world leaders post content that moves your stocks. Track 184 politicians across every platform — before Wall Street reacts.
     </p>
 
-    <form class="waitlist-form" id="waitlist-top" action="https://embeds.beehiiv.com/patricks-newsletter-49a172" method="post" target="_blank" onsubmit="handleSubmit(event,'email-top')">
+    <form class="waitlist-form" id="waitlist-top" name="waitlist" netlify data-netlify="true" onsubmit="handleSubmit(event,'email-top')">
+      <input type="hidden" name="form-name" value="waitlist" />
       <input class="waitlist-input" type="email" id="email-top" name="email" placeholder="Enter your email address" required />
       <button type="submit" class="btn btn-primary btn-large">Get Early Access →</button>
     </form>
@@ -627,7 +628,7 @@ footer {
         <div class="price-feat"><span class="pf-x">✗</span> <span style="color:var(--text3)">AI analysis</span></div>
         <div class="price-feat"><span class="pf-x">✗</span> <span style="color:var(--text3)">Portfolio risk tracker</span></div>
       </div>
-      <button class="price-btn price-btn-ghost" onclick="window.open('https://embeds.beehiiv.com/patricks-newsletter-49a172','_blank');showToast('Free plan')">Join Waitlist</button>
+      <button class="price-btn price-btn-ghost" onclick="scrollToWaitlist()">Join Waitlist</button>
     </div>
     <!-- PRO -->
     <div class="price-card featured">
@@ -645,7 +646,7 @@ footer {
         <div class="price-feat"><span class="pf-check">✓</span> Historical signal database</div>
         <div class="price-feat"><span class="pf-x">✗</span> <span style="color:var(--text3)">API access</span></div>
       </div>
-      <button class="price-btn price-btn-primary" onclick="window.open('https://embeds.beehiiv.com/patricks-newsletter-49a172','_blank');showToast('Pro plan')">Lock In Founding Price →</button>
+      <button class="price-btn price-btn-primary" onclick="scrollToWaitlist()">Lock In Founding Price →</button>
     </div>
     <!-- INSTITUTIONAL -->
     <div class="price-card">
@@ -662,7 +663,7 @@ footer {
         <div class="price-feat"><span class="pf-check">✓</span> Dedicated account manager</div>
         <div class="price-feat"><span class="pf-check">✓</span> SLA + priority support</div>
       </div>
-      <button class="price-btn price-btn-dark" onclick="window.open('https://embeds.beehiiv.com/patricks-newsletter-49a172','_blank');showToast('Institutional plan')">Contact Sales</button>
+      <button class="price-btn price-btn-dark" onclick="window.location.href='mailto:hello@politisignal.com?subject=Institutional%20Plan%20Inquiry'">Contact Sales</button>
     </div>
   </div>
   <div class="reveal" style="text-align:center;margin-top:24px;font-size:12px;color:var(--text3);font-family:'DM Mono',monospace;">
@@ -710,7 +711,8 @@ footer {
   <div class="cta-box reveal">
     <h2>The market doesn't wait.<br>Neither should you.</h2>
     <p>Join 2,847 traders already on the waitlist. Founding members get Pro plan pricing locked in forever — even as we raise prices.</p>
-    <form class="waitlist-form" action="https://embeds.beehiiv.com/patricks-newsletter-49a172" method="post" target="_blank" onsubmit="handleSubmit(event,'email-bottom')">
+    <form class="waitlist-form" name="waitlist" netlify data-netlify="true" onsubmit="handleSubmit(event,'email-bottom')">
+      <input type="hidden" name="form-name" value="waitlist" />
       <input class="waitlist-input" type="email" id="email-bottom" name="email" placeholder="your@email.com" required />
       <button type="submit" class="btn btn-primary btn-large">Claim Your Spot →</button>
     </form>
@@ -791,10 +793,10 @@ function showToast(planName) {
 }
 
 function handleSubmit(event, inputId) {
+  event.preventDefault();
   const input = document.getElementById(inputId);
   const email = input.value.trim();
   if (!email || !email.includes('@')) {
-    event.preventDefault();
     input.style.borderColor = 'var(--red)';
     input.style.boxShadow = '0 0 0 3px rgba(255,71,87,0.15)';
     input.placeholder = 'Please enter a valid email';
@@ -805,7 +807,14 @@ function handleSubmit(event, inputId) {
     }, 2200);
     return;
   }
-  showToast('PolitiSignal');
+  const form = event.target;
+  const data = new FormData(form);
+  fetch('/', { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded' }, body: new URLSearchParams(data).toString() })
+    .then(() => {
+      input.value = '';
+      showToast('PolitiSignal');
+    })
+    .catch(() => showToast('PolitiSignal'));
 }
 
 window.addEventListener('load', () => {
