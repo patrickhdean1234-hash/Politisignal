@@ -252,12 +252,40 @@ const CATEGORIES = [
 let prices = {};
 
 async function loadPrices() {
+  // Show cached prices instantly
+  const cached = localStorage.getItem('ps-prices');
+  if (cached) {
+    try {
+      const p = JSON.parse(cached);
+      if (Object.keys(p).length > 0) { prices = p; renderAll(); }
+    } catch {}
+  }
+
+  // Try live Cloudflare Worker API (real-time)
+  try {
+    const r = await fetch('/api/prices', { cache: 'no-store' });
+    if (r.ok) {
+      const fresh = await r.json();
+      if (fresh && Object.keys(fresh).length > 0) {
+        prices = { ...prices, ...fresh };
+        localStorage.setItem('ps-prices', JSON.stringify(prices));
+        renderAll();
+        return;
+      }
+    }
+  } catch {}
+
+  // Fallback to cached JSON from GitHub Actions
   try {
     const res = await fetch('data/prices.json?t=' + Date.now());
-    prices = await res.json();
+    const data = await res.json();
+    if (data && Object.keys(data).length > 0) {
+      prices = { ...prices, ...data };
+      localStorage.setItem('ps-prices', JSON.stringify(prices));
+    }
     renderAll();
-  } catch (e) {
-    renderError();
+  } catch {
+    if (Object.keys(prices).length === 0) renderError();
   }
 }
 
@@ -393,7 +421,7 @@ function renderError() {
 
 // Load on start, auto-refresh every 10 min
 loadPrices();
-setInterval(loadPrices, 10 * 60 * 1000);
+setInterval(loadPrices, 60 * 1000);
 </script>
 </body>
 </html>

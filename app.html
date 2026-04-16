@@ -633,22 +633,50 @@ let searchQuery = '';
 let currentView = 'feed';
 let alertRules = JSON.parse(localStorage.getItem('ps-alert-rules') || '[]');
 let seenIds = new Set(JSON.parse(localStorage.getItem('ps-seen-ids') || '[]'));
-let nextRefreshAt = Date.now() + 10 * 60 * 1000;
+let nextRefreshAt = Date.now() + 60 * 1000;
 let usingDemo = false;
+
+// ── PRICE LOADING ──────────────────────────────────────────────────────────
+// Load prices from live API, fall back to cached JSON, then localStorage
+async function loadPrices() {
+  // Show cached prices instantly from localStorage
+  const cached = localStorage.getItem('ps-prices');
+  if (cached) {
+    try { prices = JSON.parse(cached); } catch {}
+  }
+
+  // Try live Cloudflare Worker API first (real-time, 60s cache at edge)
+  try {
+    const r = await fetch('/api/prices', { cache: 'no-store' });
+    if (r.ok) {
+      const fresh = await r.json();
+      if (fresh && Object.keys(fresh).length > 0) {
+        prices = { ...prices, ...fresh };
+        localStorage.setItem('ps-prices', JSON.stringify(prices));
+        return;
+      }
+    }
+  } catch {}
+
+  // Fallback to GitHub Actions cached file
+  try {
+    const r = await fetch('/data/prices.json?t=' + Date.now());
+    if (r.ok) {
+      const data = await r.json();
+      if (data && Object.keys(data).length > 0) {
+        prices = { ...prices, ...data };
+        localStorage.setItem('ps-prices', JSON.stringify(prices));
+      }
+    }
+  } catch {}
+}
 
 // ── LOAD SIGNALS + PRICES ──────────────────────────────────────────────────
 async function loadSignals(isManual = false) {
   try {
-    const t = Date.now();
-    const [sigRes, priceRes] = await Promise.all([
-      fetch('/data/signals.json?t=' + t),
-      fetch('/data/prices.json?t=' + t),
-    ]);
-    const [data, priceData] = await Promise.all([sigRes.json(), priceRes.json()]);
-
-    if (priceData && typeof priceData === 'object') {
-      prices = priceData;
-    }
+    await loadPrices();
+    const sigRes = await fetch('/data/signals.json?t=' + Date.now());
+    const data = await sigRes.json();
 
     if (Array.isArray(data) && data.length > 0) {
       const newOnes = data.filter(s => !seenIds.has(s.id));
@@ -673,8 +701,15 @@ async function loadSignals(isManual = false) {
   } catch {
     loadDemo();
   }
-  nextRefreshAt = Date.now() + 10 * 60 * 1000;
+  nextRefreshAt = Date.now() + 60 * 1000;
 }
+
+// Refresh prices every 60 seconds independently of signals
+setInterval(async () => {
+  await loadPrices();
+  updateRightPanel();
+  if (currentView === 'feed') renderFeed();
+}, 60 * 1000);
 
 // ── PRICE HELPERS ──────────────────────────────────────────────────────────
 function getPrice(ticker) {
@@ -1200,7 +1235,7 @@ function escHtml(str) {
 // ── INIT ───────────────────────────────────────────────────────────────────
 updateAlertBadge();
 loadSignals();
-setInterval(loadSignals, 10 * 60 * 1000);
+setInterval(loadSignals, 5 * 60 * 1000);
 setInterval(updateCountdown, 1000);
 updateCountdown();
 </script>
