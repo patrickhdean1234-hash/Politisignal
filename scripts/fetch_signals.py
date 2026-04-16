@@ -2,8 +2,8 @@
 """
 PolitiSignal — Political Market Intelligence Fetcher
 Sources: .gov RSS, White House, GovTrack, Federal Register, SEC EDGAR,
-         Truth Social, YouTube, Reddit (free, no API keys required for most)
-Run every 10 minutes via GitHub Actions.
+         Truth Social, Bluesky, YouTube, Reddit, Politico, The Hill
+Run every 5 minutes via GitHub Actions.
 """
 
 import json
@@ -57,116 +57,48 @@ TICKER_NAMES = {
 # ─── POLITICIANS ─────────────────────────────────────────────────────────────
 
 POLITICIANS = [
-    # Executive Branch
+    # ── Executive ────────────────────────────────────────────────────────────
     {
         "name": "Donald Trump",
         "initials": "DT",
         "role": "President of the United States",
         "color": {"bg": "#3b1818", "fg": "#f87171"},
         "rss": None,
+        "bluesky": None,
         "youtube_channel": "UCAql2DyGU2un1Ei2nMYsqOA",
         "truth_social": "realDonaldTrump",
         "keywords": ["tariff", "china", "trade", "economy", "stock", "deal", "tax", "energy", "oil", "sanction"],
     },
-    # Senate Leadership
-    {
-        "name": "Sen. Chuck Schumer",
-        "initials": "CS",
-        "role": "Senate Minority Leader",
-        "color": {"bg": "#1b3a2a", "fg": "#4ade80"},
-        "rss": "https://www.schumer.senate.gov/newsroom/press-releases/feed",
-        "youtube_channel": None,
-        "truth_social": None,
-        "keywords": ["semiconductor", "china", "drug", "price", "tech", "trade", "tariff"],
-    },
-    {
-        "name": "Sen. Mitch McConnell",
-        "initials": "MM",
-        "role": "Senate Republican Leader",
-        "color": {"bg": "#2a1818", "fg": "#fca5a5"},
-        "rss": "https://www.mcconnell.senate.gov/public/index.cfm?p=PressReleases&ContentType_id=d741b7a7-7afe-4a6e-a3fd-b40c9e38a6a0&format=RSS",
-        "youtube_channel": None,
-        "truth_social": None,
-        "keywords": ["china", "defense", "trade", "tax", "energy", "regulation"],
-    },
-    # House Leadership
-    {
-        "name": "Rep. Nancy Pelosi",
-        "initials": "NP",
-        "role": "House Democratic Leader",
-        "color": {"bg": "#1e2a4a", "fg": "#60a5fa"},
-        "rss": "https://pelosi.house.gov/rss.xml",
-        "youtube_channel": None,
-        "truth_social": None,
-        "keywords": ["tech", "china", "semiconductor", "climate", "trade", "healthcare"],
-    },
-    {
-        "name": "Rep. Mike Johnson",
-        "initials": "MJ",
-        "role": "Speaker of the House",
-        "color": {"bg": "#2a1a1a", "fg": "#fbbf24"},
-        "rss": "https://mikejohnson.house.gov/rss.xml",
-        "youtube_channel": None,
-        "truth_social": None,
-        "keywords": ["budget", "spending", "tax", "debt", "energy", "defense"],
-    },
-    # Senate Committees (market-moving)
+    # ── Senate ───────────────────────────────────────────────────────────────
     {
         "name": "Sen. Elizabeth Warren",
         "initials": "EW",
         "role": "Senate Banking Committee",
         "color": {"bg": "#1b3a2a", "fg": "#4ade80"},
-        "rss": "https://www.warren.senate.gov/newsroom/press-releases/rss/feed/",
+        "rss": "https://warren.senate.gov/rss/",           # verified working
+        "bluesky": "elizabethwarren.bsky.social",
         "youtube_channel": "UCxqHrKEtEAFqLiUiD_zhbfQ",
         "truth_social": None,
         "keywords": ["antitrust", "big tech", "amazon", "google", "apple", "bank", "crypto", "wall street"],
-    },
-    {
-        "name": "Sen. Marco Rubio",
-        "initials": "MR",
-        "role": "Senate Foreign Relations Committee",
-        "color": {"bg": "#1e3a5f", "fg": "#60a5fa"},
-        "rss": "https://www.rubio.senate.gov/public/index.cfm/press-releases?ContentType_id=&MonthDisplay=0&YearDisplay=0&format=RSS",
-        "youtube_channel": "UCn3YWMT3D-mXKDYdDpFQnxA",
-        "truth_social": None,
-        "keywords": ["china", "tariff", "semiconductor", "trade", "taiwan", "military", "sanction"],
     },
     {
         "name": "Sen. Bernie Sanders",
         "initials": "BS",
         "role": "Senate HELP Committee",
         "color": {"bg": "#1e2a4a", "fg": "#818cf8"},
-        "rss": "https://www.sanders.senate.gov/latest-news/feed/",
+        "rss": "https://www.sanders.senate.gov/rss/",      # verified working
+        "bluesky": "sensanders.bsky.social",
         "youtube_channel": "UCH1dpzjCEqy3GFnDES5kCNw",
         "truth_social": None,
         "keywords": ["drug", "pharma", "healthcare", "medicare", "insulin", "price", "insurance"],
-    },
-    {
-        "name": "Sen. Ted Cruz",
-        "initials": "TC",
-        "role": "Senate Commerce Committee",
-        "color": {"bg": "#2a1818", "fg": "#f87171"},
-        "rss": "https://www.cruz.senate.gov/?rss=press_releases",
-        "youtube_channel": None,
-        "truth_social": None,
-        "keywords": ["big tech", "energy", "oil", "regulation", "china", "antitrust"],
-    },
-    {
-        "name": "Sen. Ron Wyden",
-        "initials": "RW",
-        "role": "Senate Finance Committee",
-        "color": {"bg": "#1a2a1a", "fg": "#86efac"},
-        "rss": "https://www.wyden.senate.gov/news/press-releases",
-        "youtube_channel": None,
-        "truth_social": None,
-        "keywords": ["tax", "big tech", "healthcare", "pharma", "trade", "privacy"],
     },
     {
         "name": "Sen. Rand Paul",
         "initials": "RP",
         "role": "Senate Foreign Relations Committee",
         "color": {"bg": "#2a1818", "fg": "#fbbf24"},
-        "rss": "https://www.paul.senate.gov/rss.xml",
+        "rss": "https://www.paul.senate.gov/rss/",         # verified working
+        "bluesky": None,
         "youtube_channel": None,
         "truth_social": None,
         "keywords": ["spending", "debt", "fed", "gold", "regulation", "crypto", "liberty"],
@@ -177,17 +109,52 @@ POLITICIANS = [
         "role": "Senate Banking Subcommittee (Crypto)",
         "color": {"bg": "#1a1a2a", "fg": "#c4b5fd"},
         "rss": "https://www.lummis.senate.gov/press-releases/feed/",
+        "bluesky": None,
         "youtube_channel": None,
         "truth_social": None,
         "keywords": ["bitcoin", "crypto", "stablecoin", "digital asset", "blockchain"],
     },
-    # House Committees
+    {
+        "name": "Sen. Marco Rubio",
+        "initials": "MR",
+        "role": "Senate Foreign Relations Committee",
+        "color": {"bg": "#1e3a5f", "fg": "#60a5fa"},
+        "rss": None,                                        # RSS broken, use YouTube
+        "bluesky": None,
+        "youtube_channel": "UCn3YWMT3D-mXKDYdDpFQnxA",
+        "truth_social": None,
+        "keywords": ["china", "tariff", "semiconductor", "trade", "taiwan", "military", "sanction"],
+    },
+    # ── House ────────────────────────────────────────────────────────────────
+    {
+        "name": "Rep. Nancy Pelosi",
+        "initials": "NP",
+        "role": "House Democratic Leader",
+        "color": {"bg": "#1e2a4a", "fg": "#60a5fa"},
+        "rss": "https://pelosi.house.gov/rss.xml",          # verified working
+        "bluesky": "nancypelosi.bsky.social",
+        "youtube_channel": None,
+        "truth_social": None,
+        "keywords": ["tech", "china", "semiconductor", "climate", "trade", "healthcare"],
+    },
+    {
+        "name": "Rep. Mike Johnson",
+        "initials": "MJ",
+        "role": "Speaker of the House",
+        "color": {"bg": "#2a1a1a", "fg": "#fbbf24"},
+        "rss": "https://mikejohnson.house.gov/rss.xml",
+        "bluesky": None,
+        "youtube_channel": None,
+        "truth_social": None,
+        "keywords": ["budget", "spending", "tax", "debt", "energy", "defense"],
+    },
     {
         "name": "Rep. Jim Jordan",
         "initials": "JJ",
         "role": "House Judiciary Committee Chair",
         "color": {"bg": "#2a1818", "fg": "#fca5a5"},
-        "rss": "https://jordan.house.gov/rss.xml",
+        "rss": "https://jordan.house.gov/rss.xml",          # verified working
+        "bluesky": None,
         "youtube_channel": None,
         "truth_social": None,
         "keywords": ["big tech", "antitrust", "google", "amazon", "censorship", "doj"],
@@ -197,20 +164,22 @@ POLITICIANS = [
         "initials": "AOC",
         "role": "House Financial Services Committee",
         "color": {"bg": "#1e2a4a", "fg": "#93c5fd"},
-        "rss": "https://ocasio-cortez.house.gov/rss.xml",
+        "rss": "https://ocasio-cortez.house.gov/rss.xml",   # verified working
+        "bluesky": "aoc.bsky.social",
         "youtube_channel": None,
         "truth_social": None,
         "keywords": ["big tech", "green energy", "climate", "bank", "tax", "housing", "crypto"],
     },
     {
-        "name": "Rep. Kevin Hern",
-        "initials": "KH",
-        "role": "House Budget Committee Chair",
-        "color": {"bg": "#2a1f0a", "fg": "#fbbf24"},
-        "rss": "https://hern.house.gov/rss.xml",
+        "name": "Rep. Ro Khanna",
+        "initials": "RK",
+        "role": "House Armed Services Committee",
+        "color": {"bg": "#1a2a1a", "fg": "#86efac"},
+        "rss": "https://khanna.house.gov/rss.xml",
+        "bluesky": "rokhanna.bsky.social",
         "youtube_channel": None,
         "truth_social": None,
-        "keywords": ["oil", "energy", "drilling", "subsidy", "budget", "agriculture"],
+        "keywords": ["semiconductor", "tech", "china", "defense", "manufacturing", "ai"],
     },
     {
         "name": "Rep. Patrick McHenry",
@@ -218,6 +187,7 @@ POLITICIANS = [
         "role": "House Financial Services Committee",
         "color": {"bg": "#2d1e5f", "fg": "#c084fc"},
         "rss": "https://mchenry.house.gov/rss.xml",
+        "bluesky": None,
         "youtube_channel": None,
         "truth_social": None,
         "keywords": ["crypto", "stablecoin", "bitcoin", "fintech", "bank", "financial"],
@@ -233,6 +203,7 @@ GLOBAL_SOURCES = [
         "role": "Executive Branch",
         "color": {"bg": "#1a1a2a", "fg": "#e2e8f0"},
         "rss": "https://www.whitehouse.gov/news/feed/",
+        "platform_key": "whitehouse",
         "keywords": ["tariff", "executive order", "trade", "economy", "energy", "sanction", "china", "deal"],
     },
     {
@@ -240,7 +211,8 @@ GLOBAL_SOURCES = [
         "initials": "GT",
         "role": "Congressional Legislation",
         "color": {"bg": "#0a1a2a", "fg": "#7dd3fc"},
-        "rss": "https://www.govtrack.us/congress/bills/introduced.rss",
+        "rss": "https://www.govtrack.us/events/events.rss?feeds=misc:allvotes",
+        "platform_key": "govtrack",
         "keywords": ["bill", "act", "legislation", "introduced", "amendment", "tax", "trade", "energy"],
     },
     {
@@ -248,7 +220,8 @@ GLOBAL_SOURCES = [
         "initials": "FR",
         "role": "Federal Regulations",
         "color": {"bg": "#0a1a0a", "fg": "#86efac"},
-        "rss": "https://www.federalregister.gov/documents/search.rss?conditions%5Btype%5D%5B%5D=RULE&conditions%5Btype%5D%5B%5D=PROPOSED_RULE",
+        "rss": "https://www.federalregister.gov/api/v1/documents.rss?conditions[type][]=RULE",
+        "platform_key": "federal_register",
         "keywords": ["rule", "regulation", "compliance", "ban", "require", "final rule"],
     },
     {
@@ -257,23 +230,35 @@ GLOBAL_SOURCES = [
         "role": "Insider & Congressional Stock Trades",
         "color": {"bg": "#0a0a1a", "fg": "#a5b4fc"},
         "rss": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=4&dateb=&owner=include&count=20&search_text=&output=atom",
+        "platform_key": "sec",
         "keywords": ["purchase", "sale", "acquire", "dispose", "insider", "stock", "shares"],
-    },
-    {
-        "name": "U.S. Treasury",
-        "initials": "UST",
-        "role": "Treasury Department",
-        "color": {"bg": "#1a1a0a", "fg": "#fde68a"},
-        "rss": "https://home.treasury.gov/news/press-releases/feed",
-        "keywords": ["sanction", "tariff", "debt", "dollar", "interest rate", "bond", "currency"],
     },
     {
         "name": "U.S. Trade Rep.",
         "initials": "USTR",
         "role": "Office of the U.S. Trade Representative",
         "color": {"bg": "#1a0a1a", "fg": "#d8b4fe"},
-        "rss": "https://ustr.gov/about-us/policy-offices/press-office/press-releases/feed",
+        "rss": "https://ustr.gov/rss.xml",
+        "platform_key": "ustr",
         "keywords": ["tariff", "trade", "china", "wto", "deal", "agreement", "sanction"],
+    },
+    {
+        "name": "Politico",
+        "initials": "PO",
+        "role": "Political News",
+        "color": {"bg": "#1a0a0a", "fg": "#fca5a5"},
+        "rss": "https://rss.politico.com/politics-news.xml",
+        "platform_key": "politico",
+        "keywords": ["tariff", "trade", "legislation", "bill", "vote", "congress", "senate", "house", "election", "economy"],
+    },
+    {
+        "name": "The Hill",
+        "initials": "TH",
+        "role": "Political News",
+        "color": {"bg": "#0a1a0a", "fg": "#bbf7d0"},
+        "rss": "https://thehill.com/rss/syndicator/19109",
+        "platform_key": "thehill",
+        "keywords": ["tariff", "trade", "legislation", "bill", "vote", "congress", "senate", "house", "economy", "crypto"],
     },
 ]
 
@@ -326,9 +311,11 @@ PLATFORM_LABELS = {
     "govtrack": "GovTrack",
     "federal_register": "Fed. Register",
     "sec": "SEC EDGAR",
-    "treasury": "U.S. Treasury",
     "ustr": "USTR",
+    "politico": "Politico",
+    "thehill": "The Hill",
     "truthsocial": "Truth Social",
+    "bluesky": "Bluesky",
     "youtube": "YouTube",
     "reddit": "Reddit",
 }
@@ -522,6 +509,40 @@ def fetch_youtube(source: dict) -> list:
     return signals
 
 
+def fetch_bluesky(source: dict) -> list:
+    handle = source.get("bluesky")
+    if not handle:
+        return []
+    signals = []
+    try:
+        r = requests.get(
+            "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed",
+            params={"actor": handle, "limit": 10},
+            headers={"User-Agent": "PolitiSignal/1.0"},
+            timeout=10,
+        )
+        if r.status_code != 200:
+            print(f"  Bluesky [{source['initials']}]: HTTP {r.status_code}")
+            return []
+        posts = r.json().get("feed", [])
+        for item in posts[:5]:
+            post = item.get("post", {})
+            record = post.get("record", {})
+            text = record.get("text", "")
+            if len(text) < 20:
+                continue
+            created_at = record.get("createdAt", "")
+            published = datetime.fromisoformat(created_at.replace("Z", "+00:00")) if created_at else None
+            uri = post.get("uri", "")
+            rkey = uri.split("/")[-1] if uri else ""
+            url = f"https://bsky.app/profile/{handle}/post/{rkey}" if rkey else ""
+            signals.append(make_signal(source, text, "bluesky", url, published))
+        print(f"  Bluesky [{source['initials']}]: {len(signals)} posts")
+    except Exception as e:
+        print(f"  Bluesky [{source['initials']}] error: {e}")
+    return signals
+
+
 def fetch_reddit(subreddit: str, limit: int = 8) -> list:
     """Fetch market-relevant posts from Reddit (free, no auth needed)."""
     signals = []
@@ -690,14 +711,14 @@ def main():
         print(f"\nFetching {pol['name']}...")
         all_signals.extend(fetch_rss_source(pol, "rss"))
         all_signals.extend(fetch_truth_social(pol))
+        all_signals.extend(fetch_bluesky(pol))
         all_signals.extend(fetch_youtube(pol))
 
     # Global institutional sources
     print("\n── Institutional Sources ────────────────────────────────")
-    platform_keys = ["whitehouse", "govtrack", "federal_register", "sec", "treasury", "ustr"]
-    for i, src in enumerate(GLOBAL_SOURCES):
+    for src in GLOBAL_SOURCES:
         print(f"\nFetching {src['name']}...")
-        key = platform_keys[i] if i < len(platform_keys) else "rss"
+        key = src.get("platform_key", "rss")
         all_signals.extend(fetch_rss_source(src, key, max_entries=8))
 
     # Reddit (free, no API key)
