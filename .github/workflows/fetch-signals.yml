@@ -34,3 +34,12 @@ jobs:
           git config user.email "bot@politisignal.com"
           git add data/signals.json data/prices.json
           git diff --staged --quiet || (git commit -m "chore: update signals + prices $(date -u +'%Y-%m-%dT%H:%M:%SZ')" && git pull --rebase && git push)
+
+      - name: Deploy to Cloudflare Pages
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: 0e35c6f8560ade68d4ac01a4bdd33f35
+        run: |
+          npm install -g wrangler
+          cd politisignal
+          wrangler pages deploy . --project-name politisignal --commit-dirty=true
