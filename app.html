@@ -130,7 +130,7 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
 .severity-badge.medium { background: rgba(79,125,255,0.12); color: #7fa8ff; border: 1px solid rgba(79,125,255,0.3); }
 .severity-badge.low { background: rgba(74,77,98,0.2); color: var(--text3); border: 1px solid var(--border2); }
 .platform-dot { font-size: 9px; padding: 2px 6px; border-radius: 4px; background: var(--bg3); border: 1px solid var(--border); color: var(--text3); font-family: 'DM Mono', monospace; }
-.signal-quote { font-size: 13px; color: var(--text2); line-height: 1.6; margin-bottom: 9px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.signal-quote { font-size: 11.5px; color: var(--text2); line-height: 1.55; margin-bottom: 8px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; font-style: italic; }
 .signal-tags { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 9px; }
 .signal-tag { font-size: 10px; padding: 2px 8px; border-radius: 4px; background: var(--bg3); border: 1px solid var(--border); color: var(--text3); font-family: 'DM Mono', monospace; cursor: pointer; transition: border-color 0.15s; }
 .signal-tag:hover { border-color: var(--border2); color: var(--text2); }
@@ -271,10 +271,43 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
 }
 @media (max-width: 640px) {
   .sidebar { display: none; }
-  .stats-bar { grid-template-columns: 1fr 1fr; }
-  .stat-cell:nth-child(2) { border-right: none; }
-  .stat-cell:nth-child(3) { border-bottom: 1px solid var(--border); }
+
+  /* Topbar: stack search below title */
+  .topbar {
+    height: auto; flex-wrap: wrap; padding: 10px 14px; gap: 8px;
+  }
+  .topbar-title { font-size: 14px; }
   .topbar-title span.live-badge { display: none; }
+  .search-bar { order: 3; max-width: 100%; width: 100%; }
+  .topbar-actions { gap: 6px; }
+  .topbar-actions .btn-sm { padding: 6px 10px; font-size: 11px; }
+
+  /* Stats: 2x2 grid */
+  .stats-bar { grid-template-columns: 1fr 1fr; }
+  .stat-cell { padding: 10px 14px; }
+  .stat-cell:nth-child(2) { border-right: none; }
+  .stat-cell:nth-child(3) { border-bottom: 1px solid var(--border); border-right: 1px solid var(--border); }
+  .stat-num { font-size: 18px; }
+
+  /* Filter pills: horizontal scroll, no wrap */
+  .filter-bar { flex-wrap: nowrap; overflow-x: auto; padding: 8px 12px; gap: 5px; }
+  .filter-bar::-webkit-scrollbar { display: none; }
+  .filter-pill { flex-shrink: 0; font-size: 11px; padding: 4px 11px; }
+
+  /* Feed */
+  .feed-list { padding: 8px 10px; gap: 7px; }
+  .signal-card { padding: 12px; border-radius: 10px; }
+  .signal-name { font-size: 12px; }
+  .signal-role { font-size: 10px; }
+  .signal-quote { font-size: 11px; }
+  .signal-footer { gap: 4px; }
+  .signal-ticker { font-size: 10px; padding: 2px 6px; }
+
+  /* Modal */
+  .modal { border-radius: 12px; }
+  .modal-header { padding: 16px 18px 12px; }
+  .modal-body { padding: 14px 18px; }
+  .modal-footer { padding: 12px 18px; }
 }
 </style>
 </head>
@@ -285,7 +318,10 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
   <a class="sidebar-logo" href="/">
     <div class="logo-icon">
       <svg width="18" height="18" viewBox="0 0 32 32" fill="none">
-        <polyline points="2,20 8,20 11,9 15,24 18,14 22,20 28,20 30,20" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M16 7 Q10 7 10 13 L10 15 L22 15 L22 13 Q22 7 16 7Z" fill="white" opacity="0.9"/>
+        <rect x="14.5" y="4" width="3" height="4" rx="1.5" fill="white" opacity="0.9"/>
+        <rect x="8" y="15" width="16" height="2" rx="1" fill="white" opacity="0.7"/>
+        <polyline points="4,24 8,24 11,20 14,26 17,21 20,24 24,24 28,24" stroke="white" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity="0.95"/>
       </svg>
     </div>
     <div>
