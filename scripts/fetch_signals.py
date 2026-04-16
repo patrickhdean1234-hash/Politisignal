@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-PolitiSignal — Free Social Media Fetcher
-Sources: .gov RSS feeds, Truth Social (Mastodon API), YouTube Data API
+PolitiSignal — Political Market Intelligence Fetcher
+Sources: .gov RSS, White House, GovTrack, Federal Register, SEC EDGAR,
+         Truth Social, YouTube, Reddit (free, no API keys required for most)
 Run every 10 minutes via GitHub Actions.
 """
 
@@ -17,21 +18,108 @@ import feedparser
 
 # ─── CONFIG ──────────────────────────────────────────────────────────────────
 
-YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", "")  # Set in GitHub Secrets
-MAX_SIGNALS = 50  # Keep latest 50 signals in the JSON
+YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", "")
+MAX_SIGNALS = 100
+
+# ─── TICKER NAMES ─────────────────────────────────────────────────────────────
+
+TICKER_NAMES = {
+    "AAPL": "Apple Inc.", "GOOGL": "Alphabet Inc.", "MSFT": "Microsoft Corp.",
+    "AMZN": "Amazon.com", "META": "Meta Platforms", "NVDA": "NVIDIA Corp.",
+    "TSLA": "Tesla Inc.", "AMD": "Advanced Micro Devices", "INTC": "Intel Corp.",
+    "QCOM": "Qualcomm Inc.", "TSM": "Taiwan Semiconductor", "ORCL": "Oracle Corp.",
+    "JPM": "JPMorgan Chase", "BAC": "Bank of America", "GS": "Goldman Sachs",
+    "MS": "Morgan Stanley", "WFC": "Wells Fargo", "C": "Citigroup",
+    "BLK": "BlackRock Inc.", "SCHW": "Charles Schwab", "AXP": "American Express",
+    "V": "Visa Inc.", "MA": "Mastercard",
+    "XOM": "Exxon Mobil", "CVX": "Chevron Corp.", "COP": "ConocoPhillips",
+    "SLB": "SLB (Schlumberger)", "HAL": "Halliburton", "OXY": "Occidental Petroleum",
+    "LMT": "Lockheed Martin", "RTX": "RTX Corp.", "NOC": "Northrop Grumman",
+    "GD": "General Dynamics", "BA": "Boeing Co.", "KTOS": "Kratos Defense",
+    "PLTR": "Palantir Technologies", "CACI": "CACI International",
+    "SAIC": "Science Applications", "BAH": "Booz Allen Hamilton",
+    "LLY": "Eli Lilly", "PFE": "Pfizer Inc.", "JNJ": "Johnson & Johnson",
+    "MRK": "Merck & Co.", "ABBV": "AbbVie Inc.", "MRNA": "Moderna Inc.",
+    "UNH": "UnitedHealth Group", "HCA": "HCA Healthcare", "CVS": "CVS Health",
+    "MDT": "Medtronic", "BMY": "Bristol Myers Squibb",
+    "FSLR": "First Solar", "ENPH": "Enphase Energy",
+    "COIN": "Coinbase Global", "MSTR": "MicroStrategy",
+    "BTC": "Bitcoin", "ETH": "Ethereum", "SOL": "Solana",
+    "DOGE": "Dogecoin", "XRP": "XRP / Ripple",
+    "SPY": "S&P 500 ETF", "QQQ": "Nasdaq 100 ETF", "DIA": "Dow Jones ETF",
+    "IWM": "Russell 2000 ETF", "GLD": "Gold ETF", "TLT": "20yr Treasury ETF",
+    "VXX": "Volatility ETF", "ARKK": "ARK Innovation ETF",
+    "XLE": "Energy Select ETF", "XLF": "Financial Select ETF",
+    "DE": "Deere & Company", "CORN": "Corn ETF", "SOYB": "Soybean ETF",
+    "X": "U.S. Steel", "AA": "Alcoa Corp.", "NUE": "Nucor Corp.",
+}
 
 # ─── POLITICIANS ─────────────────────────────────────────────────────────────
 
 POLITICIANS = [
+    # Executive Branch
+    {
+        "name": "Donald Trump",
+        "initials": "DT",
+        "role": "President of the United States",
+        "color": {"bg": "#3b1818", "fg": "#f87171"},
+        "rss": None,
+        "youtube_channel": "UCAql2DyGU2un1Ei2nMYsqOA",
+        "truth_social": "realDonaldTrump",
+        "keywords": ["tariff", "china", "trade", "economy", "stock", "deal", "tax", "energy", "oil", "sanction"],
+    },
+    # Senate Leadership
+    {
+        "name": "Sen. Chuck Schumer",
+        "initials": "CS",
+        "role": "Senate Minority Leader",
+        "color": {"bg": "#1b3a2a", "fg": "#4ade80"},
+        "rss": "https://www.schumer.senate.gov/newsroom/press-releases/feed",
+        "youtube_channel": None,
+        "truth_social": None,
+        "keywords": ["semiconductor", "china", "drug", "price", "tech", "trade", "tariff"],
+    },
+    {
+        "name": "Sen. Mitch McConnell",
+        "initials": "MM",
+        "role": "Senate Republican Leader",
+        "color": {"bg": "#2a1818", "fg": "#fca5a5"},
+        "rss": "https://www.mcconnell.senate.gov/public/index.cfm?p=PressReleases&ContentType_id=d741b7a7-7afe-4a6e-a3fd-b40c9e38a6a0&format=RSS",
+        "youtube_channel": None,
+        "truth_social": None,
+        "keywords": ["china", "defense", "trade", "tax", "energy", "regulation"],
+    },
+    # House Leadership
+    {
+        "name": "Rep. Nancy Pelosi",
+        "initials": "NP",
+        "role": "House Democratic Leader",
+        "color": {"bg": "#1e2a4a", "fg": "#60a5fa"},
+        "rss": "https://pelosi.house.gov/rss.xml",
+        "youtube_channel": None,
+        "truth_social": None,
+        "keywords": ["tech", "china", "semiconductor", "climate", "trade", "healthcare"],
+    },
+    {
+        "name": "Rep. Mike Johnson",
+        "initials": "MJ",
+        "role": "Speaker of the House",
+        "color": {"bg": "#2a1a1a", "fg": "#fbbf24"},
+        "rss": "https://mikejohnson.house.gov/rss.xml",
+        "youtube_channel": None,
+        "truth_social": None,
+        "keywords": ["budget", "spending", "tax", "debt", "energy", "defense"],
+    },
+    # Senate Committees (market-moving)
     {
         "name": "Sen. Elizabeth Warren",
         "initials": "EW",
-        "role": "Senate Banking Committee Chair",
+        "role": "Senate Banking Committee",
         "color": {"bg": "#1b3a2a", "fg": "#4ade80"},
         "rss": "https://www.warren.senate.gov/newsroom/press-releases/rss/feed/",
         "youtube_channel": "UCxqHrKEtEAFqLiUiD_zhbfQ",
         "truth_social": None,
-        "keywords": ["antitrust", "big tech", "amazon", "google", "apple", "bank", "wall street", "crypto"],
+        "keywords": ["antitrust", "big tech", "amazon", "google", "apple", "bank", "crypto", "wall street"],
     },
     {
         "name": "Sen. Marco Rubio",
@@ -41,12 +129,12 @@ POLITICIANS = [
         "rss": "https://www.rubio.senate.gov/public/index.cfm/press-releases?ContentType_id=&MonthDisplay=0&YearDisplay=0&format=RSS",
         "youtube_channel": "UCn3YWMT3D-mXKDYdDpFQnxA",
         "truth_social": None,
-        "keywords": ["china", "tariff", "semiconductor", "trade", "taiwan", "military", "sanctions"],
+        "keywords": ["china", "tariff", "semiconductor", "trade", "taiwan", "military", "sanction"],
     },
     {
         "name": "Sen. Bernie Sanders",
         "initials": "BS",
-        "role": "Senate HELP Committee Chair",
+        "role": "Senate HELP Committee",
         "color": {"bg": "#1e2a4a", "fg": "#818cf8"},
         "rss": "https://www.sanders.senate.gov/latest-news/feed/",
         "youtube_channel": "UCH1dpzjCEqy3GFnDES5kCNw",
@@ -54,14 +142,75 @@ POLITICIANS = [
         "keywords": ["drug", "pharma", "healthcare", "medicare", "insulin", "price", "insurance"],
     },
     {
+        "name": "Sen. Ted Cruz",
+        "initials": "TC",
+        "role": "Senate Commerce Committee",
+        "color": {"bg": "#2a1818", "fg": "#f87171"},
+        "rss": "https://www.cruz.senate.gov/?rss=press_releases",
+        "youtube_channel": None,
+        "truth_social": None,
+        "keywords": ["big tech", "energy", "oil", "regulation", "china", "antitrust"],
+    },
+    {
+        "name": "Sen. Ron Wyden",
+        "initials": "RW",
+        "role": "Senate Finance Committee",
+        "color": {"bg": "#1a2a1a", "fg": "#86efac"},
+        "rss": "https://www.wyden.senate.gov/news/press-releases",
+        "youtube_channel": None,
+        "truth_social": None,
+        "keywords": ["tax", "big tech", "healthcare", "pharma", "trade", "privacy"],
+    },
+    {
+        "name": "Sen. Rand Paul",
+        "initials": "RP",
+        "role": "Senate Foreign Relations Committee",
+        "color": {"bg": "#2a1818", "fg": "#fbbf24"},
+        "rss": "https://www.paul.senate.gov/rss.xml",
+        "youtube_channel": None,
+        "truth_social": None,
+        "keywords": ["spending", "debt", "fed", "gold", "regulation", "crypto", "liberty"],
+    },
+    {
+        "name": "Sen. Cynthia Lummis",
+        "initials": "CL",
+        "role": "Senate Banking Subcommittee (Crypto)",
+        "color": {"bg": "#1a1a2a", "fg": "#c4b5fd"},
+        "rss": "https://www.lummis.senate.gov/press-releases/feed/",
+        "youtube_channel": None,
+        "truth_social": None,
+        "keywords": ["bitcoin", "crypto", "stablecoin", "digital asset", "blockchain"],
+    },
+    # House Committees
+    {
+        "name": "Rep. Jim Jordan",
+        "initials": "JJ",
+        "role": "House Judiciary Committee Chair",
+        "color": {"bg": "#2a1818", "fg": "#fca5a5"},
+        "rss": "https://jordan.house.gov/rss.xml",
+        "youtube_channel": None,
+        "truth_social": None,
+        "keywords": ["big tech", "antitrust", "google", "amazon", "censorship", "doj"],
+    },
+    {
+        "name": "Rep. Alexandria Ocasio-Cortez",
+        "initials": "AOC",
+        "role": "House Financial Services Committee",
+        "color": {"bg": "#1e2a4a", "fg": "#93c5fd"},
+        "rss": "https://ocasio-cortez.house.gov/rss.xml",
+        "youtube_channel": None,
+        "truth_social": None,
+        "keywords": ["big tech", "green energy", "climate", "bank", "tax", "housing", "crypto"],
+    },
+    {
         "name": "Rep. Kevin Hern",
         "initials": "KH",
-        "role": "House Agriculture Committee",
+        "role": "House Budget Committee Chair",
         "color": {"bg": "#2a1f0a", "fg": "#fbbf24"},
         "rss": "https://hern.house.gov/rss.xml",
         "youtube_channel": None,
         "truth_social": None,
-        "keywords": ["oil", "energy", "drilling", "subsidy", "clean energy", "agriculture"],
+        "keywords": ["oil", "energy", "drilling", "subsidy", "budget", "agriculture"],
     },
     {
         "name": "Rep. Patrick McHenry",
@@ -73,53 +222,115 @@ POLITICIANS = [
         "truth_social": None,
         "keywords": ["crypto", "stablecoin", "bitcoin", "fintech", "bank", "financial"],
     },
+]
+
+# ─── GLOBAL SOURCES (institutional, not individual politicians) ───────────────
+
+GLOBAL_SOURCES = [
     {
-        "name": "Donald Trump",
-        "initials": "DT",
-        "role": "President of the United States",
-        "color": {"bg": "#3b1818", "fg": "#f87171"},
-        "rss": None,
-        "youtube_channel": "UCAql2DyGU2un1Ei2nMYsqOA",
-        "truth_social": "realDonaldTrump",
-        "keywords": ["tariff", "china", "trade", "economy", "stock", "deal", "tax", "energy", "oil"],
+        "name": "White House",
+        "initials": "WH",
+        "role": "Executive Branch",
+        "color": {"bg": "#1a1a2a", "fg": "#e2e8f0"},
+        "rss": "https://www.whitehouse.gov/news/feed/",
+        "keywords": ["tariff", "executive order", "trade", "economy", "energy", "sanction", "china", "deal"],
+    },
+    {
+        "name": "GovTrack",
+        "initials": "GT",
+        "role": "Congressional Legislation",
+        "color": {"bg": "#0a1a2a", "fg": "#7dd3fc"},
+        "rss": "https://www.govtrack.us/congress/bills/introduced.rss",
+        "keywords": ["bill", "act", "legislation", "introduced", "amendment", "tax", "trade", "energy"],
+    },
+    {
+        "name": "Federal Register",
+        "initials": "FR",
+        "role": "Federal Regulations",
+        "color": {"bg": "#0a1a0a", "fg": "#86efac"},
+        "rss": "https://www.federalregister.gov/documents/search.rss?conditions%5Btype%5D%5B%5D=RULE&conditions%5Btype%5D%5B%5D=PROPOSED_RULE",
+        "keywords": ["rule", "regulation", "compliance", "ban", "require", "final rule"],
+    },
+    {
+        "name": "SEC EDGAR",
+        "initials": "SEC",
+        "role": "Insider & Congressional Stock Trades",
+        "color": {"bg": "#0a0a1a", "fg": "#a5b4fc"},
+        "rss": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=4&dateb=&owner=include&count=20&search_text=&output=atom",
+        "keywords": ["purchase", "sale", "acquire", "dispose", "insider", "stock", "shares"],
+    },
+    {
+        "name": "U.S. Treasury",
+        "initials": "UST",
+        "role": "Treasury Department",
+        "color": {"bg": "#1a1a0a", "fg": "#fde68a"},
+        "rss": "https://home.treasury.gov/news/press-releases/feed",
+        "keywords": ["sanction", "tariff", "debt", "dollar", "interest rate", "bond", "currency"],
+    },
+    {
+        "name": "U.S. Trade Rep.",
+        "initials": "USTR",
+        "role": "Office of the U.S. Trade Representative",
+        "color": {"bg": "#1a0a1a", "fg": "#d8b4fe"},
+        "rss": "https://ustr.gov/about-us/policy-offices/press-office/press-releases/feed",
+        "keywords": ["tariff", "trade", "china", "wto", "deal", "agreement", "sanction"],
     },
 ]
 
 # ─── KEYWORD → TICKER MAPPING ─────────────────────────────────────────────────
 
 TICKER_MAP = [
-    (["amazon", "amzn", "aws"],                          ["AMZN"]),
-    (["google", "googl", "alphabet", "youtube"],         ["GOOGL"]),
-    (["apple", "aapl", "iphone"],                        ["AAPL"]),
-    (["meta", "facebook", "instagram", "whatsapp"],      ["META"]),
-    (["antitrust", "big tech", "monopol", "divestiture"],["AMZN", "GOOGL", "AAPL", "META"]),
-    (["nvidia", "nvda", "gpu", "ai chip"],               ["NVDA"]),
-    (["semiconductor", "chip", "tsmc", "taiwan"],        ["NVDA", "TSM", "AMD", "QCOM"]),
-    (["china", "tariff", "trade war", "export ban"],     ["NVDA", "TSM", "QCOM", "AAPL"]),
-    (["bitcoin", "btc", "crypto", "stablecoin", "coin"], ["BTC", "ETH", "COIN"]),
-    (["oil", "drilling", "petroleum", "opec"],           ["XOM", "CVX"]),
-    (["energy", "clean energy", "solar", "subsidy"],     ["XOM", "FSLR", "ENPH"]),
-    (["pharma", "drug", "insulin", "medicare", "pfizer", "lilly"], ["LLY", "PFE", "JNJ", "MRK"]),
-    (["healthcare", "hospital", "insurance", "medicaid"],["UNH", "HCA", "CVS"]),
-    (["agriculture", "corn", "soybean", "grain", "farm"],["CORN", "SOYB", "DE"]),
-    (["bank", "banking", "wall street", "fed ", "interest rate"], ["JPM", "BAC", "GS"]),
-    (["defense", "military", "weapon", "nato"],          ["LMT", "RTX", "NOC"]),
-    (["steel", "aluminum", "metal", "manufacturing"],    ["X", "AA", "NUE"]),
+    (["amazon", "amzn", "aws"],                             ["AMZN"]),
+    (["google", "googl", "alphabet", "youtube", "waymo"],   ["GOOGL"]),
+    (["apple", "aapl", "iphone", "app store", "tim cook"],  ["AAPL"]),
+    (["microsoft", "msft", "azure", "openai", "copilot"],   ["MSFT"]),
+    (["meta", "facebook", "instagram", "whatsapp", "zuckerberg"], ["META"]),
+    (["nvidia", "nvda", "gpu", "ai chip", "jensen huang"],  ["NVDA"]),
+    (["tesla", "tsla", "elon musk", "elon", "spacex"],      ["TSLA"]),
+    (["palantir", "pltr"],                                   ["PLTR"]),
+    (["antitrust", "big tech", "monopol", "divestiture"],   ["AMZN", "GOOGL", "AAPL", "META"]),
+    (["semiconductor", "chip", "tsmc", "taiwan"],           ["NVDA", "TSM", "AMD", "QCOM"]),
+    (["china", "tariff", "trade war", "export ban"],        ["NVDA", "TSM", "QCOM", "AAPL"]),
+    (["bitcoin", "btc", "crypto", "blockchain"],            ["BTC", "ETH", "COIN"]),
+    (["stablecoin", "digital asset", "cbdc"],               ["BTC", "ETH", "COIN", "XRP"]),
+    (["oil", "drilling", "petroleum", "opec"],              ["XOM", "CVX", "COP", "OXY"]),
+    (["energy", "clean energy", "solar", "wind", "climate"],["XOM", "FSLR", "ENPH", "XLE"]),
+    (["pharma", "drug", "insulin", "pfizer", "lilly"],      ["LLY", "PFE", "JNJ", "MRK"]),
+    (["healthcare", "hospital", "insurance", "medicaid"],   ["UNH", "HCA", "CVS"]),
+    (["agriculture", "corn", "soybean", "grain", "farm"],   ["CORN", "SOYB", "DE"]),
+    (["bank", "banking", "wall street", "fed ", "interest rate"], ["JPM", "BAC", "GS", "XLF"]),
+    (["defense", "military", "weapon", "nato", "pentagon"], ["LMT", "RTX", "NOC", "GD"]),
+    (["steel", "aluminum", "metal", "manufacturing"],       ["X", "AA", "NUE"]),
+    (["sanction", "russia", "iran", "north korea"],         ["LMT", "RTX", "XOM"]),
+    (["regulation", "sec ", "ftc ", "doj "],                ["GOOGL", "AMZN", "META", "AAPL"]),
+    (["gold", "silver", "inflation", "bond", "treasury"],   ["GLD", "TLT", "SPY"]),
+    (["lockheed", "lmt"],                                   ["LMT"]),
+    (["raytheon", "rtx"],                                   ["RTX"]),
+    (["boeing"],                                            ["BA"]),
 ]
 
 SEVERITY_KEYWORDS = {
-    "critical": ["legislation", "bill", "ban", "tariff", "sanction", "executive order",
-                 "introduce", "force", "must", "emergency", "immediately", "existential"],
+    "critical": ["legislation", "bill passed", "ban", "tariff", "sanction", "executive order",
+                 "introduce", "force", "emergency", "immediately", "existential", "crisis",
+                 "signed into law", "effective immediately", "national security"],
     "high":     ["push", "propos", "call for", "demand", "urge", "announce", "confirm",
-                 "agreement", "deal", "vote", "pass"],
-    "medium":   ["discuss", "meeting", "consider", "review", "study", "support", "oppose"],
-    "low":      ["statement", "comment", "note", "mention", "tweet", "post"],
+                 "agreement", "deal", "vote", "pass", "introduced a bill", "new rule", "final rule"],
+    "medium":   ["discuss", "meeting", "consider", "review", "study", "support", "oppose",
+                 "statement", "hearing", "committee"],
+    "low":      ["comment", "note", "mention", "tweet", "post", "remarks"],
 }
 
 PLATFORM_LABELS = {
     "rss": ".gov",
+    "whitehouse": "White House",
+    "govtrack": "GovTrack",
+    "federal_register": "Fed. Register",
+    "sec": "SEC EDGAR",
+    "treasury": "U.S. Treasury",
+    "ustr": "USTR",
     "truthsocial": "Truth Social",
     "youtube": "YouTube",
+    "reddit": "Reddit",
 }
 
 # ─── HELPERS ─────────────────────────────────────────────────────────────────
@@ -130,45 +341,49 @@ def make_id(text: str) -> str:
 def now_iso() -> str:
     return datetime.now(timezone.utc).isoformat()
 
-def guess_tickers(text: str) -> list[str]:
+def strip_html(text: str) -> str:
+    return re.sub(r"<[^>]+>", " ", text).strip()
+
+def guess_tickers(text: str) -> list:
     text_lower = text.lower()
     tickers = []
     for keywords, t in TICKER_MAP:
         if any(k in text_lower for k in keywords):
             tickers.extend(t)
-    return list(dict.fromkeys(tickers))[:5]  # dedupe, max 5
+    return list(dict.fromkeys(tickers))[:5]
 
-def guess_severity(text: str, politician: dict) -> str:
+def guess_severity(text: str, source: dict) -> str:
     text_lower = text.lower()
-    # Committee chairs get bumped up a severity level
-    is_chair = "chair" in politician["role"].lower() or "president" in politician["role"].lower()
+    is_high_authority = any(x in source.get("role", "").lower()
+                            for x in ["president", "chair", "leader", "speaker", "secretary", "representative"])
     for level in ["critical", "high", "medium", "low"]:
         if any(k in text_lower for k in SEVERITY_KEYWORDS[level]):
-            if is_chair and level == "high":
+            if is_high_authority and level == "high":
                 return "critical"
-            if is_chair and level == "medium":
+            if is_high_authority and level == "medium":
                 return "high"
             return level
     return "medium"
 
-def extract_tags(text: str, politician: dict) -> list[str]:
+def extract_tags(text: str, source: dict) -> list:
     tags = []
     text_lower = text.lower()
     tag_map = {
         "Antitrust": ["antitrust", "monopol"],
-        "Big Tech": ["big tech", "amazon", "google", "apple"],
-        "Trade": ["trade", "tariff", "export", "import"],
-        "China": ["china", "chinese"],
-        "Semiconductors": ["semiconductor", "chip", "gpu"],
-        "Crypto": ["crypto", "bitcoin", "stablecoin"],
-        "Energy": ["energy", "oil", "drilling", "solar"],
-        "Healthcare": ["healthcare", "medicare", "drug", "pharma", "insulin"],
+        "Big Tech": ["big tech", "amazon", "google", "apple", "facebook", "meta"],
+        "Trade": ["trade", "tariff", "export", "import", "wto"],
+        "China": ["china", "chinese", "prc", "beijing"],
+        "Semiconductors": ["semiconductor", "chip", "gpu", "tsmc"],
+        "Crypto": ["crypto", "bitcoin", "stablecoin", "blockchain", "digital asset"],
+        "Energy": ["energy", "oil", "drilling", "solar", "wind", "climate"],
+        "Healthcare": ["healthcare", "medicare", "drug", "pharma", "insulin", "hospital"],
         "Agriculture": ["agriculture", "corn", "soybean", "farm"],
-        "Banking": ["bank", "wall street", "fed"],
-        "Defense": ["defense", "military", "nato"],
-        "Regulation": ["regulation", "legislation", "bill", "law"],
-        "Taxes": ["tax", "tariff"],
-        "Bipartisan": ["bipartisan"],
+        "Banking": ["bank", "wall street", "federal reserve", "interest rate"],
+        "Defense": ["defense", "military", "nato", "weapon", "pentagon"],
+        "Regulation": ["regulation", "legislation", "bill", "law", "rule", "compliance"],
+        "Taxes": ["tax", "irs", "revenue"],
+        "Sanctions": ["sanction", "russia", "iran", "embargo"],
+        "Insider Trade": ["purchase", "sale", "acquired", "disposed", "sec form 4"],
     }
     for tag, keywords in tag_map.items():
         if any(k in text_lower for k in keywords):
@@ -176,29 +391,32 @@ def extract_tags(text: str, politician: dict) -> list[str]:
     return tags[:4]
 
 def time_ago(dt: datetime) -> str:
-    diff = datetime.now(timezone.utc) - dt.replace(tzinfo=timezone.utc) if dt.tzinfo is None else datetime.now(timezone.utc) - dt
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    diff = datetime.now(timezone.utc) - dt
     secs = int(diff.total_seconds())
-    if secs < 60:    return "just now"
-    if secs < 3600:  return f"{secs // 60} min ago"
-    if secs < 86400: return f"{secs // 3600} hr ago"
+    if secs < 0:      return "just now"
+    if secs < 60:     return "just now"
+    if secs < 3600:   return f"{secs // 60}m ago"
+    if secs < 86400:  return f"{secs // 3600}h ago"
     return f"{secs // 86400}d ago"
 
-def make_signal(politician: dict, content: str, source: str, url: str = "", published: Optional[datetime] = None) -> dict:
-    tickers = guess_tickers(content) or guess_tickers(" ".join(politician["keywords"]))
-    severity = guess_severity(content, politician)
+def make_signal(source: dict, content: str, platform: str, url: str = "", published: Optional[datetime] = None) -> dict:
+    tickers = guess_tickers(content) or guess_tickers(" ".join(source.get("keywords", [])))
+    severity = guess_severity(content, source)
     pub = published or datetime.now(timezone.utc)
     return {
-        "id": make_id(content[:80] + politician["initials"]),
-        "politician": politician["name"],
-        "initials": politician["initials"],
-        "role": politician["role"],
-        "color": politician["color"],
+        "id": make_id(content[:80] + source["initials"]),
+        "politician": source["name"],
+        "initials": source["initials"],
+        "role": source["role"],
+        "color": source["color"],
         "severity": severity,
-        "content": content[:280],
-        "tags": extract_tags(content, politician),
+        "content": content[:320],
+        "tags": extract_tags(content, source),
         "tickers": tickers,
-        "source": source,
-        "platform": PLATFORM_LABELS.get(source, source),
+        "source": platform,
+        "platform": PLATFORM_LABELS.get(platform, platform),
         "url": url,
         "published_iso": pub.isoformat() if hasattr(pub, 'isoformat') else now_iso(),
         "time_ago": time_ago(pub) if hasattr(pub, 'replace') else "recently",
@@ -206,39 +424,41 @@ def make_signal(politician: dict, content: str, source: str, url: str = "", publ
 
 # ─── FETCHERS ─────────────────────────────────────────────────────────────────
 
-def fetch_rss(politician: dict) -> list[dict]:
-    url = politician.get("rss")
+def fetch_rss_source(source: dict, platform_key: str = "rss", max_entries: int = 5) -> list:
+    url = source.get("rss")
     if not url:
         return []
     signals = []
     try:
-        feed = feedparser.parse(url)
-        for entry in feed.entries[:5]:
-            content = entry.get("summary", entry.get("title", ""))
-            # Strip HTML tags
-            content = re.sub(r"<[^>]+>", " ", content).strip()
+        feed = feedparser.parse(url, request_headers={"User-Agent": "PolitiSignal/1.0 (hello@politisignal.com)"})
+        for entry in feed.entries[:max_entries]:
+            content = strip_html(entry.get("summary", entry.get("title", "")))
             title = entry.get("title", "")
-            full_text = f"{title}. {content}"
+            full_text = f"{title}. {content}".strip(". ")
+            if len(full_text) < 20:
+                continue
             published = None
             if hasattr(entry, "published_parsed") and entry.published_parsed:
-                published = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
+                try:
+                    published = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
+                except Exception:
+                    pass
             link = entry.get("link", "")
-            signals.append(make_signal(politician, full_text, "rss", link, published))
-        print(f"  RSS [{politician['initials']}]: {len(signals)} entries")
+            signals.append(make_signal(source, full_text, platform_key, link, published))
+        print(f"  RSS [{source['initials']}]: {len(signals)} entries")
     except Exception as e:
-        print(f"  RSS [{politician['initials']}] error: {e}")
+        print(f"  RSS [{source['initials']}] error: {e}")
     return signals
 
 
-def fetch_truth_social(politician: dict) -> list[dict]:
-    username = politician.get("truth_social")
+def fetch_truth_social(source: dict) -> list:
+    username = source.get("truth_social")
     if not username:
         return []
     signals = []
     try:
-        # Look up account ID
         r = requests.get(
-            f"https://truthsocial.com/api/v1/accounts/search",
+            "https://truthsocial.com/api/v1/accounts/search",
             params={"q": username, "limit": 1},
             headers={"User-Agent": "PolitiSignal/1.0"},
             timeout=10,
@@ -246,8 +466,6 @@ def fetch_truth_social(politician: dict) -> list[dict]:
         if r.status_code != 200 or not r.json():
             return []
         account_id = r.json()[0]["id"]
-
-        # Fetch statuses
         r2 = requests.get(
             f"https://truthsocial.com/api/v1/accounts/{account_id}/statuses",
             params={"limit": 5, "exclude_replies": True},
@@ -257,20 +475,20 @@ def fetch_truth_social(politician: dict) -> list[dict]:
         if r2.status_code != 200:
             return []
         for status in r2.json():
-            content = re.sub(r"<[^>]+>", " ", status.get("content", "")).strip()
+            content = strip_html(status.get("content", ""))
             if len(content) < 20:
                 continue
             published = datetime.fromisoformat(status["created_at"].replace("Z", "+00:00"))
             url = status.get("url", "")
-            signals.append(make_signal(politician, content, "truthsocial", url, published))
-        print(f"  Truth Social [{politician['initials']}]: {len(signals)} posts")
+            signals.append(make_signal(source, content, "truthsocial", url, published))
+        print(f"  Truth Social [{source['initials']}]: {len(signals)} posts")
     except Exception as e:
-        print(f"  Truth Social [{politician['initials']}] error: {e}")
+        print(f"  Truth Social [{source['initials']}] error: {e}")
     return signals
 
 
-def fetch_youtube(politician: dict) -> list[dict]:
-    channel_id = politician.get("youtube_channel")
+def fetch_youtube(source: dict) -> list:
+    channel_id = source.get("youtube_channel")
     if not channel_id or not YOUTUBE_API_KEY:
         return []
     signals = []
@@ -297,44 +515,110 @@ def fetch_youtube(politician: dict) -> list[dict]:
             published_str = snippet.get("publishedAt", "")
             published = datetime.fromisoformat(published_str.replace("Z", "+00:00")) if published_str else None
             url = f"https://youtube.com/watch?v={item['id']['videoId']}"
-            signals.append(make_signal(politician, content, "youtube", url, published))
-        print(f"  YouTube [{politician['initials']}]: {len(signals)} videos")
+            signals.append(make_signal(source, content, "youtube", url, published))
+        print(f"  YouTube [{source['initials']}]: {len(signals)} videos")
     except Exception as e:
-        print(f"  YouTube [{politician['initials']}] error: {e}")
+        print(f"  YouTube [{source['initials']}] error: {e}")
     return signals
 
-# ─── CRYPTO SYMBOL MAP (yfinance uses BTC-USD etc.) ──────────────────────────
+
+def fetch_reddit(subreddit: str, limit: int = 8) -> list:
+    """Fetch market-relevant posts from Reddit (free, no auth needed)."""
+    signals = []
+    reddit_source = {
+        "name": f"r/{subreddit}",
+        "initials": "r/",
+        "role": "Reddit Community",
+        "color": {"bg": "#1a0f00", "fg": "#fb923c"},
+        "keywords": [],
+    }
+    try:
+        r = requests.get(
+            f"https://www.reddit.com/r/{subreddit}/hot.json",
+            params={"limit": limit},
+            headers={"User-Agent": "PolitiSignal/1.0 (hello@politisignal.com)"},
+            timeout=10,
+        )
+        if r.status_code != 200:
+            print(f"  Reddit r/{subreddit}: HTTP {r.status_code}")
+            return []
+        for post in r.json()["data"]["children"]:
+            data = post["data"]
+            if data.get("stickied"):
+                continue
+            title = data.get("title", "")
+            selftext = strip_html(data.get("selftext", ""))[:200]
+            content = f"{title}. {selftext}".strip(". ")
+            if len(content) < 30:
+                continue
+            tickers = guess_tickers(content)
+            if not tickers and subreddit not in ["politics", "worldnews"]:
+                continue  # Only include market-relevant posts for financial subreddits
+            url = f"https://reddit.com{data.get('permalink', '')}"
+            created = datetime.fromtimestamp(data.get("created_utc", 0), tz=timezone.utc)
+            signals.append({
+                "id": make_id(title + subreddit),
+                "politician": f"r/{subreddit}",
+                "initials": "r/",
+                "role": "Reddit Community",
+                "color": {"bg": "#1a0f00", "fg": "#fb923c"},
+                "severity": "low",
+                "content": content[:320],
+                "tags": extract_tags(content, reddit_source),
+                "tickers": tickers,
+                "source": "reddit",
+                "platform": "Reddit",
+                "url": url,
+                "published_iso": created.isoformat(),
+                "time_ago": time_ago(created),
+            })
+        print(f"  Reddit r/{subreddit}: {len(signals)} relevant posts")
+    except Exception as e:
+        print(f"  Reddit r/{subreddit} error: {e}")
+    return signals
+
+
+# ─── CRYPTO SYMBOL MAP ────────────────────────────────────────────────────────
 
 YFINANCE_MAP = {
-    "BTC": "BTC-USD",
-    "ETH": "ETH-USD",
-    "SOL": "SOL-USD",
-    "DOGE": "DOGE-USD",
+    "BTC": "BTC-USD", "ETH": "ETH-USD", "SOL": "SOL-USD",
+    "DOGE": "DOGE-USD", "XRP": "XRP-USD",
 }
+
+# Comprehensive watchlist — always fetch prices for these regardless of signals
+ALWAYS_FETCH = [
+    "SPY", "QQQ", "DIA", "IWM",          # Indices
+    "AAPL", "MSFT", "GOOGL", "AMZN", "META", "NVDA", "TSLA",  # Mega cap tech
+    "JPM", "BAC", "GS",                    # Banks
+    "XOM", "CVX",                          # Energy
+    "LMT", "RTX", "NOC",                   # Defense
+    "LLY", "PFE", "JNJ",                   # Pharma
+    "BTC", "ETH",                          # Crypto
+    "GLD", "TLT",                          # Macro
+    "PLTR", "COIN",                        # Political favorites
+]
 
 # ─── STOCK PRICES ─────────────────────────────────────────────────────────────
 
-def fetch_stock_prices(signals: list[dict]) -> dict:
-    """Fetch real prices from Yahoo Finance for all tickers in signals."""
+def fetch_stock_prices(signals: list) -> dict:
+    """Fetch real-time prices from Yahoo Finance for all tickers."""
     try:
         import yfinance as yf
     except ImportError:
         print("yfinance not installed, skipping prices")
         return {}
 
-    tickers = list(dict.fromkeys(t for s in signals for t in s.get("tickers", [])))
-    if not tickers:
-        return {}
+    # Collect tickers from signals + always-fetch list
+    signal_tickers = list(dict.fromkeys(t for s in signals for t in s.get("tickers", [])))
+    all_tickers = list(dict.fromkeys(ALWAYS_FETCH + signal_tickers))
 
-    print(f"\nFetching prices for: {', '.join(tickers)}")
+    print(f"\nFetching prices for {len(all_tickers)} tickers...")
     prices = {}
 
-    # Map tickers to yfinance symbols
-    yf_symbols = {t: YFINANCE_MAP.get(t, t) for t in tickers}
-    symbols_list = list(yf_symbols.values())
+    yf_symbols = {t: YFINANCE_MAP.get(t, t) for t in all_tickers}
+    symbols_list = list(set(yf_symbols.values()))
 
     try:
-        # Batch download 2 days of data
         raw = yf.download(
             symbols_list,
             period="5d",
@@ -350,29 +634,27 @@ def fetch_stock_prices(signals: list[dict]) -> dict:
                     closes = raw["Close"].dropna()
                 else:
                     closes = raw[yf_sym]["Close"].dropna()
-
                 if len(closes) < 2:
                     continue
-
                 curr = float(closes.iloc[-1])
                 prev = float(closes.iloc[-2])
                 if prev <= 0:
                     continue
-
                 change_pct = (curr - prev) / prev * 100
                 prices[ticker] = {
-                    "price": round(curr, 2),
+                    "price": round(curr, 4 if curr < 1 else 2),
                     "change_pct": round(change_pct, 2),
                     "name": TICKER_NAMES.get(ticker, ticker),
+                    "_updated": now_iso(),
                 }
-                direction = "▲" if change_pct >= 0 else "▼"
-                print(f"  {ticker}: ${curr:.2f} {direction}{abs(change_pct):.2f}%")
+                arrow = "▲" if change_pct >= 0 else "▼"
+                print(f"  {ticker}: ${curr:.2f} {arrow}{abs(change_pct):.2f}%")
             except Exception as e:
-                print(f"  {ticker} price error: {e}")
+                print(f"  {ticker} error: {e}")
 
     except Exception as e:
-        print(f"  Batch price fetch error: {e}")
-        # Fallback: individual fetches
+        print(f"  Batch download error: {e}")
+        # Individual fallback
         for ticker, yf_sym in yf_symbols.items():
             try:
                 t_obj = yf.Ticker(yf_sym)
@@ -382,36 +664,54 @@ def fetch_stock_prices(signals: list[dict]) -> dict:
                 if curr and prev and prev > 0:
                     change_pct = (curr - prev) / prev * 100
                     prices[ticker] = {
-                        "price": round(curr, 2),
+                        "price": round(curr, 4 if curr < 1 else 2),
                         "change_pct": round(change_pct, 2),
                         "name": TICKER_NAMES.get(ticker, ticker),
+                        "_updated": now_iso(),
                     }
-                    print(f"  {ticker}: ${curr:.2f} ({change_pct:+.2f}%)")
-            except Exception as e2:
-                print(f"  {ticker} fallback error: {e2}")
+            except Exception:
+                pass
 
-    prices["_updated"] = now_iso()
-    print(f"  Prices fetched: {len(prices) - 1} tickers")
+    print(f"  Prices fetched: {len(prices)} tickers")
     return prices
 
 
 # ─── MAIN ─────────────────────────────────────────────────────────────────────
 
 def main():
+    print(f"\n{'='*60}")
     print(f"PolitiSignal fetch started at {now_iso()}")
+    print(f"{'='*60}\n")
     all_signals = []
 
+    # Individual politicians
+    print("── Politicians ──────────────────────────────────────────")
     for pol in POLITICIANS:
-        print(f"Fetching {pol['name']}...")
-        all_signals.extend(fetch_rss(pol))
+        print(f"\nFetching {pol['name']}...")
+        all_signals.extend(fetch_rss_source(pol, "rss"))
         all_signals.extend(fetch_truth_social(pol))
         all_signals.extend(fetch_youtube(pol))
+
+    # Global institutional sources
+    print("\n── Institutional Sources ────────────────────────────────")
+    platform_keys = ["whitehouse", "govtrack", "federal_register", "sec", "treasury", "ustr"]
+    for i, src in enumerate(GLOBAL_SOURCES):
+        print(f"\nFetching {src['name']}...")
+        key = platform_keys[i] if i < len(platform_keys) else "rss"
+        all_signals.extend(fetch_rss_source(src, key, max_entries=8))
+
+    # Reddit (free, no API key)
+    print("\n── Reddit ───────────────────────────────────────────────")
+    all_signals.extend(fetch_reddit("politics", limit=10))
+    all_signals.extend(fetch_reddit("investing", limit=8))
+    all_signals.extend(fetch_reddit("wallstreetbets", limit=5))
+    all_signals.extend(fetch_reddit("StockMarket", limit=5))
 
     # Sort by published date, newest first
     def sort_key(s):
         try:
             return datetime.fromisoformat(s.get("published_iso", "2000-01-01T00:00:00+00:00"))
-        except:
+        except Exception:
             return datetime.min.replace(tzinfo=timezone.utc)
 
     all_signals.sort(key=sort_key, reverse=True)
@@ -428,16 +728,16 @@ def main():
 
     base = os.path.join(os.path.dirname(__file__), "..")
 
-    # Write signals
     with open(os.path.join(base, "data", "signals.json"), "w") as f:
         json.dump(result, f, indent=2, default=str)
-    print(f"\nSignals: {len(result)} written to data/signals.json")
+    print(f"\n{'='*60}")
+    print(f"Signals: {len(result)} written to data/signals.json")
 
-    # Fetch and write real stock prices
     prices = fetch_stock_prices(result)
     with open(os.path.join(base, "data", "prices.json"), "w") as f:
         json.dump(prices, f, indent=2)
-    print(f"Prices: {len(prices) - 1} tickers written to data/prices.json")
+    print(f"Prices:  {len(prices)} tickers written to data/prices.json")
+    print(f"{'='*60}\n")
 
 if __name__ == "__main__":
     main()

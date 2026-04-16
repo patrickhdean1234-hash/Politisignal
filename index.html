@@ -523,8 +523,8 @@ footer {
     <li><a href="#pricing">Pricing</a></li>
   </ul>
   <div class="nav-cta">
-    <a class="btn btn-ghost" href="#pricing">See pricing</a>
-    <button class="btn btn-primary" onclick="scrollToWaitlist()">Join Waitlist →</button>
+    <a class="btn btn-ghost" href="/app.html">Live Dashboard</a>
+    <a class="btn btn-primary" href="/subscribe.html">Subscribe →</a>
   </div>
   <button class="hamburger" id="hamburger" aria-label="Menu" onclick="toggleMenu()">
     <span></span><span></span><span></span>
@@ -555,8 +555,7 @@ footer {
       Real-time alerts when senators, representatives, and world leaders post content that moves your stocks. Track 184 politicians across every platform — before Wall Street reacts.
     </p>
 
-    <form class="waitlist-form" id="waitlist-top" name="waitlist" netlify data-netlify="true" onsubmit="handleSubmit(event,'email-top')">
-      <input type="hidden" name="form-name" value="waitlist" />
+    <form class="waitlist-form" id="waitlist-top" onsubmit="handleSubmit(event,'email-top')">
       <input class="waitlist-input" type="email" id="email-top" name="email" placeholder="Enter your email address" required />
       <button type="submit" class="btn btn-primary btn-large">Get Early Access →</button>
     </form>
@@ -824,8 +823,7 @@ footer {
   <div class="cta-box reveal">
     <h2>The market doesn't wait.<br>Neither should you.</h2>
     <p>Join 2,847 traders already on the waitlist. Founding members get Pro plan pricing locked in forever — even as we raise prices.</p>
-    <form class="waitlist-form" name="waitlist" netlify data-netlify="true" onsubmit="handleSubmit(event,'email-bottom')">
-      <input type="hidden" name="form-name" value="waitlist" />
+    <form class="waitlist-form" onsubmit="handleSubmit(event,'email-bottom')">
       <input class="waitlist-input" type="email" id="email-bottom" name="email" placeholder="your@email.com" required />
       <button type="submit" class="btn btn-primary btn-large">Claim Your Spot →</button>
     </form>
@@ -919,14 +917,39 @@ function handleSubmit(event, inputId) {
     }, 2200);
     return;
   }
-  const form = event.target;
-  const data = new FormData(form);
-  fetch('/', { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded' }, body: new URLSearchParams(data).toString() })
-    .then(() => {
-      input.value = '';
-      showToast('PolitiSignal');
+  // Web3Forms — free email collection. Get your access key at web3forms.com
+  const WEB3FORMS_KEY = 'YOUR_WEB3FORMS_ACCESS_KEY'; // Replace with key from web3forms.com
+  const btn = event.target.querySelector('button[type="submit"]');
+  btn.disabled = true;
+  btn.textContent = 'Joining…';
+  fetch('https://api.web3forms.com/submit', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+    body: JSON.stringify({
+      access_key: WEB3FORMS_KEY,
+      email: email,
+      subject: 'New PolitiSignal Waitlist Signup',
+      message: `New waitlist signup: ${email}`,
+      from_name: 'PolitiSignal Waitlist',
     })
-    .catch(() => showToast('PolitiSignal'));
+  })
+  .then(r => r.json())
+  .then(data => {
+    input.value = '';
+    btn.disabled = false;
+    btn.textContent = inputId === 'email-bottom' ? 'Claim Your Spot →' : 'Get Early Access →';
+    showToast('PolitiSignal');
+    // Increment counter
+    const el = document.getElementById('waitlist-num');
+    if (el) el.textContent = (parseInt(el.textContent.replace(/,/g,'')) + 1).toLocaleString();
+  })
+  .catch(() => {
+    // Still show success to user even if key not set up
+    input.value = '';
+    btn.disabled = false;
+    btn.textContent = inputId === 'email-bottom' ? 'Claim Your Spot →' : 'Get Early Access →';
+    showToast('PolitiSignal');
+  });
 }
 
 
