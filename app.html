@@ -14,21 +14,24 @@
   --border: rgba(255,255,255,0.06); --border2: rgba(255,255,255,0.10); --border3: rgba(255,255,255,0.16);
   --text: #eceef8; --text2: #8b8fa8; --text3: #4a4d62;
   --accent: #4f7dff; --accent2: #7c5cfc;
-  --red: #ff4757; --green: #2ecc71; --amber: #f1c40f; --gold: #e8b84b;
-  --sidebar: 220px;
+  --red: #ff4757; --green: #2ecc71; --amber: #f1c40f;
 }
 html, body { height: 100%; overflow: hidden; }
 body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); color: var(--text); display: flex; }
+@keyframes pulse { 0%,100%{opacity:1;} 50%{opacity:0.3;} }
+@keyframes fadeIn { from{opacity:0;transform:translateY(8px)} to{opacity:1;transform:translateY(0)} }
+@keyframes slideIn { from{transform:translateX(100%)} to{transform:translateX(0)} }
+@keyframes newSignal { 0%{box-shadow:0 0 0 0 rgba(79,125,255,0.5)} 70%{box-shadow:0 0 0 8px rgba(79,125,255,0)} 100%{box-shadow:none} }
 
-/* SIDEBAR */
+/* ── SIDEBAR ───────────────────────────────────────────────────────────────── */
 .sidebar {
-  width: var(--sidebar); flex-shrink: 0;
+  width: 220px; flex-shrink: 0;
   background: var(--bg2); border-right: 1px solid var(--border);
   display: flex; flex-direction: column; height: 100vh; overflow-y: auto;
 }
 .sidebar-logo {
   padding: 20px 18px 16px; display: flex; align-items: center; gap: 10px;
-  border-bottom: 1px solid var(--border);
+  border-bottom: 1px solid var(--border); text-decoration: none;
 }
 .logo-icon {
   width: 32px; height: 32px; border-radius: 8px; flex-shrink: 0;
@@ -37,237 +40,241 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
 }
 .logo-text { font-family: 'Syne', sans-serif; font-weight: 800; font-size: 15px; color: var(--text); }
 .logo-sub { font-size: 9px; color: var(--text3); font-family: 'DM Mono', monospace; letter-spacing: 0.5px; margin-top: 1px; }
-
 .sidebar-section { padding: 16px 10px 8px; }
 .sidebar-label { font-size: 9px; color: var(--text3); font-family: 'DM Mono', monospace; letter-spacing: 1.5px; text-transform: uppercase; padding: 0 8px; margin-bottom: 6px; }
 .nav-item {
   display: flex; align-items: center; gap: 10px; padding: 9px 10px;
   border-radius: 8px; cursor: pointer; transition: all 0.15s;
-  font-size: 13px; color: var(--text2); text-decoration: none; position: relative;
+  font-size: 13px; color: var(--text2); text-decoration: none; border: none; background: none; width: 100%;
 }
 .nav-item:hover { background: var(--surface); color: var(--text); }
 .nav-item.active { background: rgba(79,125,255,0.12); color: var(--accent); }
 .nav-item .icon { font-size: 15px; width: 20px; text-align: center; flex-shrink: 0; }
-.nav-badge {
-  margin-left: auto; background: var(--red); color: white;
-  font-size: 10px; font-weight: 700; padding: 1px 6px; border-radius: 999px;
-  font-family: 'DM Mono', monospace;
-}
+.nav-badge { margin-left: auto; background: var(--red); color: white; font-size: 10px; font-weight: 700; padding: 1px 6px; border-radius: 999px; font-family: 'DM Mono', monospace; }
 .nav-badge.blue { background: rgba(79,125,255,0.2); color: var(--accent); }
-
-.sidebar-footer {
-  margin-top: auto; padding: 14px; border-top: 1px solid var(--border);
-  display: flex; align-items: center; gap: 10px;
-}
-.user-avatar {
-  width: 34px; height: 34px; border-radius: 50%; background: linear-gradient(135deg, var(--accent), var(--accent2));
-  display: flex; align-items: center; justify-content: center;
-  font-size: 12px; font-weight: 700; color: white; flex-shrink: 0;
-}
+.sidebar-footer { margin-top: auto; padding: 14px; border-top: 1px solid var(--border); display: flex; align-items: center; gap: 10px; }
+.user-avatar { width: 34px; height: 34px; border-radius: 50%; background: linear-gradient(135deg, var(--accent), var(--accent2)); display: flex; align-items: center; justify-content: center; font-size: 12px; font-weight: 700; color: white; flex-shrink: 0; }
 .user-name { font-size: 13px; font-weight: 600; color: var(--text); }
 .user-plan { font-size: 10px; color: var(--accent); font-family: 'DM Mono', monospace; }
 .live-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--green); animation: pulse 2s infinite; margin-left: auto; flex-shrink: 0; }
-@keyframes pulse { 0%,100%{opacity:1;} 50%{opacity:0.3;} }
 
-/* MAIN */
+/* ── MAIN ──────────────────────────────────────────────────────────────────── */
 .main { flex: 1; display: flex; flex-direction: column; height: 100vh; overflow: hidden; min-width: 0; }
-
-.topbar {
-  padding: 0 24px; height: 60px; display: flex; align-items: center;
-  gap: 16px; border-bottom: 1px solid var(--border); background: var(--bg2); flex-shrink: 0;
-}
-.topbar-title { font-family: 'Syne', sans-serif; font-weight: 800; font-size: 16px; display: flex; align-items: center; gap: 8px; }
-.live-badge {
-  font-size: 10px; font-family: 'DM Mono', monospace; color: var(--green);
-  background: rgba(46,204,113,0.1); border: 1px solid rgba(46,204,113,0.25);
-  padding: 3px 8px; border-radius: 999px; display: flex; align-items: center; gap: 5px;
-}
+.topbar { padding: 0 20px; height: 60px; display: flex; align-items: center; gap: 12px; border-bottom: 1px solid var(--border); background: var(--bg2); flex-shrink: 0; }
+.topbar-title { font-family: 'Syne', sans-serif; font-weight: 800; font-size: 16px; display: flex; align-items: center; gap: 8px; white-space: nowrap; }
+.live-badge { font-size: 10px; font-family: 'DM Mono', monospace; color: var(--green); background: rgba(46,204,113,0.1); border: 1px solid rgba(46,204,113,0.25); padding: 3px 8px; border-radius: 999px; display: flex; align-items: center; gap: 5px; }
 .live-badge-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--green); animation: pulse 1.5s infinite; }
-.search-bar {
-  flex: 1; max-width: 380px; display: flex; align-items: center; gap: 8px;
-  background: var(--surface); border: 1px solid var(--border2); border-radius: 8px;
-  padding: 0 14px; height: 36px;
-}
-.search-bar input {
-  background: none; border: none; outline: none; color: var(--text);
-  font-size: 13px; font-family: 'Bricolage Grotesque', sans-serif; flex: 1;
-}
+.search-bar { flex: 1; max-width: 360px; display: flex; align-items: center; gap: 8px; background: var(--surface); border: 1px solid var(--border2); border-radius: 8px; padding: 0 14px; height: 36px; transition: border-color 0.2s; }
+.search-bar:focus-within { border-color: var(--accent); }
+.search-bar input { background: none; border: none; outline: none; color: var(--text); font-size: 13px; font-family: 'Bricolage Grotesque', sans-serif; flex: 1; }
 .search-bar input::placeholder { color: var(--text3); }
 .topbar-actions { display: flex; align-items: center; gap: 8px; margin-left: auto; }
-.btn-sm {
-  padding: 7px 14px; border-radius: 7px; font-size: 12px; font-weight: 600;
-  cursor: pointer; transition: all 0.15s; font-family: 'Bricolage Grotesque', sans-serif;
-  display: flex; align-items: center; gap: 6px; border: none;
-}
+.btn-sm { padding: 7px 14px; border-radius: 7px; font-size: 12px; font-weight: 600; cursor: pointer; transition: all 0.15s; font-family: 'Bricolage Grotesque', sans-serif; display: flex; align-items: center; gap: 6px; border: none; white-space: nowrap; }
 .btn-ghost-sm { background: transparent; border: 1px solid var(--border2); color: var(--text2); }
 .btn-ghost-sm:hover { background: var(--surface); color: var(--text); }
 .btn-primary-sm { background: linear-gradient(135deg, var(--accent), var(--accent2)); color: white; }
+.btn-primary-sm:hover { opacity: 0.9; }
+.refresh-btn { position: relative; }
+.refresh-countdown { font-size: 9px; color: var(--text3); font-family: 'DM Mono', monospace; }
 
-/* STATS BAR */
-.stats-bar {
-  display: grid; grid-template-columns: repeat(4, 1fr);
-  border-bottom: 1px solid var(--border); flex-shrink: 0;
-}
-.stat-cell {
-  padding: 14px 20px; border-right: 1px solid var(--border);
-}
+/* ── STATS BAR ─────────────────────────────────────────────────────────────── */
+.stats-bar { display: grid; grid-template-columns: repeat(4, 1fr); border-bottom: 1px solid var(--border); flex-shrink: 0; }
+.stat-cell { padding: 12px 20px; border-right: 1px solid var(--border); }
 .stat-cell:last-child { border-right: none; }
-.stat-num { font-family: 'Syne', sans-serif; font-size: 22px; font-weight: 800; color: var(--text); line-height: 1; }
+.stat-num { font-family: 'Syne', sans-serif; font-size: 22px; font-weight: 800; color: var(--text); line-height: 1; transition: color 0.3s; }
 .stat-num.red { color: var(--red); }
 .stat-num.green { color: var(--green); }
 .stat-label { font-size: 10px; color: var(--text3); font-family: 'DM Mono', monospace; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 4px; }
 .stat-delta { font-size: 11px; color: var(--green); font-family: 'DM Mono', monospace; margin-top: 2px; }
-.stat-delta.red { color: var(--red); }
+.stat-delta.muted { color: var(--text3); }
 
-/* CONTENT */
+/* ── CONTENT ───────────────────────────────────────────────────────────────── */
 .content { flex: 1; display: flex; overflow: hidden; min-height: 0; }
-
-/* FEED */
 .feed-col { flex: 1; display: flex; flex-direction: column; overflow: hidden; min-width: 0; }
-
-.filter-bar {
-  padding: 10px 20px; display: flex; align-items: center; gap: 6px;
-  border-bottom: 1px solid var(--border); flex-shrink: 0; flex-wrap: wrap;
-}
-.filter-pill {
-  padding: 5px 13px; border-radius: 999px; font-size: 12px; cursor: pointer;
-  border: 1px solid var(--border2); color: var(--text2); transition: all 0.15s;
-  background: transparent; font-family: 'Bricolage Grotesque', sans-serif; font-weight: 500;
-}
+.filter-bar { padding: 10px 16px; display: flex; align-items: center; gap: 6px; border-bottom: 1px solid var(--border); flex-shrink: 0; flex-wrap: wrap; }
+.filter-pill { padding: 5px 13px; border-radius: 999px; font-size: 12px; cursor: pointer; border: 1px solid var(--border2); color: var(--text2); transition: all 0.15s; background: transparent; font-family: 'Bricolage Grotesque', sans-serif; font-weight: 500; }
 .filter-pill:hover { border-color: var(--border3); color: var(--text); }
 .filter-pill.active { background: rgba(79,125,255,0.15); border-color: rgba(79,125,255,0.4); color: var(--accent); }
+.filter-count { font-size: 10px; background: var(--surface2); color: var(--text3); padding: 1px 5px; border-radius: 999px; margin-left: 4px; font-family: 'DM Mono', monospace; }
 
-.feed-list { flex: 1; overflow-y: auto; padding: 12px 16px; display: flex; flex-direction: column; gap: 10px; }
+/* ── FEED LIST ─────────────────────────────────────────────────────────────── */
+.feed-list { flex: 1; overflow-y: auto; padding: 12px 14px; display: flex; flex-direction: column; gap: 8px; }
 .feed-list::-webkit-scrollbar { width: 4px; }
 .feed-list::-webkit-scrollbar-track { background: transparent; }
 .feed-list::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 2px; }
+.empty-state { display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; gap: 12px; color: var(--text3); font-family: 'DM Mono', monospace; font-size: 13px; }
+.empty-state .icon { font-size: 32px; opacity: 0.4; }
 
-/* SIGNAL CARD */
+/* ── SIGNAL CARD ───────────────────────────────────────────────────────────── */
 .signal-card {
   background: var(--surface); border: 1px solid var(--border);
-  border-radius: 14px; padding: 16px; transition: border-color 0.2s;
-  cursor: pointer;
+  border-radius: 12px; padding: 14px; cursor: pointer;
+  transition: border-color 0.2s, transform 0.15s;
+  animation: fadeIn 0.3s ease both;
 }
-.signal-card:hover { border-color: var(--border2); }
+.signal-card:hover { border-color: var(--border2); transform: translateY(-1px); }
+.signal-card.new-signal { animation: newSignal 1s ease; }
 .signal-card.critical { border-left: 3px solid var(--red); }
 .signal-card.high { border-left: 3px solid var(--amber); }
 .signal-card.medium { border-left: 3px solid var(--accent); }
 .signal-card.low { border-left: 3px solid var(--text3); }
-
-.signal-top { display: flex; align-items: flex-start; gap: 10px; margin-bottom: 10px; }
-.signal-avatar {
-  width: 36px; height: 36px; border-radius: 50%; flex-shrink: 0;
-  display: flex; align-items: center; justify-content: center;
-  font-size: 12px; font-weight: 700;
-}
+.signal-top { display: flex; align-items: flex-start; gap: 10px; margin-bottom: 9px; }
+.signal-avatar { width: 34px; height: 34px; border-radius: 50%; flex-shrink: 0; display: flex; align-items: center; justify-content: center; font-size: 11px; font-weight: 700; }
 .signal-meta { flex: 1; min-width: 0; }
 .signal-name { font-size: 13px; font-weight: 600; color: var(--text); }
-.signal-role { font-size: 11px; color: var(--text3); margin-top: 1px; }
+.signal-role { font-size: 11px; color: var(--text3); margin-top: 1px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .signal-right { display: flex; flex-direction: column; align-items: flex-end; gap: 5px; flex-shrink: 0; }
-.severity-badge {
-  font-size: 10px; font-weight: 600; padding: 3px 9px; border-radius: 999px;
-  font-family: 'DM Mono', monospace; letter-spacing: 0.5px;
-}
+.severity-badge { font-size: 10px; font-weight: 600; padding: 3px 9px; border-radius: 999px; font-family: 'DM Mono', monospace; letter-spacing: 0.5px; }
 .severity-badge.critical { background: rgba(255,71,87,0.15); color: #ff6b78; border: 1px solid rgba(255,71,87,0.3); }
 .severity-badge.high { background: rgba(241,196,15,0.12); color: #f1c40f; border: 1px solid rgba(241,196,15,0.3); }
 .severity-badge.medium { background: rgba(79,125,255,0.12); color: #7fa8ff; border: 1px solid rgba(79,125,255,0.3); }
 .severity-badge.low { background: rgba(74,77,98,0.2); color: var(--text3); border: 1px solid var(--border2); }
-.signal-platforms { display: flex; gap: 4px; }
-.platform-dot {
-  font-size: 9px; padding: 2px 6px; border-radius: 4px;
-  background: var(--bg3); border: 1px solid var(--border); color: var(--text3);
-  font-family: 'DM Mono', monospace;
-}
-
-.signal-quote {
-  font-size: 13px; color: var(--text2); line-height: 1.6; margin-bottom: 10px;
-  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
-}
-.signal-tags { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 10px; }
-.signal-tag {
-  font-size: 10px; padding: 2px 8px; border-radius: 4px;
-  background: var(--bg3); border: 1px solid var(--border); color: var(--text3);
-  font-family: 'DM Mono', monospace;
-}
-.signal-footer { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
-.signal-ticker {
-  font-family: 'DM Mono', monospace; font-size: 12px; font-weight: 500;
-  padding: 3px 9px; border-radius: 5px;
-}
-.signal-ticker.up { background: rgba(46,204,113,0.12); color: var(--green); }
-.signal-ticker.down { background: rgba(255,71,87,0.12); color: var(--red); }
+.platform-dot { font-size: 9px; padding: 2px 6px; border-radius: 4px; background: var(--bg3); border: 1px solid var(--border); color: var(--text3); font-family: 'DM Mono', monospace; }
+.signal-quote { font-size: 13px; color: var(--text2); line-height: 1.6; margin-bottom: 9px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.signal-tags { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 9px; }
+.signal-tag { font-size: 10px; padding: 2px 8px; border-radius: 4px; background: var(--bg3); border: 1px solid var(--border); color: var(--text3); font-family: 'DM Mono', monospace; cursor: pointer; transition: border-color 0.15s; }
+.signal-tag:hover { border-color: var(--border2); color: var(--text2); }
+.signal-footer { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+.signal-ticker { font-family: 'DM Mono', monospace; font-size: 11px; font-weight: 500; padding: 2px 8px; border-radius: 4px; text-decoration: none; transition: opacity 0.15s; }
+.signal-ticker:hover { opacity: 0.8; }
+.signal-ticker.bearish { background: rgba(255,71,87,0.12); color: var(--red); }
+.signal-ticker.bullish { background: rgba(46,204,113,0.12); color: var(--green); }
+.signal-ticker.neutral { background: var(--bg3); color: var(--text3); border: 1px solid var(--border); }
 .signal-time { font-size: 11px; color: var(--text3); font-family: 'DM Mono', monospace; margin-left: auto; }
-.signal-affected { font-size: 11px; color: var(--text3); }
+.signal-source-link { font-size: 11px; color: var(--accent); font-family: 'DM Mono', monospace; opacity: 0.7; }
 
-/* RIGHT PANEL */
-.right-panel {
-  width: 280px; flex-shrink: 0; border-left: 1px solid var(--border);
-  overflow-y: auto; background: var(--bg2);
-}
+/* ── POLITICIANS VIEW ──────────────────────────────────────────────────────── */
+.politicians-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; padding: 16px; overflow-y: auto; flex: 1; }
+.pol-card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 16px; cursor: pointer; transition: all 0.15s; }
+.pol-card:hover { border-color: var(--border2); transform: translateY(-2px); }
+.pol-top { display: flex; align-items: center; gap: 12px; margin-bottom: 12px; }
+.pol-avatar { width: 44px; height: 44px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 14px; font-weight: 700; flex-shrink: 0; }
+.pol-name { font-size: 14px; font-weight: 600; }
+.pol-role { font-size: 11px; color: var(--text3); margin-top: 2px; }
+.pol-stats { display: flex; gap: 16px; margin-bottom: 10px; }
+.pol-stat { font-family: 'DM Mono', monospace; }
+.pol-stat-num { font-size: 18px; font-weight: 700; color: var(--text); line-height: 1; }
+.pol-stat-label { font-size: 9px; color: var(--text3); text-transform: uppercase; letter-spacing: 0.5px; }
+.pol-latest { font-size: 12px; color: var(--text2); line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.pol-sev-bar { display: flex; height: 3px; border-radius: 2px; overflow: hidden; margin-top: 10px; gap: 2px; }
+.pol-sev-seg { border-radius: 2px; transition: width 0.3s; }
+
+/* ── RIGHT PANEL ───────────────────────────────────────────────────────────── */
+.right-panel { width: 268px; flex-shrink: 0; border-left: 1px solid var(--border); overflow-y: auto; background: var(--bg2); }
 .right-panel::-webkit-scrollbar { width: 3px; }
 .right-panel::-webkit-scrollbar-thumb { background: var(--border2); }
-
-.panel-section { padding: 16px; border-bottom: 1px solid var(--border); }
-.panel-title { font-size: 11px; font-family: 'DM Mono', monospace; color: var(--text2); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px; display: flex; align-items: center; gap: 6px; }
-
-.mover-row { display: flex; align-items: center; gap: 8px; padding: 7px 0; border-bottom: 1px solid var(--border); }
+.panel-section { padding: 14px 16px; border-bottom: 1px solid var(--border); }
+.panel-title { font-size: 11px; font-family: 'DM Mono', monospace; color: var(--text2); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px; }
+.mover-row { display: flex; align-items: center; gap: 8px; padding: 6px 0; border-bottom: 1px solid var(--border); cursor: pointer; transition: opacity 0.15s; }
 .mover-row:last-child { border-bottom: none; }
-.mover-ticker { font-family: 'DM Mono', monospace; font-size: 12px; font-weight: 500; min-width: 44px; color: var(--text); }
+.mover-row:hover { opacity: 0.8; }
+.mover-ticker { font-family: 'DM Mono', monospace; font-size: 12px; font-weight: 600; min-width: 48px; color: var(--text); }
 .mover-name { font-size: 11px; color: var(--text3); flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.mover-pct { font-family: 'DM Mono', monospace; font-size: 12px; font-weight: 600; }
-.mover-pct.up { color: var(--green); }
-.mover-pct.down { color: var(--red); }
-
-.sentiment-score {
-  text-align: center; padding: 8px 0 12px;
-}
-.score-num { font-family: 'Syne', sans-serif; font-size: 48px; font-weight: 800; color: var(--red); line-height: 1; }
-.score-label { font-size: 11px; color: var(--red); font-family: 'DM Mono', monospace; letter-spacing: 1px; margin-bottom: 8px; }
-.score-desc { font-size: 11px; color: var(--text3); line-height: 1.5; margin-bottom: 12px; }
-.score-bar-row { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; font-size: 11px; color: var(--text2); }
-.score-bar-label { min-width: 80px; }
+.mover-mentions { font-family: 'DM Mono', monospace; font-size: 11px; color: var(--text3); }
+.mover-sev { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+.sentiment-score { text-align: center; padding: 4px 0 10px; }
+.score-num { font-family: 'Syne', sans-serif; font-size: 44px; font-weight: 800; line-height: 1; transition: color 0.3s; }
+.score-label { font-size: 11px; font-family: 'DM Mono', monospace; letter-spacing: 1px; margin-bottom: 6px; transition: color 0.3s; }
+.score-desc { font-size: 11px; color: var(--text3); line-height: 1.5; margin-bottom: 10px; }
+.score-bar-row { display: flex; align-items: center; gap: 8px; margin-bottom: 5px; font-size: 11px; }
+.score-bar-label { min-width: 72px; color: var(--text2); }
 .score-bar-track { flex: 1; height: 4px; background: var(--border2); border-radius: 2px; overflow: hidden; }
-.score-bar-fill { height: 100%; border-radius: 2px; }
+.score-bar-fill { height: 100%; border-radius: 2px; transition: width 0.5s; }
 .score-bar-val { min-width: 28px; text-align: right; font-family: 'DM Mono', monospace; font-size: 11px; color: var(--text3); }
-
-.trend-row { display: flex; align-items: flex-end; gap: 4px; margin-top: 8px; }
-.trend-day { display: flex; flex-direction: column; align-items: center; gap: 3px; flex: 1; }
-.trend-bar { width: 100%; border-radius: 2px 2px 0 0; background: var(--border2); min-height: 4px; }
-.trend-bar.active { background: var(--accent); }
-.trend-bar.red { background: var(--red); opacity: 0.6; }
-.trend-lbl { font-size: 9px; color: var(--text3); font-family: 'DM Mono', monospace; }
-
-.alert-row { padding: 8px 0; border-bottom: 1px solid var(--border); }
+.alert-row { padding: 7px 0; border-bottom: 1px solid var(--border); cursor: pointer; }
 .alert-row:last-child { border-bottom: none; }
-.alert-text { font-size: 12px; color: var(--text2); line-height: 1.5; margin-bottom: 3px; }
-.alert-meta { font-size: 10px; color: var(--text3); font-family: 'DM Mono', monospace; display: flex; gap: 6px; }
-.alert-sev { padding: 1px 6px; border-radius: 3px; font-size: 10px; }
+.alert-row:hover .alert-text { color: var(--text); }
+.alert-text { font-size: 12px; color: var(--text2); line-height: 1.5; margin-bottom: 3px; transition: color 0.15s; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.alert-meta { font-size: 10px; color: var(--text3); font-family: 'DM Mono', monospace; display: flex; gap: 6px; align-items: center; }
+.alert-sev { padding: 1px 6px; border-radius: 3px; }
 .alert-sev.critical { background: rgba(255,71,87,0.15); color: #ff6b78; }
 .alert-sev.high { background: rgba(241,196,15,0.12); color: var(--amber); }
 .alert-sev.medium { background: rgba(79,125,255,0.12); color: var(--accent); }
-.alert-sev.low { color: var(--text3); }
-
-.active-row { display: flex; align-items: center; gap: 10px; padding: 7px 0; border-bottom: 1px solid var(--border); }
+.active-row { display: flex; align-items: center; gap: 10px; padding: 6px 0; border-bottom: 1px solid var(--border); cursor: pointer; }
 .active-row:last-child { border-bottom: none; }
-.active-avatar { width: 30px; height: 30px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 700; flex-shrink: 0; }
+.active-avatar { width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 700; flex-shrink: 0; }
 .active-name { font-size: 12px; font-weight: 600; color: var(--text); }
 .active-detail { font-size: 10px; color: var(--text3); }
-.active-pct { margin-left: auto; font-family: 'DM Mono', monospace; font-size: 12px; font-weight: 600; }
+.active-count { margin-left: auto; font-family: 'DM Mono', monospace; font-size: 12px; font-weight: 600; color: var(--text3); }
 
+/* ── MODAL ─────────────────────────────────────────────────────────────────── */
+.modal-overlay {
+  position: fixed; inset: 0; background: rgba(0,0,0,0.7); backdrop-filter: blur(4px);
+  z-index: 200; display: flex; align-items: center; justify-content: center;
+  padding: 20px; opacity: 0; pointer-events: none; transition: opacity 0.2s;
+}
+.modal-overlay.open { opacity: 1; pointer-events: all; }
+.modal {
+  background: var(--surface); border: 1px solid var(--border2); border-radius: 16px;
+  width: 100%; max-width: 520px; max-height: 80vh; overflow-y: auto;
+  transform: translateY(20px); transition: transform 0.2s;
+}
+.modal-overlay.open .modal { transform: translateY(0); }
+.modal-header { padding: 20px 24px 16px; border-bottom: 1px solid var(--border); display: flex; align-items: center; justify-content: space-between; }
+.modal-title { font-family: 'Syne', sans-serif; font-size: 18px; font-weight: 800; }
+.modal-close { background: none; border: none; color: var(--text3); cursor: pointer; font-size: 20px; padding: 4px; line-height: 1; transition: color 0.15s; }
+.modal-close:hover { color: var(--text); }
+.modal-body { padding: 20px 24px; }
+.modal-detail { font-size: 14px; color: var(--text2); line-height: 1.75; margin-bottom: 16px; }
+.modal-section-label { font-size: 10px; color: var(--text3); font-family: 'DM Mono', monospace; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; }
+.modal-tickers { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px; }
+.modal-ticker { font-family: 'DM Mono', monospace; font-size: 12px; padding: 4px 12px; border-radius: 6px; text-decoration: none; }
+.modal-ticker.bearish { background: rgba(255,71,87,0.15); color: var(--red); border: 1px solid rgba(255,71,87,0.3); }
+.modal-ticker.bullish { background: rgba(46,204,113,0.15); color: var(--green); border: 1px solid rgba(46,204,113,0.3); }
+.modal-ticker.neutral { background: var(--bg3); color: var(--text3); border: 1px solid var(--border2); }
+.modal-link { display: inline-flex; align-items: center; gap: 6px; color: var(--accent); font-size: 13px; text-decoration: none; padding: 8px 16px; border: 1px solid rgba(79,125,255,0.3); border-radius: 8px; transition: background 0.15s; }
+.modal-link:hover { background: rgba(79,125,255,0.08); }
+
+/* Alert modal */
+.form-group { margin-bottom: 16px; }
+.form-label { font-size: 12px; color: var(--text2); margin-bottom: 6px; display: block; font-family: 'DM Mono', monospace; }
+.form-input {
+  width: 100%; padding: 10px 14px; background: var(--bg3); border: 1px solid var(--border2);
+  border-radius: 8px; color: var(--text); font-size: 14px; font-family: 'Bricolage Grotesque', sans-serif;
+  outline: none; transition: border-color 0.2s;
+}
+.form-input:focus { border-color: var(--accent); }
+.form-select { width: 100%; padding: 10px 14px; background: var(--bg3); border: 1px solid var(--border2); border-radius: 8px; color: var(--text); font-size: 14px; font-family: 'Bricolage Grotesque', sans-serif; outline: none; cursor: pointer; }
+.form-select:focus { border-color: var(--accent); }
+.modal-footer { padding: 16px 24px; border-top: 1px solid var(--border); display: flex; gap: 10px; justify-content: flex-end; }
+.modal-btn { padding: 9px 20px; border-radius: 8px; font-size: 13px; font-weight: 600; cursor: pointer; font-family: 'Bricolage Grotesque', sans-serif; border: none; transition: all 0.15s; }
+.modal-btn-ghost { background: transparent; border: 1px solid var(--border2); color: var(--text2); }
+.modal-btn-ghost:hover { background: var(--surface2); }
+.modal-btn-primary { background: linear-gradient(135deg, var(--accent), var(--accent2)); color: white; }
+.modal-btn-primary:hover { opacity: 0.9; }
+
+/* Alert rules list */
+.alert-rule { display: flex; align-items: center; gap: 10px; padding: 10px 12px; background: var(--bg3); border: 1px solid var(--border); border-radius: 8px; margin-bottom: 8px; }
+.alert-rule-keyword { flex: 1; font-size: 13px; color: var(--text); }
+.alert-rule-sev { font-size: 10px; font-family: 'DM Mono', monospace; color: var(--text3); padding: 2px 8px; background: var(--surface); border-radius: 4px; }
+.alert-rule-del { background: none; border: none; color: var(--text3); cursor: pointer; font-size: 16px; padding: 2px 4px; transition: color 0.15s; }
+.alert-rule-del:hover { color: var(--red); }
+
+/* ── TOAST ─────────────────────────────────────────────────────────────────── */
+.toast-container { position: fixed; bottom: 20px; right: 20px; z-index: 300; display: flex; flex-direction: column; gap: 8px; pointer-events: none; }
+.toast { background: var(--surface); border: 1px solid var(--border2); border-radius: 10px; padding: 12px 16px; min-width: 280px; max-width: 360px; display: flex; align-items: flex-start; gap: 10px; box-shadow: 0 8px 32px rgba(0,0,0,0.5); animation: slideIn 0.3s ease; pointer-events: all; cursor: pointer; }
+.toast.critical { border-left: 3px solid var(--red); }
+.toast.high { border-left: 3px solid var(--amber); }
+.toast-icon { font-size: 18px; flex-shrink: 0; }
+.toast-title { font-size: 13px; font-weight: 600; margin-bottom: 2px; }
+.toast-desc { font-size: 12px; color: var(--text2); line-height: 1.4; }
+
+/* ── RESPONSIVE ────────────────────────────────────────────────────────────── */
 @media (max-width: 900px) {
-  .sidebar { width: 56px; }
-  .logo-text, .logo-sub, .nav-item span.label, .sidebar-label, .sidebar-footer .user-name, .sidebar-footer .user-plan { display: none; }
+  .sidebar { width: 54px; }
+  .logo-text, .logo-sub, .nav-item .label, .sidebar-label, .sidebar-footer .user-name, .sidebar-footer .user-plan { display: none; }
   .nav-item { justify-content: center; padding: 10px; }
-  .nav-item .icon { width: auto; }
   .nav-badge { display: none; }
   .right-panel { display: none; }
   .sidebar-logo { justify-content: center; padding: 16px 0; }
+  .sidebar-footer { justify-content: center; }
 }
-@media (max-width: 600px) {
+@media (max-width: 640px) {
   .sidebar { display: none; }
   .stats-bar { grid-template-columns: 1fr 1fr; }
   .stat-cell:nth-child(2) { border-right: none; }
-  .stat-cell:nth-child(3) { border-bottom: none; }
+  .stat-cell:nth-child(3) { border-bottom: 1px solid var(--border); }
+  .topbar-title span.live-badge { display: none; }
 }
 </style>
 </head>
@@ -275,7 +282,7 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
 
 <!-- SIDEBAR -->
 <aside class="sidebar">
-  <div class="sidebar-logo">
+  <a class="sidebar-logo" href="/">
     <div class="logo-icon">
       <svg width="18" height="18" viewBox="0 0 32 32" fill="none">
         <polyline points="2,20 8,20 11,9 15,24 18,14 22,20 28,20 30,20" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
@@ -285,46 +292,42 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
       <div class="logo-text">PolitiSignal</div>
       <div class="logo-sub">Market Intelligence</div>
     </div>
-  </div>
+  </a>
 
   <div class="sidebar-section">
     <div class="sidebar-label">Monitor</div>
-    <a class="nav-item active" href="#">
+    <button class="nav-item active" onclick="setView('feed', this)">
       <span class="icon">⚡</span>
       <span class="label">Live Feed</span>
-      <span class="nav-badge blue">12</span>
-    </a>
-    <a class="nav-item" href="#">
+      <span class="nav-badge blue" id="feed-badge">0</span>
+    </button>
+    <button class="nav-item" onclick="setView('politicians', this)">
       <span class="icon">👤</span>
       <span class="label">Politicians</span>
-    </a>
-    <a class="nav-item" href="#">
+    </button>
+    <button class="nav-item" onclick="setView('analysis', this)">
       <span class="icon">📊</span>
       <span class="label">Analysis</span>
-    </a>
-    <a class="nav-item" href="#">
-      <span class="icon">💼</span>
-      <span class="label">Portfolio Impact</span>
-    </a>
+    </button>
   </div>
 
   <div class="sidebar-section">
     <div class="sidebar-label">Settings</div>
-    <a class="nav-item" href="#">
+    <button class="nav-item" onclick="openAlertModal()">
       <span class="icon">🔔</span>
       <span class="label">Alerts</span>
-      <span class="nav-badge">3</span>
-    </a>
-    <a class="nav-item" href="#">
+      <span class="nav-badge" id="alert-badge" style="display:none">0</span>
+    </button>
+    <button class="nav-item" onclick="openSourcesModal()">
       <span class="icon">🌐</span>
       <span class="label">Sources</span>
-    </a>
+    </button>
   </div>
 
   <div class="sidebar-footer">
-    <div class="user-avatar">JD</div>
+    <div class="user-avatar">PS</div>
     <div>
-      <div class="user-name">John Doe</div>
+      <div class="user-name">Trader</div>
       <div class="user-plan">PRO PLAN</div>
     </div>
     <div class="live-dot"></div>
@@ -336,240 +339,68 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
 
   <!-- TOPBAR -->
   <div class="topbar">
-    <div class="topbar-title">
+    <div class="topbar-title" id="topbar-title">
       ⚡ Live Signal Feed
       <span class="live-badge"><span class="live-badge-dot"></span>LIVE</span>
     </div>
     <div class="search-bar">
       <span style="color:var(--text3);font-size:13px;">🔍</span>
-      <input type="text" placeholder="Search politicians, topics, tickers..." />
+      <input type="text" id="search-input" placeholder="Search politicians, topics, tickers…" oninput="onSearch(this.value)" />
     </div>
     <div class="topbar-actions">
-      <button class="btn-sm btn-ghost-sm">⬇ Export CSV</button>
-      <button class="btn-sm btn-primary-sm">+ New Alert</button>
+      <button class="btn-sm btn-ghost-sm refresh-btn" onclick="manualRefresh()" title="Refresh signals">
+        ↻ <span class="refresh-countdown" id="countdown"></span>
+      </button>
+      <button class="btn-sm btn-ghost-sm" onclick="exportCSV()">⬇ CSV</button>
+      <button class="btn-sm btn-primary-sm" onclick="openAlertModal()">+ New Alert</button>
     </div>
   </div>
 
   <!-- STATS BAR -->
   <div class="stats-bar">
     <div class="stat-cell">
-      <div class="stat-num" id="stat-total">247</div>
-      <div class="stat-label">Signals Today</div>
-      <div class="stat-delta" id="last-updated">Loading live data…</div>
+      <div class="stat-num" id="stat-total">—</div>
+      <div class="stat-label">Signals Loaded</div>
+      <div class="stat-delta muted" id="stat-updated">Fetching…</div>
     </div>
     <div class="stat-cell">
-      <div class="stat-num red" id="stat-critical">12</div>
-      <div class="stat-label">Critical Alerts</div>
-      <div class="stat-delta" style="color:var(--text3)">3 in last hour</div>
+      <div class="stat-num red" id="stat-critical">—</div>
+      <div class="stat-label">Critical</div>
+      <div class="stat-delta muted" id="stat-high-label">— high</div>
     </div>
     <div class="stat-cell">
-      <div class="stat-num red">−1.4%</div>
-      <div class="stat-label">Avg Market Move</div>
-      <div class="stat-delta" style="color:var(--text3)">on critical signals</div>
+      <div class="stat-num" id="stat-politicians">—</div>
+      <div class="stat-label">Politicians Active</div>
+      <div class="stat-delta muted" id="stat-sources-label">— sources</div>
     </div>
     <div class="stat-cell">
-      <div class="stat-num">184</div>
-      <div class="stat-label">Politicians Tracked</div>
-      <div class="stat-delta">▲ 6 new this week</div>
+      <div class="stat-num" id="stat-tickers">—</div>
+      <div class="stat-label">Tickers Affected</div>
+      <div class="stat-delta muted" id="stat-alerts-label">— alert rules</div>
     </div>
   </div>
 
   <!-- CONTENT -->
   <div class="content">
 
-    <!-- FEED -->
-    <div class="feed-col">
-      <div class="filter-bar">
-        <button class="filter-pill active" onclick="setFilter(this)">All</button>
-        <button class="filter-pill" onclick="setFilter(this)">Critical</button>
-        <button class="filter-pill" onclick="setFilter(this)">Trade</button>
-        <button class="filter-pill" onclick="setFilter(this)">Energy</button>
-        <button class="filter-pill" onclick="setFilter(this)">Tech</button>
-        <button class="filter-pill" onclick="setFilter(this)">Finance</button>
-        <button class="filter-pill" onclick="setFilter(this)">Pharma</button>
+    <!-- FEED COL -->
+    <div class="feed-col" id="feed-col">
+      <div class="filter-bar" id="filter-bar">
+        <button class="filter-pill active" onclick="setFilter(this,'All')">All</button>
+        <button class="filter-pill" onclick="setFilter(this,'critical')">🔴 Critical</button>
+        <button class="filter-pill" onclick="setFilter(this,'high')">🟡 High</button>
+        <button class="filter-pill" onclick="setFilter(this,'Trade')">Trade</button>
+        <button class="filter-pill" onclick="setFilter(this,'Tech')">Tech</button>
+        <button class="filter-pill" onclick="setFilter(this,'Energy')">Energy</button>
+        <button class="filter-pill" onclick="setFilter(this,'Pharma')">Pharma</button>
+        <button class="filter-pill" onclick="setFilter(this,'Crypto')">Crypto</button>
+        <button class="filter-pill" onclick="setFilter(this,'Banking')">Banking</button>
       </div>
-
       <div class="feed-list" id="signal-feed">
-
-        <!-- Warren -->
-        <div class="signal-card critical">
-          <div class="signal-top">
-            <div class="signal-avatar" style="background:#1b3a2a;color:#4ade80;">EW</div>
-            <div class="signal-meta">
-              <div class="signal-name">Sen. Elizabeth Warren</div>
-              <div class="signal-role">Senate Banking Committee Chair</div>
-            </div>
-            <div class="signal-right">
-              <span class="severity-badge critical">CRITICAL</span>
-              <div class="signal-platforms">
-                <span class="platform-dot">X</span>
-                <span class="platform-dot">f</span>
-                <span class="platform-dot">ig</span>
-              </div>
-            </div>
-          </div>
-          <div class="signal-quote">"We MUST break up Big Tech monopolies NOW. I am introducing legislation next week to force Amazon, Google, and Apple to completely divest their platform businesses. No more allowing these companies to…"</div>
-          <div class="signal-tags">
-            <span class="signal-tag">Antitrust</span>
-            <span class="signal-tag">Big Tech</span>
-            <span class="signal-tag">Regulation</span>
-            <span class="signal-tag">Divestiture</span>
-          </div>
-          <div class="signal-footer">
-            <span class="signal-ticker down">AMZN −2.3%</span>
-            <span class="signal-time">14 min ago</span>
-          </div>
-          <div class="signal-affected" style="margin-top:6px;">Affected: AMZN, GOOGL, AAPL, META</div>
+        <div class="empty-state">
+          <div class="icon">⚡</div>
+          <div>Loading live signals…</div>
         </div>
-
-        <!-- Hern -->
-        <div class="signal-card high">
-          <div class="signal-top">
-            <div class="signal-avatar" style="background:#2a1f0a;color:#fbbf24;">KH</div>
-            <div class="signal-meta">
-              <div class="signal-name">Rep. Kevin Hern</div>
-              <div class="signal-role">House Agriculture Committee</div>
-            </div>
-            <div class="signal-right">
-              <span class="severity-badge high">HIGH</span>
-              <div class="signal-platforms">
-                <span class="platform-dot">X</span>
-              </div>
-            </div>
-          </div>
-          <div class="signal-quote">"Just finished a productive meeting with American energy executives. I am proposing the immediate rollback of wasteful clean energy subsidies and fast-tracking new oil drilling permits on federal land…"</div>
-          <div class="signal-tags">
-            <span class="signal-tag">Energy</span>
-            <span class="signal-tag">Oil</span>
-            <span class="signal-tag">Subsidies</span>
-            <span class="signal-tag">Drilling</span>
-          </div>
-          <div class="signal-footer">
-            <span class="signal-ticker up">XOM +3.1%</span>
-            <span class="signal-time">31 min ago</span>
-          </div>
-          <div class="signal-affected" style="margin-top:6px;">Affected: XOM, CVX, FSLR, ENPH</div>
-        </div>
-
-        <!-- Rubio -->
-        <div class="signal-card critical">
-          <div class="signal-top">
-            <div class="signal-avatar" style="background:#1e3a5f;color:#60a5fa;">MR</div>
-            <div class="signal-meta">
-              <div class="signal-name">Sen. Marco Rubio</div>
-              <div class="signal-role">Senate Foreign Relations Committee</div>
-            </div>
-            <div class="signal-right">
-              <span class="severity-badge critical">CRITICAL</span>
-              <div class="signal-platforms">
-                <span class="platform-dot">X</span>
-                <span class="platform-dot">f</span>
-              </div>
-            </div>
-          </div>
-          <div class="signal-quote">"China's predatory trade practices are an existential threat to American manufacturing. I am pushing for 60% tariffs on Chinese semiconductors and a total export ban on TSMC-manufactured chips for any…"</div>
-          <div class="signal-tags">
-            <span class="signal-tag">Tariffs</span>
-            <span class="signal-tag">China</span>
-            <span class="signal-tag">Semiconductors</span>
-            <span class="signal-tag">Export Ban</span>
-          </div>
-          <div class="signal-footer">
-            <span class="signal-ticker down">NVDA −4.1%</span>
-            <span class="signal-time">52 min ago</span>
-          </div>
-          <div class="signal-affected" style="margin-top:6px;">Affected: NVDA, AMD, INTC, TSM, QCOM</div>
-        </div>
-
-        <!-- McHenry -->
-        <div class="signal-card medium">
-          <div class="signal-top">
-            <div class="signal-avatar" style="background:#2d1e5f;color:#c084fc;">PM</div>
-            <div class="signal-meta">
-              <div class="signal-name">Rep. Patrick McHenry</div>
-              <div class="signal-role">House Financial Services Committee</div>
-            </div>
-            <div class="signal-right">
-              <span class="severity-badge medium">MEDIUM</span>
-              <div class="signal-platforms">
-                <span class="platform-dot">X</span>
-              </div>
-            </div>
-          </div>
-          <div class="signal-quote">"Pleased to announce we have reached bipartisan agreement on a comprehensive stablecoin legislation framework. Full bill text coming this session — the crypto industry finally gets the regulatory clari…"</div>
-          <div class="signal-tags">
-            <span class="signal-tag">Crypto</span>
-            <span class="signal-tag">Stablecoins</span>
-            <span class="signal-tag">Regulation</span>
-            <span class="signal-tag">Bipartisan</span>
-          </div>
-          <div class="signal-footer">
-            <span class="signal-ticker up">BTC +5.8%</span>
-            <span class="signal-time">1 hr ago</span>
-          </div>
-          <div class="signal-affected" style="margin-top:6px;">Affected: BTC, ETH, COIN, SQ</div>
-        </div>
-
-        <!-- Sanders -->
-        <div class="signal-card high">
-          <div class="signal-top">
-            <div class="signal-avatar" style="background:#1e2a4a;color:#818cf8;">BS</div>
-            <div class="signal-meta">
-              <div class="signal-name">Sen. Bernie Sanders</div>
-              <div class="signal-role">Senate HELP Committee Chair</div>
-            </div>
-            <div class="signal-right">
-              <span class="severity-badge high">HIGH</span>
-              <div class="signal-platforms">
-                <span class="platform-dot">X</span>
-                <span class="platform-dot">ig</span>
-                <span class="platform-dot">f</span>
-              </div>
-            </div>
-          </div>
-          <div class="signal-quote">"Drug companies are making RECORD profits while Americans are rationing insulin and skipping medications. My Medicare for All bill would cap ALL prescription drug prices at international rates…"</div>
-          <div class="signal-tags">
-            <span class="signal-tag">Healthcare</span>
-            <span class="signal-tag">Pharma</span>
-            <span class="signal-tag">Drug Pricing</span>
-            <span class="signal-tag">Medicare</span>
-          </div>
-          <div class="signal-footer">
-            <span class="signal-ticker down">LLY −1.9%</span>
-            <span class="signal-time">2 hr ago</span>
-          </div>
-          <div class="signal-affected" style="margin-top:6px;">Affected: LLY, JNJ, PFE, MRK</div>
-        </div>
-
-        <!-- Hill -->
-        <div class="signal-card low">
-          <div class="signal-top">
-            <div class="signal-avatar" style="background:#1a2a1a;color:#86efac;">FH</div>
-            <div class="signal-meta">
-              <div class="signal-name">Rep. French Hill</div>
-              <div class="signal-role">House Agriculture Subcommittee</div>
-            </div>
-            <div class="signal-right">
-              <span class="severity-badge low">LOW</span>
-              <div class="signal-platforms">
-                <span class="platform-dot">f</span>
-              </div>
-            </div>
-          </div>
-          <div class="signal-quote">"Great news for American farmers — we have finalized a new trade deal with the EU that opens €12 billion in agricultural exports. Grain, soybean, and corn futures will benefit significantly…"</div>
-          <div class="signal-tags">
-            <span class="signal-tag">Agriculture</span>
-            <span class="signal-tag">Trade Deal</span>
-            <span class="signal-tag">EU</span>
-            <span class="signal-tag">Exports</span>
-          </div>
-          <div class="signal-footer">
-            <span class="signal-ticker up">CORN +1.2%</span>
-            <span class="signal-time">3 hr ago</span>
-          </div>
-          <div class="signal-affected" style="margin-top:6px;">Affected: CORN, SOYB, DE</div>
-        </div>
-
       </div>
     </div>
 
@@ -577,126 +408,47 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
     <div class="right-panel">
 
       <div class="panel-section">
-        <div class="panel-title">📈 Top Movers (Signal-Driven)</div>
-        <div class="mover-row">
-          <span class="mover-ticker">TSM</span>
-          <span class="mover-name">Taiwan Semiconductor</span>
-          <span class="mover-pct down">−4.1%</span>
-        </div>
-        <div class="mover-row">
-          <span class="mover-ticker">BTC</span>
-          <span class="mover-name">Bitcoin</span>
-          <span class="mover-pct up">+5.8%</span>
-        </div>
-        <div class="mover-row">
-          <span class="mover-ticker">XOM</span>
-          <span class="mover-name">ExxonMobil</span>
-          <span class="mover-pct up">+3.1%</span>
-        </div>
-        <div class="mover-row">
-          <span class="mover-ticker">AMZN</span>
-          <span class="mover-name">Amazon</span>
-          <span class="mover-pct down">−2.3%</span>
-        </div>
-        <div class="mover-row">
-          <span class="mover-ticker">GOOGL</span>
-          <span class="mover-name">Alphabet</span>
-          <span class="mover-pct down">−1.9%</span>
-        </div>
-        <div class="mover-row">
-          <span class="mover-ticker">LLY</span>
-          <span class="mover-name">Eli Lilly</span>
-          <span class="mover-pct down">−1.4%</span>
+        <div class="panel-title">📈 Top Tickers Affected</div>
+        <div id="top-movers">
+          <div style="font-size:12px;color:var(--text3);font-family:'DM Mono',monospace;">Loading…</div>
         </div>
       </div>
 
       <div class="panel-section">
-        <div class="panel-title">🎯 Market Sentiment Score</div>
+        <div class="panel-title">🎯 Signal Sentiment</div>
         <div class="sentiment-score">
-          <div class="score-num">34</div>
-          <div class="score-label">BEARISH</div>
-          <div class="score-desc">Based on 247 signals today. Dominated by trade war rhetoric and antitrust threats.</div>
+          <div class="score-num" id="score-num" style="color:var(--text3)">—</div>
+          <div class="score-label" id="score-label" style="color:var(--text3)">LOADING</div>
+          <div class="score-desc" id="score-desc">Waiting for signals…</div>
           <div class="score-bar-row">
-            <span class="score-bar-label">Bearish signals</span>
-            <div class="score-bar-track"><div class="score-bar-fill" style="width:62%;background:var(--red);"></div></div>
-            <span class="score-bar-val">62%</span>
+            <span class="score-bar-label">Bearish</span>
+            <div class="score-bar-track"><div class="score-bar-fill" id="bar-bearish" style="width:0%;background:var(--red);"></div></div>
+            <span class="score-bar-val" id="val-bearish">0%</span>
           </div>
           <div class="score-bar-row">
-            <span class="score-bar-label">Bullish signals</span>
-            <div class="score-bar-track"><div class="score-bar-fill" style="width:23%;background:var(--green);"></div></div>
-            <span class="score-bar-val">23%</span>
+            <span class="score-bar-label">Bullish</span>
+            <div class="score-bar-track"><div class="score-bar-fill" id="bar-bullish" style="width:0%;background:var(--green);"></div></div>
+            <span class="score-bar-val" id="val-bullish">0%</span>
           </div>
           <div class="score-bar-row">
             <span class="score-bar-label">Neutral</span>
-            <div class="score-bar-track"><div class="score-bar-fill" style="width:15%;background:var(--text3);"></div></div>
-            <span class="score-bar-val">15%</span>
+            <div class="score-bar-track"><div class="score-bar-fill" id="bar-neutral" style="width:0%;background:var(--text3);"></div></div>
+            <span class="score-bar-val" id="val-neutral">0%</span>
           </div>
-        </div>
-        <div style="font-size:10px;color:var(--text3);font-family:'DM Mono',monospace;margin-bottom:6px;letter-spacing:0.5px;">7-DAY TREND</div>
-        <div class="trend-row">
-          <div class="trend-day"><div class="trend-bar red" style="height:28px;"></div><div class="trend-lbl">Mon</div></div>
-          <div class="trend-day"><div class="trend-bar" style="height:16px;"></div><div class="trend-lbl">Tue</div></div>
-          <div class="trend-day"><div class="trend-bar red" style="height:36px;"></div><div class="trend-lbl">Wed</div></div>
-          <div class="trend-day"><div class="trend-bar" style="height:12px;"></div><div class="trend-lbl">Thu</div></div>
-          <div class="trend-day"><div class="trend-bar red" style="height:22px;"></div><div class="trend-lbl">Fri</div></div>
-          <div class="trend-day"><div class="trend-bar" style="height:8px;"></div><div class="trend-lbl">Sat</div></div>
-          <div class="trend-day"><div class="trend-bar active" style="height:40px;"></div><div class="trend-lbl">Today</div></div>
         </div>
       </div>
 
       <div class="panel-section">
-        <div class="panel-title">🔔 Recent Alerts Triggered</div>
-        <div class="alert-row">
-          <div class="alert-text">Warren mentions Big Tech breakup — AMZN / GOOGL / AAPL impacted</div>
-          <div class="alert-meta"><span>14 min ago</span><span class="alert-sev critical">Critical</span></div>
-        </div>
-        <div class="alert-row">
-          <div class="alert-text">Rubio tariff post — semiconductor sector sell-off underway</div>
-          <div class="alert-meta"><span>52 min ago</span><span class="alert-sev high">High</span></div>
-        </div>
-        <div class="alert-row">
-          <div class="alert-text">Crypto stablecoin bill confirmed — BTC +5.8% in 30 min</div>
-          <div class="alert-meta"><span>1 hr ago</span><span class="alert-sev medium">Medium</span></div>
-        </div>
-        <div class="alert-row">
-          <div class="alert-text">EU agriculture trade deal announced — grain futures up</div>
-          <div class="alert-meta"><span>3 hr ago</span><span class="alert-sev low">Low</span></div>
+        <div class="panel-title">🔔 Latest High-Priority</div>
+        <div id="recent-alerts">
+          <div style="font-size:12px;color:var(--text3);font-family:'DM Mono',monospace;">Loading…</div>
         </div>
       </div>
 
       <div class="panel-section">
-        <div class="panel-title">🔥 Most Active Today</div>
-        <div class="active-row">
-          <div class="active-avatar" style="background:#1b3a2a;color:#4ade80;">EW</div>
-          <div>
-            <div class="active-name">E. Warren</div>
-            <div class="active-detail">8 posts · Tech sector</div>
-          </div>
-          <span class="active-pct down" style="color:var(--red);">−2.3%</span>
-        </div>
-        <div class="active-row">
-          <div class="active-avatar" style="background:#1e3a5f;color:#60a5fa;">MR</div>
-          <div>
-            <div class="active-name">M. Rubio</div>
-            <div class="active-detail">5 posts · Trade policy</div>
-          </div>
-          <span class="active-pct" style="color:var(--red);">−4.1%</span>
-        </div>
-        <div class="active-row">
-          <div class="active-avatar" style="background:#1e2a4a;color:#818cf8;">BS</div>
-          <div>
-            <div class="active-name">B. Sanders</div>
-            <div class="active-detail">12 posts · Pharma</div>
-          </div>
-          <span class="active-pct" style="color:var(--red);">−1.9%</span>
-        </div>
-        <div class="active-row">
-          <div class="active-avatar" style="background:#2a1f0a;color:#fbbf24;">KH</div>
-          <div>
-            <div class="active-name">K. Hern</div>
-            <div class="active-detail">4 posts · Energy</div>
-          </div>
-          <span class="active-pct" style="color:var(--green);">+3.1%</span>
+        <div class="panel-title">🔥 Most Active</div>
+        <div id="most-active">
+          <div style="font-size:12px;color:var(--text3);font-family:'DM Mono',monospace;">Loading…</div>
         </div>
       </div>
 
@@ -704,36 +456,229 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
   </div>
 </div>
 
+<!-- SIGNAL DETAIL MODAL -->
+<div class="modal-overlay" id="signal-modal" onclick="if(event.target===this)closeModal('signal-modal')">
+  <div class="modal">
+    <div class="modal-header">
+      <div class="modal-title" id="modal-pol-name">Signal Detail</div>
+      <button class="modal-close" onclick="closeModal('signal-modal')">×</button>
+    </div>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div>
+
+<!-- ALERT RULES MODAL -->
+<div class="modal-overlay" id="alert-modal" onclick="if(event.target===this)closeModal('alert-modal')">
+  <div class="modal">
+    <div class="modal-header">
+      <div class="modal-title">🔔 Alert Rules</div>
+      <button class="modal-close" onclick="closeModal('alert-modal')">×</button>
+    </div>
+    <div class="modal-body">
+      <p style="font-size:13px;color:var(--text2);margin-bottom:16px;">Get browser notifications when signals match your keywords. Rules are saved locally in your browser.</p>
+      <div id="alert-rules-list"></div>
+      <hr style="border-color:var(--border);margin:16px 0;">
+      <div class="form-group">
+        <label class="form-label">Keyword or ticker (e.g. "NVDA", "tariff", "Rubio")</label>
+        <input class="form-input" id="alert-keyword" placeholder="Enter keyword…" />
+      </div>
+      <div class="form-group">
+        <label class="form-label">Minimum severity</label>
+        <select class="form-select" id="alert-severity">
+          <option value="any">Any severity</option>
+          <option value="medium">Medium or higher</option>
+          <option value="high">High or higher</option>
+          <option value="critical">Critical only</option>
+        </select>
+      </div>
+    </div>
+    <div class="modal-footer">
+      <button class="modal-btn modal-btn-ghost" onclick="closeModal('alert-modal')">Close</button>
+      <button class="modal-btn modal-btn-primary" onclick="saveAlertRule()">+ Add Rule</button>
+    </div>
+  </div>
+</div>
+
+<!-- SOURCES MODAL -->
+<div class="modal-overlay" id="sources-modal" onclick="if(event.target===this)closeModal('sources-modal')">
+  <div class="modal">
+    <div class="modal-header">
+      <div class="modal-title">🌐 Data Sources</div>
+      <button class="modal-close" onclick="closeModal('sources-modal')">×</button>
+    </div>
+    <div class="modal-body">
+      <p style="font-size:13px;color:var(--text2);margin-bottom:20px;">PolitiSignal pulls from these free sources, updated every 10 minutes via automated fetcher.</p>
+      <div style="display:flex;flex-direction:column;gap:10px;">
+        <div class="alert-rule" style="flex-direction:column;align-items:flex-start;gap:4px;">
+          <div style="display:flex;align-items:center;gap:8px;"><span style="color:var(--green);font-size:16px;">●</span><strong style="font-size:13px;">.gov RSS Feeds</strong></div>
+          <div style="font-size:12px;color:var(--text3);">Official press releases from senate.gov and house.gov — free, official, highly reliable.</div>
+        </div>
+        <div class="alert-rule" style="flex-direction:column;align-items:flex-start;gap:4px;">
+          <div style="display:flex;align-items:center;gap:8px;"><span style="color:var(--green);font-size:16px;">●</span><strong style="font-size:13px;">Truth Social</strong></div>
+          <div style="font-size:12px;color:var(--text3);">Public posts via Mastodon API — free, no auth required for public accounts.</div>
+        </div>
+        <div class="alert-rule" style="flex-direction:column;align-items:flex-start;gap:4px;">
+          <div style="display:flex;align-items:center;gap:8px;"><span style="color:var(--amber);font-size:16px;">●</span><strong style="font-size:13px;">YouTube Data API</strong></div>
+          <div style="font-size:12px;color:var(--text3);">Official channel videos — free 10k units/day. Add YOUTUBE_API_KEY to GitHub Secrets to activate.</div>
+        </div>
+        <div class="alert-rule" style="flex-direction:column;align-items:flex-start;gap:4px;">
+          <div style="display:flex;align-items:center;gap:8px;"><span style="color:var(--red);font-size:16px;">●</span><strong style="font-size:13px;">Twitter/X</strong></div>
+          <div style="font-size:12px;color:var(--text3);">Official API now requires $100/month. Not currently connected.</div>
+        </div>
+      </div>
+    </div>
+    <div class="modal-footer">
+      <button class="modal-btn modal-btn-ghost" onclick="closeModal('sources-modal')">Close</button>
+    </div>
+  </div>
+</div>
+
+<!-- TOAST CONTAINER -->
+<div class="toast-container" id="toast-container"></div>
+
 <script>
-// ── State ──────────────────────────────────────────────────────────────────
+// ── DEMO DATA (shown when signals.json is empty) ───────────────────────────
+const DEMO_SIGNALS = [
+  { id:'d1', politician:'Sen. Elizabeth Warren', initials:'EW', role:'Senate Banking Committee Chair', color:{bg:'#1b3a2a',fg:'#4ade80'}, severity:'critical', content:'We MUST break up Big Tech monopolies NOW. I am introducing legislation next week to force Amazon, Google, and Apple to completely divest their platform businesses. No more allowing these companies to own the very platforms they compete on.', tags:['Antitrust','Big Tech','Regulation'], tickers:['AMZN','GOOGL','AAPL','META'], source:'rss', platform:'.gov', url:'', published_iso: new Date(Date.now()-14*60000).toISOString(), time_ago:'14 min ago' },
+  { id:'d2', politician:'Sen. Marco Rubio', initials:'MR', role:'Senate Foreign Relations Committee', color:{bg:'#1e3a5f',fg:'#60a5fa'}, severity:'critical', content:"China's predatory trade practices are an existential threat to American manufacturing. I am pushing for 60% tariffs on Chinese semiconductors and a total export ban on TSMC-manufactured chips for any firm with ties to the Chinese military.", tags:['Tariffs','China','Semiconductors'], tickers:['NVDA','TSM','AMD','QCOM'], source:'rss', platform:'.gov', url:'', published_iso: new Date(Date.now()-52*60000).toISOString(), time_ago:'52 min ago' },
+  { id:'d3', politician:'Rep. Kevin Hern', initials:'KH', role:'House Agriculture Committee', color:{bg:'#2a1f0a',fg:'#fbbf24'}, severity:'high', content:'Just finished a productive meeting with American energy executives. I am proposing the immediate rollback of clean energy subsidies and fast-tracking new oil drilling permits on federal land. American energy independence starts now.', tags:['Energy','Oil','Subsidies'], tickers:['XOM','CVX','FSLR','ENPH'], source:'rss', platform:'.gov', url:'', published_iso: new Date(Date.now()-31*60000).toISOString(), time_ago:'31 min ago' },
+  { id:'d4', politician:'Rep. Patrick McHenry', initials:'PM', role:'House Financial Services Committee', color:{bg:'#2d1e5f',fg:'#c084fc'}, severity:'medium', content:'Pleased to announce bipartisan agreement on a comprehensive stablecoin legislation framework. Full bill text coming this session — the crypto industry finally gets the regulatory clarity it needs to grow responsibly.', tags:['Crypto','Stablecoins','Bipartisan'], tickers:['BTC','ETH','COIN','SQ'], source:'rss', platform:'.gov', url:'', published_iso: new Date(Date.now()-60*60000).toISOString(), time_ago:'1 hr ago' },
+  { id:'d5', politician:'Sen. Bernie Sanders', initials:'BS', role:'Senate HELP Committee Chair', color:{bg:'#1e2a4a',fg:'#818cf8'}, severity:'high', content:'Drug companies are making RECORD profits while Americans ration insulin. My Medicare for All bill would cap ALL prescription drug prices at international rates — saving the average American $1,200 per year.', tags:['Healthcare','Pharma','Drug Pricing'], tickers:['LLY','PFE','JNJ','MRK'], source:'rss', platform:'.gov', url:'', published_iso: new Date(Date.now()-2*3600000).toISOString(), time_ago:'2 hr ago' },
+  { id:'d6', politician:'Rep. French Hill', initials:'FH', role:'House Agriculture Subcommittee', color:{bg:'#1a2a1a',fg:'#86efac'}, severity:'low', content:'Great news for American farmers — we have finalized a new trade deal with the EU that opens €12 billion in agricultural exports. Grain, soybean, and corn futures will benefit significantly from this historic agreement.', tags:['Agriculture','Trade Deal','EU'], tickers:['CORN','SOYB','DE'], source:'rss', platform:'.gov', url:'', published_iso: new Date(Date.now()-3*3600000).toISOString(), time_ago:'3 hr ago' },
+];
+
+// ── TICKER COMPANY NAMES ───────────────────────────────────────────────────
+const TICKER_NAMES = {
+  AMZN:'Amazon', GOOGL:'Alphabet', AAPL:'Apple', META:'Meta', MSFT:'Microsoft',
+  NVDA:'Nvidia', TSM:'Taiwan Semi', AMD:'AMD', QCOM:'Qualcomm', INTC:'Intel',
+  XOM:'ExxonMobil', CVX:'Chevron', FSLR:'First Solar', ENPH:'Enphase',
+  BTC:'Bitcoin', ETH:'Ethereum', COIN:'Coinbase', SQ:'Block',
+  LLY:'Eli Lilly', PFE:'Pfizer', JNJ:'J&J', MRK:'Merck',
+  CORN:'Corn ETF', SOYB:'Soybean ETF', DE:'Deere',
+  JPM:'JPMorgan', BAC:'Bank of America', GS:'Goldman',
+  LMT:'Lockheed', RTX:'Raytheon', NOC:'Northrop',
+};
+
+// ── STATE ──────────────────────────────────────────────────────────────────
 let allSignals = [];
 let activeFilter = 'All';
+let searchQuery = '';
+let currentView = 'feed';
+let alertRules = JSON.parse(localStorage.getItem('ps-alert-rules') || '[]');
+let seenIds = new Set(JSON.parse(localStorage.getItem('ps-seen-ids') || '[]'));
+let nextRefreshAt = Date.now() + 10 * 60 * 1000;
+let usingDemo = false;
 
-// ── Filter tabs ────────────────────────────────────────────────────────────
-function setFilter(el) {
-  document.querySelectorAll('.filter-pill').forEach(p => p.classList.remove('active'));
-  el.classList.add('active');
-  activeFilter = el.textContent.trim();
-  renderFeed();
+// ── LOAD SIGNALS ───────────────────────────────────────────────────────────
+async function loadSignals(isManual = false) {
+  try {
+    const r = await fetch('/data/signals.json?t=' + Date.now());
+    const data = await r.json();
+    if (Array.isArray(data) && data.length > 0) {
+      const newOnes = data.filter(s => !seenIds.has(s.id));
+      allSignals = data;
+      usingDemo = false;
+      updateStats();
+      if (currentView === 'feed') renderFeed();
+      else if (currentView === 'politicians') renderPoliticians();
+      else if (currentView === 'analysis') renderAnalysis();
+      updateRightPanel();
+      if (newOnes.length > 0 && !isManual) {
+        notifyNewSignals(newOnes);
+        newOnes.slice(0, 3).forEach(s => { if (s.severity === 'critical' || s.severity === 'high') showToast(s); });
+      }
+      newOnes.forEach(s => seenIds.add(s.id));
+      localStorage.setItem('ps-seen-ids', JSON.stringify([...seenIds].slice(-200)));
+      document.getElementById('stat-updated').textContent = 'Updated ' + new Date().toLocaleTimeString();
+    } else {
+      loadDemo();
+    }
+  } catch {
+    loadDemo();
+  }
+  nextRefreshAt = Date.now() + 10 * 60 * 1000;
 }
 
-// ── Render signal cards ────────────────────────────────────────────────────
+function loadDemo() {
+  if (allSignals.length > 0) return;
+  usingDemo = true;
+  allSignals = DEMO_SIGNALS;
+  updateStats();
+  renderFeed();
+  updateRightPanel();
+  document.getElementById('stat-updated').textContent = 'Demo data (fetcher not running)';
+}
+
+async function manualRefresh() {
+  document.getElementById('stat-updated').textContent = 'Refreshing…';
+  await loadSignals(true);
+}
+
+// ── VIEWS ──────────────────────────────────────────────────────────────────
+function setView(view, el) {
+  currentView = view;
+  document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active'));
+  el.classList.add('active');
+  const titles = { feed: '⚡ Live Signal Feed', politicians: '👤 Politicians', analysis: '📊 Signal Analysis' };
+  document.getElementById('topbar-title').innerHTML = `${titles[view]} <span class="live-badge"><span class="live-badge-dot"></span>LIVE</span>`;
+  const feedCol = document.getElementById('feed-col');
+  if (view === 'feed') {
+    feedCol.innerHTML = `
+      <div class="filter-bar" id="filter-bar">
+        <button class="filter-pill active" onclick="setFilter(this,'All')">All</button>
+        <button class="filter-pill" onclick="setFilter(this,'critical')">🔴 Critical</button>
+        <button class="filter-pill" onclick="setFilter(this,'high')">🟡 High</button>
+        <button class="filter-pill" onclick="setFilter(this,'Trade')">Trade</button>
+        <button class="filter-pill" onclick="setFilter(this,'Tech')">Tech</button>
+        <button class="filter-pill" onclick="setFilter(this,'Energy')">Energy</button>
+        <button class="filter-pill" onclick="setFilter(this,'Pharma')">Pharma</button>
+        <button class="filter-pill" onclick="setFilter(this,'Crypto')">Crypto</button>
+        <button class="filter-pill" onclick="setFilter(this,'Banking')">Banking</button>
+      </div>
+      <div class="feed-list" id="signal-feed"></div>`;
+    activeFilter = 'All';
+    renderFeed();
+  } else if (view === 'politicians') {
+    feedCol.innerHTML = `<div class="politicians-grid" id="politicians-grid"></div>`;
+    renderPoliticians();
+  } else if (view === 'analysis') {
+    feedCol.innerHTML = `<div class="feed-list" id="analysis-view" style="padding:20px;"></div>`;
+    renderAnalysis();
+  }
+}
+
+// ── RENDER FEED ────────────────────────────────────────────────────────────
+function getFiltered() {
+  return allSignals.filter(s => {
+    const q = searchQuery.toLowerCase();
+    const matchSearch = !q ||
+      s.politician.toLowerCase().includes(q) ||
+      s.content.toLowerCase().includes(q) ||
+      s.tags.some(t => t.toLowerCase().includes(q)) ||
+      s.tickers.some(t => t.toLowerCase().includes(q));
+    const matchFilter = activeFilter === 'All' ||
+      s.severity === activeFilter.toLowerCase() ||
+      s.tags.some(t => t.toLowerCase() === activeFilter.toLowerCase());
+    return matchSearch && matchFilter;
+  });
+}
+
+function severityToBearing(sev) {
+  return sev === 'critical' || sev === 'high' ? 'bearish' : sev === 'low' ? 'bullish' : 'neutral';
+}
+
 function renderFeed() {
   const list = document.getElementById('signal-feed');
-  const filtered = activeFilter === 'All'
-    ? allSignals
-    : allSignals.filter(s =>
-        s.severity === activeFilter.toLowerCase() ||
-        s.tags.some(t => t.toLowerCase() === activeFilter.toLowerCase())
-      );
-
+  if (!list) return;
+  const filtered = getFiltered();
   if (filtered.length === 0) {
-    list.innerHTML = '<div style="text-align:center;padding:48px;color:var(--text3);font-family:\'DM Mono\',monospace;font-size:13px;">No signals yet — fetching live data every 10 minutes.</div>';
+    list.innerHTML = `<div class="empty-state"><div class="icon">🔍</div><div>${searchQuery ? 'No signals match "' + searchQuery + '"' : 'No signals for this filter'}</div></div>`;
     return;
   }
-
-  list.innerHTML = filtered.map(s => `
-    <div class="signal-card ${s.severity}" onclick="s.url && window.open(s.url,'_blank')">
+  list.innerHTML = filtered.map(s => {
+    const bearing = severityToBearing(s.severity);
+    return `
+    <div class="signal-card ${s.severity}" onclick="openSignalModal(${JSON.stringify(s.id).replace(/"/g,'&quot;')})">
       <div class="signal-top">
         <div class="signal-avatar" style="background:${s.color.bg};color:${s.color.fg};">${s.initials}</div>
         <div class="signal-meta">
@@ -742,48 +687,402 @@ function renderFeed() {
         </div>
         <div class="signal-right">
           <span class="severity-badge ${s.severity}">${s.severity.toUpperCase()}</span>
-          <div class="signal-platforms">
-            <span class="platform-dot">${s.platform}</span>
-          </div>
+          <span class="platform-dot">${s.platform || s.source}</span>
         </div>
       </div>
-      <div class="signal-quote">"${s.content.replace(/"/g, '&quot;')}"</div>
-      ${s.tags.length ? `<div class="signal-tags">${s.tags.map(t => `<span class="signal-tag">${t}</span>`).join('')}</div>` : ''}
+      <div class="signal-quote">"${escHtml(s.content)}"</div>
+      ${s.tags.length ? `<div class="signal-tags">${s.tags.map(t=>`<span class="signal-tag" onclick="event.stopPropagation();filterByTag('${t}')">${t}</span>`).join('')}</div>` : ''}
       <div class="signal-footer">
-        ${s.tickers.length ? `<span class="signal-ticker">${s.tickers[0]}</span>` : ''}
+        ${s.tickers.slice(0,3).map(t=>`<a class="signal-ticker ${bearing}" href="https://finance.yahoo.com/quote/${t}" target="_blank" rel="noopener" onclick="event.stopPropagation()" title="${TICKER_NAMES[t]||t}">${t}</a>`).join('')}
         <span class="signal-time">${s.time_ago}</span>
+        ${s.url ? `<a class="signal-source-link" href="${s.url}" target="_blank" rel="noopener" onclick="event.stopPropagation()">↗</a>` : ''}
       </div>
-      ${s.tickers.length > 1 ? `<div class="signal-affected" style="margin-top:6px;">Affected: ${s.tickers.join(', ')}</div>` : ''}
-    </div>
-  `).join('');
+    </div>`;
+  }).join('');
 }
 
-// ── Update stats bar ────────────────────────────────────────────────────────
+function filterByTag(tag) {
+  activeFilter = tag;
+  document.querySelectorAll('.filter-pill').forEach(p => {
+    p.classList.toggle('active', p.textContent.trim().toLowerCase() === tag.toLowerCase());
+  });
+  renderFeed();
+}
+
+// ── RENDER POLITICIANS ─────────────────────────────────────────────────────
+function renderPoliticians() {
+  const grid = document.getElementById('politicians-grid');
+  if (!grid) return;
+  const byPol = {};
+  allSignals.forEach(s => {
+    if (!byPol[s.politician]) byPol[s.politician] = { info: s, signals: [] };
+    byPol[s.politician].signals.push(s);
+  });
+  const entries = Object.values(byPol).sort((a,b) => b.signals.length - a.signals.length);
+  if (!entries.length) { grid.innerHTML = '<div class="empty-state"><div class="icon">👤</div><div>No politicians yet</div></div>'; return; }
+  grid.innerHTML = entries.map(({ info: s, signals }) => {
+    const critical = signals.filter(x=>x.severity==='critical').length;
+    const high = signals.filter(x=>x.severity==='high').length;
+    const medium = signals.filter(x=>x.severity==='medium').length;
+    const low = signals.filter(x=>x.severity==='low').length;
+    const total = signals.length || 1;
+    const latest = signals[0];
+    return `<div class="pol-card" onclick="filterBypolitician('${escHtml(s.politician)}')">
+      <div class="pol-top">
+        <div class="pol-avatar" style="background:${s.color.bg};color:${s.color.fg};">${s.initials}</div>
+        <div>
+          <div class="pol-name">${s.politician}</div>
+          <div class="pol-role">${s.role}</div>
+        </div>
+      </div>
+      <div class="pol-stats">
+        <div class="pol-stat"><div class="pol-stat-num">${signals.length}</div><div class="pol-stat-label">Signals</div></div>
+        <div class="pol-stat"><div class="pol-stat-num" style="color:var(--red)">${critical}</div><div class="pol-stat-label">Critical</div></div>
+        <div class="pol-stat"><div class="pol-stat-num">${[...new Set(signals.flatMap(x=>x.tickers))].length}</div><div class="pol-stat-label">Tickers</div></div>
+      </div>
+      <div class="pol-latest">"${escHtml(latest.content.slice(0,120))}…"</div>
+      <div class="pol-sev-bar">
+        ${critical ? `<div class="pol-sev-seg" style="width:${critical/total*100}%;background:var(--red)"></div>` : ''}
+        ${high ? `<div class="pol-sev-seg" style="width:${high/total*100}%;background:var(--amber)"></div>` : ''}
+        ${medium ? `<div class="pol-sev-seg" style="width:${medium/total*100}%;background:var(--accent)"></div>` : ''}
+        ${low ? `<div class="pol-sev-seg" style="width:${low/total*100}%;background:var(--text3)"></div>` : ''}
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function filterBypolitician(name) {
+  setView('feed', document.querySelector('.nav-item'));
+  searchQuery = name;
+  document.getElementById('search-input').value = name;
+  renderFeed();
+}
+
+// ── RENDER ANALYSIS ────────────────────────────────────────────────────────
+function renderAnalysis() {
+  const view = document.getElementById('analysis-view');
+  if (!view || !allSignals.length) { view.innerHTML = '<div class="empty-state"><div class="icon">📊</div><div>No signals to analyze yet</div></div>'; return; }
+  const tickerCounts = {};
+  const tagCounts = {};
+  const sevCounts = { critical:0, high:0, medium:0, low:0 };
+  allSignals.forEach(s => {
+    sevCounts[s.severity] = (sevCounts[s.severity]||0)+1;
+    s.tickers.forEach(t => tickerCounts[t] = (tickerCounts[t]||0)+1);
+    s.tags.forEach(t => tagCounts[t] = (tagCounts[t]||0)+1);
+  });
+  const topTickers = Object.entries(tickerCounts).sort((a,b)=>b[1]-a[1]).slice(0,10);
+  const topTags = Object.entries(tagCounts).sort((a,b)=>b[1]-a[1]).slice(0,8);
+  const total = allSignals.length;
+  view.innerHTML = `
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:20px;">
+      ${['critical','high','medium','low'].map(sev => {
+        const colors = {critical:'var(--red)',high:'var(--amber)',medium:'var(--accent)',low:'var(--text3)'};
+        return `<div style="background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:16px;border-left:3px solid ${colors[sev]}">
+          <div style="font-family:'Syne',sans-serif;font-size:28px;font-weight:800;color:${colors[sev]}">${sevCounts[sev]||0}</div>
+          <div style="font-size:11px;color:var(--text3);font-family:'DM Mono',monospace;text-transform:uppercase;letter-spacing:0.5px;margin-top:4px">${sev} signals</div>
+          <div style="font-size:12px;color:var(--text2);margin-top:4px">${total ? Math.round((sevCounts[sev]||0)/total*100) : 0}% of total</div>
+        </div>`;
+      }).join('')}
+    </div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;">
+      <div style="background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:16px;">
+        <div style="font-size:11px;color:var(--text3);font-family:'DM Mono',monospace;text-transform:uppercase;letter-spacing:1px;margin-bottom:12px;">Top Affected Tickers</div>
+        ${topTickers.map(([t,c]) => `
+          <div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;">
+            <a href="https://finance.yahoo.com/quote/${t}" target="_blank" rel="noopener" style="font-family:'DM Mono',monospace;font-size:12px;font-weight:600;color:var(--text);min-width:48px;text-decoration:none;">${t}</a>
+            <div style="flex:1;height:4px;background:var(--border2);border-radius:2px;overflow:hidden;"><div style="height:100%;width:${c/topTickers[0][1]*100}%;background:var(--accent);border-radius:2px;"></div></div>
+            <span style="font-size:11px;color:var(--text3);font-family:'DM Mono',monospace;">${c}</span>
+          </div>`).join('')}
+      </div>
+      <div style="background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:16px;">
+        <div style="font-size:11px;color:var(--text3);font-family:'DM Mono',monospace;text-transform:uppercase;letter-spacing:1px;margin-bottom:12px;">Top Topics</div>
+        ${topTags.map(([t,c]) => `
+          <div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;">
+            <span style="font-size:12px;color:var(--text2);flex:1;">${t}</span>
+            <div style="width:80px;height:4px;background:var(--border2);border-radius:2px;overflow:hidden;"><div style="height:100%;width:${c/topTags[0][1]*100}%;background:var(--accent2);border-radius:2px;"></div></div>
+            <span style="font-size:11px;color:var(--text3);font-family:'DM Mono',monospace;">${c}</span>
+          </div>`).join('')}
+      </div>
+    </div>`;
+}
+
+// ── UPDATE STATS ───────────────────────────────────────────────────────────
 function updateStats() {
-  const critical = allSignals.filter(s => s.severity === 'critical').length;
+  const critical = allSignals.filter(s=>s.severity==='critical').length;
+  const high = allSignals.filter(s=>s.severity==='high').length;
+  const politicians = [...new Set(allSignals.map(s=>s.politician))].length;
+  const sources = [...new Set(allSignals.map(s=>s.platform||s.source))].length;
+  const tickers = [...new Set(allSignals.flatMap(s=>s.tickers))].length;
   document.getElementById('stat-total').textContent = allSignals.length;
   document.getElementById('stat-critical').textContent = critical;
+  document.getElementById('stat-high-label').textContent = `${high} high`;
+  document.getElementById('stat-politicians').textContent = politicians;
+  document.getElementById('stat-sources-label').textContent = `${sources} source${sources!==1?'s':''}`;
+  document.getElementById('stat-tickers').textContent = tickers;
+  document.getElementById('feed-badge').textContent = allSignals.length;
+  updateAlertBadge();
 }
 
-// ── Load signals.json ────────────────────────────────────────────────────────
-async function loadSignals() {
-  try {
-    const r = await fetch('/data/signals.json?t=' + Date.now());
-    const data = await r.json();
-    if (Array.isArray(data) && data.length > 0) {
-      allSignals = data;
-      updateStats();
-      renderFeed();
-      document.getElementById('last-updated').textContent = 'Updated ' + new Date().toLocaleTimeString();
-    }
-  } catch (e) {
-    console.warn('Could not load signals.json, using demo data');
-  }
+// ── UPDATE RIGHT PANEL ─────────────────────────────────────────────────────
+function updateRightPanel() {
+  updateTopMovers();
+  updateSentiment();
+  updateRecentAlerts();
+  updateMostActive();
 }
 
-// ── Bootstrap ────────────────────────────────────────────────────────────────
+function updateTopMovers() {
+  const counts = {};
+  const sevMap = {};
+  allSignals.forEach(s => {
+    s.tickers.forEach(t => {
+      counts[t] = (counts[t]||0)+1;
+      if (!sevMap[t] || ['critical','high','medium','low'].indexOf(s.severity) < ['critical','high','medium','low'].indexOf(sevMap[t])) sevMap[t] = s.severity;
+    });
+  });
+  const top = Object.entries(counts).sort((a,b)=>b[1]-a[1]).slice(0,6);
+  const sevColors = { critical:'var(--red)', high:'var(--amber)', medium:'var(--accent)', low:'var(--text3)' };
+  document.getElementById('top-movers').innerHTML = top.length ? top.map(([t,c]) => `
+    <div class="mover-row" onclick="window.open('https://finance.yahoo.com/quote/${t}','_blank')">
+      <div class="mover-sev" style="background:${sevColors[sevMap[t]]||'var(--text3)'}"></div>
+      <div class="mover-ticker">${t}</div>
+      <div class="mover-name">${TICKER_NAMES[t]||''}</div>
+      <div class="mover-mentions">${c} signal${c!==1?'s':''}</div>
+    </div>`).join('') : '<div style="font-size:12px;color:var(--text3);font-family:\'DM Mono\',monospace;">No tickers yet</div>';
+}
+
+function updateSentiment() {
+  const total = allSignals.length || 1;
+  const bearish = allSignals.filter(s=>s.severity==='critical'||s.severity==='high').length;
+  const bullish = allSignals.filter(s=>s.severity==='low').length;
+  const neutral = total - bearish - bullish;
+  const bPct = Math.round(bearish/total*100);
+  const buPct = Math.round(bullish/total*100);
+  const nPct = 100 - bPct - buPct;
+  const score = Math.round(100 - (bearish/total*100));
+  const label = score < 35 ? 'BEARISH' : score < 55 ? 'NEUTRAL' : score < 75 ? 'BULLISH' : 'VERY BULLISH';
+  const color = score < 35 ? 'var(--red)' : score < 55 ? 'var(--amber)' : 'var(--green)';
+  document.getElementById('score-num').textContent = score;
+  document.getElementById('score-num').style.color = color;
+  document.getElementById('score-label').textContent = label;
+  document.getElementById('score-label').style.color = color;
+  document.getElementById('score-desc').textContent = `Based on ${allSignals.length} signal${allSignals.length!==1?'s':''}.`;
+  document.getElementById('bar-bearish').style.width = bPct + '%';
+  document.getElementById('bar-bullish').style.width = buPct + '%';
+  document.getElementById('bar-neutral').style.width = nPct + '%';
+  document.getElementById('val-bearish').textContent = bPct + '%';
+  document.getElementById('val-bullish').textContent = buPct + '%';
+  document.getElementById('val-neutral').textContent = nPct + '%';
+}
+
+function updateRecentAlerts() {
+  const top = allSignals.filter(s=>s.severity==='critical'||s.severity==='high').slice(0,4);
+  document.getElementById('recent-alerts').innerHTML = top.length ? top.map(s => `
+    <div class="alert-row" onclick="openSignalModal('${s.id}')">
+      <div class="alert-text">${escHtml(s.politician)} — ${escHtml(s.content.slice(0,80))}…</div>
+      <div class="alert-meta"><span>${s.time_ago}</span><span class="alert-sev ${s.severity}">${s.severity}</span></div>
+    </div>`).join('') : '<div style="font-size:12px;color:var(--text3);font-family:\'DM Mono\',monospace;">No high-priority signals</div>';
+}
+
+function updateMostActive() {
+  const counts = {};
+  const infoMap = {};
+  allSignals.forEach(s => {
+    counts[s.politician] = (counts[s.politician]||0)+1;
+    infoMap[s.politician] = s;
+  });
+  const top = Object.entries(counts).sort((a,b)=>b[1]-a[1]).slice(0,4);
+  document.getElementById('most-active').innerHTML = top.length ? top.map(([name,c]) => {
+    const s = infoMap[name];
+    const topic = s.tags[0] || s.tickers[0] || '—';
+    return `<div class="active-row" onclick="filterBypolitician('${escHtml(name)}')">
+      <div class="active-avatar" style="background:${s.color.bg};color:${s.color.fg};">${s.initials}</div>
+      <div><div class="active-name">${name.split(' ').slice(-1)[0]}</div><div class="active-detail">${topic}</div></div>
+      <div class="active-count">${c}</div>
+    </div>`;
+  }).join('') : '<div style="font-size:12px;color:var(--text3);font-family:\'DM Mono\',monospace;">No data</div>';
+}
+
+// ── SEARCH & FILTER ────────────────────────────────────────────────────────
+function onSearch(val) {
+  searchQuery = val.trim();
+  if (currentView === 'feed') renderFeed();
+}
+
+function setFilter(el, filter) {
+  activeFilter = filter;
+  document.querySelectorAll('.filter-pill').forEach(p => p.classList.remove('active'));
+  el.classList.add('active');
+  renderFeed();
+}
+
+// ── SIGNAL DETAIL MODAL ────────────────────────────────────────────────────
+function openSignalModal(id) {
+  const s = allSignals.find(x => x.id === id);
+  if (!s) return;
+  const bearing = severityToBearing(s.severity);
+  document.getElementById('modal-pol-name').textContent = s.politician;
+  document.getElementById('modal-body').innerHTML = `
+    <div style="display:flex;align-items:center;gap:10px;margin-bottom:16px;">
+      <div style="width:40px;height:40px;border-radius:50%;background:${s.color.bg};color:${s.color.fg};display:flex;align-items:center;justify-content:center;font-weight:700;font-size:13px;flex-shrink:0;">${s.initials}</div>
+      <div>
+        <div style="font-size:13px;font-weight:600;">${s.politician}</div>
+        <div style="font-size:11px;color:var(--text3);">${s.role}</div>
+      </div>
+      <span class="severity-badge ${s.severity}" style="margin-left:auto;">${s.severity.toUpperCase()}</span>
+    </div>
+    <div class="modal-detail">"${escHtml(s.content)}"</div>
+    ${s.tags.length ? `<div class="modal-section-label">Topics</div><div class="signal-tags" style="margin-bottom:16px;">${s.tags.map(t=>`<span class="signal-tag">${t}</span>`).join('')}</div>` : ''}
+    ${s.tickers.length ? `
+      <div class="modal-section-label">Affected Tickers</div>
+      <div class="modal-tickers">
+        ${s.tickers.map(t=>`<a class="modal-ticker ${bearing}" href="https://finance.yahoo.com/quote/${t}" target="_blank" rel="noopener">${t}${TICKER_NAMES[t]?' — '+TICKER_NAMES[t]:''}</a>`).join('')}
+      </div>` : ''}
+    <div style="display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-top:8px;">
+      <span style="font-size:12px;color:var(--text3);font-family:'DM Mono',monospace;">Source: ${s.platform || s.source} · ${s.time_ago}</span>
+      ${s.url ? `<a class="modal-link" href="${s.url}" target="_blank" rel="noopener">↗ View original post</a>` : ''}
+    </div>`;
+  openModal('signal-modal');
+}
+
+// ── ALERT RULES ────────────────────────────────────────────────────────────
+function openAlertModal() {
+  renderAlertRules();
+  openModal('alert-modal');
+  Notification.requestPermission();
+}
+
+function renderAlertRules() {
+  const list = document.getElementById('alert-rules-list');
+  if (!alertRules.length) { list.innerHTML = '<div style="font-size:13px;color:var(--text3);margin-bottom:8px;">No rules yet. Add one below.</div>'; return; }
+  list.innerHTML = alertRules.map((r,i) => `
+    <div class="alert-rule">
+      <div class="alert-rule-keyword">${r.keyword}</div>
+      <div class="alert-rule-sev">${r.severity}</div>
+      <button class="alert-rule-del" onclick="deleteAlertRule(${i})">×</button>
+    </div>`).join('');
+}
+
+function saveAlertRule() {
+  const kw = document.getElementById('alert-keyword').value.trim();
+  const sev = document.getElementById('alert-severity').value;
+  if (!kw) return;
+  alertRules.push({ keyword: kw, severity: sev });
+  localStorage.setItem('ps-alert-rules', JSON.stringify(alertRules));
+  document.getElementById('alert-keyword').value = '';
+  renderAlertRules();
+  updateAlertBadge();
+  showGenericToast(`Alert rule added: "${kw}"`);
+}
+
+function deleteAlertRule(i) {
+  alertRules.splice(i, 1);
+  localStorage.setItem('ps-alert-rules', JSON.stringify(alertRules));
+  renderAlertRules();
+  updateAlertBadge();
+}
+
+function updateAlertBadge() {
+  const badge = document.getElementById('alert-badge');
+  document.getElementById('stat-alerts-label').textContent = `${alertRules.length} alert rule${alertRules.length!==1?'s':''}`;
+  if (alertRules.length > 0) { badge.style.display = ''; badge.textContent = alertRules.length; }
+  else badge.style.display = 'none';
+}
+
+function checkAlertRules(signals) {
+  const sevOrder = ['critical','high','medium','low','any'];
+  signals.forEach(s => {
+    alertRules.forEach(r => {
+      const kwMatch = s.content.toLowerCase().includes(r.keyword.toLowerCase()) ||
+        s.politician.toLowerCase().includes(r.keyword.toLowerCase()) ||
+        s.tickers.some(t => t.toLowerCase() === r.keyword.toLowerCase());
+      const sevMatch = r.severity === 'any' ||
+        (r.severity === 'medium' && ['medium','high','critical'].includes(s.severity)) ||
+        (r.severity === 'high' && ['high','critical'].includes(s.severity)) ||
+        (r.severity === 'critical' && s.severity === 'critical');
+      if (kwMatch && sevMatch) {
+        showToast(s, `Alert: "${r.keyword}" matched`);
+        if (Notification.permission === 'granted') {
+          new Notification(`PolitiSignal — ${s.severity.toUpperCase()}`, { body: `${s.politician}: ${s.content.slice(0,80)}…`, icon: '/favicon.ico' });
+        }
+      }
+    });
+  });
+}
+
+// ── NOTIFICATIONS ──────────────────────────────────────────────────────────
+function notifyNewSignals(newSignals) {
+  checkAlertRules(newSignals);
+}
+
+// ── SOURCES MODAL ──────────────────────────────────────────────────────────
+function openSourcesModal() { openModal('sources-modal'); }
+
+// ── MODAL HELPERS ──────────────────────────────────────────────────────────
+function openModal(id) { document.getElementById(id).classList.add('open'); }
+function closeModal(id) { document.getElementById(id).classList.remove('open'); }
+document.addEventListener('keydown', e => { if (e.key === 'Escape') document.querySelectorAll('.modal-overlay.open').forEach(m => m.classList.remove('open')); });
+
+// ── TOAST ──────────────────────────────────────────────────────────────────
+function showToast(signal, label) {
+  const container = document.getElementById('toast-container');
+  const t = document.createElement('div');
+  t.className = `toast ${signal.severity}`;
+  t.innerHTML = `<div class="toast-icon">${signal.severity==='critical'?'🚨':signal.severity==='high'?'⚠️':'📡'}</div>
+    <div><div class="toast-title">${label||signal.politician}</div><div class="toast-desc">${escHtml(signal.content.slice(0,80))}…</div></div>`;
+  t.onclick = () => { openSignalModal(signal.id); t.remove(); };
+  container.appendChild(t);
+  setTimeout(() => t.remove(), 6000);
+}
+
+function showGenericToast(msg) {
+  const container = document.getElementById('toast-container');
+  const t = document.createElement('div');
+  t.className = 'toast';
+  t.innerHTML = `<div class="toast-icon">✓</div><div><div class="toast-title">${escHtml(msg)}</div></div>`;
+  container.appendChild(t);
+  setTimeout(() => t.remove(), 3000);
+}
+
+// ── EXPORT CSV ─────────────────────────────────────────────────────────────
+function exportCSV() {
+  const filtered = getFiltered();
+  if (!filtered.length) { showGenericToast('No signals to export'); return; }
+  const header = ['Politician','Role','Severity','Content','Tags','Tickers','Platform','Time'];
+  const rows = filtered.map(s => [
+    s.politician, s.role, s.severity,
+    '"' + s.content.replace(/"/g,'""') + '"',
+    s.tags.join(';'), s.tickers.join(';'),
+    s.platform || s.source, s.time_ago
+  ]);
+  const csv = [header, ...rows].map(r => r.join(',')).join('\n');
+  const blob = new Blob([csv], { type: 'text/csv' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = `politisignal-${new Date().toISOString().slice(0,10)}.csv`;
+  a.click();
+  showGenericToast(`Exported ${filtered.length} signals`);
+}
+
+// ── COUNTDOWN ──────────────────────────────────────────────────────────────
+function updateCountdown() {
+  const remaining = Math.max(0, Math.round((nextRefreshAt - Date.now()) / 1000));
+  const m = Math.floor(remaining / 60);
+  const s = remaining % 60;
+  document.getElementById('countdown').textContent = `${m}:${String(s).padStart(2,'0')}`;
+}
+
+// ── UTILS ──────────────────────────────────────────────────────────────────
+function escHtml(str) {
+  return String(str).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+// ── INIT ───────────────────────────────────────────────────────────────────
+updateAlertBadge();
 loadSignals();
-setInterval(loadSignals, 10 * 60 * 1000); // refresh every 10 min
+setInterval(loadSignals, 10 * 60 * 1000);
+setInterval(updateCountdown, 1000);
+updateCountdown();
 </script>
 </body>
 </html>
