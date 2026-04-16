@@ -303,6 +303,98 @@ def fetch_youtube(politician: dict) -> list[dict]:
         print(f"  YouTube [{politician['initials']}] error: {e}")
     return signals
 
+# ─── CRYPTO SYMBOL MAP (yfinance uses BTC-USD etc.) ──────────────────────────
+
+YFINANCE_MAP = {
+    "BTC": "BTC-USD",
+    "ETH": "ETH-USD",
+    "SOL": "SOL-USD",
+    "DOGE": "DOGE-USD",
+}
+
+# ─── STOCK PRICES ─────────────────────────────────────────────────────────────
+
+def fetch_stock_prices(signals: list[dict]) -> dict:
+    """Fetch real prices from Yahoo Finance for all tickers in signals."""
+    try:
+        import yfinance as yf
+    except ImportError:
+        print("yfinance not installed, skipping prices")
+        return {}
+
+    tickers = list(dict.fromkeys(t for s in signals for t in s.get("tickers", [])))
+    if not tickers:
+        return {}
+
+    print(f"\nFetching prices for: {', '.join(tickers)}")
+    prices = {}
+
+    # Map tickers to yfinance symbols
+    yf_symbols = {t: YFINANCE_MAP.get(t, t) for t in tickers}
+    symbols_list = list(yf_symbols.values())
+
+    try:
+        # Batch download 2 days of data
+        raw = yf.download(
+            symbols_list,
+            period="5d",
+            interval="1d",
+            progress=False,
+            auto_adjust=True,
+            group_by="ticker",
+        )
+
+        for ticker, yf_sym in yf_symbols.items():
+            try:
+                if len(symbols_list) == 1:
+                    closes = raw["Close"].dropna()
+                else:
+                    closes = raw[yf_sym]["Close"].dropna()
+
+                if len(closes) < 2:
+                    continue
+
+                curr = float(closes.iloc[-1])
+                prev = float(closes.iloc[-2])
+                if prev <= 0:
+                    continue
+
+                change_pct = (curr - prev) / prev * 100
+                prices[ticker] = {
+                    "price": round(curr, 2),
+                    "change_pct": round(change_pct, 2),
+                    "name": TICKER_NAMES.get(ticker, ticker),
+                }
+                direction = "▲" if change_pct >= 0 else "▼"
+                print(f"  {ticker}: ${curr:.2f} {direction}{abs(change_pct):.2f}%")
+            except Exception as e:
+                print(f"  {ticker} price error: {e}")
+
+    except Exception as e:
+        print(f"  Batch price fetch error: {e}")
+        # Fallback: individual fetches
+        for ticker, yf_sym in yf_symbols.items():
+            try:
+                t_obj = yf.Ticker(yf_sym)
+                fi = t_obj.fast_info
+                curr = float(fi.last_price)
+                prev = float(fi.previous_close)
+                if curr and prev and prev > 0:
+                    change_pct = (curr - prev) / prev * 100
+                    prices[ticker] = {
+                        "price": round(curr, 2),
+                        "change_pct": round(change_pct, 2),
+                        "name": TICKER_NAMES.get(ticker, ticker),
+                    }
+                    print(f"  {ticker}: ${curr:.2f} ({change_pct:+.2f}%)")
+            except Exception as e2:
+                print(f"  {ticker} fallback error: {e2}")
+
+    prices["_updated"] = now_iso()
+    print(f"  Prices fetched: {len(prices) - 1} tickers")
+    return prices
+
+
 # ─── MAIN ─────────────────────────────────────────────────────────────────────
 
 def main():
@@ -334,11 +426,18 @@ def main():
 
     result = unique[:MAX_SIGNALS]
 
-    output_path = os.path.join(os.path.dirname(__file__), "..", "data", "signals.json")
-    with open(output_path, "w") as f:
-        json.dump(result, f, indent=2, default=str)
+    base = os.path.join(os.path.dirname(__file__), "..")
 
-    print(f"Done. {len(result)} signals written to data/signals.json")
+    # Write signals
+    with open(os.path.join(base, "data", "signals.json"), "w") as f:
+        json.dump(result, f, indent=2, default=str)
+    print(f"\nSignals: {len(result)} written to data/signals.json")
+
+    # Fetch and write real stock prices
+    prices = fetch_stock_prices(result)
+    with open(os.path.join(base, "data", "prices.json"), "w") as f:
+        json.dump(prices, f, indent=2)
+    print(f"Prices: {len(prices) - 1} tickers written to data/prices.json")
 
 if __name__ == "__main__":
     main()

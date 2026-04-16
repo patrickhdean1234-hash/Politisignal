@@ -561,6 +561,7 @@ const TICKER_NAMES = {
 
 // ── STATE ──────────────────────────────────────────────────────────────────
 let allSignals = [];
+let prices = {};
 let activeFilter = 'All';
 let searchQuery = '';
 let currentView = 'feed';
@@ -569,11 +570,20 @@ let seenIds = new Set(JSON.parse(localStorage.getItem('ps-seen-ids') || '[]'));
 let nextRefreshAt = Date.now() + 10 * 60 * 1000;
 let usingDemo = false;
 
-// ── LOAD SIGNALS ───────────────────────────────────────────────────────────
+// ── LOAD SIGNALS + PRICES ──────────────────────────────────────────────────
 async function loadSignals(isManual = false) {
   try {
-    const r = await fetch('/data/signals.json?t=' + Date.now());
-    const data = await r.json();
+    const t = Date.now();
+    const [sigRes, priceRes] = await Promise.all([
+      fetch('/data/signals.json?t=' + t),
+      fetch('/data/prices.json?t=' + t),
+    ]);
+    const [data, priceData] = await Promise.all([sigRes.json(), priceRes.json()]);
+
+    if (priceData && typeof priceData === 'object') {
+      prices = priceData;
+    }
+
     if (Array.isArray(data) && data.length > 0) {
       const newOnes = data.filter(s => !seenIds.has(s.id));
       allSignals = data;
@@ -589,7 +599,8 @@ async function loadSignals(isManual = false) {
       }
       newOnes.forEach(s => seenIds.add(s.id));
       localStorage.setItem('ps-seen-ids', JSON.stringify([...seenIds].slice(-200)));
-      document.getElementById('stat-updated').textContent = 'Updated ' + new Date().toLocaleTimeString();
+      const priceTime = prices._updated ? ' · prices ' + new Date(prices._updated).toLocaleTimeString() : '';
+      document.getElementById('stat-updated').textContent = 'Updated ' + new Date().toLocaleTimeString() + priceTime;
     } else {
       loadDemo();
     }
@@ -597,6 +608,23 @@ async function loadSignals(isManual = false) {
     loadDemo();
   }
   nextRefreshAt = Date.now() + 10 * 60 * 1000;
+}
+
+// ── PRICE HELPERS ──────────────────────────────────────────────────────────
+function getPrice(ticker) {
+  return prices[ticker] || null;
+}
+
+function tickerChip(ticker, fallbackBearing) {
+  const p = getPrice(ticker);
+  if (p) {
+    const up = p.change_pct >= 0;
+    const cls = up ? 'bullish' : 'bearish';
+    const sign = up ? '+' : '';
+    const label = `${ticker} ${sign}${p.change_pct.toFixed(2)}%`;
+    return `<a class="signal-ticker ${cls}" href="https://finance.yahoo.com/quote/${ticker}" target="_blank" rel="noopener" onclick="event.stopPropagation()" title="${p.name} — $${p.price}">${label}</a>`;
+  }
+  return `<a class="signal-ticker ${fallbackBearing}" href="https://finance.yahoo.com/quote/${ticker}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${ticker}</a>`;
 }
 
 function loadDemo() {
@@ -693,7 +721,7 @@ function renderFeed() {
       <div class="signal-quote">"${escHtml(s.content)}"</div>
       ${s.tags.length ? `<div class="signal-tags">${s.tags.map(t=>`<span class="signal-tag" onclick="event.stopPropagation();filterByTag('${t}')">${t}</span>`).join('')}</div>` : ''}
       <div class="signal-footer">
-        ${s.tickers.slice(0,3).map(t=>`<a class="signal-ticker ${bearing}" href="https://finance.yahoo.com/quote/${t}" target="_blank" rel="noopener" onclick="event.stopPropagation()" title="${TICKER_NAMES[t]||t}">${t}</a>`).join('')}
+        ${s.tickers.slice(0,3).map(t => tickerChip(t, bearing)).join('')}
         <span class="signal-time">${s.time_ago}</span>
         ${s.url ? `<a class="signal-source-link" href="${s.url}" target="_blank" rel="noopener" onclick="event.stopPropagation()">↗</a>` : ''}
       </div>
@@ -842,13 +870,16 @@ function updateTopMovers() {
   });
   const top = Object.entries(counts).sort((a,b)=>b[1]-a[1]).slice(0,6);
   const sevColors = { critical:'var(--red)', high:'var(--amber)', medium:'var(--accent)', low:'var(--text3)' };
-  document.getElementById('top-movers').innerHTML = top.length ? top.map(([t,c]) => `
-    <div class="mover-row" onclick="window.open('https://finance.yahoo.com/quote/${t}','_blank')">
+  document.getElementById('top-movers').innerHTML = top.length ? top.map(([t,c]) => {
+    const p = getPrice(t);
+    const priceStr = p ? `<span style="font-family:'DM Mono',monospace;font-size:11px;font-weight:600;color:${p.change_pct>=0?'var(--green)':'var(--red)'}">${p.change_pct>=0?'+':''}${p.change_pct.toFixed(2)}%</span>` : `<span style="font-size:11px;color:var(--text3);font-family:'DM Mono',monospace;">${c}x</span>`;
+    return `<div class="mover-row" onclick="window.open('https://finance.yahoo.com/quote/${t}','_blank')">
       <div class="mover-sev" style="background:${sevColors[sevMap[t]]||'var(--text3)'}"></div>
       <div class="mover-ticker">${t}</div>
-      <div class="mover-name">${TICKER_NAMES[t]||''}</div>
-      <div class="mover-mentions">${c} signal${c!==1?'s':''}</div>
-    </div>`).join('') : '<div style="font-size:12px;color:var(--text3);font-family:\'DM Mono\',monospace;">No tickers yet</div>';
+      <div class="mover-name">${p ? '$'+p.price.toLocaleString() : (TICKER_NAMES[t]||'')}</div>
+      ${priceStr}
+    </div>`;
+  }).join('') : '<div style="font-size:12px;color:var(--text3);font-family:\'DM Mono\',monospace;">No tickers yet</div>';
 }
 
 function updateSentiment() {
@@ -936,7 +967,12 @@ function openSignalModal(id) {
     ${s.tickers.length ? `
       <div class="modal-section-label">Affected Tickers</div>
       <div class="modal-tickers">
-        ${s.tickers.map(t=>`<a class="modal-ticker ${bearing}" href="https://finance.yahoo.com/quote/${t}" target="_blank" rel="noopener">${t}${TICKER_NAMES[t]?' — '+TICKER_NAMES[t]:''}</a>`).join('')}
+        ${s.tickers.map(t => {
+          const p = getPrice(t);
+          const priceInfo = p ? ` &nbsp;$${p.price.toLocaleString()} &nbsp;<span style="color:${p.change_pct>=0?'var(--green)':'var(--red)'}">${p.change_pct>=0?'+':''}${p.change_pct.toFixed(2)}%</span>` : (TICKER_NAMES[t]?' — '+TICKER_NAMES[t]:'');
+          const cls = p ? (p.change_pct>=0?'bullish':'bearish') : bearing;
+          return `<a class="modal-ticker ${cls}" href="https://finance.yahoo.com/quote/${t}" target="_blank" rel="noopener">${t}${priceInfo}</a>`;
+        }).join('')}
       </div>` : ''}
     <div style="display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-top:8px;">
       <span style="font-size:12px;color:var(--text3);font-family:'DM Mono',monospace;">Source: ${s.platform || s.source} · ${s.time_ago}</span>

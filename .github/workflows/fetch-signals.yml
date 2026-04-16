@@ -21,7 +21,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install feedparser requests
+        run: pip install feedparser requests yfinance
 
       - name: Run fetcher
         env:
@@ -32,5 +32,5 @@ jobs:
         run: |
           git config user.name "politisignal-bot"
           git config user.email "bot@politisignal.com"
-          git add data/signals.json
-          git diff --staged --quiet || (git commit -m "chore: update signals $(date -u +'%Y-%m-%dT%H:%M:%SZ')" && git pull --rebase && git push)
+          git add data/signals.json data/prices.json
+          git diff --staged --quiet || (git commit -m "chore: update signals + prices $(date -u +'%Y-%m-%dT%H:%M:%SZ')" && git pull --rebase && git push)
