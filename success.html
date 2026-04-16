@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Welcome to PolitiSignal</title>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='url(%23g)'/%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0' stop-color='%234f7dff'/%3E%3Cstop offset='1' stop-color='%237c5cfc'/%3E%3C/linearGradient%3E%3C/defs%3E%3C/svg%3E">
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+:root {
+  --bg: #04050a; --surface: #111220; --border: rgba(255,255,255,0.08);
+  --text: #eceef8; --text2: #8b8fa8; --text3: #4a4d62;
+  --accent: #4f7dff; --accent2: #7c5cfc;
+  --green: #2ecc71; --gold: #e8b84b;
+}
+body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; display: flex; align-items: center; justify-content: center; padding: 24px; }
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: 20px; padding: 48px 40px; text-align: center; max-width: 480px; width: 100%; }
+.check-ring { width: 72px; height: 72px; border-radius: 50%; background: rgba(46,204,113,0.12); border: 2px solid rgba(46,204,113,0.3); display: flex; align-items: center; justify-content: center; margin: 0 auto 24px; font-size: 32px; }
+.plan-badge { display: inline-flex; align-items: center; gap: 6px; font-size: 11px; font-family: 'DM Mono', monospace; padding: 5px 14px; border-radius: 999px; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 20px; }
+.plan-badge.trader { background: rgba(79,125,255,0.12); color: var(--accent); border: 1px solid rgba(79,125,255,0.25); }
+.plan-badge.elite { background: rgba(232,184,75,0.12); color: var(--gold); border: 1px solid rgba(232,184,75,0.25); }
+.plan-badge.free { background: rgba(46,204,113,0.1); color: var(--green); border: 1px solid rgba(46,204,113,0.2); }
+h1 { font-family: 'Syne', sans-serif; font-size: 28px; font-weight: 800; margin-bottom: 10px; }
+.sub { font-size: 15px; color: var(--text2); line-height: 1.6; margin-bottom: 32px; }
+.features { text-align: left; background: rgba(255,255,255,0.03); border: 1px solid var(--border); border-radius: 12px; padding: 20px; margin-bottom: 28px; }
+.feature-row { display: flex; align-items: center; gap: 10px; font-size: 14px; color: var(--text2); padding: 5px 0; }
+.feature-row .check { color: var(--green); font-size: 15px; flex-shrink: 0; }
+.feature-row strong { color: var(--text); }
+.btn-primary { display: block; width: 100%; padding: 15px; border-radius: 12px; background: linear-gradient(135deg, var(--accent), var(--accent2)); color: white; font-size: 15px; font-weight: 700; text-decoration: none; margin-bottom: 12px; transition: opacity 0.15s; font-family: 'Bricolage Grotesque', sans-serif; cursor: pointer; border: none; }
+.btn-primary:hover { opacity: 0.9; }
+.btn-ghost { display: block; width: 100%; padding: 13px; border-radius: 12px; background: transparent; border: 1px solid var(--border); color: var(--text2); font-size: 14px; text-decoration: none; transition: all 0.15s; font-family: 'Bricolage Grotesque', sans-serif; cursor: pointer; }
+.btn-ghost:hover { background: rgba(255,255,255,0.04); color: var(--text); }
+.api-box { background: rgba(0,0,0,0.3); border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px; margin-bottom: 24px; text-align: left; }
+.api-label { font-size: 10px; font-family: 'DM Mono', monospace; color: var(--text3); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 6px; }
+.api-url { font-size: 12px; font-family: 'DM Mono', monospace; color: var(--accent); word-break: break-all; }
+.footer-note { font-size: 12px; color: var(--text3); margin-top: 16px; line-height: 1.6; }
+.footer-note a { color: var(--accent); text-decoration: none; }
+@keyframes checkIn { from { transform: scale(0.5); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+.check-ring { animation: checkIn 0.4s cubic-bezier(0.34, 1.56, 0.64, 1) forwards; }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="check-ring">✓</div>
+  <div class="plan-badge" id="plan-badge">Loading…</div>
+  <h1 id="headline">You're in.</h1>
+  <p class="sub" id="subtext">Your account is now active. Head to the dashboard to start trading ahead of political events.</p>
+
+  <div class="features" id="feature-list">
+    <!-- filled by JS -->
+  </div>
+
+  <div class="api-box" id="api-box" style="display:none">
+    <div class="api-label">Your API Endpoint</div>
+    <div class="api-url">https://politisignal.com/api/signals</div>
+    <div style="font-size:11px;color:var(--text3);margin-top:6px;">Supports ?limit=50&severity=critical&ticker=NVDA&since=2025-01-01</div>
+  </div>
+
+  <a class="btn-primary" href="/app.html" id="cta-btn">Open Live Dashboard →</a>
+  <a class="btn-ghost" href="mailto:hello@politisignal.com" id="support-link">Contact Support</a>
+
+  <p class="footer-note">
+    Manage or cancel your subscription anytime at <a href="https://billing.stripe.com/p/login/politisignal" target="_blank">billing.stripe.com</a>.<br>
+    Questions? Email <a href="mailto:hello@politisignal.com">hello@politisignal.com</a>
+  </p>
+</div>
+
+<script>
+const params = new URLSearchParams(location.search);
+const plan = params.get('plan') || localStorage.getItem('ps-plan') || 'free';
+
+// Activate plan in localStorage (Stripe success redirect sets ?plan=trader or ?plan=elite)
+if (plan !== 'free') {
+  localStorage.setItem('ps-plan', plan);
+  localStorage.setItem('ps-plan-activated', new Date().toISOString());
+}
+
+const plans = {
+  trader: {
+    label: '⚡ Pro Trader Plan',
+    badgeClass: 'trader',
+    headline: "You're a Trader member.",
+    subtext: "Your Trader plan is now active. All 15+ politicians, custom alerts, CSV export, and daily email digest are unlocked.",
+    features: [
+      'All 15+ politicians tracked live',
+      'Browser push notifications',
+      'Custom alert rules (keyword + severity)',
+      'Daily email digest',
+      'CSV export of any signal feed',
+      'Reddit + SEC Congressional trade feeds',
+    ],
+    showApi: false,
+  },
+  elite: {
+    label: '🏅 Founding Elite',
+    badgeClass: 'elite',
+    headline: "Welcome, Elite member.",
+    subtext: "Every feature is unlocked. Your API key is below — use it to query signals programmatically and set up webhooks.",
+    features: [
+      'Everything in Trader',
+      'Live API access at /api/signals',
+      'Webhook alerts for any signal match',
+      'Congressional stock trade alerts (SEC EDGAR)',
+      'Priority support within 4 hours',
+      '5 team seats — forward this email to your team',
+    ],
+    showApi: true,
+  },
+  free: {
+    label: 'Free Starter',
+    badgeClass: 'free',
+    headline: "Welcome to PolitiSignal.",
+    subtext: "Your free account is ready. Upgrade to Trader for custom alerts, all politicians, and email digest.",
+    features: [
+      'Live signal feed (all sources)',
+      'Real-time stock prices',
+      'Search and filter signals',
+    ],
+    showApi: false,
+  },
+};
+
+const cfg = plans[plan] || plans.free;
+document.getElementById('plan-badge').className = `plan-badge ${cfg.badgeClass}`;
+document.getElementById('plan-badge').textContent = cfg.label;
+document.getElementById('headline').textContent = cfg.headline;
+document.getElementById('subtext').textContent = cfg.subtext;
+document.getElementById('feature-list').innerHTML = cfg.features.map(f =>
+  `<div class="feature-row"><span class="check">✓</span> ${f}</div>`
+).join('');
+if (cfg.showApi) document.getElementById('api-box').style.display = '';
+
+// Request push notification permission for paid plans
+if (plan === 'trader' || plan === 'elite') {
+  if ('Notification' in window && Notification.permission === 'default') {
+    setTimeout(() => Notification.requestPermission(), 1500);
+  }
+  // Register service worker
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/sw.js').catch(() => {});
+  }
+}
+</script>
+</body>
+</html>

@@ -384,17 +384,25 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
       <span class="label">Alerts</span>
       <span class="nav-badge" id="alert-badge" style="display:none">0</span>
     </button>
+    <button class="nav-item" id="notif-btn" onclick="togglePushNotifications()" title="Enable push notifications">
+      <span class="icon">📲</span>
+      <span class="label" id="notif-label">Enable Push</span>
+    </button>
     <button class="nav-item" onclick="openSourcesModal()">
       <span class="icon">🌐</span>
       <span class="label">Sources</span>
     </button>
+    <button class="nav-item" onclick="exportCSV()">
+      <span class="icon">⬇</span>
+      <span class="label">Export CSV</span>
+    </button>
   </div>
 
   <div class="sidebar-footer">
-    <div class="user-avatar">PS</div>
+    <div class="user-avatar" id="user-avatar">PS</div>
     <div>
-      <div class="user-name">Trader</div>
-      <div class="user-plan">PRO PLAN</div>
+      <div class="user-name" id="user-plan-name">Free</div>
+      <div class="user-plan" id="user-plan-label">STARTER</div>
     </div>
     <div class="live-dot"></div>
   </div>
@@ -417,7 +425,6 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
       <button class="btn-sm btn-ghost-sm refresh-btn" onclick="manualRefresh()" title="Refresh signals">
         ↻ <span class="refresh-countdown" id="countdown"></span>
       </button>
-      <button class="btn-sm btn-ghost-sm" onclick="exportCSV()">⬇ CSV</button>
       <button class="btn-sm btn-primary-sm" onclick="openAlertModal()">+ New Alert</button>
     </div>
   </div>
@@ -573,23 +580,43 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
       <button class="modal-close" onclick="closeModal('sources-modal')">×</button>
     </div>
     <div class="modal-body">
-      <p style="font-size:13px;color:var(--text2);margin-bottom:20px;">PolitiSignal pulls from these free sources, updated every 10 minutes via automated fetcher.</p>
+      <p style="font-size:13px;color:var(--text2);margin-bottom:20px;">PolitiSignal pulls from these free sources, updated every 5 minutes via automated fetcher.</p>
       <div style="display:flex;flex-direction:column;gap:10px;">
         <div class="alert-rule" style="flex-direction:column;align-items:flex-start;gap:4px;">
           <div style="display:flex;align-items:center;gap:8px;"><span style="color:var(--green);font-size:16px;">●</span><strong style="font-size:13px;">.gov RSS Feeds</strong></div>
           <div style="font-size:12px;color:var(--text3);">Official press releases from senate.gov and house.gov — free, official, highly reliable.</div>
         </div>
         <div class="alert-rule" style="flex-direction:column;align-items:flex-start;gap:4px;">
+          <div style="display:flex;align-items:center;gap:8px;"><span style="color:var(--green);font-size:16px;">●</span><strong style="font-size:13px;">Bluesky AT Protocol</strong></div>
+          <div style="font-size:12px;color:var(--text3);">Live posts from Pelosi, AOC, Warren, Sanders, Ro Khanna — free public API, no auth needed.</div>
+        </div>
+        <div class="alert-rule" style="flex-direction:column;align-items:flex-start;gap:4px;">
+          <div style="display:flex;align-items:center;gap:8px;"><span style="color:var(--green);font-size:16px;">●</span><strong style="font-size:13px;">White House + GovTrack + Fed Register</strong></div>
+          <div style="font-size:12px;color:var(--text3);">Official government news, live congressional votes, and new federal regulations.</div>
+        </div>
+        <div class="alert-rule" style="flex-direction:column;align-items:flex-start;gap:4px;">
+          <div style="display:flex;align-items:center;gap:8px;"><span style="color:var(--green);font-size:16px;">●</span><strong style="font-size:13px;">SEC EDGAR Form 4</strong></div>
+          <div style="font-size:12px;color:var(--text3);">Congressional stock trades and insider filings — live from SEC's public ATOM feed.</div>
+        </div>
+        <div class="alert-rule" style="flex-direction:column;align-items:flex-start;gap:4px;">
+          <div style="display:flex;align-items:center;gap:8px;"><span style="color:var(--green);font-size:16px;">●</span><strong style="font-size:13px;">USTR + Politico + The Hill</strong></div>
+          <div style="font-size:12px;color:var(--text3);">Trade Representative press releases, Politico politics feed, The Hill headlines — all free RSS.</div>
+        </div>
+        <div class="alert-rule" style="flex-direction:column;align-items:flex-start;gap:4px;">
+          <div style="display:flex;align-items:center;gap:8px;"><span style="color:var(--green);font-size:16px;">●</span><strong style="font-size:13px;">Reddit (r/politics, r/investing, r/wallstreetbets)</strong></div>
+          <div style="font-size:12px;color:var(--text3);">Top market-relevant posts via Reddit JSON API — free, no auth required.</div>
+        </div>
+        <div class="alert-rule" style="flex-direction:column;align-items:flex-start;gap:4px;">
           <div style="display:flex;align-items:center;gap:8px;"><span style="color:var(--green);font-size:16px;">●</span><strong style="font-size:13px;">Truth Social</strong></div>
-          <div style="font-size:12px;color:var(--text3);">Public posts via Mastodon API — free, no auth required for public accounts.</div>
+          <div style="font-size:12px;color:var(--text3);">Trump's public posts via Mastodon API — free, no auth required.</div>
         </div>
         <div class="alert-rule" style="flex-direction:column;align-items:flex-start;gap:4px;">
           <div style="display:flex;align-items:center;gap:8px;"><span style="color:var(--amber);font-size:16px;">●</span><strong style="font-size:13px;">YouTube Data API</strong></div>
-          <div style="font-size:12px;color:var(--text3);">Official channel videos — free 10k units/day. Add YOUTUBE_API_KEY to GitHub Secrets to activate.</div>
+          <div style="font-size:12px;color:var(--text3);">Official channel videos — free 10k units/day. Requires YOUTUBE_API_KEY in GitHub Secrets.</div>
         </div>
         <div class="alert-rule" style="flex-direction:column;align-items:flex-start;gap:4px;">
           <div style="display:flex;align-items:center;gap:8px;"><span style="color:var(--red);font-size:16px;">●</span><strong style="font-size:13px;">Twitter/X</strong></div>
-          <div style="font-size:12px;color:var(--text3);">Official API now requires $100/month. Not currently connected.</div>
+          <div style="font-size:12px;color:var(--text3);">API now costs $100/month. Not connected — Bluesky and RSS give us better coverage for free.</div>
         </div>
       </div>
     </div>
@@ -1232,8 +1259,83 @@ function escHtml(str) {
   return String(str).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
 
+// ── PLAN GATING ────────────────────────────────────────────────────────────
+const userPlan = localStorage.getItem('ps-plan') || 'free';
+const planConfig = {
+  free:   { name: 'Free',    label: 'STARTER',      avatar: 'PS' },
+  trader: { name: 'Trader',  label: 'PRO PLAN',     avatar: 'TR' },
+  elite:  { name: 'Elite',   label: 'ELITE',        avatar: 'EL' },
+};
+const pc = planConfig[userPlan] || planConfig.free;
+document.getElementById('user-plan-name').textContent = pc.name;
+document.getElementById('user-plan-label').textContent = pc.label;
+document.getElementById('user-avatar').textContent = pc.avatar;
+
+// Update subscribe link text for paid users
+if (userPlan !== 'free') {
+  const subLink = document.querySelector('a[href="/subscribe.html"]');
+  if (subLink) {
+    subLink.querySelector('.label').textContent = 'Manage Plan';
+    subLink.style.background = 'none';
+    subLink.style.color = 'var(--text3)';
+    subLink.style.border = 'none';
+  }
+}
+
+// ── SERVICE WORKER + PUSH NOTIFICATIONS ───────────────────────────────────
+let swRegistration = null;
+
+async function initServiceWorker() {
+  if (!('serviceWorker' in navigator)) return;
+  try {
+    swRegistration = await navigator.serviceWorker.register('/sw.js');
+    updateNotifButton();
+  } catch (e) {
+    console.warn('SW registration failed:', e);
+  }
+}
+
+function updateNotifButton() {
+  const btn = document.getElementById('notif-btn');
+  const lbl = document.getElementById('notif-label');
+  if (!btn) return;
+  if (!('Notification' in window)) { btn.style.display = 'none'; return; }
+  if (Notification.permission === 'granted') {
+    lbl.textContent = 'Push: ON';
+    btn.style.color = 'var(--green)';
+  } else if (Notification.permission === 'denied') {
+    lbl.textContent = 'Push: Blocked';
+    btn.style.color = 'var(--red)';
+  } else {
+    lbl.textContent = 'Enable Push';
+  }
+}
+
+async function togglePushNotifications() {
+  if (!('Notification' in window)) { showGenericToast('Notifications not supported in this browser'); return; }
+  if (Notification.permission === 'denied') { showGenericToast('Notifications blocked — enable in browser settings'); return; }
+  if (Notification.permission === 'granted') {
+    showGenericToast('Push notifications are already enabled');
+    return;
+  }
+  const result = await Notification.requestPermission();
+  updateNotifButton();
+  if (result === 'granted') {
+    showGenericToast('Push notifications enabled');
+    // Register for periodic background sync if supported
+    if (swRegistration && 'periodicSync' in swRegistration) {
+      try {
+        await swRegistration.periodicSync.register('poll-signals', { minInterval: 5 * 60 * 1000 });
+      } catch {}
+    }
+  } else {
+    showGenericToast('Notifications permission denied');
+  }
+}
+
 // ── INIT ───────────────────────────────────────────────────────────────────
 updateAlertBadge();
+initServiceWorker();
 loadSignals();
 setInterval(loadSignals, 5 * 60 * 1000);
 setInterval(updateCountdown, 1000);

@@ -148,8 +148,7 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="plan-desc">Everything you need to trade ahead of political events.</div>
       <div class="plan-price"><span class="amount" style="color:var(--accent)">$29</span><span class="period">/month</span></div>
       <div class="plan-note" style="color:var(--accent)">Founding price — locked forever</div>
-      <!-- Replace href with your Stripe payment link -->
-      <a class="plan-btn btn-primary" href="https://buy.stripe.com/cNi7sN8infNufrKaKBcZa00" target="_blank">Subscribe Now →</a>
+      <a class="plan-btn btn-primary" href="https://buy.stripe.com/cNi7sN8infNufrKaKBcZa00?success_url=https%3A%2F%2Fpolitisignal.com%2Fsuccess%3Fplan%3Dtrader" target="_blank" rel="noopener">Subscribe Now →</a>
       <div class="plan-features">
         <div class="feature-row"><span class="check">✓</span> <strong class="strong">Everything in Free</strong></div>
         <div class="feature-row"><span class="check">✓</span> All 15+ politicians tracked</div>
@@ -169,8 +168,7 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="plan-desc">For serious traders and funds who need every edge.</div>
       <div class="plan-price"><span class="amount" style="color:var(--gold)">$99</span><span class="period">/month</span></div>
       <div class="plan-note" style="color:var(--gold)">Founding price — locked forever</div>
-      <!-- Replace href with your Stripe payment link -->
-      <a class="plan-btn btn-gold" href="https://buy.stripe.com/9B6fZjfKP8l25Ra2e5cZa01" target="_blank">Get Elite Access →</a>
+      <a class="plan-btn btn-gold" href="https://buy.stripe.com/9B6fZjfKP8l25Ra2e5cZa01?success_url=https%3A%2F%2Fpolitisignal.com%2Fsuccess%3Fplan%3Delite" target="_blank" rel="noopener">Get Elite Access →</a>
       <div class="plan-features">
         <div class="feature-row"><span class="check">✓</span> <strong class="strong">Everything in Trader</strong></div>
         <div class="feature-row"><span class="check">✓</span> API access</div>
@@ -224,8 +222,16 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="faq-a">No. PolitiSignal provides information and analysis for educational purposes only. Nothing here constitutes investment advice. Always consult a qualified financial advisor before making investment decisions.</div>
     </div>
     <div class="faq-item">
+      <div class="faq-q">How does the API access work (Elite)?</div>
+      <div class="faq-a">After subscribing, hit <code style="background:rgba(255,255,255,0.05);padding:2px 6px;border-radius:4px;font-size:13px;color:var(--accent)">GET /api/signals</code> from any language. Filter by severity, ticker, or politician. Updated every 5 minutes. No auth token required — access is on the honor system while we build full auth.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">How do push notifications work?</div>
+      <div class="faq-a">On the dashboard, click "Enable Push" in the sidebar. Your browser will ask for permission. After that, you'll receive real-time alerts for critical and high-severity signals — even when the tab is in the background.</div>
+    </div>
+    <div class="faq-item">
       <div class="faq-q">How do I cancel?</div>
-      <div class="faq-a">Email us at <a href="mailto:hello@politisignal.com" style="color:var(--accent)">hello@politisignal.com</a> and we'll cancel your subscription immediately. You keep access until the end of your billing period.</div>
+      <div class="faq-a">Manage or cancel at <a href="https://billing.stripe.com/p/login/politisignal" style="color:var(--accent)" target="_blank">billing.stripe.com</a> — no email needed, instant self-serve. You keep access until the end of your billing period.</div>
     </div>
   </div>
 
