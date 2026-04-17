@@ -317,7 +317,6 @@ PLATFORM_LABELS = {
     "truthsocial": "Truth Social",
     "bluesky": "Bluesky",
     "youtube": "YouTube",
-    "reddit": "Reddit",
 }
 
 # ─── HELPERS ─────────────────────────────────────────────────────────────────
@@ -543,59 +542,126 @@ def fetch_bluesky(source: dict) -> list:
     return signals
 
 
-def fetch_reddit(subreddit: str, limit: int = 8) -> list:
-    """Fetch market-relevant posts from Reddit (free, no auth needed)."""
+_SEC_GENERIC_WORDS = {
+    "INC", "INC.", "CORP", "CORP.", "CO", "CO.", "LTD", "LLC",
+    "PLC", "GROUP", "HOLDINGS", "INTERNATIONAL", "GLOBAL", "THE",
+    "BANK", "HEALTH", "FINANCIAL", "SERVICES", "TECHNOLOGIES", "TECHNOLOGY",
+}
+
+def _sec_ticker_for_company(company_upper: str) -> Optional[str]:
+    """
+    Find a known ticker symbol for a company name.
+    Only returns a match when a distinctive (non-generic) keyword matches.
+    """
+    # Strip common suffixes for cleaner matching
+    clean = re.sub(r"[^\w\s]", "", company_upper).strip()
+
+    # Direct ticker symbol token check ("NVIDIA CORP" contains "NVDA" only if ticker appears)
+    padded = f" {clean} "
+    for sym in TICKER_NAMES:
+        if f" {sym} " in padded:
+            return sym
+
+    # Match against distinctive words from known company names (not generic business words)
+    for sym, name in TICKER_NAMES.items():
+        words = [
+            w for w in re.sub(r"[^\w\s]", "", name).upper().split()
+            if len(w) > 4 and w not in _SEC_GENERIC_WORDS
+        ]
+        if words and any(w in clean for w in words):
+            return sym
+
+    return None
+
+
+def fetch_sec_edgar(source: dict, max_entries: int = 10) -> list:
+    """
+    Fetch SEC EDGAR Form 4 (insider transaction) filings and produce
+    clear, readable summaries.
+
+    The EDGAR Atom feed emits TWO entries per Form 4:
+      - "4 - PersonName (CIK) (Reporting)"  ← the insider who filed
+      - "4 - CompanyName (CIK) (Issuer)"    ← the company whose stock was traded
+
+    We pair them by accession number to build a single, informative signal.
+    """
+    url = source.get("rss")
+    if not url:
+        return []
     signals = []
-    reddit_source = {
-        "name": f"r/{subreddit}",
-        "initials": "r/",
-        "role": "Reddit Community",
-        "color": {"bg": "#1a0f00", "fg": "#fb923c"},
-        "keywords": [],
-    }
     try:
-        r = requests.get(
-            f"https://www.reddit.com/r/{subreddit}/hot.json",
-            params={"limit": limit},
-            headers={"User-Agent": "PolitiSignal/1.0 (hello@politisignal.com)"},
-            timeout=10,
-        )
-        if r.status_code != 200:
-            print(f"  Reddit r/{subreddit}: HTTP {r.status_code}")
-            return []
-        for post in r.json()["data"]["children"]:
-            data = post["data"]
-            if data.get("stickied"):
+        feed = feedparser.parse(url, request_headers={"User-Agent": "PolitiSignal/1.0 (hello@politisignal.com)"})
+
+        # ── Group entry pairs by accession number ──
+        # Each Form 4 produces two entries sharing the same accession number:
+        #   "4 - PersonName (CIK) (Reporting)"  → the insider filer
+        #   "4 - CompanyName (CIK) (Issuer)"    → the company whose stock was traded
+        # The accession number lives in entry.id:
+        #   "urn:tag:sec.gov,2008:accession-number=0001104659-26-044619"
+        filings: dict = {}
+        for entry in feed.entries:
+            title = entry.get("title", "")
+            if not (title.startswith("4 - ") or title.startswith("4/A - ")):
                 continue
-            title = data.get("title", "")
-            selftext = strip_html(data.get("selftext", ""))[:200]
-            content = f"{title}. {selftext}".strip(". ")
-            if len(content) < 30:
+
+            # Extract accession number from the id URN
+            entry_id = entry.get("id", "")
+            if "accession-number=" in entry_id:
+                accno = entry_id.split("accession-number=")[-1].strip()
+            else:
                 continue
-            tickers = guess_tickers(content)
-            if not tickers and subreddit not in ["politics", "worldnews"]:
-                continue  # Only include market-relevant posts for financial subreddits
-            url = f"https://reddit.com{data.get('permalink', '')}"
-            created = datetime.fromtimestamp(data.get("created_utc", 0), tz=timezone.utc)
-            signals.append({
-                "id": make_id(title + subreddit),
-                "politician": f"r/{subreddit}",
-                "initials": "r/",
-                "role": "Reddit Community",
-                "color": {"bg": "#1a0f00", "fg": "#fb923c"},
-                "severity": "low",
-                "content": content[:320],
-                "tags": extract_tags(content, reddit_source),
-                "tickers": tickers,
-                "source": "reddit",
-                "platform": "Reddit",
-                "url": url,
-                "published_iso": created.isoformat(),
-                "time_ago": time_ago(created),
-            })
-        print(f"  Reddit r/{subreddit}: {len(signals)} relevant posts")
+
+            if accno not in filings:
+                filings[accno] = {"reporter": None, "issuer": None, "entry": entry}
+
+            # Strip "4 - " or "4/A - " prefix, then strip trailing "(CIK) (Role)"
+            bare = re.sub(r"^4(?:/A)? - ", "", title)
+            name_part = re.sub(r"\s*\(\d+\)\s*\(\w+\)\s*$", "", bare).strip()
+
+            if "(Reporting)" in title:
+                filings[accno]["reporter"] = name_part
+            elif "(Issuer)" in title:
+                filings[accno]["issuer"] = name_part
+
+        # ── Build signals from paired filings ──
+        for accno, data in list(filings.items())[:max_entries]:
+            reporter = data.get("reporter")
+            issuer   = data.get("issuer")
+            entry    = data["entry"]
+            if not reporter or not issuer:
+                continue
+
+            filer        = reporter.title()   # ALL CAPS → Title Case
+            company      = issuer.title()
+            company_upper = issuer.upper()
+
+            ticker     = _sec_ticker_for_company(company_upper)
+            ticker_str = f" ({ticker})" if ticker else ""
+
+            # Date from summary HTML: "<b>Filed:</b> 2026-04-17 ..."
+            date_match = re.search(r"Filed:</b>\s*([\d-]+)", entry.get("summary", ""))
+            date_str   = f" on {date_match.group(1)}" if date_match else ""
+
+            content = (
+                f"{filer} filed an SEC Form 4 insider transaction report for "
+                f"{company}{ticker_str}{date_str}. "
+                f"Click to view transaction type, share count, and price on SEC EDGAR."
+            )
+
+            # Use updated_parsed (published is None for EDGAR entries)
+            published = None
+            parsed = getattr(entry, "updated_parsed", None) or getattr(entry, "published_parsed", None)
+            if parsed:
+                try:
+                    published = datetime(*parsed[:6], tzinfo=timezone.utc)
+                except Exception:
+                    pass
+
+            signals.append(make_signal(source, content, "sec", entry.get("link", ""), published))
+
+        print(f"  SEC EDGAR: {len(signals)} Form 4 filings summarized")
     except Exception as e:
-        print(f"  Reddit r/{subreddit} error: {e}")
+        print(f"  SEC EDGAR error: {e}")
     return signals
 
 
@@ -719,14 +785,11 @@ def main():
     for src in GLOBAL_SOURCES:
         print(f"\nFetching {src['name']}...")
         key = src.get("platform_key", "rss")
-        all_signals.extend(fetch_rss_source(src, key, max_entries=8))
-
-    # Reddit (free, no API key)
-    print("\n── Reddit ───────────────────────────────────────────────")
-    all_signals.extend(fetch_reddit("politics", limit=10))
-    all_signals.extend(fetch_reddit("investing", limit=8))
-    all_signals.extend(fetch_reddit("wallstreetbets", limit=5))
-    all_signals.extend(fetch_reddit("StockMarket", limit=5))
+        if key == "sec":
+            # Use dedicated parser that produces readable summaries
+            all_signals.extend(fetch_sec_edgar(src, max_entries=10))
+        else:
+            all_signals.extend(fetch_rss_source(src, key, max_entries=8))
 
     # Sort by published date, newest first
     def sort_key(s):
