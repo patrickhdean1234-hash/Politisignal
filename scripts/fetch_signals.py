@@ -711,23 +711,26 @@ def fetch_sec_edgar(source: dict, max_entries: int = 8) -> list:
                 txn    = transactions[0]
                 action = _TRANSACTION_CODES.get(txn["code"])
                 if not action:
-                    # Truly unknown code — skip, nothing useful to show
                     continue
-                shares     = txn["shares"]
-                price      = txn["price"]
+                shares = txn["shares"]
+                price  = txn["price"]
+
+                # Skip trades under $50,000 total value — not signal-worthy
+                trade_value = shares * price
+                if price > 0 and trade_value < 50_000:
+                    continue
+
                 shares_fmt = f"{shares:,.0f}"
                 content = f"{filer} {action} {shares_fmt} shares of {company}{ticker_str}"
                 if price:
                     content += f" · ${price:,.2f}/share"
                 if date_str:
                     content += f" · {date_str}"
-                # Note total if multiple transaction blocks differ
                 if len(transactions) > 1:
                     total_shares = sum(t["shares"] for t in transactions)
                     if total_shares != shares:
                         content += f" ({total_shares:,.0f} total)"
             else:
-                # Fallback when XML fetch fails — skip, nothing clean to show
                 continue
 
             published = None
