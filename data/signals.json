@@ -1,5 +1,70 @@
 [
   {
+    "id": "fb6acf3a4fa2",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Girdwood Amy withheld (tax) 225,624 shares of Warner Bros. Discovery, Inc. (WBD) \u00b7 $27.20/share \u00b7 $6,136,973 total \u00b7 Apr 17",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "WBD"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2060469/000143710726000039/0001437107-26-000039-index.htm",
+    "published_iso": "2026-04-17T20:08:05+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "4602555b87e0",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Mizell Steven received 396 shares of Grail, Inc. (GRAL) \u00b7 $49.79/share \u00b7 $19,717 total \u00b7 Apr 17",
+    "tags": [],
+    "tickers": [
+      "GRAL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1699031/000162828026025731/0001628280-26-025731-index.htm",
+    "published_iso": "2026-04-17T20:07:09+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "a0fcceb302ea",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Chase William J received 408 shares of Grail, Inc. (GRAL) \u00b7 $49.79/share \u00b7 $20,314 total \u00b7 Apr 17",
+    "tags": [],
+    "tickers": [
+      "GRAL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1699031/000162828026025730/0001628280-26-025730-index.htm",
+    "published_iso": "2026-04-17T20:07:03+00:00",
+    "time_ago": "2m ago"
+  },
+  {
     "id": "fb332c0841d5",
     "politician": "White House",
     "initials": "WH",
@@ -13,18 +78,12 @@
     "tags": [
       "Taxes"
     ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL",
-      "LMT"
-    ],
+    "tickers": [],
     "source": "whitehouse",
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-commemorating-250-years-of-the-bible-in-america/",
     "published_iso": "2026-04-17T19:32:49+00:00",
-    "time_ago": "17m ago"
+    "time_ago": "36m ago"
   },
   {
     "id": "f706e4872081",
@@ -41,21 +100,15 @@
       "Regulation",
       "Taxes"
     ],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META",
-      "BTC"
-    ],
+    "tickers": [],
     "source": "bluesky",
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mjpnuaannk23",
     "published_iso": "2026-04-17T19:28:33.382000+00:00",
-    "time_ago": "21m ago"
+    "time_ago": "40m ago"
   },
   {
-    "id": "28c692cdf937",
+    "id": "0377b49ff3e0",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -64,20 +117,16 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Watch live: Trump to court young voters at TPUSA event in Arizona. President Trump is headlining Turning Point USA's (TPUSA) event in Arizona on Friday afternoon, as Republicans seek to bolster support ahead of November. The \u201cBuild the Red Wall\u201d event comes at a time when Trump's backing among young voters is slipping ",
+    "content": "Watch live: Trump to court young voters at Turning Point USA event in Arizona. President Trump is headlining Turning Point USA's event Friday afternoon in Arizona, as Republicans seek to bolster support ahead of November. The \u201cBuild the Red Wall\u201d event comes at a time when Trump's backing among young voters is slipping",
     "tags": [
       "Sanctions"
     ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
     "url": "https://thehill.com/video-clips/5836751-watch-live-trump-young-voters-turning-point-usa-arizona/",
     "published_iso": "2026-04-17T19:03:49+00:00",
-    "time_ago": "46m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "52cdb2920fca",
@@ -89,72 +138,16 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Tufts student detained by ICE returns to Turkey. R\u00fcmeysa \u00d6zt\u00fcrk, the Tufts University student that was detained by Immigration and Customs Enforcement (ICE) last year, has completed her Ph.D. program and is returning to her home country of Turkey, her lawyers announced on Friday.   \u00d6zt\u00fcrk was detained by ICE in 2025 af",
+    "content": "Tufts student detained by ICE returns to Turkey. R\u00fcmeysa \u00d6zt\u00fcrk, the Tufts University student who was detained by Immigration and Customs Enforcement (ICE) last year, has completed her Ph.D. program and is returning to her home country of\u00a0Turkey, her lawyers announced Friday.\u00a0\u00a0 \u00d6zt\u00fcrk was detained by ICE in 2025 after ",
     "tags": [
       "Regulation"
     ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL",
-      "BTC"
-    ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/education/5836793-ruemysa-ozturk-returning-turkey/",
     "published_iso": "2026-04-17T18:56:10+00:00",
-    "time_ago": "53m ago"
-  },
-  {
-    "id": "eecfb115ef37",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "NJ Transit announces $150 World Cup train tickets: 'We are not making profits'. As the World Cup approaches, there is growing controversy in the greater New York-New Jersey area over the high train ticket prices to MetLife Stadium",
-    "tags": [],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL",
-      "BTC"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/state-watch/5836749-nj-transit-world-cup-train-tickets-profit/",
-    "published_iso": "2026-04-17T18:56:05+00:00",
-    "time_ago": "54m ago"
-  },
-  {
-    "id": "7742325d3bd9",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Psaki on Democrats' 25th Amendment talk: 'It's not going to happen'. MS NOW host Jen Psaki attempted to shut down hopes from Democrats to invoke the 25th Amendment to oust President Trump from office amid criticism of his rhetoric and strikes on Iran.\u00a0 \u201cI have no issue with people saying they're for invoking the 25th A",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/media/5836767-trump-25th-amendment-psaki/",
-    "published_iso": "2026-04-17T18:51:19+00:00",
-    "time_ago": "58m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "0529f6749d2b",
@@ -182,106 +175,6 @@
     "time_ago": "1h ago"
   },
   {
-    "id": "700af5d6d188",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Aaron Carter\u2019s mom creates GoFundMe to get singer star on the Walk of Fame. Aaron Carter accidentally drowned in his bathtub due to sedatives and gas inhalation",
-    "tags": [],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL",
-      "BTC"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/blogs/in-the-know/5836554-aaron-carter-gofundme-hollywood-walk-of-fame/",
-    "published_iso": "2026-04-17T18:20:47+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "7b8c86a7242f",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "French widow detained by ICE after GI husband's death released, returns to France. After being held in a U.S. immigration detention facility for the past 16 days, an elderly French woman returned home to France on Friday.  Marie-Th\u00e9r\u00e8se Ross was detained by Immigration and Customs Enforcement (ICE) in Alabama on April ",
-    "tags": [],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL",
-      "BTC"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/international/5836654-immigration-detention-alabama-france/",
-    "published_iso": "2026-04-17T17:46:24+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "29431af5933b",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Democrat demands RFK Jr. insist on Trump mental fitness test, invoke 25th Amendment. Rep. Mark Takano (D-Calif.) grilled Health and Human Services Secretary Robert F. Kennedy Jr. about President Trump's mental fitness Friday, pressing him about some of Trump's recent social media posts. During a Friday hearing in the H",
-    "tags": [],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL",
-      "BTC"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5836509-takano-challenges-kennedy-trump-health/",
-    "published_iso": "2026-04-17T17:26:37+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "857cf5386845",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "Kevin Warsh is refusing to disclose more than $100 million of his assets. Totally unprecedented.\n \nWarsh needs to release this information now. What is he hiding?",
-    "tags": [],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META",
-      "BTC"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjpffnjrac2z",
-    "published_iso": "2026-04-17T16:57:14.062000+00:00",
-    "time_ago": "2h ago"
-  },
-  {
     "id": "e84541b8a3a3",
     "politician": "White House",
     "initials": "WH",
@@ -295,13 +188,7 @@
     "tags": [
       "Taxes"
     ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL",
-      "LMT"
-    ],
+    "tickers": [],
     "source": "whitehouse",
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/04/in-nevada-president-trump-celebrates-no-tax-on-tips-real-money-to-working-americans/",
@@ -325,13 +212,7 @@
       "Energy",
       "Agriculture"
     ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "AMD",
-      "QCOM",
-      "AAPL"
-    ],
+    "tickers": [],
     "source": "ustr",
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2026/opening-statement-ambassador-jamieson-greer-house-appropriations-committee",
@@ -376,13 +257,7 @@
     "severity": "medium",
     "content": "www.theverge.com/policy/91170...",
     "tags": [],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META",
-      "BTC"
-    ],
+    "tickers": [],
     "source": "bluesky",
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mjoz2ob3xc2u",
@@ -403,13 +278,7 @@
     "tags": [
       "Taxes"
     ],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META",
-      "BTC"
-    ],
+    "tickers": [],
     "source": "bluesky",
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mjoz2nahz22u",
@@ -428,17 +297,12 @@
     "severity": "medium",
     "content": "The nation\u2019s cartoonists on the week in politics. Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoo",
     "tags": [],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
+    "tickers": [],
     "source": "politico",
     "platform": "Politico",
     "url": "https://www.politico.com/gallery/2026/04/17/the-nations-cartoonists-on-the-week-in-politics-00878255",
     "published_iso": "2026-04-17T09:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "b9cc87889db7",
@@ -459,7 +323,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h124?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-17T06:07:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "903fee790e64",
@@ -504,30 +368,6 @@
     "time_ago": "14h ago"
   },
   {
-    "id": "923fefe9e5eb",
-    "politician": "Politico",
-    "initials": "PO",
-    "role": "Political News",
-    "color": {
-      "bg": "#1a0a0a",
-      "fg": "#fca5a5"
-    },
-    "severity": "medium",
-    "content": "Why Steve Hilton thinks he can turn California red",
-    "tags": [],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "politico",
-    "platform": "Politico",
-    "url": "https://www.politico.com/video/2026/04/16/why-steve-hilton-thinks-he-can-turn-california-red-2014381",
-    "published_iso": "2026-04-17T03:59:00+00:00",
-    "time_ago": "15h ago"
-  },
-  {
     "id": "3b98d299bd0d",
     "politician": "Federal Register",
     "initials": "FR",
@@ -546,26 +386,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07601/schedule-of-fees-for-consular-services-fee-for-administrative-processing-of-request-for-certificate",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "19h ago"
-  },
-  {
-    "id": "34bf54a51349",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "House Falls in Marine Terminals. OSHA is finalizing the revocation of the agency's House Falls in Marine Terminals Standard",
-    "tags": [],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07600/house-falls-in-marine-terminals",
-    "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "d23f8954846f",
@@ -587,7 +408,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07585/settlement-policy-for-small-unmanned-aircraft-system-uas-cases",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "cc0a8f367a35",
@@ -608,7 +429,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07571/amendment-of-class-e5-airspace-over-elizabeth-city-nc",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "97933daa1321",
@@ -631,7 +452,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07560/methoxyfenozide-pesticide-tolerances",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "1f6bf96da018",
@@ -653,7 +474,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07536/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-geophysical-surveys-in-the",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "3354ace02b33",
@@ -675,7 +496,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07535/eliminating-outdated-regulation-related-to-reports-on-exports-of-technology",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "bd9e52eeb6c7",
@@ -694,32 +515,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07527/air-plan-approval-virginia-amendment-to-the-state-operating-permit-for-gp-big-island-llc",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "19h ago"
-  },
-  {
-    "id": "17608fe4f190",
-    "politician": "Rep. Nancy Pelosi",
-    "initials": "NP",
-    "role": "House Democratic Leader",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "The Constitution entrusts the power to declare war to Congress\u2014the people's Representatives.\n\nWith Republicans blocking another War Powers Resolution, the American people have been left without a voice in this President\u2019s war, even as working families are left to bear the cost.",
-    "tags": [],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "AMD",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/pelosi.house.gov/post/3mjnfpfy67223",
-    "published_iso": "2026-04-16T21:57:22.212000+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "c52552ddf3f9",
@@ -736,13 +532,7 @@
       "Trade",
       "Regulation"
     ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL",
-      "LMT"
-    ],
+    "tickers": [],
     "source": "ustr",
     "platform": "USTR",
     "url": "https://ustr.gov/node/14307",
@@ -805,12 +595,7 @@
       "Regulation",
       "Taxes"
     ],
-    "tickers": [
-      "BTC",
-      "ETH",
-      "COIN",
-      "XRP"
-    ],
+    "tickers": [],
     "source": "rss",
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-led-fences-act-clears-u-s-house/",
@@ -858,31 +643,6 @@
     "time_ago": "1d ago"
   },
   {
-    "id": "e3e4a84d9705",
-    "politician": "U.S. Trade Rep.",
-    "initials": "USTR",
-    "role": "Office of the U.S. Trade Representative",
-    "color": {
-      "bg": "#1a0a1a",
-      "fg": "#d8b4fe"
-    },
-    "severity": "medium",
-    "content": "2026. 2026 \n  myarbrough  \n  Thu, 04/16/2026 - 12:37",
-    "tags": [],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL",
-      "LMT"
-    ],
-    "source": "ustr",
-    "platform": "USTR",
-    "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2026",
-    "published_iso": "2026-04-16T16:37:21+00:00",
-    "time_ago": "1d ago"
-  },
-  {
     "id": "186d037cfece",
     "politician": "GovTrack",
     "initials": "GT",
@@ -899,31 +659,6 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h118?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-16T16:32:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "b27b378c070c",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "War with Iran Update. War with Iran Update",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "http://www.warren.senate.gov/newsroom/videos/watch/war-with-iran-update",
-    "published_iso": "2026-04-16T16:01:15+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -961,13 +696,7 @@
     "tags": [
       "Regulation"
     ],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META",
-      "BTC"
-    ],
+    "tickers": [],
     "source": "rss",
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-klobuchar-lawmakers-press-for-new-independent-watchdog-investigation-into-trump-doj-cesspool-of-corruption-surrounding-merger-review",
@@ -988,141 +717,11 @@
     "tags": [
       "Trade"
     ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "AMD",
-      "QCOM",
-      "AAPL"
-    ],
+    "tickers": [],
     "source": "bluesky",
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mjmjtvvmc22d",
     "published_iso": "2026-04-16T13:38:48.344000+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "8d99411a36d5",
-    "politician": "Politico",
-    "initials": "PO",
-    "role": "Political News",
-    "color": {
-      "bg": "#1a0a0a",
-      "fg": "#fca5a5"
-    },
-    "severity": "medium",
-    "content": "Democrats\u2019 new affordability nemesis: FIFA. The world soccer organization is joining groceries, utilities and landlords as targets for Democrats talking about the cost of living",
-    "tags": [],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "politico",
-    "platform": "Politico",
-    "url": "https://www.politico.com/news/2026/04/16/democrats-new-affordability-nemesis-fifa-00874896",
-    "published_iso": "2026-04-16T09:55:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "6f86615f25d7",
-    "politician": "Politico",
-    "initials": "PO",
-    "role": "Political News",
-    "color": {
-      "bg": "#1a0a0a",
-      "fg": "#fca5a5"
-    },
-    "severity": "critical",
-    "content": "Pappas holds cash advantage over GOP rivals in New Hampshire. The Democrat out-raised his Republican competitors and has more in the bank",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "politico",
-    "platform": "Politico",
-    "url": "https://www.politico.com/live-updates/2026/04/15/congress/pappas-new-hampshire-senate-cash-advantage-00875605",
-    "published_iso": "2026-04-16T04:50:09+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "4efe70ed201f",
-    "politician": "Politico",
-    "initials": "PO",
-    "role": "Political News",
-    "color": {
-      "bg": "#1a0a0a",
-      "fg": "#fca5a5"
-    },
-    "severity": "medium",
-    "content": "Barr keeps his cash lead in Kentucky Senate GOP primary. The GOP representative has a nearly $4.2 million war chest",
-    "tags": [],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "politico",
-    "platform": "Politico",
-    "url": "https://www.politico.com/live-updates/2026/04/15/congress/andy-barr-kentucky-senate-fundraising-lead-00875604",
-    "published_iso": "2026-04-16T03:56:52+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "0f83e485bb78",
-    "politician": "Politico",
-    "initials": "PO",
-    "role": "Political News",
-    "color": {
-      "bg": "#1a0a0a",
-      "fg": "#fca5a5"
-    },
-    "severity": "low",
-    "content": "Ossoff builds massive cash edge as Georgia GOP field remains unsettled. His fundraising and cash on hand numbers dwarf all of the Republican contenders\u2019 postings combined",
-    "tags": [],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "politico",
-    "platform": "Politico",
-    "url": "https://www.politico.com/live-updates/2026/04/15/congress/ossoff-fundraising-georgia-senate-00875566",
-    "published_iso": "2026-04-16T03:50:49+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "6b295165e795",
-    "politician": "Politico",
-    "initials": "PO",
-    "role": "Political News",
-    "color": {
-      "bg": "#1a0a0a",
-      "fg": "#fca5a5"
-    },
-    "severity": "critical",
-    "content": "Peltola outraises Sullivan, lags in cash on hand. The Democrat posted a massive Q1 haul but has less money left in the bank than her opponent does",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "politico",
-    "platform": "Politico",
-    "url": "https://www.politico.com/live-updates/2026/04/15/congress/peltola-sullivan-alaska-senate-fundraising-00875599",
-    "published_iso": "2026-04-16T03:34:31+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -1139,12 +738,7 @@
     "tags": [
       "Taxes"
     ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
+    "tickers": [],
     "source": "politico",
     "platform": "Politico",
     "url": "https://www.politico.com/live-updates/2026/04/15/congress/angie-craig-peggy-flanagan-minnesota-senate-cash-00875578",
@@ -1165,13 +759,7 @@
     "tags": [
       "Taxes"
     ],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META",
-      "BTC"
-    ],
+    "tickers": [],
     "source": "rss",
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/this-tax-day-dont-forget-trump-went-out-of-his-way-to-shut-down-the-irs-free-tax-filing-program",
@@ -1219,13 +807,7 @@
       "Regulation",
       "Taxes"
     ],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META",
-      "BTC"
-    ],
+    "tickers": [],
     "source": "rss",
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/on-tax-day-warren-puts-direct-file-bill-on-senate-floor-forces-republicans-on-record-on-free-easy-tax-filing-program",
@@ -1248,13 +830,7 @@
       "Regulation",
       "Taxes"
     ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL",
-      "LMT"
-    ],
+    "tickers": [],
     "source": "whitehouse",
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-three-existing-pipeline-facilities-at-pembina-county-north-dakota-at-the-international-boundary-between/",
@@ -1276,42 +852,11 @@
       "Regulation",
       "Taxes"
     ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL",
-      "LMT"
-    ],
+    "tickers": [],
     "source": "whitehouse",
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-enbridge-pipelines-southern-lights-l-l-c-to-operate-and-maintain-existing-pipeline-facilities-at-pembina-county-north-dakota-at-the-international-boundary-between/",
     "published_iso": "2026-04-15T20:28:16+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "80d2d19c9218",
-    "politician": "Sen. Bernie Sanders",
-    "initials": "BS",
-    "role": "Senate HELP Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#818cf8"
-    },
-    "severity": "medium",
-    "content": "I'm proud to support the nurses at Rush University Medical Center in Chicago who are fighting to form a union.\n \nIf RUMC can pay its CEO over $4 million a year, it can afford to provide better working conditions for nurses & staffing levels that are safe for their patients.",
-    "tags": [],
-    "tickers": [
-      "LLY",
-      "PFE",
-      "JNJ",
-      "MRK",
-      "UNH"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/sanders.senate.gov/post/3mjkq5o47ck2b",
-    "published_iso": "2026-04-15T20:26:18.698000+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -1328,13 +873,7 @@
     "tags": [
       "Regulation"
     ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "AMD",
-      "QCOM",
-      "AAPL"
-    ],
+    "tickers": [],
     "source": "bluesky",
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mjkhfosrwc2t",
@@ -1357,69 +896,11 @@
       "Regulation",
       "Taxes"
     ],
-    "tickers": [
-      "BTC",
-      "ETH",
-      "COIN",
-      "XRP"
-    ],
+    "tickers": [],
     "source": "rss",
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-cruz-file-amicus-brief-backing-trump-administrations-push-to-repeal-endangerment-finding/",
     "published_iso": "2026-04-15T17:31:26+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "fdeeaa4b42e4",
-    "politician": "Sen. Bernie Sanders",
-    "initials": "BS",
-    "role": "Senate HELP Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#818cf8"
-    },
-    "severity": "low",
-    "content": "Read my new piece in The Guardian here: www.theguardian.com/commentisfre...",
-    "tags": [],
-    "tickers": [
-      "LLY",
-      "PFE",
-      "JNJ",
-      "MRK",
-      "UNH"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/sanders.senate.gov/post/3mjkerr3p7k2z",
-    "published_iso": "2026-04-15T17:02:46.490000+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "851bd1cb918b",
-    "politician": "Sen. Bernie Sanders",
-    "initials": "BS",
-    "role": "Senate HELP Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#818cf8"
-    },
-    "severity": "critical",
-    "content": "For Netanyahu, the war in Gaza was not enough. Iran was not enough. He is now waging a full-blown war of expansion in Lebanon. \n \nThe time is long overdue for Congress to listen to the American people and end U.S. military aid to the extremist Israeli government.",
-    "tags": [
-      "Defense",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD",
-      "XOM"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/sanders.senate.gov/post/3mjkerpnbuc2z",
-    "published_iso": "2026-04-15T17:02:46.489000+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -1466,13 +947,7 @@
       "Healthcare",
       "Banking"
     ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL",
-      "UNH"
-    ],
+    "tickers": [],
     "source": "ustr",
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2025/opening-statement-jeffrey-goettman-senate-finance-committee",
@@ -1496,64 +971,12 @@
       "Energy",
       "Healthcare"
     ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL",
-      "CORN"
-    ],
+    "tickers": [],
     "source": "ustr",
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2025/opening-statement-dr-julie-callahan-senate-finance-committee",
     "published_iso": "2026-04-15T15:55:48+00:00",
     "time_ago": "2d ago"
-  },
-  {
-    "id": "8f81430de650",
-    "politician": "Rep. Nancy Pelosi",
-    "initials": "NP",
-    "role": "House Democratic Leader",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "My \u201cwhy\u201d is and has always been For The Children. \n\nIt was a great honor to receive the @ameracadpeds.bsky.social For The Children Award yesterday from pediatricians on the frontlines of their care.\n\nThere is no issue more critical to our future than the health of America\u2019s next generation.",
-    "tags": [],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "AMD",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/pelosi.house.gov/post/3mjk2t3f4222j",
-    "published_iso": "2026-04-15T14:04:34.942000+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "873bf976d4a8",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Join @sanders.senate.gov, Naomi Klein, and myself for a discussion with the Sanders Institute at 3pm ET today on AI and Robotics, where do we go from here: \n\nWatch here: youtube.com/live/MpX1UdK...",
-    "tags": [],
-    "tickers": [
-      "GOOGL"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/khanna.house.gov/post/3mji2iuvub22h",
-    "published_iso": "2026-04-14T18:53:33.132000+00:00",
-    "time_ago": "3d ago"
   },
   {
     "id": "3a2fd7089fad",
@@ -1570,12 +993,7 @@
       "Trade",
       "Energy"
     ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
+    "tickers": [],
     "source": "ustr",
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ambassador-greer-meets-blue-collar-workers-and-industry-leaders-while-touring-manufacturing-plants",
@@ -1632,8 +1050,7 @@
       "BTC",
       "ETH",
       "COIN",
-      "XRP",
-      "JPM"
+      "XRP"
     ],
     "source": "rss",
     "platform": ".gov",
@@ -1656,12 +1073,7 @@
       "Defense",
       "Taxes"
     ],
-    "tickers": [
-      "BTC",
-      "ETH",
-      "COIN",
-      "XRP"
-    ],
+    "tickers": [],
     "source": "rss",
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/icymi-lummis-op-ed-in-washington-post-a-broken-system-is-costing-america-trillions-i-see-it-in-wyoming/",
@@ -1685,13 +1097,7 @@
       "Energy",
       "Banking"
     ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL",
-      "JPM"
-    ],
+    "tickers": [],
     "source": "ustr",
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/op-ed-ambassador-jamieson-greer-another-fish-story-wto",
@@ -1740,42 +1146,12 @@
       "Regulation",
       "Taxes"
     ],
-    "tickers": [
-      "BTC",
-      "ETH",
-      "COIN",
-      "XRP"
-    ],
+    "tickers": [],
     "source": "rss",
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-introduces-legislation-to-codify-trumps-nuclear-baseload-energy-executive-orders/",
     "published_iso": "2026-03-26T18:12:45+00:00",
     "time_ago": "22d ago"
-  },
-  {
-    "id": "77bf42f68ce3",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "ICE put a young American in a chokehold and threatened to blow a mother's brains out. We cannot allow any more funding for this rogue agency.\n\nyoutu.be/c9PMuDx6GOg",
-    "tags": [],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "AMD",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/khanna.house.gov/post/3mhtk7n4hyk24",
-    "published_iso": "2026-03-24T21:43:36.706000+00:00",
-    "time_ago": "23d ago"
   },
   {
     "id": "42002aa36a3f",
@@ -1791,13 +1167,7 @@
     "tags": [
       "Energy"
     ],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META",
-      "BTC"
-    ],
+    "tickers": [],
     "source": "rss",
     "platform": ".gov",
     "url": "http://ocasio-cortez.house.gov/media/open-positions/energy-and-environment-legislative-assistant",
@@ -1819,13 +1189,7 @@
       "Defense",
       "Taxes"
     ],
-    "tickers": [
-      "LLY",
-      "PFE",
-      "JNJ",
-      "MRK",
-      "UNH"
-    ],
+    "tickers": [],
     "source": "rss",
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/news-sanders-welch-balint-statement-on-recent-ice-raids-in-south-burlington/",
@@ -1848,43 +1212,12 @@
       "Defense",
       "Taxes"
     ],
-    "tickers": [
-      "LLY",
-      "PFE",
-      "JNJ",
-      "MRK",
-      "UNH"
-    ],
+    "tickers": [],
     "source": "rss",
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-in-windsor/",
     "published_iso": "2026-02-26T22:06:12+00:00",
     "time_ago": "49d ago"
-  },
-  {
-    "id": "d29ef86efa52",
-    "politician": "Rep. Alexandria Ocasio-Cortez",
-    "initials": "AOC",
-    "role": "House Financial Services Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#93c5fd"
-    },
-    "severity": "medium",
-    "content": "Learning a second language can be hard. Signing up for Pre-K and 3-K is easy.\n\nGo to myschools.nyc to apply today. Deadline is tomorrow at midnight!",
-    "tags": [],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META",
-      "BTC"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/aoc.bsky.social/post/3mfrixdiwqs2k",
-    "published_iso": "2026-02-26T15:25:21.719000+00:00",
-    "time_ago": "50d ago"
   },
   {
     "id": "fa45ab208fd8",
@@ -1907,38 +1240,12 @@
       "UNH",
       "HCA",
       "CVS",
-      "LMT",
-      "RTX"
+      "LMT"
     ],
     "source": "bluesky",
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mfphfzy4qs2n",
     "published_iso": "2026-02-25T19:52:28.088000+00:00",
-    "time_ago": "50d ago"
-  },
-  {
-    "id": "f3eef805d485",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "It is still possible to cross the aisle in America. Together at the State of the Union for justice for Epstein survivors and no war in Iran.",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/khanna.house.gov/post/3mfnlv5wnk22u",
-    "published_iso": "2026-02-25T02:07:11.040000+00:00",
     "time_ago": "51d ago"
   },
   {
@@ -1956,13 +1263,7 @@
       "Defense",
       "Taxes"
     ],
-    "tickers": [
-      "BTC",
-      "ETH",
-      "COIN",
-      "GLD",
-      "TLT"
-    ],
+    "tickers": [],
     "source": "rss",
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
@@ -1983,42 +1284,11 @@
     "tags": [
       "Big Tech"
     ],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META",
-      "BTC"
-    ],
+    "tickers": [],
     "source": "bluesky",
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/aoc.bsky.social/post/3mfi26wfbbk22",
     "published_iso": "2026-02-22T21:07:12.518000+00:00",
-    "time_ago": "53d ago"
-  },
-  {
-    "id": "b594bd0be85d",
-    "politician": "Rep. Alexandria Ocasio-Cortez",
-    "initials": "AOC",
-    "role": "House Financial Services Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#93c5fd"
-    },
-    "severity": "medium",
-    "content": "Sometimes people over-personalize choices and certain critiques can come down to a saviorism view of politics.\n\nImagine a chess board well into a game. Your team has far fewer pieces and you are surrounded, but still in it.\n\nYour moves are more limited. You can get mad at that, or change the board.",
-    "tags": [],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META",
-      "BTC"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/aoc.bsky.social/post/3mfi26wbrx222",
-    "published_iso": "2026-02-22T21:07:12.517000+00:00",
     "time_ago": "53d ago"
   },
   {
@@ -2033,13 +1303,7 @@
     "severity": "medium",
     "content": "Here is @aoc.bsky.social thankfully telling everyone exactly what to do to stop a concentration camp from being built where you live.\n\nPlease take it to heart and take action.",
     "tags": [],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META",
-      "BTC"
-    ],
+    "tickers": [],
     "source": "bluesky",
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/aoc.bsky.social/post/3mfhthlg3u22x",
@@ -2061,43 +1325,12 @@
       "Defense",
       "Taxes"
     ],
-    "tickers": [
-      "BTC",
-      "ETH",
-      "COIN",
-      "GLD",
-      "TLT"
-    ],
+    "tickers": [],
     "source": "rss",
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-announces-2026-service-academy-nominations/",
     "published_iso": "2026-02-18T19:38:51+00:00",
     "time_ago": "58d ago"
-  },
-  {
-    "id": "4e65a0b18499",
-    "politician": "Rep. Alexandria Ocasio-Cortez",
-    "initials": "AOC",
-    "role": "House Financial Services Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#93c5fd"
-    },
-    "severity": "medium",
-    "content": "February 2026 Town Hall with Rep. AOC. February 2026 Town Hall with Rep. AOC \n\n   \n     \n      Image or Video     \n                   \n \n  \n  \n   \n     \n      Image     \n                     \n \n\n\n \n               \n\n \n \n               \n\n  Adia.Santos@ma\u2026  \n\n  Tue, 02/03/2026 - 11:58 \n \n\n   \n     \n      Summary     \n    ",
-    "tags": [],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META",
-      "BTC"
-    ],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "http://ocasio-cortez.house.gov/node/727",
-    "published_iso": "2026-02-03T16:58:37+00:00",
-    "time_ago": "73d ago"
   },
   {
     "id": "79af8a04fb57",
@@ -2114,13 +1347,7 @@
       "Defense",
       "Taxes"
     ],
-    "tickers": [
-      "LLY",
-      "PFE",
-      "JNJ",
-      "MRK",
-      "UNH"
-    ],
+    "tickers": [],
     "source": "rss",
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meetings-in-sheldon-bristol-and-poultney/",
@@ -2168,13 +1395,7 @@
       "Defense",
       "Taxes"
     ],
-    "tickers": [
-      "BTC",
-      "ETH",
-      "COIN",
-      "GLD",
-      "TLT"
-    ],
+    "tickers": [],
     "source": "rss",
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-welfare-for-non-citizens-act/",
@@ -2196,13 +1417,7 @@
       "Defense",
       "Taxes"
     ],
-    "tickers": [
-      "BTC",
-      "ETH",
-      "COIN",
-      "GLD",
-      "TLT"
-    ],
+    "tickers": [],
     "source": "rss",
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266276-2/",
@@ -2224,43 +1439,12 @@
       "Defense",
       "Taxes"
     ],
-    "tickers": [
-      "BTC",
-      "ETH",
-      "COIN",
-      "GLD",
-      "TLT"
-    ],
+    "tickers": [],
     "source": "rss",
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-paul-introduces-the-health-marketplace-and-savings-accounts-for-all-act/",
     "published_iso": "2025-12-04T18:58:25+00:00",
     "time_ago": "134d ago"
-  },
-  {
-    "id": "ffca07a705ea",
-    "politician": "Rep. Alexandria Ocasio-Cortez",
-    "initials": "AOC",
-    "role": "House Financial Services Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#93c5fd"
-    },
-    "severity": "medium",
-    "content": "Find a Food Pantry Near You. Find a Food Pantry Near You \n\n   \n     \n      Image or Video     \n                   \n \n  \n  \n   \n     \n      Image     \n                     \n \n\n\n \n               \n\n \n \n               \n\n  Karla.Santilla\u2026  \n\n  Mon, 11/03/2025 - 15:05 \n \n\n   \n     \n      Link     \n                    Food Pa",
-    "tags": [],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META",
-      "BTC"
-    ],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "http://ocasio-cortez.house.gov/node/693",
-    "published_iso": "2025-11-03T20:05:29+00:00",
-    "time_ago": "164d ago"
   },
   {
     "id": "a2647cb5ac95",
@@ -2277,13 +1461,7 @@
       "Defense",
       "Taxes"
     ],
-    "tickers": [
-      "LLY",
-      "PFE",
-      "JNJ",
-      "MRK",
-      "UNH"
-    ],
+    "tickers": [],
     "source": "rss",
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/news-sanders-demands-reinstatement-of-jimmy-kimmel-live-program-in-vermont-calls-removal-of-show-censorship-plain-and-simple/",
@@ -2302,13 +1480,7 @@
     "severity": "critical",
     "content": "Ocasio-Cortez Joins Press Conference Discussing Stock Trading Ban for Members of Congress. Ocasio-Cortez Joins Press Conference Discussing Stock Trading Ban for Members of Congress \n\n   \n     \n      Image or Video     \n                   \n \n  \n  \n   \n     \n      Image     \n                     \n \n\n\n \n               \n\n ",
     "tags": [],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META",
-      "BTC"
-    ],
+    "tickers": [],
     "source": "rss",
     "platform": ".gov",
     "url": "http://ocasio-cortez.house.gov/node/653",
@@ -2341,56 +1513,6 @@
     "time_ago": "287d ago"
   },
   {
-    "id": "cafc807b1f97",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Trump and Vance fear universities for a reason. Trump and Vance fear universities for a reason \n\n                     By Ro Khanna               \n      \n  Sarah.Drory@ma\u2026  \n\n  Thu, 04/17/2025 - 23:40 \n \n April 17, 2025",
-    "tags": [],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "AMD",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "http://khanna.house.gov/media/ros-op-eds/trump-and-vance-fear-universities-reason",
-    "published_iso": "2025-04-18T03:40:51+00:00",
-    "time_ago": "364d ago"
-  },
-  {
-    "id": "e2c9b8725fe3",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "How I Am Standing Up to DOGE. How I Am Standing Up to DOGE \n\n              The American Prospect&nbsp;   By Ro Khanna   \n      \n  Sarah.Drory@ma\u2026  \n\n  Tue, 03/04/2025 - 22:57 \n \n March 11, 2025",
-    "tags": [],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "AMD",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "http://khanna.house.gov/media/ros-op-eds/how-i-am-standing-doge",
-    "published_iso": "2025-03-05T03:57:31+00:00",
-    "time_ago": "408d ago"
-  },
-  {
     "id": "e0581892e97a",
     "politician": "Rep. Ro Khanna",
     "initials": "RK",
@@ -2402,13 +1524,7 @@
     "severity": "medium",
     "content": "Opinion: Democrats must make the case that government can be effective and good. Opinion: Democrats must make the case that government can be effective and good \n\n               Fox News &nbsp;  By Ro Khanna&nbsp;  Eighty-eight years ago,   President Franklin Roosevelt  &nbsp;stood before the American people in Philade",
     "tags": [],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "AMD",
-      "QCOM",
-      "AAPL"
-    ],
+    "tickers": [],
     "source": "rss",
     "platform": ".gov",
     "url": "http://khanna.house.gov/media/ros-op-eds/opinion-democrats-must-make-case-government-can-be-effective-and-good",
@@ -2427,13 +1543,7 @@
     "severity": "medium",
     "content": "Ro Khanna: Democrats Have a Future. Here It Is.. Ro Khanna: Democrats Have a Future. Here It Is. \n\n               New York Times&nbsp;   By Ro Khanna&nbsp;   Millions of Americans  approve of the Trump administration\u2019s efforts to eliminate supposedly wasteful federal spending by any means necessary. That puts my party ",
     "tags": [],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "AMD",
-      "QCOM",
-      "AAPL"
-    ],
+    "tickers": [],
     "source": "rss",
     "platform": ".gov",
     "url": "http://khanna.house.gov/media/ros-op-eds/ro-khanna-democrats-have-future-here-it",
@@ -2456,13 +1566,7 @@
       "Energy",
       "Regulation"
     ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "AMD",
-      "QCOM",
-      "GLD"
-    ],
+    "tickers": [],
     "source": "rss",
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10471",
@@ -2484,13 +1588,7 @@
       "Trade",
       "Banking"
     ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "AMD",
-      "QCOM",
-      "AAPL"
-    ],
+    "tickers": [],
     "source": "rss",
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10470",
@@ -2514,13 +1612,7 @@
       "Defense",
       "Regulation"
     ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "AMD",
-      "QCOM",
-      "AAPL"
-    ],
+    "tickers": [],
     "source": "rss",
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10469",
@@ -2541,17 +1633,95 @@
     "tags": [
       "Regulation"
     ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "AMD",
-      "QCOM",
-      "AAPL"
-    ],
+    "tickers": [],
     "source": "rss",
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10468",
     "published_iso": "2023-07-12T21:19:46+00:00",
     "time_ago": "1009d ago"
+  },
+  {
+    "id": "99bfd884e5fa",
+    "politician": "Rep. Nancy Pelosi",
+    "initials": "NP",
+    "role": "House Democratic Leader",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Keeping the Presidio Free and Open for All. Keeping the Presidio Free and Open for All \n\n   \n     \n      Image or Video     \n                   \n \n  \n  \n   \n     \n      Image     \n                     \n \n\n\n \n               \n\n \n \n               \n\n  admin  \n\n  Wed, 07/12/2023 - 17:19 \n \n\n   \n     \n      Summary     \n    ",
+    "tags": [
+      "Energy"
+    ],
+    "tickers": [],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "http://pelosi.house.gov/node/10467",
+    "published_iso": "2023-07-12T21:19:01+00:00",
+    "time_ago": "1009d ago"
+  },
+  {
+    "id": "9ab4d9dc70a4",
+    "politician": "Rep. Jim Jordan",
+    "initials": "JJ",
+    "role": "House Judiciary Committee Chair",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fca5a5"
+    },
+    "severity": "critical",
+    "content": "Did Biden Funnel $3.5 Billion Payout Away From Terror Victims And Toward Ex-Staff? Republicans Demand Answer. Did Biden Funnel $3.5 Billion Payout Away From Terror Victims And Toward Ex-Staff? Republicans Demand Answer \n\n              BY:&nbsp; TRISTAN JUSTICE &nbsp; \n\n APRIL 06, 2022 \n\n &nbsp; \n\n A trio of House Repub",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "http://jordan.house.gov/media/blog/did-biden-funnel-35-billion-payout-away-terror-victims-and-toward-ex-staff-republicans",
+    "published_iso": "2022-04-06T20:45:12+00:00",
+    "time_ago": "1471d ago"
+  },
+  {
+    "id": "ca9ac4ad3c4a",
+    "politician": "Rep. Jim Jordan",
+    "initials": "JJ",
+    "role": "House Judiciary Committee Chair",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fca5a5"
+    },
+    "severity": "critical",
+    "content": "GOP: FBI \u2018refusing to accept accountability\u2019 for enforcing DOJ school boards memo. GOP: FBI \u2018refusing to accept accountability\u2019 for enforcing DOJ school boards memo \n\n              House Republicans argue the FBI is stonewalling and \u201crefusing to accept accountability\u201d for its role in enforcing Attorney General Merrick ",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "http://jordan.house.gov/media/blog/gop-fbi-refusing-accept-accountability-enforcing-doj-school-boards-memo",
+    "published_iso": "2022-02-10T19:37:15+00:00",
+    "time_ago": "1527d ago"
+  },
+  {
+    "id": "718743804c07",
+    "politician": "U.S. Trade Rep.",
+    "initials": "USTR",
+    "role": "Office of the U.S. Trade Representative",
+    "color": {
+      "bg": "#1a0a1a",
+      "fg": "#d8b4fe"
+    },
+    "severity": "high",
+    "content": "Weekly Trade Focus: APEC. Weekly Trade Focus: APEC \n\n              Every week, the USTR website will explore a new trade topic, with background information and current trade data. On July 21 and 22, U.S. Trade Representative Ron Kirk will be in Singapore at the annual Asia-Pacific Economic Cooperation (APEC) Ministeria",
+    "tags": [
+      "Trade"
+    ],
+    "tickers": [],
+    "source": "ustr",
+    "platform": "USTR",
+    "url": "https://ustr.gov/about-us/policy-offices/press-office/blog/weekly-trade-focus-apec",
+    "published_iso": "2009-07-20T18:28:39+00:00",
+    "time_ago": "6115d ago"
   }
 ]

@@ -23,38 +23,276 @@ import feedparser
 YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", "")
 MAX_SIGNALS = 100
 
-# ─── TICKER NAMES ─────────────────────────────────────────────────────────────
+# ─── TICKER NAMES (expanded — all major S&P sectors) ─────────────────────────
 
 TICKER_NAMES = {
-    "AAPL": "Apple Inc.", "GOOGL": "Alphabet Inc.", "MSFT": "Microsoft Corp.",
-    "AMZN": "Amazon.com", "META": "Meta Platforms", "NVDA": "NVIDIA Corp.",
-    "TSLA": "Tesla Inc.", "AMD": "Advanced Micro Devices", "INTC": "Intel Corp.",
-    "QCOM": "Qualcomm Inc.", "TSM": "Taiwan Semiconductor", "ORCL": "Oracle Corp.",
+    # ── Mega-cap tech ─────────────────────────────────────────────────────────
+    "AAPL": "Apple", "GOOGL": "Alphabet", "MSFT": "Microsoft",
+    "AMZN": "Amazon", "META": "Meta Platforms", "NVDA": "NVIDIA",
+    "TSLA": "Tesla", "AMD": "Advanced Micro Devices", "INTC": "Intel",
+    "QCOM": "Qualcomm", "TSM": "Taiwan Semiconductor", "ORCL": "Oracle",
+    "AVGO": "Broadcom", "TXN": "Texas Instruments", "MU": "Micron",
+    "AMAT": "Applied Materials", "LRCX": "Lam Research", "KLAC": "KLA Corp",
+    "ASML": "ASML", "CRM": "Salesforce", "ADBE": "Adobe",
+    "NOW": "ServiceNow", "SNOW": "Snowflake", "PLTR": "Palantir",
+    "CRWD": "CrowdStrike", "PANW": "Palo Alto Networks", "NET": "Cloudflare",
+    "DDOG": "Datadog", "OKTA": "Okta", "ZS": "Zscaler",
+    "UBER": "Uber", "LYFT": "Lyft", "ABNB": "Airbnb",
+    "NFLX": "Netflix", "SPOT": "Spotify", "RBLX": "Roblox",
+    "SHOP": "Shopify", "PYPL": "PayPal", "SQ": "Block",
+    "INTU": "Intuit", "WDAY": "Workday", "HUBS": "HubSpot",
+    "IBM": "IBM", "CSCO": "Cisco", "HPQ": "HP Inc", "DELL": "Dell",
+    "ACN": "Accenture", "CACI": "CACI International",
+    "SAIC": "SAIC", "BAH": "Booz Allen Hamilton",
+    # ── Financials ────────────────────────────────────────────────────────────
     "JPM": "JPMorgan Chase", "BAC": "Bank of America", "GS": "Goldman Sachs",
     "MS": "Morgan Stanley", "WFC": "Wells Fargo", "C": "Citigroup",
-    "BLK": "BlackRock Inc.", "SCHW": "Charles Schwab", "AXP": "American Express",
-    "V": "Visa Inc.", "MA": "Mastercard",
-    "XOM": "Exxon Mobil", "CVX": "Chevron Corp.", "COP": "ConocoPhillips",
-    "SLB": "SLB (Schlumberger)", "HAL": "Halliburton", "OXY": "Occidental Petroleum",
-    "LMT": "Lockheed Martin", "RTX": "RTX Corp.", "NOC": "Northrop Grumman",
-    "GD": "General Dynamics", "BA": "Boeing Co.", "KTOS": "Kratos Defense",
-    "PLTR": "Palantir Technologies", "CACI": "CACI International",
-    "SAIC": "Science Applications", "BAH": "Booz Allen Hamilton",
-    "LLY": "Eli Lilly", "PFE": "Pfizer Inc.", "JNJ": "Johnson & Johnson",
-    "MRK": "Merck & Co.", "ABBV": "AbbVie Inc.", "MRNA": "Moderna Inc.",
-    "UNH": "UnitedHealth Group", "HCA": "HCA Healthcare", "CVS": "CVS Health",
-    "MDT": "Medtronic", "BMY": "Bristol Myers Squibb",
-    "FSLR": "First Solar", "ENPH": "Enphase Energy",
-    "COIN": "Coinbase Global", "MSTR": "MicroStrategy",
+    "BLK": "BlackRock", "SCHW": "Charles Schwab", "AXP": "American Express",
+    "V": "Visa", "MA": "Mastercard", "COF": "Capital One",
+    "USB": "US Bancorp", "PNC": "PNC Financial", "TFC": "Truist Financial",
+    "BK": "Bank of New York Mellon", "STT": "State Street",
+    "ICE": "Intercontinental Exchange", "CME": "CME Group",
+    "SPGI": "S&P Global", "MCO": "Moodys", "COIN": "Coinbase",
+    "MSTR": "MicroStrategy", "AON": "Aon", "MMC": "Marsh McLennan",
+    "PRU": "Prudential Financial", "MET": "MetLife", "AIG": "AIG",
+    "ALL": "Allstate", "TRV": "Travelers", "AFL": "Aflac",
+    # ── Energy ────────────────────────────────────────────────────────────────
+    "XOM": "ExxonMobil", "CVX": "Chevron", "COP": "ConocoPhillips",
+    "OXY": "Occidental Petroleum", "SLB": "SLB", "HAL": "Halliburton",
+    "BKR": "Baker Hughes", "DVN": "Devon Energy", "EOG": "EOG Resources",
+    "MPC": "Marathon Petroleum", "PSX": "Phillips 66", "VLO": "Valero Energy",
+    "HES": "Hess Corp", "APA": "APA Corp", "MRO": "Marathon Oil",
+    "FSLR": "First Solar", "ENPH": "Enphase Energy", "RUN": "Sunrun",
+    "NEE": "NextEra Energy", "DUK": "Duke Energy", "SO": "Southern Company",
+    "AEP": "American Electric Power", "EXC": "Exelon", "PCG": "PGE Corp",
+    # ── Healthcare / Pharma ───────────────────────────────────────────────────
+    "LLY": "Eli Lilly", "PFE": "Pfizer", "JNJ": "Johnson & Johnson",
+    "MRK": "Merck", "ABBV": "AbbVie", "BMY": "Bristol Myers Squibb",
+    "AMGN": "Amgen", "GILD": "Gilead Sciences", "BIIB": "Biogen",
+    "MRNA": "Moderna", "BNTX": "BioNTech", "REGN": "Regeneron",
+    "VRTX": "Vertex Pharmaceuticals", "ILMN": "Illumina",
+    "UNH": "UnitedHealth Group", "CVS": "CVS Health", "CI": "Cigna",
+    "HUM": "Humana", "CNC": "Centene", "HCA": "HCA Healthcare",
+    "MDT": "Medtronic", "ABT": "Abbott Labs", "BSX": "Boston Scientific",
+    "SYK": "Stryker", "ISRG": "Intuitive Surgical",
+    # ── Defense ───────────────────────────────────────────────────────────────
+    "LMT": "Lockheed Martin", "RTX": "RTX Corp", "NOC": "Northrop Grumman",
+    "GD": "General Dynamics", "BA": "Boeing", "KTOS": "Kratos Defense",
+    "HII": "Huntington Ingalls", "L3H": "L3Harris Technologies",
+    # ── Consumer ──────────────────────────────────────────────────────────────
+    "WMT": "Walmart", "COST": "Costco", "TGT": "Target",
+    "HD": "Home Depot", "LOW": "Lowes",
+    "MCD": "McDonalds", "SBUX": "Starbucks", "CMG": "Chipotle",
+    "NKE": "Nike", "LULU": "Lululemon",
+    "PG": "Procter & Gamble", "KO": "Coca-Cola", "PEP": "PepsiCo",
+    "PM": "Philip Morris", "MO": "Altria",
+    "GIS": "General Mills", "TSN": "Tyson Foods", "HSY": "Hershey",
+    "DIS": "Disney", "CMCSA": "Comcast", "WBD": "Warner Bros Discovery",
+    # ── Industrials ───────────────────────────────────────────────────────────
+    "GE": "GE Aerospace", "HON": "Honeywell", "MMM": "3M",
+    "CAT": "Caterpillar", "DE": "Deere & Company",
+    "UPS": "UPS", "FDX": "FedEx",
+    "DAL": "Delta Air Lines", "UAL": "United Airlines",
+    "AAL": "American Airlines", "LUV": "Southwest Airlines",
+    "CCL": "Carnival Corp", "RCL": "Royal Caribbean",
+    # ── Materials ─────────────────────────────────────────────────────────────
+    "X": "US Steel", "NUE": "Nucor", "STLD": "Steel Dynamics",
+    "AA": "Alcoa", "FCX": "Freeport-McMoRan", "NEM": "Newmont",
+    "DOW": "Dow Inc", "LYB": "LyondellBasell",
+    "CF": "CF Industries", "MOS": "Mosaic", "NTR": "Nutrien",
+    # ── Crypto ────────────────────────────────────────────────────────────────
     "BTC": "Bitcoin", "ETH": "Ethereum", "SOL": "Solana",
-    "DOGE": "Dogecoin", "XRP": "XRP / Ripple",
+    "DOGE": "Dogecoin", "XRP": "XRP Ripple",
+    # ── ETFs / macro ──────────────────────────────────────────────────────────
     "SPY": "S&P 500 ETF", "QQQ": "Nasdaq 100 ETF", "DIA": "Dow Jones ETF",
     "IWM": "Russell 2000 ETF", "GLD": "Gold ETF", "TLT": "20yr Treasury ETF",
     "VXX": "Volatility ETF", "ARKK": "ARK Innovation ETF",
-    "XLE": "Energy Select ETF", "XLF": "Financial Select ETF",
-    "DE": "Deere & Company", "CORN": "Corn ETF", "SOYB": "Soybean ETF",
-    "X": "U.S. Steel", "AA": "Alcoa Corp.", "NUE": "Nucor Corp.",
+    "XLE": "Energy ETF", "XLF": "Financial ETF", "XLK": "Technology ETF",
+    "XLV": "Healthcare ETF", "XLI": "Industrial ETF", "XLB": "Materials ETF",
+    "CORN": "Corn ETF", "SOYB": "Soybean ETF", "WEAT": "Wheat ETF",
 }
+
+# ─── COMPANY → TICKER (direct name matching in post text) ────────────────────
+# Maps distinctive company keywords to tickers.
+# These are matched with word boundaries in the post body — highest confidence.
+
+COMPANY_KEYWORDS: dict[str, str] = {
+    "apple": "AAPL", "iphone": "AAPL", "app store": "AAPL", "tim cook": "AAPL",
+    "alphabet": "GOOGL", "google": "GOOGL", "youtube": "GOOGL", "waymo": "GOOGL",
+    "microsoft": "MSFT", "azure": "MSFT", "openai": "MSFT",
+    "amazon": "AMZN", "aws": "AMZN",
+    "meta platforms": "META", "facebook": "META", "instagram": "META",
+    "whatsapp": "META", "zuckerberg": "META",
+    "nvidia": "NVDA", "jensen huang": "NVDA",
+    "tesla": "TSLA", "elon musk": "TSLA", "spacex": "TSLA",
+    "advanced micro devices": "AMD",
+    "intel": "INTC",
+    "qualcomm": "QCOM",
+    "taiwan semiconductor": "TSM", "tsmc": "TSM",
+    "oracle": "ORCL",
+    "broadcom": "AVGO",
+    "salesforce": "CRM",
+    "adobe": "ADBE",
+    "palantir": "PLTR",
+    "crowdstrike": "CRWD",
+    "palo alto networks": "PANW",
+    "cloudflare": "NET",
+    "coinbase": "COIN",
+    "microstrategy": "MSTR",
+    "bitcoin": "BTC", "btc": "BTC",
+    "ethereum": "ETH",
+    "solana": "SOL",
+    "dogecoin": "DOGE",
+    "ripple": "XRP",
+    # Financials
+    "jpmorgan": "JPM", "jp morgan": "JPM",
+    "goldman sachs": "GS", "goldman": "GS",
+    "morgan stanley": "MS",
+    "bank of america": "BAC",
+    "wells fargo": "WFC",
+    "citigroup": "C", "citibank": "C",
+    "blackrock": "BLK",
+    "charles schwab": "SCHW",
+    "american express": "AXP", "amex": "AXP",
+    "mastercard": "MA",
+    "capital one": "COF",
+    "intercontinental exchange": "ICE",
+    "s&p global": "SPGI",
+    "moodys": "MCO",
+    # Energy
+    "exxonmobil": "XOM", "exxon": "XOM",
+    "chevron": "CVX",
+    "conocophillips": "COP",
+    "occidental petroleum": "OXY",
+    "halliburton": "HAL",
+    "baker hughes": "BKR",
+    "first solar": "FSLR",
+    "enphase": "ENPH",
+    "nextera": "NEE",
+    "duke energy": "DUK",
+    "pg&e": "PCG",
+    # Healthcare / Pharma
+    "eli lilly": "LLY", "lilly": "LLY",
+    "pfizer": "PFE",
+    "johnson & johnson": "JNJ", "j&j": "JNJ",
+    "merck": "MRK",
+    "abbvie": "ABBV",
+    "bristol myers": "BMY", "bristol-myers": "BMY",
+    "amgen": "AMGN",
+    "gilead": "GILD",
+    "moderna": "MRNA",
+    "biontech": "BNTX",
+    "regeneron": "REGN",
+    "vertex pharmaceuticals": "VRTX",
+    "unitedhealth": "UNH", "united health": "UNH",
+    "cvs health": "CVS", "cvs": "CVS",
+    "cigna": "CI",
+    "humana": "HUM",
+    "hca healthcare": "HCA",
+    "medtronic": "MDT",
+    "abbott labs": "ABT", "abbott": "ABT",
+    "boston scientific": "BSX",
+    "stryker": "SYK",
+    # Defense
+    "lockheed martin": "LMT", "lockheed": "LMT",
+    "raytheon": "RTX",
+    "northrop grumman": "NOC", "northrop": "NOC",
+    "general dynamics": "GD",
+    "boeing": "BA",
+    "kratos": "KTOS",
+    "l3harris": "L3H",
+    "huntington ingalls": "HII",
+    # Consumer / Retail
+    "walmart": "WMT",
+    "costco": "COST",
+    "target corporation": "TGT",
+    "home depot": "HD",
+    "mcdonalds": "MCD", "mcdonald's": "MCD",
+    "starbucks": "SBUX",
+    "chipotle": "CMG",
+    "nike": "NKE",
+    "coca-cola": "KO", "coca cola": "KO",
+    "pepsi": "PEP", "pepsico": "PEP",
+    "philip morris": "PM",
+    "altria": "MO",
+    "tyson foods": "TSN",
+    "disney": "DIS",
+    "comcast": "CMCSA",
+    # Industrials
+    "ge aerospace": "GE", "general electric": "GE",
+    "honeywell": "HON",
+    "caterpillar": "CAT",
+    "deere": "DE", "john deere": "DE",
+    "fedex": "FDX",
+    "united parcel service": "UPS",
+    "delta air": "DAL",
+    "united airlines": "UAL",
+    "american airlines": "AAL",
+    "southwest airlines": "LUV",
+    "carnival": "CCL",
+    "royal caribbean": "RCL",
+    # Materials
+    "us steel": "X", "u.s. steel": "X",
+    "nucor": "NUE",
+    "steel dynamics": "STLD",
+    "alcoa": "AA",
+    "freeport": "FCX",
+    "newmont": "NEM",
+    "mosaic": "MOS",
+    "nutrien": "NTR",
+}
+
+# ─── MARKET RELEVANCE FILTER ──────────────────────────────────────────────────
+# A signal must contain at least one of these to be included.
+# Posts about constituent services, local events, personal milestones, etc. are dropped.
+
+MARKET_RELEVANCE_KEYWORDS = {
+    # Policy & legislation
+    "bill", "legislation", "law", "act", "regulation", "executive order",
+    "rule", "policy", "reform", "repeal", "vote", "passed", "signed",
+    "tariff", "trade", "sanction", "embargo", "export", "import",
+    "treaty", "agreement", "deal", "contract",
+    # Economics
+    "economy", "economic", "gdp", "recession", "inflation", "deflation",
+    "interest rate", "federal reserve", "monetary", "fiscal", "stimulus",
+    "budget", "deficit", "debt ceiling", "spending", "appropriation",
+    "jobs", "unemployment", "payroll", "wage", "labor",
+    "tax", "irs", "corporate tax", "capital gains",
+    # Industries
+    "pharmaceutical", "pharma", "drug price", "drug pricing", "vaccine",
+    "fda approval", "clinical trial",
+    "semiconductor", "chip", "chipmaker", "foundry",
+    "artificial intelligence", "machine learning",
+    "oil", "natural gas", "petroleum", "opec", "pipeline", "refinery",
+    "clean energy", "solar", "wind power", "renewable energy", "nuclear",
+    "defense contractor", "military spending", "weapons system",
+    "healthcare", "health insurance", "medicaid", "medicare",
+    "banking regulation", "financial regulation", "wall street",
+    "agriculture", "farm bill", "crop", "commodity",
+    "housing market", "mortgage", "real estate",
+    "broadband", "telecommunications", "spectrum",
+    "airline", "aviation", "faa",
+    # Market terms
+    "stock", "market", "shares", "equity", "bond", "treasury", "yield",
+    "nasdaq", "nyse", "dow jones",
+    "merger", "acquisition", "ipo", "buyback", "dividend",
+    "investor", "investment", "hedge fund", "private equity",
+    "antitrust", "monopoly", "competition", "ftc", "doj",
+    # Crypto
+    "bitcoin", "crypto", "cryptocurrency", "blockchain", "stablecoin",
+    # International trade
+    "china", "taiwan", "supply chain", "wto",
+    # Specific companies (so posts mentioning them are always included)
+    "amazon", "google", "apple", "microsoft", "facebook",
+    "tesla", "nvidia", "boeing", "pfizer", "exxon",
+    "lockheed", "goldman sachs", "jpmorgan",
+}
+
+
+def is_market_relevant(text: str) -> bool:
+    """Return True only if the text has a genuine connection to financial markets."""
+    text_lower = text.lower()
+    return any(kw in text_lower for kw in MARKET_RELEVANCE_KEYWORDS)
 
 # ─── POLITICIANS ─────────────────────────────────────────────────────────────
 
@@ -340,25 +578,47 @@ def strip_html(text: str) -> str:
     return re.sub(r"<[^>]+>", " ", text).strip()
 
 def guess_tickers(text: str) -> list:
+    """
+    Two-phase ticker matching:
+    1. Direct company name matching — highest confidence, uses COMPANY_KEYWORDS.
+       e.g. "Pfizer" in text → PFE immediately, no guessing.
+    2. Sector/topic fallback — uses TICKER_MAP only when no direct company match
+       and the post is clearly about a sector (specific regulatory language etc.).
+    Cap at 4 tickers to avoid noise.
+    """
     text_lower = text.lower()
     tickers = []
-    for keywords, t in TICKER_MAP:
-        matched = False
-        for k in keywords:
-            if ' ' in k:
-                # Multi-word phrase: simple substring is fine
-                if k in text_lower:
-                    matched = True
+
+    # ── Phase 0: extract SEC Form 4 tickers ───────────────────────────────────
+    # SEC content is formatted as "… shares of Company Name (TICK) · …"
+    # This pattern is unambiguous and authoritative — extract directly.
+    for m in re.finditer(r'shares of [^(·]+\(([A-Z]{1,6})\)', text):
+        tickers.append(m.group(1))
+
+    # ── Phase 1: direct company name scan ─────────────────────────────────────
+    for keyword, ticker in COMPANY_KEYWORDS.items():
+        if ' ' in keyword:
+            # Multi-word phrase — substring match is precise enough
+            if keyword in text_lower:
+                tickers.append(ticker)
+        else:
+            # Single word — word boundary to avoid partial matches
+            if re.search(r'\b' + re.escape(keyword) + r'\b', text_lower):
+                tickers.append(ticker)
+
+    # ── Phase 2: sector keyword fallback (only if no direct company found) ────
+    if not tickers:
+        for keywords, sector_tickers in TICKER_MAP:
+            for k in keywords:
+                if ' ' in k:
+                    matched = k in text_lower
+                else:
+                    matched = bool(re.search(r'\b' + re.escape(k) + r'(?![\w-])', text_lower))
+                if matched:
+                    tickers.extend(sector_tickers)
                     break
-            else:
-                # Single word: require word boundary to avoid partial matches
-                # e.g. "meta" must not match "meta-analysis" or "metabolism"
-                if re.search(r'\b' + re.escape(k) + r'(?![\w-])', text_lower):
-                    matched = True
-                    break
-        if matched:
-            tickers.extend(t)
-    return list(dict.fromkeys(tickers))[:5]
+
+    return list(dict.fromkeys(tickers))[:4]
 
 def guess_severity(text: str, source: dict) -> str:
     text_lower = text.lower()
@@ -409,8 +669,15 @@ def time_ago(dt: datetime) -> str:
     if secs < 86400:  return f"{secs // 3600}h ago"
     return f"{secs // 86400}d ago"
 
-def make_signal(source: dict, content: str, platform: str, url: str = "", published: Optional[datetime] = None) -> dict:
-    tickers = guess_tickers(content) or guess_tickers(" ".join(source.get("keywords", [])))
+def make_signal(source: dict, content: str, platform: str, url: str = "", published: Optional[datetime] = None) -> Optional[dict]:
+    # Drop posts with no market connection (unless it's a direct market source like SEC)
+    if platform not in ("sec", "govtrack") and not is_market_relevant(content):
+        return None
+
+    # Only derive tickers from the actual post content — never from source's generic keywords
+    # Limit to 320 chars — same window as what gets stored and shown to users,
+    # so tickers always reflect visible content (avoids false matches from buried text)
+    tickers = guess_tickers(content[:320])
     severity = guess_severity(content, source)
     pub = published or datetime.now(timezone.utc)
     return {
@@ -452,7 +719,9 @@ def fetch_rss_source(source: dict, platform_key: str = "rss", max_entries: int =
                 except Exception:
                     pass
             link = entry.get("link", "")
-            signals.append(make_signal(source, full_text, platform_key, link, published))
+            sig = make_signal(source, full_text, platform_key, link, published)
+            if sig:
+                signals.append(sig)
         print(f"  RSS [{source['initials']}]: {len(signals)} entries")
     except Exception as e:
         print(f"  RSS [{source['initials']}] error: {e}")
@@ -488,7 +757,9 @@ def fetch_truth_social(source: dict) -> list:
                 continue
             published = datetime.fromisoformat(status["created_at"].replace("Z", "+00:00"))
             url = status.get("url", "")
-            signals.append(make_signal(source, content, "truthsocial", url, published))
+            sig = make_signal(source, content, "truthsocial", url, published)
+            if sig:
+                signals.append(sig)
         print(f"  Truth Social [{source['initials']}]: {len(signals)} posts")
     except Exception as e:
         print(f"  Truth Social [{source['initials']}] error: {e}")
@@ -523,7 +794,9 @@ def fetch_youtube(source: dict) -> list:
             published_str = snippet.get("publishedAt", "")
             published = datetime.fromisoformat(published_str.replace("Z", "+00:00")) if published_str else None
             url = f"https://youtube.com/watch?v={item['id']['videoId']}"
-            signals.append(make_signal(source, content, "youtube", url, published))
+            sig = make_signal(source, content, "youtube", url, published)
+            if sig:
+                signals.append(sig)
         print(f"  YouTube [{source['initials']}]: {len(signals)} videos")
     except Exception as e:
         print(f"  YouTube [{source['initials']}] error: {e}")
@@ -557,7 +830,9 @@ def fetch_bluesky(source: dict) -> list:
             uri = post.get("uri", "")
             rkey = uri.split("/")[-1] if uri else ""
             url = f"https://bsky.app/profile/{handle}/post/{rkey}" if rkey else ""
-            signals.append(make_signal(source, text, "bluesky", url, published))
+            sig = make_signal(source, text, "bluesky", url, published)
+            if sig:
+                signals.append(sig)
         print(f"  Bluesky [{source['initials']}]: {len(signals)} posts")
     except Exception as e:
         print(f"  Bluesky [{source['initials']}] error: {e}")
@@ -583,6 +858,26 @@ _TRANSACTION_CODES = {
     "J": "acquired/disposed",
     "W": "inherited",
 }
+
+_SEC_CIK_TICKER_CACHE: dict = {}
+
+def _load_sec_cik_tickers() -> dict:
+    """Load SEC's CIK→ticker mapping (cached in memory). Returns {cik_int: ticker_str}."""
+    global _SEC_CIK_TICKER_CACHE
+    if _SEC_CIK_TICKER_CACHE:
+        return _SEC_CIK_TICKER_CACHE
+    try:
+        r = requests.get(
+            "https://www.sec.gov/files/company_tickers.json",
+            headers={"User-Agent": "PolitiSignal/1.0 (hello@politisignal.com)"},
+            timeout=10,
+        )
+        data = r.json()
+        _SEC_CIK_TICKER_CACHE = {v["cik_str"]: v["ticker"] for v in data.values()}
+    except Exception:
+        pass
+    return _SEC_CIK_TICKER_CACHE
+
 
 def _sec_ticker_for_company(company_upper: str) -> Optional[str]:
     """
@@ -684,7 +979,7 @@ def fetch_sec_edgar(source: dict, max_entries: int = 8) -> list:
             accno = entry_id.split("accession-number=")[-1].strip()
 
             if accno not in filings:
-                filings[accno] = {"reporter": None, "reporter_cik": None, "issuer": None, "entry": entry}
+                filings[accno] = {"reporter": None, "reporter_cik": None, "issuer": None, "issuer_cik": None, "entry": entry}
 
             bare      = re.sub(r"^4(?:/A)? - ", "", title)
             name_part = re.sub(r"\s*\(\d+\)\s*\(\w+\)\s*$", "", bare).strip()
@@ -695,12 +990,14 @@ def fetch_sec_edgar(source: dict, max_entries: int = 8) -> list:
                 filings[accno]["reporter"]     = name_part
                 filings[accno]["reporter_cik"] = cik
             elif "(Issuer)" in title:
-                filings[accno]["issuer"] = name_part
+                filings[accno]["issuer"]     = name_part
+                filings[accno]["issuer_cik"] = int(cik) if cik and cik.isdigit() else None
 
         for accno, data in list(filings.items())[:max_entries]:
             reporter     = data.get("reporter")
             reporter_cik = data.get("reporter_cik")
             issuer       = data.get("issuer")
+            issuer_cik   = data.get("issuer_cik")
             entry        = data["entry"]
             if not reporter or not issuer:
                 continue
@@ -708,7 +1005,9 @@ def fetch_sec_edgar(source: dict, max_entries: int = 8) -> list:
             filer         = reporter.title()
             company       = issuer.title()
             company_upper = issuer.upper()
-            ticker        = _sec_ticker_for_company(company_upper)
+            # Try CIK→ticker lookup first (most accurate), then name matching
+            cik_map       = _load_sec_cik_tickers()
+            ticker        = (cik_map.get(issuer_cik) if issuer_cik else None) or _sec_ticker_for_company(company_upper)
             ticker_str    = f" ({ticker})" if ticker else ""
 
             # Fetch actual transaction details from Form 4 XML
