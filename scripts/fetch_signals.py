@@ -735,9 +735,9 @@ def fetch_sec_edgar(source: dict, max_entries: int = 8) -> list:
                 shares = txn["shares"]
                 price  = txn["price"]
 
-                # Skip trades under $50,000 total value — not signal-worthy
+                # Skip trades under $15,000 total value — filters tiny option exercises etc.
                 trade_value = shares * price
-                if price > 0 and trade_value < 50_000:
+                if price > 0 and trade_value < 15_000:
                     continue
 
                 shares_fmt = f"{shares:,.0f}"
