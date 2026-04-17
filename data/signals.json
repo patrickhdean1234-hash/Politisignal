@@ -1,6 +1,25 @@
 [
   {
-    "id": "799956dedce4",
+    "id": "cfc22974f37f",
+    "politician": "SEC EDGAR",
+    "initials": "SEC",
+    "role": "Insider & Congressional Stock Trades",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hogan Michael James sold 1,800 shares of Globalfoundries Inc. \u00b7 $48.31/share \u00b7 Apr 17 (1,950 total)",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC EDGAR",
+    "url": "https://www.sec.gov/Archives/edgar/data/2120107/000170904826000087/0001709048-26-000087-index.htm",
+    "published_iso": "2026-04-17T17:35:22+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "b32657e7e135",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,23 +28,24 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Live updates: Iran says Strait of Hormuz open; RFK Jr. back in hot seat. Iran announced Friday morning that the Strait of Hormuz is \u201ccompletely\u201d open amid the temporary ceasefire reached between Israel and Lebanon. President Trump reacted enthusiastically to Iran\u2019s announcement but said the U.S. blockade remains in pla",
+    "content": "Trump schedules controversial drilling auction in Alaska wildlife refuge. The Trump administration has officially scheduled an auction for the rights to drill in a controversial spot: a wildlife refuge in Alaska. The auction, in which companies will be able to bid for the right to drill in the Arctic National Wildlife ",
     "tags": [
-      "Sanctions"
+      "Energy"
     ],
     "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
+      "XOM",
+      "CVX",
+      "COP",
+      "OXY"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5835694-kennedy-testifies-trump-healthcare/",
-    "published_iso": "2026-04-17T16:10:53+00:00",
-    "time_ago": "25m ago"
+    "url": "https://thehill.com/policy/energy-environment/5836577-alaska-wildlife-lease-auction/",
+    "published_iso": "2026-04-17T17:18:25+00:00",
+    "time_ago": "17m ago"
   },
   {
-    "id": "1c4abbacf900",
+    "id": "66aeada5951f",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -34,7 +54,7 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Good gerrymandering can\u2019t cure bad gerrymandering. Virginia voters will soon decide on a proposed amendment that would allow the state legislature to draw its own House districts, potentially leading to a partisan arms race and weakening the voices of voters",
+    "content": "FAA seeks flight cuts at Chicago airport to head off summer delays. The Federal Aviation Administration (FAA) will cut down on flights at Chicago\u2019s O\u2019Hare International Airport (ORD) in anticipation of summer travel delays, the agency announced on Thursday.  The FAA will limit the number of planes departing the airport",
     "tags": [],
     "tickers": [
       "NVDA",
@@ -45,12 +65,143 @@
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/campaign/5835882-fair-redistricting-virginia-amendment/",
-    "published_iso": "2026-04-17T16:00:00+00:00",
-    "time_ago": "35m ago"
+    "url": "https://thehill.com/homenews/administration/5836601-ohare-flight-reductions-construction/",
+    "published_iso": "2026-04-17T17:13:54+00:00",
+    "time_ago": "22m ago"
   },
   {
-    "id": "9b513a18626f",
+    "id": "cabd6851712f",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Steve Bannon sides with Anthropic in fight with Pentagon: 'It's almost too dangerous'. Former White House strategist Steve Bannon said he believes artificial intelligence company Anthropic \u201chad it right\u201d in demanding its technology not be used in fully autonomous lethal weapons, setting off a fight with the Pentagon.  ",
+    "tags": [
+      "Defense",
+      "Regulation"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/defense/5836573-pentagon-anthropic-ai-fight/",
+    "published_iso": "2026-04-17T17:06:39+00:00",
+    "time_ago": "29m ago"
+  },
+  {
+    "id": "bd1ca4e4001b",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "The special relationship has a habit of survival \u2014 but no assurance of it. Despite recent tensions, the U.K. and U.S. have maintained a special relationship for over 80 years due to their strategic utility, but for the relationship to endure, the U.K. must become more powerful on its own terms with a stronger defense, ",
+    "tags": [
+      "Defense"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/international/5835842-britain-us-enduring-partnership/",
+    "published_iso": "2026-04-17T17:00:00+00:00",
+    "time_ago": "36m ago"
+  },
+  {
+    "id": "857cf5386845",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Kevin Warsh is refusing to disclose more than $100 million of his assets. Totally unprecedented.\n \nWarsh needs to release this information now. What is he hiding?",
+    "tags": [],
+    "tickers": [
+      "AMZN",
+      "GOOGL",
+      "AAPL",
+      "META",
+      "BTC"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjpffnjrac2z",
+    "published_iso": "2026-04-17T16:57:14.062000+00:00",
+    "time_ago": "39m ago"
+  },
+  {
+    "id": "20bcf723a737",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Strait of Hormuz reopens, but Trump has a catch. \ud83d\udcc9 Plus: Oil prices dramatically fall, stock market jumps {beacon} Happy Friday! The National Zoo\u2019s new baby elephant made her big debut. She made a friend and I cannot handle how cute it is. Oh, and both the NHL playoffs and the NBA playoffs begin this weekend! &#8202; I",
+    "tags": [
+      "Energy",
+      "Sanctions"
+    ],
+    "tickers": [
+      "XOM",
+      "CVX",
+      "COP",
+      "OXY",
+      "LMT"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/1230-report/5836546-oil-prices-stock-market-jump/",
+    "published_iso": "2026-04-17T16:52:51+00:00",
+    "time_ago": "43m ago"
+  },
+  {
+    "id": "51111e61a75f",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Duffy: Effort to recruit gamers as air traffic controllers 'wildly successful'. The Federal Aviation Administration (FAA) is targeting video gamers to serve in air traffic controller roles, an effort Transportation Secretary Sean Duffy described as \u201cwildly successful.\u201d\u00a0 \u201cThis has been wildly successful, and if you thin",
+    "tags": [],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL",
+      "BTC"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5836498-faa-targets-gamers-hiring/",
+    "published_iso": "2026-04-17T16:44:14+00:00",
+    "time_ago": "52m ago"
+  },
+  {
+    "id": "fa7bc8ada0de",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -59,7 +210,7 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Senate passes 10-day extension of nation's spy powers. The Senate on Friday passed a 10-day extension of the nation\u2019s warrantless spy powers, approving a House plan hatched on the floor after a\u00a0chaotic rejection\u00a0of a package negotiated with skeptics. The bill will now head to the president\u2019s desk, but Section 702 of th",
+    "content": "GOP Sen. Katie Britt: House-passed bill to extend Haitian refugee status DOA in Senate. Sen. Katie Britt (Ala.), the chair of the Senate Appropriations Homeland Security Subcommittee and a leading GOP voice on immigration issues, says a House-passed bill to extend legal protections for Haitian refugees is \u201cdead on arri",
     "tags": [
       "Regulation"
     ],
@@ -72,12 +223,12 @@
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5836438-senate-advances-10-day-fisa-extension/",
-    "published_iso": "2026-04-17T15:45:48+00:00",
-    "time_ago": "50m ago"
+    "url": "https://thehill.com/homenews/senate/5836545-britt-rebukes-moderate-republicans/",
+    "published_iso": "2026-04-17T16:43:21+00:00",
+    "time_ago": "53m ago"
   },
   {
-    "id": "e64d451e16d5",
+    "id": "2e5d820f69b2",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -86,23 +237,47 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Judge rejects Trump lawsuit to block Hawaii from filing climate lawsuit. A federal judge this week rejected the Trump administration\u2019s pre-emptive lawsuit from last year to block the state of Hawaii from suing fossil fuel companies over climate impact concerns. Hawaii Senior U.S. District Judge Helen Gillmor dismissed ",
-    "tags": [
-      "Energy",
-      "Regulation"
-    ],
+    "content": "Starmer 'furious' as Mandelson vetting revelation spurs calls for resignation. British Prime Minister Keir Starmer said Friday that he was \u201cfurious\u201d that he did not know former Labour Party minister Peter Mandelson failed his security vetting before becoming the United Kingdom\u2019s top diplomat in Washington. The Guardian",
+    "tags": [],
     "tickers": [
-      "AMZN",
-      "XOM",
-      "FSLR",
-      "ENPH",
-      "XLE"
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL",
+      "BTC"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/state-watch/5836434-hawaii-climate-lawsuit-fossil-fuels/",
-    "published_iso": "2026-04-17T15:40:52+00:00",
-    "time_ago": "55m ago"
+    "url": "https://thehill.com/policy/international/5836495-keir-starmer-peter-mandelson-epstein-files-resignation/",
+    "published_iso": "2026-04-17T16:38:28+00:00",
+    "time_ago": "57m ago"
+  },
+  {
+    "id": "e84541b8a3a3",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "In Nevada, President Trump Celebrates No Tax on Tips \u2014 Delivering Real Money to Working Americans. President Donald J. Trump returned yesterday to the birthplace of his signature No Tax on Tips policy to highlight its massive success and the transformative impact of the largest tax cuts in American history. Standing wi",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL",
+      "XOM"
+    ],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/04/in-nevada-president-trump-celebrates-no-tax-on-tips-real-money-to-working-americans/",
+    "published_iso": "2026-04-17T16:16:15+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "9da1a43e4c40",
@@ -132,110 +307,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2026/opening-statement-ambassador-jamieson-greer-house-appropriations-committee",
     "published_iso": "2026-04-17T15:30:48+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "fb827e0cb127",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Fraud reform must target criminals, not cut off disability care. The Trump administration is making rooting out fraud in social safety net programs a top priority, but it is essential to ensure that people with disabilities are not harmed in the process and that the government's response is precise and targeted",
-    "tags": [],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL",
-      "BTC"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/congress-blog/5835221-trump-fraud-reform-safety-net/",
-    "published_iso": "2026-04-17T15:30:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "b14dfa4283df",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Colbert releases Pope Leo diss track toward Trump inspired by Kendrick Lamar. Stephen Colbert, the host of CBS\u2019 \u201cThe Late Show,\u201d released on Friday a Kendrick Lamar-inspired diss track against President Trump that included a depiction of Pope Leo XIV.\u00a0 The diss track, called \u201cThey not pious\u201d and set to Kendrick Lamar\u2019s",
-    "tags": [],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL",
-      "BTC"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5836360-colbert-trump-diss-track/",
-    "published_iso": "2026-04-17T15:22:03+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "2392b657f7ac",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Collins, Tillis signal shift on Trump war powers if Iran war hits 60-day mark. Two Senate Republicans who previously rejected Democratic-led efforts to curb President Trump\u2019s ability to continue the military action against Iran without obtaining congressional approval signaled this week that their view on war powers co",
-    "tags": [
-      "Defense",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD",
-      "XOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5836355-collins-tillis-trump-iran-war-powers-resolution/",
-    "published_iso": "2026-04-17T15:21:13+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "51392190c8df",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Stock market jumps after Israel-Lebanon ceasefire, Hormuz opening. The stock market saw a boost after the opening bell Friday morning, after a 10-day ceasefire between Israel and Lebanon took effect and Iran declared the Strait of Hormuz \u201ccompletely open.\u201d The S&#38;P 500 was up 1.1 percent, and the Nasdaq Composite ro",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/5836336-stock-market-boost-israel-lebanon/",
-    "published_iso": "2026-04-17T15:20:45+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "ab9c6a2e8d6c",
@@ -259,7 +331,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mjp5prhmts23",
     "published_iso": "2026-04-17T14:39:43.787000+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "e7e92f079fc6",
@@ -284,7 +356,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mjoz2ob3xc2u",
     "published_iso": "2026-04-17T13:16:19.756000+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "5f6ce1fbf4b7",
@@ -311,7 +383,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mjoz2nahz22u",
     "published_iso": "2026-04-17T13:16:19.755000+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "44b3c3140230",
@@ -335,7 +407,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/gallery/2026/04/17/the-nations-cartoonists-on-the-week-in-politics-00878255",
     "published_iso": "2026-04-17T09:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "b9cc87889db7",
@@ -361,7 +433,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h124?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-17T06:07:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "903fee790e64",
@@ -387,7 +459,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h123?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-17T05:22:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "ad283029e430",
@@ -413,7 +485,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h122?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-17T05:13:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "923fefe9e5eb",
@@ -437,7 +509,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/video/2026/04/16/why-steve-hilton-thinks-he-can-turn-california-red-2014381",
     "published_iso": "2026-04-17T03:59:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "3b98d299bd0d",
@@ -463,7 +535,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07601/schedule-of-fees-for-consular-services-fee-for-administrative-processing-of-request-for-certificate",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "34bf54a51349",
@@ -487,7 +559,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07600/house-falls-in-marine-terminals",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "d23f8954846f",
@@ -514,7 +586,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07585/settlement-policy-for-small-unmanned-aircraft-system-uas-cases",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "cc0a8f367a35",
@@ -540,7 +612,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07571/amendment-of-class-e5-airspace-over-elizabeth-city-nc",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "97933daa1321",
@@ -569,7 +641,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07560/methoxyfenozide-pesticide-tolerances",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "1f6bf96da018",
@@ -596,7 +668,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07536/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-geophysical-surveys-in-the",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "3354ace02b33",
@@ -623,7 +695,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07535/eliminating-outdated-regulation-related-to-reports-on-exports-of-technology",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "bd9e52eeb6c7",
@@ -647,32 +719,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07527/air-plan-approval-virginia-amendment-to-the-state-operating-permit-for-gp-big-island-llc",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "16h ago"
-  },
-  {
-    "id": "0889b05f28f1",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "low",
-    "content": "www.huffpost.com/entry/survei...",
-    "tags": [],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META",
-      "BTC"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjngrrhjf22f",
-    "published_iso": "2026-04-16T22:16:34.512000+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "17608fe4f190",
@@ -697,7 +744,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mjnfpfy67223",
     "published_iso": "2026-04-16T21:57:22.212000+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "c52552ddf3f9",
@@ -723,7 +770,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/node/14307",
     "published_iso": "2026-04-16T20:47:09+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "0e4bde42ed06",
@@ -748,7 +795,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mjn3nnwc5222",
     "published_iso": "2026-04-16T18:57:26.008000+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "16c091fc6c53",
@@ -774,7 +821,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h121?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-16T18:29:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "8e190775123f",
@@ -798,7 +845,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h120?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-16T18:21:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "c81c6c9123fc",
@@ -826,7 +873,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-led-fences-act-clears-u-s-house/",
     "published_iso": "2026-04-16T18:07:32+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "8322bc96ae8e",
@@ -850,7 +897,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s85?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-16T17:36:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "95b38a5bdb80",
@@ -876,7 +923,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h119?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-16T16:43:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "e3e4a84d9705",
@@ -901,7 +948,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2026",
     "published_iso": "2026-04-16T16:37:21+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "186d037cfece",
@@ -1365,30 +1412,6 @@
     "time_ago": "1d ago"
   },
   {
-    "id": "7fecbf6e53f6",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "Presidential Permit: Authorizing Bakken Pipeline Company LP to Operate and Maintain Existing Pipeline Facilities at Burke County, North Dakota, at the International Boundary Between the United States and Canada. By virtue of the authority vested in me as President of the&#160;United States of America (the &#8220;Presid",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "AMZN"
-    ],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-bakken-pipeline-company-lp-to-operate-and-maintain-existing-pipeline-facilities-at-burke-county-north-dakota-at-the-international-boundary-between-the-united-states/",
-    "published_iso": "2026-04-15T20:01:03+00:00",
-    "time_ago": "1d ago"
-  },
-  {
     "id": "bf5329b806fb",
     "politician": "Rep. Nancy Pelosi",
     "initials": "NP",
@@ -1442,7 +1465,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-cruz-file-amicus-brief-backing-trump-administrations-push-to-repeal-endangerment-finding/",
     "published_iso": "2026-04-15T17:31:26+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "fdeeaa4b42e4",
@@ -1467,7 +1490,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mjkerr3p7k2z",
     "published_iso": "2026-04-15T17:02:46.490000+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "851bd1cb918b",
@@ -1495,7 +1518,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mjkerpnbuc2z",
     "published_iso": "2026-04-15T17:02:46.489000+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "b312e5ca871a",
@@ -2166,7 +2189,7 @@
     "platform": ".gov",
     "url": "http://ocasio-cortez.house.gov/node/727",
     "published_iso": "2026-02-03T16:58:37+00:00",
-    "time_ago": "72d ago"
+    "time_ago": "73d ago"
   },
   {
     "id": "79af8a04fb57",
@@ -2221,7 +2244,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "84d ago"
+    "time_ago": "85d ago"
   },
   {
     "id": "d39ac85b9cc9",
@@ -2590,31 +2613,6 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10469",
     "published_iso": "2023-07-12T21:20:14+00:00",
-    "time_ago": "1009d ago"
-  },
-  {
-    "id": "06ebc00af517",
-    "politician": "Rep. Nancy Pelosi",
-    "initials": "NP",
-    "role": "House Democratic Leader",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "Celebrating an Investment in the Golden Gate Bridge. Celebrating an Investment in the Golden Gate Bridge \n\n   \n     \n      Image or Video     \n                   \n \n  \n  \n   \n     \n      Image     \n                     \n \n\n\n \n               \n\n \n \n               \n\n  admin  \n\n  Wed, 07/12/2023 - 17:19 \n \n\n   \n     \n     ",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
-    ],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "http://pelosi.house.gov/node/10468",
-    "published_iso": "2023-07-12T21:19:46+00:00",
     "time_ago": "1009d ago"
   }
 ]
