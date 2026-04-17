@@ -41,5 +41,4 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID: 0e35c6f8560ade68d4ac01a4bdd33f35
         run: |
           npm install -g wrangler
-          cd politisignal
           wrangler pages deploy . --project-name politisignal --commit-dirty=true
