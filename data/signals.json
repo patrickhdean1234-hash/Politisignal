@@ -1,6 +1,6 @@
 [
   {
-    "id": "11eeaf2ddfa7",
+    "id": "beaec0f29484",
     "politician": "SEC EDGAR",
     "initials": "SEC",
     "role": "Insider & Congressional Stock Trades",
@@ -9,17 +9,36 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Karlsson Jutta C exercised options for 1,485 shares of Amer Sports, Inc. \u00b7 Apr 17 (2,147 total)",
+    "content": "Ting Hock Ming sold 3,000 shares of Trio-Tech International \u00b7 $6.99/share \u00b7 Apr 17 (7,000 total)",
     "tags": [],
     "tickers": [],
     "source": "sec",
     "platform": "SEC EDGAR",
-    "url": "https://www.sec.gov/Archives/edgar/data/2048997/000204899726000002/0002048997-26-000002-index.htm",
-    "published_iso": "2026-04-17T11:37:47+00:00",
-    "time_ago": "15m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1247601/000124760126000012/0001247601-26-000012-index.htm",
+    "published_iso": "2026-04-17T14:42:40+00:00",
+    "time_ago": "1m ago"
   },
   {
-    "id": "0fed125a91bb",
+    "id": "311c140a9dd5",
+    "politician": "SEC EDGAR",
+    "initials": "SEC",
+    "role": "Insider & Congressional Stock Trades",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Guillinet Fajerman Sergio sold 20,000 shares of Itau Unibanco Holding S.A. \u00b7 $9.45/share \u00b7 Apr 17",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC EDGAR",
+    "url": "https://www.sec.gov/Archives/edgar/data/2121033/000129281426002397/0001292814-26-002397-index.htm",
+    "published_iso": "2026-04-17T14:42:38+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "f161843ca249",
     "politician": "SEC EDGAR",
     "initials": "SEC",
     "role": "Insider & Congressional Stock Trades",
@@ -28,17 +47,79 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Qiu Wenbin bought 11,000 shares of Baozun Inc. \u00b7 $2.71/share \u00b7 Apr 17 (28,500 total)",
+    "content": "Manulife (Singapore) Pte. Ltd. bought 61,804 shares of John Hancock Ga Senior Loan Trust \u00b7 $16.18/share \u00b7 Apr 17",
     "tags": [],
     "tickers": [],
     "source": "sec",
     "platform": "SEC EDGAR",
-    "url": "https://www.sec.gov/Archives/edgar/data/1975717/000110465926044619/0001104659-26-044619-index.htm",
-    "published_iso": "2026-04-17T11:33:04+00:00",
-    "time_ago": "19m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1837478/000183747826000011/0001837478-26-000011-index.htm",
+    "published_iso": "2026-04-17T14:39:51+00:00",
+    "time_ago": "4m ago"
   },
   {
-    "id": "508c9d366699",
+    "id": "ab9c6a2e8d6c",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "The Trump IRS CEO thinks it's a \u201creally good outcome\u201d for families to lose their health care to pay for Meta's tax cuts.",
+    "tags": [
+      "Big Tech",
+      "Taxes"
+    ],
+    "tickers": [
+      "META"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjp5prhmts23",
+    "published_iso": "2026-04-17T14:39:43.787000+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "655b23047f39",
+    "politician": "SEC EDGAR",
+    "initials": "SEC",
+    "role": "Insider & Congressional Stock Trades",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Haddad Michael J filed Form 4 for Associated Banc-Corp \u00b7 Apr 17",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC EDGAR",
+    "url": "https://www.sec.gov/Archives/edgar/data/1774576/000000778926000136/0000007789-26-000136-index.htm",
+    "published_iso": "2026-04-17T14:36:14+00:00",
+    "time_ago": "7m ago"
+  },
+  {
+    "id": "33159e8f2682",
+    "politician": "SEC EDGAR",
+    "initials": "SEC",
+    "role": "Insider & Congressional Stock Trades",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Jeffe Robert A filed Form 4 for Associated Banc-Corp \u00b7 Apr 17",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC EDGAR",
+    "url": "https://www.sec.gov/Archives/edgar/data/1233165/000000778926000135/0000007789-26-000135-index.htm",
+    "published_iso": "2026-04-17T14:34:49+00:00",
+    "time_ago": "9m ago"
+  },
+  {
+    "id": "92577ae737be",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -46,8 +127,8 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "critical",
-    "content": "Why is the Trump administration continuing Biden\u2019s abortion policies?. At some point, outreach starts to look like abandonment of core supporters and principles",
+    "severity": "low",
+    "content": "Trump revels in Tucker Carlson's 'freefall' in GOP opinion polling. President Trump celebrated his win against conservative commentator Tucker Carlson in GOP favorability ratings in a Truth Social post on Friday morning.  The president was responding to a CNN segment highlighting the results of a recent poll from UMass",
     "tags": [],
     "tickers": [
       "NVDA",
@@ -58,31 +139,37 @@
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/white-house/5834557-why-is-the-trump-administration-continuing-bidens-abortion-policies/",
-    "published_iso": "2026-04-17T11:30:00+00:00",
-    "time_ago": "22m ago"
+    "url": "https://thehill.com/homenews/administration/5836229-trump-carlson-gop-favorability-ratings/",
+    "published_iso": "2026-04-17T14:12:20+00:00",
+    "time_ago": "31m ago"
   },
   {
-    "id": "8d628145b356",
-    "politician": "SEC EDGAR",
-    "initials": "SEC",
-    "role": "Insider & Congressional Stock Trades",
+    "id": "3753a2a0c091",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Hall Patricia Hemingway received 381 shares of Cardinal Health Inc \u00b7 $207.83/share \u00b7 Apr 17",
-    "tags": [],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC EDGAR",
-    "url": "https://www.sec.gov/Archives/edgar/data/1517890/000072137126000015/0000721371-26-000015-index.htm",
-    "published_iso": "2026-04-17T11:26:16+00:00",
-    "time_ago": "26m ago"
+    "content": "House Republican says Trump 'almost a second coming' amid backlash over AI Jesus posts. Rep. Troy Nehls (R-Texas) likened President Trump to a \u201csecond coming\u201d amid backlash over the president\u2019s feud with Pope Leo XIV and his administration\u2019s use of religious language when discussing the Iran conflict. \u201cI believe that D",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5836189-house-gop-troy-nehls-donald-trump-ai-jesus-post/",
+    "published_iso": "2026-04-17T14:09:58+00:00",
+    "time_ago": "34m ago"
   },
   {
-    "id": "047a5945bb5c",
+    "id": "799956dedce4",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -91,217 +178,196 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Post-Trump laws will have to prevent abuses of power and personal enrichment. The Trump presidency has highlighted the need for new reforms to prevent executive branch abuse, as the post-Watergate era laws and norms have been eroded, and suggested reforms include prohibiting presidents from owning public companies, com",
+    "content": "Live updates: Iran says Strait of Hormuz open; RFK Jr. back in hot seat. Iran announced on Friday morning that the\u00a0Strait of Hormuz\u00a0is \u201ccompletely\u201d open amid the temporary ceasefire reached between Israel and Lebanon. President Trump\u00a0reacted enthusiastically to Iran\u2019s announcement, but said the U.S. blockade remains in",
     "tags": [
-      "Crypto",
-      "Regulation",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5835694-kennedy-testifies-trump-healthcare/",
+    "published_iso": "2026-04-17T14:02:29+00:00",
+    "time_ago": "41m ago"
+  },
+  {
+    "id": "43315af394ed",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Does Trump\u00a0even\u00a0have a political strategy?. Winning in politics means delivering on popular issues,\u00a0and that is difficult for any\u00a0president. Without a solid political strategy and discipline\u00a0is\u00a0nigh\u00a0impossible",
+    "tags": [],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL",
+      "BTC"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/campaign/5835195-trump-strategy-failure-iran-hungary/",
+    "published_iso": "2026-04-17T14:00:00+00:00",
+    "time_ago": "44m ago"
+  },
+  {
+    "id": "52697c98a19d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Israel-Lebanon ceasefire takes hold: Here are the 6 points in agreement. A temporary ceasefire agreement between Israel and Lebanon went into effect at midnight local time on Friday after weeks of fighting.   Iran announced on Tuesday morning that the Hormuz Strait was \"completely open\" amid the ceasefire, though it wa",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/international/5836115-israel-lebanon-ceasefire-agreement/",
+    "published_iso": "2026-04-17T13:51:36+00:00",
+    "time_ago": "52m ago"
+  },
+  {
+    "id": "eaef1390838d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "More Americans are buying groceries using buy now, pay later: Survey. Nearly a third of buy now, pay later users have used the loans for groceries \u2014 double the share from two years ago",
+    "tags": [],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL",
+      "BTC"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/5835231-americans-groceries-buy-now-pay-later-survey/",
+    "published_iso": "2026-04-17T13:46:22+00:00",
+    "time_ago": "57m ago"
+  },
+  {
+    "id": "3584a2d1d756",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Iran says Hormuz Strait 'completely open;' Trump says blockade 'in full force'. Iran announced that the critical global shipping lane known as the Strait of Hormuz is \"completely\" open after being mostly closed since the war between the U.S. and Iran broke out earlier this year.  \"In line with the ceasefire in Lebanon,",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/international/5836133-iran-trump-strait-of-hormuz-lebanon-israel-ceasefire/",
+    "published_iso": "2026-04-17T13:36:58+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "fb03a737a41e",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "In 2028, the candidate who admits the system has failed everyone will win. Somewhere not on cable right now, there\u2019s a candidate who actually gets it",
+    "tags": [],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL",
+      "BTC"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/campaign/5830704-honest-2028-presidential-run/",
+    "published_iso": "2026-04-17T13:30:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "e7e92f079fc6",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "www.theverge.com/policy/91170...",
+    "tags": [],
+    "tickers": [
+      "AMZN",
+      "GOOGL",
+      "AAPL",
+      "META",
+      "BTC"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjoz2ob3xc2u",
+    "published_iso": "2026-04-17T13:16:19.756000+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "5f6ce1fbf4b7",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "high",
+    "content": "First, he tweeted \"RIP CFPB,\" the agency responsible for policing consumer financial products.\n \nThen he announced X Money, which is part of his plan to turn X into \"the biggest financial institution in the world.\u201d",
+    "tags": [
       "Taxes"
     ],
     "tickers": [
       "AMZN",
-      "BTC",
-      "ETH",
-      "COIN"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/white-house/5835050-post-watergate-legislation-trump-abuses/",
-    "published_iso": "2026-04-17T11:00:00+00:00",
-    "time_ago": "52m ago"
-  },
-  {
-    "id": "628ccd467b5f",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Redistricting fight heads to grand finale in Virginia, Florida. Morning Report is The Hill\u2019s a.m. newsletter. Subscribe here. In today\u2019s issue:  The months-long arms race between the states to squeeze out as many pickup opportunities for the midterm elections as possible is coming to an end as the final states decide w",
-    "tags": [],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
+      "GOOGL",
       "AAPL",
+      "META",
       "BTC"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/morning-report/5835990-redistricting-fight-finale-virginia-florida-2026/",
-    "published_iso": "2026-04-17T10:58:32+00:00",
-    "time_ago": "54m ago"
-  },
-  {
-    "id": "31abc491cbc2",
-    "politician": "SEC EDGAR",
-    "initials": "SEC",
-    "role": "Insider & Congressional Stock Trades",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Shah Nirav Vimal traded 51,800 shares of Hdfc Bank Ltd \u00b7 $7.85/share \u00b7 Apr 17",
-    "tags": [
-      "Trade",
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "sec",
-    "platform": "SEC EDGAR",
-    "url": "https://www.sec.gov/Archives/edgar/data/2113170/000119312526160229/0001193125-26-160229-index.htm",
-    "published_iso": "2026-04-17T10:33:57+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "9bc134461814",
-    "politician": "SEC EDGAR",
-    "initials": "SEC",
-    "role": "Insider & Congressional Stock Trades",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Schlachet Amir sold 16,666 shares of Global-E Online Ltd. \u00b7 $33.65/share \u00b7 Apr 17",
-    "tags": [],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC EDGAR",
-    "url": "https://www.sec.gov/Archives/edgar/data/1964286/000196428626000016/0001964286-26-000016-index.htm",
-    "published_iso": "2026-04-17T10:31:17+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "bebc5a7dda2c",
-    "politician": "SEC EDGAR",
-    "initials": "SEC",
-    "role": "Insider & Congressional Stock Trades",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Debbi Nir sold 211 shares of Global-E Online Ltd. \u00b7 $34.09/share \u00b7 Apr 17",
-    "tags": [],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC EDGAR",
-    "url": "https://www.sec.gov/Archives/edgar/data/1964141/000196414126000010/0001964141-26-000010-index.htm",
-    "published_iso": "2026-04-17T10:10:51+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "13e2bc08cccc",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Mamdani\u2019s city-run grocery plan draws pushback from local bodegas, supermarkets. New York City Mayor Zohran Mamdani\u2019s (D) plan to open a city-owned grocery store in East Harlem is drawing pushback from critics who question its feasibility and warn of its economic impact on local businesses. At a rally Sunday marking hi",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "AMZN"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/state-watch/5835547-mamdani-city-owned-grocery-plan-pushback/",
-    "published_iso": "2026-04-17T10:00:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "f060d8462da2",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Strait of Hormuz blockade hurts Iran's economy, threatens to spike energy prices. The U.S. blockade on the Strait of Hormuz has effectively shut down trade to and from Iran's ports, cutting off an estimated 90 percent of the Middle Eastern country's economy as the Trump administration looks to get Tehran back to the ne",
-    "tags": [
-      "Trade",
-      "Energy",
-      "Defense",
-      "Sanctions"
-    ],
-    "tickers": [
-      "XOM",
-      "FSLR",
-      "ENPH",
-      "XLE",
-      "LMT"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/defense/5835612-strait-hormuz-trade-blockade/",
-    "published_iso": "2026-04-17T10:00:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "09e1f5ba9eaa",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Senate GOP losing patience with Speaker Johnson as DHS faces crisis. Senate Republicans are growing increasingly frustrated with Speaker Mike Johnson\u2019s (R-La.) decision not to put a Senate-passed bill to fund most of the Department of Homeland Security (DHS) on the House floor for a vote as they fear the White House co",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL",
-      "BTC"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5835537-senate-gop-mike-johnson-dhs/",
-    "published_iso": "2026-04-17T10:00:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "62d4b360e403",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Trump\u2019s Turning Point USA stop to bolster young voters. President Trump is set to be the main speaker at Turning Point USA\u2019s event in Arizona on Friday to bolster Republican turnout for the upcoming midterms. The \u201cBuild the Red Wall\u201d event that will take place at a church in Arizona comes at a time where support among ",
-    "tags": [],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL",
-      "BTC"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5835511-turning-point-trump-arizona/",
-    "published_iso": "2026-04-17T10:00:00+00:00",
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjoz2nahz22u",
+    "published_iso": "2026-04-17T13:16:19.755000+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -326,7 +392,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/gallery/2026/04/17/the-nations-cartoonists-on-the-week-in-politics-00878255",
     "published_iso": "2026-04-17T09:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "b9cc87889db7",
@@ -352,34 +418,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h124?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-17T06:07:00+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "9088cc805c4a",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "House GOP passes short-term FISA deal amid Republican infighting. The House unanimously passed a short-term extension of the nation\u2019s spy powers early Friday morning after GOP rebels dramatically rejected a late-night, last-minute deal to extend the measure for five years.\u00a0 Instead, the bill pushes the expiration of th",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL",
-      "BTC"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5835879-fisa-702-spy-powers-vote/",
-    "published_iso": "2026-04-17T05:43:46+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "903fee790e64",
@@ -405,7 +444,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h123?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-17T05:22:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "ad283029e430",
@@ -431,7 +470,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h122?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-17T05:13:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "923fefe9e5eb",
@@ -455,7 +494,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/video/2026/04/16/why-steve-hilton-thinks-he-can-turn-california-red-2014381",
     "published_iso": "2026-04-17T03:59:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "3b98d299bd0d",
@@ -481,7 +520,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07601/schedule-of-fees-for-consular-services-fee-for-administrative-processing-of-request-for-certificate",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "34bf54a51349",
@@ -505,7 +544,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07600/house-falls-in-marine-terminals",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "d23f8954846f",
@@ -532,7 +571,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07585/settlement-policy-for-small-unmanned-aircraft-system-uas-cases",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "cc0a8f367a35",
@@ -558,7 +597,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07571/amendment-of-class-e5-airspace-over-elizabeth-city-nc",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "97933daa1321",
@@ -587,7 +626,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07560/methoxyfenozide-pesticide-tolerances",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "1f6bf96da018",
@@ -614,7 +653,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07536/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-geophysical-surveys-in-the",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "3354ace02b33",
@@ -641,7 +680,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07535/eliminating-outdated-regulation-related-to-reports-on-exports-of-technology",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "bd9e52eeb6c7",
@@ -665,7 +704,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07527/air-plan-approval-virginia-amendment-to-the-state-operating-permit-for-gp-big-island-llc",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "0889b05f28f1",
@@ -690,32 +729,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mjngrrhjf22f",
     "published_iso": "2026-04-16T22:16:34.512000+00:00",
-    "time_ago": "13h ago"
-  },
-  {
-    "id": "32ee508de847",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "Yes, your grocery prices are up\u2014by about $310 since 2024.\n\nTrump\u2019s war with Iran is raising costs, AND food prices are still out of control.\n\nBut Trump has done nothing to stop them.\n\nThat\u2019s why I\u2019m calling on his admin to crack down on price fixing now.",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjngrqvk6s2f",
-    "published_iso": "2026-04-16T22:16:34.511000+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "17608fe4f190",
@@ -740,57 +754,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mjnfpfy67223",
     "published_iso": "2026-04-16T21:57:22.212000+00:00",
-    "time_ago": "13h ago"
-  },
-  {
-    "id": "96d718f1f124",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "www.nytimes.com/2026/04/16/b...",
-    "tags": [],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META",
-      "BTC"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjncasrskc2t",
-    "published_iso": "2026-04-16T20:55:29.970000+00:00",
-    "time_ago": "14h ago"
-  },
-  {
-    "id": "e8f4f0640c63",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "high",
-    "content": "No hearing, no vote on Kevin Warsh to be Donald Trump\u2019s sock puppet on the Fed.",
-    "tags": [],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META",
-      "BTC"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjncarpjuk2t",
-    "published_iso": "2026-04-16T20:55:29.969000+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "c52552ddf3f9",
@@ -816,10 +780,10 @@
     "platform": "USTR",
     "url": "https://ustr.gov/node/14307",
     "published_iso": "2026-04-16T20:47:09+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
-    "id": "b758830df0e2",
+    "id": "0e4bde42ed06",
     "politician": "Sen. Elizabeth Warren",
     "initials": "EW",
     "role": "Senate Banking Committee",
@@ -827,8 +791,8 @@
       "bg": "#1b3a2a",
       "fg": "#4ade80"
     },
-    "severity": "medium",
-    "content": "abcnews.com/Business/wir...",
+    "severity": "high",
+    "content": "IT'S OFFICIAL: The House has passed our extension of TPS for Haiti.\n\nThis win wouldn't be possible without the strength & organizing of our movement to defend our Haitian neighbors.\n\nTo those in the #MA7 & beyond, this is for you.\n\nThe Senate must pick this up without delay.",
     "tags": [],
     "tickers": [
       "AMZN",
@@ -839,9 +803,9 @@
     ],
     "source": "bluesky",
     "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjn35vgsdk2q",
-    "published_iso": "2026-04-16T18:48:36.301000+00:00",
-    "time_ago": "17h ago"
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjn3nnwc5222",
+    "published_iso": "2026-04-16T18:57:26.008000+00:00",
+    "time_ago": "19h ago"
   },
   {
     "id": "16c091fc6c53",
@@ -867,7 +831,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h121?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-16T18:29:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "8e190775123f",
@@ -891,7 +855,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h120?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-16T18:21:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "c81c6c9123fc",
@@ -919,7 +883,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-led-fences-act-clears-u-s-house/",
     "published_iso": "2026-04-16T18:07:32+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "8322bc96ae8e",
@@ -943,7 +907,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s85?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-16T17:36:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "95b38a5bdb80",
@@ -969,7 +933,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h119?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-16T16:43:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "e3e4a84d9705",
@@ -994,7 +958,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2026",
     "published_iso": "2026-04-16T16:37:21+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "186d037cfece",
@@ -1018,7 +982,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h118?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-16T16:32:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "b27b378c070c",
@@ -1043,7 +1007,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/war-with-iran-update",
     "published_iso": "2026-04-16T16:01:15+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "ebefc71139e3",
@@ -1064,7 +1028,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-investigate-whether-political-interference-by-elon-musk-doge-caused-labor-board-decision-to-drop-spacex-charges",
     "published_iso": "2026-04-16T16:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "2687eeb97ade",
@@ -1090,7 +1054,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-klobuchar-lawmakers-press-for-new-independent-watchdog-investigation-into-trump-doj-cesspool-of-corruption-surrounding-merger-review",
     "published_iso": "2026-04-16T15:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "3b4d29a09986",
@@ -1117,7 +1081,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mjmjtvvmc22d",
     "published_iso": "2026-04-16T13:38:48.344000+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "8d99411a36d5",
@@ -1700,7 +1664,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mjk2t3f4222j",
     "published_iso": "2026-04-15T14:04:34.942000+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "873bf976d4a8",
@@ -1808,7 +1772,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-hosts-crypto-roundtable-with-comptroller-gould-and-governor-gordon/",
     "published_iso": "2026-04-09T13:37:03+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "a460129240a1",
@@ -1920,7 +1884,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mi2bnx4lwk2w",
     "published_iso": "2026-03-27T13:59:11.450000+00:00",
-    "time_ago": "20d ago"
+    "time_ago": "21d ago"
   },
   {
     "id": "a2c0abfa69cc",
@@ -2477,7 +2441,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/news-sanders-demands-reinstatement-of-jimmy-kimmel-live-program-in-vermont-calls-removal-of-show-censorship-plain-and-simple/",
     "published_iso": "2025-09-25T14:37:06+00:00",
-    "time_ago": "203d ago"
+    "time_ago": "204d ago"
   },
   {
     "id": "8c5a019a825f",
@@ -2578,5 +2542,30 @@
     "url": "http://khanna.house.gov/media/ros-op-eds/how-i-am-standing-doge",
     "published_iso": "2025-03-05T03:57:31+00:00",
     "time_ago": "408d ago"
+  },
+  {
+    "id": "e0581892e97a",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Opinion: Democrats must make the case that government can be effective and good. Opinion: Democrats must make the case that government can be effective and good \n\n               Fox News &nbsp;  By Ro Khanna&nbsp;  Eighty-eight years ago,   President Franklin Roosevelt  &nbsp;stood before the American people in Philade",
+    "tags": [],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "AMD",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "http://khanna.house.gov/media/ros-op-eds/opinion-democrats-must-make-case-government-can-be-effective-and-good",
+    "published_iso": "2025-02-19T02:51:28+00:00",
+    "time_ago": "422d ago"
   }
 ]
