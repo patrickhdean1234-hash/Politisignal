@@ -227,9 +227,12 @@ GLOBAL_SOURCES = [
         "keywords": ["rule", "regulation", "compliance", "ban", "require", "final rule"],
     },
     {
-        "name": "SEC EDGAR",
+        "name": "SEC Insider Trades",
         "initials": "SEC",
-        "role": "Insider & Congressional Stock Trades",
+        # EDGAR = Electronic Data Gathering, Analysis, and Retrieval — the SEC's
+        # public database where insiders (executives, directors, large shareholders)
+        # must file Form 4 within 2 days of trading their company's stock.
+        "role": "SEC EDGAR — Exec & Insider Stock Trades (Form 4)",
         "color": {"bg": "#0a0a1a", "fg": "#a5b4fc"},
         "rss": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=4&dateb=&owner=include&count=20&search_text=&output=atom",
         "platform_key": "sec",
@@ -316,7 +319,7 @@ PLATFORM_LABELS = {
     "whitehouse": "White House",
     "govtrack": "GovTrack",
     "federal_register": "Fed. Register",
-    "sec": "SEC EDGAR",
+    "sec": "SEC Form 4",
     "ustr": "USTR",
     "politico": "Politico",
     "thehill": "The Hill",
@@ -738,15 +741,20 @@ def fetch_sec_edgar(source: dict, max_entries: int = 8) -> list:
                     continue
 
                 shares_fmt = f"{shares:,.0f}"
+                total_str  = f"${trade_value:,.0f} total" if price else ""
                 content = f"{filer} {action} {shares_fmt} shares of {company}{ticker_str}"
                 if price:
                     content += f" · ${price:,.2f}/share"
+                if total_str:
+                    content += f" · {total_str}"
                 if date_str:
                     content += f" · {date_str}"
+                # Note if multiple blocks pushed total higher
                 if len(transactions) > 1:
-                    total_shares = sum(t["shares"] for t in transactions)
-                    if total_shares != shares:
-                        content += f" ({total_shares:,.0f} total)"
+                    all_shares = sum(t["shares"] for t in transactions)
+                    all_value  = sum(t["shares"] * t["price"] for t in transactions)
+                    if all_shares != shares:
+                        content += f" (${all_value:,.0f} across all blocks)"
             else:
                 continue
 
