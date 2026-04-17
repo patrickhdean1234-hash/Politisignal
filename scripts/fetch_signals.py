@@ -551,9 +551,17 @@ _SEC_GENERIC_WORDS = {
 }
 
 _TRANSACTION_CODES = {
-    "P": "bought", "S": "sold", "A": "received",
-    "D": "disposed of", "M": "exercised options for",
-    "G": "gifted", "F": "withheld (tax)",
+    "P": "bought",
+    "S": "sold",
+    "A": "received",          # grant/award
+    "D": "disposed of",       # non-market sale
+    "M": "exercised options for",
+    "X": "exercised derivative for",
+    "C": "converted",
+    "G": "gifted",
+    "F": "withheld (tax)",
+    "J": "acquired/disposed",
+    "W": "inherited",
 }
 
 def _sec_ticker_for_company(company_upper: str) -> Optional[str]:
@@ -700,26 +708,27 @@ def fetch_sec_edgar(source: dict, max_entries: int = 8) -> list:
                     pass
 
             if transactions:
-                txn     = transactions[0]
-                action  = _TRANSACTION_CODES.get(txn["code"], "traded")
-                shares  = txn["shares"]
-                price   = txn["price"]
+                txn    = transactions[0]
+                action = _TRANSACTION_CODES.get(txn["code"])
+                if not action:
+                    # Truly unknown code — skip, nothing useful to show
+                    continue
+                shares     = txn["shares"]
+                price      = txn["price"]
                 shares_fmt = f"{shares:,.0f}"
                 content = f"{filer} {action} {shares_fmt} shares of {company}{ticker_str}"
                 if price:
                     content += f" · ${price:,.2f}/share"
                 if date_str:
                     content += f" · {date_str}"
-                # If multiple transactions (e.g. two sell blocks), note it
+                # Note total if multiple transaction blocks differ
                 if len(transactions) > 1:
                     total_shares = sum(t["shares"] for t in transactions)
                     if total_shares != shares:
                         content += f" ({total_shares:,.0f} total)"
             else:
-                # Fallback when XML fetch fails
-                content = f"{filer} filed Form 4 for {company}{ticker_str}"
-                if date_str:
-                    content += f" · {date_str}"
+                # Fallback when XML fetch fails — skip, nothing clean to show
+                continue
 
             published = None
             parsed = getattr(entry, "updated_parsed", None) or getattr(entry, "published_parsed", None)

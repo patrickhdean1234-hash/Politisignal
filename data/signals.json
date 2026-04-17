@@ -1,6 +1,10 @@
 [
   {
+<<<<<<< HEAD
     "id": "beaec0f29484",
+=======
+    "id": "4f369f8316d5",
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
     "politician": "SEC EDGAR",
     "initials": "SEC",
     "role": "Insider & Congressional Stock Trades",
@@ -9,11 +13,16 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
+<<<<<<< HEAD
     "content": "Ting Hock Ming sold 3,000 shares of Trio-Tech International \u00b7 $6.99/share \u00b7 Apr 17 (7,000 total)",
+=======
+    "content": "Mccready Richard J bought 19,743 shares of Harrison Street Infrastructure Income Fund \u00b7 $10.13/share \u00b7 Apr 17",
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
     "tags": [],
     "tickers": [],
     "source": "sec",
     "platform": "SEC EDGAR",
+<<<<<<< HEAD
     "url": "https://www.sec.gov/Archives/edgar/data/1247601/000124760126000012/0001247601-26-000012-index.htm",
     "published_iso": "2026-04-17T14:42:40+00:00",
     "time_ago": "1m ago"
@@ -39,6 +48,14 @@
   },
   {
     "id": "f161843ca249",
+=======
+    "url": "https://www.sec.gov/Archives/edgar/data/1812286/000130676326000001/0001306763-26-000001-index.htm",
+    "published_iso": "2026-04-17T16:20:51+00:00",
+    "time_ago": "7m ago"
+  },
+  {
+    "id": "163e54659c2d",
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
     "politician": "SEC EDGAR",
     "initials": "SEC",
     "role": "Insider & Congressional Stock Trades",
@@ -47,11 +64,16 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
+<<<<<<< HEAD
     "content": "Manulife (Singapore) Pte. Ltd. bought 61,804 shares of John Hancock Ga Senior Loan Trust \u00b7 $16.18/share \u00b7 Apr 17",
+=======
+    "content": "Gomes Andre Spolidoro Ferreira sold 1,500 shares of Vtex \u00b7 $4.12/share \u00b7 Apr 17 (3,000 total)",
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
     "tags": [],
     "tickers": [],
     "source": "sec",
     "platform": "SEC EDGAR",
+<<<<<<< HEAD
     "url": "https://www.sec.gov/Archives/edgar/data/1837478/000183747826000011/0001837478-26-000011-index.htm",
     "published_iso": "2026-04-17T14:39:51+00:00",
     "time_ago": "4m ago"
@@ -120,6 +142,14 @@
   },
   {
     "id": "92577ae737be",
+=======
+    "url": "https://www.sec.gov/Archives/edgar/data/1968955/000119312526160835/0001193125-26-160835-index.htm",
+    "published_iso": "2026-04-17T16:13:14+00:00",
+    "time_ago": "14m ago"
+  },
+  {
+    "id": "799956dedce4",
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -127,6 +157,7 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
+<<<<<<< HEAD
     "severity": "low",
     "content": "Trump revels in Tucker Carlson's 'freefall' in GOP opinion polling. President Trump celebrated his win against conservative commentator Tucker Carlson in GOP favorability ratings in a Truth Social post on Friday morning.  The president was responding to a CNN segment highlighting the results of a recent poll from UMass",
     "tags": [],
@@ -368,7 +399,338 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mjoz2nahz22u",
     "published_iso": "2026-04-17T13:16:19.755000+00:00",
+=======
+    "severity": "critical",
+    "content": "Live updates: Iran says Strait of Hormuz open; RFK Jr. back in hot seat. Iran announced Friday morning that the Strait of Hormuz is \u201ccompletely\u201d open amid the temporary ceasefire reached between Israel and Lebanon. President Trump reacted enthusiastically to Iran\u2019s announcement but said the U.S. blockade remains in pla",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5835694-kennedy-testifies-trump-healthcare/",
+    "published_iso": "2026-04-17T16:10:53+00:00",
+    "time_ago": "17m ago"
+  },
+  {
+    "id": "3b1facc90a06",
+    "politician": "SEC EDGAR",
+    "initials": "SEC",
+    "role": "Insider & Congressional Stock Trades",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Milmoe William H. gifted 8,966,547 shares of Integrated Biopharma Inc \u00b7 Apr 17 (11,201,964 total)",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "LLY",
+      "PFE",
+      "JNJ",
+      "MRK"
+    ],
+    "source": "sec",
+    "platform": "SEC EDGAR",
+    "url": "https://www.sec.gov/Archives/edgar/data/1443194/000144319426000004/0001443194-26-000004-index.htm",
+    "published_iso": "2026-04-17T16:09:27+00:00",
+    "time_ago": "18m ago"
+  },
+  {
+    "id": "1c4abbacf900",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Good gerrymandering can\u2019t cure bad gerrymandering. Virginia voters will soon decide on a proposed amendment that would allow the state legislature to draw its own House districts, potentially leading to a partisan arms race and weakening the voices of voters",
+    "tags": [],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL",
+      "BTC"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/campaign/5835882-fair-redistricting-virginia-amendment/",
+    "published_iso": "2026-04-17T16:00:00+00:00",
+    "time_ago": "27m ago"
+  },
+  {
+    "id": "9b513a18626f",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Senate passes 10-day extension of nation's spy powers. The Senate on Friday passed a 10-day extension of the nation\u2019s warrantless spy powers, approving a House plan hatched on the floor after a\u00a0chaotic rejection\u00a0of a package negotiated with skeptics. The bill will now head to the president\u2019s desk, but Section 702 of th",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL",
+      "BTC"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/senate/5836438-senate-advances-10-day-fisa-extension/",
+    "published_iso": "2026-04-17T15:45:48+00:00",
+    "time_ago": "42m ago"
+  },
+  {
+    "id": "e64d451e16d5",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Judge rejects Trump lawsuit to block Hawaii from filing climate lawsuit. A federal judge this week rejected the Trump administration\u2019s pre-emptive lawsuit from last year to block the state of Hawaii from suing fossil fuel companies over climate impact concerns. Hawaii Senior U.S. District Judge Helen Gillmor dismissed ",
+    "tags": [
+      "Energy",
+      "Regulation"
+    ],
+    "tickers": [
+      "AMZN",
+      "XOM",
+      "FSLR",
+      "ENPH",
+      "XLE"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/state-watch/5836434-hawaii-climate-lawsuit-fossil-fuels/",
+    "published_iso": "2026-04-17T15:40:52+00:00",
+    "time_ago": "47m ago"
+  },
+  {
+    "id": "9da1a43e4c40",
+    "politician": "U.S. Trade Rep.",
+    "initials": "USTR",
+    "role": "Office of the U.S. Trade Representative",
+    "color": {
+      "bg": "#1a0a1a",
+      "fg": "#d8b4fe"
+    },
+    "severity": "critical",
+    "content": "Opening Statement of Ambassador Jamieson Greer Before the House Appropriations Committee. Opening Statement of Ambassador Jamieson Greer Before the House Appropriations Committee \n  jgaertner  \n  Fri, 04/17/2026 - 11:30 \n \n\n              Thank you Chairman Rogers and Ranking Member Meng for having me today. I\u2019m glad we",
+    "tags": [
+      "Trade",
+      "China",
+      "Energy",
+      "Agriculture"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "AMD",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "ustr",
+    "platform": "USTR",
+    "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2026/opening-statement-ambassador-jamieson-greer-house-appropriations-committee",
+    "published_iso": "2026-04-17T15:30:48+00:00",
+    "time_ago": "57m ago"
+  },
+  {
+    "id": "fb827e0cb127",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Fraud reform must target criminals, not cut off disability care. The Trump administration is making rooting out fraud in social safety net programs a top priority, but it is essential to ensure that people with disabilities are not harmed in the process and that the government's response is precise and targeted",
+    "tags": [],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL",
+      "BTC"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/congress-blog/5835221-trump-fraud-reform-safety-net/",
+    "published_iso": "2026-04-17T15:30:00+00:00",
+    "time_ago": "57m ago"
+  },
+  {
+    "id": "b14dfa4283df",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Colbert releases Pope Leo diss track toward Trump inspired by Kendrick Lamar. Stephen Colbert, the host of CBS\u2019 \u201cThe Late Show,\u201d released on Friday a Kendrick Lamar-inspired diss track against President Trump that included a depiction of Pope Leo XIV.\u00a0 The diss track, called \u201cThey not pious\u201d and set to Kendrick Lamar\u2019s",
+    "tags": [],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL",
+      "BTC"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5836360-colbert-trump-diss-track/",
+    "published_iso": "2026-04-17T15:22:03+00:00",
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
     "time_ago": "1h ago"
+  },
+  {
+    "id": "2392b657f7ac",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Collins, Tillis signal shift on Trump war powers if Iran war hits 60-day mark. Two Senate Republicans who previously rejected Democratic-led efforts to curb President Trump\u2019s ability to continue the military action against Iran without obtaining congressional approval signaled this week that their view on war powers co",
+    "tags": [
+      "Defense",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/senate/5836355-collins-tillis-trump-iran-war-powers-resolution/",
+    "published_iso": "2026-04-17T15:21:13+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "51392190c8df",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Stock market jumps after Israel-Lebanon ceasefire, Hormuz opening. The stock market saw a boost after the opening bell Friday morning, after a 10-day ceasefire between Israel and Lebanon took effect and Iran declared the Strait of Hormuz \u201ccompletely open.\u201d The S&#38;P 500 was up 1.1 percent, and the Nasdaq Composite ro",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/5836336-stock-market-boost-israel-lebanon/",
+    "published_iso": "2026-04-17T15:20:45+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "ab9c6a2e8d6c",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "The Trump IRS CEO thinks it's a \u201creally good outcome\u201d for families to lose their health care to pay for Meta's tax cuts.",
+    "tags": [
+      "Big Tech",
+      "Taxes"
+    ],
+    "tickers": [
+      "META"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjp5prhmts23",
+    "published_iso": "2026-04-17T14:39:43.787000+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "e7e92f079fc6",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "www.theverge.com/policy/91170...",
+    "tags": [],
+    "tickers": [
+      "AMZN",
+      "GOOGL",
+      "AAPL",
+      "META",
+      "BTC"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjoz2ob3xc2u",
+    "published_iso": "2026-04-17T13:16:19.756000+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "5f6ce1fbf4b7",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "high",
+    "content": "First, he tweeted \"RIP CFPB,\" the agency responsible for policing consumer financial products.\n \nThen he announced X Money, which is part of his plan to turn X into \"the biggest financial institution in the world.\u201d",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "AMZN",
+      "GOOGL",
+      "AAPL",
+      "META",
+      "BTC"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjoz2nahz22u",
+    "published_iso": "2026-04-17T13:16:19.755000+00:00",
+    "time_ago": "3h ago"
   },
   {
     "id": "44b3c3140230",
@@ -392,7 +754,11 @@
     "platform": "Politico",
     "url": "https://www.politico.com/gallery/2026/04/17/the-nations-cartoonists-on-the-week-in-politics-00878255",
     "published_iso": "2026-04-17T09:00:00+00:00",
+<<<<<<< HEAD
     "time_ago": "5h ago"
+=======
+    "time_ago": "7h ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "b9cc87889db7",
@@ -418,7 +784,11 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h124?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-17T06:07:00+00:00",
+<<<<<<< HEAD
     "time_ago": "8h ago"
+=======
+    "time_ago": "10h ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "903fee790e64",
@@ -444,7 +814,11 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h123?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-17T05:22:00+00:00",
+<<<<<<< HEAD
     "time_ago": "9h ago"
+=======
+    "time_ago": "11h ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "ad283029e430",
@@ -470,7 +844,11 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h122?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-17T05:13:00+00:00",
+<<<<<<< HEAD
     "time_ago": "9h ago"
+=======
+    "time_ago": "11h ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "923fefe9e5eb",
@@ -494,7 +872,11 @@
     "platform": "Politico",
     "url": "https://www.politico.com/video/2026/04/16/why-steve-hilton-thinks-he-can-turn-california-red-2014381",
     "published_iso": "2026-04-17T03:59:00+00:00",
+<<<<<<< HEAD
     "time_ago": "10h ago"
+=======
+    "time_ago": "12h ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "3b98d299bd0d",
@@ -520,7 +902,11 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07601/schedule-of-fees-for-consular-services-fee-for-administrative-processing-of-request-for-certificate",
     "published_iso": "2026-04-17T00:00:00+00:00",
+<<<<<<< HEAD
     "time_ago": "14h ago"
+=======
+    "time_ago": "16h ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "34bf54a51349",
@@ -544,7 +930,11 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07600/house-falls-in-marine-terminals",
     "published_iso": "2026-04-17T00:00:00+00:00",
+<<<<<<< HEAD
     "time_ago": "14h ago"
+=======
+    "time_ago": "16h ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "d23f8954846f",
@@ -571,7 +961,11 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07585/settlement-policy-for-small-unmanned-aircraft-system-uas-cases",
     "published_iso": "2026-04-17T00:00:00+00:00",
+<<<<<<< HEAD
     "time_ago": "14h ago"
+=======
+    "time_ago": "16h ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "cc0a8f367a35",
@@ -597,7 +991,11 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07571/amendment-of-class-e5-airspace-over-elizabeth-city-nc",
     "published_iso": "2026-04-17T00:00:00+00:00",
+<<<<<<< HEAD
     "time_ago": "14h ago"
+=======
+    "time_ago": "16h ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "97933daa1321",
@@ -626,7 +1024,11 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07560/methoxyfenozide-pesticide-tolerances",
     "published_iso": "2026-04-17T00:00:00+00:00",
+<<<<<<< HEAD
     "time_ago": "14h ago"
+=======
+    "time_ago": "16h ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "1f6bf96da018",
@@ -653,7 +1055,11 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07536/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-geophysical-surveys-in-the",
     "published_iso": "2026-04-17T00:00:00+00:00",
+<<<<<<< HEAD
     "time_ago": "14h ago"
+=======
+    "time_ago": "16h ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "3354ace02b33",
@@ -680,7 +1086,11 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07535/eliminating-outdated-regulation-related-to-reports-on-exports-of-technology",
     "published_iso": "2026-04-17T00:00:00+00:00",
+<<<<<<< HEAD
     "time_ago": "14h ago"
+=======
+    "time_ago": "16h ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "bd9e52eeb6c7",
@@ -704,7 +1114,11 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07527/air-plan-approval-virginia-amendment-to-the-state-operating-permit-for-gp-big-island-llc",
     "published_iso": "2026-04-17T00:00:00+00:00",
+<<<<<<< HEAD
     "time_ago": "14h ago"
+=======
+    "time_ago": "16h ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "0889b05f28f1",
@@ -729,7 +1143,11 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mjngrrhjf22f",
     "published_iso": "2026-04-16T22:16:34.512000+00:00",
+<<<<<<< HEAD
     "time_ago": "16h ago"
+=======
+    "time_ago": "18h ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "17608fe4f190",
@@ -754,7 +1172,11 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mjnfpfy67223",
     "published_iso": "2026-04-16T21:57:22.212000+00:00",
+<<<<<<< HEAD
     "time_ago": "16h ago"
+=======
+    "time_ago": "18h ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "c52552ddf3f9",
@@ -780,7 +1202,11 @@
     "platform": "USTR",
     "url": "https://ustr.gov/node/14307",
     "published_iso": "2026-04-16T20:47:09+00:00",
+<<<<<<< HEAD
     "time_ago": "17h ago"
+=======
+    "time_ago": "19h ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "0e4bde42ed06",
@@ -805,7 +1231,11 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mjn3nnwc5222",
     "published_iso": "2026-04-16T18:57:26.008000+00:00",
+<<<<<<< HEAD
     "time_ago": "19h ago"
+=======
+    "time_ago": "21h ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "16c091fc6c53",
@@ -831,7 +1261,11 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h121?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-16T18:29:00+00:00",
+<<<<<<< HEAD
     "time_ago": "20h ago"
+=======
+    "time_ago": "21h ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "8e190775123f",
@@ -855,7 +1289,11 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h120?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-16T18:21:00+00:00",
+<<<<<<< HEAD
     "time_ago": "20h ago"
+=======
+    "time_ago": "22h ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "c81c6c9123fc",
@@ -883,7 +1321,11 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-led-fences-act-clears-u-s-house/",
     "published_iso": "2026-04-16T18:07:32+00:00",
+<<<<<<< HEAD
     "time_ago": "20h ago"
+=======
+    "time_ago": "22h ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "8322bc96ae8e",
@@ -907,7 +1349,11 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s85?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-16T17:36:00+00:00",
+<<<<<<< HEAD
     "time_ago": "21h ago"
+=======
+    "time_ago": "22h ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "95b38a5bdb80",
@@ -933,7 +1379,11 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h119?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-16T16:43:00+00:00",
+<<<<<<< HEAD
     "time_ago": "22h ago"
+=======
+    "time_ago": "23h ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "e3e4a84d9705",
@@ -958,7 +1408,11 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2026",
     "published_iso": "2026-04-16T16:37:21+00:00",
+<<<<<<< HEAD
     "time_ago": "22h ago"
+=======
+    "time_ago": "23h ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "186d037cfece",
@@ -982,7 +1436,11 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h118?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-16T16:32:00+00:00",
+<<<<<<< HEAD
     "time_ago": "22h ago"
+=======
+    "time_ago": "23h ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "b27b378c070c",
@@ -1007,7 +1465,11 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/war-with-iran-update",
     "published_iso": "2026-04-16T16:01:15+00:00",
+<<<<<<< HEAD
     "time_ago": "22h ago"
+=======
+    "time_ago": "1d ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "ebefc71139e3",
@@ -1028,7 +1490,11 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-investigate-whether-political-interference-by-elon-musk-doge-caused-labor-board-decision-to-drop-spacex-charges",
     "published_iso": "2026-04-16T16:00:00+00:00",
+<<<<<<< HEAD
     "time_ago": "22h ago"
+=======
+    "time_ago": "1d ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "2687eeb97ade",
@@ -1054,7 +1520,11 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-klobuchar-lawmakers-press-for-new-independent-watchdog-investigation-into-trump-doj-cesspool-of-corruption-surrounding-merger-review",
     "published_iso": "2026-04-16T15:00:00+00:00",
+<<<<<<< HEAD
     "time_ago": "23h ago"
+=======
+    "time_ago": "1d ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   },
   {
     "id": "3b4d29a09986",
@@ -1579,7 +2049,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mjkcjy37ns2w",
     "published_iso": "2026-04-15T16:22:39.420000+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "f2763200dffd",
@@ -1609,7 +2079,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2025/opening-statement-jeffrey-goettman-senate-finance-committee",
     "published_iso": "2026-04-15T16:03:07+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "9d19c2d700b7",
@@ -1639,7 +2109,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2025/opening-statement-dr-julie-callahan-senate-finance-committee",
     "published_iso": "2026-04-15T15:55:48+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "8f81430de650",
@@ -1742,7 +2212,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mjf4vnc6as2n",
     "published_iso": "2026-04-13T14:58:29.623000+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "7e97dd57aa17",
@@ -1799,7 +2269,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/icymi-lummis-op-ed-in-washington-post-a-broken-system-is-costing-america-trillions-i-see-it-in-wyoming/",
     "published_iso": "2026-04-08T16:14:36+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "f9bc3f626835",
@@ -1829,36 +2299,6 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/op-ed-ambassador-jamieson-greer-another-fish-story-wto",
     "published_iso": "2026-04-08T15:13:13+00:00",
-    "time_ago": "8d ago"
-  },
-  {
-    "id": "f3103bf0ce57",
-    "politician": "U.S. Trade Rep.",
-    "initials": "USTR",
-    "role": "Office of the U.S. Trade Representative",
-    "color": {
-      "bg": "#1a0a1a",
-      "fg": "#d8b4fe"
-    },
-    "severity": "high",
-    "content": "Ambassador Greer to Travel to Michigan and Ohio to Tour Manufacturing Plants and Meet with Manufacturing Workers and Industry Executives. Ambassador Greer to Travel to Michigan and Ohio to Tour Manufacturing Plants and Meet with Manufacturing Workers and Industry Executives \n  myarbrough  \n  Tue, 04/07/2026 - 13:03 \n \n",
-    "tags": [
-      "Trade",
-      "Energy",
-      "Defense",
-      "Taxes"
-    ],
-    "tickers": [
-      "XOM",
-      "CVX",
-      "COP",
-      "OXY",
-      "FSLR"
-    ],
-    "source": "ustr",
-    "platform": "USTR",
-    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ambassador-greer-travel-michigan-and-ohio-tour-manufacturing-plants-and-meet-manufacturing-workers",
-    "published_iso": "2026-04-07T17:03:43+00:00",
     "time_ago": "9d ago"
   },
   {
@@ -2046,7 +2486,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/aoc.bsky.social/post/3mfrixdiwqs2k",
     "published_iso": "2026-02-26T15:25:21.719000+00:00",
-    "time_ago": "49d ago"
+    "time_ago": "50d ago"
   },
   {
     "id": "fa45ab208fd8",
@@ -2128,7 +2568,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "51d ago"
+    "time_ago": "52d ago"
   },
   {
     "id": "344041549951",
@@ -2280,7 +2720,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meetings-in-sheldon-bristol-and-poultney/",
     "published_iso": "2026-01-29T16:27:05+00:00",
-    "time_ago": "77d ago"
+    "time_ago": "78d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -2362,7 +2802,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266276-2/",
     "published_iso": "2026-01-07T15:48:25+00:00",
-    "time_ago": "99d ago"
+    "time_ago": "100d ago"
   },
   {
     "id": "bbd37deac435",
@@ -2567,5 +3007,62 @@
     "url": "http://khanna.house.gov/media/ros-op-eds/opinion-democrats-must-make-case-government-can-be-effective-and-good",
     "published_iso": "2025-02-19T02:51:28+00:00",
     "time_ago": "422d ago"
+<<<<<<< HEAD
+=======
+  },
+  {
+    "id": "d026d19a063b",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Ro Khanna: Democrats Have a Future. Here It Is.. Ro Khanna: Democrats Have a Future. Here It Is. \n\n               New York Times&nbsp;   By Ro Khanna&nbsp;   Millions of Americans  approve of the Trump administration\u2019s efforts to eliminate supposedly wasteful federal spending by any means necessary. That puts my party ",
+    "tags": [],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "AMD",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "http://khanna.house.gov/media/ros-op-eds/ro-khanna-democrats-have-future-here-it",
+    "published_iso": "2025-02-14T03:15:17+00:00",
+    "time_ago": "427d ago"
+  },
+  {
+    "id": "0ea19a115c74",
+    "politician": "Rep. Nancy Pelosi",
+    "initials": "NP",
+    "role": "House Democratic Leader",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "Investing in Our Nation and Our Future. Investing in Our Nation and Our Future \n\n   \n     \n      Image or Video     \n                   \n \n  \n  \n   \n     \n      Image     \n                     \n \n\n\n \n               \n\n \n \n               \n\n  admin  \n\n  Wed, 07/12/2023 - 17:22 \n \n\n   \n     \n      Summary     \n            ",
+    "tags": [
+      "Semiconductors",
+      "Energy",
+      "Regulation"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "AMD",
+      "QCOM",
+      "XOM"
+    ],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "http://pelosi.house.gov/node/10471",
+    "published_iso": "2023-07-12T21:22:15+00:00",
+    "time_ago": "1009d ago"
+>>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
   }
 ]
