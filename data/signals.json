@@ -1,6 +1,78 @@
 [
   {
-    "id": "799956dedce4",
+    "id": "60e213983be0",
+    "politician": "SEC EDGAR",
+    "initials": "SEC",
+    "role": "Insider & Congressional Stock Trades",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Smith Gary B sold 2,952 shares of Ciena Corp \u00b7 $467.47/share \u00b7 Apr 17",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC EDGAR",
+    "url": "https://www.sec.gov/Archives/edgar/data/1032553/000103255326000017/0001032553-26-000017-index.htm",
+    "published_iso": "2026-04-17T19:29:02+00:00",
+    "time_ago": "12m ago"
+  },
+  {
+    "id": "f706e4872081",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "Right out in the open, Donald Trump is suing his own IRS to try to steal $10 BILLION taxpayer dollars.\n\nI just introduced a bill that would make this theft ILLEGAL.",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "AMZN",
+      "GOOGL",
+      "AAPL",
+      "META",
+      "BTC"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjpnuaannk23",
+    "published_iso": "2026-04-17T19:28:33.382000+00:00",
+    "time_ago": "13m ago"
+  },
+  {
+    "id": "28c692cdf937",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Watch live: Trump to court young voters at TPUSA event in Arizona. President Trump is headlining Turning Point USA's (TPUSA) event in Arizona on Friday afternoon, as Republicans seek to bolster support ahead of November. The \u201cBuild the Red Wall\u201d event comes at a time when Trump's backing among young voters is slipping ",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/video-clips/5836751-watch-live-trump-young-voters-turning-point-usa-arizona/",
+    "published_iso": "2026-04-17T19:03:49+00:00",
+    "time_ago": "38m ago"
+  },
+  {
+    "id": "52cdb2920fca",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,7 +81,84 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Live updates: Iran says Strait of Hormuz open; RFK Jr. back in hot seat. Iran announced Friday morning that the Strait of Hormuz is \u201ccompletely\u201d open amid the temporary ceasefire reached between Israel and Lebanon. President Trump reacted enthusiastically to Iran\u2019s announcement but said the U.S. blockade remains in pla",
+    "content": "Tufts student detained by ICE returns to Turkey. R\u00fcmeysa \u00d6zt\u00fcrk, the Tufts University student that was detained by Immigration and Customs Enforcement (ICE) last year, has completed her Ph.D. program and is returning to her home country of Turkey, her lawyers announced on Friday.   \u00d6zt\u00fcrk was detained by ICE in 2025 af",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL",
+      "BTC"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/education/5836793-ruemysa-ozturk-returning-turkey/",
+    "published_iso": "2026-04-17T18:56:10+00:00",
+    "time_ago": "45m ago"
+  },
+  {
+    "id": "eecfb115ef37",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "NJ Transit announces $150 World Cup train tickets: 'We are not making profits'. As the World Cup approaches, there is growing controversy in the greater New York-New Jersey area over the high train ticket prices to MetLife Stadium",
+    "tags": [],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL",
+      "BTC"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/state-watch/5836749-nj-transit-world-cup-train-tickets-profit/",
+    "published_iso": "2026-04-17T18:56:05+00:00",
+    "time_ago": "45m ago"
+  },
+  {
+    "id": "7742325d3bd9",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Psaki on Democrats' 25th Amendment talk: 'It's not going to happen'. MS NOW host Jen Psaki attempted to shut down hopes from Democrats to invoke the 25th Amendment to oust President Trump from office amid criticism of his rhetoric and strikes on Iran.\u00a0 \u201cI have no issue with people saying they're for invoking the 25th A",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/media/5836767-trump-25th-amendment-psaki/",
+    "published_iso": "2026-04-17T18:51:19+00:00",
+    "time_ago": "50m ago"
+  },
+  {
+    "id": "0529f6749d2b",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Live updates: Iran says Strait of Hormuz open; RFK Jr. defends Trump's sanity. Iran announced Friday morning that the Strait of Hormuz is \u201ccompletely\u201d open amid the temporary ceasefire reached between Israel and Lebanon. President Trump reacted enthusiastically to Iran\u2019s announcement but said the U.S. blockade remains ",
     "tags": [
       "Sanctions"
     ],
@@ -21,11 +170,11 @@
     "source": "thehill",
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/administration/5835694-kennedy-testifies-trump-healthcare/",
-    "published_iso": "2026-04-17T16:10:53+00:00",
-    "time_ago": "25m ago"
+    "published_iso": "2026-04-17T18:23:15+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "1c4abbacf900",
+    "id": "700af5d6d188",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -33,8 +182,8 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "high",
-    "content": "Good gerrymandering can\u2019t cure bad gerrymandering. Virginia voters will soon decide on a proposed amendment that would allow the state legislature to draw its own House districts, potentially leading to a partisan arms race and weakening the voices of voters",
+    "severity": "medium",
+    "content": "Aaron Carter\u2019s mom creates GoFundMe to get singer star on the Walk of Fame. Aaron Carter accidentally drowned in his bathtub due to sedatives and gas inhalation",
     "tags": [],
     "tickers": [
       "NVDA",
@@ -45,12 +194,12 @@
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/campaign/5835882-fair-redistricting-virginia-amendment/",
-    "published_iso": "2026-04-17T16:00:00+00:00",
-    "time_ago": "35m ago"
+    "url": "https://thehill.com/blogs/in-the-know/5836554-aaron-carter-gofundme-hollywood-walk-of-fame/",
+    "published_iso": "2026-04-17T18:20:47+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "9b513a18626f",
+    "id": "7b8c86a7242f",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -58,11 +207,9 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "high",
-    "content": "Senate passes 10-day extension of nation's spy powers. The Senate on Friday passed a 10-day extension of the nation\u2019s warrantless spy powers, approving a House plan hatched on the floor after a\u00a0chaotic rejection\u00a0of a package negotiated with skeptics. The bill will now head to the president\u2019s desk, but Section 702 of th",
-    "tags": [
-      "Regulation"
-    ],
+    "severity": "critical",
+    "content": "French widow detained by ICE after GI husband's death released, returns to France. After being held in a U.S. immigration detention facility for the past 16 days, an elderly French woman returned home to France on Friday.  Marie-Th\u00e9r\u00e8se Ross was detained by Immigration and Customs Enforcement (ICE) in Alabama on April ",
+    "tags": [],
     "tickers": [
       "NVDA",
       "TSM",
@@ -72,12 +219,12 @@
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5836438-senate-advances-10-day-fisa-extension/",
-    "published_iso": "2026-04-17T15:45:48+00:00",
-    "time_ago": "50m ago"
+    "url": "https://thehill.com/policy/international/5836654-immigration-detention-alabama-france/",
+    "published_iso": "2026-04-17T17:46:24+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "e64d451e16d5",
+    "id": "29431af5933b",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -85,24 +232,73 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Judge rejects Trump lawsuit to block Hawaii from filing climate lawsuit. A federal judge this week rejected the Trump administration\u2019s pre-emptive lawsuit from last year to block the state of Hawaii from suing fossil fuel companies over climate impact concerns. Hawaii Senior U.S. District Judge Helen Gillmor dismissed ",
-    "tags": [
-      "Energy",
-      "Regulation"
-    ],
+    "severity": "critical",
+    "content": "Democrat demands RFK Jr. insist on Trump mental fitness test, invoke 25th Amendment. Rep. Mark Takano (D-Calif.) grilled Health and Human Services Secretary Robert F. Kennedy Jr. about President Trump's mental fitness Friday, pressing him about some of Trump's recent social media posts. During a Friday hearing in the H",
+    "tags": [],
     "tickers": [
-      "AMZN",
-      "XOM",
-      "FSLR",
-      "ENPH",
-      "XLE"
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL",
+      "BTC"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/state-watch/5836434-hawaii-climate-lawsuit-fossil-fuels/",
-    "published_iso": "2026-04-17T15:40:52+00:00",
-    "time_ago": "55m ago"
+    "url": "https://thehill.com/homenews/house/5836509-takano-challenges-kennedy-trump-health/",
+    "published_iso": "2026-04-17T17:26:37+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "857cf5386845",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Kevin Warsh is refusing to disclose more than $100 million of his assets. Totally unprecedented.\n \nWarsh needs to release this information now. What is he hiding?",
+    "tags": [],
+    "tickers": [
+      "AMZN",
+      "GOOGL",
+      "AAPL",
+      "META",
+      "BTC"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjpffnjrac2z",
+    "published_iso": "2026-04-17T16:57:14.062000+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "e84541b8a3a3",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "In Nevada, President Trump Celebrates No Tax on Tips \u2014 Delivering Real Money to Working Americans. President Donald J. Trump returned yesterday to the birthplace of his signature No Tax on Tips policy to highlight its massive success and the transformative impact of the largest tax cuts in American history. Standing wi",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL",
+      "LMT"
+    ],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/04/in-nevada-president-trump-celebrates-no-tax-on-tips-real-money-to-working-americans/",
+    "published_iso": "2026-04-17T16:16:15+00:00",
+    "time_ago": "3h ago"
   },
   {
     "id": "9da1a43e4c40",
@@ -132,110 +328,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2026/opening-statement-ambassador-jamieson-greer-house-appropriations-committee",
     "published_iso": "2026-04-17T15:30:48+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "fb827e0cb127",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Fraud reform must target criminals, not cut off disability care. The Trump administration is making rooting out fraud in social safety net programs a top priority, but it is essential to ensure that people with disabilities are not harmed in the process and that the government's response is precise and targeted",
-    "tags": [],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL",
-      "BTC"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/congress-blog/5835221-trump-fraud-reform-safety-net/",
-    "published_iso": "2026-04-17T15:30:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "b14dfa4283df",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Colbert releases Pope Leo diss track toward Trump inspired by Kendrick Lamar. Stephen Colbert, the host of CBS\u2019 \u201cThe Late Show,\u201d released on Friday a Kendrick Lamar-inspired diss track against President Trump that included a depiction of Pope Leo XIV.\u00a0 The diss track, called \u201cThey not pious\u201d and set to Kendrick Lamar\u2019s",
-    "tags": [],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL",
-      "BTC"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5836360-colbert-trump-diss-track/",
-    "published_iso": "2026-04-17T15:22:03+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "2392b657f7ac",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Collins, Tillis signal shift on Trump war powers if Iran war hits 60-day mark. Two Senate Republicans who previously rejected Democratic-led efforts to curb President Trump\u2019s ability to continue the military action against Iran without obtaining congressional approval signaled this week that their view on war powers co",
-    "tags": [
-      "Defense",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD",
-      "XOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5836355-collins-tillis-trump-iran-war-powers-resolution/",
-    "published_iso": "2026-04-17T15:21:13+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "51392190c8df",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Stock market jumps after Israel-Lebanon ceasefire, Hormuz opening. The stock market saw a boost after the opening bell Friday morning, after a 10-day ceasefire between Israel and Lebanon took effect and Iran declared the Strait of Hormuz \u201ccompletely open.\u201d The S&#38;P 500 was up 1.1 percent, and the Nasdaq Composite ro",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/5836336-stock-market-boost-israel-lebanon/",
-    "published_iso": "2026-04-17T15:20:45+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "ab9c6a2e8d6c",
@@ -253,13 +346,15 @@
       "Taxes"
     ],
     "tickers": [
-      "META"
+      "UNH",
+      "HCA",
+      "CVS"
     ],
     "source": "bluesky",
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mjp5prhmts23",
     "published_iso": "2026-04-17T14:39:43.787000+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "e7e92f079fc6",
@@ -284,7 +379,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mjoz2ob3xc2u",
     "published_iso": "2026-04-17T13:16:19.756000+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "5f6ce1fbf4b7",
@@ -311,7 +406,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mjoz2nahz22u",
     "published_iso": "2026-04-17T13:16:19.755000+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "44b3c3140230",
@@ -335,7 +430,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/gallery/2026/04/17/the-nations-cartoonists-on-the-week-in-politics-00878255",
     "published_iso": "2026-04-17T09:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "b9cc87889db7",
@@ -351,17 +446,12 @@
     "tags": [
       "Regulation"
     ],
-    "tickers": [
-      "XOM",
-      "FSLR",
-      "ENPH",
-      "XLE"
-    ],
+    "tickers": [],
     "source": "govtrack",
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h124?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-17T06:07:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "903fee790e64",
@@ -377,17 +467,12 @@
     "tags": [
       "Taxes"
     ],
-    "tickers": [
-      "XOM",
-      "FSLR",
-      "ENPH",
-      "XLE"
-    ],
+    "tickers": [],
     "source": "govtrack",
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h123?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-17T05:22:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "ad283029e430",
@@ -403,17 +488,12 @@
     "tags": [
       "Regulation"
     ],
-    "tickers": [
-      "XOM",
-      "FSLR",
-      "ENPH",
-      "XLE"
-    ],
+    "tickers": [],
     "source": "govtrack",
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h122?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-17T05:13:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "923fefe9e5eb",
@@ -437,7 +517,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/video/2026/04/16/why-steve-hilton-thinks-he-can-turn-california-red-2014381",
     "published_iso": "2026-04-17T03:59:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "3b98d299bd0d",
@@ -453,17 +533,12 @@
     "tags": [
       "Regulation"
     ],
-    "tickers": [
-      "GOOGL",
-      "AMZN",
-      "META",
-      "AAPL"
-    ],
+    "tickers": [],
     "source": "federal_register",
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07601/schedule-of-fees-for-consular-services-fee-for-administrative-processing-of-request-for-certificate",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "34bf54a51349",
@@ -477,17 +552,12 @@
     "severity": "medium",
     "content": "House Falls in Marine Terminals. OSHA is finalizing the revocation of the agency's House Falls in Marine Terminals Standard",
     "tags": [],
-    "tickers": [
-      "GOOGL",
-      "AMZN",
-      "META",
-      "AAPL"
-    ],
+    "tickers": [],
     "source": "federal_register",
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07600/house-falls-in-marine-terminals",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "d23f8954846f",
@@ -504,17 +574,12 @@
       "Regulation",
       "Taxes"
     ],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "META",
-      "AAPL"
-    ],
+    "tickers": [],
     "source": "federal_register",
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07585/settlement-policy-for-small-unmanned-aircraft-system-uas-cases",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "cc0a8f367a35",
@@ -530,17 +595,12 @@
     "tags": [
       "Taxes"
     ],
-    "tickers": [
-      "GOOGL",
-      "AMZN",
-      "META",
-      "AAPL"
-    ],
+    "tickers": [],
     "source": "federal_register",
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07571/amendment-of-class-e5-airspace-over-elizabeth-city-nc",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "97933daa1321",
@@ -558,18 +618,12 @@
       "Healthcare",
       "Regulation"
     ],
-    "tickers": [
-      "META",
-      "LLY",
-      "PFE",
-      "JNJ",
-      "MRK"
-    ],
+    "tickers": [],
     "source": "federal_register",
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07560/methoxyfenozide-pesticide-tolerances",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "1f6bf96da018",
@@ -586,17 +640,12 @@
       "Trade",
       "Regulation"
     ],
-    "tickers": [
-      "GOOGL",
-      "AMZN",
-      "META",
-      "AAPL"
-    ],
+    "tickers": [],
     "source": "federal_register",
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07536/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-geophysical-surveys-in-the",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "3354ace02b33",
@@ -613,17 +662,12 @@
       "Trade",
       "Regulation"
     ],
-    "tickers": [
-      "GOOGL",
-      "AMZN",
-      "META",
-      "AAPL"
-    ],
+    "tickers": [],
     "source": "federal_register",
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07535/eliminating-outdated-regulation-related-to-reports-on-exports-of-technology",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "bd9e52eeb6c7",
@@ -637,42 +681,12 @@
     "severity": "medium",
     "content": "Air Plan Approval; Virginia; Amendment to the State Operating Permit for GP Big Island, LLC. The Environmental Protection Agency (EPA) is approving a state implementation plan (SIP) revision submitted on December 14, 2022, by the Commonwealth of Virginia's (Commonwealth or Virginia) Department of Environmental Quality ",
     "tags": [],
-    "tickers": [
-      "GOOGL",
-      "AMZN",
-      "META",
-      "AAPL"
-    ],
+    "tickers": [],
     "source": "federal_register",
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07527/air-plan-approval-virginia-amendment-to-the-state-operating-permit-for-gp-big-island-llc",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "16h ago"
-  },
-  {
-    "id": "0889b05f28f1",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "low",
-    "content": "www.huffpost.com/entry/survei...",
-    "tags": [],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META",
-      "BTC"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjngrrhjf22f",
-    "published_iso": "2026-04-16T22:16:34.512000+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "17608fe4f190",
@@ -697,7 +711,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mjnfpfy67223",
     "published_iso": "2026-04-16T21:57:22.212000+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "c52552ddf3f9",
@@ -715,40 +729,17 @@
       "Regulation"
     ],
     "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL",
+      "LMT"
     ],
     "source": "ustr",
     "platform": "USTR",
     "url": "https://ustr.gov/node/14307",
     "published_iso": "2026-04-16T20:47:09+00:00",
-    "time_ago": "19h ago"
-  },
-  {
-    "id": "0e4bde42ed06",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "high",
-    "content": "IT'S OFFICIAL: The House has passed our extension of TPS for Haiti.\n\nThis win wouldn't be possible without the strength & organizing of our movement to defend our Haitian neighbors.\n\nTo those in the #MA7 & beyond, this is for you.\n\nThe Senate must pick this up without delay.",
-    "tags": [],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META",
-      "BTC"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjn3nnwc5222",
-    "published_iso": "2026-04-16T18:57:26.008000+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "16c091fc6c53",
@@ -764,17 +755,12 @@
     "tags": [
       "Taxes"
     ],
-    "tickers": [
-      "XOM",
-      "FSLR",
-      "ENPH",
-      "XLE"
-    ],
+    "tickers": [],
     "source": "govtrack",
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h121?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-16T18:29:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "8e190775123f",
@@ -788,17 +774,12 @@
     "severity": "high",
     "content": "H.R. 1689: To require the Secretary of Homeland Security to designate Haiti for temporary protected status.. Vote: Passed 224/204",
     "tags": [],
-    "tickers": [
-      "XOM",
-      "FSLR",
-      "ENPH",
-      "XLE"
-    ],
+    "tickers": [],
     "source": "govtrack",
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h120?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-16T18:21:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "c81c6c9123fc",
@@ -817,16 +798,16 @@
       "Taxes"
     ],
     "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
+      "BTC",
+      "ETH",
+      "COIN",
+      "XRP"
     ],
     "source": "rss",
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-led-fences-act-clears-u-s-house/",
     "published_iso": "2026-04-16T18:07:32+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "8322bc96ae8e",
@@ -840,17 +821,12 @@
     "severity": "high",
     "content": "Motion to Invoke Cloture: Andrew B. Davis to be U.S. District Judge for the Western District of Texas: Andrew B. Davis, of Texas, to be United States District Judge for the Western District of Texas. Vote: Cloture Motion Agreed to 49/48",
     "tags": [],
-    "tickers": [
-      "XOM",
-      "FSLR",
-      "ENPH",
-      "XLE"
-    ],
+    "tickers": [],
     "source": "govtrack",
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s85?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-16T17:36:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "95b38a5bdb80",
@@ -866,17 +842,12 @@
     "tags": [
       "Regulation"
     ],
-    "tickers": [
-      "XOM",
-      "FSLR",
-      "ENPH",
-      "XLE"
-    ],
+    "tickers": [],
     "source": "govtrack",
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h119?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-16T16:43:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "e3e4a84d9705",
@@ -901,7 +872,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2026",
     "published_iso": "2026-04-16T16:37:21+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "186d037cfece",
@@ -915,12 +886,7 @@
     "severity": "high",
     "content": "H.R. 6398: RED Tape Act. Vote: Passed 222/205",
     "tags": [],
-    "tickers": [
-      "XOM",
-      "FSLR",
-      "ENPH",
-      "XLE"
-    ],
+    "tickers": [],
     "source": "govtrack",
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h118?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
@@ -988,10 +954,11 @@
       "Regulation"
     ],
     "tickers": [
-      "GOOGL",
       "AMZN",
+      "GOOGL",
+      "AAPL",
       "META",
-      "AAPL"
+      "BTC"
     ],
     "source": "rss",
     "platform": ".gov",
@@ -1065,10 +1032,10 @@
       "Banking"
     ],
     "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
     ],
     "source": "politico",
     "platform": "Politico",
@@ -1139,10 +1106,10 @@
       "Banking"
     ],
     "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
     ],
     "source": "politico",
     "platform": "Politico",
@@ -1274,11 +1241,11 @@
       "Taxes"
     ],
     "tickers": [
-      "AMZN",
-      "XOM",
-      "FSLR",
-      "ENPH",
-      "XLE"
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL",
+      "LMT"
     ],
     "source": "whitehouse",
     "platform": "White House",
@@ -1302,7 +1269,11 @@
       "Taxes"
     ],
     "tickers": [
-      "AMZN"
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL",
+      "LMT"
     ],
     "source": "whitehouse",
     "platform": "White House",
@@ -1352,40 +1323,16 @@
       "Taxes"
     ],
     "tickers": [
-      "AMZN",
-      "XOM",
-      "FSLR",
-      "ENPH",
-      "XLE"
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL",
+      "LMT"
     ],
     "source": "whitehouse",
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-enbridge-energy-company-inc-to-operate-and-maintain-existing-pipeline-facilities-at-st-clair-county-michigan-at-the-international-boundary-between-the-united-stat/",
     "published_iso": "2026-04-15T20:06:37+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "7fecbf6e53f6",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "Presidential Permit: Authorizing Bakken Pipeline Company LP to Operate and Maintain Existing Pipeline Facilities at Burke County, North Dakota, at the International Boundary Between the United States and Canada. By virtue of the authority vested in me as President of the&#160;United States of America (the &#8220;Presid",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "AMZN"
-    ],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-bakken-pipeline-company-lp-to-operate-and-maintain-existing-pipeline-facilities-at-burke-county-north-dakota-at-the-international-boundary-between-the-united-states/",
-    "published_iso": "2026-04-15T20:01:03+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -1413,7 +1360,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mjkhfosrwc2t",
     "published_iso": "2026-04-15T17:49:44.197000+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "d773df1a1b2c",
@@ -1432,17 +1379,16 @@
       "Taxes"
     ],
     "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD",
-      "GOOGL"
+      "BTC",
+      "ETH",
+      "COIN",
+      "XRP"
     ],
     "source": "rss",
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-cruz-file-amicus-brief-backing-trump-administrations-push-to-repeal-endangerment-finding/",
     "published_iso": "2026-04-15T17:31:26+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "fdeeaa4b42e4",
@@ -1467,7 +1413,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mjkerr3p7k2z",
     "published_iso": "2026-04-15T17:02:46.490000+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "851bd1cb918b",
@@ -1495,7 +1441,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mjkerpnbuc2z",
     "published_iso": "2026-04-15T17:02:46.489000+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "b312e5ca871a",
@@ -1576,7 +1522,7 @@
       "TSM",
       "QCOM",
       "AAPL",
-      "XOM"
+      "CORN"
     ],
     "source": "ustr",
     "platform": "USTR",
@@ -1628,7 +1574,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mji2iuvub22h",
     "published_iso": "2026-04-14T18:53:33.132000+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "3a2fd7089fad",
@@ -1649,14 +1595,13 @@
       "NVDA",
       "TSM",
       "QCOM",
-      "AAPL",
-      "XOM"
+      "AAPL"
     ],
     "source": "ustr",
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ambassador-greer-meets-blue-collar-workers-and-industry-leaders-while-touring-manufacturing-plants",
     "published_iso": "2026-04-13T17:54:33+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "986d61829572",
@@ -1733,10 +1678,10 @@
       "Taxes"
     ],
     "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
+      "BTC",
+      "ETH",
+      "COIN",
+      "XRP"
     ],
     "source": "rss",
     "platform": ".gov",
@@ -1766,7 +1711,7 @@
       "TSM",
       "QCOM",
       "AAPL",
-      "XOM"
+      "JPM"
     ],
     "source": "ustr",
     "platform": "USTR",
@@ -1817,17 +1762,16 @@
       "Taxes"
     ],
     "tickers": [
-      "XOM",
-      "FSLR",
-      "ENPH",
-      "XLE",
-      "LMT"
+      "BTC",
+      "ETH",
+      "COIN",
+      "XRP"
     ],
     "source": "rss",
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-introduces-legislation-to-codify-trumps-nuclear-baseload-energy-executive-orders/",
     "published_iso": "2026-03-26T18:12:45+00:00",
-    "time_ago": "21d ago"
+    "time_ago": "22d ago"
   },
   {
     "id": "77bf42f68ce3",
@@ -1869,10 +1813,11 @@
       "Energy"
     ],
     "tickers": [
-      "XOM",
-      "FSLR",
-      "ENPH",
-      "XLE"
+      "AMZN",
+      "GOOGL",
+      "AAPL",
+      "META",
+      "BTC"
     ],
     "source": "rss",
     "platform": ".gov",
@@ -1896,16 +1841,17 @@
       "Taxes"
     ],
     "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
+      "LLY",
+      "PFE",
+      "JNJ",
+      "MRK",
+      "UNH"
     ],
     "source": "rss",
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/news-sanders-welch-balint-statement-on-recent-ice-raids-in-south-burlington/",
     "published_iso": "2026-03-12T18:51:43+00:00",
-    "time_ago": "35d ago"
+    "time_ago": "36d ago"
   },
   {
     "id": "3c2b4ad7a11c",
@@ -1924,11 +1870,11 @@
       "Taxes"
     ],
     "tickers": [
-      "XOM",
-      "FSLR",
-      "ENPH",
-      "XLE",
-      "LMT"
+      "LLY",
+      "PFE",
+      "JNJ",
+      "MRK",
+      "UNH"
     ],
     "source": "rss",
     "platform": ".gov",
@@ -2032,10 +1978,11 @@
       "Taxes"
     ],
     "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
+      "BTC",
+      "ETH",
+      "COIN",
+      "GLD",
+      "TLT"
     ],
     "source": "rss",
     "platform": ".gov",
@@ -2058,7 +2005,11 @@
       "Big Tech"
     ],
     "tickers": [
-      "AAPL"
+      "AMZN",
+      "GOOGL",
+      "AAPL",
+      "META",
+      "BTC"
     ],
     "source": "bluesky",
     "platform": "Bluesky",
@@ -2114,7 +2065,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/aoc.bsky.social/post/3mfhthlg3u22x",
     "published_iso": "2026-02-22T19:06:46.919000+00:00",
-    "time_ago": "53d ago"
+    "time_ago": "54d ago"
   },
   {
     "id": "602146d3f751",
@@ -2132,16 +2083,17 @@
       "Taxes"
     ],
     "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
+      "BTC",
+      "ETH",
+      "COIN",
+      "GLD",
+      "TLT"
     ],
     "source": "rss",
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-announces-2026-service-academy-nominations/",
     "published_iso": "2026-02-18T19:38:51+00:00",
-    "time_ago": "57d ago"
+    "time_ago": "58d ago"
   },
   {
     "id": "4e65a0b18499",
@@ -2166,7 +2118,7 @@
     "platform": ".gov",
     "url": "http://ocasio-cortez.house.gov/node/727",
     "published_iso": "2026-02-03T16:58:37+00:00",
-    "time_ago": "72d ago"
+    "time_ago": "73d ago"
   },
   {
     "id": "79af8a04fb57",
@@ -2184,10 +2136,11 @@
       "Taxes"
     ],
     "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
+      "LLY",
+      "PFE",
+      "JNJ",
+      "MRK",
+      "UNH"
     ],
     "source": "rss",
     "platform": ".gov",
@@ -2213,15 +2166,13 @@
     "tickers": [
       "UNH",
       "HCA",
-      "CVS",
-      "LMT",
-      "RTX"
+      "CVS"
     ],
     "source": "rss",
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "84d ago"
+    "time_ago": "85d ago"
   },
   {
     "id": "d39ac85b9cc9",
@@ -2239,10 +2190,11 @@
       "Taxes"
     ],
     "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
+      "BTC",
+      "ETH",
+      "COIN",
+      "GLD",
+      "TLT"
     ],
     "source": "rss",
     "platform": ".gov",
@@ -2266,10 +2218,11 @@
       "Taxes"
     ],
     "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
+      "BTC",
+      "ETH",
+      "COIN",
+      "GLD",
+      "TLT"
     ],
     "source": "rss",
     "platform": ".gov",
@@ -2293,16 +2246,17 @@
       "Taxes"
     ],
     "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
+      "BTC",
+      "ETH",
+      "COIN",
+      "GLD",
+      "TLT"
     ],
     "source": "rss",
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-paul-introduces-the-health-marketplace-and-savings-accounts-for-all-act/",
     "published_iso": "2025-12-04T18:58:25+00:00",
-    "time_ago": "133d ago"
+    "time_ago": "134d ago"
   },
   {
     "id": "ffca07a705ea",
@@ -2345,10 +2299,11 @@
       "Taxes"
     ],
     "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
+      "LLY",
+      "PFE",
+      "JNJ",
+      "MRK",
+      "UNH"
     ],
     "source": "rss",
     "platform": ".gov",
@@ -2527,7 +2482,7 @@
       "TSM",
       "AMD",
       "QCOM",
-      "XOM"
+      "GLD"
     ],
     "source": "rss",
     "platform": ".gov",
@@ -2551,10 +2506,11 @@
       "Banking"
     ],
     "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
+      "NVDA",
+      "TSM",
+      "AMD",
+      "QCOM",
+      "AAPL"
     ],
     "source": "rss",
     "platform": ".gov",
@@ -2582,39 +2538,14 @@
     "tickers": [
       "NVDA",
       "TSM",
+      "AMD",
       "QCOM",
-      "AAPL",
-      "LMT"
+      "AAPL"
     ],
     "source": "rss",
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10469",
     "published_iso": "2023-07-12T21:20:14+00:00",
-    "time_ago": "1009d ago"
-  },
-  {
-    "id": "06ebc00af517",
-    "politician": "Rep. Nancy Pelosi",
-    "initials": "NP",
-    "role": "House Democratic Leader",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "Celebrating an Investment in the Golden Gate Bridge. Celebrating an Investment in the Golden Gate Bridge \n\n   \n     \n      Image or Video     \n                   \n \n  \n  \n   \n     \n      Image     \n                     \n \n\n\n \n               \n\n \n \n               \n\n  admin  \n\n  Wed, 07/12/2023 - 17:19 \n \n\n   \n     \n     ",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
-    ],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "http://pelosi.house.gov/node/10468",
-    "published_iso": "2023-07-12T21:19:46+00:00",
     "time_ago": "1009d ago"
   }
 ]

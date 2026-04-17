@@ -271,26 +271,30 @@ TICKER_MAP = [
     (["google", "googl", "alphabet", "youtube", "waymo"],   ["GOOGL"]),
     (["apple", "aapl", "iphone", "app store", "tim cook"],  ["AAPL"]),
     (["microsoft", "msft", "azure", "openai", "copilot"],   ["MSFT"]),
-    (["meta", "facebook", "instagram", "whatsapp", "zuckerberg"], ["META"]),
+    # META: removed bare "meta" — too common in medical/scientific text (meta-analysis etc.)
+    (["meta platforms", "facebook", "instagram", "whatsapp", "zuckerberg"], ["META"]),
     (["nvidia", "nvda", "gpu", "ai chip", "jensen huang"],  ["NVDA"]),
-    (["tesla", "tsla", "elon musk", "elon", "spacex"],      ["TSLA"]),
-    (["palantir", "pltr"],                                   ["PLTR"]),
+    (["tesla", "tsla", "elon musk", "spacex"],              ["TSLA"]),
+    (["palantir", "pltr"],                                  ["PLTR"]),
     (["antitrust", "big tech", "monopol", "divestiture"],   ["AMZN", "GOOGL", "AAPL", "META"]),
     (["semiconductor", "chip", "tsmc", "taiwan"],           ["NVDA", "TSM", "AMD", "QCOM"]),
     (["china", "tariff", "trade war", "export ban"],        ["NVDA", "TSM", "QCOM", "AAPL"]),
     (["bitcoin", "btc", "crypto", "blockchain"],            ["BTC", "ETH", "COIN"]),
     (["stablecoin", "digital asset", "cbdc"],               ["BTC", "ETH", "COIN", "XRP"]),
     (["oil", "drilling", "petroleum", "opec"],              ["XOM", "CVX", "COP", "OXY"]),
-    (["energy", "clean energy", "solar", "wind", "climate"],["XOM", "FSLR", "ENPH", "XLE"]),
-    (["pharma", "drug", "insulin", "pfizer", "lilly"],      ["LLY", "PFE", "JNJ", "MRK"]),
-    (["healthcare", "hospital", "insurance", "medicaid"],   ["UNH", "HCA", "CVS"]),
+    # Removed bare "energy" — too generic (appears in "energy levels", "high energy" etc.)
+    (["clean energy", "solar", "wind power", "climate change", "renewable"], ["XOM", "FSLR", "ENPH", "XLE"]),
+    (["pharma", "pharmaceutical", "drug price", "insulin", "pfizer", "eli lilly"], ["LLY", "PFE", "JNJ", "MRK"]),
+    (["healthcare", "health care", "hospital", "health insurance", "medicaid", "medicare"], ["UNH", "HCA", "CVS"]),
     (["agriculture", "corn", "soybean", "grain", "farm"],   ["CORN", "SOYB", "DE"]),
-    (["bank", "banking", "wall street", "fed ", "interest rate"], ["JPM", "BAC", "GS", "XLF"]),
+    # Removed bare "bank" — too generic (blood bank, bank account in non-finance context)
+    (["banking", "wall street", "federal reserve", "interest rate", "jpmorgan", "goldman"], ["JPM", "BAC", "GS", "XLF"]),
     (["defense", "military", "weapon", "nato", "pentagon"], ["LMT", "RTX", "NOC", "GD"]),
-    (["steel", "aluminum", "metal", "manufacturing"],       ["X", "AA", "NUE"]),
+    (["steel", "aluminum", "manufacturing tariff"],         ["X", "AA", "NUE"]),
     (["sanction", "russia", "iran", "north korea"],         ["LMT", "RTX", "XOM"]),
-    (["regulation", "sec ", "ftc ", "doj "],                ["GOOGL", "AMZN", "META", "AAPL"]),
-    (["gold", "silver", "inflation", "bond", "treasury"],   ["GLD", "TLT", "SPY"]),
+    # Removed bare "regulation" — pulls tech stocks into healthcare/other regulatory posts
+    (["ftc", "antitrust investigation", "doj lawsuit", "tech monopoly"], ["GOOGL", "AMZN", "META", "AAPL"]),
+    (["gold", "silver", "inflation", "bond market", "treasury yield"], ["GLD", "TLT", "SPY"]),
     (["lockheed", "lmt"],                                   ["LMT"]),
     (["raytheon", "rtx"],                                   ["RTX"]),
     (["boeing"],                                            ["BA"]),
@@ -336,7 +340,20 @@ def guess_tickers(text: str) -> list:
     text_lower = text.lower()
     tickers = []
     for keywords, t in TICKER_MAP:
-        if any(k in text_lower for k in keywords):
+        matched = False
+        for k in keywords:
+            if ' ' in k:
+                # Multi-word phrase: simple substring is fine
+                if k in text_lower:
+                    matched = True
+                    break
+            else:
+                # Single word: require word boundary to avoid partial matches
+                # e.g. "meta" must not match "meta-analysis" or "metabolism"
+                if re.search(r'\b' + re.escape(k) + r'(?![\w-])', text_lower):
+                    matched = True
+                    break
+        if matched:
             tickers.extend(t)
     return list(dict.fromkeys(tickers))[:5]
 
