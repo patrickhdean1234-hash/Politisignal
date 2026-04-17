@@ -10,6 +10,8 @@ import json
 import os
 import hashlib
 import re
+import time
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from typing import Optional
 
@@ -76,7 +78,7 @@ POLITICIANS = [
         "role": "Senate Banking Committee",
         "color": {"bg": "#1b3a2a", "fg": "#4ade80"},
         "rss": "https://warren.senate.gov/rss/",           # verified working
-        "bluesky": "elizabethwarren.bsky.social",
+        "bluesky": "warren.senate.gov",
         "youtube_channel": "UCxqHrKEtEAFqLiUiD_zhbfQ",
         "truth_social": None,
         "keywords": ["antitrust", "big tech", "amazon", "google", "apple", "bank", "crypto", "wall street"],
@@ -87,7 +89,7 @@ POLITICIANS = [
         "role": "Senate HELP Committee",
         "color": {"bg": "#1e2a4a", "fg": "#818cf8"},
         "rss": "https://www.sanders.senate.gov/rss/",      # verified working
-        "bluesky": "sensanders.bsky.social",
+        "bluesky": "sanders.senate.gov",
         "youtube_channel": "UCH1dpzjCEqy3GFnDES5kCNw",
         "truth_social": None,
         "keywords": ["drug", "pharma", "healthcare", "medicare", "insulin", "price", "insurance"],
@@ -132,7 +134,7 @@ POLITICIANS = [
         "role": "House Democratic Leader",
         "color": {"bg": "#1e2a4a", "fg": "#60a5fa"},
         "rss": "https://pelosi.house.gov/rss.xml",          # verified working
-        "bluesky": "nancypelosi.bsky.social",
+        "bluesky": "pelosi.house.gov",
         "youtube_channel": None,
         "truth_social": None,
         "keywords": ["tech", "china", "semiconductor", "climate", "trade", "healthcare"],
@@ -176,7 +178,7 @@ POLITICIANS = [
         "role": "House Armed Services Committee",
         "color": {"bg": "#1a2a1a", "fg": "#86efac"},
         "rss": "https://khanna.house.gov/rss.xml",
-        "bluesky": "rokhanna.bsky.social",
+        "bluesky": "khanna.house.gov",
         "youtube_channel": None,
         "truth_social": None,
         "keywords": ["semiconductor", "tech", "china", "defense", "manufacturing", "ai"],
@@ -548,21 +550,24 @@ _SEC_GENERIC_WORDS = {
     "BANK", "HEALTH", "FINANCIAL", "SERVICES", "TECHNOLOGIES", "TECHNOLOGY",
 }
 
+_TRANSACTION_CODES = {
+    "P": "bought", "S": "sold", "A": "received",
+    "D": "disposed of", "M": "exercised options for",
+    "G": "gifted", "F": "withheld (tax)",
+}
+
 def _sec_ticker_for_company(company_upper: str) -> Optional[str]:
     """
     Find a known ticker symbol for a company name.
     Only returns a match when a distinctive (non-generic) keyword matches.
     """
-    # Strip common suffixes for cleaner matching
     clean = re.sub(r"[^\w\s]", "", company_upper).strip()
 
-    # Direct ticker symbol token check ("NVIDIA CORP" contains "NVDA" only if ticker appears)
     padded = f" {clean} "
     for sym in TICKER_NAMES:
         if f" {sym} " in padded:
             return sym
 
-    # Match against distinctive words from known company names (not generic business words)
     for sym, name in TICKER_NAMES.items():
         words = [
             w for w in re.sub(r"[^\w\s]", "", name).upper().split()
@@ -574,16 +579,63 @@ def _sec_ticker_for_company(company_upper: str) -> Optional[str]:
     return None
 
 
-def fetch_sec_edgar(source: dict, max_entries: int = 10) -> list:
+def _fetch_form4_transactions(reporter_cik: str, accno: str) -> list:
+    """
+    Fetch Form 4 XML for a given filer CIK + accession number.
+    Returns list of dicts: {"code": "P"|"S"|..., "shares": float, "price": float}
+    Returns [] on any failure.
+    """
+    try:
+        accno_nodash = accno.replace("-", "")
+        headers = {"User-Agent": "PolitiSignal/1.0 (hello@politisignal.com)"}
+
+        # Get the filing directory listing to find the XML filename
+        idx_url = f"https://www.sec.gov/Archives/edgar/data/{reporter_cik}/{accno_nodash}/"
+        r = requests.get(idx_url, headers=headers, timeout=8)
+        if r.status_code != 200:
+            return []
+
+        # Find XML file (exclude *-index.htm which is just the index)
+        xml_match = re.search(
+            r'href="(/Archives/edgar/data/[^"]+\.xml)"',
+            r.text
+        )
+        if not xml_match:
+            return []
+        xml_url = "https://www.sec.gov" + xml_match.group(1)
+
+        r2 = requests.get(xml_url, headers=headers, timeout=8)
+        if r2.status_code != 200:
+            return []
+
+        root = ET.fromstring(r2.text)
+        transactions = []
+        for txn in root.findall(".//nonDerivativeTransaction"):
+            code        = (txn.findtext("transactionCoding/transactionCode") or "").strip()
+            shares_text = txn.findtext("transactionAmounts/transactionShares/value") or ""
+            price_text  = txn.findtext("transactionAmounts/transactionPricePerShare/value") or ""
+            try:
+                shares = float(shares_text) if shares_text else 0.0
+                price  = float(price_text)  if price_text  else 0.0
+                if code and shares:
+                    transactions.append({"code": code, "shares": shares, "price": price})
+            except Exception:
+                pass
+        return transactions
+    except Exception:
+        return []
+
+
+def fetch_sec_edgar(source: dict, max_entries: int = 8) -> list:
     """
     Fetch SEC EDGAR Form 4 (insider transaction) filings and produce
-    clear, readable summaries.
+    clear, readable summaries: "Jane Smith sold 5,000 shares of Apple (AAPL) at $185.50/share"
 
     The EDGAR Atom feed emits TWO entries per Form 4:
       - "4 - PersonName (CIK) (Reporting)"  ← the insider who filed
       - "4 - CompanyName (CIK) (Issuer)"    ← the company whose stock was traded
 
-    We pair them by accession number to build a single, informative signal.
+    We pair them by accession number, then fetch the Form 4 XML for transaction details.
     """
     url = source.get("rss")
     if not url:
@@ -592,63 +644,83 @@ def fetch_sec_edgar(source: dict, max_entries: int = 10) -> list:
     try:
         feed = feedparser.parse(url, request_headers={"User-Agent": "PolitiSignal/1.0 (hello@politisignal.com)"})
 
-        # ── Group entry pairs by accession number ──
-        # Each Form 4 produces two entries sharing the same accession number:
-        #   "4 - PersonName (CIK) (Reporting)"  → the insider filer
-        #   "4 - CompanyName (CIK) (Issuer)"    → the company whose stock was traded
-        # The accession number lives in entry.id:
-        #   "urn:tag:sec.gov,2008:accession-number=0001104659-26-044619"
         filings: dict = {}
         for entry in feed.entries:
             title = entry.get("title", "")
             if not (title.startswith("4 - ") or title.startswith("4/A - ")):
                 continue
 
-            # Extract accession number from the id URN
             entry_id = entry.get("id", "")
-            if "accession-number=" in entry_id:
-                accno = entry_id.split("accession-number=")[-1].strip()
-            else:
+            if "accession-number=" not in entry_id:
                 continue
+            accno = entry_id.split("accession-number=")[-1].strip()
 
             if accno not in filings:
-                filings[accno] = {"reporter": None, "issuer": None, "entry": entry}
+                filings[accno] = {"reporter": None, "reporter_cik": None, "issuer": None, "entry": entry}
 
-            # Strip "4 - " or "4/A - " prefix, then strip trailing "(CIK) (Role)"
-            bare = re.sub(r"^4(?:/A)? - ", "", title)
+            bare      = re.sub(r"^4(?:/A)? - ", "", title)
             name_part = re.sub(r"\s*\(\d+\)\s*\(\w+\)\s*$", "", bare).strip()
+            cik_match = re.search(r"\((\d+)\)\s*\(\w+\)\s*$", title)
+            cik       = cik_match.group(1) if cik_match else None
 
             if "(Reporting)" in title:
-                filings[accno]["reporter"] = name_part
+                filings[accno]["reporter"]     = name_part
+                filings[accno]["reporter_cik"] = cik
             elif "(Issuer)" in title:
                 filings[accno]["issuer"] = name_part
 
-        # ── Build signals from paired filings ──
         for accno, data in list(filings.items())[:max_entries]:
-            reporter = data.get("reporter")
-            issuer   = data.get("issuer")
-            entry    = data["entry"]
+            reporter     = data.get("reporter")
+            reporter_cik = data.get("reporter_cik")
+            issuer       = data.get("issuer")
+            entry        = data["entry"]
             if not reporter or not issuer:
                 continue
 
-            filer        = reporter.title()   # ALL CAPS → Title Case
-            company      = issuer.title()
+            filer         = reporter.title()
+            company       = issuer.title()
             company_upper = issuer.upper()
+            ticker        = _sec_ticker_for_company(company_upper)
+            ticker_str    = f" ({ticker})" if ticker else ""
 
-            ticker     = _sec_ticker_for_company(company_upper)
-            ticker_str = f" ({ticker})" if ticker else ""
+            # Fetch actual transaction details from Form 4 XML
+            transactions = []
+            if reporter_cik:
+                time.sleep(0.3)  # be polite to SEC servers
+                transactions = _fetch_form4_transactions(reporter_cik, accno)
 
-            # Date from summary HTML: "<b>Filed:</b> 2026-04-17 ..."
+            # Date from summary HTML
             date_match = re.search(r"Filed:</b>\s*([\d-]+)", entry.get("summary", ""))
-            date_str   = f" on {date_match.group(1)}" if date_match else ""
+            date_str   = date_match.group(1) if date_match else ""
+            if date_str:
+                try:
+                    d = datetime.strptime(date_str, "%Y-%m-%d")
+                    date_str = d.strftime("%b %-d")
+                except Exception:
+                    pass
 
-            content = (
-                f"{filer} filed an SEC Form 4 insider transaction report for "
-                f"{company}{ticker_str}{date_str}. "
-                f"Click to view transaction type, share count, and price on SEC EDGAR."
-            )
+            if transactions:
+                txn     = transactions[0]
+                action  = _TRANSACTION_CODES.get(txn["code"], "traded")
+                shares  = txn["shares"]
+                price   = txn["price"]
+                shares_fmt = f"{shares:,.0f}"
+                content = f"{filer} {action} {shares_fmt} shares of {company}{ticker_str}"
+                if price:
+                    content += f" · ${price:,.2f}/share"
+                if date_str:
+                    content += f" · {date_str}"
+                # If multiple transactions (e.g. two sell blocks), note it
+                if len(transactions) > 1:
+                    total_shares = sum(t["shares"] for t in transactions)
+                    if total_shares != shares:
+                        content += f" ({total_shares:,.0f} total)"
+            else:
+                # Fallback when XML fetch fails
+                content = f"{filer} filed Form 4 for {company}{ticker_str}"
+                if date_str:
+                    content += f" · {date_str}"
 
-            # Use updated_parsed (published is None for EDGAR entries)
             published = None
             parsed = getattr(entry, "updated_parsed", None) or getattr(entry, "published_parsed", None)
             if parsed:
