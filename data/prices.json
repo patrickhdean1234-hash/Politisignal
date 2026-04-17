@@ -1,507 +1,248 @@
 {
   "SPY": {
-<<<<<<< HEAD
-    "price": 710.81,
-    "change_pct": 1.3,
+    "price": 711.64,
+    "change_pct": 1.42,
     "name": "S&P 500 ETF",
-    "_updated": "2026-04-17T14:44:15.299667+00:00"
+    "_updated": "2026-04-17T16:30:21.721150+00:00"
   },
   "QQQ": {
-    "price": 648.78,
-    "change_pct": 1.3,
+    "price": 649.5,
+    "change_pct": 1.41,
     "name": "Nasdaq 100 ETF",
-    "_updated": "2026-04-17T14:44:15.300095+00:00"
+    "_updated": "2026-04-17T16:30:21.721460+00:00"
   },
   "DIA": {
-    "price": 495.85,
-    "change_pct": 2.1,
+    "price": 496.39,
+    "change_pct": 2.22,
     "name": "Dow Jones ETF",
-    "_updated": "2026-04-17T14:44:15.300532+00:00"
+    "_updated": "2026-04-17T16:30:21.721732+00:00"
   },
   "IWM": {
-    "price": 277.0,
-    "change_pct": 2.61,
+    "price": 277.32,
+    "change_pct": 2.73,
     "name": "Russell 2000 ETF",
-    "_updated": "2026-04-17T14:44:15.300953+00:00"
+    "_updated": "2026-04-17T16:30:21.721995+00:00"
   },
   "AAPL": {
-    "price": 269.87,
-    "change_pct": 2.46,
+    "price": 271.63,
+    "change_pct": 3.12,
     "name": "Apple Inc.",
-    "_updated": "2026-04-17T14:44:15.301351+00:00"
+    "_updated": "2026-04-17T16:30:21.722240+00:00"
   },
   "MSFT": {
-    "price": 428.3,
-    "change_pct": 1.91,
+    "price": 428.63,
+    "change_pct": 1.99,
     "name": "Microsoft Corp.",
-    "_updated": "2026-04-17T14:44:15.301763+00:00"
+    "_updated": "2026-04-17T16:30:21.722548+00:00"
   },
   "GOOGL": {
-    "price": 337.4,
-    "change_pct": 0.41,
+    "price": 338.9,
+    "change_pct": 0.86,
     "name": "Alphabet Inc.",
-    "_updated": "2026-04-17T14:44:15.302144+00:00"
+    "_updated": "2026-04-17T16:30:21.722794+00:00"
   },
   "AMZN": {
-    "price": 255.48,
-    "change_pct": 2.31,
+    "price": 253.29,
+    "change_pct": 1.44,
     "name": "Amazon.com",
-    "_updated": "2026-04-17T14:44:15.302594+00:00"
+    "_updated": "2026-04-17T16:30:21.723157+00:00"
   },
   "META": {
-    "price": 686.12,
-    "change_pct": 1.37,
+    "price": 684.78,
+    "change_pct": 1.17,
     "name": "Meta Platforms",
-    "_updated": "2026-04-17T14:44:15.303048+00:00"
+    "_updated": "2026-04-17T16:30:21.723543+00:00"
   },
   "NVDA": {
-    "price": 200.54,
-    "change_pct": 1.11,
-    "name": "NVIDIA Corp.",
-    "_updated": "2026-04-17T14:44:15.303414+00:00"
-  },
-  "TSLA": {
-    "price": 401.33,
-    "change_pct": 3.2,
-    "name": "Tesla Inc.",
-    "_updated": "2026-04-17T14:44:15.303824+00:00"
-  },
-  "JPM": {
-    "price": 313.18,
-    "change_pct": 1.04,
-    "name": "JPMorgan Chase",
-    "_updated": "2026-04-17T14:44:15.304187+00:00"
-  },
-  "BAC": {
-    "price": 54.31,
-    "change_pct": 1.5,
-    "name": "Bank of America",
-    "_updated": "2026-04-17T14:44:15.304586+00:00"
-  },
-  "GS": {
-    "price": 925.16,
-    "change_pct": 2.8,
-    "name": "Goldman Sachs",
-    "_updated": "2026-04-17T14:44:15.304940+00:00"
-  },
-  "XOM": {
-    "price": 142.08,
-    "change_pct": -6.51,
-    "name": "Exxon Mobil",
-    "_updated": "2026-04-17T14:44:15.305293+00:00"
-  },
-  "CVX": {
-    "price": 177.91,
-    "change_pct": -5.44,
-    "name": "Chevron Corp.",
-    "_updated": "2026-04-17T14:44:15.305677+00:00"
-  },
-  "LMT": {
-    "price": 605.04,
-    "change_pct": -0.4,
-    "name": "Lockheed Martin",
-    "_updated": "2026-04-17T14:44:15.306048+00:00"
-  },
-  "RTX": {
-    "price": 199.31,
-    "change_pct": 1.77,
-    "name": "RTX Corp.",
-    "_updated": "2026-04-17T14:44:15.306401+00:00"
-  },
-  "NOC": {
-    "price": 675.1,
-    "change_pct": 0.35,
-    "name": "Northrop Grumman",
-    "_updated": "2026-04-17T14:44:15.306806+00:00"
-  },
-  "LLY": {
-    "price": 928.26,
-    "change_pct": 2.68,
-    "name": "Eli Lilly",
-    "_updated": "2026-04-17T14:44:15.307161+00:00"
-  },
-  "PFE": {
-    "price": 27.36,
-    "change_pct": 0.51,
-    "name": "Pfizer Inc.",
-    "_updated": "2026-04-17T14:44:15.307560+00:00"
-  },
-  "JNJ": {
-    "price": 234.08,
-    "change_pct": -0.2,
-    "name": "Johnson & Johnson",
-    "_updated": "2026-04-17T14:44:15.307924+00:00"
-  },
-  "BTC": {
-    "price": 77972.0,
-    "change_pct": 3.75,
-    "name": "Bitcoin",
-    "_updated": "2026-04-17T14:44:15.308271+00:00"
-  },
-  "ETH": {
-    "price": 2447.36,
-    "change_pct": 4.2,
-    "name": "Ethereum",
-    "_updated": "2026-04-17T14:44:15.308650+00:00"
-  },
-  "GLD": {
-    "price": 447.92,
-    "change_pct": 1.78,
-    "name": "Gold ETF",
-    "_updated": "2026-04-17T14:44:15.309013+00:00"
-  },
-  "TLT": {
-    "price": 87.11,
-    "change_pct": 0.97,
-    "name": "20yr Treasury ETF",
-    "_updated": "2026-04-17T14:44:15.309362+00:00"
-  },
-  "PLTR": {
-    "price": 147.61,
-    "change_pct": 3.4,
-    "name": "Palantir Technologies",
-    "_updated": "2026-04-17T14:44:15.309741+00:00"
-  },
-  "COIN": {
-    "price": 214.42,
-    "change_pct": 7.3,
-    "name": "Coinbase Global",
-    "_updated": "2026-04-17T14:44:15.310096+00:00"
-  },
-  "TSM": {
-    "price": 372.01,
-    "change_pct": 2.38,
-    "name": "Taiwan Semiconductor",
-    "_updated": "2026-04-17T14:44:15.310470+00:00"
-  },
-  "QCOM": {
-    "price": 136.51,
-    "change_pct": 1.52,
-    "name": "Qualcomm Inc.",
-    "_updated": "2026-04-17T14:44:15.310848+00:00"
-  },
-  "FSLR": {
-    "price": 192.77,
-    "change_pct": 0.58,
-    "name": "First Solar",
-    "_updated": "2026-04-17T14:44:15.311206+00:00"
-  },
-  "ENPH": {
-    "price": 32.97,
-    "change_pct": 3.16,
-    "name": "Enphase Energy",
-    "_updated": "2026-04-17T14:44:15.311587+00:00"
-  },
-  "XLE": {
-    "price": 53.48,
-    "change_pct": -5.47,
-    "name": "Energy Select ETF",
-    "_updated": "2026-04-17T14:44:15.311937+00:00"
-  },
-  "MRK": {
-    "price": 117.06,
-    "change_pct": 1.38,
-    "name": "Merck & Co.",
-    "_updated": "2026-04-17T14:44:15.312294+00:00"
-  },
-  "AMD": {
-    "price": 278.54,
-    "change_pct": 0.1,
-    "name": "Advanced Micro Devices",
-    "_updated": "2026-04-17T14:44:15.312674+00:00"
-  },
-  "GD": {
-    "price": 337.33,
-    "change_pct": 0.72,
-    "name": "General Dynamics",
-    "_updated": "2026-04-17T14:44:15.313031+00:00"
-  },
-  "XLF": {
-    "price": 52.76,
-    "change_pct": 1.41,
-    "name": "Financial Select ETF",
-    "_updated": "2026-04-17T14:44:15.313380+00:00"
-  },
-  "UNH": {
-    "price": 322.86,
-    "change_pct": 2.04,
-    "name": "UnitedHealth Group",
-    "_updated": "2026-04-17T14:44:15.313772+00:00"
-  },
-  "HCA": {
-    "price": 491.01,
-    "change_pct": 1.66,
-    "name": "HCA Healthcare",
-    "_updated": "2026-04-17T14:44:15.314119+00:00"
-  },
-  "CVS": {
-    "price": 76.71,
-    "change_pct": -0.1,
-    "name": "CVS Health",
-    "_updated": "2026-04-17T14:44:15.314491+00:00"
-  },
-  "XRP": {
-    "price": 1.5,
-    "change_pct": 3.25,
-    "name": "XRP / Ripple",
-    "_updated": "2026-04-17T14:44:15.314848+00:00"
-  },
-  "COP": {
-    "price": 112.38,
-    "change_pct": -7.56,
-    "name": "ConocoPhillips",
-    "_updated": "2026-04-17T14:44:15.315225+00:00"
-  },
-  "OXY": {
-    "price": 52.11,
-    "change_pct": -8.37,
-    "name": "Occidental Petroleum",
-    "_updated": "2026-04-17T14:44:15.315624+00:00"
-=======
-    "price": 711.47,
-    "change_pct": 1.4,
-    "name": "S&P 500 ETF",
-    "_updated": "2026-04-17T16:27:56.823792+00:00"
-  },
-  "QQQ": {
-    "price": 649.27,
-    "change_pct": 1.37,
-    "name": "Nasdaq 100 ETF",
-    "_updated": "2026-04-17T16:27:56.824076+00:00"
-  },
-  "DIA": {
-    "price": 496.36,
-    "change_pct": 2.21,
-    "name": "Dow Jones ETF",
-    "_updated": "2026-04-17T16:27:56.824340+00:00"
-  },
-  "IWM": {
-    "price": 277.2,
-    "change_pct": 2.69,
-    "name": "Russell 2000 ETF",
-    "_updated": "2026-04-17T16:27:56.824589+00:00"
-  },
-  "AAPL": {
-    "price": 271.58,
-    "change_pct": 3.1,
-    "name": "Apple Inc.",
-    "_updated": "2026-04-17T16:27:56.824824+00:00"
-  },
-  "MSFT": {
-    "price": 428.57,
-    "change_pct": 1.98,
-    "name": "Microsoft Corp.",
-    "_updated": "2026-04-17T16:27:56.825072+00:00"
-  },
-  "GOOGL": {
-    "price": 338.87,
-    "change_pct": 0.85,
-    "name": "Alphabet Inc.",
-    "_updated": "2026-04-17T16:27:56.825322+00:00"
-  },
-  "AMZN": {
-    "price": 253.23,
-    "change_pct": 1.41,
-    "name": "Amazon.com",
-    "_updated": "2026-04-17T16:27:56.825559+00:00"
-  },
-  "META": {
-    "price": 684.15,
-    "change_pct": 1.07,
-    "name": "Meta Platforms",
-    "_updated": "2026-04-17T16:27:56.825784+00:00"
-  },
-  "NVDA": {
-    "price": 200.69,
+    "price": 200.7,
     "change_pct": 1.18,
     "name": "NVIDIA Corp.",
-    "_updated": "2026-04-17T16:27:56.826231+00:00"
+    "_updated": "2026-04-17T16:30:21.724150+00:00"
   },
   "TSLA": {
-    "price": 407.43,
-    "change_pct": 4.76,
+    "price": 407.25,
+    "change_pct": 4.72,
     "name": "Tesla Inc.",
-    "_updated": "2026-04-17T16:27:56.826458+00:00"
+    "_updated": "2026-04-17T16:30:21.724426+00:00"
   },
   "JPM": {
-    "price": 313.4,
-    "change_pct": 1.11,
+    "price": 313.45,
+    "change_pct": 1.13,
     "name": "JPMorgan Chase",
-    "_updated": "2026-04-17T16:27:56.826669+00:00"
+    "_updated": "2026-04-17T16:30:21.724653+00:00"
   },
   "BAC": {
-    "price": 54.38,
-    "change_pct": 1.64,
+    "price": 54.4,
+    "change_pct": 1.66,
     "name": "Bank of America",
-    "_updated": "2026-04-17T16:27:56.826876+00:00"
+    "_updated": "2026-04-17T16:30:21.724870+00:00"
   },
   "GS": {
-    "price": 925.79,
-    "change_pct": 2.87,
+    "price": 925.76,
+    "change_pct": 2.86,
     "name": "Goldman Sachs",
-    "_updated": "2026-04-17T16:27:56.827105+00:00"
+    "_updated": "2026-04-17T16:30:21.725079+00:00"
   },
   "XOM": {
-    "price": 144.26,
-    "change_pct": -5.08,
+    "price": 144.49,
+    "change_pct": -4.93,
     "name": "Exxon Mobil",
-    "_updated": "2026-04-17T16:27:56.827324+00:00"
+    "_updated": "2026-04-17T16:30:21.725289+00:00"
   },
   "CVX": {
-    "price": 181.03,
-    "change_pct": -3.78,
+    "price": 181.28,
+    "change_pct": -3.65,
     "name": "Chevron Corp.",
-    "_updated": "2026-04-17T16:27:56.827534+00:00"
+    "_updated": "2026-04-17T16:30:21.725501+00:00"
   },
   "LMT": {
-    "price": 595.8,
-    "change_pct": -1.92,
+    "price": 595.69,
+    "change_pct": -1.94,
     "name": "Lockheed Martin",
-    "_updated": "2026-04-17T16:27:56.827738+00:00"
+    "_updated": "2026-04-17T16:30:21.725714+00:00"
   },
   "RTX": {
-    "price": 197.82,
-    "change_pct": 1.01,
+    "price": 197.89,
+    "change_pct": 1.04,
     "name": "RTX Corp.",
-    "_updated": "2026-04-17T16:27:56.827942+00:00"
+    "_updated": "2026-04-17T16:30:21.725920+00:00"
   },
   "NOC": {
-    "price": 668.74,
-    "change_pct": -0.6,
+    "price": 668.99,
+    "change_pct": -0.56,
     "name": "Northrop Grumman",
-    "_updated": "2026-04-17T16:27:56.828144+00:00"
+    "_updated": "2026-04-17T16:30:21.726124+00:00"
   },
   "LLY": {
-    "price": 924.21,
-    "change_pct": 2.24,
+    "price": 923.34,
+    "change_pct": 2.14,
     "name": "Eli Lilly",
-    "_updated": "2026-04-17T16:27:56.828341+00:00"
+    "_updated": "2026-04-17T16:30:21.726362+00:00"
   },
   "PFE": {
-    "price": 27.64,
-    "change_pct": 1.52,
+    "price": 27.63,
+    "change_pct": 1.51,
     "name": "Pfizer Inc.",
-    "_updated": "2026-04-17T16:27:56.828585+00:00"
+    "_updated": "2026-04-17T16:30:21.726569+00:00"
   },
   "JNJ": {
-    "price": 234.98,
-    "change_pct": 0.19,
+    "price": 234.9,
+    "change_pct": 0.15,
     "name": "Johnson & Johnson",
-    "_updated": "2026-04-17T16:27:56.828804+00:00"
+    "_updated": "2026-04-17T16:30:21.727073+00:00"
   },
   "BTC": {
-    "price": 78200.0,
+    "price": 78206.25,
     "change_pct": 4.06,
     "name": "Bitcoin",
-    "_updated": "2026-04-17T16:27:56.829011+00:00"
+    "_updated": "2026-04-17T16:30:21.727799+00:00"
   },
   "ETH": {
-    "price": 2455.81,
-    "change_pct": 4.56,
+    "price": 2454.41,
+    "change_pct": 4.5,
     "name": "Ethereum",
-    "_updated": "2026-04-17T16:27:56.829243+00:00"
+    "_updated": "2026-04-17T16:30:21.728381+00:00"
   },
   "GLD": {
-    "price": 447.38,
-    "change_pct": 1.66,
+    "price": 447.23,
+    "change_pct": 1.62,
     "name": "Gold ETF",
-    "_updated": "2026-04-17T16:27:56.829515+00:00"
+    "_updated": "2026-04-17T16:30:21.728777+00:00"
   },
   "TLT": {
-    "price": 87.17,
-    "change_pct": 1.03,
+    "price": 87.15,
+    "change_pct": 1.01,
     "name": "20yr Treasury ETF",
-    "_updated": "2026-04-17T16:27:56.829729+00:00"
+    "_updated": "2026-04-17T16:30:21.729003+00:00"
   },
   "PLTR": {
-    "price": 146.94,
-    "change_pct": 2.93,
+    "price": 147.04,
+    "change_pct": 3.0,
     "name": "Palantir Technologies",
-    "_updated": "2026-04-17T16:27:56.829947+00:00"
+    "_updated": "2026-04-17T16:30:21.729215+00:00"
   },
   "COIN": {
-    "price": 213.56,
-    "change_pct": 6.87,
+    "price": 213.48,
+    "change_pct": 6.83,
     "name": "Coinbase Global",
-    "_updated": "2026-04-17T16:27:56.830154+00:00"
+    "_updated": "2026-04-17T16:30:21.729424+00:00"
   },
   "MRK": {
-    "price": 117.75,
-    "change_pct": 1.99,
+    "price": 117.74,
+    "change_pct": 1.97,
     "name": "Merck & Co.",
-    "_updated": "2026-04-17T16:27:56.830364+00:00"
+    "_updated": "2026-04-17T16:30:21.729664+00:00"
   },
   "TSM": {
-    "price": 368.6,
-    "change_pct": 1.44,
+    "price": 368.87,
+    "change_pct": 1.52,
     "name": "Taiwan Semiconductor",
-    "_updated": "2026-04-17T16:27:56.830573+00:00"
+    "_updated": "2026-04-17T16:30:21.729876+00:00"
   },
   "QCOM": {
-    "price": 136.65,
-    "change_pct": 1.62,
+    "price": 136.81,
+    "change_pct": 1.74,
     "name": "Qualcomm Inc.",
-    "_updated": "2026-04-17T16:27:56.830909+00:00"
+    "_updated": "2026-04-17T16:30:21.730093+00:00"
   },
   "FSLR": {
-    "price": 192.1,
-    "change_pct": 0.23,
+    "price": 192.29,
+    "change_pct": 0.33,
     "name": "First Solar",
-    "_updated": "2026-04-17T16:27:56.831199+00:00"
+    "_updated": "2026-04-17T16:30:21.730342+00:00"
   },
   "ENPH": {
-    "price": 32.69,
-    "change_pct": 2.28,
+    "price": 32.61,
+    "change_pct": 2.03,
     "name": "Enphase Energy",
-    "_updated": "2026-04-17T16:27:56.831428+00:00"
+    "_updated": "2026-04-17T16:30:21.730571+00:00"
   },
   "XLE": {
-    "price": 54.32,
-    "change_pct": -3.99,
+    "price": 54.42,
+    "change_pct": -3.83,
     "name": "Energy Select ETF",
-    "_updated": "2026-04-17T16:27:56.831798+00:00"
+    "_updated": "2026-04-17T16:30:21.730800+00:00"
   },
   "AMD": {
-    "price": 278.5,
-    "change_pct": 0.09,
+    "price": 278.69,
+    "change_pct": 0.15,
     "name": "Advanced Micro Devices",
-    "_updated": "2026-04-17T16:27:56.832036+00:00"
+    "_updated": "2026-04-17T16:30:21.731013+00:00"
   },
   "GD": {
-    "price": 336.29,
-    "change_pct": 0.41,
+    "price": 336.27,
+    "change_pct": 0.4,
     "name": "General Dynamics",
-    "_updated": "2026-04-17T16:27:56.832297+00:00"
+    "_updated": "2026-04-17T16:30:21.731221+00:00"
   },
   "XLF": {
     "price": 52.83,
     "change_pct": 1.55,
     "name": "Financial Select ETF",
-    "_updated": "2026-04-17T16:27:56.832506+00:00"
+    "_updated": "2026-04-17T16:30:21.731520+00:00"
   },
   "UNH": {
-    "price": 324.9,
-    "change_pct": 2.69,
+    "price": 325.1,
+    "change_pct": 2.75,
     "name": "UnitedHealth Group",
-    "_updated": "2026-04-17T16:27:56.832764+00:00"
+    "_updated": "2026-04-17T16:30:21.731754+00:00"
   },
   "HCA": {
-    "price": 490.64,
-    "change_pct": 1.59,
+    "price": 490.35,
+    "change_pct": 1.53,
     "name": "HCA Healthcare",
-    "_updated": "2026-04-17T16:27:56.832984+00:00"
+    "_updated": "2026-04-17T16:30:21.731969+00:00"
   },
   "CVS": {
-    "price": 77.57,
-    "change_pct": 1.02,
+    "price": 77.56,
+    "change_pct": 1.0,
     "name": "CVS Health",
-    "_updated": "2026-04-17T16:27:56.833214+00:00"
+    "_updated": "2026-04-17T16:30:21.732177+00:00"
   },
   "XRP": {
     "price": 1.5,
-    "change_pct": 3.06,
+    "change_pct": 3.05,
     "name": "XRP / Ripple",
-    "_updated": "2026-04-17T16:27:56.833451+00:00"
->>>>>>> c85af62 (SEC EDGAR: skip unrecognized codes, expand transaction map)
+    "_updated": "2026-04-17T16:30:21.732443+00:00"
   }
 }
