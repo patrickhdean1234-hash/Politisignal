@@ -1,6 +1,6 @@
 [
   {
-    "id": "133644d32741",
+    "id": "a23d363bd527",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,21 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Martino Roxanne M received 188 shares of Ventas, Inc. (VTR) \u00b7 $85.51/share \u00b7 $16,103 total \u00b7 Apr 17",
-    "tags": [],
+    "content": "Mitchell John Todd withheld (tax) 66,471 shares of Pacs Group, Inc. (PACS) \u00b7 $33.14/share \u00b7 $2,202,849 total \u00b7 Apr 17",
+    "tags": [
+      "Taxes"
+    ],
     "tickers": [
-      "VTR"
+      "PACS"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1676558/000167655826000008/0001676558-26-000008-index.htm",
-    "published_iso": "2026-04-17T20:10:24+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/2001184/000158414726000006/0001584147-26-000006-index.htm",
+    "published_iso": "2026-04-17T22:08:13+00:00",
     "time_ago": "just now"
   },
   {
-    "id": "063d6304b867",
+    "id": "13c288080c43",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,40 +32,21 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Lustig Matthew J received 229 shares of Ventas, Inc. (VTR) \u00b7 $85.51/share \u00b7 $19,602 total \u00b7 Apr 17 ($25,309 across all blocks)",
-    "tags": [],
+    "content": "Just Susan Svensson disposed of 13,736 shares of Heritage Commerce Corp (HTBK) \u00b7 Apr 17",
+    "tags": [
+      "Insider Trade"
+    ],
     "tickers": [
-      "VTR"
+      "HTBK"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1203367/000120336726000012/0001203367-26-000012-index.htm",
-    "published_iso": "2026-04-17T20:10:19+00:00",
-    "time_ago": "just now"
-  },
-  {
-    "id": "692194b0cf90",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Brown Shona L sold 1,250 shares of Doordash, Inc. (DASH) \u00b7 $175.00/share \u00b7 $218,750 total \u00b7 Apr 17",
-    "tags": [],
-    "tickers": [
-      "DASH"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1792789/000129503126000009/0001295031-26-000009-index.htm",
-    "published_iso": "2026-04-17T20:10:05+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/1993124/000110465926045011/0001104659-26-045011-index.htm",
+    "published_iso": "2026-04-17T22:07:25+00:00",
     "time_ago": "1m ago"
   },
   {
-    "id": "52a969baedd0",
+    "id": "725195e06115",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -71,43 +54,266 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
+    "severity": "medium",
+    "content": "Fonti Seth disposed of 32,188 shares of Heritage Commerce Corp (HTBK) \u00b7 Apr 17",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "HTBK"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2080065/000110465926045010/0001104659-26-045010-index.htm",
+    "published_iso": "2026-04-17T22:06:26+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "59ce8ca1f768",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Jergensen Joshua withheld (tax) 197,525 shares of Pacs Group, Inc. (PACS) \u00b7 $33.14/share \u00b7 $6,545,978 total \u00b7 Apr 17",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "PACS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2014275/000201427526000008/0002014275-26-000008-index.htm",
+    "published_iso": "2026-04-17T22:06:20+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "5f096250138f",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Heitel Stephen G. disposed of 216,078 shares of Heritage Commerce Corp (HTBK) \u00b7 Apr 17",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "HTBK"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1788876/000110465926045008/0001104659-26-045008-index.htm",
+    "published_iso": "2026-04-17T22:04:38+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "b871e888495b",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ou June converted 67,840 shares of Figure Technology Solutions, Inc. (FGRS) \u00b7 Apr 17 ($2,387,554 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "FGRS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2079717/000149315226017956/0001493152-26-017956-index.htm",
+    "published_iso": "2026-04-17T22:04:16+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "27d5aba266f2",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Cagney Michael Scott converted 67,840 shares of Figure Technology Solutions, Inc. (FGRS) \u00b7 Apr 17 ($2,387,554 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "FGRS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2064124/000149315226017955/0001493152-26-017955-index.htm",
+    "published_iso": "2026-04-17T22:04:14+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "2b91c065a0c4",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Husain Kamran F disposed of 28,084 shares of Heritage Commerce Corp (HTBK) \u00b7 Apr 17",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "HTBK"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318490/000110465926045007/0001104659-26-045007-index.htm",
+    "published_iso": "2026-04-17T22:02:53+00:00",
+    "time_ago": "6m ago"
+  },
+  {
+    "id": "b66794de7aee",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "House Democrat slams 'Dr. Jesus' over cost of Iran war: 'F--- his a--'. Rep. Sydney Kamlager-Dove (D-Calif.) on Thursday alluded to President Trump's since-deleted image of himself resembling Jesus Christ when she slammed the impact that the U.S.-Israeli conflict in Iran has had on costs in the U.S., prompting her to s",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/house/5836964-kamlager-dove-blasts-trump-iran/",
+    "published_iso": "2026-04-17T21:25:16+00:00",
+    "time_ago": "43m ago"
+  },
+  {
+    "id": "b3e8f033eeb3",
+    "politician": "Rep. Nancy Pelosi",
+    "initials": "NP",
+    "role": "House Democratic Leader",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "Represent San Francisco in the halls of Congress through the Congressional Art Competition!\n\nHigh school artists in California's 11th Congressional District should submit their artwork before tomorrow's deadline.\npelosi.house.gov/youth-kids/c...",
+    "tags": [],
+    "tickers": [],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/pelosi.house.gov/post/3mjptzizksk2b",
+    "published_iso": "2026-04-17T21:18:52.810000+00:00",
+    "time_ago": "50m ago"
+  },
+  {
+    "id": "f4520e153b1c",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Lutnick blasts Canada on trade: 'They suck'. Commerce Secretary Howard Lutnick blasted Canada\u2019s trade strategy, stating \u201cthey suck,\u201d during Semafor\u2019s World Economy Summit on Friday.   \u201cThat is the worst strategy I\u2019ve ever heard,\u201d Lutnick told Semafor\u2019s Ben Smith, referring to a suggestion from Canada\u2019s former trade chi",
+    "tags": [
+      "Trade"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5837019-commerce-secretary-blasts-canada-trade/",
+    "published_iso": "2026-04-17T21:02:49+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "43f3772df398",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
     "severity": "critical",
-    "content": "Moynihan Brian T exercised options for 18,083 shares of Bank Of America Corp /De/ (BACRP) \u00b7 Apr 17 ($982,269 across all blocks)",
+    "content": "Steve Bannon sides with Anthropic in Pentagon fight. {beacon} Technology Technology &#8202; The Big Story  Steve Bannon sides with Anthropic in Pentagon fight Former White House strategist Steve Bannon said he believes artificial intelligence company Anthropic \u201chad it right\u201d in demanding its technology not be used in f",
+    "tags": [
+      "Defense"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/technology/5837017-bannon-sides-anthropic-pentagon-fight/",
+    "published_iso": "2026-04-17T21:02:33+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "af0a08835c65",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "low",
+    "content": "Washington Post editorial board slams Trump's 'pointless standoff' with Powell. The Washington Post\u2019s editorial board rebuked President Trump\u2019s threats to fire Federal Reserve Chair Jerome Powell, calling the feud a \u201cpointless standoff that the president will lose.\u201d \u201cThe question is how much he spooks markets and damag",
     "tags": [
       "Banking"
     ],
     "tickers": [
-      "BACRP",
-      "BAC"
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1195071/000007085826000224/0000070858-26-000224-index.htm",
-    "published_iso": "2026-04-17T20:09:48+00:00",
-    "time_ago": "1m ago"
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/media/5837021-washington-post-editorial-board-trump-powell/",
+    "published_iso": "2026-04-17T21:02:25+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "ab57e00ee5c8",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "e9609a82a114",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Peterson Justin sold 21,221 shares of Tradeweb Markets Inc. (TW) \u00b7 $120.66/share \u00b7 $2,560,496 total \u00b7 Apr 17",
-    "tags": [
-      "Trade"
-    ],
-    "tickers": [
-      "TW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1807231/000175873026000090/0001758730-26-000090-index.htm",
-    "published_iso": "2026-04-17T20:09:29+00:00",
-    "time_ago": "1m ago"
+    "severity": "high",
+    "content": "Obama ramps up pressure in Virginia redistricting battle: \u2018We\u2019re counting on you\u2019. Former President Obama is ramping up pressure in Virginia to have voters support the state's redistricting measure and give Democratic candidates a stronger chance in the November midterm elections, telling Virginians, \"we're counting on",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/5836897-obama-virginia-redistricting-pressure/",
+    "published_iso": "2026-04-17T20:28:44+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "fb332c0841d5",
@@ -128,7 +334,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-commemorating-250-years-of-the-bible-in-america/",
     "published_iso": "2026-04-17T19:32:49+00:00",
-    "time_ago": "38m ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "f706e4872081",
@@ -150,74 +356,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mjpnuaannk23",
     "published_iso": "2026-04-17T19:28:33.382000+00:00",
-    "time_ago": "42m ago"
-  },
-  {
-    "id": "0377b49ff3e0",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Watch live: Trump to court young voters at Turning Point USA event in Arizona. President Trump is headlining Turning Point USA's event Friday afternoon in Arizona, as Republicans seek to bolster support ahead of November. The \u201cBuild the Red Wall\u201d event comes at a time when Trump's backing among young voters is slipping",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/video-clips/5836751-watch-live-trump-young-voters-turning-point-usa-arizona/",
-    "published_iso": "2026-04-17T19:03:49+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "52cdb2920fca",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Tufts student detained by ICE returns to Turkey. R\u00fcmeysa \u00d6zt\u00fcrk, the Tufts University student who was detained by Immigration and Customs Enforcement (ICE) last year, has completed her Ph.D. program and is returning to her home country of\u00a0Turkey, her lawyers announced Friday.\u00a0\u00a0 \u00d6zt\u00fcrk was detained by ICE in 2025 after ",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/education/5836793-ruemysa-ozturk-returning-turkey/",
-    "published_iso": "2026-04-17T18:56:10+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "0529f6749d2b",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Live updates: Iran says Strait of Hormuz open; RFK Jr. defends Trump's sanity. Iran announced Friday morning that the Strait of Hormuz is \u201ccompletely\u201d open amid the temporary ceasefire reached between Israel and Lebanon. President Trump reacted enthusiastically to Iran\u2019s announcement but said the U.S. blockade remains ",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5835694-kennedy-testifies-trump-healthcare/",
-    "published_iso": "2026-04-17T18:23:15+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "e84541b8a3a3",
@@ -238,7 +377,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/04/in-nevada-president-trump-celebrates-no-tax-on-tips-real-money-to-working-americans/",
     "published_iso": "2026-04-17T16:16:15+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "9da1a43e4c40",
@@ -262,7 +401,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2026/opening-statement-ambassador-jamieson-greer-house-appropriations-committee",
     "published_iso": "2026-04-17T15:30:48+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "ab9c6a2e8d6c",
@@ -288,7 +427,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mjp5prhmts23",
     "published_iso": "2026-04-17T14:39:43.787000+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "e7e92f079fc6",
@@ -307,28 +446,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mjoz2ob3xc2u",
     "published_iso": "2026-04-17T13:16:19.756000+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "5f6ce1fbf4b7",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "high",
-    "content": "First, he tweeted \"RIP CFPB,\" the agency responsible for policing consumer financial products.\n \nThen he announced X Money, which is part of his plan to turn X into \"the biggest financial institution in the world.\u201d",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjoz2nahz22u",
-    "published_iso": "2026-04-17T13:16:19.755000+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "44b3c3140230",
@@ -347,7 +465,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/gallery/2026/04/17/the-nations-cartoonists-on-the-week-in-politics-00878255",
     "published_iso": "2026-04-17T09:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "b9cc87889db7",
@@ -368,7 +486,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h124?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-17T06:07:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "903fee790e64",
@@ -389,7 +507,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h123?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-17T05:22:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "ad283029e430",
@@ -410,7 +528,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h122?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-17T05:13:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "3b98d299bd0d",
@@ -431,7 +549,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07601/schedule-of-fees-for-consular-services-fee-for-administrative-processing-of-request-for-certificate",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "d23f8954846f",
@@ -453,7 +571,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07585/settlement-policy-for-small-unmanned-aircraft-system-uas-cases",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "cc0a8f367a35",
@@ -474,7 +592,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07571/amendment-of-class-e5-airspace-over-elizabeth-city-nc",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "97933daa1321",
@@ -497,7 +615,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07560/methoxyfenozide-pesticide-tolerances",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "1f6bf96da018",
@@ -519,7 +637,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07536/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-geophysical-surveys-in-the",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "3354ace02b33",
@@ -541,7 +659,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07535/eliminating-outdated-regulation-related-to-reports-on-exports-of-technology",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "bd9e52eeb6c7",
@@ -560,7 +678,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/17/2026-07527/air-plan-approval-virginia-amendment-to-the-state-operating-permit-for-gp-big-island-llc",
     "published_iso": "2026-04-17T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "c52552ddf3f9",
@@ -582,7 +700,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/node/14307",
     "published_iso": "2026-04-16T20:47:09+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "16c091fc6c53",
@@ -838,28 +956,6 @@
     "time_ago": "1d ago"
   },
   {
-    "id": "e5b803d00ed7",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "On Tax Day, Warren Puts Direct File Bill on Senate Floor, Forces Republicans on Record on Free, Easy Tax Filing Program. On Tax Day, Warren Puts Direct File Bill on Senate Floor, Forces Republicans on Record on Free, Easy Tax Filing Program",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "http://www.warren.senate.gov/newsroom/press-releases/on-tax-day-warren-puts-direct-file-bill-on-senate-floor-forces-republicans-on-record-on-free-easy-tax-filing-program",
-    "published_iso": "2026-04-15T23:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
     "id": "04ee9841ee6d",
     "politician": "White House",
     "initials": "WH",
@@ -880,7 +976,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-three-existing-pipeline-facilities-at-pembina-county-north-dakota-at-the-international-boundary-between/",
     "published_iso": "2026-04-15T20:31:09+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "15cfe7fcf52b",
@@ -902,7 +998,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-enbridge-pipelines-southern-lights-l-l-c-to-operate-and-maintain-existing-pipeline-facilities-at-pembina-county-north-dakota-at-the-international-boundary-between/",
     "published_iso": "2026-04-15T20:28:16+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "bf5329b806fb",
@@ -1217,7 +1313,7 @@
     "platform": ".gov",
     "url": "http://ocasio-cortez.house.gov/media/open-positions/energy-and-environment-legislative-assistant",
     "published_iso": "2026-03-17T21:48:33+00:00",
-    "time_ago": "30d ago"
+    "time_ago": "31d ago"
   },
   {
     "id": "4a9e2dc4db8b",
@@ -1262,7 +1358,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-in-windsor/",
     "published_iso": "2026-02-26T22:06:12+00:00",
-    "time_ago": "49d ago"
+    "time_ago": "50d ago"
   },
   {
     "id": "fa45ab208fd8",
@@ -1334,7 +1430,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/aoc.bsky.social/post/3mfi26wfbbk22",
     "published_iso": "2026-02-22T21:07:12.518000+00:00",
-    "time_ago": "53d ago"
+    "time_ago": "54d ago"
   },
   {
     "id": "869ac7db3b73",
@@ -1530,7 +1626,7 @@
     "platform": ".gov",
     "url": "http://ocasio-cortez.house.gov/node/653",
     "published_iso": "2025-09-03T22:05:43+00:00",
-    "time_ago": "225d ago"
+    "time_ago": "226d ago"
   },
   {
     "id": "0590d712ca12",
@@ -1616,7 +1712,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10471",
     "published_iso": "2023-07-12T21:22:15+00:00",
-    "time_ago": "1009d ago"
+    "time_ago": "1010d ago"
   },
   {
     "id": "b05ff12af7ca",
@@ -1638,7 +1734,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10470",
     "published_iso": "2023-07-12T21:20:42+00:00",
-    "time_ago": "1009d ago"
+    "time_ago": "1010d ago"
   },
   {
     "id": "b22b414d7eb9",
@@ -1662,7 +1758,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10469",
     "published_iso": "2023-07-12T21:20:14+00:00",
-    "time_ago": "1009d ago"
+    "time_ago": "1010d ago"
   },
   {
     "id": "06ebc00af517",
@@ -1683,7 +1779,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10468",
     "published_iso": "2023-07-12T21:19:46+00:00",
-    "time_ago": "1009d ago"
+    "time_ago": "1010d ago"
   },
   {
     "id": "99bfd884e5fa",
@@ -1704,7 +1800,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10467",
     "published_iso": "2023-07-12T21:19:01+00:00",
-    "time_ago": "1009d ago"
+    "time_ago": "1010d ago"
   },
   {
     "id": "9ab4d9dc70a4",
@@ -1725,7 +1821,7 @@
     "platform": ".gov",
     "url": "http://jordan.house.gov/media/blog/did-biden-funnel-35-billion-payout-away-terror-victims-and-toward-ex-staff-republicans",
     "published_iso": "2022-04-06T20:45:12+00:00",
-    "time_ago": "1471d ago"
+    "time_ago": "1472d ago"
   },
   {
     "id": "ca9ac4ad3c4a",
