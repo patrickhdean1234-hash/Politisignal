@@ -1,6 +1,6 @@
 [
   {
-    "id": "fb6acf3a4fa2",
+    "id": "133644d32741",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,21 +9,61 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Girdwood Amy withheld (tax) 225,624 shares of Warner Bros. Discovery, Inc. (WBD) \u00b7 $27.20/share \u00b7 $6,136,973 total \u00b7 Apr 17",
-    "tags": [
-      "Taxes"
-    ],
+    "content": "Martino Roxanne M received 188 shares of Ventas, Inc. (VTR) \u00b7 $85.51/share \u00b7 $16,103 total \u00b7 Apr 17",
+    "tags": [],
     "tickers": [
-      "WBD"
+      "VTR"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2060469/000143710726000039/0001437107-26-000039-index.htm",
-    "published_iso": "2026-04-17T20:08:05+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/1676558/000167655826000008/0001676558-26-000008-index.htm",
+    "published_iso": "2026-04-17T20:10:24+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "063d6304b867",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Lustig Matthew J received 229 shares of Ventas, Inc. (VTR) \u00b7 $85.51/share \u00b7 $19,602 total \u00b7 Apr 17 ($25,309 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "VTR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1203367/000120336726000012/0001203367-26-000012-index.htm",
+    "published_iso": "2026-04-17T20:10:19+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "692194b0cf90",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Brown Shona L sold 1,250 shares of Doordash, Inc. (DASH) \u00b7 $175.00/share \u00b7 $218,750 total \u00b7 Apr 17",
+    "tags": [],
+    "tickers": [
+      "DASH"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1792789/000129503126000009/0001295031-26-000009-index.htm",
+    "published_iso": "2026-04-17T20:10:05+00:00",
     "time_ago": "1m ago"
   },
   {
-    "id": "4602555b87e0",
+    "id": "52a969baedd0",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -31,20 +71,23 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "medium",
-    "content": "Mizell Steven received 396 shares of Grail, Inc. (GRAL) \u00b7 $49.79/share \u00b7 $19,717 total \u00b7 Apr 17",
-    "tags": [],
+    "severity": "critical",
+    "content": "Moynihan Brian T exercised options for 18,083 shares of Bank Of America Corp /De/ (BACRP) \u00b7 Apr 17 ($982,269 across all blocks)",
+    "tags": [
+      "Banking"
+    ],
     "tickers": [
-      "GRAL"
+      "BACRP",
+      "BAC"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1699031/000162828026025731/0001628280-26-025731-index.htm",
-    "published_iso": "2026-04-17T20:07:09+00:00",
-    "time_ago": "2m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1195071/000007085826000224/0000070858-26-000224-index.htm",
+    "published_iso": "2026-04-17T20:09:48+00:00",
+    "time_ago": "1m ago"
   },
   {
-    "id": "a0fcceb302ea",
+    "id": "ab57e00ee5c8",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -53,16 +96,18 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Chase William J received 408 shares of Grail, Inc. (GRAL) \u00b7 $49.79/share \u00b7 $20,314 total \u00b7 Apr 17",
-    "tags": [],
+    "content": "Peterson Justin sold 21,221 shares of Tradeweb Markets Inc. (TW) \u00b7 $120.66/share \u00b7 $2,560,496 total \u00b7 Apr 17",
+    "tags": [
+      "Trade"
+    ],
     "tickers": [
-      "GRAL"
+      "TW"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1699031/000162828026025730/0001628280-26-025730-index.htm",
-    "published_iso": "2026-04-17T20:07:03+00:00",
-    "time_ago": "2m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1807231/000175873026000090/0001758730-26-000090-index.htm",
+    "published_iso": "2026-04-17T20:09:29+00:00",
+    "time_ago": "1m ago"
   },
   {
     "id": "fb332c0841d5",
@@ -83,7 +128,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-commemorating-250-years-of-the-bible-in-america/",
     "published_iso": "2026-04-17T19:32:49+00:00",
-    "time_ago": "36m ago"
+    "time_ago": "38m ago"
   },
   {
     "id": "f706e4872081",
@@ -105,7 +150,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mjpnuaannk23",
     "published_iso": "2026-04-17T19:28:33.382000+00:00",
-    "time_ago": "40m ago"
+    "time_ago": "42m ago"
   },
   {
     "id": "0377b49ff3e0",
