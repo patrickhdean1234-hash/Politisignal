@@ -6,7 +6,9 @@
  */
 
 const CACHE = 'politisignal-v2';
-const PRECACHE = ['/', '/app.html', '/stocks.html', '/subscribe.html', '/data/signals.json', '/data/prices.json'];
+// Only cache data files — HTML pages use Cloudflare's Pretty URL routing
+// (/app.html → /app) so we let the network handle HTML navigation
+const PRECACHE = ['/data/signals.json', '/data/prices.json'];
 
 // ── Install: cache shell assets ──────────────────────────────────────────────
 self.addEventListener('install', e => {
@@ -26,11 +28,14 @@ self.addEventListener('activate', e => {
   self.clients.claim();
 });
 
-// ── Fetch: network-first for API, cache-first for assets ────────────────────
+// ── Fetch: network-first for API/data, pass-through for HTML navigation ─────
 self.addEventListener('fetch', e => {
   const url = new URL(e.request.url);
 
-  // Always network-first for dynamic data
+  // Let HTML page navigations pass straight through (Cloudflare handles routing)
+  if (e.request.mode === 'navigate') return;
+
+  // Network-first for dynamic data — cache as offline fallback
   if (url.pathname.startsWith('/data/') || url.pathname.startsWith('/api/')) {
     e.respondWith(
       fetch(e.request).then(r => {
@@ -41,13 +46,8 @@ self.addEventListener('fetch', e => {
         return r;
       }).catch(() => caches.match(e.request))
     );
-    return;
   }
-
-  // Cache-first for HTML/CSS/fonts
-  e.respondWith(
-    caches.match(e.request).then(cached => cached || fetch(e.request))
-  );
+  // Everything else: pass through (fonts, external resources, etc.)
 });
 
 // ── Push: show notification when server pushes ───────────────────────────────

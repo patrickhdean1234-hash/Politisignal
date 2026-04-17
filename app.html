@@ -367,11 +367,11 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
       <span class="icon">📊</span>
       <span class="label">Analysis</span>
     </button>
-    <a class="nav-item" href="/stocks.html">
+    <a class="nav-item" href="/stocks">
       <span class="icon">📈</span>
       <span class="label">Stock Prices</span>
     </a>
-    <a class="nav-item" href="/subscribe.html" style="background:linear-gradient(135deg,rgba(79,125,255,0.12),rgba(124,92,252,0.12));color:var(--accent);border:1px solid rgba(79,125,255,0.2);margin-top:4px">
+    <a class="nav-item" href="/subscribe" style="background:linear-gradient(135deg,rgba(79,125,255,0.12),rgba(124,92,252,0.12));color:var(--accent);border:1px solid rgba(79,125,255,0.2);margin-top:4px">
       <span class="icon">⭐</span>
       <span class="label">Subscribe — $29/mo</span>
     </a>
@@ -1269,7 +1269,7 @@ document.getElementById('user-avatar').textContent = pc.avatar;
 
 // Update subscribe link text for paid users
 if (userPlan !== 'free') {
-  const subLink = document.querySelector('a[href="/subscribe.html"]');
+  const subLink = document.querySelector('a[href="/subscribe"]');
   if (subLink) {
     subLink.querySelector('.label').textContent = 'Manage Plan';
     subLink.style.background = 'none';
