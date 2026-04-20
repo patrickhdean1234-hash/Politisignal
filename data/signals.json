@@ -1,69 +1,6 @@
 [
   {
-    "id": "f323afe2cfec",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Allison John W bought 100,000 shares of Home Bancshares Inc (HOMB) \u00b7 $26.96/share \u00b7 $2,696,210 total \u00b7 Apr 20",
-    "tags": [],
-    "tickers": [
-      "HOMB"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1331520/000119101026000005/0001191010-26-000005-index.htm",
-    "published_iso": "2026-04-20T15:59:34+00:00",
-    "time_ago": "3m ago"
-  },
-  {
-    "id": "f909f242dc04",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Loy Bertrand exercised options for 44,138 shares of Entegris Inc (ENTG) \u00b7 $98.11/share \u00b7 $4,330,379 total \u00b7 Apr 20 ($10,704,348 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "ENTG"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1197452/000119745226000002/0001197452-26-000002-index.htm",
-    "published_iso": "2026-04-20T15:55:38+00:00",
-    "time_ago": "7m ago"
-  },
-  {
-    "id": "d3b01a408f3b",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Trump's approval rating sinks to second term low: Poll. President Trump\u2019s approval rating sank to a new second term low in the latest NBC News poll, amid growing concerns about his handling of the economy. In the NBC News Decision Desk survey, conducted during the first two weeks of April, 37 percent of Americans say t",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5839418-trumps-approval-rating-economy/",
-    "published_iso": "2026-04-20T15:31:43+00:00",
-    "time_ago": "31m ago"
-  },
-  {
-    "id": "170909e3568b",
+    "id": "1a8b609abdfd",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -72,90 +9,46 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Thanks to Trump, the Catholic vote is now up for grabs. Trump mistakenly believes that Catholics will stick with him no matter what he says or does",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/campaign/5837039-trump-pope-clash-catholic-vote/",
-    "published_iso": "2026-04-20T15:30:00+00:00",
-    "time_ago": "32m ago"
-  },
-  {
-    "id": "4a086cbf85f3",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Maryland to become first state to ban 'dynamic pricing' in grocery stores. Governor Wes Moore said he is excited to sign the new bill",
+    "content": "Trump: 'Lots of bombs start going off' if Iran ceasefire expires without deal. President Trump told PBS News on Monday that \u201clots of bombs\u201d will go off in Iran if the ceasefire expires without a deal. \u201cThen lots of bombs start going off,\u201d Trump told reporter Liz Landers over the phone, when she asked what would happen ",
     "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/state-watch/5839380-maryland-dynamic-pricing-grocery-stores/",
-    "published_iso": "2026-04-20T15:08:54+00:00",
-    "time_ago": "54m ago"
-  },
-  {
-    "id": "e74a1da31a6d",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "House Democrat: 'Trump is not well'. Rep. Daniel Goldman (D-N.Y.) on Sunday said President Trump is \u201cnot well\u201d following a Wall Street Journal report that said his advisers limited his knowledge of rescue operations for two pilots downed in Iran due to the leader\u2019s \u201cimpatience.\u201d \u201cThe commander-in-chief was excluded fro",
-    "tags": [
-      "Banking",
-      "Defense",
       "Sanctions"
     ],
     "tickers": [
-      "GS"
+      "LMT",
+      "RTX",
+      "XOM"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5839362-democrats-push-trump-removal/",
-    "published_iso": "2026-04-20T15:04:44+00:00",
-    "time_ago": "58m ago"
+    "url": "https://thehill.com/homenews/administration/5839811-iran-ceasefire-trump-deadline-bombing/",
+    "published_iso": "2026-04-20T19:35:39+00:00",
+    "time_ago": "11m ago"
   },
   {
-    "id": "8f1e5ff39ba1",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "877e87aea503",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Why is Trump cutting energy aid during an oil price shock?. If the administration is successful in eliminating LIHEAP, the consequences are straightforward. Arrearages will skyrocket, utility shut-offs will increase, and human suffering will intensify",
+    "content": "Prior Cornelius B Jr gifted 1,700 shares of Atn International, Inc. (ATNI) \u00b7 Apr 20",
     "tags": [
-      "Energy"
+      "Agriculture"
     ],
     "tickers": [
-      "XOM",
-      "CVX",
-      "COP",
-      "OXY"
+      "ATNI"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/energy-environment/5836671-low-income-energy-assistance/",
-    "published_iso": "2026-04-20T15:00:00+00:00",
-    "time_ago": "1h ago"
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/922147/000092214726000004/0000922147-26-000004-index.htm",
+    "published_iso": "2026-04-20T19:35:24+00:00",
+    "time_ago": "12m ago"
   },
   {
-    "id": "b3b53cc2d820",
+    "id": "0f4823949e05",
     "politician": "Sen. Elizabeth Warren",
     "initials": "EW",
     "role": "Senate Banking Committee",
@@ -164,14 +57,239 @@
       "fg": "#4ade80"
     },
     "severity": "medium",
-    "content": "While the ultra-rich get even richer, families are getting squeezed by a rigged economy.\n \nIt's time for the government to stop listening to the richest of the rich and start working for working people.",
+    "content": "In 2022, SpaceX was charged with illegally firing workers who spoke out against Elon Musk.\n\nThen, Elon Musk helped elect Donald Trump, and Trump's labor board dropped the charges.\n\nWas this a political favor? I'm pressing for answers.",
     "tags": [],
+    "tickers": [
+      "TSLA"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjx75p6cds2d",
+    "published_iso": "2026-04-20T19:26:42.803000+00:00",
+    "time_ago": "20m ago"
+  },
+  {
+    "id": "c99fcc3fb197",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Trump, Johnson to participate in telerally ahead of Virginia redistricting vote. President Trump is set to join Speaker Mike Johnson (R-La.) for a telerally on Monday evening ahead of the closely watched redistricting vote in Virginia on Tuesday.\u00a0 White House press secretary Karoline Leavitt confirmed Trump\u2019s participa",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/5839853-trump-johnson-virginia-redistricting-telerally/",
+    "published_iso": "2026-04-20T19:26:42+00:00",
+    "time_ago": "20m ago"
+  },
+  {
+    "id": "230ab73ec37d",
+    "politician": "Sen. Bernie Sanders",
+    "initials": "BS",
+    "role": "Senate HELP Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#818cf8"
+    },
+    "severity": "medium",
+    "content": "In the 1990s, the working class of this country was told that unfettered free trade would create millions of new jobs and raise wages.\n\nAs many of us understood then, that claim was a lie.\n\nNow they\u2019re being sold the same false promises about AI.",
+    "tags": [
+      "Trade"
+    ],
     "tickers": [],
     "source": "bluesky",
     "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjwluxgwnk2a",
-    "published_iso": "2026-04-20T13:41:48.383000+00:00",
+    "url": "https://bsky.app/profile/sanders.senate.gov/post/3mjx664s2j22b",
+    "published_iso": "2026-04-20T19:09:03.334000+00:00",
+    "time_ago": "38m ago"
+  },
+  {
+    "id": "7aabc064a553",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "critical",
+    "content": "President Trump\u2019s Landmark Order Advances Breakthrough Mental Health Treatments \u2014 Delivering New Hope to Veterans. This weekend, President Donald J. Trump signed a groundbreaking Executive Order accelerating research and improving access to psychedelic drugs as promising treatments for serious mental illnesses. The ord",
+    "tags": [
+      "Healthcare",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/04/president-trumps-landmark-order-advances-breakthrough-mental-health-treatments-delivering-new-hope-to-veterans/",
+    "published_iso": "2026-04-20T19:05:31+00:00",
+    "time_ago": "42m ago"
+  },
+  {
+    "id": "4c3fe9341f7a",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Trump: Reported 'pressure' to make Iran deal 'fake news'. President Trump on Monday dismissed that he is under \u201cpressure\u201d to cut a peace deal with Iran, as the end of the two-week ceasefire rapidly approaches. In a lengthy post on his Truth Social platform, Trump wrote that he \u201cread the Fake News saying that I am under",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5839694-trump-dismisses-iran-pressure/",
+    "published_iso": "2026-04-20T19:02:44+00:00",
+    "time_ago": "44m ago"
+  },
+  {
+    "id": "de6d196693e5",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Navy warns US sailors to secure social media from Iran online threats. The Navy is advising sailors to secure their electronic devices, social media accounts and personal information as the U.S-Israeli war in Iran has increased online threats to service members. In an unclassified memo to Navy personnel, Secretary John",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/defense/5839801-navy-warns-online-threats/",
+    "published_iso": "2026-04-20T18:49:47+00:00",
+    "time_ago": "57m ago"
+  },
+  {
+    "id": "715f73273919",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "56,497 companies already applied to get $166 BILLION in refunds for Donald Trump's illegal tariffs.\n\nBut where\u2019s Trump\u2019s plan to give the American people their money back?\n\nEvery second that ticks by with no refund for American families is theft in broad daylight.",
+    "tags": [
+      "Trade",
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjx3f7lszc2z",
+    "published_iso": "2026-04-20T18:19:19.937000+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "fd2a60783491",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Trump-branded data center project CEO departs. The head of Fermi America, the company building a large-scale data center campus in Texas named after President Trump, has resigned from his current role amid a broader reshuffling of the firm\u2019s leadership. Fermi co-founder and CEO Toby Neugebauer stepped down Friday, acco",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/5839693-fermi-america-ceo-resigns/",
+    "published_iso": "2026-04-20T17:58:41+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "66cffa152df3",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "high",
+    "content": "The Trump Administration is pushing private equity, private credit, and crypto into retirement accounts.\n\nWall Street wants to dump its risky assets in your 401k \u2013 putting your retirement at risk.",
+    "tags": [
+      "Crypto",
+      "Banking"
+    ],
+    "tickers": [
+      "BTC",
+      "ETH",
+      "COIN",
+      "JPM"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjwwgfynfk2x",
+    "published_iso": "2026-04-20T16:50:31.487000+00:00",
     "time_ago": "2h ago"
+  },
+  {
+    "id": "5fa4132f0ac2",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Warren, Lee Launch Bipartisan Probe Into Potential United-American Merger As Air Travel Costs Continue To Skyrocket. Warren, Lee Launch Bipartisan Probe Into Potential United-American Merger As Air Travel Costs Continue To Skyrocket",
+    "tags": [],
+    "tickers": [],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-lee-launch-bipartisan-probe-into-potential-united-american-merger-as-air-travel-costs-continue-to-skyrocket",
+    "published_iso": "2026-04-20T16:00:00+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "0047e3ab5b67",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "critical",
+    "content": "Dr. Rand Paul Introduces the Bipartisan Hemp Safety Enforcement Act. The post  Dr. Rand Paul Introduces the Bipartisan Hemp Safety Enforcement Act  appeared first on  Senator Rand Paul",
+    "tags": [
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "https://www.paul.senate.gov/266421-2/",
+    "published_iso": "2026-04-20T15:45:00+00:00",
+    "time_ago": "4h ago"
   },
   {
     "id": "78b9bb131f21",
@@ -192,7 +310,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-national-volunteer-week/",
     "published_iso": "2026-04-20T13:00:13+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "e0fa392a312e",
@@ -215,7 +333,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-national-crime-victims-week/",
     "published_iso": "2026-04-20T12:59:05+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "756410e11b16",
@@ -236,7 +354,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07681/enrolled-agent-special-enrollment-examination-user-fee-update",
     "published_iso": "2026-04-20T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "79ef64357358",
@@ -257,7 +375,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07663/extension-of-compliance-dates-for-nondiscrimination-on-the-basis-of-disability-accessibility-of-web",
     "published_iso": "2026-04-20T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "9adb1d956611",
@@ -280,7 +398,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07644/amendment-of-class-d-airspace-appleton-wi",
     "published_iso": "2026-04-20T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "1a80b50b44ac",
@@ -301,7 +419,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07643/order-providing-exemptive-relief-to-facilitate-cross-margining-of-customer-positions-cleared-at",
     "published_iso": "2026-04-20T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "5a36bccdd5b4",
@@ -322,7 +440,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07638/safety-standard-for-infant-and-cradle-swings",
     "published_iso": "2026-04-20T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "558ce1707120",
@@ -343,7 +461,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07637/special-condition-airworthy-inc-airbus-sas-model-a330-300-series-airplanes-installation-of-a-crew",
     "published_iso": "2026-04-20T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "d3dc961a9374",
@@ -364,7 +482,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07633/removal-of-regulations-for-the-shelter-plus-care-and-the-supportive-housing-programs",
     "published_iso": "2026-04-20T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "90f0251c7266",
@@ -391,30 +509,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07628/repeal-of-fossil-fuel-restrictions-for-new-federal-buildings-and-major-renovations-of-federal",
     "published_iso": "2026-04-20T00:00:00+00:00",
-    "time_ago": "16h ago"
-  },
-  {
-    "id": "a55c80ea0ed5",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "If you paid even one penny in federal income taxes on your income last year, then you paid more than Tesla.\n\nHere's why.",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "TSLA"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjuh3xyd4s2d",
-    "published_iso": "2026-04-19T17:10:55.655000+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "d998478da04f",
@@ -437,7 +532,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/if-you-paid-even-a-penny-in-federal-income-taxes-on-your-income-last-year-you-paid-more-than-tesla",
     "published_iso": "2026-04-19T16:39:47+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "7ec684ab8b5f",
@@ -506,28 +601,6 @@
     "time_ago": "2d ago"
   },
   {
-    "id": "af0290101ee9",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "You should be able to easily file your taxes for free with the IRS.\n \nNot only did Trump kill Direct File, the IRS's free tax filing program, but this week, Republicans BLOCKED my bill that would make the program law of the land.\n\nThat's what you call selling out to TurboTax.",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjrjxbkeuk2j",
-    "published_iso": "2026-04-18T13:23:59.922000+00:00",
-    "time_ago": "2d ago"
-  },
-  {
     "id": "7d1ac4301c04",
     "politician": "Politico",
     "initials": "PO",
@@ -584,7 +657,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-commemorating-250-years-of-the-bible-in-america/",
     "published_iso": "2026-04-17T19:32:49+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "e84541b8a3a3",
@@ -605,7 +678,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/04/in-nevada-president-trump-celebrates-no-tax-on-tips-real-money-to-working-americans/",
     "published_iso": "2026-04-17T16:16:15+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "9da1a43e4c40",
@@ -754,7 +827,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h121?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-16T18:29:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "8e190775123f",
@@ -773,7 +846,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h120?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-16T18:21:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "c81c6c9123fc",
@@ -796,7 +869,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-led-fences-act-clears-u-s-house/",
     "published_iso": "2026-04-16T18:07:32+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "8322bc96ae8e",
@@ -815,7 +888,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s85?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-16T17:36:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "95b38a5bdb80",
@@ -836,7 +909,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h119?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-16T16:43:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "186d037cfece",
@@ -855,27 +928,6 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h118?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-16T16:32:00+00:00",
-    "time_ago": "3d ago"
-  },
-  {
-    "id": "ebefc71139e3",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "Warren, Blumenthal Investigate Whether Political Interference by Elon Musk, DOGE Caused Labor Board Decision to Drop SpaceX Charges. Warren, Blumenthal Investigate Whether Political Interference by Elon Musk, DOGE Caused Labor Board Decision to Drop SpaceX Charges",
-    "tags": [],
-    "tickers": [
-      "TSLA"
-    ],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-investigate-whether-political-interference-by-elon-musk-doge-caused-labor-board-decision-to-drop-spacex-charges",
-    "published_iso": "2026-04-16T16:00:00+00:00",
     "time_ago": "4d ago"
   },
   {
@@ -926,29 +978,6 @@
     "time_ago": "4d ago"
   },
   {
-    "id": "04ee9841ee6d",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "Presidential Permit: Authorizing Enbridge Energy, Limited Partnership to Operate and Maintain Three Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada. By virtue of the authority vested in me as President of the United States of America (the ",
-    "tags": [
-      "Energy",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-three-existing-pipeline-facilities-at-pembina-county-north-dakota-at-the-international-boundary-between/",
-    "published_iso": "2026-04-15T20:31:09+00:00",
-    "time_ago": "4d ago"
-  },
-  {
     "id": "bf5329b806fb",
     "politician": "Rep. Nancy Pelosi",
     "initials": "NP",
@@ -967,7 +996,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mjkhfosrwc2t",
     "published_iso": "2026-04-15T17:49:44.197000+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "d773df1a1b2c",
@@ -990,7 +1019,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-cruz-file-amicus-brief-backing-trump-administrations-push-to-repeal-endangerment-finding/",
     "published_iso": "2026-04-15T17:31:26+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "f2763200dffd",
@@ -1014,7 +1043,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2025/opening-statement-jeffrey-goettman-senate-finance-committee",
     "published_iso": "2026-04-15T16:03:07+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "9d19c2d700b7",
@@ -1060,35 +1089,6 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ambassador-greer-meets-blue-collar-workers-and-industry-leaders-while-touring-manufacturing-plants",
     "published_iso": "2026-04-13T17:54:33+00:00",
-    "time_ago": "6d ago"
-  },
-  {
-    "id": "986d61829572",
-    "politician": "Sen. Bernie Sanders",
-    "initials": "BS",
-    "role": "Senate HELP Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#818cf8"
-    },
-    "severity": "critical",
-    "content": "This week, I will be forcing a vote on legislation to block the sale of nearly half a billion dollars worth of bombs and bulldozers to the Israeli military.\n \nThe extremist Netanyahu government that has committed genocide in Gaza does not need more military support from American taxpayers.",
-    "tags": [
-      "Defense",
-      "Regulation",
-      "Taxes",
-      "Insider Trade"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/sanders.senate.gov/post/3mjf4vnc6as2n",
-    "published_iso": "2026-04-13T14:58:29.623000+00:00",
     "time_ago": "7d ago"
   },
   {
@@ -1140,7 +1140,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/icymi-lummis-op-ed-in-washington-post-a-broken-system-is-costing-america-trillions-i-see-it-in-wyoming/",
     "published_iso": "2026-04-08T16:14:36+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "f9bc3f626835",
@@ -1213,7 +1213,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-introduces-legislation-to-codify-trumps-nuclear-baseload-energy-executive-orders/",
     "published_iso": "2026-03-26T18:12:45+00:00",
-    "time_ago": "24d ago"
+    "time_ago": "25d ago"
   },
   {
     "id": "42002aa36a3f",
@@ -1256,7 +1256,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/news-sanders-welch-balint-statement-on-recent-ice-raids-in-south-burlington/",
     "published_iso": "2026-03-12T18:51:43+00:00",
-    "time_ago": "38d ago"
+    "time_ago": "39d ago"
   },
   {
     "id": "3c2b4ad7a11c",
@@ -1370,7 +1370,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/aoc.bsky.social/post/3mfhthlg3u22x",
     "published_iso": "2026-02-22T19:06:46.919000+00:00",
-    "time_ago": "56d ago"
+    "time_ago": "57d ago"
   },
   {
     "id": "602146d3f751",
@@ -1392,7 +1392,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-announces-2026-service-academy-nominations/",
     "published_iso": "2026-02-18T19:38:51+00:00",
-    "time_ago": "60d ago"
+    "time_ago": "61d ago"
   },
   {
     "id": "79af8a04fb57",
@@ -1414,7 +1414,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meetings-in-sheldon-bristol-and-poultney/",
     "published_iso": "2026-01-29T16:27:05+00:00",
-    "time_ago": "80d ago"
+    "time_ago": "81d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1440,7 +1440,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "87d ago"
+    "time_ago": "88d ago"
   },
   {
     "id": "d39ac85b9cc9",
@@ -1485,28 +1485,6 @@
     "url": "https://www.paul.senate.gov/266276-2/",
     "published_iso": "2026-01-07T15:48:25+00:00",
     "time_ago": "103d ago"
-  },
-  {
-    "id": "bbd37deac435",
-    "politician": "Sen. Rand Paul",
-    "initials": "RP",
-    "role": "Senate Foreign Relations Committee",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fbbf24"
-    },
-    "severity": "critical",
-    "content": "Senator Paul Introduces the Health Marketplace and Savings Accounts for All Act. The post  Senator Paul Introduces the Health Marketplace and Savings Accounts for All Act  appeared first on  Senator Rand Paul",
-    "tags": [
-      "Defense",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "https://www.paul.senate.gov/senator-paul-introduces-the-health-marketplace-and-savings-accounts-for-all-act/",
-    "published_iso": "2025-12-04T18:58:25+00:00",
-    "time_ago": "136d ago"
   },
   {
     "id": "a2647cb5ac95",
@@ -1763,7 +1741,7 @@
     "platform": ".gov",
     "url": "http://jordan.house.gov/media/blog/gop-fbi-refusing-accept-accountability-enforcing-doj-school-boards-memo",
     "published_iso": "2022-02-10T19:37:15+00:00",
-    "time_ago": "1529d ago"
+    "time_ago": "1530d ago"
   },
   {
     "id": "718743804c07",
@@ -1784,6 +1762,6 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about-us/policy-offices/press-office/blog/weekly-trade-focus-apec",
     "published_iso": "2009-07-20T18:28:39+00:00",
-    "time_ago": "6117d ago"
+    "time_ago": "6118d ago"
   }
 ]
