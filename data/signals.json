@@ -1,6 +1,50 @@
 [
   {
-    "id": "bf5ed0244a2b",
+    "id": "b7817f7d8e3a",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Chen Jeffrey sold 9,000 shares of Ase Technology Holding Co., Ltd. (ASX) \u00b7 $446.00/share \u00b7 $4,014,000 total \u00b7 Apr 20 ($12,253,500 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "ASX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2111679/000095010326005917/0000950103-26-005917-index.htm",
+    "published_iso": "2026-04-20T11:46:07+00:00",
+    "time_ago": "11m ago"
+  },
+  {
+    "id": "0458d3fc286e",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Bharucha Kaizad exercised derivative for 5,000 shares of Hdfc Bank Ltd (HDB) \u00b7 $6.80/share \u00b7 $34,000 total \u00b7 Apr 20",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "HDB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2113161/000119312526162728/0001193125-26-162728-index.htm",
+    "published_iso": "2026-04-20T11:41:36+00:00",
+    "time_ago": "16m ago"
+  },
+  {
+    "id": "b5618e9caf8f",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,16 +53,230 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Pope Leo, Vance seek to mend fences after Trump feud. Pope Leo XIV and Vice President Vance on Saturday both said the presumed feud with President Trump was misinterpreted.  \u201cThere\u2019s been a certain narrative that has not been accurate in all of its aspects, but because of the political situation created when, on the fi",
+    "content": "Eric Swalwell is what happens when special interests pick your congressman. America just learned about the real Eric Swalwell (D-Calif.), when accusations of sexual assault ended his gubernatorial campaign and his political career. People rightly began to ask why those who knew Swalwell's character hadn't done more to ",
     "tags": [
+      "Defense"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/campaign/5836814-eric-swalwell-political-rise/",
+    "published_iso": "2026-04-20T11:30:00+00:00",
+    "time_ago": "27m ago"
+  },
+  {
+    "id": "fdff4c5d92e8",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Nelson Shawn David bought 1,477 shares of Lovesac Co (LOVE) \u00b7 $16.95/share \u00b7 $25,028 total \u00b7 Apr 20",
+    "tags": [],
+    "tickers": [
+      "LOVE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1730879/000162828026025915/0001628280-26-025915-index.htm",
+    "published_iso": "2026-04-20T10:59:01+00:00",
+    "time_ago": "58m ago"
+  },
+  {
+    "id": "730798d929a9",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Iran talks on the rocks as time runs out on ceasefire. In today\u2019s issue:  The clock is ticking on the U.S. and Iran reaching a permanent deal to end their weeks-long war ahead of the conclusion of a two-week ceasefire that expires on Wednesday.   The U.S. seizure on Sunday of an Iranian-flagged cargo ship trying to get",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/morning-report/5839125-iran-us-talks-ceasefire-tensions/",
+    "published_iso": "2026-04-20T10:58:42+00:00",
+    "time_ago": "59m ago"
+  },
+  {
+    "id": "c0476cddec7b",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Tamari Shahar sold 25,949 shares of Global-E Online Ltd. (GLBE) \u00b7 $34.79/share \u00b7 $902,766 total \u00b7 Apr 20",
+    "tags": [],
+    "tickers": [
+      "GLBE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1964142/000196414226000012/0001964142-26-000012-index.htm",
+    "published_iso": "2026-04-20T10:32:17+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "79dec35fb17b",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Debbi Nir sold 7,191 shares of Global-E Online Ltd. (GLBE) \u00b7 $34.67/share \u00b7 $249,278 total \u00b7 Apr 20",
+    "tags": [],
+    "tickers": [
+      "GLBE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1964141/000196414126000012/0001964141-26-000012-index.htm",
+    "published_iso": "2026-04-20T10:28:32+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "77b5334fd6c4",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Karmiri Stefania sold 250 shares of Euroseas Ltd. (ESEA) \u00b7 $72.00/share \u00b7 $18,000 total \u00b7 Apr 20",
+    "tags": [],
+    "tickers": [
+      "ESEA"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2122338/000212233826000004/0002122338-26-000004-index.htm",
+    "published_iso": "2026-04-20T10:25:47+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "0fcba978c7b8",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ma Cunjun bought 10,000 shares of Huize Holding Ltd (HUIZ) \u00b7 $1.69/share \u00b7 $16,900 total \u00b7 Apr 20",
+    "tags": [],
+    "tickers": [
+      "HUIZ"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1845701/000119312526162603/0001193125-26-162603-index.htm",
+    "published_iso": "2026-04-20T10:09:59+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "eae3b8330b2e",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "This week on The Hill: Senate takes first steps on reconciliation 2.0. The Senate is expected to vote as early as this week on a budget blueprint for a second reconciliation bill that includes funding for Immigration and Customs Enforcement (ICE) and Border Patrol.  But Senate Majority Leader John Thune (R-S.D.) will l",
+    "tags": [
+      "Regulation",
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5839003-leo-vance-trump-comments/",
-    "published_iso": "2026-04-20T03:07:44+00:00",
-    "time_ago": "4h ago"
+    "url": "https://thehill.com/homenews/senate/5835883-reconciliation-dhs-fisa-warsh/",
+    "published_iso": "2026-04-20T10:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "9fff8d389b38",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Democrats gain ground in Iowa governor\u2019s race. The race for governor in Iowa is gearing up to be closer than expected as Democrat Rob Sand campaigns to replace retiring Republican Gov. Kim Reynolds and pull off the state's first Democratic gubernatorial win in nearly two decades.  The nonpartisan Cook Political Report ",
+    "tags": [
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/5837106-rob-sand-iowa-governor-race-tossup/",
+    "published_iso": "2026-04-20T10:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "39330b878e1e",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "NFL takes heat from GOP, Trump DOJ on cost of watching games. Federal regulators and members of Congress are voicing frustration with the NFL\u2019s media rights dealmaking and are vowing to rein in its unmatched leverage in the live sports marketplace.   The Roger Goodell-led pro football league is reportedly the subject o",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/keeping-score/5836602-nfl-takes-heat-from-gop-trump-doj-on-cost-of-watching-games/",
+    "published_iso": "2026-04-20T10:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "0f889c11bdf6",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Senate Republicans hope Supreme Court 'surprise' could help save majority. Senate Republicans who fear their three-seat majority could be in danger in this year\u2019s midterm election would welcome the retirement of conservative Justice Samuel Alito as an \u201cOctober surprise\u201d that could change their political fortunes by ral",
+    "tags": [
+      "Defense"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/senate/5837188-alito-retirement-gop-midterms/",
+    "published_iso": "2026-04-20T10:00:00+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "756410e11b16",
@@ -39,7 +297,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07681/enrolled-agent-special-enrollment-examination-user-fee-update",
     "published_iso": "2026-04-20T00:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "79ef64357358",
@@ -60,7 +318,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07663/extension-of-compliance-dates-for-nondiscrimination-on-the-basis-of-disability-accessibility-of-web",
     "published_iso": "2026-04-20T00:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "9adb1d956611",
@@ -83,7 +341,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07644/amendment-of-class-d-airspace-appleton-wi",
     "published_iso": "2026-04-20T00:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "1a80b50b44ac",
@@ -104,7 +362,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07643/order-providing-exemptive-relief-to-facilitate-cross-margining-of-customer-positions-cleared-at",
     "published_iso": "2026-04-20T00:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "5a36bccdd5b4",
@@ -125,7 +383,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07638/safety-standard-for-infant-and-cradle-swings",
     "published_iso": "2026-04-20T00:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "558ce1707120",
@@ -146,7 +404,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07637/special-condition-airworthy-inc-airbus-sas-model-a330-300-series-airplanes-installation-of-a-crew",
     "published_iso": "2026-04-20T00:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "d3dc961a9374",
@@ -167,7 +425,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07633/removal-of-regulations-for-the-shelter-plus-care-and-the-supportive-housing-programs",
     "published_iso": "2026-04-20T00:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "90f0251c7266",
@@ -194,86 +452,6 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07628/repeal-of-fossil-fuel-restrictions-for-new-federal-buildings-and-major-renovations-of-federal",
     "published_iso": "2026-04-20T00:00:00+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "e6496ebc0b3b",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Most voters blame Trump for rising gas prices: Poll. Most registered voters blame President Trump for rising gas prices, according to a new poll. Quinnipiac University\u2019s national poll, which was released Wednesday, found that more than half of respondents, 51 percent, blame Trump \"a lot\" for gas prices spiking while 14",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/personal-finance/5838861-voters-poll-trump-gas/",
-    "published_iso": "2026-04-19T22:40:55+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "47255d53b996",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "House Oversight Committee to investigate missing, dead scientists. House Oversight and Government Reform Committee Chair James Comer (R-Ky.) on Sunday said the committee will investigate the deaths and disappearances of 10 American scientists who all had links to U.S. nuclear or space research programs. \u00a0 Authorities h",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5838817-investigation-american-scientists-deaths/",
-    "published_iso": "2026-04-19T21:22:58+00:00",
-    "time_ago": "10h ago"
-  },
-  {
-    "id": "a97a436a1183",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "House braces for next wave of potential expulsions focused on Cherfilus-McCormick, Mills. House lawmakers are bracing for the next wave of expulsions.\u00a0 Former Reps. Eric Swalwell (D-Calif.) and Tony Gonzales (R-Texas) avoided the boot only by quitting their seats in the face of allegations of sexual misconduct with sta",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5837072-lawmakers-bracing-expulsions-wave/",
-    "published_iso": "2026-04-19T21:00:00+00:00",
-    "time_ago": "10h ago"
-  },
-  {
-    "id": "827ebbc5846d",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Republican gubernatorial candidate dismisses Trump's approval rating in California. Steve Hilton, a Republican running for governor in California, said Sunday that President Trump\u2019s low approval rating in his state will not play a role in the outcome of the gubernatorial race. \u201cThis election is going to be about the fu",
-    "tags": [
-      "Defense"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/5838691-hilton-trump-california-governor-race/",
-    "published_iso": "2026-04-19T20:16:28+00:00",
     "time_ago": "11h ago"
   },
   {
@@ -297,7 +475,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mjuh3xyd4s2d",
     "published_iso": "2026-04-19T17:10:55.655000+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "d998478da04f",
@@ -320,7 +498,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/if-you-paid-even-a-penny-in-federal-income-taxes-on-your-income-last-year-you-paid-more-than-tesla",
     "published_iso": "2026-04-19T16:39:47+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "7ec684ab8b5f",
@@ -427,219 +605,6 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/04/18/immigration-poll-trump-deportation-campaign-00879549",
     "published_iso": "2026-04-18T11:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "ebae90c9913f",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hennessy John L. sold 105 shares of Alphabet Inc. (GOOG) \u00b7 $330.54/share \u00b7 $34,707 total \u00b7 Apr 17 ($348,232 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "GOOG",
-      "GOOGL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526162189/0001193125-26-162189-index.htm",
-    "published_iso": "2026-04-18T01:58:19+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "b98f4d7131f1",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Ainscow Robert sold 22,500 shares of Asp Isotopes Inc. (ASPI) \u00b7 $5.21/share \u00b7 $117,112 total \u00b7 Apr 17",
-    "tags": [],
-    "tickers": [
-      "ASPI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1951275/000147793226002390/0001477932-26-002390-index.htm",
-    "published_iso": "2026-04-18T01:55:47+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "012cf62b8a5d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Cardillo Robert T. exercised options for 2,500 shares of Ionq, Inc. (IONQ-WT) \u00b7 $11.24/share \u00b7 $28,100 total \u00b7 Apr 17 ($140,350 across all blocks)",
-    "tags": [],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2013580/000119312526162187/0001193125-26-162187-index.htm",
-    "published_iso": "2026-04-18T01:55:03+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "9d7f18a65c3d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Kiessling Heather sold 23,124 shares of Asp Isotopes Inc. (ASPI) \u00b7 $5.48/share \u00b7 $126,673 total \u00b7 Apr 17",
-    "tags": [],
-    "tickers": [
-      "ASPI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2026548/000147793226002388/0001477932-26-002388-index.htm",
-    "published_iso": "2026-04-18T01:54:31+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "c9e5b2dc6ad8",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Moore Duncan received 25,469 shares of Asp Isotopes Inc. (ASPI) \u00b7 Apr 17 ($60,597 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "ASPI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1921865/000147793226002387/0001477932-26-002387-index.htm",
-    "published_iso": "2026-04-18T01:54:03+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "c4873fa60fe2",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Duchene Todd M withheld (tax) 16,741 shares of Core Scientific, Inc./Tx (CORZR) \u00b7 $19.08/share \u00b7 $319,418 total \u00b7 Apr 17",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "CORZR"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1839341/000090514826001726/0000905148-26-001726-index.htm",
-    "published_iso": "2026-04-18T01:50:44+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "48a49e618f6a",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Sullivan Adam Taylor withheld (tax) 87,355 shares of Core Scientific, Inc./Tx (CORZR) \u00b7 $19.08/share \u00b7 $1,666,733 total \u00b7 Apr 17",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "CORZR"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1980208/000090514826001725/0000905148-26-001725-index.htm",
-    "published_iso": "2026-04-18T01:50:20+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "2f1a5dcbdffb",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Marrott Karl Todd sold 15,213 shares of Tss, Inc. (TSSI) \u00b7 $15.03/share \u00b7 $228,613 total \u00b7 Apr 17 ($585,819 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "TSSI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2014820/000165495426003685/0001654954-26-003685-index.htm",
-    "published_iso": "2026-04-18T01:48:54+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "0df0ceb5f17b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Lekstrom Morgan Lee received 100,000 shares of Streamex Corp. (STEX) \u00b7 Apr 17 ($13,652 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "STEX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2072014/000149315226017972/0001493152-26-017972-index.htm",
-    "published_iso": "2026-04-18T01:45:05+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "fb2404d3e15f",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Mcphie Karl Henry Michael received 1,000,000 shares of Streamex Corp. (STEX) \u00b7 Apr 17 ($32,754 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "STEX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2072123/000149315226017971/0001493152-26-017971-index.htm",
-    "published_iso": "2026-04-18T01:45:04+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -744,7 +709,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/gallery/2026/04/17/the-nations-cartoonists-on-the-week-in-politics-00878255",
     "published_iso": "2026-04-17T09:00:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "b9cc87889db7",
