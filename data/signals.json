@@ -1,5 +1,173 @@
 [
   {
+    "id": "c3edea4d8ee0",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Qiu Wenbin bought 16,000 shares of Baozun Inc. (BZUN) \u00b7 $3.14/share \u00b7 $50,240 total \u00b7 Apr 21",
+    "tags": [],
+    "tickers": [
+      "BZUN"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1975717/000110465926045680/0001104659-26-045680-index.htm",
+    "published_iso": "2026-04-21T10:15:56+00:00",
+    "time_ago": "36m ago"
+  },
+  {
+    "id": "affe22b6ed7d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "What to know about Tuesday's redistricting referendum\u00a0in Virginia. Democrats in Virginia are eyeing one last opportunity to pass new congressional lines ahead of the 2026 midterm elections as the national redistricting war nears its end. Virginia Democrats teed up a Tuesday referendum asking voters if lawmakers can tem",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/5839270-virginia-redistricting-referendum/",
+    "published_iso": "2026-04-21T10:00:00+00:00",
+    "time_ago": "52m ago"
+  },
+  {
+    "id": "c28a82421761",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Johnson faces political gauntlet as legislative fights collide. Speaker Mike Johnson (R-La.) is barreling toward a brutal end-of-the-month crunch, juggling a slate of high-stakes legislative fights with intensifying calls for one of his members to step down and growing unease within the GOP as the Iran conflict nears t",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/house/5839862-johnson-fisa-spy-powers-iran-dhs/",
+    "published_iso": "2026-04-21T10:00:00+00:00",
+    "time_ago": "52m ago"
+  },
+  {
+    "id": "5b4d8d233d49",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Trump's feud with Powell threatens plans to replace Federal Reserve chair. President Trump's effort to push out Federal Reserve Chair Jerome Powell is threatening his ability to finally replace his nemesis. The Senate Banking Committee is scheduled to hold a confirmation hearing Tuesday for Kevin Warsh, the former Fed ",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/personal-finance/5839652-trumps-powell-federal-reserve-feud/",
+    "published_iso": "2026-04-21T10:00:00+00:00",
+    "time_ago": "52m ago"
+  },
+  {
+    "id": "9c2883677b28",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Republicans stress over economic whiplash from Iran conflict. Republican lawmakers are sounding the alarm over how voters view President Trump\u2019s handling of the economy after Iran announced over the weekend it would keep the Strait of Hormuz closed, raising the prospect of high fuel prices through Election Day. Growing",
+    "tags": [
+      "Defense",
+      "Regulation",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/senate/5840070-republicans-economy-trump-iran/",
+    "published_iso": "2026-04-21T10:00:00+00:00",
+    "time_ago": "52m ago"
+  },
+  {
+    "id": "a20bdb8544c0",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "GOP-linked group urges Congress to slash red tape on Pentagon acquisitions. A GOP-linked group is urging Congress to slash red tape on the Pentagon\u2019s defense acquisition process, a restructuring aimed at prioritizing shorter timelines for delivery, expanding the industrial base and boosting capacity.  The new report fr",
+    "tags": [
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/defense/5840265-congress-slashes-red-tape-pentagon/",
+    "published_iso": "2026-04-21T10:00:00+00:00",
+    "time_ago": "52m ago"
+  },
+  {
+    "id": "a508e3db785f",
+    "politician": "Politico",
+    "initials": "PO",
+    "role": "Political News",
+    "color": {
+      "bg": "#1a0a0a",
+      "fg": "#fca5a5"
+    },
+    "severity": "medium",
+    "content": "Dueling PACs gear up for GOP primary wars over immigration. The Dignity Act, a bipartisan immigration reform bill, has sparked a revolt on the political right",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "politico",
+    "platform": "Politico",
+    "url": "https://www.politico.com/news/2026/04/21/immigration-republicans-pacs-dignity-act-00882222",
+    "published_iso": "2026-04-21T09:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "4b78536bc065",
     "politician": "The Hill",
     "initials": "TH",
@@ -24,7 +192,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/house/5840389-chip-roy-mamdani-act/",
     "published_iso": "2026-04-21T02:02:55+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "2b8256ab5497",
@@ -45,7 +213,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1921602/000192160226000004/0001921602-26-000004-index.htm",
     "published_iso": "2026-04-21T01:55:09+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "016a9fadbeb4",
@@ -66,7 +234,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1968270/000196827026000007/0001968270-26-000007-index.htm",
     "published_iso": "2026-04-21T01:55:07+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "5bd7db6e4891",
@@ -87,131 +255,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1778564/000177856426000012/0001778564-26-000012-index.htm",
     "published_iso": "2026-04-21T01:55:05+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "27443f086568",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Keating Leslie Starr received 3,332 shares of Sunopta Inc. (STKL) \u00b7 $6.47/share \u00b7 $21,558 total \u00b7 Apr 20",
-    "tags": [],
-    "tickers": [
-      "STKL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1716654/000035183426000097/0000351834-26-000097-index.htm",
-    "published_iso": "2026-04-21T01:47:19+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "57be023d6138",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Reynoso Diego received 3,775 shares of Sunopta Inc. (STKL) \u00b7 $6.47/share \u00b7 $24,424 total \u00b7 Apr 20",
-    "tags": [],
-    "tickers": [
-      "STKL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1971267/000035183426000095/0000351834-26-000095-index.htm",
-    "published_iso": "2026-04-21T01:45:36+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "c12cd30edad8",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Lemmon David J received 2,362 shares of Sunopta Inc. (STKL) \u00b7 $6.47/share \u00b7 $15,282 total \u00b7 Apr 20",
-    "tags": [],
-    "tickers": [
-      "STKL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1548754/000035183426000093/0000351834-26-000093-index.htm",
-    "published_iso": "2026-04-21T01:43:33+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "40fcd4c7a0d4",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hollis Richard Dean received 3,197 shares of Sunopta Inc. (STKL) \u00b7 $6.47/share \u00b7 $20,685 total \u00b7 Apr 20",
-    "tags": [],
-    "tickers": [
-      "STKL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1469241/000035183426000091/0000351834-26-000091-index.htm",
-    "published_iso": "2026-04-21T01:41:31+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "419249aae5c3",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Fisher Rebecca received 3,466 shares of Sunopta Inc. (STKL) \u00b7 $6.47/share \u00b7 $22,425 total \u00b7 Apr 20",
-    "tags": [],
-    "tickers": [
-      "STKL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1783312/000035183426000089/0000351834-26-000089-index.htm",
-    "published_iso": "2026-04-21T01:39:27+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "c8d1084f599b",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Trump makes last-minute pitch against Virginia redistricting\u00a0ballot\u00a0measure\u00a0in\u00a0telerally\u00a0call. President Trump made a last-minute pitch to Virginians on Monday evening, urging voters to\u00a0reject a redistricting\u00a0ballot measure that could give Democrats as many as four pickup opportunities in the House this November.\u00a0\u00a0 \u201cTh",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/5840335-trump-virginia-redistricting-referendum-rally/",
-    "published_iso": "2026-04-21T00:39:16+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "d27df13749e2",
@@ -232,7 +276,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07773/annual-update-to-fee-schedule-for-the-use-of-government-lands-by-hydropower-licensees",
     "published_iso": "2026-04-21T00:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "651f5df17fe8",
@@ -254,7 +298,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07766/establishment-of-restricted-areas-r-5305a-r-5305b-and-r-5305c-camp-lejeune-nc-and-restricted-areas",
     "published_iso": "2026-04-21T00:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "6ee4ee65a5f5",
@@ -276,7 +320,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07756/modification-of-class-e-airspace-florence-municipal-airport-florence-or",
     "published_iso": "2026-04-21T00:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "2ed0c598e892",
@@ -295,7 +339,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07736/airworthiness-directives-mhi-rj-aviation-ulc-type-certificate-previously-held-by-bombardier-inc",
     "published_iso": "2026-04-21T00:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "1260ef5681f5",
@@ -314,7 +358,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07708/fisheries-of-the-exclusive-economic-zone-off-alaska-pollock-in-statistical-area-610-in-the-gulf-of",
     "published_iso": "2026-04-21T00:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "040a651b7b34",
@@ -335,28 +379,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07706/pacific-island-fisheries-annual-catch-limit-and-accountability-measures-main-hawaiian-islands-deep-7",
     "published_iso": "2026-04-21T00:00:00+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "bbb190356bd0",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Nancy Mace introduces resolution to expel Cory Mills from the House. Rep. Nancy Mace (R-S.C.) introduced a resolution on Monday to expel Rep. Cory Mills (R-Fla.), who is facing a wide swath of allegations, from Congress. The House Ethics Committee is investigating whether Mills violated campaign finance laws, received ",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5840258-nancy-mace-cory-mills-expulsion-resolution/",
-    "published_iso": "2026-04-20T23:46:14+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "73eac42cb120",
@@ -375,7 +398,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h125?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-20T22:59:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "c8533fb64fee",
@@ -398,7 +421,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/joint-statement-ambassador-jamieson-greer-and-mexican-secretary-economy-marcelo-ebrard",
     "published_iso": "2026-04-20T22:03:55+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "cfa63de4202c",
@@ -417,7 +440,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s86?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-20T21:32:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "230ab73ec37d",
@@ -438,7 +461,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mjxfneacc22n",
     "published_iso": "2026-04-20T21:22:50.653000+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "03a235ca6ed1",
@@ -466,7 +489,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-issues-presidential-determination-to-support-u-s-air-force-jet-fighter-training-operations/",
     "published_iso": "2026-04-20T21:04:43+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "830de2429398",
@@ -494,7 +517,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-grid-infrastructure-equipment-and-supply-chain-capacity/",
     "published_iso": "2026-04-20T20:25:21+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "76716f9b76cf",
@@ -516,7 +539,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-determination-concerning-the-air-forces-jet-fighter-training-operations-in-idaho-oregon-and-nevada/",
     "published_iso": "2026-04-20T20:13:36+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "0f4823949e05",
@@ -537,7 +560,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mjx75p6cds2d",
     "published_iso": "2026-04-20T19:26:42.803000+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "7aabc064a553",
@@ -559,7 +582,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/04/president-trumps-landmark-order-advances-breakthrough-mental-health-treatments-delivering-new-hope-to-veterans/",
     "published_iso": "2026-04-20T19:05:31+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "715f73273919",
@@ -581,7 +604,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mjx3f7lszc2z",
     "published_iso": "2026-04-20T18:19:19.937000+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "5fa4132f0ac2",
@@ -600,7 +623,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-lee-launch-bipartisan-probe-into-potential-united-american-merger-as-air-travel-costs-continue-to-skyrocket",
     "published_iso": "2026-04-20T16:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "0047e3ab5b67",
@@ -622,7 +645,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "756410e11b16",
@@ -747,7 +770,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/gallery/2026/04/17/the-nations-cartoonists-on-the-week-in-politics-00878255",
     "published_iso": "2026-04-17T09:00:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "b9cc87889db7",
