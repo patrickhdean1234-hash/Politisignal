@@ -326,6 +326,46 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
   .modal-footer { padding: 12px 18px; }
 }
 
+/* ── EMAIL SIGNUP GATE ───────────────────────────────────────────── */
+#email-gate {
+  position: fixed; inset: 0; z-index: 9999;
+  background: rgba(4,5,10,0.98); backdrop-filter: blur(12px);
+  display: flex; align-items: center; justify-content: center;
+  padding: 24px;
+}
+.email-gate-box {
+  background: var(--surface); border: 1px solid var(--border2);
+  border-radius: 20px; padding: 40px 36px; max-width: 420px; width: 100%;
+  text-align: center; box-shadow: 0 0 100px rgba(79,125,255,0.1);
+}
+.email-gate-logo { display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 24px; }
+.email-gate-logo img { width: 36px; height: 36px; object-fit: contain; }
+.email-gate-logo span { font-family: 'Syne', sans-serif; font-weight: 800; font-size: 18px; color: var(--text); }
+.email-gate-box h2 { font-family: 'Syne', sans-serif; font-size: 22px; font-weight: 800; letter-spacing: -0.5px; margin-bottom: 8px; }
+.email-gate-box p { font-size: 13px; color: var(--text2); line-height: 1.6; margin-bottom: 20px; }
+.email-gate-perks { display: flex; flex-direction: column; gap: 7px; margin-bottom: 24px; text-align: left; background: rgba(255,255,255,0.02); border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px; }
+.email-gate-perk { font-size: 12px; color: var(--text2); display: flex; align-items: center; gap: 8px; font-family: 'DM Mono', monospace; }
+.email-gate-perk span { color: var(--green); }
+.email-gate-input {
+  width: 100%; padding: 13px 16px; background: var(--bg); border: 1px solid var(--border2);
+  border-radius: 10px; color: var(--text); font-size: 14px;
+  font-family: 'Bricolage Grotesque', sans-serif; outline: none; margin-bottom: 10px;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+.email-gate-input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(79,125,255,0.12); }
+.email-gate-input::placeholder { color: var(--text3); }
+.email-gate-btn {
+  display: block; width: 100%; padding: 13px;
+  background: linear-gradient(135deg, var(--accent), var(--accent2));
+  color: white; border: none; border-radius: 10px; font-size: 14px; font-weight: 700;
+  font-family: 'Bricolage Grotesque', sans-serif; cursor: pointer;
+  transition: opacity 0.15s; margin-bottom: 16px;
+}
+.email-gate-btn:hover { opacity: 0.9; }
+.email-gate-btn:disabled { opacity: 0.6; cursor: not-allowed; }
+.email-gate-footer { font-size: 11px; color: var(--text3); font-family: 'DM Mono', monospace; }
+.email-gate-footer a { color: var(--accent); text-decoration: none; }
+
 /* ── TRIAL GATE ─────────────────────────────────────────────────── */
 #trial-gate {
   position: fixed; inset: 0; z-index: 9999;
@@ -366,6 +406,31 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
 </style>
 </head>
 <body>
+
+<!-- EMAIL SIGNUP GATE (shown on first visit before trial starts) -->
+<div id="email-gate" style="display:none">
+  <div class="email-gate-box">
+    <div class="email-gate-logo">
+      <img src="logo-coin.png" alt="PolitiSignal">
+      <span>PolitiSignal</span>
+    </div>
+    <h2>Start your 7-day free trial</h2>
+    <p>Enter your email to access the live dashboard. No credit card required.</p>
+    <div class="email-gate-perks">
+      <div class="email-gate-perk"><span>✓</span> Delayed signal feed (24hr)</div>
+      <div class="email-gate-perk"><span>✓</span> Real-time stock prices</div>
+      <div class="email-gate-perk"><span>✓</span> Market sentiment scoring</div>
+      <div class="email-gate-perk"><span>✓</span> 5 politicians tracked</div>
+    </div>
+    <form onsubmit="submitTrialEmail(event)">
+      <input class="email-gate-input" type="email" id="gate-email" placeholder="your@email.com" required autocomplete="email">
+      <button class="email-gate-btn" type="submit" id="gate-btn">Start Free Trial →</button>
+    </form>
+    <div class="email-gate-footer">
+      Already subscribed? <a href="/subscribe">Upgrade your plan →</a>
+    </div>
+  </div>
+</div>
 
 <!-- TRIAL GATE PAYWALL -->
 <div id="trial-gate" style="display:none">
@@ -1413,15 +1478,60 @@ async function togglePushNotifications() {
   }
 }
 
-// ── TRIAL GATE ────────────────────────────────────────────────────────────
-(function checkTrial() {
-  const TRIAL_MS = 7 * 24 * 60 * 60 * 1000; // 7 days
-  const plan = localStorage.getItem('ps-plan'); // 'trader' or 'elite' set by success.html
+// ── EMAIL SIGNUP + TRIAL GATE ─────────────────────────────────────────────
+const WEB3FORMS_KEY = 'YOUR_WEB3FORMS_ACCESS_KEY';
 
-  // Paid subscriber — no gate needed
+function submitTrialEmail(event) {
+  event.preventDefault();
+  const email = document.getElementById('gate-email').value.trim();
+  if (!email) return;
+  const btn = document.getElementById('gate-btn');
+  btn.disabled = true;
+  btn.textContent = 'Starting trial…';
+
+  // Persist email and start trial clock
+  localStorage.setItem('ps-email', email);
+  localStorage.setItem('ps-trial-start', Date.now());
+
+  // Send to Web3Forms (fire and forget — don't block UX on response)
+  fetch('https://api.web3forms.com/submit', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+    body: JSON.stringify({
+      access_key: WEB3FORMS_KEY,
+      email,
+      subject: 'New PolitiSignal Trial Signup',
+      message: `New trial signup: ${email}`,
+      from_name: 'PolitiSignal Trial',
+    }),
+  }).catch(() => {});
+
+  // Unlock dashboard
+  document.getElementById('email-gate').style.display = 'none';
+  document.body.style.overflow = '';
+
+  // Show trial banner
+  if (!sessionStorage.getItem('ps-banner-dismissed')) {
+    document.getElementById('trial-banner').style.display = 'flex';
+    document.getElementById('trial-days-left').textContent = '⏳ 7 days left in your free trial';
+  }
+}
+
+(function checkTrial() {
+  const TRIAL_MS = 7 * 24 * 60 * 60 * 1000;
+  const plan = localStorage.getItem('ps-plan');
+
+  // Paid subscriber — no gate
   if (plan === 'trader' || plan === 'elite') return;
 
-  // Start trial clock on first visit
+  // No email yet — require signup before trial starts
+  if (!localStorage.getItem('ps-email')) {
+    document.getElementById('email-gate').style.display = 'flex';
+    document.body.style.overflow = 'hidden';
+    return;
+  }
+
+  // Has email — check trial clock
   if (!localStorage.getItem('ps-trial-start')) {
     localStorage.setItem('ps-trial-start', Date.now());
   }
@@ -1431,16 +1541,13 @@ async function togglePushNotifications() {
   const daysLeft = Math.ceil((TRIAL_MS - elapsed) / (24 * 60 * 60 * 1000));
 
   if (elapsed >= TRIAL_MS) {
-    // Trial expired — show paywall, hide everything else
     document.getElementById('trial-gate').style.display = 'flex';
     document.body.style.overflow = 'hidden';
   } else {
-    // Trial active — show countdown banner unless dismissed this session
     if (!sessionStorage.getItem('ps-banner-dismissed')) {
-      const banner = document.getElementById('trial-banner');
-      const msg = document.getElementById('trial-days-left');
-      banner.style.display = 'flex';
-      msg.textContent = daysLeft === 1 ? '⚠️ Last day of your free trial' : `⏳ ${daysLeft} days left in your free trial`;
+      document.getElementById('trial-banner').style.display = 'flex';
+      document.getElementById('trial-days-left').textContent =
+        daysLeft === 1 ? '⚠️ Last day of your free trial' : `⏳ ${daysLeft} days left in your free trial`;
     }
   }
 })();
