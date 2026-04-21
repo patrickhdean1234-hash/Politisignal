@@ -325,9 +325,57 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
   .modal-body { padding: 14px 18px; }
   .modal-footer { padding: 12px 18px; }
 }
+
+/* ── TRIAL GATE ─────────────────────────────────────────────────── */
+#trial-gate {
+  position: fixed; inset: 0; z-index: 9999;
+  background: rgba(4,5,10,0.97); backdrop-filter: blur(12px);
+  display: flex; align-items: center; justify-content: center;
+  padding: 24px;
+}
+.trial-box {
+  background: var(--surface); border: 1px solid rgba(79,125,255,0.3);
+  border-radius: 20px; padding: 40px 36px; max-width: 420px; width: 100%;
+  text-align: center; box-shadow: 0 0 80px rgba(79,125,255,0.12);
+}
+.trial-icon { font-size: 40px; margin-bottom: 16px; }
+.trial-box h2 { font-family: 'Syne', sans-serif; font-size: 24px; font-weight: 800; letter-spacing: -0.5px; margin-bottom: 10px; }
+.trial-box p { font-size: 14px; color: var(--text2); line-height: 1.6; margin-bottom: 28px; }
+.trial-btn-primary {
+  display: block; width: 100%; padding: 14px;
+  background: linear-gradient(135deg, var(--accent), var(--accent2));
+  color: white; border: none; border-radius: 10px; font-size: 15px; font-weight: 700;
+  font-family: 'Bricolage Grotesque', sans-serif; cursor: pointer; text-decoration: none;
+  margin-bottom: 10px; transition: opacity 0.15s;
+}
+.trial-btn-primary:hover { opacity: 0.9; }
+.trial-banner {
+  background: rgba(79,125,255,0.08); border-bottom: 1px solid rgba(79,125,255,0.2);
+  padding: 8px 20px; font-size: 12px; font-family: 'DM Mono', monospace;
+  color: var(--accent); text-align: center; display: flex; align-items: center;
+  justify-content: center; gap: 12px;
+}
+.trial-banner a { color: white; font-weight: 600; text-decoration: none; background: var(--accent); padding: 3px 10px; border-radius: 4px; font-size: 11px; }
 </style>
 </head>
 <body>
+
+<!-- TRIAL GATE PAYWALL -->
+<div id="trial-gate" style="display:none">
+  <div class="trial-box">
+    <div class="trial-icon">⏰</div>
+    <h2>Your free trial has ended</h2>
+    <p>Your 7-day free trial is over. Subscribe to Pro ($19/mo) or Elite ($49/mo) to keep trading ahead of political events.</p>
+    <a class="trial-btn-primary" href="/subscribe">See Plans & Subscribe →</a>
+    <div style="font-size:12px;color:var(--text3);font-family:'DM Mono',monospace;">No lock-in · Cancel anytime · Founding prices</div>
+  </div>
+</div>
+
+<!-- TRIAL BANNER (shown during active trial) -->
+<div id="trial-banner" class="trial-banner" style="display:none">
+  <span id="trial-days-left"></span>
+  <a href="/subscribe">Upgrade →</a>
+</div>
 
 <!-- SIDEBAR -->
 <aside class="sidebar">
@@ -1024,20 +1072,32 @@ function updateTopMovers() {
 
 function updateSentiment() {
   const total = allSignals.length || 1;
-  const bearish = allSignals.filter(s=>s.severity==='critical'||s.severity==='high').length;
-  const bullish = allSignals.filter(s=>s.severity==='low').length;
-  const neutral = total - bearish - bullish;
-  const bPct = Math.round(bearish/total*100);
-  const buPct = Math.round(bullish/total*100);
+  // Use actual sentiment field if present, otherwise derive from severity
+  const bearishCount = allSignals.filter(s => {
+    if (s.sentiment) return s.sentiment === 'bearish';
+    return s.severity === 'critical' || s.severity === 'high';
+  }).length;
+  const bullishCount = allSignals.filter(s => {
+    if (s.sentiment) return s.sentiment === 'bullish';
+    return s.severity === 'low';
+  }).length;
+  const neutralCount = total - bearishCount - bullishCount;
+
+  const bPct = Math.round(bearishCount / total * 100);
+  const buPct = Math.round(bullishCount / total * 100);
   const nPct = 100 - bPct - buPct;
-  const score = Math.round(100 - (bearish/total*100));
-  const label = score < 35 ? 'BEARISH' : score < 55 ? 'NEUTRAL' : score < 75 ? 'BULLISH' : 'VERY BULLISH';
-  const color = score < 35 ? 'var(--red)' : score < 55 ? 'var(--amber)' : 'var(--green)';
+
+  // Score: 0 = all bearish, 50 = neutral, 100 = all bullish
+  // Formula: 50 + (bullish - bearish) / total * 50
+  const score = Math.round(50 + (bullishCount - bearishCount) / total * 50);
+  const label = score < 35 ? 'BEARISH' : score < 45 ? 'MILDLY BEARISH' : score < 55 ? 'NEUTRAL' : score < 65 ? 'MILDLY BULLISH' : 'BULLISH';
+  const color = score < 40 ? 'var(--red)' : score < 60 ? 'var(--amber)' : 'var(--green)';
+
   document.getElementById('score-num').textContent = score;
   document.getElementById('score-num').style.color = color;
   document.getElementById('score-label').textContent = label;
   document.getElementById('score-label').style.color = color;
-  document.getElementById('score-desc').textContent = `Based on ${allSignals.length} signal${allSignals.length!==1?'s':''}.`;
+  document.getElementById('score-desc').textContent = `Based on ${allSignals.length} signal${allSignals.length !== 1 ? 's' : ''}.`;
   document.getElementById('bar-bearish').style.width = bPct + '%';
   document.getElementById('bar-bullish').style.width = buPct + '%';
   document.getElementById('bar-neutral').style.width = nPct + '%';
@@ -1344,6 +1404,36 @@ async function togglePushNotifications() {
     showGenericToast('Notifications permission denied');
   }
 }
+
+// ── TRIAL GATE ────────────────────────────────────────────────────────────
+(function checkTrial() {
+  const TRIAL_MS = 7 * 24 * 60 * 60 * 1000; // 7 days
+  const plan = localStorage.getItem('ps-plan'); // 'trader' or 'elite' set by success.html
+
+  // Paid subscriber — no gate needed
+  if (plan === 'trader' || plan === 'elite') return;
+
+  // Start trial clock on first visit
+  if (!localStorage.getItem('ps-trial-start')) {
+    localStorage.setItem('ps-trial-start', Date.now());
+  }
+
+  const trialStart = parseInt(localStorage.getItem('ps-trial-start'), 10);
+  const elapsed = Date.now() - trialStart;
+  const daysLeft = Math.ceil((TRIAL_MS - elapsed) / (24 * 60 * 60 * 1000));
+
+  if (elapsed >= TRIAL_MS) {
+    // Trial expired — show paywall, hide everything else
+    document.getElementById('trial-gate').style.display = 'flex';
+    document.body.style.overflow = 'hidden';
+  } else {
+    // Trial active — show countdown banner
+    const banner = document.getElementById('trial-banner');
+    const msg = document.getElementById('trial-days-left');
+    banner.style.display = 'flex';
+    msg.textContent = daysLeft === 1 ? '⚠️ Last day of your free trial' : `⏳ ${daysLeft} days left in your free trial`;
+  }
+})();
 
 // ── INIT ───────────────────────────────────────────────────────────────────
 updateAlertBadge();

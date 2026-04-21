@@ -74,6 +74,10 @@ const plan = params.get('plan') || localStorage.getItem('ps-plan') || 'free';
 if (plan !== 'free') {
   localStorage.setItem('ps-plan', plan);
   localStorage.setItem('ps-plan-activated', new Date().toISOString());
+  // Ensure trial gate never blocks a paid subscriber
+  if (!localStorage.getItem('ps-trial-start')) {
+    localStorage.setItem('ps-trial-start', Date.now());
+  }
 }
 
 const plans = {
