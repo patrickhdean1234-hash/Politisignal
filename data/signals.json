@@ -1,5 +1,123 @@
 [
   {
+    "id": "af6a03e796d8",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Bodensteiner Lisa withheld (tax) 4,210 shares of Synaptics Inc (SYNA) \u00b7 $80.22/share \u00b7 $337,726 total \u00b7 Apr 21 ($484,926 across all blocks)",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "SYNA"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1213272/000121327226000007/0001213272-26-000007-index.htm",
+    "published_iso": "2026-04-21T14:13:31+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "8b34e2a0327d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ganesan Satish withheld (tax) 5,862 shares of Synaptics Inc (SYNA) \u00b7 $80.22/share \u00b7 $470,250 total \u00b7 Apr 21 ($881,629 across all blocks)",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "SYNA"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2014633/000201463326000006/0002014633-26-000006-index.htm",
+    "published_iso": "2026-04-21T14:11:18+00:00",
+    "time_ago": "8m ago"
+  },
+  {
+    "id": "a1314fc881ac",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "low",
+    "content": "Watch live: Pentagon officials brief reporters on budget request. Pentagon officials will give remarks Tuesday morning on President Trump's fiscal 2027 budget request \u2014 which includes $1.5 trillion in defense spending. The request includes $1.1 trillion in \u201cbase discretionary\u201d spending and $350 billion for \u201ccritical Ad",
+    "tags": [
+      "Defense",
+      "Regulation"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/video-clips/5840683-watch-live-pentagon-white-house-budget-request-2027-press-conference/",
+    "published_iso": "2026-04-21T14:11:13+00:00",
+    "time_ago": "8m ago"
+  },
+  {
+    "id": "bbd6adf6f694",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Trump: 'I'd love somebody to buy' Spirit Airlines. President Trump came out against a potential merger between American Airlines and United Airlines in an interview with CNBC on Tuesday, but suggested Spirit Airlines should be bought.\u00a0 \"I'd love somebody to buy Spirit, it's 14,000 jobs. Maybe the federal government sho",
+    "tags": [],
+    "tickers": [
+      "UAL",
+      "AAL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/transportation/5840879-donald-trump-spirit-airlines-united-american-merger/",
+    "published_iso": "2026-04-21T14:08:22+00:00",
+    "time_ago": "10m ago"
+  },
+  {
+    "id": "f5b2f71e2f8c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Gupta Vikram withheld (tax) 5,518 shares of Synaptics Inc (SYNA) \u00b7 $80.22/share \u00b7 $442,654 total \u00b7 Apr 21 ($567,965 across all blocks)",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "SYNA"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1984784/000198478426000007/0001984784-26-000007-index.htm",
+    "published_iso": "2026-04-21T14:08:01+00:00",
+    "time_ago": "11m ago"
+  },
+  {
     "id": "8621a5fde444",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
@@ -20,10 +138,10 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1846472/000184647226000006/0001846472-26-000006-index.htm",
     "published_iso": "2026-04-21T14:05:08+00:00",
-    "time_ago": "1m ago"
+    "time_ago": "14m ago"
   },
   {
-    "id": "27a66d1c29b1",
+    "id": "cf50f64fe30c",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -32,72 +150,19 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Senate Democrats press Warsh on asset divestiture plan ahead of confirmation hearing. Senate Democrats on the Banking Committee on Monday issued a strong push to delay Kevin Warsh\u2019s confirmation hearing, citing qualms with the potential next Federal Reserve chair\u2019s financial assets in the absence of transparent disclos",
+    "content": "Schumer: Patel \u2018grave risk\u2019 to rule of law, national security. Senate Democratic Leader Chuck Schumer (N.Y.) on Monday said a report in The Atlantic magazine alleging excessive drinking by FBI Director Kash Patel demonstrates that Patel is \u201ca grave risk to the rule of law and to American national security.\u201d \u201cOver the w",
     "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5840773-senate-democrats-warsh-hearing/",
-    "published_iso": "2026-04-21T13:24:26+00:00",
-    "time_ago": "42m ago"
-  },
-  {
-    "id": "54b1c983179b",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Watch live: Kevin Warsh, Trump's pick to replace Powell at Fed, faces confirmation hearing. Kevin Warsh, President Trump's pick to replace Federal Reserve Chair Jerome Powell, will testify Tuesday morning before the Senate Banking Committee. Trump announced Warsh, a former Fed board member, as his nominee in January as",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/personal-finance/5840613-watch-live-kevin-warsh-senate-banking-committee-confirmation-hearing-federal-reserve/",
-    "published_iso": "2026-04-21T13:18:16+00:00",
-    "time_ago": "48m ago"
-  },
-  {
-    "id": "08c6da6a01cd",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Watch live: RFK Jr. testifies before House panel on HHS budget. Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. is back on Capitol Hill Tuesday, testifying before the House Energy and Commerce Committee on President Trump's fiscal 2027 budget request. Lawmakers on both sides of the aisle are likely to p",
-    "tags": [
-      "Energy",
       "Regulation"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/video-clips/5840628-watch-live-rfk-jr-house-energy-commerce-panel-hhs-trump-fiscal-2027-budget/",
-    "published_iso": "2026-04-21T13:17:51+00:00",
-    "time_ago": "49m ago"
+    "url": "https://thehill.com/homenews/senate/5840900-chuck-schumer-kash-patel-atlantic/",
+    "published_iso": "2026-04-21T14:03:56+00:00",
+    "time_ago": "15m ago"
   },
   {
-    "id": "611d4b886112",
+    "id": "0822e5cc288b",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -106,21 +171,16 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Live updates: As ceasefire deadline arrives, Trump leans against extension for Iran. President Trump on Tuesday said he isn't interested in extending the ceasefire with Iran that ends in a matter of hours. \"I don\u2019t want to do that. We don\u2019t have that much time,\u201d he told CNBC on Tuesday morning. In Washington, Republica",
+    "content": "Obama says Higher Ground production company to go independent. Former President Obama and former first lady Michelle Obama's production company Higher Ground will go independent after launching with Netflix after eight years, multiple outlets reported. In a Saturday interview with historian Jon Meacham at an event in P",
     "tags": [
-      "Regulation",
-      "Sanctions"
+      "Taxes"
     ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5839730-live-updates-trump-iran-fed-warsh-virginia/",
-    "published_iso": "2026-04-21T13:03:57+00:00",
-    "time_ago": "1h ago"
+    "url": "https://thehill.com/blogs/in-the-know/5840762-obama-higher-ground-netflix-partnership/",
+    "published_iso": "2026-04-21T14:01:39+00:00",
+    "time_ago": "17m ago"
   },
   {
     "id": "4eb16b27cd64",
@@ -425,7 +485,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-determination-concerning-the-air-forces-jet-fighter-training-operations-in-idaho-oregon-and-nevada/",
     "published_iso": "2026-04-20T20:13:36+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "0f4823949e05",
