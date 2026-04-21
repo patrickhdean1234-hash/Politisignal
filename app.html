@@ -353,9 +353,16 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
   background: rgba(79,125,255,0.08); border-bottom: 1px solid rgba(79,125,255,0.2);
   padding: 8px 20px; font-size: 12px; font-family: 'DM Mono', monospace;
   color: var(--accent); text-align: center; display: flex; align-items: center;
-  justify-content: center; gap: 12px;
+  justify-content: center; gap: 12px; position: relative;
 }
 .trial-banner a { color: white; font-weight: 600; text-decoration: none; background: var(--accent); padding: 3px 10px; border-radius: 4px; font-size: 11px; }
+.trial-banner-close {
+  position: absolute; right: 14px; top: 50%; transform: translateY(-50%);
+  background: none; border: none; color: var(--text3); cursor: pointer;
+  font-size: 16px; line-height: 1; padding: 2px 6px; border-radius: 4px;
+  transition: color 0.15s;
+}
+.trial-banner-close:hover { color: var(--text2); }
 </style>
 </head>
 <body>
@@ -375,6 +382,7 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
 <div id="trial-banner" class="trial-banner" style="display:none">
   <span id="trial-days-left"></span>
   <a href="/subscribe">Upgrade →</a>
+  <button class="trial-banner-close" onclick="document.getElementById('trial-banner').style.display='none';sessionStorage.setItem('ps-banner-dismissed','1')" title="Dismiss">×</button>
 </div>
 
 <!-- SIDEBAR -->
@@ -1427,11 +1435,13 @@ async function togglePushNotifications() {
     document.getElementById('trial-gate').style.display = 'flex';
     document.body.style.overflow = 'hidden';
   } else {
-    // Trial active — show countdown banner
-    const banner = document.getElementById('trial-banner');
-    const msg = document.getElementById('trial-days-left');
-    banner.style.display = 'flex';
-    msg.textContent = daysLeft === 1 ? '⚠️ Last day of your free trial' : `⏳ ${daysLeft} days left in your free trial`;
+    // Trial active — show countdown banner unless dismissed this session
+    if (!sessionStorage.getItem('ps-banner-dismissed')) {
+      const banner = document.getElementById('trial-banner');
+      const msg = document.getElementById('trial-days-left');
+      banner.style.display = 'flex';
+      msg.textContent = daysLeft === 1 ? '⚠️ Last day of your free trial' : `⏳ ${daysLeft} days left in your free trial`;
+    }
   }
 })();
 
