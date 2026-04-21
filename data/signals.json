@@ -1,27 +1,60 @@
 [
   {
-    "id": "c3edea4d8ee0",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "f657c9c82f6f",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Qiu Wenbin bought 16,000 shares of Baozun Inc. (BZUN) \u00b7 $3.14/share \u00b7 $50,240 total \u00b7 Apr 21",
-    "tags": [],
-    "tickers": [
-      "BZUN"
+    "severity": "critical",
+    "content": "The Movement: GOP\u2019s tax cut push overshadowed by Iran war, tariffs. Republican attempts to flaunt the benefits of the tax cuts they passed last year are being overshadowed by President Trump\u2019s foreign entanglements and tariffs, and the economic uncertainty that comes with it. \u201cWar\u2019s expensive, government's expensive, a",
+    "tags": [
+      "Trade",
+      "Taxes",
+      "Sanctions"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1975717/000110465926045680/0001104659-26-045680-index.htm",
-    "published_iso": "2026-04-21T10:15:56+00:00",
-    "time_ago": "36m ago"
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/the-movement/5840385-gop-tax-cuts-iran-tariffs/",
+    "published_iso": "2026-04-21T12:00:00+00:00",
+    "time_ago": "48m ago"
   },
   {
-    "id": "affe22b6ed7d",
+    "id": "d6f0b4f8c7ef",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "The Pentagon could be about to make a $55 billion mistake. The U.S. has navigated major military transitions before, but often only after costly delays. Autonomous warfare may not afford that margin",
+    "tags": [
+      "Defense",
+      "Regulation"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/national-security/5839463-the-pentagon-could-be-about-to-make-a-55-billion-mistake/",
+    "published_iso": "2026-04-21T12:00:00+00:00",
+    "time_ago": "48m ago"
+  },
+  {
+    "id": "23b28da8e37a",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -30,16 +63,105 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "What to know about Tuesday's redistricting referendum\u00a0in Virginia. Democrats in Virginia are eyeing one last opportunity to pass new congressional lines ahead of the 2026 midterm elections as the national redistricting war nears its end. Virginia Democrats teed up a Tuesday referendum asking voters if lawmakers can tem",
+    "content": "US, Iran talks in question with ceasefire in balance. With a fragile ceasefire winding down, Pakistan is pushing ahead with preparations for a second round of talks in Islamabad, even as Tehran signals it may not show up. U.S. officials have expressed cautious optimism that talks on a longer-term deal to end hostilitie",
     "tags": [
-      "Regulation"
+      "Energy",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/international/5840635-us-iran-second-round-talks-shaky-ceasefire/",
+    "published_iso": "2026-04-21T11:57:43+00:00",
+    "time_ago": "51m ago"
+  },
+  {
+    "id": "ff6ebe07f3d6",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Wasechek Wayne sold 2,920 shares of Rayonier Inc (RYN) \u00b7 $21.17/share \u00b7 $61,816 total \u00b7 Apr 21",
+    "tags": [],
+    "tickers": [
+      "RYN"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1760492/000176049226000008/0001760492-26-000008-index.htm",
+    "published_iso": "2026-04-21T11:48:35+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "03532bf66c34",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Rothblatt Martine A exercised options for 9,500 shares of United Therapeutics Corp (UTHR) \u00b7 $146.03/share \u00b7 $1,387,285 total \u00b7 Apr 21 ($6,876,709 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "UTHR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1106578/000110657826000036/0001106578-26-000036-index.htm",
+    "published_iso": "2026-04-21T11:41:53+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "90523d2d49a1",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Our father called it a war \u2014 and his words hold up today. Sargent Shriver's recently discovered memoir gives a first-person account of the War on Poverty",
+    "tags": [
+      "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/5839270-virginia-redistricting-referendum/",
-    "published_iso": "2026-04-21T10:00:00+00:00",
-    "time_ago": "52m ago"
+    "url": "https://thehill.com/opinion/civil-rights/5839490-our-father-called-it-a-war-and-his-words-hold-up-today/",
+    "published_iso": "2026-04-21T11:30:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "43dd11a57cc9",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "The wealth tax illusion: We cannot confiscate our way to prosperity. Wealth is not idle: It is capital in motion. When government extracts that capital, there are consequences",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/finance/5839564-the-wealth-tax-illusion-we-cannot-confiscate-our-way-to-prosperity/",
+    "published_iso": "2026-04-21T11:00:00+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "c28a82421761",
@@ -64,90 +186,10 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/house/5839862-johnson-fisa-spy-powers-iran-dhs/",
     "published_iso": "2026-04-21T10:00:00+00:00",
-    "time_ago": "52m ago"
+    "time_ago": "2h ago"
   },
   {
-    "id": "5b4d8d233d49",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Trump's feud with Powell threatens plans to replace Federal Reserve chair. President Trump's effort to push out Federal Reserve Chair Jerome Powell is threatening his ability to finally replace his nemesis. The Senate Banking Committee is scheduled to hold a confirmation hearing Tuesday for Kevin Warsh, the former Fed ",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/personal-finance/5839652-trumps-powell-federal-reserve-feud/",
-    "published_iso": "2026-04-21T10:00:00+00:00",
-    "time_ago": "52m ago"
-  },
-  {
-    "id": "9c2883677b28",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Republicans stress over economic whiplash from Iran conflict. Republican lawmakers are sounding the alarm over how voters view President Trump\u2019s handling of the economy after Iran announced over the weekend it would keep the Strait of Hormuz closed, raising the prospect of high fuel prices through Election Day. Growing",
-    "tags": [
-      "Defense",
-      "Regulation",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5840070-republicans-economy-trump-iran/",
-    "published_iso": "2026-04-21T10:00:00+00:00",
-    "time_ago": "52m ago"
-  },
-  {
-    "id": "a20bdb8544c0",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "GOP-linked group urges Congress to slash red tape on Pentagon acquisitions. A GOP-linked group is urging Congress to slash red tape on the Pentagon\u2019s defense acquisition process, a restructuring aimed at prioritizing shorter timelines for delivery, expanding the industrial base and boosting capacity.  The new report fr",
-    "tags": [
-      "Defense",
-      "Taxes"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/defense/5840265-congress-slashes-red-tape-pentagon/",
-    "published_iso": "2026-04-21T10:00:00+00:00",
-    "time_ago": "52m ago"
-  },
-  {
-    "id": "a508e3db785f",
+    "id": "4eb16b27cd64",
     "politician": "Politico",
     "initials": "PO",
     "role": "Political News",
@@ -156,7 +198,7 @@
       "fg": "#fca5a5"
     },
     "severity": "medium",
-    "content": "Dueling PACs gear up for GOP primary wars over immigration. The Dignity Act, a bipartisan immigration reform bill, has sparked a revolt on the political right",
+    "content": "Rival PACs line up to target GOP cosponsors of immigration bill. The Dignity Act, a bipartisan immigration reform bill, has sparked a revolt on the political right",
     "tags": [
       "Regulation"
     ],
@@ -165,97 +207,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/04/21/immigration-republicans-pacs-dignity-act-00882222",
     "published_iso": "2026-04-21T09:00:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "4b78536bc065",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Roy unveils immigration bill dubbed 'MAMDANI Act'. Rep. Chip Roy (R-Texas) on Monday introduced an immigration bill he dubbed the \u201cMAMDANI Act.\u201d The Measures Against Marxism\u2019s Dangerous Adherents and Noxious Islamists Act proposes amending the Immigration and Nationality Act, which dictates federal immigration law, to ",
-    "tags": [
-      "Semiconductors",
-      "Regulation"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "AMD",
-      "QCOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5840389-chip-roy-mamdani-act/",
-    "published_iso": "2026-04-21T02:02:55+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "2b8256ab5497",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Saha Anurag received 7,260 shares of Crowdstrike Holdings, Inc. (CRWD) \u00b7 Apr 20 ($1,353,658 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CRWD"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1921602/000192160226000004/0001921602-26-000004-index.htm",
-    "published_iso": "2026-04-21T01:55:09+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "016a9fadbeb4",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Sentonas Michael received 36,304 shares of Crowdstrike Holdings, Inc. (CRWD) \u00b7 Apr 20",
-    "tags": [],
-    "tickers": [
-      "CRWD"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1968270/000196827026000007/0001968270-26-000007-index.htm",
-    "published_iso": "2026-04-21T01:55:07+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "5bd7db6e4891",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Kurtz George received 66,558 shares of Crowdstrike Holdings, Inc. (CRWD) \u00b7 Apr 20",
-    "tags": [],
-    "tickers": [
-      "CRWD"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1778564/000177856426000012/0001778564-26-000012-index.htm",
-    "published_iso": "2026-04-21T01:55:05+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "d27df13749e2",
@@ -276,7 +228,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07773/annual-update-to-fee-schedule-for-the-use-of-government-lands-by-hydropower-licensees",
     "published_iso": "2026-04-21T00:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "651f5df17fe8",
@@ -298,7 +250,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07766/establishment-of-restricted-areas-r-5305a-r-5305b-and-r-5305c-camp-lejeune-nc-and-restricted-areas",
     "published_iso": "2026-04-21T00:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "6ee4ee65a5f5",
@@ -320,7 +272,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07756/modification-of-class-e-airspace-florence-municipal-airport-florence-or",
     "published_iso": "2026-04-21T00:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "2ed0c598e892",
@@ -339,7 +291,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07736/airworthiness-directives-mhi-rj-aviation-ulc-type-certificate-previously-held-by-bombardier-inc",
     "published_iso": "2026-04-21T00:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "1260ef5681f5",
@@ -358,7 +310,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07708/fisheries-of-the-exclusive-economic-zone-off-alaska-pollock-in-statistical-area-610-in-the-gulf-of",
     "published_iso": "2026-04-21T00:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "040a651b7b34",
@@ -379,7 +331,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07706/pacific-island-fisheries-annual-catch-limit-and-accountability-measures-main-hawaiian-islands-deep-7",
     "published_iso": "2026-04-21T00:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "73eac42cb120",
@@ -398,7 +350,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h125?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-20T22:59:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "c8533fb64fee",
@@ -421,7 +373,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/joint-statement-ambassador-jamieson-greer-and-mexican-secretary-economy-marcelo-ebrard",
     "published_iso": "2026-04-20T22:03:55+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "cfa63de4202c",
@@ -440,7 +392,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s86?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-20T21:32:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "230ab73ec37d",
@@ -461,7 +413,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mjxfneacc22n",
     "published_iso": "2026-04-20T21:22:50.653000+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "03a235ca6ed1",
@@ -489,7 +441,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-issues-presidential-determination-to-support-u-s-air-force-jet-fighter-training-operations/",
     "published_iso": "2026-04-20T21:04:43+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "830de2429398",
@@ -517,7 +469,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-grid-infrastructure-equipment-and-supply-chain-capacity/",
     "published_iso": "2026-04-20T20:25:21+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "76716f9b76cf",
@@ -539,7 +491,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-determination-concerning-the-air-forces-jet-fighter-training-operations-in-idaho-oregon-and-nevada/",
     "published_iso": "2026-04-20T20:13:36+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "0f4823949e05",
@@ -560,7 +512,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mjx75p6cds2d",
     "published_iso": "2026-04-20T19:26:42.803000+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "7aabc064a553",
@@ -582,7 +534,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/04/president-trumps-landmark-order-advances-breakthrough-mental-health-treatments-delivering-new-hope-to-veterans/",
     "published_iso": "2026-04-20T19:05:31+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "715f73273919",
@@ -604,7 +556,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mjx3f7lszc2z",
     "published_iso": "2026-04-20T18:19:19.937000+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "5fa4132f0ac2",
@@ -623,7 +575,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-lee-launch-bipartisan-probe-into-potential-united-american-merger-as-air-travel-costs-continue-to-skyrocket",
     "published_iso": "2026-04-20T16:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "0047e3ab5b67",
@@ -645,7 +597,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "756410e11b16",
@@ -708,7 +660,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/04/18/immigration-poll-trump-deportation-campaign-00879549",
     "published_iso": "2026-04-18T11:00:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "b3e8f033eeb3",
