@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <linearGradient id="g" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" stop-color="#f0abfc"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Apex triangle -->
+  <path d="M50 4 L44 18 L56 18 Z" stroke="url(#g)" stroke-width="2.2" stroke-linejoin="round"/>
+
+  <!-- First tier trapezoid -->
+  <path d="M44 18 L39 32 L61 32 L56 18 Z" stroke="url(#g)" stroke-width="2.2" stroke-linejoin="round"/>
+  <!-- Center vertical divider -->
+  <line x1="50" y1="18" x2="50" y2="32" stroke="url(#g)" stroke-width="2.2"/>
+
+  <!-- Sloped walls from first tier down to eye -->
+  <line x1="39" y1="32" x2="25" y2="46" stroke="url(#g)" stroke-width="2.2"/>
+  <line x1="61" y1="32" x2="75" y2="46" stroke="url(#g)" stroke-width="2.2"/>
+
+  <!-- Eye (almond shape) centered at (50, 46) -->
+  <path d="M25 46 Q50 37 75 46 Q50 55 25 46 Z" stroke="url(#g)" stroke-width="2.2"/>
+  <!-- Pupil -->
+  <circle cx="50" cy="46" r="6.5" fill="url(#g)"/>
+
+  <!-- Lower walls from eye down to base -->
+  <line x1="25" y1="46" x2="17" y2="63" stroke="url(#g)" stroke-width="2.2"/>
+  <line x1="75" y1="46" x2="83" y2="63" stroke="url(#g)" stroke-width="2.2"/>
+  <!-- Base of eye section -->
+  <line x1="17" y1="63" x2="83" y2="63" stroke="url(#g)" stroke-width="2.2"/>
+
+  <!-- Wide base tier 1 -->
+  <path d="M17 63 L11 76 L89 76 L83 63 Z" stroke="url(#g)" stroke-width="2.2" stroke-linejoin="round"/>
+  <!-- Horizontal mid-line in tier 1 -->
+  <line x1="11" y1="69.5" x2="89" y2="69.5" stroke="url(#g)" stroke-width="2.2"/>
+
+  <!-- Foundation tier 2 -->
+  <path d="M11 76 L5 90 L95 90 L89 76 Z" stroke="url(#g)" stroke-width="2.2" stroke-linejoin="round"/>
+</svg>
