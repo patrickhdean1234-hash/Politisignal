@@ -403,6 +403,25 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
   transition: color 0.15s;
 }
 .trial-banner-close:hover { color: var(--text2); }
+.trial-banner-pill {
+  position: fixed; bottom: 20px; left: 20px; z-index: 200;
+  background: rgba(79,125,255,0.15); border: 1px solid rgba(79,125,255,0.35);
+  border-radius: 999px; padding: 7px 14px 7px 12px;
+  display: none; align-items: center; gap: 8px;
+  font-size: 11px; font-family: 'DM Mono', monospace; color: var(--accent);
+  cursor: pointer; backdrop-filter: blur(8px); transition: all 0.15s;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.4);
+}
+.trial-banner-pill:hover { background: rgba(79,125,255,0.25); border-color: rgba(79,125,255,0.5); }
+.trial-banner-pill .pill-upgrade { color: white; font-size: 10px; font-weight: 700; background: var(--accent); padding: 2px 8px; border-radius: 999px; letter-spacing: 0.5px; }
+.restore-access-row { margin-top: 12px; font-size: 12px; color: var(--text3); text-align: center; }
+.restore-access-row a { color: var(--accent); text-decoration: none; cursor: pointer; }
+.restore-access-row a:hover { text-decoration: underline; }
+.restore-select { display: none; margin-top: 14px; padding: 14px; background: rgba(255,255,255,0.03); border: 1px solid var(--border); border-radius: 10px; }
+.restore-select p { font-size: 12px; color: var(--text2); margin-bottom: 10px; text-align: center; }
+.restore-btn { display: block; width: 100%; padding: 10px; margin-bottom: 8px; border-radius: 8px; border: 1px solid rgba(79,125,255,0.3); background: rgba(79,125,255,0.08); color: var(--text); font-size: 13px; font-family: 'Bricolage Grotesque', sans-serif; cursor: pointer; transition: all 0.15s; text-align: left; display: flex; justify-content: space-between; align-items: center; }
+.restore-btn:hover { background: rgba(79,125,255,0.15); border-color: rgba(79,125,255,0.5); }
+.restore-btn .rb-price { font-size: 11px; color: var(--text3); font-family: 'DM Mono', monospace; }
 </style>
 </head>
 <body>
@@ -427,7 +446,15 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
       <button class="email-gate-btn" type="submit" id="gate-btn">Start Free Trial →</button>
     </form>
     <div class="email-gate-footer">
-      Already subscribed? <a href="/subscribe">Upgrade your plan →</a>
+      7-day free trial · No credit card required
+    </div>
+    <div class="restore-access-row">
+      Already a paid subscriber? <a onclick="toggleRestoreAccess('gate-restore')">Restore access →</a>
+    </div>
+    <div class="restore-select" id="gate-restore">
+      <p>Select your plan to restore access on this device:</p>
+      <button class="restore-btn" onclick="restoreAccess('trader')"><span>⚡ Pro Trader</span><span class="rb-price">$19/mo</span></button>
+      <button class="restore-btn" onclick="restoreAccess('elite')"><span>🏅 Founding Elite</span><span class="rb-price">$49/mo</span></button>
     </div>
   </div>
 </div>
@@ -440,6 +467,14 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
     <p>Your 7-day free trial is over. Subscribe to Pro ($19/mo) or Elite ($49/mo) to keep trading ahead of political events.</p>
     <a class="trial-btn-primary" href="/subscribe">See Plans & Subscribe →</a>
     <div style="font-size:12px;color:var(--text3);font-family:'DM Mono',monospace;">No lock-in · Cancel anytime · Founding prices</div>
+    <div class="restore-access-row" style="margin-top:16px;">
+      Already subscribed? <a onclick="toggleRestoreAccess('trial-restore')">Restore access →</a>
+    </div>
+    <div class="restore-select" id="trial-restore">
+      <p>Select your plan to restore access on this device:</p>
+      <button class="restore-btn" onclick="restoreAccess('trader')"><span>⚡ Pro Trader</span><span class="rb-price">$19/mo</span></button>
+      <button class="restore-btn" onclick="restoreAccess('elite')"><span>🏅 Founding Elite</span><span class="rb-price">$49/mo</span></button>
+    </div>
   </div>
 </div>
 
@@ -447,7 +482,13 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
 <div id="trial-banner" class="trial-banner" style="display:none">
   <span id="trial-days-left"></span>
   <a href="/subscribe">Upgrade →</a>
-  <button class="trial-banner-close" onclick="document.getElementById('trial-banner').style.display='none';sessionStorage.setItem('ps-banner-dismissed','1')" title="Dismiss">×</button>
+  <button class="trial-banner-close" onclick="minimizeTrialBanner()" title="Minimize">−</button>
+</div>
+
+<!-- TRIAL PILL (shown when banner is minimized) -->
+<div id="trial-banner-pill" class="trial-banner-pill" onclick="expandTrialBanner()">
+  <span id="trial-pill-text">⏳</span>
+  <span class="pill-upgrade">UPGRADE</span>
 </div>
 
 <!-- SIDEBAR -->
@@ -1274,6 +1315,17 @@ function openSignalModal(id) {
 
 // ── ALERT RULES ────────────────────────────────────────────────────────────
 function openAlertModal() {
+  const plan = localStorage.getItem('ps-plan');
+  if (plan !== 'trader' && plan !== 'elite') {
+    const container = document.getElementById('toast-container');
+    const t = document.createElement('div');
+    t.className = 'toast';
+    t.innerHTML = `<div class="toast-icon">🔒</div><div><div class="toast-title">Pro feature</div><div class="toast-desc">Custom alert rules require a Pro or Elite plan. <a href="/subscribe" style="color:var(--accent);text-decoration:none;">Upgrade →</a></div></div>`;
+    container.appendChild(t);
+    t.onclick = () => t.remove();
+    setTimeout(() => t.remove(), 5000);
+    return;
+  }
   renderAlertRules();
   openModal('alert-modal');
   Notification.requestPermission();
@@ -1511,10 +1563,40 @@ function submitTrialEmail(event) {
   document.body.style.overflow = '';
 
   // Show trial banner
-  if (!sessionStorage.getItem('ps-banner-dismissed')) {
+  if (!sessionStorage.getItem('ps-banner-minimized')) {
     document.getElementById('trial-banner').style.display = 'flex';
     document.getElementById('trial-days-left').textContent = '⏳ 7 days left in your free trial';
+  } else {
+    document.getElementById('trial-banner-pill').style.display = 'flex';
+    document.getElementById('trial-pill-text').textContent = '⏳ 7d left';
   }
+}
+
+function minimizeTrialBanner() {
+  document.getElementById('trial-banner').style.display = 'none';
+  const pill = document.getElementById('trial-banner-pill');
+  pill.style.display = 'flex';
+  sessionStorage.setItem('ps-banner-minimized', '1');
+}
+
+function expandTrialBanner() {
+  document.getElementById('trial-banner-pill').style.display = 'none';
+  document.getElementById('trial-banner').style.display = 'flex';
+  sessionStorage.removeItem('ps-banner-minimized');
+}
+
+function toggleRestoreAccess(id) {
+  const el = document.getElementById(id);
+  el.style.display = el.style.display === 'block' ? 'none' : 'block';
+}
+
+function restoreAccess(plan) {
+  localStorage.setItem('ps-plan', plan);
+  localStorage.setItem('ps-plan-activated', new Date().toISOString());
+  if (!localStorage.getItem('ps-trial-start')) {
+    localStorage.setItem('ps-trial-start', Date.now());
+  }
+  location.reload();
 }
 
 (function checkTrial() {
@@ -1540,15 +1622,18 @@ function submitTrialEmail(event) {
   const elapsed = Date.now() - trialStart;
   const daysLeft = Math.ceil((TRIAL_MS - elapsed) / (24 * 60 * 60 * 1000));
 
+  const daysText = daysLeft === 1 ? '⚠️ Last day of your free trial' : `⏳ ${daysLeft} days left in your free trial`;
+  const pillText = daysLeft === 1 ? '⚠️ Last day' : `⏳ ${daysLeft}d left`;
+
   if (elapsed >= TRIAL_MS) {
     document.getElementById('trial-gate').style.display = 'flex';
     document.body.style.overflow = 'hidden';
+  } else if (sessionStorage.getItem('ps-banner-minimized')) {
+    document.getElementById('trial-banner-pill').style.display = 'flex';
+    document.getElementById('trial-pill-text').textContent = pillText;
   } else {
-    if (!sessionStorage.getItem('ps-banner-dismissed')) {
-      document.getElementById('trial-banner').style.display = 'flex';
-      document.getElementById('trial-days-left').textContent =
-        daysLeft === 1 ? '⚠️ Last day of your free trial' : `⏳ ${daysLeft} days left in your free trial`;
-    }
+    document.getElementById('trial-banner').style.display = 'flex';
+    document.getElementById('trial-days-left').textContent = daysText;
   }
 })();
 

@@ -38,6 +38,13 @@ h1 { font-family: 'Syne', sans-serif; font-size: 28px; font-weight: 800; margin-
 .footer-note a { color: var(--accent); text-decoration: none; }
 @keyframes checkIn { from { transform: scale(0.5); opacity: 0; } to { transform: scale(1); opacity: 1; } }
 .check-ring { animation: checkIn 0.4s cubic-bezier(0.34, 1.56, 0.64, 1) forwards; }
+.plan-select { text-align: left; margin-bottom: 24px; }
+.plan-select p { font-size: 14px; color: var(--text2); line-height: 1.6; margin-bottom: 16px; text-align: center; }
+.plan-select-btn { display: flex; align-items: center; justify-content: space-between; width: 100%; padding: 14px 18px; margin-bottom: 10px; border-radius: 12px; border: 1px solid var(--border); background: rgba(255,255,255,0.03); color: var(--text); font-size: 14px; font-family: 'Bricolage Grotesque', sans-serif; cursor: pointer; transition: all 0.15s; text-align: left; }
+.plan-select-btn:hover { border-color: rgba(79,125,255,0.4); background: rgba(79,125,255,0.06); }
+.plan-select-btn .ps-price { font-size: 12px; color: var(--text3); font-family: 'DM Mono', monospace; }
+.plan-select-note { font-size: 11px; color: var(--text3); text-align: center; margin-top: 8px; line-height: 1.6; }
+.plan-select-note a { color: var(--accent); text-decoration: none; }
 </style>
 </head>
 <body>
@@ -47,18 +54,34 @@ h1 { font-family: 'Syne', sans-serif; font-size: 28px; font-weight: 800; margin-
   <h1 id="headline">You're in.</h1>
   <p class="sub" id="subtext">Your account is now active. Head to the dashboard to start trading ahead of political events.</p>
 
-  <div class="features" id="feature-list">
-    <!-- filled by JS -->
+  <!-- Plan selection (shown when Stripe doesn't pass ?plan= param) -->
+  <div class="plan-select" id="plan-select" style="display:none">
+    <p>Welcome! Please confirm which plan you just subscribed to:</p>
+    <button class="plan-select-btn" onclick="claimPlan('trader')">
+      <span>⚡ Pro Trader</span>
+      <span class="ps-price">$19 / mo</span>
+    </button>
+    <button class="plan-select-btn" onclick="claimPlan('elite')">
+      <span>🏅 Founding Elite</span>
+      <span class="ps-price">$49 / mo</span>
+    </button>
+    <p class="plan-select-note">Not sure? Check your Stripe receipt email or contact <a href="mailto:hello@politisignal.com">hello@politisignal.com</a></p>
   </div>
 
-  <div class="api-box" id="api-box" style="display:none">
-    <div class="api-label">Your API Endpoint</div>
-    <div class="api-url">https://politisignal.com/api/signals</div>
-    <div style="font-size:11px;color:var(--text3);margin-top:6px;">Supports ?limit=50&severity=critical&ticker=NVDA&since=2025-01-01</div>
-  </div>
+  <div id="main-content">
+    <div class="features" id="feature-list">
+      <!-- filled by JS -->
+    </div>
 
-  <a class="btn-primary" href="/app" id="cta-btn">Open Live Dashboard →</a>
-  <a class="btn-ghost" href="mailto:hello@politisignal.com" id="support-link">Contact Support</a>
+    <div class="api-box" id="api-box" style="display:none">
+      <div class="api-label">Your API Endpoint</div>
+      <div class="api-url">https://politisignal.com/api/signals</div>
+      <div style="font-size:11px;color:var(--text3);margin-top:6px;">Supports ?limit=50&severity=critical&ticker=NVDA&since=2025-01-01</div>
+    </div>
+
+    <a class="btn-primary" href="/app" id="cta-btn">Open Live Dashboard →</a>
+    <a class="btn-ghost" href="mailto:hello@politisignal.com" id="support-link">Contact Support</a>
+  </div>
 
   <p class="footer-note">
     Manage or cancel your subscription anytime at <a href="https://billing.stripe.com/p/login/politisignal" target="_blank">billing.stripe.com</a>.<br>
@@ -68,10 +91,38 @@ h1 { font-family: 'Syne', sans-serif; font-size: 28px; font-weight: 800; margin-
 
 <script>
 const params = new URLSearchParams(location.search);
-const plan = params.get('plan') || localStorage.getItem('ps-plan') || 'free';
+const planFromUrl = params.get('plan');
+const planFromStorage = localStorage.getItem('ps-plan');
+
+// Determine plan: URL param > localStorage (if paid) > ask user
+let plan;
+if (planFromUrl && (planFromUrl === 'trader' || planFromUrl === 'elite')) {
+  plan = planFromUrl;
+} else if (planFromStorage === 'trader' || planFromStorage === 'elite') {
+  plan = planFromStorage;
+} else {
+  // Came from Stripe but no plan detected — show selection UI
+  plan = null;
+  document.getElementById('plan-select').style.display = '';
+  document.getElementById('main-content').style.display = 'none';
+  document.getElementById('plan-badge').textContent = 'Payment received!';
+  document.getElementById('plan-badge').className = 'plan-badge trader';
+  document.getElementById('headline').textContent = "Payment confirmed!";
+  document.getElementById('subtext').textContent = "Your payment was received. Select your plan below to activate your account.";
+}
+
+function claimPlan(selectedPlan) {
+  localStorage.setItem('ps-plan', selectedPlan);
+  localStorage.setItem('ps-plan-activated', new Date().toISOString());
+  if (!localStorage.getItem('ps-trial-start')) {
+    localStorage.setItem('ps-trial-start', Date.now());
+  }
+  // Reload with plan param so the page renders correctly
+  location.href = '/success?plan=' + selectedPlan;
+}
 
 // Activate plan in localStorage (Stripe success redirect sets ?plan=trader or ?plan=elite)
-if (plan !== 'free') {
+if (plan && plan !== 'free') {
   localStorage.setItem('ps-plan', plan);
   localStorage.setItem('ps-plan-activated', new Date().toISOString());
   // Ensure trial gate never blocks a paid subscriber
@@ -125,15 +176,17 @@ const plans = {
   },
 };
 
-const cfg = plans[plan] || plans.free;
-document.getElementById('plan-badge').className = `plan-badge ${cfg.badgeClass}`;
-document.getElementById('plan-badge').textContent = cfg.label;
-document.getElementById('headline').textContent = cfg.headline;
-document.getElementById('subtext').textContent = cfg.subtext;
-document.getElementById('feature-list').innerHTML = cfg.features.map(f =>
-  `<div class="feature-row"><span class="check">✓</span> ${f}</div>`
-).join('');
-if (cfg.showApi) document.getElementById('api-box').style.display = '';
+if (plan) {
+  const cfg = plans[plan] || plans.free;
+  document.getElementById('plan-badge').className = `plan-badge ${cfg.badgeClass}`;
+  document.getElementById('plan-badge').textContent = cfg.label;
+  document.getElementById('headline').textContent = cfg.headline;
+  document.getElementById('subtext').textContent = cfg.subtext;
+  document.getElementById('feature-list').innerHTML = cfg.features.map(f =>
+    `<div class="feature-row"><span class="check">✓</span> ${f}</div>`
+  ).join('');
+  if (cfg.showApi) document.getElementById('api-box').style.display = '';
+}
 
 // Request push notification permission for paid plans
 if (plan === 'trader' || plan === 'elite') {
