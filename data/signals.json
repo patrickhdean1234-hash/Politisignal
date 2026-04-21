@@ -1,48 +1,27 @@
 [
   {
-    "id": "01dff384dbb9",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "791b40ca341f",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
     },
     "severity": "medium",
-    "content": "Magnani Alexandre Mr sold 200,000 shares of Pagseguro Digital Ltd. (PAGS) \u00b7 $11.26/share \u00b7 $2,252,000 total \u00b7 Apr 21",
-    "tags": [],
-    "tickers": [
-      "PAGS"
+    "content": "Not a penny to make life more affordable for American families, but $70 BILLION for ICE to terrorize our communities.",
+    "tags": [
+      "Regulation"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2120783/000129281426002435/0001292814-26-002435-index.htm",
-    "published_iso": "2026-04-21T15:54:04+00:00",
-    "time_ago": "1m ago"
+    "tickers": [],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjzqjh3l4k2h",
+    "published_iso": "2026-04-21T19:42:50.066000+00:00",
+    "time_ago": "11m ago"
   },
   {
-    "id": "60c647b1d56d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Milanes Douglas J. sold 3,620 shares of Darden Restaurants Inc (DRI) \u00b7 $202.16/share \u00b7 $731,837 total \u00b7 Apr 21",
-    "tags": [],
-    "tickers": [
-      "DRI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1718083/000122520826004575/0001225208-26-004575-index.htm",
-    "published_iso": "2026-04-21T15:47:42+00:00",
-    "time_ago": "8m ago"
-  },
-  {
-    "id": "4dd99212242a",
+    "id": "bf89132bca0d",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -51,17 +30,20 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Are you ready for universal Trump pardons?. President Trump has reportedly boasted that he will issue pre-emptive presidential pardons to hundreds, if not thousands, of administration staff and officials, which could raise questions about the potential for abuse of the Pardons Clause and the potential for unethical or ",
-    "tags": [],
+    "content": "Kennedy snaps back at comment about 'whale heads, bear heads, and raccoon parts'. Health and Human Services Secretary Robert F. Kennedy Jr. snapped at Rep. Troy Carter (D-La.) on Tuesday after the lawmaker said he wished Kennedy would spend \u201cless time talking about whale heads, bear heads and raccoon parts.\u201d The exchan",
+    "tags": [
+      "Energy",
+      "Regulation"
+    ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/white-house/5839944-trump-preemptive-pardons-staff/",
-    "published_iso": "2026-04-21T15:30:00+00:00",
-    "time_ago": "25m ago"
+    "url": "https://thehill.com/policy/healthcare/5841767-kennedy-animal-encounters-hearing/",
+    "published_iso": "2026-04-21T19:37:50+00:00",
+    "time_ago": "16m ago"
   },
   {
-    "id": "e29911e4a3d2",
+    "id": "7f8513fcedc0",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -70,7 +52,74 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Hegseth ends mandatory flu vaccine for service members. The Pentagon is ending mandatory flu vaccines for service members, phrasing the change as giving troops \u201cmedical autonomy\u201d and \u201cfreedom to express their religious convictions,\u201d Defense Secretary Pete Hegseth announced Tuesday. \u201cOur new policy is simple. If you, an",
+    "content": "Steak 'n Shake hires first 'Chief MAHA Officer'. Steak \u2019n Shake on Tuesday announced its first Chief Make America Healthy Again (MAHA) Officer who the company said will help guide the advancement of nutritional integrity in line with the Trump administration\u2019s national movement geared toward eliminating chronic disease",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/5841727-steak-n-shake-chief-maha-officer/",
+    "published_iso": "2026-04-21T19:32:46+00:00",
+    "time_ago": "21m ago"
+  },
+  {
+    "id": "fb15d5c7d4ce",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Voting rights activists sue over DOJ state voter list requests. Voting rights activists on Tuesday sued the Trump administration over its efforts to obtain lists of registered voters from states, casting it as a bid to take over and subvert November's midterm elections. The Justice Department (DOJ) is vying for electio",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/regulation/court-battles/5841584-activists-fight-voter-data-requests/",
+    "published_iso": "2026-04-21T19:25:05+00:00",
+    "time_ago": "29m ago"
+  },
+  {
+    "id": "72884889c63d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Warsh faces pressure on Fed independence, assets in Senate grilling. Senators grilled Kevin Warsh, President Trump\u2019s pick to lead the Federal Reserve, on Tuesday over the central bank\u2019s independence and his plans to divest his financial assets amid the push to confirm Fed Chair Jerome Powell\u2019s replacement. Warsh argued",
+    "tags": [
+      "Banking",
+      "Defense"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/personal-finance/5841735-warsh-federal-reserve-independence/",
+    "published_iso": "2026-04-21T19:19:41+00:00",
+    "time_ago": "35m ago"
+  },
+  {
+    "id": "4ae3f6babc0d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "GOP Armed Services chair warns ending mandatory military flu shots 'a mistake'. Senate Armed Services Committee Chairman Roger Wicker (R-Miss.) said the Pentagon\u2019s policy change to no longer require all U.S. troops to get flu shots is a \u201cmistake,\u201d drawing a contrast between flu vaccines and more controversial COVID-19 ",
     "tags": [
       "Defense"
     ],
@@ -82,9 +131,77 @@
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/5841096-pentagon-ends-mandatory-flu-vaccines/",
-    "published_iso": "2026-04-21T15:29:53+00:00",
-    "time_ago": "25m ago"
+    "url": "https://thehill.com/homenews/senate/5841737-gop-armed-services-chair-warns-ending-mandatory-military-flu-shots-a-mistake/",
+    "published_iso": "2026-04-21T19:14:35+00:00",
+    "time_ago": "40m ago"
+  },
+  {
+    "id": "6b2f9e638c87",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "Nominations Sent to the Senate. NOMINATIONS SENT TO THE SENATE: Riley Barnes, of Texas, to be Director of the Peace Corps. Rudolph Bauer, of South Carolina, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to Belize. Don Richard Berthiaume, Jr., of Virginia, to be Inspector General, De",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/04/nominations-sent-to-the-senate-633f/",
+    "published_iso": "2026-04-21T18:49:23+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "8f7cebf3b20d",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "There is so much work to be done to make our country less expensive and more affordable for working families.\n\u00a0\nThis work is impossible without an independent Federal Reserve.",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mjziry3tbc2z",
+    "published_iso": "2026-04-21T17:24:26.402000+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "4454f4059bd8",
+    "politician": "Rep. Nancy Pelosi",
+    "initials": "NP",
+    "role": "House Democratic Leader",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#60a5fa"
+    },
+    "severity": "high",
+    "content": "Met with Dr. Bjorn Kunoy of the Faroe Islands today to discuss strengthening our transatlantic partnership.\n \nAs the President continues to threaten the Danish Realm, we must stand for sovereignty, the rule of law and respect for our allies.",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/pelosi.house.gov/post/3mjzeyxu6g22x",
+    "published_iso": "2026-04-21T16:16:46.059000+00:00",
+    "time_ago": "3h ago"
   },
   {
     "id": "6c0d8cc83293",
@@ -105,50 +222,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/04/president-trump-addresses-key-issues-facing-the-nation-in-exclusive-cnbc-interview/",
     "published_iso": "2026-04-21T15:22:18+00:00",
-    "time_ago": "33m ago"
-  },
-  {
-    "id": "611228fe2652",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Southern Poverty Law Center says it's being investigated by DOJ. The Southern Poverty Law Center (SPLC) announced Tuesday that it is under investigation by the Department of Justice, a move that comes after the Trump administration has repeatedly admonished the civil rights group. SPLC\u2019s interim CEO Bryan Fair said the",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5841063-southern-poverty-law-center-doj-splc/",
-    "published_iso": "2026-04-21T15:11:14+00:00",
-    "time_ago": "44m ago"
-  },
-  {
-    "id": "46b4657d7065",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "House Republican 'would not be surprised' if foreign adversaries to blame for dead, missing US scientists. Rep. Eric Burlison (R-Mo.), who sits on the House Oversight Committee, said late Monday that he would \u201cnot be surprised\u201d if foreign adversaries were responsible for the mysterious deaths and disappearances of near",
-    "tags": [
-      "China",
-      "Sanctions"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5841044-american-scientists-mysterious-deaths/",
-    "published_iso": "2026-04-21T15:06:51+00:00",
-    "time_ago": "48m ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "4eb16b27cd64",
@@ -169,7 +243,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/04/21/immigration-republicans-pacs-dignity-act-00882222",
     "published_iso": "2026-04-21T09:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "d27df13749e2",
@@ -190,7 +264,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07773/annual-update-to-fee-schedule-for-the-use-of-government-lands-by-hydropower-licensees",
     "published_iso": "2026-04-21T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "651f5df17fe8",
@@ -212,7 +286,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07766/establishment-of-restricted-areas-r-5305a-r-5305b-and-r-5305c-camp-lejeune-nc-and-restricted-areas",
     "published_iso": "2026-04-21T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "6ee4ee65a5f5",
@@ -234,7 +308,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07756/modification-of-class-e-airspace-florence-municipal-airport-florence-or",
     "published_iso": "2026-04-21T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "2ed0c598e892",
@@ -253,7 +327,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07736/airworthiness-directives-mhi-rj-aviation-ulc-type-certificate-previously-held-by-bombardier-inc",
     "published_iso": "2026-04-21T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "1260ef5681f5",
@@ -272,7 +346,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07708/fisheries-of-the-exclusive-economic-zone-off-alaska-pollock-in-statistical-area-610-in-the-gulf-of",
     "published_iso": "2026-04-21T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "040a651b7b34",
@@ -293,7 +367,26 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07706/pacific-island-fisheries-annual-catch-limit-and-accountability-measures-main-hawaiian-islands-deep-7",
     "published_iso": "2026-04-21T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "19h ago"
+  },
+  {
+    "id": "33093f69cbb2",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "critical",
+    "content": "H.R. 5200: Emergency Reporting Act. Vote: Passed 386/7",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h126?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-04-20T23:19:00+00:00",
+    "time_ago": "20h ago"
   },
   {
     "id": "73eac42cb120",
@@ -312,7 +405,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h125?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-20T22:59:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "c8533fb64fee",
@@ -335,7 +428,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/joint-statement-ambassador-jamieson-greer-and-mexican-secretary-economy-marcelo-ebrard",
     "published_iso": "2026-04-20T22:03:55+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "cfa63de4202c",
@@ -354,7 +447,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s86?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-20T21:32:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "230ab73ec37d",
@@ -375,7 +468,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mjxfneacc22n",
     "published_iso": "2026-04-20T21:22:50.653000+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "03a235ca6ed1",
@@ -403,7 +496,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-issues-presidential-determination-to-support-u-s-air-force-jet-fighter-training-operations/",
     "published_iso": "2026-04-20T21:04:43+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "830de2429398",
@@ -431,29 +524,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-grid-infrastructure-equipment-and-supply-chain-capacity/",
     "published_iso": "2026-04-20T20:25:21+00:00",
-    "time_ago": "19h ago"
-  },
-  {
-    "id": "76716f9b76cf",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "Presidential Determination Concerning the Air Force\u2019s Jet Fighter Training Operations in Idaho, Oregon, and Nevada. MEMORANDUM FOR THE ADMINISTRATOR OF THE ENVIRONMENTAL PROTECTION AGENCY THE SECRETARY OF THE AIR FORCE SUBJECT: \u00a0\u00a0\u00a0\u00a0\u00a0 Presidential Determination Concerning the Air Force&#8217;s Jet Fighter Training Opera",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-determination-concerning-the-air-forces-jet-fighter-training-operations-in-idaho-oregon-and-nevada/",
-    "published_iso": "2026-04-20T20:13:36+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "5fa4132f0ac2",
@@ -472,7 +543,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-lee-launch-bipartisan-probe-into-potential-united-american-merger-as-air-travel-costs-continue-to-skyrocket",
     "published_iso": "2026-04-20T16:00:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "0047e3ab5b67",
@@ -515,29 +586,6 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07681/enrolled-agent-special-enrollment-examination-user-fee-update",
     "published_iso": "2026-04-20T00:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "d998478da04f",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "If you paid even a penny in federal income taxes on your income last year, you paid more than Tesla.. If you paid even a penny in federal income taxes on your income last year, you paid more than Tesla",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "TSLA"
-    ],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "http://www.warren.senate.gov/newsroom/videos/watch/if-you-paid-even-a-penny-in-federal-income-taxes-on-your-income-last-year-you-paid-more-than-tesla",
-    "published_iso": "2026-04-19T16:39:47+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -725,7 +773,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h121?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-16T18:29:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "8e190775123f",
@@ -744,7 +792,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h120?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-16T18:21:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "c81c6c9123fc",
@@ -767,26 +815,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-led-fences-act-clears-u-s-house/",
     "published_iso": "2026-04-16T18:07:32+00:00",
-    "time_ago": "4d ago"
-  },
-  {
-    "id": "8322bc96ae8e",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "Motion to Invoke Cloture: Andrew B. Davis to be U.S. District Judge for the Western District of Texas: Andrew B. Davis, of Texas, to be United States District Judge for the Western District of Texas. Vote: Cloture Motion Agreed to 49/48",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s85?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-04-16T17:36:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "3b4d29a09986",
@@ -836,27 +865,6 @@
     "time_ago": "5d ago"
   },
   {
-    "id": "bf5329b806fb",
-    "politician": "Rep. Nancy Pelosi",
-    "initials": "NP",
-    "role": "House Democratic Leader",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Five years ago, House Democrats passed the Paycheck Fairness Act to close the gender pay gap and ensure equal pay for equal work\u2014but Senate Republicans blocked it from becoming law.\n\nDemocrats will not stop fighting until every woman is finally paid what she has earned.",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/pelosi.house.gov/post/3mjkhfosrwc2t",
-    "published_iso": "2026-04-15T17:49:44.197000+00:00",
-    "time_ago": "5d ago"
-  },
-  {
     "id": "d773df1a1b2c",
     "politician": "Sen. Cynthia Lummis",
     "initials": "CL",
@@ -877,7 +885,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-cruz-file-amicus-brief-backing-trump-administrations-push-to-repeal-endangerment-finding/",
     "published_iso": "2026-04-15T17:31:26+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "f2763200dffd",
@@ -901,7 +909,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2025/opening-statement-jeffrey-goettman-senate-finance-committee",
     "published_iso": "2026-04-15T16:03:07+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "9d19c2d700b7",
@@ -925,7 +933,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2025/opening-statement-dr-julie-callahan-senate-finance-committee",
     "published_iso": "2026-04-15T15:55:48+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "3a2fd7089fad",
@@ -947,7 +955,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ambassador-greer-meets-blue-collar-workers-and-industry-leaders-while-touring-manufacturing-plants",
     "published_iso": "2026-04-13T17:54:33+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "7e97dd57aa17",
@@ -998,7 +1006,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/icymi-lummis-op-ed-in-washington-post-a-broken-system-is-costing-america-trillions-i-see-it-in-wyoming/",
     "published_iso": "2026-04-08T16:14:36+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "600ac4c5c04c",
@@ -1047,7 +1055,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-introduces-legislation-to-codify-trumps-nuclear-baseload-energy-executive-orders/",
     "published_iso": "2026-03-26T18:12:45+00:00",
-    "time_ago": "25d ago"
+    "time_ago": "26d ago"
   },
   {
     "id": "42002aa36a3f",
@@ -1090,7 +1098,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/news-sanders-welch-balint-statement-on-recent-ice-raids-in-south-burlington/",
     "published_iso": "2026-03-12T18:51:43+00:00",
-    "time_ago": "39d ago"
+    "time_ago": "40d ago"
   },
   {
     "id": "3c2b4ad7a11c",
@@ -1142,7 +1150,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mfphfzy4qs2n",
     "published_iso": "2026-02-25T19:52:28.088000+00:00",
-    "time_ago": "54d ago"
+    "time_ago": "55d ago"
   },
   {
     "id": "782af70b6ebe",
@@ -1204,7 +1212,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/aoc.bsky.social/post/3mfhthlg3u22x",
     "published_iso": "2026-02-22T19:06:46.919000+00:00",
-    "time_ago": "57d ago"
+    "time_ago": "58d ago"
   },
   {
     "id": "602146d3f751",
@@ -1226,7 +1234,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-announces-2026-service-academy-nominations/",
     "published_iso": "2026-02-18T19:38:51+00:00",
-    "time_ago": "61d ago"
+    "time_ago": "62d ago"
   },
   {
     "id": "79af8a04fb57",
@@ -1248,7 +1256,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meetings-in-sheldon-bristol-and-poultney/",
     "published_iso": "2026-01-29T16:27:05+00:00",
-    "time_ago": "81d ago"
+    "time_ago": "82d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1274,7 +1282,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "88d ago"
+    "time_ago": "89d ago"
   },
   {
     "id": "d39ac85b9cc9",
@@ -1575,7 +1583,7 @@
     "platform": ".gov",
     "url": "http://jordan.house.gov/media/blog/gop-fbi-refusing-accept-accountability-enforcing-doj-school-boards-memo",
     "published_iso": "2022-02-10T19:37:15+00:00",
-    "time_ago": "1530d ago"
+    "time_ago": "1531d ago"
   },
   {
     "id": "718743804c07",
@@ -1596,6 +1604,6 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about-us/policy-offices/press-office/blog/weekly-trade-focus-apec",
     "published_iso": "2009-07-20T18:28:39+00:00",
-    "time_ago": "6118d ago"
+    "time_ago": "6119d ago"
   }
 ]
