@@ -1,6 +1,27 @@
 [
   {
-    "id": "8865c9a09fa8",
+    "id": "dd0a23162851",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Arbour Paola M exercised options for 1,670 shares of Texas Capital Bancshares Inc/Tx (TCBIO) \u00b7 Apr 23",
+    "tags": [],
+    "tickers": [
+      "TCBIO"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1769862/000176986226000005/0001769862-26-000005-index.htm",
+    "published_iso": "2026-04-23T20:14:03+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "19b79152540a",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,40 +30,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Brown Patrick Sidney received 1,596 shares of Centrus Energy Corp (LEU) \u00b7 Apr 23 ($74,513 across all blocks)",
-    "tags": [
-      "Energy"
-    ],
+    "content": "Pitigoi Cosmin sold 30,000 shares of Flywire Corp (FLYW) \u00b7 $14.00/share \u00b7 $420,000 total \u00b7 Apr 23",
+    "tags": [],
     "tickers": [
-      "LEU"
+      "FLYW"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2065635/000162828026026745/0001628280-26-026745-index.htm",
-    "published_iso": "2026-04-23T16:44:56+00:00",
-    "time_ago": "9m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2013285/000119312526173721/0001193125-26-173721-index.htm",
+    "published_iso": "2026-04-23T20:12:52+00:00",
+    "time_ago": "1m ago"
   },
   {
-    "id": "d3a066498de9",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "The case for college hasn't changed \u2014 but the narrative has. Students and families deserve an honest account of what different pathways actually deliver",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/education/5842926-college-value-debate-education/",
-    "published_iso": "2026-04-23T16:30:00+00:00",
-    "time_ago": "24m ago"
-  },
-  {
-    "id": "a5d7675bf977",
+    "id": "e1f767984fb7",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -51,85 +51,237 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Pence-aligned group blasts Trump's reported Spirit Airlines rescue deal. The advocacy group founded by former Vice President Mike Pence is pushing back on the Trump administration\u2019s reported plan to rescue Spirit Airlines, becoming the latest conservative voice to oppose the idea. In a new memo first obtained by The Hi",
+    "content": "Trump unveils Regeron deal to lower drug prices. President Trump unveiled a deal with drugmaker Regeneron on Thursday for the company to\u00a0voluntarily cut prices, the final\u00a0manufacturer to commit to the White House's \u201cmost favored nation\u201d plan to lower U.S. costs in line with other developed nations.\u00a0 Under the agreement",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "REGN"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/healthcare/5845958-trump-regeneron-drug-price-deal/",
+    "published_iso": "2026-04-23T20:10:36+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "2cb3c3d3dbc1",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ramundo Katherine H received 18,786 shares of Aptiv Plc (APTV) \u00b7 Apr 23 ($0 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "APTV"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1521332/000119312526173698/0001193125-26-173698-index.htm",
+    "published_iso": "2026-04-23T20:09:47+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "cbc0e2232f66",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "JetBlue accused of using personal data to set ticket prices in new lawsuit. JetBlue is facing a proposed class action lawsuit alleging the airline collects passengers\u2019 personal data and uses it to set airfares, a practice described as \u201cdynamic surveillance pricing.\u201d The complaint was filed on Wednesday on behalf of a N",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/transportation/5845912-jetblue-data-collection-lawsuit/",
+    "published_iso": "2026-04-23T20:03:06+00:00",
+    "time_ago": "11m ago"
+  },
+  {
+    "id": "d2cab56ab265",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "White House official accuses foreign entities of \u2018industrial-scale\u2019 theft of US AI. The White House on Thursday accused foreign entities, primarily China, of running \u201cindustrial-scale\u201d campaigns to distill frontier artificial intelligence models from U.S. companies.\u00a0 Michael Kratsios, director of the White House Office",
+    "tags": [
+      "China"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/5845891-china-ai-theft-white-house/",
+    "published_iso": "2026-04-23T19:48:23+00:00",
+    "time_ago": "26m ago"
+  },
+  {
+    "id": "f68720f365dc",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "United Airlines considering raising fares amid jet fuel price surge. United Airlines CEO Scott Kirby said plane ticket prices may increase by 15 to 20%",
+    "tags": [],
+    "tickers": [
+      "UAL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/transportation/5845061-united-airlines-raising-fares-fuel-prices/",
+    "published_iso": "2026-04-23T19:48:14+00:00",
+    "time_ago": "26m ago"
+  },
+  {
+    "id": "c41d1a5f3204",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "HHS nixes publication of study showing effectiveness of COVID vaccines. The acting head of the Centers for Disease Control and Prevention (CDC) blocked the publication of a study on the effectiveness of COVID-19 vaccines, a Department of Health and Human Services (HHS) spokesperson confirmed.\u00a0 The research was set to b",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/healthcare/5845817-cdc-blocks-covid-vaccine-study/",
+    "published_iso": "2026-04-23T19:47:03+00:00",
+    "time_ago": "27m ago"
+  },
+  {
+    "id": "7f7d74b33953",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "high",
+    "content": "Fact Sheet: President Donald J. Trump Announces Deal with Regeneron to Bring Most-Favored-Nation Pricing to American Patients. ADVANCING MOST-FAVORED-NATION (MFN) PRICING: Today, President Donald J. Trump announced the 17th agreement with a major pharmaceutical manufacturer, Regeneron, to lower prescription drug prices",
+    "tags": [
+      "Healthcare",
+      "Taxes"
+    ],
+    "tickers": [
+      "REGN"
+    ],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-announces-deal-with-regeneron-to-bring-most-favored-nation-pricing-to-american-patients/",
+    "published_iso": "2026-04-23T19:45:32+00:00",
+    "time_ago": "29m ago"
+  },
+  {
+    "id": "5d49b7dad0a4",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "10 injured in shooting at Mall of Louisiana in Baton Rouge, police say. Louisiana Governor Jeff Landry on Thursday afternoon said he was made aware of an \"active shooter scene\" at the Mall of Louisiana in Baton Rouge",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/state-watch/5845868-active-shooter-scene-reported-at-mall-of-louisiana-in-baton-rouge-governor-says/",
+    "published_iso": "2026-04-23T19:35:44+00:00",
+    "time_ago": "39m ago"
+  },
+  {
+    "id": "b29efedcf346",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Latest spy powers proposal doesn't have warrant requirement demanded by critics. A\u00a0new draft proposal to extend the nation\u2019s spy powers includes reforms but stops short of adding the warrant requirement demanded by privacy hawks on the left and right. New text\u00a0released by GOP leadership is in line with a section-by-sec",
+    "tags": [
+      "Big Tech"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/house/5845084-fisa-section-702-spy-powers-warrants-house-republicans/",
+    "published_iso": "2026-04-23T19:30:00+00:00",
+    "time_ago": "44m ago"
+  },
+  {
+    "id": "14d6dae93cd8",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "high",
+    "content": "First Lady Melania Trump Leads Call for Shared Commitment to Transform Lives Nationwide. \u201cI am grateful for the opportunity to serve as First Lady but understand that my persistence alone is not enough. Together, we can change people\u2019s lives for the better.\u201d First Lady Melania Trump inspired Congressional Club Members ",
     "tags": [
       "Taxes"
     ],
     "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5845271-trump-spirit-airlines-rescue-deal-pence-group/",
-    "published_iso": "2026-04-23T16:28:03+00:00",
-    "time_ago": "26m ago"
-  },
-  {
-    "id": "83a7b7763a5a",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Most say Supreme Court avoids anti-Trump rulings: Survey. A majority in a new survey says the Supreme Court is going out of its way to avoid making a ruling that President Trump might refuse to obey.\u00a0 The Marquette School of Law national poll released Thursday found that 57 percent of respondents said the high court is",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5845125-supreme-court-ruling-trump-tariffs/",
-    "published_iso": "2026-04-23T16:07:04+00:00",
-    "time_ago": "47m ago"
-  },
-  {
-    "id": "626184fa6a37",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "What to know about Trump\u2019s reclassification of state-licensed medical marijuana. Acting Attorney General Todd Blanche signed an order under President Trump's direction on Thursday to reclassify state-licensed medical marijuana as a less-dangerous drug \u2014 a major change in U.S. policy.\u00a0 While the move does not legalize m",
-    "tags": [
-      "Healthcare",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5845131-medical-marijuana-reclassified/",
-    "published_iso": "2026-04-23T15:41:59+00:00",
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/04/auto-draft/",
+    "published_iso": "2026-04-23T18:18:11+00:00",
     "time_ago": "1h ago"
   },
   {
-    "id": "1469cbbc7774",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "e0d85e1d76d8",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
     },
-    "severity": "medium",
-    "content": "DOJ settles with Trump 2016 campaign aide Carter Page over Russia probe. The Justice Department has settled a lawsuit from a 2016 campaign aide to President Trump who was targeted by surveillance as the FBI investigated Russian interference in the election, a court filing shows. Carter Page sued in 2020, alleging that ",
+    "severity": "high",
+    "content": "Eric Trump went on FOX to brag about winning ANOTHER multimillion-dollar contract from the Trump administration.\n \nI've been sounding the alarm and pushing for answers.\n \nIs the Pentagon just a cash machine for Trump\u2019s kids now?\n \nThis looks like corruption in plain sight.",
     "tags": [
-      "Regulation",
-      "Sanctions"
+      "Defense"
     ],
     "tickers": [
       "LMT",
       "RTX",
-      "XOM"
+      "NOC",
+      "GD"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/regulation/court-battles/5845019-doj-trump-2016-campaign-carter-page-russia/",
-    "published_iso": "2026-04-23T15:27:40+00:00",
-    "time_ago": "1h ago"
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mk6j3prpic2l",
+    "published_iso": "2026-04-23T17:13:11.916000+00:00",
+    "time_ago": "3h ago"
   },
   {
     "id": "4c406a34e994",
@@ -148,7 +300,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h137?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T14:32:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "a44dbd3771e9",
@@ -169,7 +321,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mk66uk55gc2v",
     "published_iso": "2026-04-23T14:10:13.701000+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "814e52b1a4fc",
@@ -188,7 +340,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s105?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T07:22:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "477d95b3085c",
@@ -207,7 +359,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s104?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T07:08:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "9ed8812baf32",
@@ -228,7 +380,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s103?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T06:51:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "cf4fa3931e9e",
@@ -247,7 +399,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s102?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T06:31:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "cd33abbdd80f",
@@ -266,7 +418,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s101?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T06:10:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "c5d169f8451b",
@@ -285,7 +437,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s100?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T05:51:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "3a01b3edc8d9",
@@ -304,7 +456,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s99?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T05:30:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "3596ddd7fa3a",
@@ -330,7 +482,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mk4y6u3cv22q",
     "published_iso": "2026-04-23T02:38:03.740000+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "6ff4744f931e",
@@ -357,7 +509,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/23/2026-07917/exceptions-from-foreign-ownership-control-or-domination",
     "published_iso": "2026-04-23T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "192005f22d07",
@@ -376,7 +528,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/23/2026-07889/finding-of-failure-to-attain-and-reclassification-of-tribal-portions-of-the-greater-connecticut",
     "published_iso": "2026-04-23T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "55a90138cf06",
@@ -397,7 +549,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/23/2026-07884/air-plan-approval-missouri-construction-permits-required",
     "published_iso": "2026-04-23T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "9b58ecaf88b9",
@@ -418,7 +570,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/23/2026-07877/implementation-of-the-administrative-false-claims-act",
     "published_iso": "2026-04-23T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "68f70ee02a06",
@@ -437,7 +589,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mk4h6amq2226",
     "published_iso": "2026-04-22T21:33:29.729000+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "01ebe35b6c66",
@@ -461,33 +613,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2026/opening-statement-ambassador-jamieson-greer-house-ways-and-means-committee",
     "published_iso": "2026-04-22T21:19:17+00:00",
-    "time_ago": "19h ago"
-  },
-  {
-    "id": "2697539a7613",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "Donald Trump\u2019s war with Iran caused the sky-high fuel prices that finally did Spirit Airlines in.\n\nWhat do the American people get out of this taxpayer bailout?\n\nWill the failed airline executives be held accountable?",
-    "tags": [
-      "Taxes",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mk4facphl22y",
-    "published_iso": "2026-04-22T20:58:51.540000+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "66c9229ddf6d",
@@ -513,7 +639,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/at-hearing-warren-exposes-trumprx-scam-blasts-trump-administration-for-putting-big-pharma-over-americans-health",
     "published_iso": "2026-04-22T20:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "3c751e9199c0",
@@ -681,27 +807,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/nominations-sent-to-the-senate-633f/",
     "published_iso": "2026-04-21T18:49:23+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "4454f4059bd8",
-    "politician": "Rep. Nancy Pelosi",
-    "initials": "NP",
-    "role": "House Democratic Leader",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#60a5fa"
-    },
-    "severity": "high",
-    "content": "Met with Dr. Bjorn Kunoy of the Faroe Islands today to discuss strengthening our transatlantic partnership.\n \nAs the President continues to threaten the Danish Realm, we must stand for sovereignty, the rule of law and respect for our allies.",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/pelosi.house.gov/post/3mjzeyxu6g22x",
-    "published_iso": "2026-04-21T16:16:46.059000+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -935,7 +1040,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-led-fences-act-clears-u-s-house/",
     "published_iso": "2026-04-16T18:07:32+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "987e63291ad4",
@@ -964,7 +1069,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mjkle76hac25",
     "published_iso": "2026-04-15T19:00:28.593534+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "d773df1a1b2c",
@@ -987,7 +1092,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-cruz-file-amicus-brief-backing-trump-administrations-push-to-repeal-endangerment-finding/",
     "published_iso": "2026-04-15T17:31:26+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "f2763200dffd",
@@ -1135,7 +1240,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-introduces-legislation-to-codify-trumps-nuclear-baseload-energy-executive-orders/",
     "published_iso": "2026-03-26T18:12:45+00:00",
-    "time_ago": "27d ago"
+    "time_ago": "28d ago"
   },
   {
     "id": "42002aa36a3f",
@@ -1178,7 +1283,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/news-sanders-welch-balint-statement-on-recent-ice-raids-in-south-burlington/",
     "published_iso": "2026-03-12T18:51:43+00:00",
-    "time_ago": "41d ago"
+    "time_ago": "42d ago"
   },
   {
     "id": "3c2b4ad7a11c",
@@ -1230,7 +1335,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mfphfzy4qs2n",
     "published_iso": "2026-02-25T19:52:28.088000+00:00",
-    "time_ago": "56d ago"
+    "time_ago": "57d ago"
   },
   {
     "id": "782af70b6ebe",
@@ -1292,7 +1397,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/aoc.bsky.social/post/3mfhthlg3u22x",
     "published_iso": "2026-02-22T19:06:46.919000+00:00",
-    "time_ago": "59d ago"
+    "time_ago": "60d ago"
   },
   {
     "id": "602146d3f751",
@@ -1314,7 +1419,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-announces-2026-service-academy-nominations/",
     "published_iso": "2026-02-18T19:38:51+00:00",
-    "time_ago": "63d ago"
+    "time_ago": "64d ago"
   },
   {
     "id": "79af8a04fb57",
@@ -1362,7 +1467,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "90d ago"
+    "time_ago": "91d ago"
   },
   {
     "id": "d39ac85b9cc9",
@@ -1663,7 +1768,7 @@
     "platform": ".gov",
     "url": "http://jordan.house.gov/media/blog/gop-fbi-refusing-accept-accountability-enforcing-doj-school-boards-memo",
     "published_iso": "2022-02-10T19:37:15+00:00",
-    "time_ago": "1532d ago"
+    "time_ago": "1533d ago"
   },
   {
     "id": "718743804c07",
@@ -1684,6 +1789,6 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about-us/policy-offices/press-office/blog/weekly-trade-focus-apec",
     "published_iso": "2009-07-20T18:28:39+00:00",
-    "time_ago": "6120d ago"
+    "time_ago": "6121d ago"
   }
 ]
