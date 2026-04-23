@@ -1,6 +1,139 @@
 [
   {
-    "id": "c88d7b9bdf45",
+    "id": "5d63f20fa61e",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Fluor Corp sold 13,500,000 shares of Nuscale Power Corp (SMR) \u00b7 $11.81/share \u00b7 $159,424,200 total \u00b7 Apr 23",
+    "tags": [],
+    "tickers": [
+      "SMR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1822966/000112419826000049/0001124198-26-000049-index.htm",
+    "published_iso": "2026-04-23T10:43:04+00:00",
+    "time_ago": "13m ago"
+  },
+  {
+    "id": "f6d10cc14ab1",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Nuzum Charles Lee Sr received 14,082 shares of Axe Compute Inc. (AGPU) \u00b7 Apr 23",
+    "tags": [
+      "Semiconductors"
+    ],
+    "tickers": [
+      "AGPU"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1446159/000117184326002666/0001171843-26-002666-index.htm",
+    "published_iso": "2026-04-23T10:15:19+00:00",
+    "time_ago": "41m ago"
+  },
+  {
+    "id": "df32b2f3b93f",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Chen Jeffrey sold 9,000 shares of Ase Technology Holding Co., Ltd. (ASX) \u00b7 $463.50/share \u00b7 $4,171,500 total \u00b7 Apr 23 ($12,759,000 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "ASX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2111679/000095010326006076/0000950103-26-006076-index.htm",
+    "published_iso": "2026-04-23T10:12:14+00:00",
+    "time_ago": "44m ago"
+  },
+  {
+    "id": "206e4bcb19b0",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Rao Veena received 4,197 shares of Axe Compute Inc. (AGPU) \u00b7 Apr 23",
+    "tags": [
+      "Semiconductors"
+    ],
+    "tickers": [
+      "AGPU"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1977125/000117184326002664/0001171843-26-002664-index.htm",
+    "published_iso": "2026-04-23T10:08:59+00:00",
+    "time_ago": "47m ago"
+  },
+  {
+    "id": "9daed82177e6",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Matthews Shawn received 1,166 shares of Axe Compute Inc. (AGPU) \u00b7 Apr 23",
+    "tags": [
+      "Semiconductors"
+    ],
+    "tickers": [
+      "AGPU"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1855118/000117184326002662/0001171843-26-002662-index.htm",
+    "published_iso": "2026-04-23T10:06:10+00:00",
+    "time_ago": "50m ago"
+  },
+  {
+    "id": "d6b76dd6fe5c",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Anti-data center measures gain traction at state, local level. Measures seeking to block or rein in data center construction are gaining momentum at the state and local level, as Americans increasingly sour on the massive buildout of AI infrastructure in their communities. The Maine legislature became the first in the ",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/5843665-data-center-backlash-grows/",
+    "published_iso": "2026-04-23T10:00:00+00:00",
+    "time_ago": "56m ago"
+  },
+  {
+    "id": "9da61160be8c",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,19 +142,24 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "5 takeaways from first major California governor's debate after Swalwell exit. Six candidates\u00a0running for\u00a0California governor\u00a0squared off on the debate stage Wednesday,\u00a0yet the forum may have created more questions than answers for politcal observers, as Democrats struggle to coalesce around a candidate ahead of the Ju",
+    "content": "Anthropic becomes impossible for White House to ignore. Anthropic\u2019s new Mythos model is keeping the company\u2019s foot in the White House\u2019s door despite the Trump administration blacklisting the firm\u2019s products from military and government work earlier this year.  Mythos, Anthropic\u2019s most advanced model to date, has drawn ",
     "tags": [
-      "Taxes"
+      "Defense"
     ],
-    "tickers": [],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/5844048-california-governor-debate-takeaways/",
-    "published_iso": "2026-04-23T04:39:37+00:00",
-    "time_ago": "1h ago"
+    "url": "https://thehill.com/policy/technology/5843290-anthropic-mythos-white-house/",
+    "published_iso": "2026-04-23T10:00:00+00:00",
+    "time_ago": "56m ago"
   },
   {
-    "id": "eb23c9916686",
+    "id": "a03aba4d9534",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -30,19 +168,19 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Three GOP senators break with leaders over addressing insurance companies\u2019 denial of medical care. Three Republican senators broke with the rest of the Senate GOP conference Wednesday night to vote in support of an amendment sponsored by Sen. Jon Ossoff (D-Ga.) to address insurance companies delaying or denying necessa",
+    "content": "House lawmakers clamoring for ethics reforms after wave of resignations. The surge of House resignations this month has triggered calls from both parties for a broader overhaul of the ethics process and how the chamber polices its own.  While many lawmakers have welcomed the hasty departures of former Reps. Eric Swalwe",
     "tags": [
-      "Defense"
+      "Regulation"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5844464-hawley-collins-sullivan-health-insurance-amendment/",
-    "published_iso": "2026-04-23T03:50:04+00:00",
-    "time_ago": "2h ago"
+    "url": "https://thehill.com/homenews/house/5844005-house-ethics-reforms-resignations/",
+    "published_iso": "2026-04-23T10:00:00+00:00",
+    "time_ago": "56m ago"
   },
   {
-    "id": "bd3c304bb09b",
+    "id": "caad44c2972d",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -50,21 +188,70 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Collins, Sullivan break with Senate GOP leaders on amendment to reverse SNAP cuts. Senate Republicans on Wednesday defeated an amendment sponsored by Sen. Ben Ray Luj\u00e1n (D-N.M.) to create a reserve fund to lower grocery costs and reverse an estimated $187 billion in cuts to the Supplemental Nutrition Assistance Program",
+    "severity": "high",
+    "content": "Republicans divided on whether to check Trump's Iran war power as 60-day mark looms. Senate Republicans are divided over how to handle the 60-day mark of the military conflict against Iran, with some arguing that Congress would need to vote to continue military action beyond the window set by the 1973 War Powers Act. A",
     "tags": [
+      "Energy",
       "Defense",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/senate/5843964-republicans-iran-war-trump-war-powers/",
+    "published_iso": "2026-04-23T10:00:00+00:00",
+    "time_ago": "56m ago"
+  },
+  {
+    "id": "f7639cfaf8ee",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Johnson faces pressure from all sides as funding to pay DHS workers dwindles. Speaker Mike Johnson (R-La.) is facing pressure from all sides as he insists on passing a GOP-only bill to fund immigration enforcement before taking up bipartisan legislation to fund the rest of the Department of Homeland Security (DHS), eve",
+    "tags": [
+      "Energy",
       "Regulation"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5844440-collins-sullivan-snap-amendment/",
-    "published_iso": "2026-04-23T03:15:43+00:00",
-    "time_ago": "3h ago"
+    "url": "https://thehill.com/homenews/house/5843852-mike-johnson-pressure-dhs-funding/",
+    "published_iso": "2026-04-23T10:00:00+00:00",
+    "time_ago": "56m ago"
   },
   {
-    "id": "a2be1c261064",
+    "id": "774592eafcb1",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Trump\u2019s Rogan-inspired psychedelics order stokes cautious optimism. President Trump's executive order loosening research restrictions on psychedelic medicine, which was kick-started by a text to Trump from podcaster Joe Rogan, could help legitimize an industry that's long operated in the shadows.\u00a0 Advocates and researc",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/healthcare/5843764-trump-rogan-psychedelic-research-order/",
+    "published_iso": "2026-04-23T10:00:00+00:00",
+    "time_ago": "56m ago"
+  },
+  {
+    "id": "814e52b1a4fc",
     "politician": "GovTrack",
     "initials": "GT",
     "role": "Congressional Legislation",
@@ -73,14 +260,147 @@
       "fg": "#7dd3fc"
     },
     "severity": "high",
-    "content": "On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Ossoff Amdt. No. 4897). Vote: Motion Rejected 49/49",
+    "content": "S.Con.Res. 33: A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2026 and setting forth the appropriate budgetary levels for fiscal years 2027 through 2035.. Vote: Concurrent Resolution Agreed to 50/48",
     "tags": [],
     "tickers": [],
     "source": "govtrack",
     "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s91?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-04-23T02:42:00+00:00",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s105?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-04-23T07:22:00+00:00",
     "time_ago": "3h ago"
+  },
+  {
+    "id": "189e155e77d8",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On the Amendment S.Amdt. 5333 to S.Con.Res. 33 (No short title on file). Vote: Amendment Rejected 49/49",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s104?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-04-23T07:08:00+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "4f808de5eacf",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On the Amendment S.Amdt. 5336 to S.Con.Res. 33 (No short title on file). Vote: Amendment Rejected 48/50",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s103?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-04-23T06:51:00+00:00",
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "cf4fa3931e9e",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Padilla Amdt. No. 4855). Vote: Motion Rejected 46/52",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s102?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-04-23T06:31:00+00:00",
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "cd33abbdd80f",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Sanders Amdt. No. 5159). Vote: Motion Rejected 49/49",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s101?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-04-23T06:10:00+00:00",
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "0e7a4d7a53ca",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On the Amendment S.Amdt. 5235 to S.Con.Res. 33 (No short title on file). Vote: Amendment Rejected 46/52",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s100?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-04-23T05:51:00+00:00",
+    "time_ago": "5h ago"
+  },
+  {
+    "id": "a3527ae940e3",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On the Amendment S.Amdt. 5378 to S.Con.Res. 33 (No short title on file). Vote: Amendment Rejected 25/73",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s99?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-04-23T05:30:00+00:00",
+    "time_ago": "5h ago"
+  },
+  {
+    "id": "18c6abc9fb3e",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Markey Amdt. No. 5001). Vote: Motion Rejected 48/50",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s98?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-04-23T05:13:00+00:00",
+    "time_ago": "5h ago"
   },
   {
     "id": "3596ddd7fa3a",
@@ -106,73 +426,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mk4y6u3cv22q",
     "published_iso": "2026-04-23T02:38:03.740000+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "5af4e73ab667",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Two Republicans break with party as GOP  defeats budget amendment to lower health care costs. Senate Republicans on Wednesday voted against an amendment sponsored by Senate Democratic Leader Chuck Schumer (N.Y.) to create a point of order against any future budget reconciliation bill that doesn\u2019t lower out-of-pocket he",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5844405-budget-amendment-health-care/",
-    "published_iso": "2026-04-23T02:29:46+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "f1a171c9b784",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Lujan Amdt. No. 4798). Vote: Motion Rejected 47/50",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s90?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-04-23T02:19:00+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "f2f3d8769ec5",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Live updates: Senate begins vote-a-rama; California gubernatorial candidates hit debate stage. The Senate is holding a vote-a-rama Wednesday night on the budget resolution that will serve as a blueprint for the GOP-only bill they aim to use to fund immigration enforcement. That GOP-only bill, which Republicans hope to ",
-    "tags": [
-      "Defense",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5841338-live-updates-trump-iran-strait-of-hormuz-budget/",
-    "published_iso": "2026-04-23T02:08:24+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "b48049986900",
@@ -195,221 +449,95 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1817823/000117184326002660/0001171843-26-002660-index.htm",
     "published_iso": "2026-04-23T01:58:34+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "8h ago"
   },
   {
-    "id": "c847d4b8d13d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hawryluk Matthew received 6,782 shares of Axe Compute Inc. (AGPU) \u00b7 Apr 22",
-    "tags": [
-      "Semiconductors"
-    ],
-    "tickers": [
-      "AGPU"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1754470/000117184326002659/0001171843-26-002659-index.htm",
-    "published_iso": "2026-04-23T01:57:33+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "49bc29f2b06a",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Handley Daniel E received 5,663 shares of Axe Compute Inc. (AGPU) \u00b7 Apr 22",
-    "tags": [
-      "Semiconductors"
-    ],
-    "tickers": [
-      "AGPU"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1802449/000117184326002658/0001171843-26-002658-index.htm",
-    "published_iso": "2026-04-23T01:56:46+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "966bc1895336",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Gilbert Jeffrey M received 250,000 shares of Datavault Ai Inc. (DVLT) \u00b7 Apr 22",
-    "tags": [],
-    "tickers": [
-      "DVLT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1748093/000110465926047073/0001104659-26-047073-index.htm",
-    "published_iso": "2026-04-23T01:51:58+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "04566e60c76b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Redmile Group, Llc acquired/disposed 8,977,624 shares of Fate Therapeutics Inc (FATE) \u00b7 Apr 22 ($0 across all blocks)",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [
-      "FATE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1921783/000110465926047072/0001104659-26-047072-index.htm",
-    "published_iso": "2026-04-23T01:51:32+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "2969a400158b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Howitt David Marc received 250,000 shares of Datavault Ai Inc. (DVLT) \u00b7 Apr 22",
-    "tags": [],
-    "tickers": [
-      "DVLT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1682149/000110465926047071/0001104659-26-047071-index.htm",
-    "published_iso": "2026-04-23T01:51:00+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "8af03617f28e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Moyer Brett received 1,955,882 shares of Datavault Ai Inc. (DVLT) \u00b7 Apr 22",
-    "tags": [],
-    "tickers": [
-      "DVLT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1682149/000110465926047068/0001104659-26-047068-index.htm",
-    "published_iso": "2026-04-23T01:49:56+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "6dc38702d8d4",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Wilson Wendy received 250,000 shares of Datavault Ai Inc. (DVLT) \u00b7 Apr 22",
-    "tags": [],
-    "tickers": [
-      "DVLT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1862057/000110465926047067/0001104659-26-047067-index.htm",
-    "published_iso": "2026-04-23T01:48:22+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "fd1e0a78616b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Mbugua Stanley received 1,100,000 shares of Datavault Ai Inc. (DVLT) \u00b7 Apr 22",
-    "tags": [],
-    "tickers": [
-      "DVLT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1682149/000110465926047065/0001104659-26-047065-index.htm",
-    "published_iso": "2026-04-23T01:47:16+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "b5a2977d0b14",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Schumer Amdt. No. 4799). Vote: Motion Rejected 48/50",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s89?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-04-23T01:36:00+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "9e7c244ead5b",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "6ff4744f931e",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
     "color": {
       "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "fg": "#86efac"
     },
-    "severity": "critical",
-    "content": "Senators to introduce 'Hot Rotisserie Chicken Act' for SNAP recipients. A bipartisan group of Senators on Tuesday introduced the \"Hot Rotisserie Chicken Act\" to help Supplemental Nutrition Assistance Program, or SNAP, recipients use their benefits to buy rotisserie chicken. The amendment would amend the 2008 Food and N",
+    "severity": "high",
+    "content": "Exceptions From Foreign Ownership, Control, or Domination. The U.S. Nuclear Regulatory Commission (NRC) is amending its regulations on foreign ownership, control, or domination (FOCD) of utilization facilities to comply with section 301 of the Accelerating Deployment of Versatile, Advanced Nuclear for Clean Energy Act ",
     "tags": [
-      "Defense"
+      "Energy",
+      "Regulation"
+    ],
+    "tickers": [
+      "XOM",
+      "FSLR",
+      "ENPH",
+      "XLE"
+    ],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/04/23/2026-07917/exceptions-from-foreign-ownership-control-or-domination",
+    "published_iso": "2026-04-23T00:00:00+00:00",
+    "time_ago": "10h ago"
+  },
+  {
+    "id": "192005f22d07",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Finding of Failure To Attain and Reclassification of Tribal Portions of the Greater Connecticut Ozone Nonattainment Area as Serious for the 2015 Ozone National Ambient Air Quality Standards. The Environmental Protection Agency (EPA) is finalizing its finding that the tribal portions of the Greater Connecticut area (the",
+    "tags": [],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/04/23/2026-07889/finding-of-failure-to-attain-and-reclassification-of-tribal-portions-of-the-greater-connecticut",
+    "published_iso": "2026-04-23T00:00:00+00:00",
+    "time_ago": "10h ago"
+  },
+  {
+    "id": "55a90138cf06",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Air Plan Approval; Missouri; Construction Permits Required. The Environmental Protection Agency (EPA) is taking final action to approve revisions to the Missouri State Implementation Plan (SIP) received on March 19, 2025, that contain updates to the construction permit requirement regulations for stationary and portabl",
+    "tags": [
+      "Regulation"
     ],
     "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5844255-hot-rotisserie-chicken-snap/",
-    "published_iso": "2026-04-23T00:04:34+00:00",
-    "time_ago": "6h ago"
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/04/23/2026-07884/air-plan-approval-missouri-construction-permits-required",
+    "published_iso": "2026-04-23T00:00:00+00:00",
+    "time_ago": "10h ago"
+  },
+  {
+    "id": "9b58ecaf88b9",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Implementation of the Administrative False Claims Act. This final rule establishes procedural regulations for the Administrative False Claims Act (AFCA) at the Federal Labor Relations Authority (FLRA). The AFCA is at 31 U.S.C. 3801 through 3812. The AFCA requires the promulgation of rules and regulations necessary to i",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/04/23/2026-07877/implementation-of-the-administrative-false-claims-act",
+    "published_iso": "2026-04-23T00:00:00+00:00",
+    "time_ago": "10h ago"
   },
   {
     "id": "68f70ee02a06",
@@ -428,7 +556,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mk4h6amq2226",
     "published_iso": "2026-04-22T21:33:29.729000+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "01ebe35b6c66",
@@ -452,45 +580,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2026/opening-statement-ambassador-jamieson-greer-house-ways-and-means-committee",
     "published_iso": "2026-04-22T21:19:17+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "8e3686ac32d9",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.R. 6387: FIRE Act. Vote: Passed 220/198",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h136?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-04-22T21:17:00+00:00",
-    "time_ago": "9h ago"
-  },
-  {
-    "id": "862acb5554d0",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On Motion to Recommit: H.R. 6387: FIRE Act. Vote: Failed 206/214",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h135?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-04-22T21:04:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "2697539a7613",
@@ -516,90 +606,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mk4facphl22y",
     "published_iso": "2026-04-22T20:58:51.540000+00:00",
-    "time_ago": "9h ago"
-  },
-  {
-    "id": "35e083648c9f",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.R. 4690: Reliable Federal Infrastructure Act. Vote: Passed 215/202",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h134?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-04-22T20:58:00+00:00",
-    "time_ago": "9h ago"
-  },
-  {
-    "id": "ca7d2c6fdc84",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On Motion to Recommit: H.R. 4690: Reliable Federal Infrastructure Act. Vote: Failed 203/214",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h133?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-04-22T20:51:00+00:00",
-    "time_ago": "9h ago"
-  },
-  {
-    "id": "320e835a60a0",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On the Motion to Discharge S.J.Res. 114. Vote: Motion to Discharge Rejected 46/51",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s88?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-04-22T20:44:00+00:00",
-    "time_ago": "9h ago"
-  },
-  {
-    "id": "66c9229ddf6d",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "At Hearing, Warren Exposes TrumpRx Scam, Blasts Trump Administration for Putting Big Pharma Over Americans' Health. At Hearing, Warren Exposes TrumpRx Scam, Blasts Trump Administration for Putting Big Pharma Over Americans' Health",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "LLY",
-      "PFE",
-      "JNJ",
-      "MRK"
-    ],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "http://www.warren.senate.gov/newsroom/press-releases/at-hearing-warren-exposes-trumprx-scam-blasts-trump-administration-for-putting-big-pharma-over-americans-health",
-    "published_iso": "2026-04-22T20:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "3c751e9199c0",
@@ -620,29 +627,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/04/trump-effect-american-manufacturing-is-roaring-back-as-factory-activity-hits-four-year-high/",
     "published_iso": "2026-04-22T16:44:45+00:00",
-    "time_ago": "13h ago"
-  },
-  {
-    "id": "3ac2d8184de0",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "high",
-    "content": "Warren, Wyden, Lawmakers Slam Proposed Trump Rule Enabling Tax Dodging by Partnerships, Tilting Tax Code Toward Richest Americans. Warren, Wyden, Lawmakers Slam Proposed Trump Rule Enabling Tax Dodging by Partnerships, Tilting Tax Code Toward Richest Americans",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-wyden-lawmakers-slam-proposed-trump-rule-enabling-tax-dodging-by-partnerships-tilting-tax-code-toward-richest-americans",
-    "published_iso": "2026-04-22T16:35:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "9337e2899bd3",
@@ -661,7 +646,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/04/22/grindr-washington-trump-congress-00886347",
     "published_iso": "2026-04-22T09:55:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "dfcfc944a908",
@@ -742,114 +727,6 @@
     "source": "federal_register",
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/22/2026-07861/medical-devices-ophthalmic-devices-classification-of-the-digital-therapy-device-for-amblyopia",
-    "published_iso": "2026-04-22T00:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "979137667c37",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Medical Devices; Immunology and Microbiology Devices; Classification of the Alzheimer's Disease Pathology Assessment Test. The Food and Drug Administration (FDA, the Agency, or we) is classifying the Alzheimer's disease pathology assessment test into class II (special controls). The special controls that apply to the d",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/04/22/2026-07860/medical-devices-immunology-and-microbiology-devices-classification-of-the-alzheimers-disease",
-    "published_iso": "2026-04-22T00:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "2a0b804a9a39",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Airworthiness Directives; The Boeing Company Airplanes. The FAA is adopting a new airworthiness directive (AD) for The Boeing Company Model 747-400 series airplanes modified by certain supplemental type certificates (STCs). This AD was prompted by a report of a ruptured crew oxygen bottle flexible hose and arcing damag",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "BA"
-    ],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/04/22/2026-07808/airworthiness-directives-the-boeing-company-airplanes",
-    "published_iso": "2026-04-22T00:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "11fcb410e6f5",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Equal Credit Opportunity Act (Regulation B). The Consumer Financial Protection Bureau (Bureau or CFPB) is issuing a final rule that amends provisions related to disparate impact, discouragement of applicants or prospective applicants, and special purpose credit programs under Regulation B, the regulation implementing t",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/04/22/2026-07804/equal-credit-opportunity-act-regulation-b",
-    "published_iso": "2026-04-22T00:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "7a02b551d471",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Establishment of Class E Airspace; Sparta, KY. This action establishes Class E airspace at Sparta, KY. This action supports new instrument procedures and instrument flight rule (IFR) operations",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/04/22/2026-07795/establishment-of-class-e-airspace-sparta-ky",
-    "published_iso": "2026-04-22T00:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "f9c5c6189aa6",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Pesticide Tolerances; Implementing Registration Review Decisions for Certain Pesticides (Hydrogen Cyanide, et al.). The Environmental Protection Agency (EPA or Agency) is finalizing several tolerance actions under the Federal Food, Drug, and Cosmetic Act (FFDCA) that the Agency previously determined were necessary or a",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/04/22/2026-07794/pesticide-tolerances-implementing-registration-review-decisions-for-certain-pesticides-hydrogen",
     "published_iso": "2026-04-22T00:00:00+00:00",
     "time_ago": "1d ago"
   },
@@ -960,7 +837,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/04/21/immigration-republicans-pacs-dignity-act-00882222",
     "published_iso": "2026-04-21T09:00:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "c8533fb64fee",
@@ -1152,6 +1029,69 @@
     "url": "https://www.lummis.senate.gov/press-releases/lummis-led-fences-act-clears-u-s-house/",
     "published_iso": "2026-04-16T18:07:32+00:00",
     "time_ago": "6d ago"
+  },
+  {
+    "id": "ebefc71139e3",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Warren, Blumenthal Investigate Whether Political Interference by Elon Musk, DOGE Caused Labor Board Decision to Drop SpaceX Charges. Warren, Blumenthal Investigate Whether Political Interference by Elon Musk, DOGE Caused Labor Board Decision to Drop SpaceX Charges",
+    "tags": [],
+    "tickers": [
+      "TSLA"
+    ],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-investigate-whether-political-interference-by-elon-musk-doge-caused-labor-board-decision-to-drop-spacex-charges",
+    "published_iso": "2026-04-16T16:00:00+00:00",
+    "time_ago": "6d ago"
+  },
+  {
+    "id": "2687eeb97ade",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Warren, Klobuchar, Lawmakers Press for New Independent Watchdog Investigation into Trump DOJ Cesspool of Corruption Surrounding Merger Review. Warren, Klobuchar, Lawmakers Press for New Independent Watchdog Investigation into Trump DOJ Cesspool of Corruption Surrounding Merger Review",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-klobuchar-lawmakers-press-for-new-independent-watchdog-investigation-into-trump-doj-cesspool-of-corruption-surrounding-merger-review",
+    "published_iso": "2026-04-16T15:00:00+00:00",
+    "time_ago": "6d ago"
+  },
+  {
+    "id": "b55b0e6fac1c",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "This Tax Day, don't forget Trump went out of his way to shut down the IRS' FREE tax filing program.. This Tax Day, don't forget Trump went out of his way to shut down the IRS' FREE tax filing program",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "http://www.warren.senate.gov/newsroom/videos/watch/this-tax-day-dont-forget-trump-went-out-of-his-way-to-shut-down-the-irs-free-tax-filing-program",
+    "published_iso": "2026-04-16T00:32:33+00:00",
+    "time_ago": "7d ago"
   },
   {
     "id": "987e63291ad4",
