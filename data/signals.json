@@ -1,6 +1,187 @@
 [
   {
-    "id": "dd0a23162851",
+    "id": "d9321eef2c21",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Lutnick says Trump's 'Gold Card' visa approved for one person so far. Commerce Secretary Howard Lutnick on Thursday said only one person had been approved for President Trump\u2019s $1 million \u201cGold Card\u201d visa that offers an expedited pathway to U.S. citizenship. \u201cThey have approved, recently, one person, and there are hund",
+    "tags": [],
+    "tickers": [
+      "GLD",
+      "TLT",
+      "SPY"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5846425-gold-card-visa-trump-administration/",
+    "published_iso": "2026-04-23T22:26:00+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "f8f631babb83",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Solider in Maduro raid charged over prediction market bets on operation: DOJ. A U.S. Army solider has been\u00a0accused of\u00a0using classified information\u00a0about the military operation to capture\u00a0Venezuelan President Nicolas Maduro to place bets on the prediction market Polymarket, federal officials said Thursday. Gannon Ken Va",
+    "tags": [
+      "Defense"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/5846393-solider-in-maduro-raid-charged-over-prediction-market-bets-on-operation-doj/",
+    "published_iso": "2026-04-23T22:18:31+00:00",
+    "time_ago": "11m ago"
+  },
+  {
+    "id": "d793dbd66f04",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ullal Jayshree sold 4,519 shares of Arista Networks, Inc. (ANET) \u00b7 $167.64/share \u00b7 $757,567 total \u00b7 Apr 23 ($15,822,499 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "ANET"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1605809/000159653226000066/0001596532-26-000066-index.htm",
+    "published_iso": "2026-04-23T22:17:35+00:00",
+    "time_ago": "12m ago"
+  },
+  {
+    "id": "48bad163da2f",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Blecharczyk Nathan converted 10,777 shares of Airbnb, Inc. (ABNB) \u00b7 Apr 23 ($5,180,945 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "ABNB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1834147/000119312526174171/0001193125-26-174171-index.htm",
+    "published_iso": "2026-04-23T22:09:18+00:00",
+    "time_ago": "20m ago"
+  },
+  {
+    "id": "60975aee2976",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ehrlichman Matt sold 121,242 shares of Porch Group, Inc. (PRCH) \u00b7 $8.12/share \u00b7 $983,952 total \u00b7 Apr 23",
+    "tags": [
+      "China"
+    ],
+    "tickers": [
+      "PRCH"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1784535/000151518426000020/0001515184-26-000020-index.htm",
+    "published_iso": "2026-04-23T22:08:21+00:00",
+    "time_ago": "21m ago"
+  },
+  {
+    "id": "32479a0a77d2",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Neagle Matthew sold 62,801 shares of Porch Group, Inc. (PRCH) \u00b7 $8.12/share \u00b7 $509,668 total \u00b7 Apr 23",
+    "tags": [
+      "China"
+    ],
+    "tickers": [
+      "PRCH"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1837336/000183733626000019/0001837336-26-000019-index.htm",
+    "published_iso": "2026-04-23T22:07:32+00:00",
+    "time_ago": "22m ago"
+  },
+  {
+    "id": "ac675863c8be",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Tabak Shawn sold 7,730 shares of Porch Group, Inc. (PRCH) \u00b7 $8.12/share \u00b7 $62,734 total \u00b7 Apr 23",
+    "tags": [
+      "China"
+    ],
+    "tickers": [
+      "PRCH"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1954327/000195432726000018/0001954327-26-000018-index.htm",
+    "published_iso": "2026-04-23T22:06:09+00:00",
+    "time_ago": "24m ago"
+  },
+  {
+    "id": "f0d6cd878962",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Backus Robert exercised options for 16,002 shares of Albertsons Companies, Inc. (ACI) \u00b7 $17.90/share \u00b7 $286,436 total \u00b7 Apr 23 ($286,436 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "ACI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2082416/000162828026026926/0001628280-26-026926-index.htm",
+    "published_iso": "2026-04-23T22:05:34+00:00",
+    "time_ago": "24m ago"
+  },
+  {
+    "id": "39b058d7fe57",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,40 +190,21 @@
       "fg": "#a5b4fc"
     },
     "severity": "critical",
-    "content": "Arbour Paola M exercised options for 1,670 shares of Texas Capital Bancshares Inc/Tx (TCBIO) \u00b7 Apr 23",
-    "tags": [],
+    "content": "Tallapragada Srinivas exercised options for 1,785 shares of Salesforce, Inc. (CRM) \u00b7 Apr 23 ($2,783,797 across all blocks)",
+    "tags": [
+      "Insider Trade"
+    ],
     "tickers": [
-      "TCBIO"
+      "CRM"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1769862/000176986226000005/0001769862-26-000005-index.htm",
-    "published_iso": "2026-04-23T20:14:03+00:00",
-    "time_ago": "just now"
+    "url": "https://www.sec.gov/Archives/edgar/data/1742882/000110852426000092/0001108524-26-000092-index.htm",
+    "published_iso": "2026-04-23T22:05:29+00:00",
+    "time_ago": "24m ago"
   },
   {
-    "id": "19b79152540a",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Pitigoi Cosmin sold 30,000 shares of Flywire Corp (FLYW) \u00b7 $14.00/share \u00b7 $420,000 total \u00b7 Apr 23",
-    "tags": [],
-    "tickers": [
-      "FLYW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2013285/000119312526173721/0001193125-26-173721-index.htm",
-    "published_iso": "2026-04-23T20:12:52+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "e1f767984fb7",
+    "id": "a685321270f7",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -51,21 +213,19 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Trump unveils Regeron deal to lower drug prices. President Trump unveiled a deal with drugmaker Regeneron on Thursday for the company to\u00a0voluntarily cut prices, the final\u00a0manufacturer to commit to the White House's \u201cmost favored nation\u201d plan to lower U.S. costs in line with other developed nations.\u00a0 Under the agreement",
+    "content": "Trump pick to lead CISA withdraws nomination. President Trump\u2019s pick to lead the Cybersecurity and Infrastructure Security Agency (CISA) has withdrawn his nomination after waiting more than a year for Senate confirmation. An aide with the Senate Committee on Homeland Security and Governmental Affairs told The Hill the ",
     "tags": [
-      "Healthcare"
+      "Taxes"
     ],
-    "tickers": [
-      "REGN"
-    ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/healthcare/5845958-trump-regeneron-drug-price-deal/",
-    "published_iso": "2026-04-23T20:10:36+00:00",
-    "time_ago": "4m ago"
+    "url": "https://thehill.com/policy/technology/5846289-trump-pick-to-lead-cisa-withdraws-nomination/",
+    "published_iso": "2026-04-23T22:04:36+00:00",
+    "time_ago": "25m ago"
   },
   {
-    "id": "2cb3c3d3dbc1",
+    "id": "01473df4f5d0",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -74,19 +234,43 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Ramundo Katherine H received 18,786 shares of Aptiv Plc (APTV) \u00b7 Apr 23 ($0 across all blocks)",
+    "content": "Larson Robert Bruce exercised options for 16,668 shares of Albertsons Companies, Inc. (ACI) \u00b7 $17.90/share \u00b7 $298,357 total \u00b7 Apr 23 ($298,357 across all blocks)",
     "tags": [],
     "tickers": [
-      "APTV"
+      "ACI"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1521332/000119312526173698/0001193125-26-173698-index.htm",
-    "published_iso": "2026-04-23T20:09:47+00:00",
-    "time_ago": "4m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1646972/000162828026026923/0001628280-26-026923-index.htm",
+    "published_iso": "2026-04-23T22:03:13+00:00",
+    "time_ago": "26m ago"
   },
   {
-    "id": "cbc0e2232f66",
+    "id": "68722df59f2b",
+    "politician": "U.S. Trade Rep.",
+    "initials": "USTR",
+    "role": "Office of the U.S. Trade Representative",
+    "color": {
+      "bg": "#1a0a1a",
+      "fg": "#d8b4fe"
+    },
+    "severity": "critical",
+    "content": "President Trump\u2019s Trade Policy is Delivering for the American People. President Trump\u2019s Trade Policy is Delivering for the American People \n  myarbrough  \n  Thu, 04/23/2026 - 18:01 \n \n\n               WASHINGTON  \u2013 This week, Ambassador Greer testified before the    House Ways and Means Committee    to lay out how Presi",
+    "tags": [
+      "Trade",
+      "Energy",
+      "Agriculture",
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "ustr",
+    "platform": "USTR",
+    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/president-trumps-trade-policy-delivering-american-people",
+    "published_iso": "2026-04-23T22:01:59+00:00",
+    "time_ago": "28m ago"
+  },
+  {
+    "id": "5030e5a67251",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -94,20 +278,64 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "high",
-    "content": "JetBlue accused of using personal data to set ticket prices in new lawsuit. JetBlue is facing a proposed class action lawsuit alleging the airline collects passengers\u2019 personal data and uses it to set airfares, a practice described as \u201cdynamic surveillance pricing.\u201d The complaint was filed on Wednesday on behalf of a N",
+    "severity": "critical",
+    "content": "Man planning mass shooting in New Orleans arrested, authorities say. A former North Carolina law enforcement officer was arrested Wednesday after authorities said he threatened to carry out a mass shooting at a festival in New Orleans. Christopher Gillum, 44, was taken into custody without incident at a hotel in Destin",
     "tags": [
       "Regulation"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/transportation/5845912-jetblue-data-collection-lawsuit/",
-    "published_iso": "2026-04-23T20:03:06+00:00",
-    "time_ago": "11m ago"
+    "url": "https://thehill.com/homenews/state-watch/5846305-mass-shooting-threat-new-orleans-arrest/",
+    "published_iso": "2026-04-23T22:00:54+00:00",
+    "time_ago": "29m ago"
   },
   {
-    "id": "d2cab56ab265",
+    "id": "17e37031a7ca",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Wisconsin Republican on reelection bid: 'I don't really follow that'. Rep. Derrick Van Orden (R-Wis.) said Wednesday he is not focusing on his reelection campaign, less than seven months before the midterms.  In a video shared by Charlotte Scott of Spectrum News on the social platform X, Van Orden said on the Capitol s",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/5846207-derrick-van-orden-reelection-campaign/",
+    "published_iso": "2026-04-23T21:56:40+00:00",
+    "time_ago": "33m ago"
+  },
+  {
+    "id": "6ab0f9ee4800",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "high",
+    "content": "Republicans voted not once, not twice, but FIVE TIMES to continue Trump\u2019s war with Iran.\n\nThe American people won\u2019t forget that.",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mk6y5hkt5s26",
+    "published_iso": "2026-04-23T21:42:36.540000+00:00",
+    "time_ago": "47m ago"
+  },
+  {
+    "id": "cc1d821c410d",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -116,61 +344,24 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "White House official accuses foreign entities of \u2018industrial-scale\u2019 theft of US AI. The White House on Thursday accused foreign entities, primarily China, of running \u201cindustrial-scale\u201d campaigns to distill frontier artificial intelligence models from U.S. companies.\u00a0 Michael Kratsios, director of the White House Office",
+    "content": "Trump says no nuclear weapon will be used on Iran. President Trump ruled out using nuclear weapons in Iran on Thursday, saying there\u2019s no need.\u00a0\u00a0 \u201cWhy would I use a nuclear weapon when we\u2019ve totally, in a very conventional way, decimated them without it?\u201d Trump said in the Oval Office after an event on drug pricing.\u00a0 H",
     "tags": [
-      "China"
+      "Healthcare",
+      "Defense",
+      "Regulation",
+      "Sanctions"
     ],
     "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/5845891-china-ai-theft-white-house/",
-    "published_iso": "2026-04-23T19:48:23+00:00",
-    "time_ago": "26m ago"
-  },
-  {
-    "id": "f68720f365dc",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "United Airlines considering raising fares amid jet fuel price surge. United Airlines CEO Scott Kirby said plane ticket prices may increase by 15 to 20%",
-    "tags": [],
-    "tickers": [
-      "UAL"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/transportation/5845061-united-airlines-raising-fares-fuel-prices/",
-    "published_iso": "2026-04-23T19:48:14+00:00",
-    "time_ago": "26m ago"
-  },
-  {
-    "id": "c41d1a5f3204",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "HHS nixes publication of study showing effectiveness of COVID vaccines. The acting head of the Centers for Disease Control and Prevention (CDC) blocked the publication of a study on the effectiveness of COVID-19 vaccines, a Department of Health and Human Services (HHS) spokesperson confirmed.\u00a0 The research was set to b",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/healthcare/5845817-cdc-blocks-covid-vaccine-study/",
-    "published_iso": "2026-04-23T19:47:03+00:00",
-    "time_ago": "27m ago"
+    "url": "https://thehill.com/homenews/administration/5846178-trump-iran-no-nuclear-bomb/",
+    "published_iso": "2026-04-23T21:21:02+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "7f7d74b33953",
@@ -194,47 +385,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-announces-deal-with-regeneron-to-bring-most-favored-nation-pricing-to-american-patients/",
     "published_iso": "2026-04-23T19:45:32+00:00",
-    "time_ago": "29m ago"
-  },
-  {
-    "id": "5d49b7dad0a4",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "10 injured in shooting at Mall of Louisiana in Baton Rouge, police say. Louisiana Governor Jeff Landry on Thursday afternoon said he was made aware of an \"active shooter scene\" at the Mall of Louisiana in Baton Rouge",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/state-watch/5845868-active-shooter-scene-reported-at-mall-of-louisiana-in-baton-rouge-governor-says/",
-    "published_iso": "2026-04-23T19:35:44+00:00",
-    "time_ago": "39m ago"
-  },
-  {
-    "id": "b29efedcf346",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Latest spy powers proposal doesn't have warrant requirement demanded by critics. A\u00a0new draft proposal to extend the nation\u2019s spy powers includes reforms but stops short of adding the warrant requirement demanded by privacy hawks on the left and right. New text\u00a0released by GOP leadership is in line with a section-by-sec",
-    "tags": [
-      "Big Tech"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5845084-fisa-section-702-spy-powers-warrants-house-republicans/",
-    "published_iso": "2026-04-23T19:30:00+00:00",
-    "time_ago": "44m ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "14d6dae93cd8",
@@ -255,7 +406,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/auto-draft/",
     "published_iso": "2026-04-23T18:18:11+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "e0d85e1d76d8",
@@ -281,7 +432,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mk6j3prpic2l",
     "published_iso": "2026-04-23T17:13:11.916000+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "4c406a34e994",
@@ -300,7 +451,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h137?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T14:32:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "a44dbd3771e9",
@@ -321,7 +472,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mk66uk55gc2v",
     "published_iso": "2026-04-23T14:10:13.701000+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "814e52b1a4fc",
@@ -340,7 +491,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s105?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T07:22:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "477d95b3085c",
@@ -359,7 +510,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s104?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T07:08:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "9ed8812baf32",
@@ -380,7 +531,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s103?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T06:51:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "cf4fa3931e9e",
@@ -399,7 +550,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s102?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T06:31:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "cd33abbdd80f",
@@ -418,7 +569,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s101?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T06:10:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "c5d169f8451b",
@@ -437,7 +588,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s100?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T05:51:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "3a01b3edc8d9",
@@ -456,7 +607,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s99?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T05:30:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "3596ddd7fa3a",
@@ -482,7 +633,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mk4y6u3cv22q",
     "published_iso": "2026-04-23T02:38:03.740000+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "6ff4744f931e",
@@ -509,7 +660,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/23/2026-07917/exceptions-from-foreign-ownership-control-or-domination",
     "published_iso": "2026-04-23T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "192005f22d07",
@@ -528,7 +679,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/23/2026-07889/finding-of-failure-to-attain-and-reclassification-of-tribal-portions-of-the-greater-connecticut",
     "published_iso": "2026-04-23T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "55a90138cf06",
@@ -549,7 +700,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/23/2026-07884/air-plan-approval-missouri-construction-permits-required",
     "published_iso": "2026-04-23T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "9b58ecaf88b9",
@@ -570,25 +721,6 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/23/2026-07877/implementation-of-the-administrative-false-claims-act",
     "published_iso": "2026-04-23T00:00:00+00:00",
-    "time_ago": "20h ago"
-  },
-  {
-    "id": "68f70ee02a06",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "Severance would've never been made if one guy controlled all of Hollywood.\n\nThat's just one reason why we have to put a stop to the Warner Brothers-Paramount merger.",
-    "tags": [],
-    "tickers": [],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mk4h6amq2226",
-    "published_iso": "2026-04-22T21:33:29.729000+00:00",
     "time_ago": "22h ago"
   },
   {
@@ -613,7 +745,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2026/opening-statement-ambassador-jamieson-greer-house-ways-and-means-committee",
     "published_iso": "2026-04-22T21:19:17+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "66c9229ddf6d",
@@ -786,7 +918,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mjzv5wiudk2r",
     "published_iso": "2026-04-21T21:05:52.285000+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "6b2f9e638c87",
@@ -872,7 +1004,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/joint-statement-ambassador-jamieson-greer-and-mexican-secretary-economy-marcelo-ebrard",
     "published_iso": "2026-04-20T22:03:55+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "230ab73ec37d",
@@ -893,7 +1025,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mjxfneacc22n",
     "published_iso": "2026-04-20T21:22:50.653000+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "03a235ca6ed1",
@@ -921,7 +1053,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-issues-presidential-determination-to-support-u-s-air-force-jet-fighter-training-operations/",
     "published_iso": "2026-04-20T21:04:43+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "830de2429398",
@@ -949,7 +1081,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-grid-infrastructure-equipment-and-supply-chain-capacity/",
     "published_iso": "2026-04-20T20:25:21+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "0047e3ab5b67",
@@ -1017,7 +1149,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/node/14307",
     "published_iso": "2026-04-16T20:47:09+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "c81c6c9123fc",
@@ -1116,30 +1248,6 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2025/opening-statement-jeffrey-goettman-senate-finance-committee",
     "published_iso": "2026-04-15T16:03:07+00:00",
-    "time_ago": "8d ago"
-  },
-  {
-    "id": "9d19c2d700b7",
-    "politician": "U.S. Trade Rep.",
-    "initials": "USTR",
-    "role": "Office of the U.S. Trade Representative",
-    "color": {
-      "bg": "#1a0a1a",
-      "fg": "#d8b4fe"
-    },
-    "severity": "critical",
-    "content": "Opening Statement of Dr. Julie Callahan Before the Senate Finance Committee. Opening Statement of Dr. Julie Callahan Before the Senate Finance Committee \n  myarbrough  \n  Wed, 04/15/2026 - 11:55 \n \n\n              Chairman Crapo, Raking Member Wyden, and distinguished Members of the Senate Finance Committee, it is a gre",
-    "tags": [
-      "Trade",
-      "China",
-      "Energy",
-      "Healthcare"
-    ],
-    "tickers": [],
-    "source": "ustr",
-    "platform": "USTR",
-    "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2025/opening-statement-dr-julie-callahan-senate-finance-committee",
-    "published_iso": "2026-04-15T15:55:48+00:00",
     "time_ago": "8d ago"
   },
   {
@@ -1261,7 +1369,7 @@
     "platform": ".gov",
     "url": "http://ocasio-cortez.house.gov/media/open-positions/energy-and-environment-legislative-assistant",
     "published_iso": "2026-03-17T21:48:33+00:00",
-    "time_ago": "36d ago"
+    "time_ago": "37d ago"
   },
   {
     "id": "4a9e2dc4db8b",
@@ -1306,7 +1414,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-in-windsor/",
     "published_iso": "2026-02-26T22:06:12+00:00",
-    "time_ago": "55d ago"
+    "time_ago": "56d ago"
   },
   {
     "id": "fa45ab208fd8",
@@ -1378,7 +1486,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/aoc.bsky.social/post/3mfi26wfbbk22",
     "published_iso": "2026-02-22T21:07:12.518000+00:00",
-    "time_ago": "59d ago"
+    "time_ago": "60d ago"
   },
   {
     "id": "869ac7db3b73",
@@ -1489,7 +1597,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-welfare-for-non-citizens-act/",
     "published_iso": "2026-01-15T22:26:59+00:00",
-    "time_ago": "97d ago"
+    "time_ago": "98d ago"
   },
   {
     "id": "e699640936a7",
@@ -1552,7 +1660,7 @@
     "platform": ".gov",
     "url": "http://ocasio-cortez.house.gov/node/653",
     "published_iso": "2025-09-03T22:05:43+00:00",
-    "time_ago": "231d ago"
+    "time_ago": "232d ago"
   },
   {
     "id": "0590d712ca12",
@@ -1638,7 +1746,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10471",
     "published_iso": "2023-07-12T21:22:15+00:00",
-    "time_ago": "1015d ago"
+    "time_ago": "1016d ago"
   },
   {
     "id": "b05ff12af7ca",
@@ -1660,7 +1768,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10470",
     "published_iso": "2023-07-12T21:20:42+00:00",
-    "time_ago": "1015d ago"
+    "time_ago": "1016d ago"
   },
   {
     "id": "b22b414d7eb9",
@@ -1684,7 +1792,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10469",
     "published_iso": "2023-07-12T21:20:14+00:00",
-    "time_ago": "1015d ago"
+    "time_ago": "1016d ago"
   },
   {
     "id": "06ebc00af517",
@@ -1705,7 +1813,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10468",
     "published_iso": "2023-07-12T21:19:46+00:00",
-    "time_ago": "1015d ago"
+    "time_ago": "1016d ago"
   },
   {
     "id": "99bfd884e5fa",
@@ -1726,7 +1834,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10467",
     "published_iso": "2023-07-12T21:19:01+00:00",
-    "time_ago": "1015d ago"
+    "time_ago": "1016d ago"
   },
   {
     "id": "9ab4d9dc70a4",
@@ -1747,7 +1855,7 @@
     "platform": ".gov",
     "url": "http://jordan.house.gov/media/blog/did-biden-funnel-35-billion-payout-away-terror-victims-and-toward-ex-staff-republicans",
     "published_iso": "2022-04-06T20:45:12+00:00",
-    "time_ago": "1477d ago"
+    "time_ago": "1478d ago"
   },
   {
     "id": "ca9ac4ad3c4a",
