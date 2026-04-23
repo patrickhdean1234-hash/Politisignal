@@ -1,6 +1,6 @@
 [
   {
-    "id": "5d63f20fa61e",
+    "id": "8865c9a09fa8",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,109 +9,21 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Fluor Corp sold 13,500,000 shares of Nuscale Power Corp (SMR) \u00b7 $11.81/share \u00b7 $159,424,200 total \u00b7 Apr 23",
-    "tags": [],
-    "tickers": [
-      "SMR"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1822966/000112419826000049/0001124198-26-000049-index.htm",
-    "published_iso": "2026-04-23T10:43:04+00:00",
-    "time_ago": "13m ago"
-  },
-  {
-    "id": "f6d10cc14ab1",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Nuzum Charles Lee Sr received 14,082 shares of Axe Compute Inc. (AGPU) \u00b7 Apr 23",
+    "content": "Brown Patrick Sidney received 1,596 shares of Centrus Energy Corp (LEU) \u00b7 Apr 23 ($74,513 across all blocks)",
     "tags": [
-      "Semiconductors"
+      "Energy"
     ],
     "tickers": [
-      "AGPU"
+      "LEU"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1446159/000117184326002666/0001171843-26-002666-index.htm",
-    "published_iso": "2026-04-23T10:15:19+00:00",
-    "time_ago": "41m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2065635/000162828026026745/0001628280-26-026745-index.htm",
+    "published_iso": "2026-04-23T16:44:56+00:00",
+    "time_ago": "9m ago"
   },
   {
-    "id": "df32b2f3b93f",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Chen Jeffrey sold 9,000 shares of Ase Technology Holding Co., Ltd. (ASX) \u00b7 $463.50/share \u00b7 $4,171,500 total \u00b7 Apr 23 ($12,759,000 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "ASX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2111679/000095010326006076/0000950103-26-006076-index.htm",
-    "published_iso": "2026-04-23T10:12:14+00:00",
-    "time_ago": "44m ago"
-  },
-  {
-    "id": "206e4bcb19b0",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Rao Veena received 4,197 shares of Axe Compute Inc. (AGPU) \u00b7 Apr 23",
-    "tags": [
-      "Semiconductors"
-    ],
-    "tickers": [
-      "AGPU"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1977125/000117184326002664/0001171843-26-002664-index.htm",
-    "published_iso": "2026-04-23T10:08:59+00:00",
-    "time_ago": "47m ago"
-  },
-  {
-    "id": "9daed82177e6",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Matthews Shawn received 1,166 shares of Axe Compute Inc. (AGPU) \u00b7 Apr 23",
-    "tags": [
-      "Semiconductors"
-    ],
-    "tickers": [
-      "AGPU"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1855118/000117184326002662/0001171843-26-002662-index.htm",
-    "published_iso": "2026-04-23T10:06:10+00:00",
-    "time_ago": "50m ago"
-  },
-  {
-    "id": "d6b76dd6fe5c",
+    "id": "d3a066498de9",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -119,21 +31,39 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "critical",
-    "content": "Anti-data center measures gain traction at state, local level. Measures seeking to block or rein in data center construction are gaining momentum at the state and local level, as Americans increasingly sour on the massive buildout of AI infrastructure in their communities. The Maine legislature became the first in the ",
+    "severity": "medium",
+    "content": "The case for college hasn't changed \u2014 but the narrative has. Students and families deserve an honest account of what different pathways actually deliver",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/education/5842926-college-value-debate-education/",
+    "published_iso": "2026-04-23T16:30:00+00:00",
+    "time_ago": "24m ago"
+  },
+  {
+    "id": "a5d7675bf977",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Pence-aligned group blasts Trump's reported Spirit Airlines rescue deal. The advocacy group founded by former Vice President Mike Pence is pushing back on the Trump administration\u2019s reported plan to rescue Spirit Airlines, becoming the latest conservative voice to oppose the idea. In a new memo first obtained by The Hi",
     "tags": [
-      "Regulation",
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/5843665-data-center-backlash-grows/",
-    "published_iso": "2026-04-23T10:00:00+00:00",
-    "time_ago": "56m ago"
+    "url": "https://thehill.com/homenews/administration/5845271-trump-spirit-airlines-rescue-deal-pence-group/",
+    "published_iso": "2026-04-23T16:28:03+00:00",
+    "time_ago": "26m ago"
   },
   {
-    "id": "9da61160be8c",
+    "id": "83a7b7763a5a",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -142,45 +72,19 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Anthropic becomes impossible for White House to ignore. Anthropic\u2019s new Mythos model is keeping the company\u2019s foot in the White House\u2019s door despite the Trump administration blacklisting the firm\u2019s products from military and government work earlier this year.  Mythos, Anthropic\u2019s most advanced model to date, has drawn ",
-    "tags": [
-      "Defense"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/5843290-anthropic-mythos-white-house/",
-    "published_iso": "2026-04-23T10:00:00+00:00",
-    "time_ago": "56m ago"
-  },
-  {
-    "id": "a03aba4d9534",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "House lawmakers clamoring for ethics reforms after wave of resignations. The surge of House resignations this month has triggered calls from both parties for a broader overhaul of the ethics process and how the chamber polices its own.  While many lawmakers have welcomed the hasty departures of former Reps. Eric Swalwe",
+    "content": "Most say Supreme Court avoids anti-Trump rulings: Survey. A majority in a new survey says the Supreme Court is going out of its way to avoid making a ruling that President Trump might refuse to obey.\u00a0 The Marquette School of Law national poll released Thursday found that 57 percent of respondents said the high court is",
     "tags": [
       "Regulation"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5844005-house-ethics-reforms-resignations/",
-    "published_iso": "2026-04-23T10:00:00+00:00",
-    "time_ago": "56m ago"
+    "url": "https://thehill.com/homenews/administration/5845125-supreme-court-ruling-trump-tariffs/",
+    "published_iso": "2026-04-23T16:07:04+00:00",
+    "time_ago": "47m ago"
   },
   {
-    "id": "caad44c2972d",
+    "id": "626184fa6a37",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -188,67 +92,84 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "high",
-    "content": "Republicans divided on whether to check Trump's Iran war power as 60-day mark looms. Senate Republicans are divided over how to handle the 60-day mark of the military conflict against Iran, with some arguing that Congress would need to vote to continue military action beyond the window set by the 1973 War Powers Act. A",
+    "severity": "medium",
+    "content": "What to know about Trump\u2019s reclassification of state-licensed medical marijuana. Acting Attorney General Todd Blanche signed an order under President Trump's direction on Thursday to reclassify state-licensed medical marijuana as a less-dangerous drug \u2014 a major change in U.S. policy.\u00a0 While the move does not legalize m",
     "tags": [
-      "Energy",
-      "Defense",
+      "Healthcare",
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5845131-medical-marijuana-reclassified/",
+    "published_iso": "2026-04-23T15:41:59+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "1469cbbc7774",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "DOJ settles with Trump 2016 campaign aide Carter Page over Russia probe. The Justice Department has settled a lawsuit from a 2016 campaign aide to President Trump who was targeted by surveillance as the FBI investigated Russian interference in the election, a court filing shows. Carter Page sued in 2020, alleging that ",
+    "tags": [
+      "Regulation",
       "Sanctions"
     ],
     "tickers": [
       "LMT",
       "RTX",
-      "NOC",
-      "GD"
+      "XOM"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5843964-republicans-iran-war-trump-war-powers/",
-    "published_iso": "2026-04-23T10:00:00+00:00",
-    "time_ago": "56m ago"
+    "url": "https://thehill.com/regulation/court-battles/5845019-doj-trump-2016-campaign-carter-page-russia/",
+    "published_iso": "2026-04-23T15:27:40+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "f7639cfaf8ee",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "4c406a34e994",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
     },
-    "severity": "critical",
-    "content": "Johnson faces pressure from all sides as funding to pay DHS workers dwindles. Speaker Mike Johnson (R-La.) is facing pressure from all sides as he insists on passing a GOP-only bill to fund immigration enforcement before taking up bipartisan legislation to fund the rest of the Department of Homeland Security (DHS), eve",
-    "tags": [
-      "Energy",
-      "Regulation"
-    ],
+    "severity": "high",
+    "content": "H.R. 5587: HEATS Act. Vote: Passed 231/186",
+    "tags": [],
     "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5843852-mike-johnson-pressure-dhs-funding/",
-    "published_iso": "2026-04-23T10:00:00+00:00",
-    "time_ago": "56m ago"
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h137?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-04-23T14:32:00+00:00",
+    "time_ago": "2h ago"
   },
   {
-    "id": "774592eafcb1",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "a44dbd3771e9",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
     },
     "severity": "critical",
-    "content": "Trump\u2019s Rogan-inspired psychedelics order stokes cautious optimism. President Trump's executive order loosening research restrictions on psychedelic medicine, which was kick-started by a text to Trump from podcaster Joe Rogan, could help legitimize an industry that's long operated in the shadows.\u00a0 Advocates and researc",
+    "content": "Desperate to cover for his own economic failures, President Trump is trying to capture the country\u2019s central bank by installing puppets and launching sham investigations.\n \nThe Senate must not go along with it.",
     "tags": [
-      "Healthcare"
+      "Banking"
     ],
     "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/healthcare/5843764-trump-rogan-psychedelic-research-order/",
-    "published_iso": "2026-04-23T10:00:00+00:00",
-    "time_ago": "56m ago"
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mk66uk55gc2v",
+    "published_iso": "2026-04-23T14:10:13.701000+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "814e52b1a4fc",
@@ -267,10 +188,10 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s105?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T07:22:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "9h ago"
   },
   {
-    "id": "189e155e77d8",
+    "id": "477d95b3085c",
     "politician": "GovTrack",
     "initials": "GT",
     "role": "Congressional Legislation",
@@ -278,18 +199,18 @@
       "bg": "#0a1a2a",
       "fg": "#7dd3fc"
     },
-    "severity": "high",
-    "content": "On the Amendment S.Amdt. 5333 to S.Con.Res. 33 (No short title on file). Vote: Amendment Rejected 49/49",
+    "severity": "critical",
+    "content": "S.Amdt. 5333 (Schiff) to S.Con.Res. 33: To establish a deficit-neutral reserve fund relating to requiring the obligation of amounts appropriated to the Federal Emergency Management Agency to carry out the public assistance and hazard mitigation programs.. Vote: Amendment Rejected 49/49",
     "tags": [],
     "tickers": [],
     "source": "govtrack",
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s104?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T07:08:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "9h ago"
   },
   {
-    "id": "4f808de5eacf",
+    "id": "9ed8812baf32",
     "politician": "GovTrack",
     "initials": "GT",
     "role": "Congressional Legislation",
@@ -298,14 +219,16 @@
       "fg": "#7dd3fc"
     },
     "severity": "high",
-    "content": "On the Amendment S.Amdt. 5336 to S.Con.Res. 33 (No short title on file). Vote: Amendment Rejected 48/50",
-    "tags": [],
+    "content": "S.Amdt. 5336 (Wyden) to S.Con.Res. 33: To establish a deficit-neutral reserve fund relating to requiring the Comptroller General of the United States to conduct a study related to economic consequences of private or confidential drug pricing agreements s. Vote: Amendment Rejected 48/50",
+    "tags": [
+      "Healthcare"
+    ],
     "tickers": [],
     "source": "govtrack",
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s103?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T06:51:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "cf4fa3931e9e",
@@ -324,7 +247,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s102?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T06:31:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "cd33abbdd80f",
@@ -343,10 +266,10 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s101?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T06:10:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "10h ago"
   },
   {
-    "id": "0e7a4d7a53ca",
+    "id": "c5d169f8451b",
     "politician": "GovTrack",
     "initials": "GT",
     "role": "Congressional Legislation",
@@ -355,17 +278,17 @@
       "fg": "#7dd3fc"
     },
     "severity": "high",
-    "content": "On the Amendment S.Amdt. 5235 to S.Con.Res. 33 (No short title on file). Vote: Amendment Rejected 46/52",
+    "content": "S.Amdt. 5235 (Merkley) to S.Con.Res. 33: To establish a deficit-neutral reserve fund relating to the impacts of hedge fund ownership of single-family homes and rent prices.. Vote: Amendment Rejected 46/52",
     "tags": [],
     "tickers": [],
     "source": "govtrack",
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s100?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T05:51:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "11h ago"
   },
   {
-    "id": "a3527ae940e3",
+    "id": "3a01b3edc8d9",
     "politician": "GovTrack",
     "initials": "GT",
     "role": "Congressional Legislation",
@@ -374,33 +297,14 @@
       "fg": "#7dd3fc"
     },
     "severity": "high",
-    "content": "On the Amendment S.Amdt. 5378 to S.Con.Res. 33 (No short title on file). Vote: Amendment Rejected 25/73",
+    "content": "S.Amdt. 5378 (Paul) to S.Con.Res. 33: To reduce new budget authority for functions 150, 250, 500, and 600 in order to offset $70,000,000,000 of new spending by cutting $45,000,000,000 of foreign aid, eliminating $5,000,000,000 in refugee spending, cuttin. Vote: Amendment Rejected 25/73",
     "tags": [],
     "tickers": [],
     "source": "govtrack",
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s99?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T05:30:00+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "18c6abc9fb3e",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Markey Amdt. No. 5001). Vote: Motion Rejected 48/50",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s98?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-04-23T05:13:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "3596ddd7fa3a",
@@ -426,30 +330,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mk4y6u3cv22q",
     "published_iso": "2026-04-23T02:38:03.740000+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "b48049986900",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "St. Clair Gregory Sr received 9,419 shares of Axe Compute Inc. (AGPU) \u00b7 Apr 22",
-    "tags": [
-      "Semiconductors"
-    ],
-    "tickers": [
-      "AGPU"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1817823/000117184326002660/0001171843-26-002660-index.htm",
-    "published_iso": "2026-04-23T01:58:34+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "6ff4744f931e",
@@ -476,7 +357,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/23/2026-07917/exceptions-from-foreign-ownership-control-or-domination",
     "published_iso": "2026-04-23T00:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "192005f22d07",
@@ -495,7 +376,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/23/2026-07889/finding-of-failure-to-attain-and-reclassification-of-tribal-portions-of-the-greater-connecticut",
     "published_iso": "2026-04-23T00:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "55a90138cf06",
@@ -516,7 +397,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/23/2026-07884/air-plan-approval-missouri-construction-permits-required",
     "published_iso": "2026-04-23T00:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "9b58ecaf88b9",
@@ -537,7 +418,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/23/2026-07877/implementation-of-the-administrative-false-claims-act",
     "published_iso": "2026-04-23T00:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "68f70ee02a06",
@@ -556,7 +437,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mk4h6amq2226",
     "published_iso": "2026-04-22T21:33:29.729000+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "01ebe35b6c66",
@@ -580,7 +461,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2026/opening-statement-ambassador-jamieson-greer-house-ways-and-means-committee",
     "published_iso": "2026-04-22T21:19:17+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "2697539a7613",
@@ -606,7 +487,33 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mk4facphl22y",
     "published_iso": "2026-04-22T20:58:51.540000+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "19h ago"
+  },
+  {
+    "id": "66c9229ddf6d",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "At Hearing, Warren Exposes TrumpRx Scam, Blasts Trump Administration for Putting Big Pharma Over Americans' Health. At Hearing, Warren Exposes TrumpRx Scam, Blasts Trump Administration for Putting Big Pharma Over Americans' Health",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "LLY",
+      "PFE",
+      "JNJ",
+      "MRK"
+    ],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "http://www.warren.senate.gov/newsroom/press-releases/at-hearing-warren-exposes-trumprx-scam-blasts-trump-administration-for-putting-big-pharma-over-americans-health",
+    "published_iso": "2026-04-22T20:00:00+00:00",
+    "time_ago": "20h ago"
   },
   {
     "id": "3c751e9199c0",
@@ -627,7 +534,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/04/trump-effect-american-manufacturing-is-roaring-back-as-factory-activity-hits-four-year-high/",
     "published_iso": "2026-04-22T16:44:45+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "9337e2899bd3",
@@ -795,7 +702,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mjzeyxu6g22x",
     "published_iso": "2026-04-21T16:16:46.059000+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "6c0d8cc83293",
@@ -816,7 +723,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/04/president-trump-addresses-key-issues-facing-the-nation-in-exclusive-cnbc-interview/",
     "published_iso": "2026-04-21T15:22:18+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "4eb16b27cd64",
@@ -959,7 +866,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "9da1a43e4c40",
@@ -983,7 +890,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2026/opening-statement-ambassador-jamieson-greer-house-appropriations-committee",
     "published_iso": "2026-04-17T15:30:48+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "c52552ddf3f9",
@@ -1029,69 +936,6 @@
     "url": "https://www.lummis.senate.gov/press-releases/lummis-led-fences-act-clears-u-s-house/",
     "published_iso": "2026-04-16T18:07:32+00:00",
     "time_ago": "6d ago"
-  },
-  {
-    "id": "ebefc71139e3",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "Warren, Blumenthal Investigate Whether Political Interference by Elon Musk, DOGE Caused Labor Board Decision to Drop SpaceX Charges. Warren, Blumenthal Investigate Whether Political Interference by Elon Musk, DOGE Caused Labor Board Decision to Drop SpaceX Charges",
-    "tags": [],
-    "tickers": [
-      "TSLA"
-    ],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-investigate-whether-political-interference-by-elon-musk-doge-caused-labor-board-decision-to-drop-spacex-charges",
-    "published_iso": "2026-04-16T16:00:00+00:00",
-    "time_ago": "6d ago"
-  },
-  {
-    "id": "2687eeb97ade",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "Warren, Klobuchar, Lawmakers Press for New Independent Watchdog Investigation into Trump DOJ Cesspool of Corruption Surrounding Merger Review. Warren, Klobuchar, Lawmakers Press for New Independent Watchdog Investigation into Trump DOJ Cesspool of Corruption Surrounding Merger Review",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-klobuchar-lawmakers-press-for-new-independent-watchdog-investigation-into-trump-doj-cesspool-of-corruption-surrounding-merger-review",
-    "published_iso": "2026-04-16T15:00:00+00:00",
-    "time_ago": "6d ago"
-  },
-  {
-    "id": "b55b0e6fac1c",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "This Tax Day, don't forget Trump went out of his way to shut down the IRS' FREE tax filing program.. This Tax Day, don't forget Trump went out of his way to shut down the IRS' FREE tax filing program",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "http://www.warren.senate.gov/newsroom/videos/watch/this-tax-day-dont-forget-trump-went-out-of-his-way-to-shut-down-the-irs-free-tax-filing-program",
-    "published_iso": "2026-04-16T00:32:33+00:00",
-    "time_ago": "7d ago"
   },
   {
     "id": "987e63291ad4",
@@ -1167,7 +1011,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2025/opening-statement-jeffrey-goettman-senate-finance-committee",
     "published_iso": "2026-04-15T16:03:07+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "9d19c2d700b7",
@@ -1191,7 +1035,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2025/opening-statement-dr-julie-callahan-senate-finance-committee",
     "published_iso": "2026-04-15T15:55:48+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "7e97dd57aa17",
@@ -1220,7 +1064,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-hosts-crypto-roundtable-with-comptroller-gould-and-governor-gordon/",
     "published_iso": "2026-04-09T13:37:03+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "a460129240a1",
@@ -1242,7 +1086,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/icymi-lummis-op-ed-in-washington-post-a-broken-system-is-costing-america-trillions-i-see-it-in-wyoming/",
     "published_iso": "2026-04-08T16:14:36+00:00",
-    "time_ago": "14d ago"
+    "time_ago": "15d ago"
   },
   {
     "id": "600ac4c5c04c",
@@ -1267,7 +1111,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mi2bnx4lwk2w",
     "published_iso": "2026-03-27T13:59:11.450000+00:00",
-    "time_ago": "26d ago"
+    "time_ago": "27d ago"
   },
   {
     "id": "a2c0abfa69cc",
@@ -1408,7 +1252,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "57d ago"
+    "time_ago": "58d ago"
   },
   {
     "id": "344041549951",
@@ -1492,7 +1336,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meetings-in-sheldon-bristol-and-poultney/",
     "published_iso": "2026-01-29T16:27:05+00:00",
-    "time_ago": "83d ago"
+    "time_ago": "84d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1562,7 +1406,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266276-2/",
     "published_iso": "2026-01-07T15:48:25+00:00",
-    "time_ago": "105d ago"
+    "time_ago": "106d ago"
   },
   {
     "id": "a2647cb5ac95",
@@ -1584,7 +1428,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/news-sanders-demands-reinstatement-of-jimmy-kimmel-live-program-in-vermont-calls-removal-of-show-censorship-plain-and-simple/",
     "published_iso": "2025-09-25T14:37:06+00:00",
-    "time_ago": "209d ago"
+    "time_ago": "210d ago"
   },
   {
     "id": "8c5a019a825f",
