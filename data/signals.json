@@ -1,6 +1,6 @@
 [
   {
-    "id": "61088a936646",
+    "id": "68035653a2e0",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -8,22 +8,45 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "critical",
-    "content": "Rainbolt David E sold 17,527 shares of Bancfirst Corp /Ok/ (BANFP) \u00b7 $115.53/share \u00b7 $2,024,859 total \u00b7 Apr 24 ($2,099,624 across all blocks)",
+    "severity": "medium",
+    "content": "Hamilton James C sold 10,000 shares of Arrowhead Pharmaceuticals, Inc. (ARWR) \u00b7 $75.00/share \u00b7 $750,000 total \u00b7 Apr 24",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "ARWR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1830755/000183075526000007/0001830755-26-000007-index.htm",
+    "published_iso": "2026-04-24T22:38:34+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "b22eee7a9a59",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Macdonald Andrew withheld (tax) 634 shares of Uber Technologies, Inc (UBER) \u00b7 $76.48/share \u00b7 $48,488 total \u00b7 Apr 24",
     "tags": [
       "Taxes"
     ],
     "tickers": [
-      "BANFP"
+      "UBER"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1042873/000076049826000042/0000760498-26-000042-index.htm",
-    "published_iso": "2026-04-24T21:50:22+00:00",
-    "time_ago": "7m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2071761/000207176126000006/0002071761-26-000006-index.htm",
+    "published_iso": "2026-04-24T22:38:12+00:00",
+    "time_ago": "5m ago"
   },
   {
-    "id": "61040d89ecba",
+    "id": "2ec04c3be603",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -32,19 +55,40 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Levy Tara Walpert exercised options for 19,746 shares of Bloomin' Brands, Inc. (BLMN) \u00b7 Apr 24",
+    "content": "Panagiotidis Petros Panagiotis bought 516,738 shares of Toro Corp. (TORO) \u00b7 $5.04/share \u00b7 $2,606,065 total \u00b7 Apr 24 ($14,254,646 across all blocks)",
     "tags": [],
     "tickers": [
-      "BLMN"
+      "TORO"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1583097/000158309726000005/0001583097-26-000005-index.htm",
-    "published_iso": "2026-04-24T21:48:57+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/2118775/000114036126016783/0001140361-26-016783-index.htm",
+    "published_iso": "2026-04-24T22:34:43+00:00",
     "time_ago": "9m ago"
   },
   {
-    "id": "a2a5a1e1160c",
+    "id": "d3121f72d977",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Jones Act waiver extended in bid to lower fuel prices\u200b. {beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Jones Act waiver extended in bid to lower fuel prices The Trump administration announced on Friday it was issuing a 90-day extension to its waiver of the Jones Act, which requires ",
+    "tags": [
+      "Energy"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/energy-environment/5848377-jones-act-waiver-extended-in-bid-to-lower-fuel-prices/",
+    "published_iso": "2026-04-24T22:31:14+00:00",
+    "time_ago": "12m ago"
+  },
+  {
+    "id": "96d2d5b567b3",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -53,19 +97,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "George David C exercised options for 25,478 shares of Bloomin' Brands, Inc. (BLMN) \u00b7 Apr 24",
+    "content": "Ullal Jayshree sold 52,838 shares of Arista Networks, Inc. (ANET) \u00b7 $177.28/share \u00b7 $9,366,904 total \u00b7 Apr 24 ($75,944,314 across all blocks)",
     "tags": [],
     "tickers": [
-      "BLMN"
+      "ANET"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1546417/000124284426000002/0001242844-26-000002-index.htm",
-    "published_iso": "2026-04-24T21:48:53+00:00",
-    "time_ago": "9m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1605809/000159653226000068/0001596532-26-000068-index.htm",
+    "published_iso": "2026-04-24T22:30:07+00:00",
+    "time_ago": "13m ago"
   },
   {
-    "id": "b6ba0bdcde27",
+    "id": "20c1e88adf28",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -74,19 +118,42 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Kunkel Julie T. exercised options for 19,746 shares of Bloomin' Brands, Inc. (BLMN) \u00b7 Apr 24",
+    "content": "Rubinstein Julie exercised options for 14,722 shares of Adaptive Biotechnologies Corp (ADPT) \u00b7 $8.46/share \u00b7 $124,548 total \u00b7 Apr 24 ($1,172,068 across all blocks)",
     "tags": [],
     "tickers": [
-      "BLMN"
+      "ADPT"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1944452/000194445226000004/0001944452-26-000004-index.htm",
-    "published_iso": "2026-04-24T21:48:48+00:00",
-    "time_ago": "9m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1780664/000178066426000030/0001780664-26-000030-index.htm",
+    "published_iso": "2026-04-24T22:29:47+00:00",
+    "time_ago": "13m ago"
   },
   {
-    "id": "713a97ea94d9",
+    "id": "f5d2d9b1c74f",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Insurers step up prior authorization reforms. Click in for more news from The Hill {beacon} Health Care Health Care &#8202; The Big Story  Insurers step up prior authorization reforms  Major health insurance companies on Friday said they were accelerating efforts to streamline prior authorization requirements and reduc",
+    "tags": [],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/health-care/5848387-insurers-step-up-prior-authorization-reforms/",
+    "published_iso": "2026-04-24T22:29:38+00:00",
+    "time_ago": "14m ago"
+  },
+  {
+    "id": "bb44e6567445",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -95,103 +162,38 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Mahoney John exercised options for 19,746 shares of Bloomin' Brands, Inc. (BLMN) \u00b7 Apr 24",
+    "content": "Samad Sam received 108 shares of Quest Diagnostics Inc (DGX) \u00b7 $194.70/share \u00b7 $21,027 total \u00b7 Apr 24",
     "tags": [],
     "tickers": [
-      "BLMN"
+      "DGX"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1546417/000118171526000002/0001181715-26-000002-index.htm",
-    "published_iso": "2026-04-24T21:48:44+00:00",
-    "time_ago": "9m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1694295/000102207926000050/0001022079-26-000050-index.htm",
+    "published_iso": "2026-04-24T22:24:49+00:00",
+    "time_ago": "18m ago"
   },
   {
-    "id": "033e9c06449b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "8ab071e09733",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Dinkins James L exercised options for 19,746 shares of Bloomin' Brands, Inc. (BLMN) \u00b7 Apr 24",
+    "content": "Florida Democrat 'appalled' by report 31 sloths died in storage warehouse. Rep. Maxwell Frost (D-Fla.) said on Thursday that he was appalled by a report about the death of 31 slots who died under the care of Sloth World, a tourist attraction in Orlando that wasn\u2019t yet opened to the public. The slots were from South Ame",
     "tags": [],
-    "tickers": [
-      "BLMN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1546417/000113761726000002/0001137617-26-000002-index.htm",
-    "published_iso": "2026-04-24T21:48:39+00:00",
-    "time_ago": "9m ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/5848279-florida-sloth-warehouse-deaths/",
+    "published_iso": "2026-04-24T22:02:11+00:00",
+    "time_ago": "41m ago"
   },
   {
-    "id": "be94af1ce28f",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Lal Rohit exercised options for 19,746 shares of Bloomin' Brands, Inc. (BLMN) \u00b7 Apr 24",
-    "tags": [],
-    "tickers": [
-      "BLMN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1901836/000190183626000004/0001901836-26-000004-index.htm",
-    "published_iso": "2026-04-24T21:48:34+00:00",
-    "time_ago": "9m ago"
-  },
-  {
-    "id": "30777f362326",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Marein-Efron Melanie exercised options for 19,746 shares of Bloomin' Brands, Inc. (BLMN) \u00b7 Apr 24",
-    "tags": [],
-    "tickers": [
-      "BLMN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1834896/000183489626000002/0001834896-26-000002-index.htm",
-    "published_iso": "2026-04-24T21:48:30+00:00",
-    "time_ago": "9m ago"
-  },
-  {
-    "id": "0b356b80fb39",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Mohan Rajendra M exercised options for 30,574 shares of Bloomin' Brands, Inc. (BLMN) \u00b7 Apr 24",
-    "tags": [],
-    "tickers": [
-      "BLMN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1546417/000125350726000002/0001253507-26-000002-index.htm",
-    "published_iso": "2026-04-24T21:48:25+00:00",
-    "time_ago": "9m ago"
-  },
-  {
-    "id": "bede73b7218e",
+    "id": "ddefad7fb18e",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -200,10 +202,60 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Maduro raid Polymarket bet arrest spotlights military risks from prediction markets. The arrest of a U.S. soldier accused of using classified information to place a prediction market bet on the capture of Venezuelan President Nicol\u00e1s\u00a0Maduro is stoking new fears over how betting markets could threaten national security ",
+    "content": "Maine governor vetoes statewide pause in new data centers. Maine Gov. Janet Mills (D) announced Friday she has vetoed legislation that would have banned the development of large-scale data centers in the state for the next year-and-a-half, issuing a blow to the local anti-data center push growing across America. Mills,",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/5848215-maine-gov-mills-vetoes-data-center-moratorium/",
+    "published_iso": "2026-04-24T21:56:51+00:00",
+    "time_ago": "46m ago"
+  },
+  {
+    "id": "3b8b8992a286",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "US weapons burn rate in Iran undermines plans to defend Taiwan: Reports. The United States has burned through thousands of missiles since the Iran war began on Feb. 28, diminishing the armaments needed in a potential future conflict with China tied to its tensions with Taiwan. The U.S. military has used 1,100 long-rang",
+    "tags": [
+      "China",
+      "Defense",
+      "Sanctions"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "AMD",
+      "QCOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/defense/5848288-iran-war-impacts-us-missile-supplies/",
+    "published_iso": "2026-04-24T21:53:27+00:00",
+    "time_ago": "50m ago"
+  },
+  {
+    "id": "e73c6d96ef63",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Iran noncommittal as US sends envoys to Pakistan. Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} View Online Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  Iran noncommittal as US sends Witkoff, Kusher to Pakistan for talks President Trump is dispatching special ",
     "tags": [
       "Defense",
-      "Regulation"
+      "Regulation",
+      "Sanctions"
     ],
     "tickers": [
       "LMT",
@@ -213,140 +265,9 @@
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/5848166-prediction-markets-polymarket-soldier-arrest-maduro-raid/",
-    "published_iso": "2026-04-24T21:16:26+00:00",
-    "time_ago": "41m ago"
-  },
-  {
-    "id": "4dae1b0f9765",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "DOJ seeks to bring back firing squads, electric chairs for some death penalty cases. The Department of Justice (DOJ) said Friday it will bring back the use of firing squads and electric chairs for some death penalty cases, as well as \"readopting\" the use of lethal injections as used during the first Trump administratio",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5848073-doj-reinstates-death-penalty-methods/",
-    "published_iso": "2026-04-24T21:11:07+00:00",
-    "time_ago": "47m ago"
-  },
-  {
-    "id": "83dfd77a3717",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Leavitt says Powell probe 'not necessarily dropped,' 'just under a different authority'. White House press secretary Karoline Leavitt on Friday sought to signal that the legal pressure was not off Federal Reserve Chair Jerome Powell, despite the Justice Department dropping its investigation into his handling of renovat",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5848075-fed-chair-powell-investigation-leavitt/",
-    "published_iso": "2026-04-24T20:28:02+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "c78201248d45",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Bipartisan senators unveil bill pushing back on Trump easing Russia oil sanctions. A bipartisan group of senators led by Sens. Ruben Gallego (D-Ariz.) and Chuck Grassley (R-Iowa) pushed back on President Trump\u2019s decision to loosen sanctions on Russian oil amid a global shortage of oil supplies by introducing legislatio",
-    "tags": [
-      "Energy",
-      "Defense",
-      "Regulation",
-      "Sanctions"
-    ],
-    "tickers": [
-      "XOM",
-      "CVX",
-      "COP",
-      "OXY"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5848062-congressional-oversight-trump-russia-sanctions/",
-    "published_iso": "2026-04-24T20:18:01+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "f8386b478bd8",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Senate GOP Armed Services chair: \u2018Time is over\u2019 for talks with Iran. Senate Armed Services Committee Chair Roger Wicker (R-Miss.) says \u201cthe time is over for negotiations with Iran\u2019s regime,\u201d signaling growing pessimism among Senate Republicans about the likelihood of reaching a peace deal to reopen the Strait of Hormuz",
-    "tags": [
-      "Defense",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5848022-wicker-calls-end-iran-talks/",
-    "published_iso": "2026-04-24T19:52:34+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "38f8f73f995c",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "US imposes sanctions targeting Iran's oil network in China. The Treasury Department on Friday announced new sanctions on a Chinese oil refinery and dozens of shipping firms and vessels, including those with ties to Hong Kong, in a bid to disrupt Iran\u2019s oil exports.  The sanctions take aim at a main revenue stream for I",
-    "tags": [
-      "Trade",
-      "China",
-      "Energy",
-      "Taxes"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/international/5848015-iran-oil-sanctions-china/",
-    "published_iso": "2026-04-24T19:46:39+00:00",
-    "time_ago": "2h ago"
+    "url": "https://thehill.com/newsletters/defense-national-security/5848311-iran-us-talks-pakistan/",
+    "published_iso": "2026-04-24T21:45:31+00:00",
+    "time_ago": "58m ago"
   },
   {
     "id": "7476382cf569",
@@ -367,7 +288,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-arbor-day/",
     "published_iso": "2026-04-24T19:38:54+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "c72c709c91e0",
@@ -388,7 +309,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/public-hearings-regarding-section-301-investigations-relating-failures-take-action-forced-labor",
     "published_iso": "2026-04-24T18:59:59+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "10afa2ec0e30",
@@ -413,7 +334,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mkb4a45yz22n",
     "published_iso": "2026-04-24T18:00:59.693000+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "14a6412e56c7",
@@ -460,7 +381,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-armenian-remembrance-day/",
     "published_iso": "2026-04-24T15:05:18+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "ddbe867e4729",
@@ -481,7 +402,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ambassador-jamieson-greer-announces-united-states-european-union-action-plan-critical-minerals",
     "published_iso": "2026-04-24T14:26:56+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "860a5a8bf4c0",
@@ -503,7 +424,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-unveils-new-beehive-on-south-lawn/",
     "published_iso": "2026-04-24T13:19:22+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "44b3c3140230",
@@ -522,7 +443,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/gallery/2026/04/24/the-nations-cartoonists-on-the-week-in-politics-00889775",
     "published_iso": "2026-04-24T09:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "1c87f52db04d",
@@ -541,7 +462,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08108/puerto-rico-state-plan-operational-status-agreement-change-in-level-of-federal-enforcement-private",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "63dbf366f27f",
@@ -560,7 +481,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08106/airworthiness-directives-pratt-and-whitney-engines",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "49c6b67d6abd",
@@ -584,7 +505,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08104/schedules-of-controlled-substances-placement-of-mdmb-4en-pinaca-in-schedule-i",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "6cbd8de880b4",
@@ -605,7 +526,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08103/one-page-document-on-passenger-rights",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "54b431c1978b",
@@ -626,7 +547,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08075/pipeline-safety-standards-update-nfpa-59",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "788a92ad8307",
@@ -645,7 +566,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08074/pipeline-safety-clarifying-hazardous-liquid-pipeline-integrity-management-guidance",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "0c361664985e",
@@ -670,7 +591,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08073/pipeline-safety-standards-update-astm-a53a53m",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "dd6f3fa017cc",
@@ -696,7 +617,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08072/pipeline-safety-standards-update-nfpa-58",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "68722df59f2b",
@@ -720,7 +641,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/president-trumps-trade-policy-delivering-american-people",
     "published_iso": "2026-04-23T22:01:59+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "a2a60137030a",
@@ -1117,7 +1038,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/joint-statement-ambassador-jamieson-greer-and-mexican-secretary-economy-marcelo-ebrard",
     "published_iso": "2026-04-20T22:03:55+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "230ab73ec37d",
@@ -1447,7 +1368,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-in-windsor/",
     "published_iso": "2026-02-26T22:06:12+00:00",
-    "time_ago": "56d ago"
+    "time_ago": "57d ago"
   },
   {
     "id": "fa45ab208fd8",
@@ -1630,7 +1551,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-welfare-for-non-citizens-act/",
     "published_iso": "2026-01-15T22:26:59+00:00",
-    "time_ago": "98d ago"
+    "time_ago": "99d ago"
   },
   {
     "id": "e699640936a7",
@@ -1693,7 +1614,7 @@
     "platform": ".gov",
     "url": "http://ocasio-cortez.house.gov/node/653",
     "published_iso": "2025-09-03T22:05:43+00:00",
-    "time_ago": "232d ago"
+    "time_ago": "233d ago"
   },
   {
     "id": "0590d712ca12",
