@@ -1,6 +1,69 @@
 [
   {
-    "id": "bddeef288667",
+    "id": "04b68ae8e22d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Bullock Donald H received 1,344 shares of Gorman Rupp Co (GRC) \u00b7 Apr 24",
+    "tags": [],
+    "tickers": [
+      "GRC"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1188581/000119312526176578/0001193125-26-176578-index.htm",
+    "published_iso": "2026-04-24T17:48:17+00:00",
+    "time_ago": "9m ago"
+  },
+  {
+    "id": "13399e13b7ee",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Heminger Pamela A received 1,344 shares of Gorman Rupp Co (GRC) \u00b7 Apr 24",
+    "tags": [],
+    "tickers": [
+      "GRC"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2063207/000119312526176565/0001193125-26-176565-index.htm",
+    "published_iso": "2026-04-24T17:46:29+00:00",
+    "time_ago": "10m ago"
+  },
+  {
+    "id": "1d60097f7930",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Social Security\u2019s shortfall: A meteor of our own making. The Social Security Trust Fund is projected to run out in 2032 due to income inequality and a cap on taxable earnings, but this can be avoided by removing the cap and taxing higher incomes",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/finance/5845641-fix-social-security-now/",
+    "published_iso": "2026-04-24T17:30:00+00:00",
+    "time_ago": "27m ago"
+  },
+  {
+    "id": "70fdf1cb0298",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,14 +72,151 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Trump extends Jones Act waiver in bid to lower fuel prices. The Trump administration announced on Friday it was issuing a 90-day extension to the Jones Act waiver, which requires shipping between U.S. ports to be conducted by American ships, in an effort to lower fuel prices.\u00a0 \u201cNew data compiled since the initial waive",
+    "content": "Rove warns of proposed Florida Republican gerrymander 'risk'. Republican strategist Karl Rove on Friday warned that a proposed Florida Republican gerrymander could be a \"risk\" for the GOP's control over the state's House delegation. \"Fox &#38; Friends\" co-host Brian Kilmeade asked Rove about a similar measure that Virg",
     "tags": [],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5847263-trump-jones-act-fuel-prices-iran-war/",
-    "published_iso": "2026-04-24T14:30:17+00:00",
-    "time_ago": "29m ago"
+    "url": "https://thehill.com/homenews/state-watch/5847579-rove-redistricting-risk-gop/",
+    "published_iso": "2026-04-24T17:20:31+00:00",
+    "time_ago": "36m ago"
+  },
+  {
+    "id": "14a6412e56c7",
+    "politician": "Politico",
+    "initials": "PO",
+    "role": "Political News",
+    "color": {
+      "bg": "#1a0a0a",
+      "fg": "#fca5a5"
+    },
+    "severity": "medium",
+    "content": "From Iran to Paris weather: Alleged prediction market violations start stacking up. Fault lines over who is in charge of regulation are already emerging, with several frontline Democrats leading the charge on reining in the companies",
+    "tags": [
+      "Regulation",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "politico",
+    "platform": "Politico",
+    "url": "https://www.politico.com/news/2026/04/24/prediction-market-insider-trading-violations-00890570",
+    "published_iso": "2026-04-24T16:54:44+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "920f02fe9ccd",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "low",
+    "content": "DOJ ends Jerome Powell probe, easing Senate Fed standoff. \ud83e\ude96 Plus: Iran war depletes U.S. weapon stockpile {beacon} Happy Friday!! The White House posted a hilarious photo of a little boy in the Oval Office. This is exactly how I feel, kid. Oh, and happy White House Correspondents\u2019 Association dinner weekend! &#8202; In",
+    "tags": [
+      "Defense",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/1230-report/5847640-doj-ends-jerome-powell-probe-easing-senate-fed-standoff/",
+    "published_iso": "2026-04-24T16:41:45+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "f62e6d649e73",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Luna: Ghislaine Maxwell \u2018not getting a pardon\u2019. Rep. Anna Paulina Luna (R-Fla.) said Thursday that Ghislaine Maxwell, the longtime associate of convicted sex offender Jeffrey Epstein, is \"not getting a pardon\" amid questions from some lawmakers against giving her freedom. Luna, a member of the House Oversight and Gover",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/house/5847466-ghislaine-maxwell-anna-paulina-luna-doj-pardon/",
+    "published_iso": "2026-04-24T16:30:31+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "ecf747a76d23",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "For this year\u2019s correspondents\u2019 dinner, reclaim press freedom. Supporting this annual event is about confirming that journalism is important and deserves a seat at the table",
+    "tags": [
+      "Trade"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/white-house/5845643-white-house-correspondents-dinner-importance/",
+    "published_iso": "2026-04-24T16:30:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "c6aacc2374fc",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "Presidential Message on Armenian Remembrance Day. Today, we pay tribute to the countless Armenians who were exiled and brutally massacred during the Meds Yeghern.&#160; We stand in steadfast solidarity with every Armenian American and Armenians around the world during this day of remembrance for the devastating events ",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-armenian-remembrance-day/",
+    "published_iso": "2026-04-24T15:05:18+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "ddbe867e4729",
+    "politician": "U.S. Trade Rep.",
+    "initials": "USTR",
+    "role": "Office of the U.S. Trade Representative",
+    "color": {
+      "bg": "#1a0a1a",
+      "fg": "#d8b4fe"
+    },
+    "severity": "critical",
+    "content": "Ambassador Jamieson Greer Announces United States-European Union Action Plan for Critical Minerals Supply Chain Resilience. Ambassador Jamieson Greer Announces United States-European Union Action Plan for Critical Minerals Supply Chain Resilience \n  myarbrough  \n  Fri, 04/24/2026 - 10:26 \n \n\n               WASHINGTON  ",
+    "tags": [
+      "Trade"
+    ],
+    "tickers": [],
+    "source": "ustr",
+    "platform": "USTR",
+    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ambassador-jamieson-greer-announces-united-states-european-union-action-plan-critical-minerals",
+    "published_iso": "2026-04-24T14:26:56+00:00",
+    "time_ago": "3h ago"
   },
   {
     "id": "c0158031e612",
@@ -39,29 +239,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mkaqa3tjws2i",
     "published_iso": "2026-04-24T14:26:14.447000+00:00",
-    "time_ago": "33m ago"
-  },
-  {
-    "id": "215406dcd35a",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Meta slashes 10 percent of workforce. Meta informed staff this week it will cut 10 percent of workers as it invests billions into artificial intelligence products. The memo, sent Thursday by Meta's Chief People Office Janelle Gale, said the cut will take place on May 20, and 6,000 open roles will be closed. The memo wa",
-    "tags": [
-      "Big Tech",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/5847105-meta-workforce-cuts/",
-    "published_iso": "2026-04-24T14:11:02+00:00",
-    "time_ago": "48m ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "b26e05ea98de",
@@ -80,7 +258,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mkamtsfhlk2f",
     "published_iso": "2026-04-24T13:25:40.668000+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "860a5a8bf4c0",
@@ -102,7 +280,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-unveils-new-beehive-on-south-lawn/",
     "published_iso": "2026-04-24T13:19:22+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "44b3c3140230",
@@ -121,7 +299,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/gallery/2026/04/24/the-nations-cartoonists-on-the-week-in-politics-00889775",
     "published_iso": "2026-04-24T09:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "1c87f52db04d",
@@ -140,7 +318,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08108/puerto-rico-state-plan-operational-status-agreement-change-in-level-of-federal-enforcement-private",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "63dbf366f27f",
@@ -159,7 +337,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08106/airworthiness-directives-pratt-and-whitney-engines",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "49c6b67d6abd",
@@ -183,7 +361,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08104/schedules-of-controlled-substances-placement-of-mdmb-4en-pinaca-in-schedule-i",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "6cbd8de880b4",
@@ -204,7 +382,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08103/one-page-document-on-passenger-rights",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "54b431c1978b",
@@ -225,7 +403,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08075/pipeline-safety-standards-update-nfpa-59",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "788a92ad8307",
@@ -244,7 +422,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08074/pipeline-safety-clarifying-hazardous-liquid-pipeline-integrity-management-guidance",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "0c361664985e",
@@ -269,7 +447,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08073/pipeline-safety-standards-update-astm-a53a53m",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "dd6f3fa017cc",
@@ -295,7 +473,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08072/pipeline-safety-standards-update-nfpa-58",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "68722df59f2b",
@@ -319,7 +497,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/president-trumps-trade-policy-delivering-american-people",
     "published_iso": "2026-04-23T22:01:59+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "6ab0f9ee4800",
@@ -344,7 +522,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mk6y5hkt5s26",
     "published_iso": "2026-04-23T21:42:36.540000+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "a2a60137030a",
@@ -369,7 +547,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/republicans-voted-not-once-not-twice-but-five-times-to-continue-trumps-war-with-iran",
     "published_iso": "2026-04-23T21:34:29+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "7f7d74b33953",
@@ -393,7 +571,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-announces-deal-with-regeneron-to-bring-most-favored-nation-pricing-to-american-patients/",
     "published_iso": "2026-04-23T19:45:32+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "14d6dae93cd8",
@@ -414,7 +592,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/auto-draft/",
     "published_iso": "2026-04-23T18:18:11+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "4c406a34e994",
@@ -595,32 +773,6 @@
     "time_ago": "1d ago"
   },
   {
-    "id": "66c9229ddf6d",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "At Hearing, Warren Exposes TrumpRx Scam, Blasts Trump Administration for Putting Big Pharma Over Americans' Health. At Hearing, Warren Exposes TrumpRx Scam, Blasts Trump Administration for Putting Big Pharma Over Americans' Health",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "LLY",
-      "PFE",
-      "JNJ",
-      "MRK"
-    ],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "http://www.warren.senate.gov/newsroom/press-releases/at-hearing-warren-exposes-trumprx-scam-blasts-trump-administration-for-putting-big-pharma-over-americans-health",
-    "published_iso": "2026-04-22T20:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
     "id": "3c751e9199c0",
     "politician": "White House",
     "initials": "WH",
@@ -639,7 +791,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/04/trump-effect-american-manufacturing-is-roaring-back-as-factory-activity-hits-four-year-high/",
     "published_iso": "2026-04-22T16:44:45+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "9337e2899bd3",
@@ -744,7 +896,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/04/president-trump-addresses-key-issues-facing-the-nation-in-exclusive-cnbc-interview/",
     "published_iso": "2026-04-21T15:22:18+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "c8533fb64fee",
@@ -819,34 +971,6 @@
     "time_ago": "3d ago"
   },
   {
-    "id": "830de2429398",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Grid Infrastructure, Equipment, and Supply Chain Capacity. MEMORANDUM FOR THE SECRETARY OF ENERGY SUBJECT:&#160;&#160;&#160;&#160;&#160;&#160; Presidential Determination Pursuant to Section&#160;303 of the Defense P",
-    "tags": [
-      "Energy",
-      "Defense",
-      "Taxes"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-grid-infrastructure-equipment-and-supply-chain-capacity/",
-    "published_iso": "2026-04-20T20:25:21+00:00",
-    "time_ago": "3d ago"
-  },
-  {
     "id": "0047e3ab5b67",
     "politician": "Sen. Rand Paul",
     "initials": "RP",
@@ -866,7 +990,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "9da1a43e4c40",
@@ -890,7 +1014,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2026/opening-statement-ambassador-jamieson-greer-house-appropriations-committee",
     "published_iso": "2026-04-17T15:30:48+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "c52552ddf3f9",
@@ -987,31 +1111,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-cruz-file-amicus-brief-backing-trump-administrations-push-to-repeal-endangerment-finding/",
     "published_iso": "2026-04-15T17:31:26+00:00",
-    "time_ago": "8d ago"
-  },
-  {
-    "id": "f2763200dffd",
-    "politician": "U.S. Trade Rep.",
-    "initials": "USTR",
-    "role": "Office of the U.S. Trade Representative",
-    "color": {
-      "bg": "#1a0a1a",
-      "fg": "#d8b4fe"
-    },
-    "severity": "critical",
-    "content": "Opening Statement of Jeffrey Goettman Before the Senate Finance Committee. Opening Statement of Jeffrey Goettman Before the Senate Finance Committee \n  myarbrough  \n  Wed, 04/15/2026 - 12:03 \n \n\n              Chairman Crapo, Ranking Member Wyden, and Members of this Committee, I am honored to appear before you today as",
-    "tags": [
-      "Trade",
-      "China",
-      "Healthcare",
-      "Banking"
-    ],
-    "tickers": [],
-    "source": "ustr",
-    "platform": "USTR",
-    "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2025/opening-statement-jeffrey-goettman-senate-finance-committee",
-    "published_iso": "2026-04-15T16:03:07+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "7e97dd57aa17",
@@ -1062,7 +1162,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/icymi-lummis-op-ed-in-washington-post-a-broken-system-is-costing-america-trillions-i-see-it-in-wyoming/",
     "published_iso": "2026-04-08T16:14:36+00:00",
-    "time_ago": "15d ago"
+    "time_ago": "16d ago"
   },
   {
     "id": "600ac4c5c04c",
@@ -1228,7 +1328,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "58d ago"
+    "time_ago": "59d ago"
   },
   {
     "id": "344041549951",
@@ -1312,7 +1412,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meetings-in-sheldon-bristol-and-poultney/",
     "published_iso": "2026-01-29T16:27:05+00:00",
-    "time_ago": "84d ago"
+    "time_ago": "85d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1338,7 +1438,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "91d ago"
+    "time_ago": "92d ago"
   },
   {
     "id": "d39ac85b9cc9",
@@ -1382,7 +1482,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266276-2/",
     "published_iso": "2026-01-07T15:48:25+00:00",
-    "time_ago": "106d ago"
+    "time_ago": "107d ago"
   },
   {
     "id": "a2647cb5ac95",
