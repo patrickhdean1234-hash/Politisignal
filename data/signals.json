@@ -1,29 +1,6 @@
 [
   {
-    "id": "d6d962e0e7bb",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Bhavnani Anil exercised derivative for 3,000 shares of Hdfc Bank Ltd (HDB) \u00b7 $6.80/share \u00b7 $20,400 total \u00b7 Apr 24 ($43,950 across all blocks)",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "HDB"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2117498/000119312526174870/0001193125-26-174870-index.htm",
-    "published_iso": "2026-04-24T10:12:31+00:00",
-    "time_ago": "40m ago"
-  },
-  {
-    "id": "0fa634ee0ec7",
+    "id": "bddeef288667",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -31,54 +8,41 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "critical",
-    "content": "Tariff refunds in sight as importers start signing up. Importers are inching closer to receiving tariff refunds this week as companies begin to work through the government\u2019s\u00a0newly launched system.\u00a0 It enables companies to formally request their piece of the $166 billion in collected duties invalidated by the Supreme Co",
-    "tags": [
-      "Trade",
-      "Regulation"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
+    "severity": "high",
+    "content": "Trump extends Jones Act waiver in bid to lower fuel prices. The Trump administration announced on Friday it was issuing a 90-day extension to the Jones Act waiver, which requires shipping between U.S. ports to be conducted by American ships, in an effort to lower fuel prices.\u00a0 \u201cNew data compiled since the initial waive",
+    "tags": [],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/regulation/court-battles/5845980-importers-tariff-refunds-cbp/",
-    "published_iso": "2026-04-24T10:00:00+00:00",
-    "time_ago": "53m ago"
+    "url": "https://thehill.com/homenews/administration/5847263-trump-jones-act-fuel-prices-iran-war/",
+    "published_iso": "2026-04-24T14:30:17+00:00",
+    "time_ago": "29m ago"
   },
   {
-    "id": "85baa3989890",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "c0158031e612",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
     },
     "severity": "medium",
-    "content": "Gunboat diplomacy ramps up in Hormuz Strait, endangering shaky ceasefire. While the U.S., Iran and Israel have largely halted the barrage of missile, bomb and drone strikes that defined the first month of the war, a tit-for-tat battle is escalating at sea.  The U.S. military and Iran both seized tankers in internationa",
+    "content": "Donald Trump and Republicans gifted Meta BILLIONS in tax breaks last year.\n \nMeta reported record profits \u2014 then turned around and laid off thousands of workers.\n\nGiant corporate tax handouts don't \"trickle down.\"",
     "tags": [
-      "Defense",
-      "Taxes",
-      "Sanctions"
+      "Big Tech",
+      "Regulation",
+      "Taxes"
     ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/defense/5846575-us-iran-seizure-tankers-ceasefire/",
-    "published_iso": "2026-04-24T10:00:00+00:00",
-    "time_ago": "53m ago"
+    "tickers": [],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mkaqa3tjws2i",
+    "published_iso": "2026-04-24T14:26:14.447000+00:00",
+    "time_ago": "33m ago"
   },
   {
-    "id": "0c0cb64540b7",
+    "id": "215406dcd35a",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -86,45 +50,59 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "high",
-    "content": "Democrats poised to escalate pressure on GOP with repeated votes on Iran war powers. House Democrats are ready to escalate their effort to end the Iran war. Since the strikes began on Feb. 28, the lower chamber has voted only twice on war power resolutions, which would require President Trump to terminate the military ",
+    "severity": "critical",
+    "content": "Meta slashes 10 percent of workforce. Meta informed staff this week it will cut 10 percent of workers as it invests billions into artificial intelligence products. The memo, sent Thursday by Meta's Chief People Office Janelle Gale, said the cut will take place on May 20, and 6,000 open roles will be closed. The memo wa",
     "tags": [
-      "Defense",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5846206-democrats-iran-war-powers-votes/",
-    "published_iso": "2026-04-24T10:00:00+00:00",
-    "time_ago": "53m ago"
-  },
-  {
-    "id": "44c66cb58b89",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "GOP senators ratchet up pressure on Speaker Johnson to quickly end DHS shutdown. Republicans in the upper chamber are ramping up the pressure on Speaker Mike Johnson (R-La.) to swiftly approve a Senate-passed bill to fund most of the Department of Homeland Security (DHS), arguing that tens of thousands of federal worke",
-    "tags": [
-      "Defense",
+      "Big Tech",
       "Regulation"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5846382-gop-senators-mike-johnson-pressure-dhs/",
-    "published_iso": "2026-04-24T10:00:00+00:00",
-    "time_ago": "53m ago"
+    "url": "https://thehill.com/policy/technology/5847105-meta-workforce-cuts/",
+    "published_iso": "2026-04-24T14:11:02+00:00",
+    "time_ago": "48m ago"
+  },
+  {
+    "id": "b26e05ea98de",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Donald Trump\u2019s attacks on Social Security have made it harder for Americans to get their benefits.\n\nWe launched our Social Security War Room a year ago to fight back and stop Trump's damage \u2014 and that\u2019s exactly what we\u2019ve done.\n\nI'll keep fighting to protect Social Security.",
+    "tags": [],
+    "tickers": [],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mkamtsfhlk2f",
+    "published_iso": "2026-04-24T13:25:40.668000+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "860a5a8bf4c0",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "high",
+    "content": "First Lady Melania Trump Unveils New Beehive on South Lawn. First Lady Melania Trump announced the expansion of the White House honey program with the addition of a newly installed and fully functioning beehive on the South Lawn. Hand-crafted by a local artisan in the image of the White House, the beautiful, new hive w",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-unveils-new-beehive-on-south-lawn/",
+    "published_iso": "2026-04-24T13:19:22+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "44b3c3140230",
@@ -143,53 +121,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/gallery/2026/04/24/the-nations-cartoonists-on-the-week-in-politics-00889775",
     "published_iso": "2026-04-24T09:00:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "5af8f88ca35b",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Man accused of spraying Omar with apple cider vinegar plans to plead guilty. The man accused of spraying\u00a0Rep.\u00a0Ilhan Omar\u00a0(D-Minn.) with apple cider vinegar during a January town hall in her Minnesota district has reached a plea agreement with federal prosecutors, according to court filings. \u00a0 Anthony Kazmierczak, 55, i",
-    "tags": [
-      "Big Tech"
-    ],
-    "tickers": [
-      "AAPL"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/regulation/court-battles/5846791-plea-agreement-ilhan-omar-assault/",
-    "published_iso": "2026-04-24T02:40:31+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "76305fe9d572",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Heated socks sold at Costco recalled after wearers report second-degree burns. The recall covers roughly 207,800 pairs of 32 Degrees-branded socks which the CPSC says are tied to at least 14 \"heat-related incidents.\" Thirteen of those incidents involved burns",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "COST"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/nexstar_media_wire/5846522-heated-socks-sold-at-costco-recalled-after-wearers-report-second-degree-burns/",
-    "published_iso": "2026-04-24T01:44:59+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "1c87f52db04d",
@@ -208,7 +140,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08108/puerto-rico-state-plan-operational-status-agreement-change-in-level-of-federal-enforcement-private",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "63dbf366f27f",
@@ -227,7 +159,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08106/airworthiness-directives-pratt-and-whitney-engines",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "49c6b67d6abd",
@@ -251,7 +183,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08104/schedules-of-controlled-substances-placement-of-mdmb-4en-pinaca-in-schedule-i",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "6cbd8de880b4",
@@ -272,7 +204,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08103/one-page-document-on-passenger-rights",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "54b431c1978b",
@@ -293,7 +225,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08075/pipeline-safety-standards-update-nfpa-59",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "788a92ad8307",
@@ -312,7 +244,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08074/pipeline-safety-clarifying-hazardous-liquid-pipeline-integrity-management-guidance",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "0c361664985e",
@@ -337,7 +269,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08073/pipeline-safety-standards-update-astm-a53a53m",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "dd6f3fa017cc",
@@ -363,7 +295,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08072/pipeline-safety-standards-update-nfpa-58",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "68722df59f2b",
@@ -387,7 +319,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/president-trumps-trade-policy-delivering-american-people",
     "published_iso": "2026-04-23T22:01:59+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "6ab0f9ee4800",
@@ -412,7 +344,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mk6y5hkt5s26",
     "published_iso": "2026-04-23T21:42:36.540000+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "a2a60137030a",
@@ -437,7 +369,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/republicans-voted-not-once-not-twice-but-five-times-to-continue-trumps-war-with-iran",
     "published_iso": "2026-04-23T21:34:29+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "7f7d74b33953",
@@ -461,7 +393,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-announces-deal-with-regeneron-to-bring-most-favored-nation-pricing-to-american-patients/",
     "published_iso": "2026-04-23T19:45:32+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "14d6dae93cd8",
@@ -482,33 +414,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/auto-draft/",
     "published_iso": "2026-04-23T18:18:11+00:00",
-    "time_ago": "16h ago"
-  },
-  {
-    "id": "e0d85e1d76d8",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "high",
-    "content": "Eric Trump went on FOX to brag about winning ANOTHER multimillion-dollar contract from the Trump administration.\n \nI've been sounding the alarm and pushing for answers.\n \nIs the Pentagon just a cash machine for Trump\u2019s kids now?\n \nThis looks like corruption in plain sight.",
-    "tags": [
-      "Defense"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mk6j3prpic2l",
-    "published_iso": "2026-04-23T17:13:11.916000+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "4c406a34e994",
@@ -527,28 +433,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h137?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T14:32:00+00:00",
-    "time_ago": "20h ago"
-  },
-  {
-    "id": "a44dbd3771e9",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "Desperate to cover for his own economic failures, President Trump is trying to capture the country\u2019s central bank by installing puppets and launching sham investigations.\n \nThe Senate must not go along with it.",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mk66uk55gc2v",
-    "published_iso": "2026-04-23T14:10:13.701000+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "814e52b1a4fc",
@@ -683,32 +568,6 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s99?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T05:30:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "3596ddd7fa3a",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "high",
-    "content": "Right now, in the middle of Trump's war with Iran, Senate Republicans are keeping us here all night to vote on the most pressing issue they can think of: \n\nGiving $70 BILLION more to ICE and CBP.\n\nI'm going to fight them every step of the way.",
-    "tags": [
-      "Regulation",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mk4y6u3cv22q",
-    "published_iso": "2026-04-23T02:38:03.740000+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -1181,7 +1040,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-hosts-crypto-roundtable-with-comptroller-gould-and-governor-gordon/",
     "published_iso": "2026-04-09T13:37:03+00:00",
-    "time_ago": "14d ago"
+    "time_ago": "15d ago"
   },
   {
     "id": "a460129240a1",
@@ -1228,7 +1087,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mi2bnx4lwk2w",
     "published_iso": "2026-03-27T13:59:11.450000+00:00",
-    "time_ago": "27d ago"
+    "time_ago": "28d ago"
   },
   {
     "id": "a2c0abfa69cc",
@@ -1545,7 +1404,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/news-sanders-demands-reinstatement-of-jimmy-kimmel-live-program-in-vermont-calls-removal-of-show-censorship-plain-and-simple/",
     "published_iso": "2025-09-25T14:37:06+00:00",
-    "time_ago": "210d ago"
+    "time_ago": "211d ago"
   },
   {
     "id": "8c5a019a825f",
