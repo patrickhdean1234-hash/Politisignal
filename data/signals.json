@@ -1,5 +1,151 @@
 [
   {
+    "id": "d6d962e0e7bb",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Bhavnani Anil exercised derivative for 3,000 shares of Hdfc Bank Ltd (HDB) \u00b7 $6.80/share \u00b7 $20,400 total \u00b7 Apr 24 ($43,950 across all blocks)",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "HDB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2117498/000119312526174870/0001193125-26-174870-index.htm",
+    "published_iso": "2026-04-24T10:12:31+00:00",
+    "time_ago": "40m ago"
+  },
+  {
+    "id": "0fa634ee0ec7",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Tariff refunds in sight as importers start signing up. Importers are inching closer to receiving tariff refunds this week as companies begin to work through the government\u2019s\u00a0newly launched system.\u00a0 It enables companies to formally request their piece of the $166 billion in collected duties invalidated by the Supreme Co",
+    "tags": [
+      "Trade",
+      "Regulation"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/regulation/court-battles/5845980-importers-tariff-refunds-cbp/",
+    "published_iso": "2026-04-24T10:00:00+00:00",
+    "time_ago": "53m ago"
+  },
+  {
+    "id": "85baa3989890",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Gunboat diplomacy ramps up in Hormuz Strait, endangering shaky ceasefire. While the U.S., Iran and Israel have largely halted the barrage of missile, bomb and drone strikes that defined the first month of the war, a tit-for-tat battle is escalating at sea.  The U.S. military and Iran both seized tankers in internationa",
+    "tags": [
+      "Defense",
+      "Taxes",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/defense/5846575-us-iran-seizure-tankers-ceasefire/",
+    "published_iso": "2026-04-24T10:00:00+00:00",
+    "time_ago": "53m ago"
+  },
+  {
+    "id": "0c0cb64540b7",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Democrats poised to escalate pressure on GOP with repeated votes on Iran war powers. House Democrats are ready to escalate their effort to end the Iran war. Since the strikes began on Feb. 28, the lower chamber has voted only twice on war power resolutions, which would require President Trump to terminate the military ",
+    "tags": [
+      "Defense",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/house/5846206-democrats-iran-war-powers-votes/",
+    "published_iso": "2026-04-24T10:00:00+00:00",
+    "time_ago": "53m ago"
+  },
+  {
+    "id": "44c66cb58b89",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "GOP senators ratchet up pressure on Speaker Johnson to quickly end DHS shutdown. Republicans in the upper chamber are ramping up the pressure on Speaker Mike Johnson (R-La.) to swiftly approve a Senate-passed bill to fund most of the Department of Homeland Security (DHS), arguing that tens of thousands of federal worke",
+    "tags": [
+      "Defense",
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/senate/5846382-gop-senators-mike-johnson-pressure-dhs/",
+    "published_iso": "2026-04-24T10:00:00+00:00",
+    "time_ago": "53m ago"
+  },
+  {
+    "id": "44b3c3140230",
+    "politician": "Politico",
+    "initials": "PO",
+    "role": "Political News",
+    "color": {
+      "bg": "#1a0a0a",
+      "fg": "#fca5a5"
+    },
+    "severity": "medium",
+    "content": "The nation\u2019s cartoonists on the week in politics. Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoo",
+    "tags": [],
+    "tickers": [],
+    "source": "politico",
+    "platform": "Politico",
+    "url": "https://www.politico.com/gallery/2026/04/24/the-nations-cartoonists-on-the-week-in-politics-00889775",
+    "published_iso": "2026-04-24T09:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "5af8f88ca35b",
     "politician": "The Hill",
     "initials": "TH",
@@ -20,7 +166,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/regulation/court-battles/5846791-plea-agreement-ilhan-omar-assault/",
     "published_iso": "2026-04-24T02:40:31+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "76305fe9d572",
@@ -43,97 +189,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/nexstar_media_wire/5846522-heated-socks-sold-at-costco-recalled-after-wearers-report-second-degree-burns/",
     "published_iso": "2026-04-24T01:44:59+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "583bba6c2414",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Golman Jeffrey A disposed of 20,356 shares of Monroe Capital Corp (MRCC) \u00b7 Apr 23",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [
-      "MRCC"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1561001/000156100126000003/0001561001-26-000003-index.htm",
-    "published_iso": "2026-04-24T01:37:53+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "4bbc0530d2a4",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Heshmatpour Amir F bought 10,000 shares of Neonc Technologies Holdings, Inc. (NTHI) \u00b7 $4.90/share \u00b7 $49,000 total \u00b7 Apr 23",
-    "tags": [],
-    "tickers": [
-      "NTHI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1979414/000121390026047218/0001213900-26-047218-index.htm",
-    "published_iso": "2026-04-24T01:34:03+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "457d8036cab9",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Warren draws 'parallels' between AI 'bubble' and financial crisis. Sen. Elizabeth Warren (D-Mass.) warned on Thursday that investments in artificial intelligence could trigger a potential economic crash, drawing parallels to the 2008 financial crisis caused by a collapse in the housing bubble. \u201cThe parallels to the 200",
-    "tags": [
-      "Big Tech",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/5846721-warren-ai-debt-risk-crash/",
-    "published_iso": "2026-04-24T00:51:04+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "8d88bb9d1fa3",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Senate Democrats call for investigation into FAA chief stock divestiture. Senate Democrats on Thursday called on a federal watchdog to investigate Federal Aviation Administration (FAA) Administrator Bryan Bedford's stock divestment, accusing him of making profits that \"violated his ethics agreement.\" Sens. Maria Cantwe",
-    "tags": [],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5846668-senate-democrats-faa-ethics-probe/",
-    "published_iso": "2026-04-24T00:45:09+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "1c87f52db04d",
@@ -152,7 +208,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08108/puerto-rico-state-plan-operational-status-agreement-change-in-level-of-federal-enforcement-private",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "63dbf366f27f",
@@ -171,7 +227,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08106/airworthiness-directives-pratt-and-whitney-engines",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "49c6b67d6abd",
@@ -195,7 +251,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08104/schedules-of-controlled-substances-placement-of-mdmb-4en-pinaca-in-schedule-i",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "6cbd8de880b4",
@@ -216,7 +272,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08103/one-page-document-on-passenger-rights",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "54b431c1978b",
@@ -237,7 +293,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08075/pipeline-safety-standards-update-nfpa-59",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "788a92ad8307",
@@ -256,7 +312,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08074/pipeline-safety-clarifying-hazardous-liquid-pipeline-integrity-management-guidance",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "0c361664985e",
@@ -281,7 +337,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08073/pipeline-safety-standards-update-astm-a53a53m",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "dd6f3fa017cc",
@@ -307,60 +363,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08072/pipeline-safety-standards-update-nfpa-58",
     "published_iso": "2026-04-24T00:00:00+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "01526c64473f",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Rogan blasts Trump's Iran strategy after extending ceasefire: 'Doesn't make sense'. Podcaster Joe Rogan said Thursday that President Trump\u2019s strategy in Iran \u201cdoesn\u2019t make sense,\" renewing his criticism of the conflict days after appearing alongside the president for an executive order signing at the White House. The c",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/international/5846565-rogan-questions-trump-middle-east/",
-    "published_iso": "2026-04-23T23:26:08+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "ae8b59a06888",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Navy secretary's removal points to Trump\u2019s anxiety over shipbuilding. The abrupt firing of Navy Secretary John Phelan, the latest head to roll in Defense Secretary Pete Hegseth\u2019s turbulent Pentagon, points to President Trump\u2019s anxiety over his ambitious and divisive vision for U.S. shipbuilding.  Phelan, a billionaire ",
-    "tags": [
-      "Defense",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/defense/5846558-firing-navy-secretary-trump/",
-    "published_iso": "2026-04-23T23:16:05+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "68722df59f2b",
@@ -384,7 +387,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/president-trumps-trade-policy-delivering-american-people",
     "published_iso": "2026-04-23T22:01:59+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "6ab0f9ee4800",
@@ -409,7 +412,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mk6y5hkt5s26",
     "published_iso": "2026-04-23T21:42:36.540000+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "a2a60137030a",
@@ -434,7 +437,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/republicans-voted-not-once-not-twice-but-five-times-to-continue-trumps-war-with-iran",
     "published_iso": "2026-04-23T21:34:29+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "7f7d74b33953",
@@ -458,7 +461,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-announces-deal-with-regeneron-to-bring-most-favored-nation-pricing-to-american-patients/",
     "published_iso": "2026-04-23T19:45:32+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "14d6dae93cd8",
@@ -479,7 +482,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/auto-draft/",
     "published_iso": "2026-04-23T18:18:11+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "e0d85e1d76d8",
@@ -505,7 +508,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mk6j3prpic2l",
     "published_iso": "2026-04-23T17:13:11.916000+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "4c406a34e994",
@@ -524,7 +527,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h137?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T14:32:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "a44dbd3771e9",
@@ -545,7 +548,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mk66uk55gc2v",
     "published_iso": "2026-04-23T14:10:13.701000+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "814e52b1a4fc",
@@ -564,7 +567,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s105?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T07:22:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "477d95b3085c",
@@ -583,7 +586,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s104?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T07:08:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "9ed8812baf32",
@@ -604,7 +607,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s103?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T06:51:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "cf4fa3931e9e",
@@ -623,7 +626,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s102?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T06:31:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "cd33abbdd80f",
@@ -796,7 +799,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/04/22/grindr-washington-trump-congress-00886347",
     "published_iso": "2026-04-22T09:55:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "dfcfc944a908",
@@ -882,27 +885,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/04/president-trump-addresses-key-issues-facing-the-nation-in-exclusive-cnbc-interview/",
     "published_iso": "2026-04-21T15:22:18+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "4eb16b27cd64",
-    "politician": "Politico",
-    "initials": "PO",
-    "role": "Political News",
-    "color": {
-      "bg": "#1a0a0a",
-      "fg": "#fca5a5"
-    },
-    "severity": "medium",
-    "content": "Rival PACs line up to target GOP cosponsors of immigration bill. The Dignity Act, a bipartisan immigration reform bill, has sparked a revolt on the political right",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "politico",
-    "platform": "Politico",
-    "url": "https://www.politico.com/news/2026/04/21/immigration-republicans-pacs-dignity-act-00882222",
-    "published_iso": "2026-04-21T09:00:00+00:00",
     "time_ago": "2d ago"
   },
   {
