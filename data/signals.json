@@ -1,67 +1,27 @@
 [
   {
-    "id": "512d1e8baacb",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "47b81de74b75",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Magnetar Financial Llc sold 4,018 shares of Coreweave, Inc. (CRWV) \u00b7 $118.31/share \u00b7 $475,370 total \u00b7 Apr 24 ($75,807,036 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CRWV"
+    "severity": "high",
+    "content": "Mississippi governor calling for special session over state Supreme Court map after VRA decision. Mississippi Gov. Tate Reeves (R) announced on Friday that he will call a special session to consider new voting maps after the U.S. Supreme Court rules on a landmark redistricting case.\u00a0\u00a0 Reeves said state legislators will",
+    "tags": [
+      "Regulation"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1953511/000110465926048787/0001104659-26-048787-index.htm",
-    "published_iso": "2026-04-25T00:03:23+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "53ada0c74e11",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Magnetar Financial Llc sold 2,744 shares of Coreweave, Inc. (CRWV) \u00b7 $118.31/share \u00b7 $324,643 total \u00b7 Apr 24 ($104,716,272 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CRWV"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1953511/000110465926048786/0001104659-26-048786-index.htm",
-    "published_iso": "2026-04-25T00:02:25+00:00",
-    "time_ago": "3m ago"
-  },
-  {
-    "id": "4b4ed4f57a22",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Basso Tracy exercised options for 1,523 shares of Keenova Therapeutics Plc \u00b7 Apr 24",
-    "tags": [],
     "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2076534/000110465926048785/0001104659-26-048785-index.htm",
-    "published_iso": "2026-04-25T00:02:23+00:00",
-    "time_ago": "3m ago"
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/state-watch/5848505-reeves-calls-special-session/",
+    "published_iso": "2026-04-25T01:50:59+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "ac57ac522e30",
+    "id": "bb5c4e21b306",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -70,16 +30,144 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Supernova Management Llc sold 3,042 shares of Coreweave, Inc. (CRWV) \u00b7 $118.31/share \u00b7 $359,899 total \u00b7 Apr 24 ($117,394,342 across all blocks)",
+    "content": "Langlais Kerri M. exercised options for 327,054 shares of Terawulf Inc. (WULF) \u00b7 Apr 24 ($0 across all blocks)",
     "tags": [],
     "tickers": [
-      "CRWV"
+      "WULF"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1953511/000110465926048784/0001104659-26-048784-index.htm",
-    "published_iso": "2026-04-25T00:01:26+00:00",
-    "time_ago": "4m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1877257/000108330126000074/0001083301-26-000074-index.htm",
+    "published_iso": "2026-04-25T01:35:45+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "071708bcd405",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Prager Paul B. exercised options for 981,162 shares of Terawulf Inc. (WULF) \u00b7 Apr 24 ($0 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "WULF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1877255/000108330126000073/0001083301-26-000073-index.htm",
+    "published_iso": "2026-04-25T01:35:19+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "f5e377b6382d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Fleury Patrick exercised options for 327,054 shares of Terawulf Inc. (WULF) \u00b7 Apr 24 ($0 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "WULF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652256/000108330126000072/0001083301-26-000072-index.htm",
+    "published_iso": "2026-04-25T01:34:57+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "4a501dbbe4a4",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Khan Nazar M. exercised options for 817,635 shares of Terawulf Inc. (WULF) \u00b7 Apr 24 ($0 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "WULF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1877476/000108330126000071/0001083301-26-000071-index.htm",
+    "published_iso": "2026-04-25T01:34:34+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "d55348ee0e9f",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Cho Jun sold 10,000 shares of Netlist Inc (NLST) \u00b7 $1.98/share \u00b7 $19,800 total \u00b7 Apr 24 ($41,600 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "NLST"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1393033/000110465926048803/0001104659-26-048803-index.htm",
+    "published_iso": "2026-04-25T01:30:24+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "bd73bb0cdc3a",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Welcher Blake sold 37,500 shares of Netlist Inc (NLST) \u00b7 $2.00/share \u00b7 $75,000 total \u00b7 Apr 24",
+    "tags": [],
+    "tickers": [
+      "NLST"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1282631/000110465926048802/0001104659-26-048802-index.htm",
+    "published_iso": "2026-04-25T01:30:08+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "fef8ba0af55c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Prentiss Christopher B withheld (tax) 12,267 shares of Mannkind Corp (MNKD) \u00b7 $2.74/share \u00b7 $33,612 total \u00b7 Apr 24",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "MNKD"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1717583/000119312526178298/0001193125-26-178298-index.htm",
+    "published_iso": "2026-04-25T01:30:06+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "d16557d59e56",
@@ -105,7 +193,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/newsletters/business-economy/5848412-doj-drops-powell-probe/",
     "published_iso": "2026-04-24T22:54:06+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "7d5cbce8fa4e",
@@ -126,7 +214,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/state-watch/5848397-camp-mystic-emergency-plan-texas/",
     "published_iso": "2026-04-24T22:50:23+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "66b16850ff37",
@@ -152,70 +240,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/newsletters/technology/5848396-soldiers-arrest-in-alleged-polymarket-bet-spotlights-risks-for-military/",
     "published_iso": "2026-04-24T22:39:05+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "d3121f72d977",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Jones Act waiver extended in bid to lower fuel prices\u200b. {beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Jones Act waiver extended in bid to lower fuel prices The Trump administration announced on Friday it was issuing a 90-day extension to its waiver of the Jones Act, which requires ",
-    "tags": [
-      "Energy"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/energy-environment/5848377-jones-act-waiver-extended-in-bid-to-lower-fuel-prices/",
-    "published_iso": "2026-04-24T22:31:14+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "f5d2d9b1c74f",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Insurers step up prior authorization reforms. Click in for more news from The Hill {beacon} Health Care Health Care &#8202; The Big Story  Insurers step up prior authorization reforms  Major health insurance companies on Friday said they were accelerating efforts to streamline prior authorization requirements and reduc",
-    "tags": [],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/health-care/5848387-insurers-step-up-prior-authorization-reforms/",
-    "published_iso": "2026-04-24T22:29:38+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "8ab071e09733",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Florida Democrat 'appalled' by report 31 sloths died in storage warehouse. Rep. Maxwell Frost (D-Fla.) said Thursday that he was appalled by a report about the death of 31 sloths that died under the care of Sloth World, a tourist attraction in Orlando, Fla., that wasn\u2019t yet opened to the public. The sloths were from So",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/5848279-florida-sloth-warehouse-deaths/",
-    "published_iso": "2026-04-24T22:02:11+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "7476382cf569",
@@ -236,7 +261,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-arbor-day/",
     "published_iso": "2026-04-24T19:38:54+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "c72c709c91e0",
@@ -257,7 +282,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/public-hearings-regarding-section-301-investigations-relating-failures-take-action-forced-labor",
     "published_iso": "2026-04-24T18:59:59+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "10afa2ec0e30",
@@ -282,7 +307,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mkb4a45yz22n",
     "published_iso": "2026-04-24T18:00:59.693000+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "14a6412e56c7",
@@ -308,7 +333,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/04/24/prediction-market-insider-trading-violations-00890570",
     "published_iso": "2026-04-24T16:54:44+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "c6aacc2374fc",
@@ -329,7 +354,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-armenian-remembrance-day/",
     "published_iso": "2026-04-24T15:05:18+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "ddbe867e4729",
@@ -350,7 +375,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ambassador-jamieson-greer-announces-united-states-european-union-action-plan-critical-minerals",
     "published_iso": "2026-04-24T14:26:56+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "860a5a8bf4c0",
@@ -372,7 +397,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-unveils-new-beehive-on-south-lawn/",
     "published_iso": "2026-04-24T13:19:22+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "44b3c3140230",
@@ -391,7 +416,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/gallery/2026/04/24/the-nations-cartoonists-on-the-week-in-politics-00889775",
     "published_iso": "2026-04-24T09:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "1c87f52db04d",
@@ -896,7 +921,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/04/21/democrats-win-redistricting-virginia-00885917",
     "published_iso": "2026-04-22T00:50:24+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "12c66cda70f4",
@@ -1606,7 +1631,7 @@
     "platform": ".gov",
     "url": "http://khanna.house.gov/media/ros-op-eds/opinion-democrats-must-make-case-government-can-be-effective-and-good",
     "published_iso": "2025-02-19T02:51:28+00:00",
-    "time_ago": "429d ago"
+    "time_ago": "430d ago"
   },
   {
     "id": "d026d19a063b",
@@ -1625,7 +1650,7 @@
     "platform": ".gov",
     "url": "http://khanna.house.gov/media/ros-op-eds/ro-khanna-democrats-have-future-here-it",
     "published_iso": "2025-02-14T03:15:17+00:00",
-    "time_ago": "434d ago"
+    "time_ago": "435d ago"
   },
   {
     "id": "0ea19a115c74",
