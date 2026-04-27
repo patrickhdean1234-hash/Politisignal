@@ -1,5 +1,177 @@
 [
   {
+    "id": "0e3bd63ef194",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Pm Alpha Dac bought 103,597 shares of Ab Private Lending Fund \u00b7 $25.27/share \u00b7 $2,618,382 total \u00b7 Apr 27",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2091734/000209173426000004/0002091734-26-000004-index.htm",
+    "published_iso": "2026-04-27T19:42:51+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "2286a6813ede",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Majors Michael Clay exercised options for 34,000 shares of Globe Life Inc. (GL-PD) \u00b7 $98.32/share \u00b7 $3,342,880 total \u00b7 Apr 27 ($8,572,508 across all blocks)",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1426922/000032033526000147/0000320335-26-000147-index.htm",
+    "published_iso": "2026-04-27T19:40:42+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "187369b64534",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Google workers urge CEO to reject classified AI work with Pentagon. Hundreds of employees at Google are pressing the company\u2019s CEO to reject any deal with the Pentagon to use the company's artificial intelligence in classified settings, warning of the same risks as Anthropic before it was banned in military work earlie",
+    "tags": [
+      "Big Tech",
+      "Defense"
+    ],
+    "tickers": [
+      "GOOGL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/5851425-google-employees-oppose-pentagon-ai-deal/",
+    "published_iso": "2026-04-27T19:24:32+00:00",
+    "time_ago": "21m ago"
+  },
+  {
+    "id": "4e90d421049f",
+    "politician": "Rep. Nancy Pelosi",
+    "initials": "NP",
+    "role": "House Democratic Leader",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "Republicans are handing ICE $210 billion while ripping away health care and taking food out of the mouths of children.\n\nThat money could provide breathing room for working families just trying to make ends meet.\n\nInstead, Republicans are doubling down on chaos and cruelty.",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/pelosi.house.gov/post/3mkiqyrneos2u",
+    "published_iso": "2026-04-27T19:01:20.528000+00:00",
+    "time_ago": "44m ago"
+  },
+  {
+    "id": "6e49d72b8671",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Live updates: US charges shooting suspect Cole Allen; Leavitt lays blame on Democrats' rhetoric. The Justice Department charged Cole Allen on Monday afternoon with the attempted assassination of President Trump, along with other counts, in his first court appearance since the Saturday shooting at the White House Corres",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5850212-live-updates-donald-trump-whca-dinner-shooting/",
+    "published_iso": "2026-04-27T18:48:08+00:00",
+    "time_ago": "57m ago"
+  },
+  {
+    "id": "06f3edcaaac6",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Washington Hilton says Secret Service protocols were followed before attempted attack on Trump. The Washington Hilton hotel said Monday it was following \u201cstringent\u201d Secret Service protocols during Saturday\u2019s White House Correspondents' Association dinner, where an armed man charged at a security checkpoint and exchange",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/blogs/in-the-know/5851320-secret-service-trump-threat/",
+    "published_iso": "2026-04-27T18:46:06+00:00",
+    "time_ago": "59m ago"
+  },
+  {
+    "id": "e6bb37eaf592",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Ex-Sen. Ben Sasse: 'Congress is not wrestling with big or important questions'. Former Nebraska Sen. Ben Sasse (R) in a new interview published Monday said Congress was not \u201cwrestling\u201d with big or important questions, hammering both the Republican and Democratic parties for not grappling with more forward-looking issue",
+    "tags": [
+      "Trade"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/senate/5851149-ben-sasse-congress-criticism/",
+    "published_iso": "2026-04-27T18:22:09+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "9ec4bb53d1f2",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "critical",
+    "content": "Congressional Bill H.J.Res. 140 Signed into Law. On Monday, April 27, 2026, the President signed into law: H.J.Res. 140, which disapproves a 2023 Bureau of Land Management Public Land Order, which withdrew approximately 225,504 acres of National Forest System lands in Cook, Lake, and Saint Louis Counties, Minnesota, fr",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/04/congressional-bill-h-j-res-140-signed-into-law/",
+    "published_iso": "2026-04-27T18:01:39+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "0683b9fae85b",
     "politician": "Sen. Elizabeth Warren",
     "initials": "EW",
@@ -23,29 +195,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mkimpvy2ek27",
     "published_iso": "2026-04-27T17:44:48.115000+00:00",
-    "time_ago": "19m ago"
-  },
-  {
-    "id": "6f59839530b7",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Musk vs. Altman: Tech titans face off in court. Tesla CEO Elon Musk and OpenAI CEO Sam Altman are poised to face off in court Monday, as the yearslong feud between the two tech titans comes to a head at a trial over the ChatGPT maker\u2019s corporate structure.  Musk, who helped found OpenAI in 2015 before leaving and later",
-    "tags": [],
-    "tickers": [
-      "MSFT",
-      "TSLA"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/5851059-musk-v-altman-tech-titans-face-off-in-court/",
-    "published_iso": "2026-04-27T17:39:46+00:00",
-    "time_ago": "24m ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "99cdddfab852",
@@ -71,89 +221,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/americans-deserve-lower-prices-and-lower-interest-rates",
     "published_iso": "2026-04-27T17:37:20+00:00",
-    "time_ago": "27m ago"
-  },
-  {
-    "id": "c2fa2fe7b1f1",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Congress must modernize asylum policy before the justices upend it. The Supreme Court is hearing a case that could impact asylum policy, and ultimately it is up to Congress to decide how to manage asylum at the border in a way that balances security and human dignity",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/immigration/5850473-asylum-policy-illegal-crossings/",
-    "published_iso": "2026-04-27T17:30:00+00:00",
-    "time_ago": "34m ago"
-  },
-  {
-    "id": "c684079de074",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "WHCA shooting suspect\u2019s motivations emerge: What we know. Details about the alleged gunman at the White House Correspondents\u2019 Association (WHCA) dinner have started to emerge ahead of his initial court appearance Monday.\u00a0\u00a0 The suspect has been identified as Cole Allen, 31, a teacher and game developer who law enforceme",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5851080-whca-suspect-gunman-motives/",
-    "published_iso": "2026-04-27T17:23:55+00:00",
-    "time_ago": "40m ago"
-  },
-  {
-    "id": "385228a236db",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Budget airlines ask Trump for $2.5 million bailout: bad idea!. This debate\u00a0isn\u2019t\u00a0just about airlines.\u00a0It\u2019s\u00a0about how far\u00a0we\u2019re\u00a0willing to go when global conflict starts hitting Americans at home, in their wallets, in their jobs, and in the costs\u00a0of everyday life",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/lindseys-lens/5851091-spirit-airlines-bailout-debate/",
-    "published_iso": "2026-04-27T17:23:10+00:00",
-    "time_ago": "41m ago"
-  },
-  {
-    "id": "1c4f95d8f0a1",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Supreme Court grapples with use of 'geofence warrants' by law enforcement. The Supreme Court dove into a digital age issue on Monday as it grappled with how to apply constitutional protections against unreasonable searches\u00a0to cellphone location data.\u00a0 Across two hours of arguments, the justices questioned whether the g",
-    "tags": [
-      "Big Tech",
-      "Banking",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/regulation/court-battles/5848192-geofence-warrants-fourth-amendment-supreme-court/",
-    "published_iso": "2026-04-27T17:07:09+00:00",
-    "time_ago": "57m ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "b09b078d5f9f",
@@ -180,7 +248,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mkibxwz7j22o",
     "published_iso": "2026-04-27T14:32:26.476000+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "654748d4f070",
@@ -207,7 +275,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/whats-on-the-chopping-block-so-trump-can-bankroll-his-pentagon-budget",
     "published_iso": "2026-04-27T14:30:30+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "5359ead129de",
@@ -229,7 +297,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08172/magnuson-stevens-act-provisions-fisheries-of-the-northeastern-united-states-northeast-multispecies",
     "published_iso": "2026-04-27T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "288f0bfc6643",
@@ -250,7 +318,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08148/security-review-committee",
     "published_iso": "2026-04-27T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "1544e2f5fc32",
@@ -269,7 +337,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08146/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-the-rayed-bean",
     "published_iso": "2026-04-27T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "49a38b5fda19",
@@ -290,7 +358,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08144/administrative-rulemaking-guidance-and-enforcement-procedures",
     "published_iso": "2026-04-27T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "7d2f1d18e29a",
@@ -311,7 +379,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08134/fisheries-of-the-northeastern-united-states-framework-adjustment-17-to-the-mackerel-squid-and",
     "published_iso": "2026-04-27T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "1599ea4ffe38",
@@ -391,7 +459,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-arbor-day/",
     "published_iso": "2026-04-24T19:38:54+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "c72c709c91e0",
@@ -412,7 +480,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/public-hearings-regarding-section-301-investigations-relating-failures-take-action-forced-labor",
     "published_iso": "2026-04-24T18:59:59+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "14a6412e56c7",
@@ -607,7 +675,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-announces-deal-with-regeneron-to-bring-most-favored-nation-pricing-to-american-patients/",
     "published_iso": "2026-04-23T19:45:32+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "14d6dae93cd8",
@@ -628,7 +696,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/auto-draft/",
     "published_iso": "2026-04-23T18:18:11+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "4c406a34e994",
@@ -874,27 +942,6 @@
     "time_ago": "5d ago"
   },
   {
-    "id": "6b2f9e638c87",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "Nominations Sent to the Senate. NOMINATIONS SENT TO THE SENATE: Riley Barnes, of Texas, to be Director of the Peace Corps. Rudolph Bauer, of South Carolina, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to Belize. Don Richard Berthiaume, Jr., of Virginia, to be Inspector General, De",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/04/nominations-sent-to-the-senate-633f/",
-    "published_iso": "2026-04-21T18:49:23+00:00",
-    "time_ago": "5d ago"
-  },
-  {
     "id": "c8533fb64fee",
     "politician": "U.S. Trade Rep.",
     "initials": "USTR",
@@ -1027,7 +1074,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-led-fences-act-clears-u-s-house/",
     "published_iso": "2026-04-16T18:07:32+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "987e63291ad4",
@@ -1056,7 +1103,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mjkle76hac25",
     "published_iso": "2026-04-15T19:00:28.593534+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "d773df1a1b2c",
@@ -1179,7 +1226,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-introduces-legislation-to-codify-trumps-nuclear-baseload-energy-executive-orders/",
     "published_iso": "2026-03-26T18:12:45+00:00",
-    "time_ago": "31d ago"
+    "time_ago": "32d ago"
   },
   {
     "id": "42002aa36a3f",
@@ -1222,7 +1269,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/news-sanders-welch-balint-statement-on-recent-ice-raids-in-south-burlington/",
     "published_iso": "2026-03-12T18:51:43+00:00",
-    "time_ago": "45d ago"
+    "time_ago": "46d ago"
   },
   {
     "id": "3c2b4ad7a11c",
@@ -1336,7 +1383,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/aoc.bsky.social/post/3mfhthlg3u22x",
     "published_iso": "2026-02-22T19:06:46.919000+00:00",
-    "time_ago": "63d ago"
+    "time_ago": "64d ago"
   },
   {
     "id": "602146d3f751",
@@ -1358,7 +1405,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-announces-2026-service-academy-nominations/",
     "published_iso": "2026-02-18T19:38:51+00:00",
-    "time_ago": "67d ago"
+    "time_ago": "68d ago"
   },
   {
     "id": "79af8a04fb57",
@@ -1707,7 +1754,7 @@
     "platform": ".gov",
     "url": "http://jordan.house.gov/media/blog/gop-fbi-refusing-accept-accountability-enforcing-doj-school-boards-memo",
     "published_iso": "2022-02-10T19:37:15+00:00",
-    "time_ago": "1536d ago"
+    "time_ago": "1537d ago"
   },
   {
     "id": "718743804c07",
@@ -1728,6 +1775,6 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about-us/policy-offices/press-office/blog/weekly-trade-focus-apec",
     "published_iso": "2009-07-20T18:28:39+00:00",
-    "time_ago": "6124d ago"
+    "time_ago": "6125d ago"
   }
 ]
