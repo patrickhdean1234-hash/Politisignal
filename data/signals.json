@@ -1,25 +1,27 @@
 [
   {
-    "id": "03635e4ff050",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "79abc13e156f",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "The\u00a0fate of\u00a0America's presidential records\u00a0is now in the courts' hands. Trump's Office of Legal Counsel is asserting that the Presidential Records Act is unconstitutional",
+    "content": "Robison Kim E sold 22,000 shares of Wafd Inc (WAFDP) \u00b7 $35.28/share \u00b7 $776,160 total \u00b7 Apr 27",
     "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/judiciary/5848061-presidential-records-act-under-attack/",
-    "published_iso": "2026-04-27T13:00:00+00:00",
+    "tickers": [
+      "WAFDP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1702713/000170271326000003/0001702713-26-000003-index.htm",
+    "published_iso": "2026-04-27T15:11:13+00:00",
     "time_ago": "1m ago"
   },
   {
-    "id": "30577bdeb847",
+    "id": "114638d63675",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -27,60 +29,47 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Trump says dinner shooter was 'blur': 'NFL should sign him up'. President Trump said that the shooter at the White House Correspondents' Association dinner was a \u201cblur\u201d and cracked a joke that the NFL \u201cshould sign him up.\u201d \u201cHis speed was rather incredible. Actually, it was, it was like a blur,\u201d the president remarked a",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5850588-donald-trump-shooter-white-house-blur/",
-    "published_iso": "2026-04-27T12:32:14+00:00",
-    "time_ago": "29m ago"
-  },
-  {
-    "id": "0de2479b2d5f",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Trump backing Secret Service leadership after correspondents' dinner shooting. President Trump is standing by Secret Service leadership following the shooting at the White House Correspondents' Dinner on Saturday. In a statement, a senior White House official said Trump thinks the Secret Service did \u201can excellent job\u201d ",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5850584-donald-trump-shooting-secret-service/",
-    "published_iso": "2026-04-27T12:21:40+00:00",
-    "time_ago": "39m ago"
-  },
-  {
-    "id": "be6f5403e937",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Senate Republican calls for scrapping filibuster to fund DHS after correspondents\u2019 dinner shooting. Sen. Ron Johnson (R-Wis.) says Republicans should \u201cnuke\" the Senate\u2019s filibuster rule if Democrats continue to block Department of Homeland Security (DHS) funding after the third assassination attempt against President T",
+    "severity": "critical",
+    "content": "Senate Judiciary Committee plans briefing on WHCA dinner shooting. Senate Judiciary Chair Chuck Grassley (R-Iowa) on Sunday said Secret Service leaders would soon brief the committee on the White House Correspondents' dinner shooting. \u201cI\u2019m setting up a briefing w Secret Service leadership &#38; Ranking Member Durbin re",
     "tags": [
       "Regulation"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5850578-senate-filibuster-rule-donald-trump-threat/",
-    "published_iso": "2026-04-27T12:06:47+00:00",
-    "time_ago": "54m ago"
+    "url": "https://thehill.com/homenews/senate/5850666-secret-service-briefing-senate-whca-dinner/",
+    "published_iso": "2026-04-27T14:34:07+00:00",
+    "time_ago": "38m ago"
   },
   {
-    "id": "9e526bf821fe",
+    "id": "b09b078d5f9f",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "What's on the chopping block so Trump can bankroll his Pentagon budget?\n\nFood for little babies and lifesaving cancer research.",
+    "tags": [
+      "Banking",
+      "Defense"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mkibxwz7j22o",
+    "published_iso": "2026-04-27T14:32:26.476000+00:00",
+    "time_ago": "40m ago"
+  },
+  {
+    "id": "59a34d7cbf63",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -89,17 +78,46 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "America cannot afford to wait\u00a0for\u00a0a new Fed\u00a0chair\u00a0\u2014 confirm Kevin Warsh now. If the Senate wants to help restore trust in the dollar, in the Fed, and in the broader long-term economic direction of the country, then it should act with urgency by confirming Kevin Warsh\u00a0as the next Fed\u00a0chairman\u00a0without hesitation or delay",
-    "tags": [],
+    "content": "Congress eyes changes to boxing regulations amid fighter pushback. Lawmakers are considering a revamp of the federal regulations governing professional boxing, an effort to bolster the sport that has sparked accusations it could hurt boxers in the ring. Critics of boxing\u2019s existing structure say the sport\u00a0is\u00a0held back\u00a0",
+    "tags": [
+      "Regulation"
+    ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/finance/5847714-senate-confirm-warsh-urgency/",
-    "published_iso": "2026-04-27T12:00:00+00:00",
-    "time_ago": "1h ago"
+    "url": "https://thehill.com/policy/keeping-score/5850715-cruz-boxing-reform-bill/",
+    "published_iso": "2026-04-27T14:31:02+00:00",
+    "time_ago": "41m ago"
   },
   {
-    "id": "03f8ed9d0c6d",
+    "id": "654748d4f070",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "What's on the chopping block so Trump can bankroll his Pentagon budget?. What's on the chopping block so Trump can bankroll his Pentagon budget?",
+    "tags": [
+      "Banking",
+      "Defense"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "http://www.warren.senate.gov/newsroom/videos/watch/whats-on-the-chopping-block-so-trump-can-bankroll-his-pentagon-budget",
+    "published_iso": "2026-04-27T14:30:30+00:00",
+    "time_ago": "42m ago"
+  },
+  {
+    "id": "3b10824bc9bb",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -107,22 +125,16 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "high",
-    "content": "Iran offers US deal to reopen strait without nuclear deal. Iran has offered the U.S. a deal to open the Strait of Hormuz, a key waterway for the oil industry, without any terms regarding its nuclear program, according to The Associated Press. Iran offered to end its restriction of the strait if the U.S. stops a blockad",
+    "severity": "critical",
+    "content": "Listen live: Supreme Court weighs use of \u2018geofence warrants\u2019. The Supreme Court will hear oral arguments Monday in a case with potentially major implications for how law enforcement investigates crimes in the digital age. The justices will weigh whether geofence warrants \u2014 an investigatory tool that compels companies t",
     "tags": [
-      "Energy",
-      "Sanctions"
+      "Regulation"
     ],
-    "tickers": [
-      "XOM",
-      "CVX",
-      "COP",
-      "OXY"
-    ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/defense/5850567-iran-us-negotiations-strait/",
-    "published_iso": "2026-04-27T11:50:54+00:00",
+    "url": "https://thehill.com/regulation/court-battles/5850673-geofence-warrants-supreme-court/",
+    "published_iso": "2026-04-27T14:04:49+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -145,7 +157,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08172/magnuson-stevens-act-provisions-fisheries-of-the-northeastern-united-states-northeast-multispecies",
     "published_iso": "2026-04-27T00:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "288f0bfc6643",
@@ -166,7 +178,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08148/security-review-committee",
     "published_iso": "2026-04-27T00:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "1544e2f5fc32",
@@ -185,7 +197,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08146/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-the-rayed-bean",
     "published_iso": "2026-04-27T00:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "49a38b5fda19",
@@ -206,7 +218,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08144/administrative-rulemaking-guidance-and-enforcement-procedures",
     "published_iso": "2026-04-27T00:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "7d2f1d18e29a",
@@ -227,7 +239,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08134/fisheries-of-the-northeastern-united-states-framework-adjustment-17-to-the-mackerel-squid-and",
     "published_iso": "2026-04-27T00:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "1599ea4ffe38",
@@ -394,7 +406,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-armenian-remembrance-day/",
     "published_iso": "2026-04-24T15:05:18+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "ddbe867e4729",
@@ -415,7 +427,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ambassador-jamieson-greer-announces-united-states-european-union-action-plan-critical-minerals",
     "published_iso": "2026-04-24T14:26:56+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "860a5a8bf4c0",
@@ -437,7 +449,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-unveils-new-beehive-on-south-lawn/",
     "published_iso": "2026-04-24T13:19:22+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "44b3c3140230",
@@ -521,31 +533,6 @@
     "time_ago": "3d ago"
   },
   {
-    "id": "a2a60137030a",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "high",
-    "content": "Republicans voted not once, not twice, but FIVE TIMES to continue Trump&#x2019;s war with Iran.. Republicans voted not once, not twice, but FIVE TIMES to continue Trump&#x2019;s war with Iran",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "http://www.warren.senate.gov/newsroom/videos/watch/republicans-voted-not-once-not-twice-but-five-times-to-continue-trumps-war-with-iran",
-    "published_iso": "2026-04-23T21:34:29+00:00",
-    "time_ago": "3d ago"
-  },
-  {
     "id": "7f7d74b33953",
     "politician": "White House",
     "initials": "WH",
@@ -607,7 +594,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h137?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T14:32:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "814e52b1a4fc",
@@ -1068,7 +1055,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-hosts-crypto-roundtable-with-comptroller-gould-and-governor-gordon/",
     "published_iso": "2026-04-09T13:37:03+00:00",
-    "time_ago": "17d ago"
+    "time_ago": "18d ago"
   },
   {
     "id": "a460129240a1",
@@ -1115,7 +1102,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mi2bnx4lwk2w",
     "published_iso": "2026-03-27T13:59:11.450000+00:00",
-    "time_ago": "30d ago"
+    "time_ago": "31d ago"
   },
   {
     "id": "a2c0abfa69cc",
@@ -1432,7 +1419,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/news-sanders-demands-reinstatement-of-jimmy-kimmel-live-program-in-vermont-calls-removal-of-show-censorship-plain-and-simple/",
     "published_iso": "2025-09-25T14:37:06+00:00",
-    "time_ago": "213d ago"
+    "time_ago": "214d ago"
   },
   {
     "id": "8c5a019a825f",
