@@ -1,96 +1,32 @@
 [
   {
-    "id": "40f03f75edc3",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "0683b9fae85b",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Colombo Marion received 3,173 shares of Bar Harbor Bankshares (BHB) \u00b7 Apr 27 ($82,340 across all blocks)",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "BHB"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1731784/000173178426000006/0001731784-26-000006-index.htm",
-    "published_iso": "2026-04-27T16:54:28+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "6ab57b2d76e6",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Iannelli Josephine received 4,910 shares of Bar Harbor Bankshares (BHB) \u00b7 Apr 27 ($120,983 across all blocks)",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "BHB"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1582060/000158206026000008/0001582060-26-000008-index.htm",
-    "published_iso": "2026-04-27T16:53:25+00:00",
-    "time_ago": "3m ago"
-  },
-  {
-    "id": "6461da268e01",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
     },
     "severity": "medium",
-    "content": "Landry Donald W received 1,119 shares of Sensient Technologies Corp (SXT) \u00b7 Apr 27 ($66,881 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "SXT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1563616/000031014226000038/0000310142-26-000038-index.htm",
-    "published_iso": "2026-04-27T16:52:42+00:00",
-    "time_ago": "4m ago"
-  },
-  {
-    "id": "f4b71965925e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Simard Curtis C received 15,321 shares of Bar Harbor Bankshares (BHB) \u00b7 Apr 27 ($334,655 across all blocks)",
+    "content": "Americans deserve lower prices and lower interest rates. \n\nDonald Trump is standing in the way.",
     "tags": [
       "Banking"
     ],
     "tickers": [
-      "BHB"
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1579604/000157960426000008/0001579604-26-000008-index.htm",
-    "published_iso": "2026-04-27T16:52:23+00:00",
-    "time_ago": "4m ago"
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mkimpvy2ek27",
+    "published_iso": "2026-04-27T17:44:48.115000+00:00",
+    "time_ago": "19m ago"
   },
   {
-    "id": "13ce51c4a13a",
+    "id": "6f59839530b7",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -98,25 +34,47 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "high",
-    "content": "Hegseth to push for Pentagon\u2019s $1.5T budget in front of Senate committee. Defense Secretary Pete Hegseth will testify in front of the Senate Armed Services Committee (SASC) on Thursday to push for the Pentagon\u2019s $1.5 trillion budget request, a source familiar with the matter told The Hill on Monday.  The testimony in t",
+    "severity": "medium",
+    "content": "Musk vs. Altman: Tech titans face off in court. Tesla CEO Elon Musk and OpenAI CEO Sam Altman are poised to face off in court Monday, as the yearslong feud between the two tech titans comes to a head at a trial over the ChatGPT maker\u2019s corporate structure.  Musk, who helped found OpenAI in 2015 before leaving and later",
+    "tags": [],
+    "tickers": [
+      "MSFT",
+      "TSLA"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/5851059-musk-v-altman-tech-titans-face-off-in-court/",
+    "published_iso": "2026-04-27T17:39:46+00:00",
+    "time_ago": "24m ago"
+  },
+  {
+    "id": "99cdddfab852",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Americans deserve lower prices and lower interest rates.. Americans deserve lower prices and lower interest rates",
     "tags": [
-      "Defense"
+      "Banking"
     ],
     "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/defense/5850949-hegeseth-leadership-senate-republicans/",
-    "published_iso": "2026-04-27T16:26:16+00:00",
-    "time_ago": "30m ago"
+    "source": "rss",
+    "platform": ".gov",
+    "url": "http://www.warren.senate.gov/newsroom/videos/watch/americans-deserve-lower-prices-and-lower-interest-rates",
+    "published_iso": "2026-04-27T17:37:20+00:00",
+    "time_ago": "27m ago"
   },
   {
-    "id": "ba43915232ab",
+    "id": "c2fa2fe7b1f1",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -124,40 +82,18 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "high",
-    "content": "California billionaire tax has enough signatures for ballot, backers say. Advocates for a proposed California billionaire tax on Sunday said they received enough signatures for the measure to appear on the ballot in November.\u00a0 Supporters say 1.6 million people have submitted signatures favoring the Billionaire Tax Act ",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/state-watch/5850928-billionaire-tax-act-california/",
-    "published_iso": "2026-04-27T16:10:56+00:00",
-    "time_ago": "46m ago"
-  },
-  {
-    "id": "557c37a47297",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "DeSantis reveals new Florida map\u00a0that could help GOP add four seats. Florida Gov. Ron DeSantis (R) revealed a new set of congressional lines\u00a0on Monday,\u00a0with\u00a0a map provided by his office to Fox News\u00a0Digital\u00a0appearing\u00a0to show Republicans could gain as many as four seats depending on how voters vote.\u00a0 Florida now has 20 R",
+    "severity": "medium",
+    "content": "Congress must modernize asylum policy before the justices upend it. The Supreme Court is hearing a case that could impact asylum policy, and ultimately it is up to Congress to decide how to manage asylum at the border in a way that balances security and human dignity",
     "tags": [],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/5850908-florida-gop-gains-desantis/",
-    "published_iso": "2026-04-27T16:00:50+00:00",
-    "time_ago": "56m ago"
+    "url": "https://thehill.com/opinion/immigration/5850473-asylum-policy-illegal-crossings/",
+    "published_iso": "2026-04-27T17:30:00+00:00",
+    "time_ago": "34m ago"
   },
   {
-    "id": "bfaa421ba554",
+    "id": "c684079de074",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -166,14 +102,58 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Trump's top two voting initiatives could disenfranchise many Americans. Trump\u2019s executive order abolishing birthright citizenship, now\u00a0before\u00a0the Supreme Court, is at direct odds with the\u00a0SAVE America Act",
+    "content": "WHCA shooting suspect\u2019s motivations emerge: What we know. Details about the alleged gunman at the White House Correspondents\u2019 Association (WHCA) dinner have started to emerge ahead of his initial court appearance Monday.\u00a0\u00a0 The suspect has been identified as Cole Allen, 31, a teacher and game developer who law enforceme",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5851080-whca-suspect-gunman-motives/",
+    "published_iso": "2026-04-27T17:23:55+00:00",
+    "time_ago": "40m ago"
+  },
+  {
+    "id": "385228a236db",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Budget airlines ask Trump for $2.5 million bailout: bad idea!. This debate\u00a0isn\u2019t\u00a0just about airlines.\u00a0It\u2019s\u00a0about how far\u00a0we\u2019re\u00a0willing to go when global conflict starts hitting Americans at home, in their wallets, in their jobs, and in the costs\u00a0of everyday life",
     "tags": [],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/campaign/5847790-birthright-voting-rights-conflict/",
-    "published_iso": "2026-04-27T15:30:00+00:00",
-    "time_ago": "1h ago"
+    "url": "https://thehill.com/opinion/lindseys-lens/5851091-spirit-airlines-bailout-debate/",
+    "published_iso": "2026-04-27T17:23:10+00:00",
+    "time_ago": "41m ago"
+  },
+  {
+    "id": "1c4f95d8f0a1",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Supreme Court grapples with use of 'geofence warrants' by law enforcement. The Supreme Court dove into a digital age issue on Monday as it grappled with how to apply constitutional protections against unreasonable searches\u00a0to cellphone location data.\u00a0 Across two hours of arguments, the justices questioned whether the g",
+    "tags": [
+      "Big Tech",
+      "Banking",
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/regulation/court-battles/5848192-geofence-warrants-fourth-amendment-supreme-court/",
+    "published_iso": "2026-04-27T17:07:09+00:00",
+    "time_ago": "57m ago"
   },
   {
     "id": "b09b078d5f9f",
@@ -200,7 +180,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mkibxwz7j22o",
     "published_iso": "2026-04-27T14:32:26.476000+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "654748d4f070",
@@ -227,7 +207,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/whats-on-the-chopping-block-so-trump-can-bankroll-his-pentagon-budget",
     "published_iso": "2026-04-27T14:30:30+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "5359ead129de",
@@ -249,7 +229,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08172/magnuson-stevens-act-provisions-fisheries-of-the-northeastern-united-states-northeast-multispecies",
     "published_iso": "2026-04-27T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "288f0bfc6643",
@@ -270,7 +250,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08148/security-review-committee",
     "published_iso": "2026-04-27T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "1544e2f5fc32",
@@ -289,7 +269,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08146/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-the-rayed-bean",
     "published_iso": "2026-04-27T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "49a38b5fda19",
@@ -310,7 +290,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08144/administrative-rulemaking-guidance-and-enforcement-procedures",
     "published_iso": "2026-04-27T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "7d2f1d18e29a",
@@ -331,7 +311,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08134/fisheries-of-the-northeastern-united-states-framework-adjustment-17-to-the-mackerel-squid-and",
     "published_iso": "2026-04-27T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "1599ea4ffe38",
@@ -390,25 +370,6 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mkd26bh4vk2s",
     "published_iso": "2026-04-25T12:29:30.118000+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "379c02c842ba",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "We need a Fed Chair who will assert reality and do what&#x2019;s best for our economy.. We need a Fed Chair who will assert reality and do what&#x2019;s best for our economy",
-    "tags": [],
-    "tickers": [],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "http://www.warren.senate.gov/newsroom/videos/watch/we-need-a-fed-chair-who-will-assert-reality-and-do-whats-best-for-our-economy",
-    "published_iso": "2026-04-25T12:28:14+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -1118,7 +1079,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-cruz-file-amicus-brief-backing-trump-administrations-push-to-repeal-endangerment-finding/",
     "published_iso": "2026-04-15T17:31:26+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "7e97dd57aa17",
@@ -1445,7 +1406,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "94d ago"
+    "time_ago": "95d ago"
   },
   {
     "id": "d39ac85b9cc9",
