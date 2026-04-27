@@ -1,6 +1,52 @@
 [
   {
-    "id": "79abc13e156f",
+    "id": "40f03f75edc3",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Colombo Marion received 3,173 shares of Bar Harbor Bankshares (BHB) \u00b7 Apr 27 ($82,340 across all blocks)",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "BHB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1731784/000173178426000006/0001731784-26-000006-index.htm",
+    "published_iso": "2026-04-27T16:54:28+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "6ab57b2d76e6",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Iannelli Josephine received 4,910 shares of Bar Harbor Bankshares (BHB) \u00b7 Apr 27 ($120,983 across all blocks)",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "BHB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1582060/000158206026000008/0001582060-26-000008-index.htm",
+    "published_iso": "2026-04-27T16:53:25+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "6461da268e01",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +55,109 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Robison Kim E sold 22,000 shares of Wafd Inc (WAFDP) \u00b7 $35.28/share \u00b7 $776,160 total \u00b7 Apr 27",
+    "content": "Landry Donald W received 1,119 shares of Sensient Technologies Corp (SXT) \u00b7 Apr 27 ($66,881 across all blocks)",
     "tags": [],
     "tickers": [
-      "WAFDP"
+      "SXT"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1702713/000170271326000003/0001702713-26-000003-index.htm",
-    "published_iso": "2026-04-27T15:11:13+00:00",
-    "time_ago": "1m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1563616/000031014226000038/0000310142-26-000038-index.htm",
+    "published_iso": "2026-04-27T16:52:42+00:00",
+    "time_ago": "4m ago"
   },
   {
-    "id": "114638d63675",
+    "id": "f4b71965925e",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Simard Curtis C received 15,321 shares of Bar Harbor Bankshares (BHB) \u00b7 Apr 27 ($334,655 across all blocks)",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "BHB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1579604/000157960426000008/0001579604-26-000008-index.htm",
+    "published_iso": "2026-04-27T16:52:23+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "13ce51c4a13a",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Hegseth to push for Pentagon\u2019s $1.5T budget in front of Senate committee. Defense Secretary Pete Hegseth will testify in front of the Senate Armed Services Committee (SASC) on Thursday to push for the Pentagon\u2019s $1.5 trillion budget request, a source familiar with the matter told The Hill on Monday.  The testimony in t",
+    "tags": [
+      "Defense"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/defense/5850949-hegeseth-leadership-senate-republicans/",
+    "published_iso": "2026-04-27T16:26:16+00:00",
+    "time_ago": "30m ago"
+  },
+  {
+    "id": "ba43915232ab",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "California billionaire tax has enough signatures for ballot, backers say. Advocates for a proposed California billionaire tax on Sunday said they received enough signatures for the measure to appear on the ballot in November.\u00a0 Supporters say 1.6 million people have submitted signatures favoring the Billionaire Tax Act ",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/state-watch/5850928-billionaire-tax-act-california/",
+    "published_iso": "2026-04-27T16:10:56+00:00",
+    "time_ago": "46m ago"
+  },
+  {
+    "id": "557c37a47297",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "DeSantis reveals new Florida map\u00a0that could help GOP add four seats. Florida Gov. Ron DeSantis (R) revealed a new set of congressional lines\u00a0on Monday,\u00a0with\u00a0a map provided by his office to Fox News\u00a0Digital\u00a0appearing\u00a0to show Republicans could gain as many as four seats depending on how voters vote.\u00a0 Florida now has 20 R",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/5850908-florida-gop-gains-desantis/",
+    "published_iso": "2026-04-27T16:00:50+00:00",
+    "time_ago": "56m ago"
+  },
+  {
+    "id": "bfaa421ba554",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -30,16 +166,14 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Senate Judiciary Committee plans briefing on WHCA dinner shooting. Senate Judiciary Chair Chuck Grassley (R-Iowa) on Sunday said Secret Service leaders would soon brief the committee on the White House Correspondents' dinner shooting. \u201cI\u2019m setting up a briefing w Secret Service leadership &#38; Ranking Member Durbin re",
-    "tags": [
-      "Regulation"
-    ],
+    "content": "Trump's top two voting initiatives could disenfranchise many Americans. Trump\u2019s executive order abolishing birthright citizenship, now\u00a0before\u00a0the Supreme Court, is at direct odds with the\u00a0SAVE America Act",
+    "tags": [],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5850666-secret-service-briefing-senate-whca-dinner/",
-    "published_iso": "2026-04-27T14:34:07+00:00",
-    "time_ago": "38m ago"
+    "url": "https://thehill.com/opinion/campaign/5847790-birthright-voting-rights-conflict/",
+    "published_iso": "2026-04-27T15:30:00+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "b09b078d5f9f",
@@ -66,28 +200,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mkibxwz7j22o",
     "published_iso": "2026-04-27T14:32:26.476000+00:00",
-    "time_ago": "40m ago"
-  },
-  {
-    "id": "59a34d7cbf63",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Congress eyes changes to boxing regulations amid fighter pushback. Lawmakers are considering a revamp of the federal regulations governing professional boxing, an effort to bolster the sport that has sparked accusations it could hurt boxers in the ring. Critics of boxing\u2019s existing structure say the sport\u00a0is\u00a0held back\u00a0",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/keeping-score/5850715-cruz-boxing-reform-bill/",
-    "published_iso": "2026-04-27T14:31:02+00:00",
-    "time_ago": "41m ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "654748d4f070",
@@ -114,28 +227,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/whats-on-the-chopping-block-so-trump-can-bankroll-his-pentagon-budget",
     "published_iso": "2026-04-27T14:30:30+00:00",
-    "time_ago": "42m ago"
-  },
-  {
-    "id": "3b10824bc9bb",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Listen live: Supreme Court weighs use of \u2018geofence warrants\u2019. The Supreme Court will hear oral arguments Monday in a case with potentially major implications for how law enforcement investigates crimes in the digital age. The justices will weigh whether geofence warrants \u2014 an investigatory tool that compels companies t",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/regulation/court-battles/5850673-geofence-warrants-supreme-court/",
-    "published_iso": "2026-04-27T14:04:49+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "5359ead129de",
@@ -157,7 +249,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08172/magnuson-stevens-act-provisions-fisheries-of-the-northeastern-united-states-northeast-multispecies",
     "published_iso": "2026-04-27T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "288f0bfc6643",
@@ -178,7 +270,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08148/security-review-committee",
     "published_iso": "2026-04-27T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "1544e2f5fc32",
@@ -197,7 +289,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08146/endangered-and-threatened-wildlife-and-plants-designation-of-critical-habitat-for-the-rayed-bean",
     "published_iso": "2026-04-27T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "49a38b5fda19",
@@ -218,7 +310,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08144/administrative-rulemaking-guidance-and-enforcement-procedures",
     "published_iso": "2026-04-27T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "7d2f1d18e29a",
@@ -239,7 +331,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08134/fisheries-of-the-northeastern-united-states-framework-adjustment-17-to-the-mackerel-squid-and",
     "published_iso": "2026-04-27T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "1599ea4ffe38",
@@ -279,7 +371,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/president-donald-j-trump-and-first-lady-melania-trump-to-welcome-his-majesty-king-charles-the-iii-of-the-united-kingdom-of-great-britain-and-northern-ireland-and-her-majesty-queen-camilla-for-a-state/",
     "published_iso": "2026-04-25T16:26:59+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "2d7d8d1e836b",
@@ -385,7 +477,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/04/24/prediction-market-insider-trading-violations-00890570",
     "published_iso": "2026-04-24T16:54:44+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "c6aacc2374fc",
@@ -774,7 +866,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/04/trump-effect-american-manufacturing-is-roaring-back-as-factory-activity-hits-four-year-high/",
     "published_iso": "2026-04-22T16:44:45+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "9337e2899bd3",
@@ -905,7 +997,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "9da1a43e4c40",
@@ -929,7 +1021,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2026/opening-statement-ambassador-jamieson-greer-house-appropriations-committee",
     "published_iso": "2026-04-17T15:30:48+00:00",
-    "time_ago": "9d ago"
+    "time_ago": "10d ago"
   },
   {
     "id": "c52552ddf3f9",
@@ -1077,7 +1169,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/icymi-lummis-op-ed-in-washington-post-a-broken-system-is-costing-america-trillions-i-see-it-in-wyoming/",
     "published_iso": "2026-04-08T16:14:36+00:00",
-    "time_ago": "18d ago"
+    "time_ago": "19d ago"
   },
   {
     "id": "600ac4c5c04c",
@@ -1243,7 +1335,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "61d ago"
+    "time_ago": "62d ago"
   },
   {
     "id": "344041549951",
@@ -1327,7 +1419,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meetings-in-sheldon-bristol-and-poultney/",
     "published_iso": "2026-01-29T16:27:05+00:00",
-    "time_ago": "87d ago"
+    "time_ago": "88d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1397,7 +1489,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266276-2/",
     "published_iso": "2026-01-07T15:48:25+00:00",
-    "time_ago": "109d ago"
+    "time_ago": "110d ago"
   },
   {
     "id": "a2647cb5ac95",
