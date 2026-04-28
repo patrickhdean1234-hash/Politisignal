@@ -1,6 +1,6 @@
 [
   {
-    "id": "21b2624e2e1f",
+    "id": "04ead73c73b9",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,116 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Natelli Thomas A received 13,839 shares of Park Hotels & Resorts Inc. (PK) \u00b7 Apr 28",
+    "content": "Heneghan Thomas gifted 196 shares of Equity Lifestyle Properties Inc (ELS) \u00b7 Apr 28 ($0 across all blocks)",
     "tags": [],
     "tickers": [
-      "PK"
+      "ELS"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1617406/000121465926005174/0001214659-26-005174-index.htm",
-    "published_iso": "2026-04-28T20:15:12+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/1197315/000119731526000002/0001197315-26-000002-index.htm",
+    "published_iso": "2026-04-28T21:31:56+00:00",
     "time_ago": "just now"
   },
   {
-    "id": "7b11327a3181",
+    "id": "07eab9661490",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Khoury Naji received 36,853 shares of Atn International, Inc. (ATNI) \u00b7 Apr 28",
+    "tags": [],
+    "tickers": [
+      "ATNI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2131063/000213106326000004/0002131063-26-000004-index.htm",
+    "published_iso": "2026-04-28T21:31:00+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "319fb9be8cd6",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Edgemond James exercised options for 10,000 shares of United Therapeutics Corp (UTHR) \u00b7 $135.42/share \u00b7 $1,354,200 total \u00b7 Apr 28 ($7,042,519 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "UTHR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1636178/000163617826000013/0001636178-26-000013-index.htm",
+    "published_iso": "2026-04-28T21:30:27+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "1fa5a8f2850e",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Senate Republican: Powell should leave Fed, 'cash in'. Sen. Kevin Cramer (R-N.D.) on Tuesday said he hopes that Federal Reserve Chair Jerome Powell will depart the central bank at the conclusion of his term next month.\u00a0 Powell\u2019s term as chair is set to end on May 15, but he has previously said he would continue as a bo",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/senate/5853785-senate-republican-powell-should-leave-fed-cash-in/",
+    "published_iso": "2026-04-28T21:08:04+00:00",
+    "time_ago": "24m ago"
+  },
+  {
+    "id": "3077c81adfcf",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "BP doubles its profits as Iran war elevates oil prices. BP earned $3.2 billion in the first quarter, the energy giant reported Tuesday \u2014 an exponential increase in its profits that beat market projects amid the rising cost of oil due to the Iran war.\u00a0 It\u2019s the company\u2019s highest profit in three years and first reported ",
+    "tags": [
+      "Energy",
+      "Regulation",
+      "Taxes",
+      "Sanctions"
+    ],
+    "tickers": [
+      "XOM",
+      "CVX",
+      "COP",
+      "OXY"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/5853790-bp-earnings-rise-iran-war/",
+    "published_iso": "2026-04-28T21:07:17+00:00",
+    "time_ago": "25m ago"
+  },
+  {
+    "id": "a2847a08b049",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -30,99 +127,22 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Support for Democratic, Republican candidates tied among likely voters ahead of midterms: Poll. Support for Democratic and Republican candidates is evenly split among likely midterm voters, according to a new poll.\u00a0 The Harvard-Harris poll found that 50 percent of likely voters said they would support a Democratic cand",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/5853599-midterm-voter-support-evenly-split/",
-    "published_iso": "2026-04-28T19:44:13+00:00",
-    "time_ago": "31m ago"
-  },
-  {
-    "id": "26670fed5ace",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Trump administration reverses on paying for fentanyl detection strips. The Trump administration is no longer allowing federal funds to be used for purchasing or distributing test strips that can determine if street drugs have been mixed or cut with fentanyl or other contaminants, a reversal that comes amid the administ",
+    "content": "Google to provide AI models to Pentagon for classified work. {beacon} Technology Technology &#8202; The Big Story  Google to provide AI models to Pentagon for classified work Google has signed a deal with the Pentagon to provide its artificial intelligence (AI) models for classified work, despite concerns raised by hun",
     "tags": [
-      "Healthcare"
+      "Big Tech",
+      "Defense"
     ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/healthcare/5853590-trump-reverses-harm-reduction-fentanyl/",
-    "published_iso": "2026-04-28T19:33:04+00:00",
-    "time_ago": "42m ago"
-  },
-  {
-    "id": "45969734539e",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Live updates: King Charles III calls US-UK bond 'unbreakable'; DOJ indicts Comey again. King Charles III addressed a joint meeting of Congress on Tuesday, expressing \"the highest regard and friendship of the British people, to the people of the United States.\" His remarks were notably political in spots, calling for he",
-    "tags": [
-      "Energy"
+    "tickers": [
+      "GOOGL"
     ],
-    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5851618-live-updates-trump-dhs-fisa-uk-royal-family/",
-    "published_iso": "2026-04-28T19:17:43+00:00",
-    "time_ago": "58m ago"
+    "url": "https://thehill.com/newsletters/technology/5853780-pentagon-google-ai-contract/",
+    "published_iso": "2026-04-28T21:03:00+00:00",
+    "time_ago": "29m ago"
   },
   {
-    "id": "d70d3685eaa9",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Watch live: DOJ holds press conference after second Comey indictment. The Justice Department is holding a press conference Tuesday afternoon. The Trump administration has brought a second indictment against former FBI Director James Comey. Comey was hit with two federal charges last September stemming from testimony he",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/video-clips/5853344-watch-live-doj-presser-james-comey-indictment/",
-    "published_iso": "2026-04-28T19:09:35+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "77bbcf0c4ec1",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Percentage of Americans saying financial situation getting worse highest since 2001: Gallup. A recent survey by Gallup found that 55 percent of respondents view their personal financial situation as getting worse, a new high dating back to 2001. The polling, released Tuesday, was conducted from April 1-15 for the firm'",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/personal-finance/5853376-percentage-of-americans-saying-financial-situation-getting-worse-highest-since-2001-gallup/",
-    "published_iso": "2026-04-28T19:03:45+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "f0e75a3590a4",
+    "id": "9189ffd91570",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -131,16 +151,62 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Democrat pushes Hot Foods Act: 'Why stop at rotisserie chicken?'. Rep. Grace Meng (D-N.Y.) on Tuesday pushed her Hot Foods Act for Supplemental Nutrition Assistance Program (SNAP) recipients bill, which she has said would permit recipients to use SNAP to buy hot meals. On Monday, Sen. John Fetterman (D-Pa.) wrote on th",
-    "tags": [
-      "Regulation"
-    ],
+    "content": "Newsom on Florida redistricting push: 'It'd be a bad mistake if they move forward'. California Gov. Gavin Newsom (D) went after Florida\u2019s current redistricting push, saying \u201cit'd be a bad mistake if they move forward.\u201d The push, which comes on the heels of a vote in Virginia to approve a new congressional map that favo",
+    "tags": [],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5853469-meng-snap-hot-foods-act/",
-    "published_iso": "2026-04-28T19:01:18+00:00",
-    "time_ago": "1h ago"
+    "url": "https://thehill.com/homenews/campaign/5853771-california-newsom-florida-redistricting/",
+    "published_iso": "2026-04-28T20:52:58+00:00",
+    "time_ago": "39m ago"
+  },
+  {
+    "id": "6487fff3bac5",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "low",
+    "content": "Trump slams Merz, Germany after chancellor's Iran 'humiliation' remarks. President Trump slammed the chancellor of Germany on Tuesday after Friedrich Merz said the U.S. was being \u201chumiliated\u201d by Iran. \u201cThe Chancellor of Germany, Friedrich Merz, thinks it\u2019s OK for Iran to have a Nuclear Weapon. He doesn\u2019t know what he\u2019s",
+    "tags": [
+      "Defense",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5853795-merz-criticizes-us-iran-strategy/",
+    "published_iso": "2026-04-28T20:50:54+00:00",
+    "time_ago": "41m ago"
+  },
+  {
+    "id": "4d4a75d3ad9d",
+    "politician": "U.S. Trade Rep.",
+    "initials": "USTR",
+    "role": "Office of the U.S. Trade Representative",
+    "color": {
+      "bg": "#1a0a1a",
+      "fg": "#d8b4fe"
+    },
+    "severity": "low",
+    "content": "USTR Seeks Public Comment on the Modernization of the African Growth and Opportunity Act. USTR Seeks Public Comment on the Modernization of the African Growth and Opportunity Act \n  myarbrough  \n  Tue, 04/28/2026 - 16:43 \n \n\n               WASHINGTON  \u2013 The Office of the United States Trade Representative (USTR) invite",
+    "tags": [
+      "Trade"
+    ],
+    "tickers": [],
+    "source": "ustr",
+    "platform": "USTR",
+    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ustr-seeks-public-comment-modernization-african-growth-and-opportunity-act",
+    "published_iso": "2026-04-28T20:43:27+00:00",
+    "time_ago": "49m ago"
   },
   {
     "id": "a9cdc012f547",
@@ -167,7 +233,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mkl55ablqk26",
     "published_iso": "2026-04-28T17:43:54.466000+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "3ec6f0de7627",
@@ -189,7 +255,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-reinforces-the-importance-of-technology-and-education-with-her-majesty-queen-camilla/",
     "published_iso": "2026-04-28T16:41:50+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "dfebfcc88a33",
@@ -210,10 +276,10 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/04/democrats-unhinged-rhetoric-incites-third-assassination-attempt-on-president-trump/",
     "published_iso": "2026-04-28T16:40:43+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
-    "id": "ada379df9b8c",
+    "id": "ae349f5cc83e",
     "politician": "GovTrack",
     "initials": "GT",
     "role": "Congressional Legislation",
@@ -222,14 +288,14 @@
       "fg": "#7dd3fc"
     },
     "severity": "high",
-    "content": "On the Motion to Proceed S.Res. 690. Vote: Motion to Proceed Agreed to 52/47",
+    "content": "Motion to Proceed on S.Res. 690: An executive resolution authorizing the en bloc consideration on Executive Session of certain nominations on the Executive Calendar.. Vote: Motion to Proceed Agreed to 52/47",
     "tags": [],
     "tickers": [],
     "source": "govtrack",
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s107?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-28T15:08:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "4834f3e8f4bb",
@@ -248,7 +314,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mkksfghmbk2z",
     "published_iso": "2026-04-28T14:31:38.230000+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "bb0342f4ec6a",
@@ -269,7 +335,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/04/ceq-opens-permitting-innovators-call-for-solutions-to-industry-partners/",
     "published_iso": "2026-04-28T14:21:58+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "107b3ed2489a",
@@ -295,7 +361,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08264/five-year-review-of-the-oil-pipeline-index",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "b100193e478c",
@@ -316,7 +382,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08259/miscellaneous-revisions-to-the-qualification-and-certification-of-conductors",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "6e9ae1902bab",
@@ -337,7 +403,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08258/regulatory-relief-to-allow-speeds-up-to-45-mph-for-non-traversable-curbs",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "49dda237d3f4",
@@ -358,7 +424,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08257/qualification-and-certification-of-locomotive-engineers",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "f557aba7dd6f",
@@ -379,7 +445,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08256/removing-stenciling-requirement-for-freight-cars-used-for-tourist-historic-excursion-educational",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "f1ecd082b80a",
@@ -400,7 +466,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08255/allowing-for-the-electronic-posting-of-reportable-injuries-and-occupational-illnesses",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "93db16c4f24e",
@@ -421,7 +487,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08254/repealing-certain-bridge-load-capacity-evaluation-requirements",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "00153978f481",
@@ -440,7 +506,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h139?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-27T23:09:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "e1930f7de716",
@@ -461,28 +527,6 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h138?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-27T23:00:00+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "a799dcaf07b2",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "Tax prep companies are spending big to BLOCK my bill.\n\nWhy?\n\nBecause I want to make filing your taxes directly with the IRS easy and FREE.\n\nWe can't let them win.",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mkiztdxwfc2h",
-    "published_iso": "2026-04-27T21:39:22.097000+00:00",
     "time_ago": "22h ago"
   },
   {
@@ -502,7 +546,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s106?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-27T21:27:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "bbd034846708",
@@ -523,7 +567,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/nominations-and-withdrawals-sent-to-the-senate-d935/",
     "published_iso": "2026-04-27T20:35:53+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "bc57d08670dc",
@@ -545,7 +589,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-national-apprenticeship-week/",
     "published_iso": "2026-04-27T20:33:57+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "4e90d421049f",
@@ -920,7 +964,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2026/opening-statement-ambassador-jamieson-greer-house-ways-and-means-committee",
     "published_iso": "2026-04-22T21:19:17+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "12c66cda70f4",
@@ -945,7 +989,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mjzv5wiudk2r",
     "published_iso": "2026-04-21T21:05:52.285000+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "c8533fb64fee",
@@ -989,7 +1033,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mjxfneacc22n",
     "published_iso": "2026-04-20T21:22:50.653000+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "0047e3ab5b67",
@@ -1035,28 +1079,6 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2026/opening-statement-ambassador-jamieson-greer-house-appropriations-committee",
     "published_iso": "2026-04-17T15:30:48+00:00",
-    "time_ago": "11d ago"
-  },
-  {
-    "id": "c52552ddf3f9",
-    "politician": "U.S. Trade Rep.",
-    "initials": "USTR",
-    "role": "Office of the U.S. Trade Representative",
-    "color": {
-      "bg": "#1a0a1a",
-      "fg": "#d8b4fe"
-    },
-    "severity": "critical",
-    "content": "United States Seeks Mexico\u2019s Review of Alleged Denial of Workers\u2019 Rights at Latex Occidental, S.A. de C.V.. United States Seeks Mexico\u2019s Review of Alleged Denial of Workers\u2019 Rights at Latex Occidental, S.A. de C.V. \n  myarbrough  \n  Thu, 04/16/2026 - 16:47 \n \n\n               WASHINGTON  \u2013 The Office of the United State",
-    "tags": [
-      "Trade",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "ustr",
-    "platform": "USTR",
-    "url": "https://ustr.gov/node/14307",
-    "published_iso": "2026-04-16T20:47:09+00:00",
     "time_ago": "11d ago"
   },
   {
@@ -1341,7 +1363,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/aoc.bsky.social/post/3mfi26wfbbk22",
     "published_iso": "2026-02-22T21:07:12.518000+00:00",
-    "time_ago": "64d ago"
+    "time_ago": "65d ago"
   },
   {
     "id": "869ac7db3b73",
@@ -1601,7 +1623,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10471",
     "published_iso": "2023-07-12T21:22:15+00:00",
-    "time_ago": "1020d ago"
+    "time_ago": "1021d ago"
   },
   {
     "id": "b05ff12af7ca",
@@ -1623,7 +1645,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10470",
     "published_iso": "2023-07-12T21:20:42+00:00",
-    "time_ago": "1020d ago"
+    "time_ago": "1021d ago"
   },
   {
     "id": "b22b414d7eb9",
@@ -1647,7 +1669,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10469",
     "published_iso": "2023-07-12T21:20:14+00:00",
-    "time_ago": "1020d ago"
+    "time_ago": "1021d ago"
   },
   {
     "id": "06ebc00af517",
@@ -1668,7 +1690,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10468",
     "published_iso": "2023-07-12T21:19:46+00:00",
-    "time_ago": "1020d ago"
+    "time_ago": "1021d ago"
   },
   {
     "id": "99bfd884e5fa",
@@ -1689,7 +1711,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10467",
     "published_iso": "2023-07-12T21:19:01+00:00",
-    "time_ago": "1020d ago"
+    "time_ago": "1021d ago"
   },
   {
     "id": "9ab4d9dc70a4",
@@ -1710,7 +1732,7 @@
     "platform": ".gov",
     "url": "http://jordan.house.gov/media/blog/did-biden-funnel-35-billion-payout-away-terror-victims-and-toward-ex-staff-republicans",
     "published_iso": "2022-04-06T20:45:12+00:00",
-    "time_ago": "1482d ago"
+    "time_ago": "1483d ago"
   },
   {
     "id": "ca9ac4ad3c4a",
