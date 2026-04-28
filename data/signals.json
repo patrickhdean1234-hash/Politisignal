@@ -1,6 +1,48 @@
 [
   {
-    "id": "3f9b3a990ef5",
+    "id": "6594c2005eb4",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ali Samir H exercised options for 7,954 shares of Seadrill Ltd (SDRL) \u00b7 Apr 28 ($150,553 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "SDRL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2050291/000119312526184849/0001193125-26-184849-index.htm",
+    "published_iso": "2026-04-28T15:36:36+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "678369446780",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Watch live: Trump, first lady welcome King Charles III, Queen Camilla. President Trump and first lady Melania Trump welcome King Charles III and Queen Camilla to the White House on Tuesday morning. Watch the welcome ceremony live here",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/5852841-watch-live-trump-king-charles-iii-queen-camilla-welcome/",
+    "published_iso": "2026-04-28T15:07:35+00:00",
+    "time_ago": "30m ago"
+  },
+  {
+    "id": "de3ca2d644e9",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,17 +51,19 @@
       "fg": "#bbf7d0"
     },
     "severity": "low",
-    "content": "Trump is stepping carefully into the weeds of marijuana legalization. He described marijuana as a \"very complicated subject\" and noted that he had concerns about its broader impact",
-    "tags": [],
+    "content": "O'Reilly: Kimmel 'shouldn't be on the air'. Conservative commentator Bill O\u2019Reilly is calling for late night host Jimmy Kimmel to be taken off the air for a joke he made days before the shooting at the White House Correspondents Association dinner over the weekend. \u201cHe shouldn\u2019t be on the air, of course,\u201d the conservat",
+    "tags": [
+      "Regulation"
+    ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/white-house/5850630-federal-marijuana-policy-trump/",
-    "published_iso": "2026-04-28T12:30:00+00:00",
+    "url": "https://thehill.com/homenews/media/5852716-bill-oreilly-jimmy-kimmel-widow-comment-whcd-fallout/",
+    "published_iso": "2026-04-28T14:57:43+00:00",
     "time_ago": "40m ago"
   },
   {
-    "id": "8b5605df0cbf",
+    "id": "70deff3a41df",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -28,113 +72,10 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Senate Republican on Trump ballroom push: \u2018We have $39 trillion of debt\u2019. Sen. Rick Scott (R-Fla.) is pushing back on a proposal to spend as much as $400 million in taxpayer money to build a 90,000-square-foot ballroom at the White House, arguing that Congress needs to rein in its deficit spending at a time of historic",
+    "content": "Top Trump aide on Kimmel joke defense: 'S--- human being'. A top White House aide is blasting late night comedian Jimmy Kimmel for a joke he made last week about first lady Melania Trump, comments that have sparked both she and President Trump to call for his firing. \"Jimmy Kimmel is a s--- human being for: Making a di",
     "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5852331-rick-scott-trump-ballroom-national-debt/",
-    "published_iso": "2026-04-28T12:11:16+00:00",
-    "time_ago": "59m ago"
-  },
-  {
-    "id": "32de42558d54",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "The Movement: Where the GOP-labor relationship goes after Chavez-DeRemer's exit. Lori Chavez-DeRemer\u2019s exit as Labor secretary last week amid a wave of misconduct allegations is raising questions about the fledgling coalition between Republicans and labor. The next moves from the administration and from Republicans mor",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/the-movement/5852110-gop-labor-coalition-chavez-deremer/",
-    "published_iso": "2026-04-28T12:00:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "c817e80114b8",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Madness: Claims the shooting was staged expose a conspiracy theory crisis. What happened on Saturday was no conspiracy. It was a potential tragedy fueled by a cultural fixation on conspiracy theories and prevented by the quick actions of the Secret Service",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/white-house/5850883-conspiracy-culture-lessons-shooting-whca/",
-    "published_iso": "2026-04-28T12:00:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "6186feb8e480",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Kimmel: 'Widow' joke was based on Trump age, not 'call to assassination'. Late-night host Jimmy Kimmel is pushing back after President Trump and first lady Melania Trump demanded he be fired over an \u201cexpectant widow\u201d joke made days before the White House Correspondents\u2019 Association (WHCA) Dinner. The comedian clarified",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/media/5852298-kimmel-trump-joke-widow-age-assassination-attempt-whcd/",
-    "published_iso": "2026-04-28T11:47:57+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "1f5d6e586cdd",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Royalty still has a special quality. King Charles III and Queen Camilla are undertaking the first state visit to the United States by a British monarch in nearly 20 years, in a time of political tension between the two countries, and the visit is seen as an important tool of diplomacy to improve relations",
-    "tags": [
-      "Trade",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/international/5851583-king-charles-state-visit-us/",
-    "published_iso": "2026-04-28T11:30:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "9cb3728a4729",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "US-UK friction forms backdrop to King\u2019s speech. In today\u2019s issue:  Tensions between the U.S. and the United Kingdom are simmering as King Charles III prepares to address Congress today, from President Trump\u2019s frustrations toward NATO amid the Iran war to tumult in bilateral trade. Eyes will be on how the king seeks to ",
-    "tags": [
-      "Trade",
       "Defense",
-      "Sanctions"
+      "Taxes"
     ],
     "tickers": [
       "LMT",
@@ -144,9 +85,49 @@
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/morning-report/5852268-united-states-united-kingdom-beef-friction-king-charges-congress-speech/",
-    "published_iso": "2026-04-28T11:07:34+00:00",
-    "time_ago": "2h ago"
+    "url": "https://thehill.com/homenews/media/5852738-white-house-aide-blasts-jimmy-kimmel/",
+    "published_iso": "2026-04-28T14:57:27+00:00",
+    "time_ago": "40m ago"
+  },
+  {
+    "id": "4834f3e8f4bb",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Today, 11am ET I'm hosting a roundtable with survivors and leading advocacy organizations together to discuss the realities of trafficking and sexual assault, the failures in current systems, and concrete actions Congress can take to better protect survivors and prevent abuse.",
+    "tags": [],
+    "tickers": [],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/khanna.house.gov/post/3mkksfghmbk2z",
+    "published_iso": "2026-04-28T14:31:38.230000+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "bb0342f4ec6a",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "high",
+    "content": "CEQ Opens Permitting Innovators Call for Solutions to Industry Partners. Innovators will provide solutions to modernize Federal permitting. The Council on Environmental Quality, in collaboration with NASA&#8217;s Center of Excellence for Collaborative Innovation, today opened its Permitting Innovators Call for Solution",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/04/ceq-opens-permitting-innovators-call-for-solutions-to-industry-partners/",
+    "published_iso": "2026-04-28T14:21:58+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "107b3ed2489a",
@@ -172,7 +153,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08264/five-year-review-of-the-oil-pipeline-index",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "b100193e478c",
@@ -193,7 +174,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08259/miscellaneous-revisions-to-the-qualification-and-certification-of-conductors",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "6e9ae1902bab",
@@ -214,7 +195,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08258/regulatory-relief-to-allow-speeds-up-to-45-mph-for-non-traversable-curbs",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "49dda237d3f4",
@@ -235,7 +216,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08257/qualification-and-certification-of-locomotive-engineers",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "f557aba7dd6f",
@@ -256,7 +237,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08256/removing-stenciling-requirement-for-freight-cars-used-for-tourist-historic-excursion-educational",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "f1ecd082b80a",
@@ -277,7 +258,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08255/allowing-for-the-electronic-posting-of-reportable-injuries-and-occupational-illnesses",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "93db16c4f24e",
@@ -298,7 +279,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08254/repealing-certain-bridge-load-capacity-evaluation-requirements",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "00153978f481",
@@ -317,7 +298,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h139?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-27T23:09:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "e1930f7de716",
@@ -338,7 +319,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h138?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-27T23:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "a799dcaf07b2",
@@ -360,7 +341,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mkiztdxwfc2h",
     "published_iso": "2026-04-27T21:39:22.097000+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "79874b0a4328",
@@ -379,7 +360,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s106?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-27T21:27:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "bbd034846708",
@@ -400,7 +381,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/nominations-and-withdrawals-sent-to-the-senate-d935/",
     "published_iso": "2026-04-27T20:35:53+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "bc57d08670dc",
@@ -422,7 +403,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-national-apprenticeship-week/",
     "published_iso": "2026-04-27T20:33:57+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "4e90d421049f",
@@ -447,7 +428,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mkiqyrneos2u",
     "published_iso": "2026-04-27T19:01:20.528000+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "9ec4bb53d1f2",
@@ -469,7 +450,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/congressional-bill-h-j-res-140-signed-into-law/",
     "published_iso": "2026-04-27T18:01:39+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "0683b9fae85b",
@@ -495,7 +476,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mkimpvy2ek27",
     "published_iso": "2026-04-27T17:44:48.115000+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "99cdddfab852",
@@ -521,7 +502,28 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/americans-deserve-lower-prices-and-lower-interest-rates",
     "published_iso": "2026-04-27T17:37:20+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "22h ago"
+  },
+  {
+    "id": "f56e446ec07c",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "Presidential Message: Birthday of President Ulysses S. Grant. Today, our Nation marks the birthday of President Ulysses S. Grant\u2014the fearless general who carried the Union to victory in the Civil War.&#160; As our 18th President, he lifted a wounded Republic out of the shadow of conflict and called its people to unity ",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-birthday-of-president-ulysses-s-grant/",
+    "published_iso": "2026-04-27T16:00:00+00:00",
+    "time_ago": "23h ago"
   },
   {
     "id": "b09b078d5f9f",
@@ -548,7 +550,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mkibxwz7j22o",
     "published_iso": "2026-04-27T14:32:26.476000+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "654748d4f070",
@@ -575,7 +577,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/whats-on-the-chopping-block-so-trump-can-bankroll-his-pentagon-budget",
     "published_iso": "2026-04-27T14:30:30+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "1599ea4ffe38",
@@ -704,7 +706,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-armenian-remembrance-day/",
     "published_iso": "2026-04-24T15:05:18+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "ddbe867e4729",
@@ -725,29 +727,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ambassador-jamieson-greer-announces-united-states-european-union-action-plan-critical-minerals",
     "published_iso": "2026-04-24T14:26:56+00:00",
-    "time_ago": "3d ago"
-  },
-  {
-    "id": "860a5a8bf4c0",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "high",
-    "content": "First Lady Melania Trump Unveils New Beehive on South Lawn. First Lady Melania Trump announced the expansion of the White House honey program with the addition of a newly installed and fully functioning beehive on the South Lawn. Hand-crafted by a local artisan in the image of the White House, the beautiful, new hive w",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-unveils-new-beehive-on-south-lawn/",
-    "published_iso": "2026-04-24T13:19:22+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "44b3c3140230",
@@ -793,30 +773,6 @@
     "time_ago": "4d ago"
   },
   {
-    "id": "7f7d74b33953",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "high",
-    "content": "Fact Sheet: President Donald J. Trump Announces Deal with Regeneron to Bring Most-Favored-Nation Pricing to American Patients. ADVANCING MOST-FAVORED-NATION (MFN) PRICING: Today, President Donald J. Trump announced the 17th agreement with a major pharmaceutical manufacturer, Regeneron, to lower prescription drug prices",
-    "tags": [
-      "Healthcare",
-      "Taxes"
-    ],
-    "tickers": [
-      "REGN"
-    ],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-announces-deal-with-regeneron-to-bring-most-favored-nation-pricing-to-american-patients/",
-    "published_iso": "2026-04-23T19:45:32+00:00",
-    "time_ago": "4d ago"
-  },
-  {
     "id": "4c406a34e994",
     "politician": "GovTrack",
     "initials": "GT",
@@ -833,7 +789,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h137?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T14:32:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "814e52b1a4fc",
@@ -1050,7 +1006,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2026/opening-statement-ambassador-jamieson-greer-house-appropriations-committee",
     "published_iso": "2026-04-17T15:30:48+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "c52552ddf3f9",
@@ -1176,7 +1132,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-hosts-crypto-roundtable-with-comptroller-gould-and-governor-gordon/",
     "published_iso": "2026-04-09T13:37:03+00:00",
-    "time_ago": "18d ago"
+    "time_ago": "19d ago"
   },
   {
     "id": "a460129240a1",
@@ -1223,7 +1179,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mi2bnx4lwk2w",
     "published_iso": "2026-03-27T13:59:11.450000+00:00",
-    "time_ago": "31d ago"
+    "time_ago": "32d ago"
   },
   {
     "id": "a2c0abfa69cc",
@@ -1314,35 +1270,6 @@
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-in-windsor/",
     "published_iso": "2026-02-26T22:06:12+00:00",
     "time_ago": "60d ago"
-  },
-  {
-    "id": "fa45ab208fd8",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Funding a war in the Middle East is not America first. \n\nThat\u2019s why Rep. Thomas Massie and I are forcing a vote next week on our bipartisan Iran War Powers resolution. Instead of sending billions overseas, we need to invest in jobs, healthcare, and education here.",
-    "tags": [
-      "Healthcare",
-      "Regulation",
-      "Taxes",
-      "Sanctions"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS",
-      "LMT"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/khanna.house.gov/post/3mfphfzy4qs2n",
-    "published_iso": "2026-02-25T19:52:28.088000+00:00",
-    "time_ago": "61d ago"
   },
   {
     "id": "782af70b6ebe",
@@ -1540,7 +1467,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/news-sanders-demands-reinstatement-of-jimmy-kimmel-live-program-in-vermont-calls-removal-of-show-censorship-plain-and-simple/",
     "published_iso": "2025-09-25T14:37:06+00:00",
-    "time_ago": "214d ago"
+    "time_ago": "215d ago"
   },
   {
     "id": "8c5a019a825f",
