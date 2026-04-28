@@ -1,6 +1,6 @@
 [
   {
-    "id": "cc2cd719bb80",
+    "id": "0aac63bb7a1f",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,21 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Do Carmo Thomaz Junior Geraldo sold 4,808 shares of Vtex (VTEX) \u00b7 $4.01/share \u00b7 $19,280 total \u00b7 Apr 28",
-    "tags": [],
+    "content": "Mccarthy Margaret M sold 6,630 shares of First American Financial Corp (FAF) \u00b7 $70.59/share \u00b7 $468,008 total \u00b7 Apr 28",
+    "tags": [
+      "Taxes"
+    ],
     "tickers": [
-      "VTEX"
+      "FAF"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1968696/000119312526185631/0001193125-26-185631-index.htm",
-    "published_iso": "2026-04-28T17:06:53+00:00",
-    "time_ago": "11m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1485980/000119312526186405/0001193125-26-186405-index.htm",
+    "published_iso": "2026-04-28T18:54:14+00:00",
+    "time_ago": "2m ago"
   },
   {
-    "id": "f646fb0fbb23",
+    "id": "c5764b98d451",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -29,24 +31,21 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Restoring trust in hospice begins with ending Medicare fraud. The hospice community is working with policymakers to strengthen program integrity and root out fraud, ensuring that patients and families can continue to receive the essential care they deserve",
+    "severity": "high",
+    "content": "'PH-1' star says his film could serve as 'cautionary tale' for social media-obsessed lawmakers. A writer and film actor who stars as a senator \u201cobsessed with watching himself\u201d on social media says his new thriller could serve as a \u201ccautionary tale\u201d for real-life lawmakers. In \u201cPH-1,\u201d Mark Kassen plays a fictional indep",
     "tags": [
-      "Healthcare"
+      "Defense",
+      "Regulation"
     ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/healthcare/5852117-hospice-care-medicare-fraud/",
-    "published_iso": "2026-04-28T17:00:00+00:00",
-    "time_ago": "18m ago"
+    "url": "https://thehill.com/blogs/in-the-know/5853366-ph-1-mark-kassen/",
+    "published_iso": "2026-04-28T18:22:43+00:00",
+    "time_ago": "33m ago"
   },
   {
-    "id": "8c8f3005c317",
+    "id": "2453f3badd61",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -55,17 +54,152 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Feds conduct Minnesota raids related to alleged welfare fraud. Law enforcement agencies are executing multiple search warrants in Minnesota on Tuesday in connection with alleged fraud in the state\u2019s welfare programs, according to federal officials. \u00a0\u00a0\u00a0 \u201cHomeland Security Investigations in cooperation with our law enfor",
+    "content": "Former FBI director James Comey faces new\u00a0indictment. The Department of Justice (DOJ) has secured a second\u00a0indictment\u00a0against former FBI Director James Comey, a source familiar told NewsNation, The Hill's sister network. It was not\u00a0immediately\u00a0clear\u00a0the specific charges faced by the longtime foe of President Trump, but",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/regulation/court-battles/5853392-doj-indicts-comey-again/",
+    "published_iso": "2026-04-28T18:18:46+00:00",
+    "time_ago": "37m ago"
+  },
+  {
+    "id": "20fe882cbca0",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Pentagon asks Congress to codify \u2018Department of War\u2019 with $52 million price tag. The Pentagon has asked Congress to codify its \u201cDepartment of War\u201d renaming, saying it will cost nearly $52 million to complete and will not have a \u201csignificant impact\u201d on President Trump\u2019s fiscal 2027 defense budget request.\u00a0 The Defense D",
     "tags": [
-      "Regulation",
+      "Defense"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/defense/5853378-pentagon-department-of-war-name-congress/",
+    "published_iso": "2026-04-28T18:17:20+00:00",
+    "time_ago": "39m ago"
+  },
+  {
+    "id": "eca08d3bb245",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Another judicial panel rejects challenge to Wisconsin congressional map. A second three-judge panel in Wisconsin dismissed a challenge to the state\u2019s congressional map on Tuesday, ruling it does not have the authority to rule on the matter. The judges, David Conway of the Dane County Circuit Court, Michael Moran of the",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/5853324-wisconsin-congressional-map-challenge/",
+    "published_iso": "2026-04-28T18:06:13+00:00",
+    "time_ago": "50m ago"
+  },
+  {
+    "id": "e68c3ec029d8",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "CFTC sues Wisconsin over prediction market regulations. The Commodity Futures Trading Commission (CFTC) sued Wisconsin and key state officials Tuesday over their recent crackdown on prediction markets, arguing the federal regulator has exclusive jurisdiction over the platforms. The agency took aim at the Badger State f",
+    "tags": [
+      "Crypto",
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/5853297-cftc-sues-wisconsin-prediction-markets/",
+    "published_iso": "2026-04-28T17:49:35+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "65c339e440df",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Live updates: King Charles III arrives at Capitol for address; DOJ indicts Comey again. King Charles III has arrived at the Capitol ahead of an address to a joint meeting of Congress at 3 p.m. EDT. The event comes as outlets are reporting Tuesday afternoon that former FBI Director James Comey has been indicted by the D",
+    "tags": [
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/state-watch/5853085-federal-agents-minnesota-raids-welfare-fraud/",
-    "published_iso": "2026-04-28T16:43:40+00:00",
-    "time_ago": "34m ago"
+    "url": "https://thehill.com/homenews/administration/5851618-live-updates-trump-dhs-fisa-uk-royal-family/",
+    "published_iso": "2026-04-28T17:46:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "a9cdc012f547",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "13 American service members are dead.\n$1 BILLION taxpayer dollars have been spent EACH DAY dropping bombs in Iran.\n\nAmericans can't afford Donald Trump's war.",
+    "tags": [
+      "Regulation",
+      "Taxes",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mkl55ablqk26",
+    "published_iso": "2026-04-28T17:43:54.466000+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "7110f9d3e973",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Former Fauci adviser indicted for attempting to avoid FOIA laws. The Justice Department (DOJ) on Tuesday announced the indictment of David Morens, a former senior adviser to Dr. Anthony Fauci within the National Institutes of Health, for his alleged scheme to keep public records away from Freedom of Information Act (FO",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/healthcare/5852790-david-morens-anthony-fauci-adviser-nih-foia-records/",
+    "published_iso": "2026-04-28T17:37:33+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "3ec6f0de7627",
@@ -87,7 +221,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-reinforces-the-importance-of-technology-and-education-with-her-majesty-queen-camilla/",
     "published_iso": "2026-04-28T16:41:50+00:00",
-    "time_ago": "36m ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "dfebfcc88a33",
@@ -108,28 +242,26 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/04/democrats-unhinged-rhetoric-incites-third-assassination-attempt-on-president-trump/",
     "published_iso": "2026-04-28T16:40:43+00:00",
-    "time_ago": "37m ago"
+    "time_ago": "2h ago"
   },
   {
-    "id": "aaefcf6da488",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "ada379df9b8c",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
     },
     "severity": "high",
-    "content": "Southern Poverty Law Center: Informant program was not kept secret. The Southern Poverty Law Center (SPLC) refuted the federal government\u2019s allegation that the civil rights organization obscured details about its paid informant program in new court filings on Tuesday, following last week's grand jury indictment. In two",
-    "tags": [
-      "Regulation"
-    ],
+    "content": "On the Motion to Proceed S.Res. 690. Vote: Motion to Proceed Agreed to 52/47",
+    "tags": [],
     "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/regulation/court-battles/5852995-splc-fights-federal-charges/",
-    "published_iso": "2026-04-28T16:21:48+00:00",
-    "time_ago": "56m ago"
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s107?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-04-28T15:08:00+00:00",
+    "time_ago": "3h ago"
   },
   {
     "id": "4834f3e8f4bb",
@@ -148,7 +280,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mkksfghmbk2z",
     "published_iso": "2026-04-28T14:31:38.230000+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "bb0342f4ec6a",
@@ -169,7 +301,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/04/ceq-opens-permitting-innovators-call-for-solutions-to-industry-partners/",
     "published_iso": "2026-04-28T14:21:58+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "107b3ed2489a",
@@ -195,7 +327,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08264/five-year-review-of-the-oil-pipeline-index",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "b100193e478c",
@@ -216,7 +348,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08259/miscellaneous-revisions-to-the-qualification-and-certification-of-conductors",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "6e9ae1902bab",
@@ -237,7 +369,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08258/regulatory-relief-to-allow-speeds-up-to-45-mph-for-non-traversable-curbs",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "49dda237d3f4",
@@ -258,7 +390,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08257/qualification-and-certification-of-locomotive-engineers",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "f557aba7dd6f",
@@ -279,7 +411,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08256/removing-stenciling-requirement-for-freight-cars-used-for-tourist-historic-excursion-educational",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "f1ecd082b80a",
@@ -300,7 +432,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08255/allowing-for-the-electronic-posting-of-reportable-injuries-and-occupational-illnesses",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "93db16c4f24e",
@@ -321,7 +453,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08254/repealing-certain-bridge-load-capacity-evaluation-requirements",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "00153978f481",
@@ -340,7 +472,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h139?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-27T23:09:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "e1930f7de716",
@@ -361,7 +493,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h138?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-27T23:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "a799dcaf07b2",
@@ -383,7 +515,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mkiztdxwfc2h",
     "published_iso": "2026-04-27T21:39:22.097000+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "79874b0a4328",
@@ -402,7 +534,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s106?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-27T21:27:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "bbd034846708",
@@ -423,7 +555,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/nominations-and-withdrawals-sent-to-the-senate-d935/",
     "published_iso": "2026-04-27T20:35:53+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "bc57d08670dc",
@@ -445,7 +577,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-national-apprenticeship-week/",
     "published_iso": "2026-04-27T20:33:57+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "4e90d421049f",
@@ -470,7 +602,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mkiqyrneos2u",
     "published_iso": "2026-04-27T19:01:20.528000+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "9ec4bb53d1f2",
@@ -492,33 +624,29 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/congressional-bill-h-j-res-140-signed-into-law/",
     "published_iso": "2026-04-27T18:01:39+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
-    "id": "0683b9fae85b",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
+    "id": "be64847dc95c",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
     "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
     },
-    "severity": "medium",
-    "content": "Americans deserve lower prices and lower interest rates. \n\nDonald Trump is standing in the way.",
+    "severity": "critical",
+    "content": "President Trump on 60 Minutes: \u201cThere Was Tremendous Camaraderie\u201d. After a gunman stormed the White House Correspondents\u2019 Dinner in Washington on Saturday evening, President Trump sat down for a&#160;powerful interview&#160;with&#160;60 Minutes&#160;to praise the men and women of law enforcement, commend the unity that",
     "tags": [
-      "Banking"
+      "Regulation",
+      "Taxes"
     ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mkimpvy2ek27",
-    "published_iso": "2026-04-27T17:44:48.115000+00:00",
-    "time_ago": "23h ago"
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/04/president-trump-on-60-minutes-there-was-tremendous-camaraderie/",
+    "published_iso": "2026-04-27T18:01:38+00:00",
+    "time_ago": "1d ago"
   },
   {
     "id": "99cdddfab852",
@@ -544,7 +672,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/americans-deserve-lower-prices-and-lower-interest-rates",
     "published_iso": "2026-04-27T17:37:20+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "f56e446ec07c",
@@ -612,27 +740,6 @@
     "url": "https://www.politico.com/news/2026/04/26/talarico-texas-senate-black-voters-00892102",
     "published_iso": "2026-04-26T11:00:00+00:00",
     "time_ago": "2d ago"
-  },
-  {
-    "id": "1003b5acfdee",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "President Donald J. Trump and First Lady Melania Trump to Welcome His Majesty King Charles the III of the United Kingdom of Great Britain and Northern Ireland and Her Majesty Queen Camilla for a State Visit. President Donald J. Trump and First Lady Melania Trump will welcome His Majesty King Charles the III of the Unit",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/briefings-statements/2026/04/president-donald-j-trump-and-first-lady-melania-trump-to-welcome-his-majesty-king-charles-the-iii-of-the-united-kingdom-of-great-britain-and-northern-ireland-and-her-majesty-queen-camilla-for-a-state/",
-    "published_iso": "2026-04-25T16:26:59+00:00",
-    "time_ago": "3d ago"
   },
   {
     "id": "c72c709c91e0",
@@ -824,25 +931,6 @@
     "time_ago": "5d ago"
   },
   {
-    "id": "cf4fa3931e9e",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Padilla Amdt. No. 4855). Vote: Motion Rejected 46/52",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s102?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-04-23T06:31:00+00:00",
-    "time_ago": "5d ago"
-  },
-  {
     "id": "01ebe35b6c66",
     "politician": "U.S. Trade Rep.",
     "initials": "USTR",
@@ -1024,7 +1112,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-led-fences-act-clears-u-s-house/",
     "published_iso": "2026-04-16T18:07:32+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "987e63291ad4",
@@ -1076,7 +1164,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-cruz-file-amicus-brief-backing-trump-administrations-push-to-repeal-endangerment-finding/",
     "published_iso": "2026-04-15T17:31:26+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "7e97dd57aa17",
@@ -1176,7 +1264,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-introduces-legislation-to-codify-trumps-nuclear-baseload-energy-executive-orders/",
     "published_iso": "2026-03-26T18:12:45+00:00",
-    "time_ago": "32d ago"
+    "time_ago": "33d ago"
   },
   {
     "id": "42002aa36a3f",
@@ -1219,7 +1307,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/news-sanders-welch-balint-statement-on-recent-ice-raids-in-south-burlington/",
     "published_iso": "2026-03-12T18:51:43+00:00",
-    "time_ago": "46d ago"
+    "time_ago": "47d ago"
   },
   {
     "id": "3c2b4ad7a11c",
@@ -1696,6 +1784,6 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about-us/policy-offices/press-office/blog/weekly-trade-focus-apec",
     "published_iso": "2009-07-20T18:28:39+00:00",
-    "time_ago": "6125d ago"
+    "time_ago": "6126d ago"
   }
 ]
