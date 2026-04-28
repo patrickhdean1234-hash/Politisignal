@@ -1,6 +1,6 @@
 [
   {
-    "id": "6594c2005eb4",
+    "id": "cc2cd719bb80",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Ali Samir H exercised options for 7,954 shares of Seadrill Ltd (SDRL) \u00b7 Apr 28 ($150,553 across all blocks)",
+    "content": "Do Carmo Thomaz Junior Geraldo sold 4,808 shares of Vtex (VTEX) \u00b7 $4.01/share \u00b7 $19,280 total \u00b7 Apr 28",
     "tags": [],
     "tickers": [
-      "SDRL"
+      "VTEX"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2050291/000119312526184849/0001193125-26-184849-index.htm",
-    "published_iso": "2026-04-28T15:36:36+00:00",
-    "time_ago": "1m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1968696/000119312526185631/0001193125-26-185631-index.htm",
+    "published_iso": "2026-04-28T17:06:53+00:00",
+    "time_ago": "11m ago"
   },
   {
-    "id": "678369446780",
+    "id": "f646fb0fbb23",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -30,19 +30,23 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Watch live: Trump, first lady welcome King Charles III, Queen Camilla. President Trump and first lady Melania Trump welcome King Charles III and Queen Camilla to the White House on Tuesday morning. Watch the welcome ceremony live here",
+    "content": "Restoring trust in hospice begins with ending Medicare fraud. The hospice community is working with policymakers to strengthen program integrity and root out fraud, ensuring that patients and families can continue to receive the essential care they deserve",
     "tags": [
-      "Taxes"
+      "Healthcare"
     ],
-    "tickers": [],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/5852841-watch-live-trump-king-charles-iii-queen-camilla-welcome/",
-    "published_iso": "2026-04-28T15:07:35+00:00",
-    "time_ago": "30m ago"
+    "url": "https://thehill.com/opinion/healthcare/5852117-hospice-care-medicare-fraud/",
+    "published_iso": "2026-04-28T17:00:00+00:00",
+    "time_ago": "18m ago"
   },
   {
-    "id": "de3ca2d644e9",
+    "id": "8c8f3005c317",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -50,20 +54,64 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "low",
-    "content": "O'Reilly: Kimmel 'shouldn't be on the air'. Conservative commentator Bill O\u2019Reilly is calling for late night host Jimmy Kimmel to be taken off the air for a joke he made days before the shooting at the White House Correspondents Association dinner over the weekend. \u201cHe shouldn\u2019t be on the air, of course,\u201d the conservat",
+    "severity": "critical",
+    "content": "Feds conduct Minnesota raids related to alleged welfare fraud. Law enforcement agencies are executing multiple search warrants in Minnesota on Tuesday in connection with alleged fraud in the state\u2019s welfare programs, according to federal officials. \u00a0\u00a0\u00a0 \u201cHomeland Security Investigations in cooperation with our law enfor",
     "tags": [
-      "Regulation"
+      "Regulation",
+      "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/media/5852716-bill-oreilly-jimmy-kimmel-widow-comment-whcd-fallout/",
-    "published_iso": "2026-04-28T14:57:43+00:00",
-    "time_ago": "40m ago"
+    "url": "https://thehill.com/homenews/state-watch/5853085-federal-agents-minnesota-raids-welfare-fraud/",
+    "published_iso": "2026-04-28T16:43:40+00:00",
+    "time_ago": "34m ago"
   },
   {
-    "id": "70deff3a41df",
+    "id": "3ec6f0de7627",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "critical",
+    "content": "First Lady Melania Trump Reinforces the Importance of Technology and Education with Her Majesty Queen Camilla. First Lady Melania Trump led an innovative cross-cultural educational program today using artificial intelligence and virtual reality. Within the spirit of Mrs. Trump\u2019s Fostering the Future Together, a group o",
+    "tags": [
+      "Trade",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-reinforces-the-importance-of-technology-and-education-with-her-majesty-queen-camilla/",
+    "published_iso": "2026-04-28T16:41:50+00:00",
+    "time_ago": "36m ago"
+  },
+  {
+    "id": "dfebfcc88a33",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "Democrats\u2019 Unhinged Rhetoric Incites Third Assassination Attempt on President Trump. This past weekend, another Radical Left lunatic attempted to assassinate President Donald J. Trump \u2014&#160;the third such attack on President Trump in under two years. The attack was not random; it was the predictable result of years of",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/04/democrats-unhinged-rhetoric-incites-third-assassination-attempt-on-president-trump/",
+    "published_iso": "2026-04-28T16:40:43+00:00",
+    "time_ago": "37m ago"
+  },
+  {
+    "id": "aaefcf6da488",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -72,22 +120,16 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Top Trump aide on Kimmel joke defense: 'S--- human being'. A top White House aide is blasting late night comedian Jimmy Kimmel for a joke he made last week about first lady Melania Trump, comments that have sparked both she and President Trump to call for his firing. \"Jimmy Kimmel is a s--- human being for: Making a di",
+    "content": "Southern Poverty Law Center: Informant program was not kept secret. The Southern Poverty Law Center (SPLC) refuted the federal government\u2019s allegation that the civil rights organization obscured details about its paid informant program in new court filings on Tuesday, following last week's grand jury indictment. In two",
     "tags": [
-      "Defense",
-      "Taxes"
+      "Regulation"
     ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/media/5852738-white-house-aide-blasts-jimmy-kimmel/",
-    "published_iso": "2026-04-28T14:57:27+00:00",
-    "time_ago": "40m ago"
+    "url": "https://thehill.com/regulation/court-battles/5852995-splc-fights-federal-charges/",
+    "published_iso": "2026-04-28T16:21:48+00:00",
+    "time_ago": "56m ago"
   },
   {
     "id": "4834f3e8f4bb",
@@ -106,7 +148,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mkksfghmbk2z",
     "published_iso": "2026-04-28T14:31:38.230000+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "bb0342f4ec6a",
@@ -127,7 +169,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/04/ceq-opens-permitting-innovators-call-for-solutions-to-industry-partners/",
     "published_iso": "2026-04-28T14:21:58+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "107b3ed2489a",
@@ -153,7 +195,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08264/five-year-review-of-the-oil-pipeline-index",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "b100193e478c",
@@ -174,7 +216,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08259/miscellaneous-revisions-to-the-qualification-and-certification-of-conductors",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "6e9ae1902bab",
@@ -195,7 +237,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08258/regulatory-relief-to-allow-speeds-up-to-45-mph-for-non-traversable-curbs",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "49dda237d3f4",
@@ -216,7 +258,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08257/qualification-and-certification-of-locomotive-engineers",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "f557aba7dd6f",
@@ -237,7 +279,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08256/removing-stenciling-requirement-for-freight-cars-used-for-tourist-historic-excursion-educational",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "f1ecd082b80a",
@@ -258,7 +300,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08255/allowing-for-the-electronic-posting-of-reportable-injuries-and-occupational-illnesses",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "93db16c4f24e",
@@ -279,7 +321,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/28/2026-08254/repealing-certain-bridge-load-capacity-evaluation-requirements",
     "published_iso": "2026-04-28T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "00153978f481",
@@ -298,7 +340,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h139?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-27T23:09:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "e1930f7de716",
@@ -319,7 +361,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h138?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-27T23:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "a799dcaf07b2",
@@ -341,7 +383,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mkiztdxwfc2h",
     "published_iso": "2026-04-27T21:39:22.097000+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "79874b0a4328",
@@ -360,7 +402,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s106?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-27T21:27:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "bbd034846708",
@@ -381,7 +423,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/nominations-and-withdrawals-sent-to-the-senate-d935/",
     "published_iso": "2026-04-27T20:35:53+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "bc57d08670dc",
@@ -403,7 +445,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-national-apprenticeship-week/",
     "published_iso": "2026-04-27T20:33:57+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "4e90d421049f",
@@ -428,7 +470,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mkiqyrneos2u",
     "published_iso": "2026-04-27T19:01:20.528000+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "9ec4bb53d1f2",
@@ -450,7 +492,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/congressional-bill-h-j-res-140-signed-into-law/",
     "published_iso": "2026-04-27T18:01:39+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "0683b9fae85b",
@@ -476,7 +518,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mkimpvy2ek27",
     "published_iso": "2026-04-27T17:44:48.115000+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "99cdddfab852",
@@ -502,7 +544,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/americans-deserve-lower-prices-and-lower-interest-rates",
     "published_iso": "2026-04-27T17:37:20+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "f56e446ec07c",
@@ -523,33 +565,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-birthday-of-president-ulysses-s-grant/",
     "published_iso": "2026-04-27T16:00:00+00:00",
-    "time_ago": "23h ago"
-  },
-  {
-    "id": "b09b078d5f9f",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "What's on the chopping block so Trump can bankroll his Pentagon budget?\n\nFood for little babies and lifesaving cancer research.",
-    "tags": [
-      "Banking",
-      "Defense"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mkibxwz7j22o",
-    "published_iso": "2026-04-27T14:32:26.476000+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -617,27 +632,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/president-donald-j-trump-and-first-lady-melania-trump-to-welcome-his-majesty-king-charles-the-iii-of-the-united-kingdom-of-great-britain-and-northern-ireland-and-her-majesty-queen-camilla-for-a-state/",
     "published_iso": "2026-04-25T16:26:59+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "7476382cf569",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "Presidential Message on Arbor Day. Arbor Day is a celebration dedicated to the planting of trees.&#160; It was first observed on April 10, 1872, when Nebraskan settlers planted an estimated one million trees to populate the barren plains and provide shade, fuel, and building materials for the pioneers.&#160; The founde",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-arbor-day/",
-    "published_iso": "2026-04-24T19:38:54+00:00",
     "time_ago": "3d ago"
   },
   {
@@ -685,27 +679,6 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/04/24/prediction-market-insider-trading-violations-00890570",
     "published_iso": "2026-04-24T16:54:44+00:00",
-    "time_ago": "3d ago"
-  },
-  {
-    "id": "c6aacc2374fc",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "Presidential Message on Armenian Remembrance Day. Today, we pay tribute to the countless Armenians who were exiled and brutally massacred during the Meds Yeghern.&#160; We stand in steadfast solidarity with every Armenian American and Armenians around the world during this day of remembrance for the devastating events ",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-armenian-remembrance-day/",
-    "published_iso": "2026-04-24T15:05:18+00:00",
     "time_ago": "4d ago"
   },
   {
@@ -982,7 +955,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "9da1a43e4c40",
@@ -1154,7 +1127,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/icymi-lummis-op-ed-in-washington-post-a-broken-system-is-costing-america-trillions-i-see-it-in-wyoming/",
     "published_iso": "2026-04-08T16:14:36+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "600ac4c5c04c",
@@ -1291,7 +1264,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "62d ago"
+    "time_ago": "63d ago"
   },
   {
     "id": "344041549951",
@@ -1375,7 +1348,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meetings-in-sheldon-bristol-and-poultney/",
     "published_iso": "2026-01-29T16:27:05+00:00",
-    "time_ago": "88d ago"
+    "time_ago": "89d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1401,7 +1374,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "95d ago"
+    "time_ago": "96d ago"
   },
   {
     "id": "d39ac85b9cc9",
@@ -1445,7 +1418,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266276-2/",
     "published_iso": "2026-01-07T15:48:25+00:00",
-    "time_ago": "110d ago"
+    "time_ago": "111d ago"
   },
   {
     "id": "a2647cb5ac95",
