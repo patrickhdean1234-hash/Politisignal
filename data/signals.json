@@ -1,6 +1,6 @@
 [
   {
-    "id": "91b4ca3e1aed",
+    "id": "053df290af0a",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,16 +9,77 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Walther Donald E. exercised options for 1,685 shares of Comtech Telecommunications Corp /De/ (CMTL) \u00b7 Apr 29 ($36,872 across all blocks)",
+    "content": "Ladd Amy L sold 500 shares of Intuitive Surgical Inc (ISRG) \u00b7 $473.46/share \u00b7 $236,730 total \u00b7 Apr 29 ($291,886 across all blocks)",
     "tags": [],
     "tickers": [
-      "CMTL"
+      "ISRG"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1740119/000174011926000002/0001740119-26-000002-index.htm",
-    "published_iso": "2026-04-29T20:44:49+00:00",
-    "time_ago": "1m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1781750/000178175026000002/0001781750-26-000002-index.htm",
+    "published_iso": "2026-04-29T21:38:49+00:00",
+    "time_ago": "7m ago"
+  },
+  {
+    "id": "a989eb47eaec",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hershey Trust Co Trustee In Trust For Milton Hershey School sold 3,666 shares of Hershey Co (HSY) \u00b7 $186.59/share \u00b7 $684,044 total \u00b7 Apr 29 ($5,651,884 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "HSY"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/938543/000095014226001216/0000950142-26-001216-index.htm",
+    "published_iso": "2026-04-29T21:31:23+00:00",
+    "time_ago": "14m ago"
+  },
+  {
+    "id": "b2c7e6c25ec7",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Mamdani slams Supreme Court's Voting Rights Act ruling: 'It risks disenfranchising millions'. New York City Mayor Zohran Mamdani (D) slammed a recent Supreme Court ruling on the Voting Rights Act, saying the decision \u201crisks disenfranchising millions.\u201d \u201cToday's Supreme Court decision is a direct assault on the promise o",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/regulation/court-battles/5856048-voting-rights-act-supreme-court-zohran-mamdani/",
+    "published_iso": "2026-04-29T20:58:16+00:00",
+    "time_ago": "47m ago"
+  },
+  {
+    "id": "294048a6f5d9",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "New California regulations allow heavy-duty driverless vehicle testing, deployment. The California Department of Motor Vehicles (DMV) on Tuesday adopted new regulations on autonomous vehicles (AVs) to curb public safety issues and keep manufacturers in check. New regulations include expanding \"safety and oversight requ",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/state-watch/5855922-new-safety-regulations-for-avs/",
+    "published_iso": "2026-04-29T20:44:37+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "6885273bbee5",
@@ -37,7 +98,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/nexstar_media_wire/5855784-why-gas-prices-rocketed-up-in-these-5-states-overnight-and-who-could-be-impacted-next/",
     "published_iso": "2026-04-29T20:26:44+00:00",
-    "time_ago": "19m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "b099891d9e99",
@@ -58,7 +119,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mknvzi4z2c2v",
     "published_iso": "2026-04-29T20:14:31.509000+00:00",
-    "time_ago": "31m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "cb71d4aab5cf",
@@ -77,74 +138,6 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/administration/5855865-julie-davis-us-ambassador-ukraine-stepping-down/",
     "published_iso": "2026-04-29T19:52:43+00:00",
-    "time_ago": "53m ago"
-  },
-  {
-    "id": "14efd42533da",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Ex-FBI director James Comey makes court appearance, does not enter plea. Former FBI Director James Comey surrendered to law enforcement and made an initial court appearance in Alexandria, Va., on Wednesday after facing new charges stemming from a controversial photo of seashells he shared on social media that displayed",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/regulation/court-battles/5854879-james-comey-surrender-trump-doj/",
-    "published_iso": "2026-04-29T19:27:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "163252f5c66b",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "House GOP leaders punt farm bill amid intraparty division. House GOP leaders struck a deal with hard-line conservative rebels on Wednesday to delay a vote on the farm bill, which has been at the center of controversy in recent days as Republicans remain divided over certain provisions. The agreement came as Speaker Mik",
-    "tags": [
-      "Agriculture",
-      "Regulation"
-    ],
-    "tickers": [
-      "CORN",
-      "SOYB",
-      "DE"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5855833-house-farm-bill-ethanol-maha-pesticides/",
-    "published_iso": "2026-04-29T19:25:01+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "996371866824",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "low",
-    "content": "Susie Wiles creates official X account 'to share occasional updates'. White House Chief of Staff Susie Wiles launched an official X account on Tuesday to share \u201coccasional updates\u201d about the Trump administration.  \u201cI\u2019m joining X to share occasional updates about the work we do at the White House,\u201d Wiles wrote in her fi",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5855783-wiles-trump-chief-staff-x/",
-    "published_iso": "2026-04-29T19:18:58+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -166,7 +159,47 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/america-250-presidential-message-on-the-anniversary-of-the-first-landing-and-the-raising-of-the-cape-henry-cross/",
     "published_iso": "2026-04-29T18:59:01+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "d3ae11b3a0a8",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "I'm BLOCKING a Republican bill to build Donald Trump's ballroom.. I'm BLOCKING a Republican bill to build Donald Trump's ballroom",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "http://www.warren.senate.gov/newsroom/videos/watch/im-blocking-a-republican-bill-to-build-donald-trumps-ballroom",
+    "published_iso": "2026-04-29T18:49:25+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "76709a1105d5",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On the Nomination PN730-14: Robert Cekada, of Florida, to be Director, Bureau of Alcohol, Tobacco, Firearms, and Explosives. Vote: Nomination Confirmed 59/39",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s109?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-04-29T18:24:00+00:00",
+    "time_ago": "3h ago"
   },
   {
     "id": "f043701f447d",
@@ -188,7 +221,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mknmly5gxk23",
     "published_iso": "2026-04-29T17:25:54.862000+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "3d204d68c15a",
@@ -209,7 +242,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h141?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-29T17:24:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "f9adcd7b3c91",
@@ -234,7 +267,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mknlrsfodc2v",
     "published_iso": "2026-04-29T17:11:16.425000+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "5c7b0b07a5d0",
@@ -253,7 +286,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-statement-on-the-supreme-court-dismantling-the-voting-rights-act",
     "published_iso": "2026-04-29T17:00:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "d0d2a8184021",
@@ -272,7 +305,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mkniaudrhc2g",
     "published_iso": "2026-04-29T16:08:06.792000+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "8b771b00c0f2",
@@ -291,7 +324,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mkniaud7us2g",
     "published_iso": "2026-04-29T16:08:06.791000+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "476428079374",
@@ -317,7 +350,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/after-committee-hearing-warren-presses-rfk-jr-on-commitments-involving-trumprx-scams-big-pharma-deals",
     "published_iso": "2026-04-29T16:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "eca15e8169a4",
@@ -338,7 +371,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/04/president-trump-first-lady-welcome-king-charles-iii-and-queen-camilla-for-state-visit-honoring-250-years-of-shared-heritage/",
     "published_iso": "2026-04-29T15:26:10+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "e9ccc732da65",
@@ -359,7 +392,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h140?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-29T15:11:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "85725ec05e0b",
@@ -385,7 +418,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mkncodqfh225",
     "published_iso": "2026-04-29T14:28:16.704000+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "d9abc671c825",
@@ -406,7 +439,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08358/oranges-grapefruit-tangerines-and-pummelos-grown-in-florida-increased-assessment-rate",
     "published_iso": "2026-04-29T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "f13da7f985bd",
@@ -425,7 +458,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08348/approval-of-missouris-request-for-partial-program-delegation-of-clean-air-act-112r-prevention-of",
     "published_iso": "2026-04-29T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "878472667363",
@@ -446,7 +479,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08339/home-investment-partnerships-program-further-program-updates-and-streamlining",
     "published_iso": "2026-04-29T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "5162d6704090",
@@ -467,7 +500,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08333/uscis-immigration-fees-and-related-procedures-required-by-hr1-reconciliation-bill",
     "published_iso": "2026-04-29T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "745220ef3af8",
@@ -489,7 +522,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08328/national-bank-non-interest-charges-and-fees",
     "published_iso": "2026-04-29T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "ddaf6d77b178",
@@ -508,7 +541,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08324/airworthiness-directives-airbus-helicopters-deutschland-gmbh-ahd-helicopters",
     "published_iso": "2026-04-29T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "c6c465f032ad",
@@ -527,7 +560,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08321/fisheries-of-the-exclusive-economic-zone-off-alaska-recreational-fishing-for-chinook-salmon-in-the",
     "published_iso": "2026-04-29T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "fbdd48a73561",
@@ -548,7 +581,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08306/airworthiness-directives-the-boeing-company-airplanes",
     "published_iso": "2026-04-29T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "13ef6c8db567",
@@ -569,7 +602,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-releases-details-on-the-state-dinner-with-his-majesty-king-charles-the-iii-of-the-united-kingdom-of-great-britain-and-northern-ireland-and-her-majesty-queen-camilla/",
     "published_iso": "2026-04-28T23:43:51+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "978c38f5a1b1",
@@ -590,7 +623,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mklnavzmpk2y",
     "published_iso": "2026-04-28T22:32:17.806000+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "51f532d8f2d9",
@@ -609,7 +642,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s108?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-28T21:09:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "4d4a75d3ad9d",
@@ -791,7 +824,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s106?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-27T21:27:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "bbd034846708",
@@ -992,25 +1025,6 @@
     "time_ago": "5d ago"
   },
   {
-    "id": "4c406a34e994",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.R. 5587: HEATS Act. Vote: Passed 231/186",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h137?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-04-23T14:32:00+00:00",
-    "time_ago": "6d ago"
-  },
-  {
     "id": "01ebe35b6c66",
     "politician": "U.S. Trade Rep.",
     "initials": "USTR",
@@ -1032,7 +1046,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/congressional-affairs/congressional-hearings-and-testimony/2026/opening-statement-ambassador-jamieson-greer-house-ways-and-means-committee",
     "published_iso": "2026-04-22T21:19:17+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "12c66cda70f4",
@@ -1057,7 +1071,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mjzv5wiudk2r",
     "published_iso": "2026-04-21T21:05:52.285000+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "c8533fb64fee",
@@ -1385,7 +1399,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/aoc.bsky.social/post/3mfi26wfbbk22",
     "published_iso": "2026-02-22T21:07:12.518000+00:00",
-    "time_ago": "65d ago"
+    "time_ago": "66d ago"
   },
   {
     "id": "869ac7db3b73",
@@ -1645,7 +1659,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10471",
     "published_iso": "2023-07-12T21:22:15+00:00",
-    "time_ago": "1021d ago"
+    "time_ago": "1022d ago"
   },
   {
     "id": "b05ff12af7ca",
@@ -1667,7 +1681,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10470",
     "published_iso": "2023-07-12T21:20:42+00:00",
-    "time_ago": "1021d ago"
+    "time_ago": "1022d ago"
   },
   {
     "id": "b22b414d7eb9",
@@ -1691,7 +1705,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10469",
     "published_iso": "2023-07-12T21:20:14+00:00",
-    "time_ago": "1021d ago"
+    "time_ago": "1022d ago"
   },
   {
     "id": "06ebc00af517",
@@ -1712,7 +1726,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10468",
     "published_iso": "2023-07-12T21:19:46+00:00",
-    "time_ago": "1021d ago"
+    "time_ago": "1022d ago"
   },
   {
     "id": "99bfd884e5fa",
@@ -1733,7 +1747,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10467",
     "published_iso": "2023-07-12T21:19:01+00:00",
-    "time_ago": "1021d ago"
+    "time_ago": "1022d ago"
   },
   {
     "id": "9ab4d9dc70a4",
