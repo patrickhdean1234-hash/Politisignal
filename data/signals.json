@@ -1,5 +1,159 @@
 [
   {
+    "id": "93d68026d1c5",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Xu Wangang acquired/disposed 7,177,119 shares of Ke Holdings Inc. (BEKE) \u00b7 Apr 29 ($0 across all blocks)",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "BEKE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2110619/000119312526188888/0001193125-26-188888-index.htm",
+    "published_iso": "2026-04-29T10:49:26+00:00",
+    "time_ago": "24m ago"
+  },
+  {
+    "id": "1bb44302c1e5",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Redistricting war draws to a close: A look at GOP, Democratic gains. Voters in Virginia last week approved a new, Democratic-friendly congressional map that could tip the fight for House control in the midterms, but Florida is on track to parry with a GOP-favored map that could offset those gains.  The states represent",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/5853214-redistricting-war-gop-democrat-gains/",
+    "published_iso": "2026-04-29T10:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "8d43575554a5",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Democrats hold 10-point edge over Republicans ahead of midterm elections: Poll. Democrats hold a 10-point advantage over Republicans on a generic congressional ballot, according to the latest in a series of polls showing the party in a strong position ahead of November\u2019s midterm elections. In a three-day Emerson Colleg",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/5854114-democrats-lead-republicans-midterms/",
+    "published_iso": "2026-04-29T10:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "425ba3a9fbaa",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "States take up kids online safety as Congress stalls. State prosecutors are turning up the heat on social media and artificial intelligence companies over their safeguards for children as federal lawmakers remain at an impasse on the issue. From new investigations to a string of settlements, verdicts and state laws, st",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/5853514-states-take-up-kids-online-safety-as-congress-stalls/",
+    "published_iso": "2026-04-29T10:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "b7bf646f34b5",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Republicans\u2019 go-it-alone strategy keeps hitting walls, jeopardizing must-pass bills. The House Republicans\u2019 go-it-alone approach is snarling efforts to move a series of must-pass bills through the lower chamber this week. On three major pieces of legislation \u2014 to fund the Department of Homeland Security (DHS), extend t",
+    "tags": [
+      "Agriculture",
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/house/5854187-republicans-strategy-fisa-dhs-farm-bill/",
+    "published_iso": "2026-04-29T10:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "8ce5cc191330",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Senate GOP pushes back on Trump ballroom amid affordability worries. Senate Republicans aren\u2019t in the mood to vote on legislation to greenlight President Trump\u2019s controversial plan to build a 90,000-square-foot White House ballroom, as some GOP lawmakers see it as a bad political move in the current political climate, ",
+    "tags": [
+      "Energy",
+      "Defense",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/senate/5853917-trump-ballroom-funding-controversy/",
+    "published_iso": "2026-04-29T10:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "c1abe5d7f19a",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Pro-pesticide provisions complicate farm bill's passage. A contentious pro-pesticide provision in the farm bill could create hurdles to the legislation moving through the House, as lawmakers aligned with the \"Make America Healthy Again\" (MAHA) movement rage against the measure. The language in question, which seeks to ",
+    "tags": [
+      "Agriculture",
+      "Regulation"
+    ],
+    "tickers": [
+      "CORN",
+      "SOYB",
+      "DE"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/house/5853925-pro-pesticide-provisions-complicate-farm-bills-passage/",
+    "published_iso": "2026-04-29T10:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "35f88aeaa821",
     "politician": "The Hill",
     "initials": "TH",
@@ -19,206 +173,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/campaign/5853676-california-governor-candidates-clash-debate/",
     "published_iso": "2026-04-29T03:05:25+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "f5bcda5585cd",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Trump says King Charles \u201cagrees\u201d Iran cannot have a nuclear weapon. President Trump on Tuesday said King Charles III \u201cagrees\u201d that Iran should not have a nuclear weapon.  \u201cWe're doing a little Middle East work right now, as you might know, and we're doing very well. We have militarily defeated that particular opponent,",
-    "tags": [
-      "Defense",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5854234-iran-nuclear-trump-charles/",
-    "published_iso": "2026-04-29T02:24:06+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "a1b5bf9714c7",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Walker John Kent gifted 34,801 shares of Alphabet Inc. (GOOG) \u00b7 Apr 28 ($0 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "GOOG",
-      "GOOGL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526188493/0001193125-26-188493-index.htm",
-    "published_iso": "2026-04-29T01:56:53+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "7b9b51c5d409",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Walker John Kent converted 6,495 shares of Alphabet Inc. (GOOG) \u00b7 Apr 28 ($0 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "GOOG",
-      "GOOGL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526188492/0001193125-26-188492-index.htm",
-    "published_iso": "2026-04-29T01:56:30+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "0f7f02f8cb3e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Ashkenazi Anat converted 7,051 shares of Alphabet Inc. (GOOG) \u00b7 Apr 28 ($0 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "GOOG",
-      "GOOGL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1761679/000119312526188490/0001193125-26-188490-index.htm",
-    "published_iso": "2026-04-29T01:56:16+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "78773ab953f4",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Pichai Sundar converted 3,666 shares of Alphabet Inc. (GOOG) \u00b7 Apr 28 ($0 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "GOOG",
-      "GOOGL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526188485/0001193125-26-188485-index.htm",
-    "published_iso": "2026-04-29T01:54:54+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "c663d6709080",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Orbimed Advisors Llc bought 597,729 shares of Traws Pharma, Inc. (TRAW) \u00b7 $1.67/share \u00b7 $998,207 total \u00b7 Apr 28",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "TRAW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1845804/000094787126000481/0000947871-26-000481-index.htm",
-    "published_iso": "2026-04-29T01:41:49+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "ea4a98b02995",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "low",
-    "content": "Live updates: Trump hosts state dinner after King Charles's historic remarks. President Trump and first lady Melania Trump hosted King Charles III and Queen Camilla at the White House for a state dinner on Tuesday night, all against a backdrop of U.S.-U.K. tension. Trump described the partnership between the two countr",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5851618-live-updates-trump-dhs-fisa-uk-royal-family/",
-    "published_iso": "2026-04-29T01:38:26+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "2b2d3865cf49",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "More than 70 House Dems call on Trump to keep Chinese automakers out of US. More than 70 Democrats in the House signed on to a Tuesday letter urging President Trump to block Chinese automakers from saturating the U.S. car market.  Michigan Rep. Debbie Dingell (D) led the effort with support from 73 colleagues ahead of ",
-    "tags": [
-      "China"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5854210-democrats-trump-chinese-automakers/",
-    "published_iso": "2026-04-29T01:16:52+00:00",
     "time_ago": "8h ago"
-  },
-  {
-    "id": "f359ea0d4194",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Secret Service director: Agents did 'great job' in WHCA dinner shooting response. Secret Service Director Sean Curran on Tuesday said the agents who responded to the White House Correspondents\u2019 Association dinner did a \u201cgreat job\u201d reacting to the unexpected intruder.\u00a0 \u201cMy agents did a great job,\u201d Curran told CBS News's",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5854157-dinner-security-assessment-curran/",
-    "published_iso": "2026-04-29T00:08:03+00:00",
-    "time_ago": "9h ago"
   },
   {
     "id": "d9abc671c825",
@@ -239,7 +194,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08358/oranges-grapefruit-tangerines-and-pummelos-grown-in-florida-increased-assessment-rate",
     "published_iso": "2026-04-29T00:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "f13da7f985bd",
@@ -258,7 +213,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08348/approval-of-missouris-request-for-partial-program-delegation-of-clean-air-act-112r-prevention-of",
     "published_iso": "2026-04-29T00:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "878472667363",
@@ -279,7 +234,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08339/home-investment-partnerships-program-further-program-updates-and-streamlining",
     "published_iso": "2026-04-29T00:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "5162d6704090",
@@ -300,7 +255,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08333/uscis-immigration-fees-and-related-procedures-required-by-hr1-reconciliation-bill",
     "published_iso": "2026-04-29T00:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "745220ef3af8",
@@ -322,7 +277,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08328/national-bank-non-interest-charges-and-fees",
     "published_iso": "2026-04-29T00:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "ddaf6d77b178",
@@ -341,7 +296,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08324/airworthiness-directives-airbus-helicopters-deutschland-gmbh-ahd-helicopters",
     "published_iso": "2026-04-29T00:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "c6c465f032ad",
@@ -360,7 +315,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08321/fisheries-of-the-exclusive-economic-zone-off-alaska-recreational-fishing-for-chinook-salmon-in-the",
     "published_iso": "2026-04-29T00:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "fbdd48a73561",
@@ -381,28 +336,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08306/airworthiness-directives-the-boeing-company-airplanes",
     "published_iso": "2026-04-29T00:00:00+00:00",
-    "time_ago": "9h ago"
-  },
-  {
-    "id": "dc5add1dbc59",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Here's what's on the White House's state dinner menu for King Charles. President Trump and Melania Trump will be joining Britain's King Charles III and Queen Camilla at a meal fit for royalty. The White House has released details of the menu for Tuesday's state dinner. The first lady \"led preparations for the dinner,\" ",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/blogs/in-the-know/5854150-white-house-state-dinner-menu-king-charles/",
-    "published_iso": "2026-04-28T23:44:21+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "13ef6c8db567",
@@ -423,56 +357,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-releases-details-on-the-state-dinner-with-his-majesty-king-charles-the-iii-of-the-united-kingdom-of-great-britain-and-northern-ireland-and-her-majesty-queen-camilla/",
     "published_iso": "2026-04-28T23:43:51+00:00",
-    "time_ago": "9h ago"
-  },
-  {
-    "id": "1e0ca684ef85",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "House tees up vote on ethanol compromise, which would attach to Farm Bill. The House is seeking to advance a biofuel bill and then procedurally tie it to the Farm Bill before sending the package to the Senate. The legislation\u00a0in question enables year-round sales of gasoline with a high ethanol content, which is typical",
-    "tags": [
-      "Agriculture",
-      "Regulation",
-      "Insider Trade"
-    ],
-    "tickers": [
-      "CORN",
-      "SOYB",
-      "DE"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/energy-environment/5853753-ethanol-farm-bill/",
-    "published_iso": "2026-04-28T23:33:49+00:00",
-    "time_ago": "9h ago"
-  },
-  {
-    "id": "c54d94675d8c",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "House panel advances three major bills after marathon hearing, but fate on floor uncertain. Republican leaders snapped the House out of a state of limbo caused by GOP infighting as the House Rules Committee advanced an ambitious slate of high-profile, must-pass bills on Tuesday evening \u2014 tacking on two major sweeteners",
-    "tags": [
-      "Agriculture",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5853444-house-rules-fisa-farm-bill-dhs/",
-    "published_iso": "2026-04-28T23:30:17+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "978c38f5a1b1",
@@ -493,7 +378,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mklnavzmpk2y",
     "published_iso": "2026-04-28T22:32:17.806000+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "4d4a75d3ad9d",
@@ -514,7 +399,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ustr-seeks-public-comment-modernization-african-growth-and-opportunity-act",
     "published_iso": "2026-04-28T20:43:27+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "a9cdc012f547",
@@ -541,7 +426,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mkl55ablqk26",
     "published_iso": "2026-04-28T17:43:54.466000+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "3ec6f0de7627",
@@ -563,7 +448,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-reinforces-the-importance-of-technology-and-education-with-her-majesty-queen-camilla/",
     "published_iso": "2026-04-28T16:41:50+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "dfebfcc88a33",
@@ -584,7 +469,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/04/democrats-unhinged-rhetoric-incites-third-assassination-attempt-on-president-trump/",
     "published_iso": "2026-04-28T16:40:43+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "ae349f5cc83e",
@@ -603,7 +488,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s107?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-28T15:08:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "4834f3e8f4bb",
@@ -622,7 +507,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mkksfghmbk2z",
     "published_iso": "2026-04-28T14:31:38.230000+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "bb0342f4ec6a",
@@ -643,7 +528,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/04/ceq-opens-permitting-innovators-call-for-solutions-to-industry-partners/",
     "published_iso": "2026-04-28T14:21:58+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "00153978f481",
@@ -859,7 +744,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/04/26/talarico-texas-senate-black-voters-00892102",
     "published_iso": "2026-04-26T11:00:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "c72c709c91e0",
