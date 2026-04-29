@@ -1,6 +1,6 @@
 [
   {
-    "id": "93d68026d1c5",
+    "id": "93c5b15e36d3",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,21 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Xu Wangang acquired/disposed 7,177,119 shares of Ke Holdings Inc. (BEKE) \u00b7 Apr 29 ($0 across all blocks)",
-    "tags": [
-      "Insider Trade"
-    ],
+    "content": "Politi Santo received 9,270 shares of Etoro Group Ltd. (ETOR) \u00b7 Apr 29",
+    "tags": [],
     "tickers": [
-      "BEKE"
+      "ETOR"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2110619/000119312526188888/0001193125-26-188888-index.htm",
-    "published_iso": "2026-04-29T10:49:26+00:00",
-    "time_ago": "24m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1511711/000197640826000380/0001976408-26-000380-index.htm",
+    "published_iso": "2026-04-29T12:21:37+00:00",
+    "time_ago": "33m ago"
   },
   {
-    "id": "1bb44302c1e5",
+    "id": "68b2395f8c8f",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -32,129 +30,51 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Redistricting war draws to a close: A look at GOP, Democratic gains. Voters in Virginia last week approved a new, Democratic-friendly congressional map that could tip the fight for House control in the midterms, but Florida is on track to parry with a GOP-favored map that could offset those gains.  The states represent",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/5853214-redistricting-war-gop-democrat-gains/",
-    "published_iso": "2026-04-29T10:00:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "8d43575554a5",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Democrats hold 10-point edge over Republicans ahead of midterm elections: Poll. Democrats hold a 10-point advantage over Republicans on a generic congressional ballot, according to the latest in a series of polls showing the party in a strong position ahead of November\u2019s midterm elections. In a three-day Emerson Colleg",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/5854114-democrats-lead-republicans-midterms/",
-    "published_iso": "2026-04-29T10:00:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "425ba3a9fbaa",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "States take up kids online safety as Congress stalls. State prosecutors are turning up the heat on social media and artificial intelligence companies over their safeguards for children as federal lawmakers remain at an impasse on the issue. From new investigations to a string of settlements, verdicts and state laws, st",
+    "content": "Live updates: Hegseth, Caine testify in House as Senate panel votes on Kevin Warsh for Fed. The House Armed Services Committee has its chance to question Defense Secretary Pete Hegseth and Joint Chiefs of Staff Chair Gen. Dan Caine on Wednesday morning amid the Iran war as it hits 60 days with no imminent conclusion. I",
     "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/5853514-states-take-up-kids-online-safety-as-congress-stalls/",
-    "published_iso": "2026-04-29T10:00:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "b7bf646f34b5",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Republicans\u2019 go-it-alone strategy keeps hitting walls, jeopardizing must-pass bills. The House Republicans\u2019 go-it-alone approach is snarling efforts to move a series of must-pass bills through the lower chamber this week. On three major pieces of legislation \u2014 to fund the Department of Homeland Security (DHS), extend t",
-    "tags": [
-      "Agriculture",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5854187-republicans-strategy-fisa-dhs-farm-bill/",
-    "published_iso": "2026-04-29T10:00:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "8ce5cc191330",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Senate GOP pushes back on Trump ballroom amid affordability worries. Senate Republicans aren\u2019t in the mood to vote on legislation to greenlight President Trump\u2019s controversial plan to build a 90,000-square-foot White House ballroom, as some GOP lawmakers see it as a bad political move in the current political climate, ",
-    "tags": [
-      "Energy",
       "Defense",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5853917-trump-ballroom-funding-controversy/",
-    "published_iso": "2026-04-29T10:00:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "c1abe5d7f19a",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Pro-pesticide provisions complicate farm bill's passage. A contentious pro-pesticide provision in the farm bill could create hurdles to the legislation moving through the House, as lawmakers aligned with the \"Make America Healthy Again\" (MAHA) movement rage against the measure. The language in question, which seeks to ",
-    "tags": [
-      "Agriculture",
-      "Regulation"
+      "Taxes",
+      "Sanctions"
     ],
     "tickers": [
-      "CORN",
-      "SOYB",
-      "DE"
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5853925-pro-pesticide-provisions-complicate-farm-bills-passage/",
-    "published_iso": "2026-04-29T10:00:00+00:00",
+    "url": "https://thehill.com/homenews/administration/5853382-live-updates-trump-iran-hegseth-fed-interest-rates-powell/",
+    "published_iso": "2026-04-29T12:09:00+00:00",
+    "time_ago": "46m ago"
+  },
+  {
+    "id": "b91ddaa2d96d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Trump: Iran 'better get smart soon'. President Trump early Wednesday warned the Iranian regime that it \u201cbetter get smart soon\u201d as negotiations over a peace deal have largely stalled between the two sides.\u00a0 \u201cIran can\u2019t get their act together,\u201d Trump wrote on Truth Social. \u201cThey don\u2019t know how to sign a nonnuclear deal. ",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5854397-trump-iran-nuclear-deal/",
+    "published_iso": "2026-04-29T11:41:00+00:00",
     "time_ago": "1h ago"
   },
   {
-    "id": "35f88aeaa821",
+    "id": "d85bc5464b43",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -163,17 +83,42 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "California governor candidates struggle for standout moments at feisty debate. California gubernatorial candidates struggled to break through on the debate stage Tuesday, as Democrats look to capitalize on former Rep. Eric Swalwell\u2019s (D-Calif.) dramatic exit from the crowded field.\u00a0 California Attorney General Xavier B",
-    "tags": [
-      "Defense",
-      "Regulation"
-    ],
+    "content": "The $400 million decision the Washington Hilton already just made for us. Anyone who has actually worked presidential-level security understands this is not a close call",
+    "tags": [],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/5853676-california-governor-candidates-clash-debate/",
-    "published_iso": "2026-04-29T03:05:25+00:00",
-    "time_ago": "8h ago"
+    "url": "https://thehill.com/opinion/national-security/5852940-trump-ballroom-security-benefits/",
+    "published_iso": "2026-04-29T11:30:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "2a68327d91ee",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Iran is important, but Trump must not take his eye off the ball in Taiwan. The conflict in Iran should be a reminder of, not a cause to divert attention from, U.S. interests in the West Pacific. America\u2019s war in the Middle East demonstrates the necessity of allies to American strategy. This is equally critical in milit",
+    "tags": [
+      "Trade",
+      "Defense",
+      "Sanctions"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "AMD",
+      "QCOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/national-security/5852599-taiwan-indopacific-security-linchpin/",
+    "published_iso": "2026-04-29T11:00:00+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "d9abc671c825",
@@ -194,7 +139,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08358/oranges-grapefruit-tangerines-and-pummelos-grown-in-florida-increased-assessment-rate",
     "published_iso": "2026-04-29T00:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "f13da7f985bd",
@@ -213,7 +158,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08348/approval-of-missouris-request-for-partial-program-delegation-of-clean-air-act-112r-prevention-of",
     "published_iso": "2026-04-29T00:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "878472667363",
@@ -234,7 +179,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08339/home-investment-partnerships-program-further-program-updates-and-streamlining",
     "published_iso": "2026-04-29T00:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "5162d6704090",
@@ -255,7 +200,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08333/uscis-immigration-fees-and-related-procedures-required-by-hr1-reconciliation-bill",
     "published_iso": "2026-04-29T00:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "745220ef3af8",
@@ -277,7 +222,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08328/national-bank-non-interest-charges-and-fees",
     "published_iso": "2026-04-29T00:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "ddaf6d77b178",
@@ -296,7 +241,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08324/airworthiness-directives-airbus-helicopters-deutschland-gmbh-ahd-helicopters",
     "published_iso": "2026-04-29T00:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "c6c465f032ad",
@@ -315,7 +260,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08321/fisheries-of-the-exclusive-economic-zone-off-alaska-recreational-fishing-for-chinook-salmon-in-the",
     "published_iso": "2026-04-29T00:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "fbdd48a73561",
@@ -336,7 +281,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/29/2026-08306/airworthiness-directives-the-boeing-company-airplanes",
     "published_iso": "2026-04-29T00:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "13ef6c8db567",
@@ -357,7 +302,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-releases-details-on-the-state-dinner-with-his-majesty-king-charles-the-iii-of-the-united-kingdom-of-great-britain-and-northern-ireland-and-her-majesty-queen-camilla/",
     "published_iso": "2026-04-28T23:43:51+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "978c38f5a1b1",
@@ -378,7 +323,26 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mklnavzmpk2y",
     "published_iso": "2026-04-28T22:32:17.806000+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
+  },
+  {
+    "id": "51f532d8f2d9",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On the Point of Order S.J.Res. 124. Vote: Point of Order Well Taken 51/47",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s108?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-04-28T21:09:00+00:00",
+    "time_ago": "15h ago"
   },
   {
     "id": "4d4a75d3ad9d",
@@ -399,7 +363,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ustr-seeks-public-comment-modernization-african-growth-and-opportunity-act",
     "published_iso": "2026-04-28T20:43:27+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "a9cdc012f547",
@@ -426,7 +390,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mkl55ablqk26",
     "published_iso": "2026-04-28T17:43:54.466000+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "3ec6f0de7627",
@@ -448,7 +412,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-reinforces-the-importance-of-technology-and-education-with-her-majesty-queen-camilla/",
     "published_iso": "2026-04-28T16:41:50+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "dfebfcc88a33",
@@ -469,7 +433,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/04/democrats-unhinged-rhetoric-incites-third-assassination-attempt-on-president-trump/",
     "published_iso": "2026-04-28T16:40:43+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "ae349f5cc83e",
@@ -488,7 +452,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s107?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-28T15:08:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "4834f3e8f4bb",
@@ -507,7 +471,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mkksfghmbk2z",
     "published_iso": "2026-04-28T14:31:38.230000+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "bb0342f4ec6a",
@@ -528,7 +492,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/04/ceq-opens-permitting-innovators-call-for-solutions-to-industry-partners/",
     "published_iso": "2026-04-28T14:21:58+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "00153978f481",
@@ -912,27 +876,6 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s104?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-23T07:08:00+00:00",
-    "time_ago": "6d ago"
-  },
-  {
-    "id": "9ed8812baf32",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "S.Amdt. 5336 (Wyden) to S.Con.Res. 33: To establish a deficit-neutral reserve fund relating to requiring the Comptroller General of the United States to conduct a study related to economic consequences of private or confidential drug pricing agreements s. Vote: Amendment Rejected 48/50",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s103?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-04-23T06:51:00+00:00",
     "time_ago": "6d ago"
   },
   {
