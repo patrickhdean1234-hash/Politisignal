@@ -1,6 +1,6 @@
 [
   {
-    "id": "a7babdf44b2a",
+    "id": "2b7fbee53107",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -8,62 +8,20 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "medium",
-    "content": "Yin Zhe exercised options for 740 shares of Noah Holdings Ltd (NOAH) \u00b7 Apr 30",
+    "severity": "critical",
+    "content": "Pantilione Vito S bought 1,300 shares of Parke Bancorp, Inc. (PKBK) \u00b7 $30.37/share \u00b7 $39,486 total \u00b7 Apr 30 ($39,486 across all blocks)",
     "tags": [],
     "tickers": [
-      "NOAH"
+      "PKBK"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2109718/000110465926052642/0001104659-26-052642-index.htm",
-    "published_iso": "2026-04-30T17:58:15+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/1323979/000143774926014165/0001437749-26-014165-index.htm",
+    "published_iso": "2026-04-30T19:43:22+00:00",
     "time_ago": "1m ago"
   },
   {
-    "id": "5f6da2fa5e4f",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Pan Qing exercised options for 1,035 shares of Noah Holdings Ltd (NOAH) \u00b7 Apr 30",
-    "tags": [],
-    "tickers": [
-      "NOAH"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2111246/000110465926052639/0001104659-26-052639-index.htm",
-    "published_iso": "2026-04-30T17:57:20+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "a927f22cd25a",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Wang Jingbo (Norah) exercised options for 740 shares of Noah Holdings Ltd (NOAH) \u00b7 Apr 30",
-    "tags": [],
-    "tickers": [
-      "NOAH"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2118043/000110465926052637/0001104659-26-052637-index.htm",
-    "published_iso": "2026-04-30T17:55:53+00:00",
-    "time_ago": "4m ago"
-  },
-  {
-    "id": "ee63c8d9d616",
+    "id": "15205e763136",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -72,26 +30,61 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Congress, close the crypto crime gap \u2014 before criminals get there first. Americans lost nearly $21 billion to fraud last year, with cryptocurrency-related scams accounting for the largest share of losses, highlighting the need for Congress to close the regulatory gap and apply the same anti-money laundering and Bank Se",
+    "content": "Watch live: Trump signs executive order on retirement accounts. President Trump will sign an executive order expanding workers' access to retirement accounts in the Oval Office on Thursday, according to the White House. He is also expected to create a government website where they can compare private-sector accounts. T",
     "tags": [
-      "Crypto",
-      "Banking",
-      "Regulation",
       "Taxes"
     ],
-    "tickers": [
-      "BTC",
-      "ETH",
-      "COIN"
-    ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/finance/5856585-cryptocurrency-fraud-losses-surge/",
-    "published_iso": "2026-04-30T17:30:00+00:00",
-    "time_ago": "29m ago"
+    "url": "https://thehill.com/video-clips/5857839-watch-live-trump-executive-order-retirement-accounts/",
+    "published_iso": "2026-04-30T18:48:19+00:00",
+    "time_ago": "56m ago"
   },
   {
-    "id": "18470da5a5a6",
+    "id": "7a911466d84f",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Jon Stewart says Democratic leadership and DNC are 'lost'. Comedian Jon Stewart said Wednesday the Democratic National Committee (DNC) and the party's leaders were \u201clost\u201d while discussing the Maine Senate campaign.\u00a0 Stewart was interviewing Maine Senate candidate Graham Platner, who said he had not been contacted by th",
+    "tags": [
+      "Defense"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/5857790-platner-stewart-democrats-lost/",
+    "published_iso": "2026-04-30T18:46:35+00:00",
+    "time_ago": "58m ago"
+  },
+  {
+    "id": "3e0cb633781c",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "New Economic Data Highlights the Strength and Resilience of President Trump\u2019s Economy. New economic data this week delivers fresh evidence of the exceptional strength and accelerating momentum of the American economy under President Donald J. Trump. America\u2019s core fundamentals are firing on all cylinders \u2014 producing ta",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/04/new-economic-data-highlights-the-strength-and-resilience-of-president-trumps-economy/",
+    "published_iso": "2026-04-30T18:43:57+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "fff76cc7b44d",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -100,19 +93,64 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "House passes bill to fund most of DHS in major step toward ending 10-week shutdown. The House on Thursday passed a bill to fund the bulk of the Department of Homeland Security (DHS), minus Border Patrol and Immigration and Customs Enforcement (ICE), a major step toward ending the record-breaking, 10-week shutdown. The ",
+    "content": "Democratic senators warn Trump administration against taking 'any illegal activity' to stymy voting. Nearly 30 Democratic senators warned two government agencies against taking \u201cany illegal activity\u201d to carry out a March executive order from President Trump seeking to force states to verify citizenship in order to vote",
+    "tags": [
+      "Defense"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/senate/5857879-democratic-senators-trump-voting-ssa-dhs/",
+    "published_iso": "2026-04-30T18:40:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "ecdd94ec4307",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Camp Mystic withdraws application to renew license, will not reopen this summer. After a week filled with criticism \u2014 and even a promise from a lawmaker to shut them down \u2014 Camp Mystic's owners announced Thursday they will not reopen this summer amid multiple investigations and lawsuits",
     "tags": [
       "Regulation"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5857604-house-dhs-funding/",
-    "published_iso": "2026-04-30T17:18:33+00:00",
-    "time_ago": "41m ago"
+    "url": "https://thehill.com/homenews/state-watch/5857819-camp-mystic-withdraws-application-to-renew-license-will-not-reopen-this-summer/",
+    "published_iso": "2026-04-30T18:39:01+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "42bed6ca2263",
+    "id": "7aadbdb481a1",
+    "politician": "U.S. Trade Rep.",
+    "initials": "USTR",
+    "role": "Office of the U.S. Trade Representative",
+    "color": {
+      "bg": "#1a0a1a",
+      "fg": "#d8b4fe"
+    },
+    "severity": "critical",
+    "content": "USTR Releases 2026 Special 301 Report on Intellectual Property Protection and Enforcement. USTR Releases 2026 Special 301 Report on Intellectual Property Protection and Enforcement \n  myarbrough  \n  Thu, 04/30/2026 - 14:26 \n \n\n               WASHINGTON &nbsp;\u2014&nbsp;Today, the Office of the United States Trade Represent",
+    "tags": [
+      "Trade",
+      "China",
+      "Regulation",
+      "Sanctions"
+    ],
+    "tickers": [],
+    "source": "ustr",
+    "platform": "USTR",
+    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ustr-releases-2026-special-301-report-intellectual-property-protection-and-enforcement",
+    "published_iso": "2026-04-30T18:26:09+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "b58ef138207f",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -121,26 +159,19 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "$50B more accurate Iran war cost estimate: Angus King. Sen. Angus King (I-Maine) said the cost of the Iran war is likely double the total that Pentagon officials provided to lawmakers on Wednesday.\u00a0 The independent senator told CNN on Thursday that he's heard estimates that the conflict has cost the U.S. around $50 bil",
+    "content": "Supreme Court strips Voting Rights Act in Louisiana gerrymandering ruling. The Voting Rights Act was born out of the Civil Rights Movement to open the ballot box to Black Americans who were systematically denied access.\u00a0So\u00a0when those protections get narrowed, even subtly, it raises a bigger question:\u00a0Are we moving towa",
     "tags": [
-      "Defense",
-      "Regulation",
-      "Sanctions"
+      "Regulation"
     ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5857505-senator-angus-king-iran-war-bill/",
-    "published_iso": "2026-04-30T17:02:23+00:00",
-    "time_ago": "57m ago"
+    "url": "https://thehill.com/opinion/lindseys-lens/5857791-supreme-court-strips-voting-rights-act-in-louisiana-gerrymandering-ruling/",
+    "published_iso": "2026-04-30T18:22:54+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "7c6137213ccd",
+    "id": "39ec76bf0d2e",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -148,50 +179,18 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "critical",
-    "content": "Sorry, Beijing \u2014 you don't own the world's airspace. Taiwanese President Lai Ching-te was forced to cancel a trip to Eswatini due to intense pressure from Chinese authorities, demonstrating Beijing's increasing efforts to isolate Taiwan from the international community",
+    "severity": "medium",
+    "content": "First commercial flight between US, Venezuela in 7 years departs from Miami. For the first time in seven years, a U.S. flight took off for Venezuela on Thursday. The flight, operated by Envoy Air \u2014 a subsidiary of American Airlines \u2014 departed Miami International Airport at 10:11 a.m. EDT and landed at Sim\u00f3n Bol\u00edvar Int",
     "tags": [
-      "China",
       "Taxes"
     ],
     "tickers": [
-      "NVDA",
-      "TSM",
-      "AMD",
-      "QCOM"
+      "AAL"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/international/5856446-lai-chin-te-trip-cancellation/",
-    "published_iso": "2026-04-30T17:00:00+00:00",
-    "time_ago": "59m ago"
-  },
-  {
-    "id": "4f79c462b927",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Live updates: Hegseth takes heat in Senate; DHS funding bill heads to Trump's desk. Defense Secretary Pete Hegseth is back in the hot seat Thursday, facing questions from senators over the ongoing Iran war and President Trump's $1.5 trillion defense budget request. Hegseth gave fiery testimony in the House on Wednesday",
-    "tags": [
-      "Defense",
-      "Regulation",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5855680-58556800-live-updates-pete-hegseth-trump-iran-midterms-house/",
-    "published_iso": "2026-04-30T16:56:00+00:00",
+    "url": "https://thehill.com/policy/transportation/5857625-us-flight-venezuela-resumes/",
+    "published_iso": "2026-04-30T18:20:45+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -213,7 +212,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mkq36f25x22i",
     "published_iso": "2026-04-30T16:52:04.228000+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "70a9c630c948",
@@ -235,7 +234,45 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mkpznxjsq22y",
     "published_iso": "2026-04-30T16:24:59.448000+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "2f2bea8148dd",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "Motion to Invoke Cloture: S. Res. 690. Vote: Cloture Motion Agreed to 51/46",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s112?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-04-30T15:36:00+00:00",
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "0bceec165186",
+    "politician": "Politico",
+    "initials": "PO",
+    "role": "Political News",
+    "color": {
+      "bg": "#1a0a0a",
+      "fg": "#fca5a5"
+    },
+    "severity": "critical",
+    "content": "Louisiana suspends House primaries after Supreme Court redistricting ruling. GOP Gov. Jeff Landry issued an executive order Thursday delaying the elections until July 15 at the earliest \u2014 though the state\u2019s Senate primary is unaffected",
+    "tags": [],
+    "tickers": [],
+    "source": "politico",
+    "platform": "Politico",
+    "url": "https://www.politico.com/news/2026/04/30/louisiana-house-primary-delay-congressional-map-00900005",
+    "published_iso": "2026-04-30T15:22:58+00:00",
+    "time_ago": "4h ago"
   },
   {
     "id": "0c7e6d29da11",
@@ -260,7 +297,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h154?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T15:14:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "95ebbc8e4ecc",
@@ -281,7 +318,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trumps-elegant-state-dinner-and-groundbreaking-vr-educational-experience-create-a-historic-state-visit-for-their-majesties-king-charles-iii-and-queen-camilla/",
     "published_iso": "2026-04-30T15:07:45+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "b33e40b38cab",
@@ -306,7 +343,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h153?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T15:07:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "4933d476bef0",
@@ -325,7 +362,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h152?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T14:59:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "bf39ff366c00",
@@ -344,7 +381,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h151?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T14:55:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "333acea77cfa",
@@ -363,7 +400,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h150?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T14:52:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "2b154ee8e6d7",
@@ -382,7 +419,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h149?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T14:48:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "4a55d729c55a",
@@ -401,26 +438,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h148?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T14:44:00+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "781baeae7b1f",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On Agreeing to the Amendment: Amendment 15 to H R 7567. Vote: Failed 69/355",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h147?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-04-30T14:41:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "390ad72b776d",
@@ -439,7 +457,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mkpteccvxc2s",
     "published_iso": "2026-04-30T14:32:12.761000+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "315a1324553c",
@@ -460,7 +478,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/04/30/janet-mills-maine-senate-dropout-00899664",
     "published_iso": "2026-04-30T13:02:56+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "6a07a98250f9",
@@ -481,7 +499,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/30/2026-08484/office-of-the-chief-administrative-hearing-officer-chief-administrative-law-judge",
     "published_iso": "2026-04-30T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "afcc45ce36bc",
@@ -503,7 +521,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/30/2026-08464/amendment-of-class-e-airspace-miami-fl",
     "published_iso": "2026-04-30T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "4d74d51f28b9",
@@ -524,7 +542,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/30/2026-08438/removal-of-obsolete-references-to-water-carriers-correction",
     "published_iso": "2026-04-30T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "b20eff265df3",
@@ -545,7 +563,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/30/2026-08433/review-of-the-commissions-rules-governing-the-896-901935-940-mhz-band-correction",
     "published_iso": "2026-04-30T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "ed0a2d7c15d1",
@@ -566,7 +584,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/30/2026-08426/medical-devices-cardiovascular-devices-classification-of-the-laser-powered-inferior-vena-cava-filter",
     "published_iso": "2026-04-30T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "cb7e386d4977",
@@ -587,7 +605,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/30/2026-08425/medical-devices-neurological-devices-classification-of-the-brain-temperature-measurement-system",
     "published_iso": "2026-04-30T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "9f89857ab589",
@@ -608,7 +626,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/30/2026-08424/medical-devices-radiology-devices-classification-of-the-radiation-therapy-marking-device",
     "published_iso": "2026-04-30T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "1670aa922878",
@@ -630,7 +648,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/30/2026-08423/radio-broadcasting-services-enterprise-orderville-and-page-utah",
     "published_iso": "2026-04-30T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "bcd5c9563556",
@@ -654,7 +672,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/node/14320",
     "published_iso": "2026-04-29T22:47:56+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "43b8ddd4707e",
@@ -678,7 +696,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/node/14319",
     "published_iso": "2026-04-29T22:46:13+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "1089c7e5c5b0",
@@ -700,7 +718,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/node/14318",
     "published_iso": "2026-04-29T22:44:48+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "3955fd71dfed",
@@ -723,7 +741,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/node/14317",
     "published_iso": "2026-04-29T22:41:37+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "9e2c4b53d6cb",
@@ -746,7 +764,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/node/14316",
     "published_iso": "2026-04-29T22:35:06+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "a82213d1ffb1",
@@ -770,7 +788,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/node/14315",
     "published_iso": "2026-04-29T22:25:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "b099891d9e99",
@@ -791,7 +809,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mknvzi4z2c2v",
     "published_iso": "2026-04-29T20:14:31.509000+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "6c8951761ea8",
@@ -812,7 +830,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/america-250-presidential-message-on-the-anniversary-of-the-first-landing-and-the-raising-of-the-cape-henry-cross/",
     "published_iso": "2026-04-29T18:59:01+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "d3ae11b3a0a8",
@@ -833,7 +851,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/im-blocking-a-republican-bill-to-build-donald-trumps-ballroom",
     "published_iso": "2026-04-29T18:49:25+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "f9adcd7b3c91",
@@ -1007,27 +1025,6 @@
     "time_ago": "1d ago"
   },
   {
-    "id": "4d4a75d3ad9d",
-    "politician": "U.S. Trade Rep.",
-    "initials": "USTR",
-    "role": "Office of the U.S. Trade Representative",
-    "color": {
-      "bg": "#1a0a1a",
-      "fg": "#d8b4fe"
-    },
-    "severity": "low",
-    "content": "USTR Seeks Public Comment on the Modernization of the African Growth and Opportunity Act. USTR Seeks Public Comment on the Modernization of the African Growth and Opportunity Act \n  myarbrough  \n  Tue, 04/28/2026 - 16:43 \n \n\n               WASHINGTON  \u2013 The Office of the United States Trade Representative (USTR) invite",
-    "tags": [
-      "Trade"
-    ],
-    "tickers": [],
-    "source": "ustr",
-    "platform": "USTR",
-    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ustr-seeks-public-comment-modernization-african-growth-and-opportunity-act",
-    "published_iso": "2026-04-28T20:43:27+00:00",
-    "time_ago": "1d ago"
-  },
-  {
     "id": "3ec6f0de7627",
     "politician": "White House",
     "initials": "WH",
@@ -1111,27 +1108,6 @@
     "time_ago": "2d ago"
   },
   {
-    "id": "bbd034846708",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "Nominations and Withdrawals Sent to the Senate. NOMINATIONS SENT TO THE SENATE: David Brat, of Virginia, to be Ambassador Extraordinary and Plenipotentiary of the United States of America to the Commonwealth of Australia. Hal Duncan, of Texas, to be Deputy Director of the Office of Management and Budget. Sean Kaufman, ",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/04/nominations-and-withdrawals-sent-to-the-senate-d935/",
-    "published_iso": "2026-04-27T20:35:53+00:00",
-    "time_ago": "2d ago"
-  },
-  {
     "id": "4e90d421049f",
     "politician": "Rep. Nancy Pelosi",
     "initials": "NP",
@@ -1154,7 +1130,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mkiqyrneos2u",
     "published_iso": "2026-04-27T19:01:20.528000+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "1599ea4ffe38",
@@ -1269,7 +1245,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-led-fences-act-clears-u-s-house/",
     "published_iso": "2026-04-16T18:07:32+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "987e63291ad4",
@@ -1298,7 +1274,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mjkle76hac25",
     "published_iso": "2026-04-15T19:00:28.593534+00:00",
-    "time_ago": "14d ago"
+    "time_ago": "15d ago"
   },
   {
     "id": "d773df1a1b2c",
@@ -1396,7 +1372,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-introduces-legislation-to-codify-trumps-nuclear-baseload-energy-executive-orders/",
     "published_iso": "2026-03-26T18:12:45+00:00",
-    "time_ago": "34d ago"
+    "time_ago": "35d ago"
   },
   {
     "id": "42002aa36a3f",
@@ -1439,7 +1415,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/news-sanders-welch-balint-statement-on-recent-ice-raids-in-south-burlington/",
     "published_iso": "2026-03-12T18:51:43+00:00",
-    "time_ago": "48d ago"
+    "time_ago": "49d ago"
   },
   {
     "id": "3c2b4ad7a11c",
@@ -1524,7 +1500,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/aoc.bsky.social/post/3mfhthlg3u22x",
     "published_iso": "2026-02-22T19:06:46.919000+00:00",
-    "time_ago": "66d ago"
+    "time_ago": "67d ago"
   },
   {
     "id": "602146d3f751",
@@ -1546,7 +1522,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-announces-2026-service-academy-nominations/",
     "published_iso": "2026-02-18T19:38:51+00:00",
-    "time_ago": "70d ago"
+    "time_ago": "71d ago"
   },
   {
     "id": "79af8a04fb57",
@@ -1895,7 +1871,7 @@
     "platform": ".gov",
     "url": "http://jordan.house.gov/media/blog/gop-fbi-refusing-accept-accountability-enforcing-doj-school-boards-memo",
     "published_iso": "2022-02-10T19:37:15+00:00",
-    "time_ago": "1539d ago"
+    "time_ago": "1540d ago"
   },
   {
     "id": "718743804c07",
@@ -1916,6 +1892,6 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about-us/policy-offices/press-office/blog/weekly-trade-focus-apec",
     "published_iso": "2009-07-20T18:28:39+00:00",
-    "time_ago": "6127d ago"
+    "time_ago": "6128d ago"
   }
 ]
