@@ -1,6 +1,6 @@
 [
   {
-    "id": "28a099d07606",
+    "id": "853fe5d1f624",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Alvarez Divo Carlos Eduardo sold 30,728 shares of Expensify, Inc. (EXFY) \u00b7 $1.01/share \u00b7 $31,035 total \u00b7 Apr 30",
+    "content": "Starzak Alissa Michelle received 63,305 shares of Cloudflare, Inc. (NET) \u00b7 Apr 30",
     "tags": [],
     "tickers": [
-      "EXFY"
+      "NET"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2104456/000210445626000010/0002104456-26-000010-index.htm",
-    "published_iso": "2026-04-30T22:35:14+00:00",
-    "time_ago": "just now"
+    "url": "https://www.sec.gov/Archives/edgar/data/2128025/000212802526000003/0002128025-26-000003-index.htm",
+    "published_iso": "2026-04-30T23:27:51+00:00",
+    "time_ago": "5m ago"
   },
   {
-    "id": "41fd7458bfc9",
+    "id": "de9e423441f3",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,21 +30,64 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Patel Sanj K exercised options for 431,904 shares of Kiniksa Pharmaceuticals International, Plc (KNSA) \u00b7 $10.36/share \u00b7 $4,474,525 total \u00b7 Apr 30 ($33,253,888 across all blocks)",
+    "content": "Kettner David Michael received 158,334 shares of Gevo, Inc. (GEVO) \u00b7 Apr 30 ($60,283 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "GEVO"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2131186/000213118626000003/0002131186-26-000003-index.htm",
+    "published_iso": "2026-04-30T23:27:26+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "bb5e0709a713",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "James Kyle Dean received 158,334 shares of Gevo, Inc. (GEVO) \u00b7 Apr 30 ($65,467 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "GEVO"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1444142/000144414226000006/0001444142-26-000006-index.htm",
+    "published_iso": "2026-04-30T23:26:24+00:00",
+    "time_ago": "6m ago"
+  },
+  {
+    "id": "24fe9f79565e",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Petrucci Angela Nicole withheld (tax) 1,329 shares of National Bank Holdings Corp (NBHC) \u00b7 $43.27/share \u00b7 $57,506 total \u00b7 Apr 30",
     "tags": [
-      "Healthcare"
+      "Banking",
+      "Taxes"
     ],
     "tickers": [
-      "KNSA"
+      "NBHC"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1730430/000153221826000006/0001532218-26-000006-index.htm",
-    "published_iso": "2026-04-30T22:33:04+00:00",
-    "time_ago": "3m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1475841/000144308826000008/0001443088-26-000008-index.htm",
+    "published_iso": "2026-04-30T23:22:30+00:00",
+    "time_ago": "10m ago"
   },
   {
-    "id": "1f3fb191b9fe",
+    "id": "202cc702ea1a",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -53,19 +96,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Kim John C. received 18,996 shares of Owlet, Inc. (OWLTW) \u00b7 Apr 30",
+    "content": "Bendheim Jack sold 1,652 shares of Phibro Animal Health Corp (PAHC) \u00b7 $55.10/share \u00b7 $91,019 total \u00b7 Apr 30 ($1,137,593 across all blocks)",
     "tags": [],
     "tickers": [
-      "OWLTW"
+      "PAHC"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1868479/000186847926000002/0001868479-26-000002-index.htm",
-    "published_iso": "2026-04-30T22:31:35+00:00",
-    "time_ago": "4m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1601607/000110465926053249/0001104659-26-053249-index.htm",
+    "published_iso": "2026-04-30T23:20:46+00:00",
+    "time_ago": "12m ago"
   },
   {
-    "id": "678e3b0c6477",
+    "id": "d1676c936e5c",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -74,100 +117,155 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Collins Jonathan R. exercised options for 5,902 shares of Carlisle Companies Inc (CSL) \u00b7 Apr 30",
+    "content": "Aharon Gil received 12,304 shares of Neuraxis, Inc (NRXS) \u00b7 Apr 30 ($0 across all blocks)",
     "tags": [],
     "tickers": [
-      "CSL"
+      "NRXS"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1683884/000168388426000004/0001683884-26-000004-index.htm",
-    "published_iso": "2026-04-30T22:28:40+00:00",
-    "time_ago": "7m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1933567/000149315226020778/0001493152-26-020778-index.htm",
+    "published_iso": "2026-04-30T23:17:50+00:00",
+    "time_ago": "15m ago"
   },
   {
-    "id": "b59ab4d24287",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "33e23f7241c3",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Ryan Patrick G Jr received 5,757 shares of Ryan Specialty Holdings, Inc. (RYAN) \u00b7 Apr 30",
-    "tags": [],
-    "tickers": [
-      "RYAN"
+    "severity": "critical",
+    "content": "Path forward on reconciliation 2.0 steep with challenges. The House took a major step in passing a Senate bipartisan bill to fund most of the Department of Homeland Security (DHS) on Thursday, but the tougher fight over funding for Immigration and Customs Enforcement (ICE) and Border Patrol still lies ahead. Republican",
+    "tags": [
+      "Regulation"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1849253/000114503826000004/0001145038-26-000004-index.htm",
-    "published_iso": "2026-04-30T22:24:38+00:00",
-    "time_ago": "11m ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/house/5858561-funding-ice-border-patrol/",
+    "published_iso": "2026-04-30T23:17:17+00:00",
+    "time_ago": "15m ago"
   },
   {
-    "id": "5da1ac637a65",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "2f44f17548f1",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
     },
-    "severity": "medium",
-    "content": "Rogers John W Jr received 5,757 shares of Ryan Specialty Holdings, Inc. (RYAN) \u00b7 Apr 30",
-    "tags": [],
-    "tickers": [
-      "RYAN"
+    "severity": "critical",
+    "content": "Congressional Bill S. 4465 Signed into Law. On Thursday, April 30, 2026, the President signed into law: S. 4465, which amends the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978, and for other purposes. \n The post  Congressional Bill S. 4465 Signed",
+    "tags": [
+      "Regulation",
+      "Taxes"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1849253/000093888526000008/0000938885-26-000008-index.htm",
-    "published_iso": "2026-04-30T22:23:02+00:00",
-    "time_ago": "13m ago"
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/04/congressional-bill-s-4465-signed-into-law/",
+    "published_iso": "2026-04-30T23:11:18+00:00",
+    "time_ago": "21m ago"
   },
   {
-    "id": "224649176c38",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "8ad64c5dd49c",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Ohalleran Michael D received 5,757 shares of Ryan Specialty Holdings, Inc. (RYAN) \u00b7 Apr 30",
-    "tags": [],
-    "tickers": [
-      "RYAN"
+    "content": "Inflation spiked as Iran war raged. Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  Inflation hit 3.5 percent in March as Iran war drove prices higher Prices grew at a far faster rate in March as the war in Iran drove a significant",
+    "tags": [
+      "Sanctions"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1849253/000102326526000002/0001023265-26-000002-index.htm",
-    "published_iso": "2026-04-30T22:22:05+00:00",
-    "time_ago": "14m ago"
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM",
+      "GLD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/business-economy/5858522-inflation-spiked-as-iran-war-raged/",
+    "published_iso": "2026-04-30T22:42:31+00:00",
+    "time_ago": "50m ago"
   },
   {
-    "id": "68fafc5b4c00",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "e6d439ebf952",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Kuczinski Anthony J received 5,757 shares of Ryan Specialty Holdings, Inc. (RYAN) \u00b7 Apr 30",
+    "content": "Fetterman on Platner after Mills exits Maine Senate race: 'Republicans f\u2011\u2011\u2011ing love him'. Sen. John Fetterman (D-Pa.) made it clear that he\u2019s not thrilled with Graham Platner (D) becoming the presumptive Democratic Senate nominee in Maine, declaring that \u201cRepublicans f\u2011\u2011\u2011ing love him\u201d because of his liberal policy posi",
     "tags": [],
-    "tickers": [
-      "RYAN"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/5858515-maine-democrats-platner-fetterman/",
+    "published_iso": "2026-04-30T22:34:59+00:00",
+    "time_ago": "58m ago"
+  },
+  {
+    "id": "1c1827b0228b",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Trump criticizes New York Times, 'stupid CNN' Iran war coverage. President Trump on Thursday blasted The New York Times and CNN over their coverage of the U.S.-Israeli conflict in Iran, calling the latter outlet \"stupid\" and claiming the former's coverage was \"actually seditious.\" Trump had signed an executive order to",
+    "tags": [
+      "Sanctions"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1976607/000197660726000004/0001976607-26-000004-index.htm",
-    "published_iso": "2026-04-30T22:21:10+00:00",
-    "time_ago": "14m ago"
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5858416-trump-blasts-nyt-cnn-iran/",
+    "published_iso": "2026-04-30T22:29:16+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "bd1e24ba4af2",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Oil briefly hits 4-year high. {beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Brent briefly reaches four-year high Global oil prices surged to a four-year high overnight before retreating somewhat early Thursday as the Strait of Hormuz remains closed, and the prospect of a deal to en",
+    "tags": [
+      "Energy"
+    ],
+    "tickers": [
+      "XOM",
+      "CVX",
+      "COP",
+      "OXY"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/energy-environment/5858505-oil-briefly-hits-4-year-high/",
+    "published_iso": "2026-04-30T22:25:38+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "22f10561d872",
@@ -194,54 +292,6 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/house/5858446-war-powers-resolution-iran/",
     "published_iso": "2026-04-30T22:14:11+00:00",
-    "time_ago": "21m ago"
-  },
-  {
-    "id": "85a5fe85af07",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Senators ban themselves from prediction markets. {beacon} Technology Technology &#8202; The Big Story  Senators ban themselves from prediction markets The Senate unanimously agreed to a resolution Thursday barring its members from trading on prediction markets in the face of growing concerns about insider trading on th",
-    "tags": [
-      "Defense"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/technology/5858435-senators-ban-themselves-from-prediction-markets/",
-    "published_iso": "2026-04-30T21:51:00+00:00",
-    "time_ago": "45m ago"
-  },
-  {
-    "id": "4888fd60c380",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "low",
-    "content": "O'Reilly says he was 'absolutely wrong' to 'cut Kimmel some slack' in the past. Conservative commentator Bill O'Reilly said Wednesday he was \"absolutely wrong\" with his past defense of late-night host Jimmy Kimmel in the wake of remarks the host made before the White House Correspondents' Association dinner shooting. O",
-    "tags": [
-      "Defense",
-      "Regulation"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/media/5858286-oreilly-kimmel-trump-joke/",
-    "published_iso": "2026-04-30T21:33:55+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -263,84 +313,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mkqkev35z22z",
     "published_iso": "2026-04-30T21:24:08.490000+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "b9ed8afb9458",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Cassidy pans Landry for moving forward with Louisiana Senate primary after voting rights decision. Sen. Bill Cassidy (R-La.) said Thursday that Louisiana Gov. Jeff Landry (R) deciding to move forward with the state's Senate primary election next month was \u201cdisappointing.\u201d Landry signed an executive order earlier Thursd",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/5858256-cassidy-louisiana-senate-primary-change/",
-    "published_iso": "2026-04-30T21:22:24+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "4f79c462b927",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Live updates: Hegseth takes heat in Senate; DHS funding bill heads to Trump's desk. Defense Secretary Pete Hegseth was back in the hot seat Thursday, when he faced questions from senators over the ongoing Iran war and President Trump's $1.5 trillion defense budget request a day after similar clashes with House Democrat",
-    "tags": [
-      "Defense",
-      "Regulation",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5855680-58556800-live-updates-pete-hegseth-trump-iran-midterms-house/",
-    "published_iso": "2026-04-30T21:22:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "8c962289afc0",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Pete Hegseth tangles with Senate Democrats: Five takeaways. Defense Secretary Pete Hegseth tangled with Senate Democrats Thursday during his second day of hearings on Capitol Hill, sparring with lawmakers over President Trump\u2019s war with Iran, the Pentagon\u2019s massive $1.5 trillion defense budget request and potentially s",
-    "tags": [
-      "Defense",
-      "Regulation",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/defense/5858325-hegeth-defends-pentagon-budget/",
-    "published_iso": "2026-04-30T21:16:20+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "31e0b1a6447b",
@@ -361,7 +334,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-second-chance-month/",
     "published_iso": "2026-04-30T20:45:06+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "be603e32f6f0",
@@ -382,7 +355,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h155?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T20:43:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "13bce17067db",
@@ -404,7 +377,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/congressional-bill-h-r-7147-signed-into-law/",
     "published_iso": "2026-04-30T20:29:25+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "086b09bd96c1",
@@ -426,7 +399,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-bridger-pipeline-expansion-llc-to-construct-connect-operate-and-maintain-pipeline-facilities-at-the-international-boundary-at-phillips-county-montana-between-the/",
     "published_iso": "2026-04-30T20:08:48+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "a347a1b47e4a",
@@ -447,7 +420,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/national-fallen-firefighters-memorial-weekend-2026/",
     "published_iso": "2026-04-30T20:08:37+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "30a283fd2f94",
@@ -468,7 +441,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/national-foster-care-month-2026/",
     "published_iso": "2026-04-30T20:06:03+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "75bd11bfd1fd",
@@ -489,7 +462,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-promotes-efficiency-accountability-and-performance-in-federal-contracting/",
     "published_iso": "2026-04-30T20:05:03+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "78fed269f67e",
@@ -511,29 +484,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/promoting-retirement-savings-access-for-american-workers-by-establishing-trumpira-gov/",
     "published_iso": "2026-04-30T20:02:23+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "9c3de207fd1b",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "Promoting Efficiency, Accountability, and Performance in Federal Contracting. By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1.\u00a0 Purpose.\u00a0 The American people expect their Government to operate with integrity, efficiency, and tr",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/04/promoting-efficiency-accountability-and-performance-in-federal-contracting/",
-    "published_iso": "2026-04-30T20:02:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "f2db9fcbe8b5",
@@ -554,7 +505,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ambassador-greer-issues-statement-preferential-duty-access-whiskey-produced-united-kingdom",
     "published_iso": "2026-04-30T19:45:13+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "7aadbdb481a1",
@@ -578,7 +529,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ustr-releases-2026-special-301-report-intellectual-property-protection-and-enforcement",
     "published_iso": "2026-04-30T18:26:09+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "8ad62406dfd2",
@@ -597,7 +548,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s113?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T17:59:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "7147b134d63d",
@@ -618,7 +569,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mkq36f25x22i",
     "published_iso": "2026-04-30T16:52:04.228000+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "2f2bea8148dd",
@@ -656,7 +607,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/04/30/louisiana-house-primary-delay-congressional-map-00900005",
     "published_iso": "2026-04-30T15:22:58+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "0c7e6d29da11",
@@ -681,7 +632,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h154?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T15:14:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "b33e40b38cab",
@@ -706,7 +657,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h153?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T15:07:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "4933d476bef0",
@@ -725,7 +676,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h152?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T14:59:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "bf39ff366c00",
@@ -744,7 +695,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h151?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T14:55:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "333acea77cfa",
@@ -763,7 +714,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h150?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T14:52:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "315a1324553c",
@@ -784,7 +735,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/04/30/janet-mills-maine-senate-dropout-00899664",
     "published_iso": "2026-04-30T13:02:56+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "6a07a98250f9",
@@ -805,7 +756,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/30/2026-08484/office-of-the-chief-administrative-hearing-officer-chief-administrative-law-judge",
     "published_iso": "2026-04-30T00:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "afcc45ce36bc",
@@ -827,7 +778,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/30/2026-08464/amendment-of-class-e-airspace-miami-fl",
     "published_iso": "2026-04-30T00:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "4d74d51f28b9",
@@ -848,7 +799,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/30/2026-08438/removal-of-obsolete-references-to-water-carriers-correction",
     "published_iso": "2026-04-30T00:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "b20eff265df3",
@@ -869,7 +820,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/30/2026-08433/review-of-the-commissions-rules-governing-the-896-901935-940-mhz-band-correction",
     "published_iso": "2026-04-30T00:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "ed0a2d7c15d1",
@@ -890,7 +841,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/30/2026-08426/medical-devices-cardiovascular-devices-classification-of-the-laser-powered-inferior-vena-cava-filter",
     "published_iso": "2026-04-30T00:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "cb7e386d4977",
@@ -911,7 +862,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/30/2026-08425/medical-devices-neurological-devices-classification-of-the-brain-temperature-measurement-system",
     "published_iso": "2026-04-30T00:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "9f89857ab589",
@@ -932,7 +883,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/30/2026-08424/medical-devices-radiology-devices-classification-of-the-radiation-therapy-marking-device",
     "published_iso": "2026-04-30T00:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "1670aa922878",
@@ -954,7 +905,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/04/30/2026-08423/radio-broadcasting-services-enterprise-orderville-and-page-utah",
     "published_iso": "2026-04-30T00:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "bcd5c9563556",
@@ -978,7 +929,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/node/14320",
     "published_iso": "2026-04-29T22:47:56+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "43b8ddd4707e",
@@ -1002,7 +953,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/node/14319",
     "published_iso": "2026-04-29T22:46:13+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "1089c7e5c5b0",
@@ -1024,7 +975,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/node/14318",
     "published_iso": "2026-04-29T22:44:48+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "3955fd71dfed",
@@ -1047,7 +998,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/node/14317",
     "published_iso": "2026-04-29T22:41:37+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "9e2c4b53d6cb",
@@ -1744,7 +1695,7 @@
     "platform": ".gov",
     "url": "http://khanna.house.gov/media/ros-op-eds/nation-why-congress-needs-vote-my-bipartisan-war-powers-resolution",
     "published_iso": "2025-07-03T23:07:50+00:00",
-    "time_ago": "300d ago"
+    "time_ago": "301d ago"
   },
   {
     "id": "e0581892e97a",
