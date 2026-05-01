@@ -1,6 +1,6 @@
 [
   {
-    "id": "cf2888b42f55",
+    "id": "a7ec4db395bc",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Keating Ronald C received 1,390 shares of Core Natural Resources, Inc. (CNR) \u00b7 May 1",
+    "content": "Young Tobi M. sold 5,625 shares of Halliburton Co (HAL) \u00b7 $41.72/share \u00b7 $234,675 total \u00b7 May 1 ($255,538 across all blocks)",
     "tags": [],
     "tickers": [
-      "CNR"
+      "HAL"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1710366/000135383826000005/0001353838-26-000005-index.htm",
-    "published_iso": "2026-05-01T15:10:22+00:00",
-    "time_ago": "4m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1914276/000191427626000003/0001914276-26-000003-index.htm",
+    "published_iso": "2026-05-01T16:11:36+00:00",
+    "time_ago": "just now"
   },
   {
-    "id": "a42a5b764e2c",
+    "id": "2542c2ae889f",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -30,7 +30,87 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Trump says US has 'won' Iran war but 'I want to win by a bigger margin'. President Trump said on Thursday that he is not satisfied with the current standing between the U.S. and Iran, amid stalled nuclear deal negotiations between the two countries.\u00a0 \u201cWe\u2019ve already won, but I want to win by a bigger margin,\u201d Trump told",
+    "content": "'May Day Strong' rallies taking place across US: Why are people protesting?. Activists across the country are planning to partake in May Day rallies organized to push back against U.S. policies that they believe are favoring \u201cbillionaires\u201d over families and everyday workers",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/state-watch/5859238-may-day-strong-rallies-taking-place-across-us-why-are-people-protesting/",
+    "published_iso": "2026-05-01T15:47:35+00:00",
+    "time_ago": "24m ago"
+  },
+  {
+    "id": "6e94ba47ea1b",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Texas court pauses The Onion's proposed Infowars takeover. The Texas Third Court of Appeals late Wednesday approved conspiracy theorist Alex Jones's appeal to pause the satirical outlet The Onion from taking over Infowars. The court stayed the turnover order after The Onion reached a deal for a takeover last week. The ",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/regulation/court-battles/5859186-texas-appeals-court-the-onion-infowars-deal-paused/",
+    "published_iso": "2026-05-01T15:46:20+00:00",
+    "time_ago": "25m ago"
+  },
+  {
+    "id": "0d5811d80c05",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Home distilling hits a wall of government overreach and confusion. The federal law prohibiting home distilling is un-American in both its spirit and letter",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/judiciary/5857091-home-distilling-laws-unconstitutional/",
+    "published_iso": "2026-05-01T15:30:00+00:00",
+    "time_ago": "42m ago"
+  },
+  {
+    "id": "92b951e337dd",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Not rocket science: Extreme political rhetoric eventually has consequences. Cole Allen, a Caltech graduate, is accused of attempting to assassinate President Trump, and his actions may be attributed to the heated rhetoric used in modern political life, which can lower the psychological barrier to violence",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/white-house/5857896-trump-rhetoric-impact-violence/",
+    "published_iso": "2026-05-01T15:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "66b421f0fec3",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Trump says US has 'won' Iran war, but 'I want to win by a bigger margin'. President Trump said Thursday that he is not satisfied with the current standing between the U.S. and Iran, amid stalled nuclear deal negotiations between the two countries.\u00a0 \u201cWe\u2019ve already won, but I want to win by a bigger margin,\u201d Trump told N",
     "tags": [
       "Sanctions"
     ],
@@ -43,7 +123,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/administration/5859157-donald-trump-iran-war-won-margin/",
     "published_iso": "2026-05-01T14:53:30+00:00",
-    "time_ago": "21m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "2056d3c5bedc",
@@ -55,62 +135,15 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Judge rejects Trump administration pause on immigration applications. A federal judge in Massachusetts on Thursday determined that President Trump\u2019s halt on processing immigration applications for citizens of countries listed under his travel ban, granting an injunction on a policy she determined was unfairly leaving t",
-    "tags": [],
+    "content": "Judge rejects Trump administration pause on immigration applications. A federal judge in Massachusetts on Thursday determined that President Trump\u2019s halt on processing immigration applications for citizens of countries listed under his travel ban was unlawful, granting an injunction on a policy she determined was unfai",
+    "tags": [
+      "Regulation"
+    ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/administration/5859141-judge-blocks-trump-administration-pause-immigration-applications/",
     "published_iso": "2026-05-01T14:45:38+00:00",
-    "time_ago": "28m ago"
-  },
-  {
-    "id": "abf53db249c5",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Biden makes first endorsement of 2026 midterm cycle. Former President Biden dropped his first endorsement of the 2026 midterm cycle on Friday morning, backing former Atlanta Mayor Keisha Lance Bottoms in the Georgia governor\u2019s race.\u00a0 Lance Bottoms made a surprise decision not to run for reelection as mayor in 2021 and ",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/5859136-biden-endorses-georgia-governor/",
-    "published_iso": "2026-05-01T14:39:57+00:00",
-    "time_ago": "34m ago"
-  },
-  {
-    "id": "dfceacbbd22c",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Live updates: Iran war clock hits 60 days; Trump signs bill funding most of DHS. Friday marks 60 days since President Trump officially notified Congress of the U.S. military's operations in Iran. Democrats and some Republicans have voiced concerns about the conflict if it exceeds the 60-day threshold \u2014 the time limit c",
-    "tags": [
-      "Defense",
-      "Regulation",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/",
-    "published_iso": "2026-05-01T14:06:14+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -130,7 +163,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/05/01/effective-governing-coalition-conference-00902454",
     "published_iso": "2026-05-01T13:11:36+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "44b3c3140230",
@@ -149,7 +182,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/gallery/2026/05/01/the-nations-cartoonists-on-the-week-in-politics-00901977",
     "published_iso": "2026-05-01T09:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "1b67546b05f2",
@@ -171,7 +204,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08564/modification-of-class-e-airspace-nenana-municipal-airport-nenana-ak",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "314eb93c50c3",
@@ -193,7 +226,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08556/reimagining-and-improving-student-education-federal-student-loan-program-final-regulations",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "18b572fc5175",
@@ -215,7 +248,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08545/section-6435-payments-refunds-for-previously-taxed-dyed-fuel",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "66e4a57ebd9e",
@@ -237,7 +270,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08544/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "4a46246b0e08",
@@ -258,7 +291,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08535/state-of-wyoming-discontinuance-of-certain-commission-regulatory-authority-within-the-state-notice",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "925f5579b1fd",
@@ -279,7 +312,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08533/pacific-halibut-fisheries-of-the-west-coast-2026-catch-sharing-plan-and-recreational-fishery",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "89d2cf4dfbbc",
@@ -303,7 +336,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08517/schedules-of-controlled-substances-placement-of-4f-mdmb-butica-adb-4en-pinaca-5f-edmb-pica-and",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "2f44f17548f1",
@@ -325,7 +358,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/congressional-bill-s-4465-signed-into-law/",
     "published_iso": "2026-04-30T23:11:18+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "776e217a3172",
@@ -346,7 +379,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mkqkev35z22z",
     "published_iso": "2026-04-30T21:24:08.490000+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "31e0b1a6447b",
@@ -367,7 +400,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-second-chance-month/",
     "published_iso": "2026-04-30T20:45:06+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "be603e32f6f0",
@@ -388,7 +421,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h155?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T20:43:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "13bce17067db",
@@ -410,7 +443,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/congressional-bill-h-r-7147-signed-into-law/",
     "published_iso": "2026-04-30T20:29:25+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "086b09bd96c1",
@@ -432,7 +465,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-bridger-pipeline-expansion-llc-to-construct-connect-operate-and-maintain-pipeline-facilities-at-the-international-boundary-at-phillips-county-montana-between-the/",
     "published_iso": "2026-04-30T20:08:48+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "a347a1b47e4a",
@@ -453,7 +486,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/national-fallen-firefighters-memorial-weekend-2026/",
     "published_iso": "2026-04-30T20:08:37+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "30a283fd2f94",
@@ -474,7 +507,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/national-foster-care-month-2026/",
     "published_iso": "2026-04-30T20:06:03+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "75bd11bfd1fd",
@@ -495,7 +528,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-promotes-efficiency-accountability-and-performance-in-federal-contracting/",
     "published_iso": "2026-04-30T20:05:03+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "78fed269f67e",
@@ -517,7 +550,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/promoting-retirement-savings-access-for-american-workers-by-establishing-trumpira-gov/",
     "published_iso": "2026-04-30T20:02:23+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "f2db9fcbe8b5",
@@ -538,7 +571,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ambassador-greer-issues-statement-preferential-duty-access-whiskey-produced-united-kingdom",
     "published_iso": "2026-04-30T19:45:13+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "7aadbdb481a1",
@@ -562,7 +595,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ustr-releases-2026-special-301-report-intellectual-property-protection-and-enforcement",
     "published_iso": "2026-04-30T18:26:09+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "8ad62406dfd2",
@@ -581,7 +614,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s113?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T17:59:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "7147b134d63d",
@@ -602,7 +635,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mkq36f25x22i",
     "published_iso": "2026-04-30T16:52:04.228000+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "2f2bea8148dd",
@@ -621,7 +654,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s112?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T15:36:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "0bceec165186",
@@ -640,7 +673,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/04/30/louisiana-house-primary-delay-congressional-map-00900005",
     "published_iso": "2026-04-30T15:22:58+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "0c7e6d29da11",
@@ -949,7 +982,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mkniaudrhc2g",
     "published_iso": "2026-04-29T16:08:06.792000+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "8b771b00c0f2",
@@ -968,7 +1001,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mkniaud7us2g",
     "published_iso": "2026-04-29T16:08:06.791000+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "85725ec05e0b",
@@ -1081,7 +1114,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "c81c6c9123fc",
@@ -1319,7 +1352,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "65d ago"
+    "time_ago": "66d ago"
   },
   {
     "id": "344041549951",
@@ -1473,7 +1506,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266276-2/",
     "published_iso": "2026-01-07T15:48:25+00:00",
-    "time_ago": "113d ago"
+    "time_ago": "114d ago"
   },
   {
     "id": "a2647cb5ac95",
