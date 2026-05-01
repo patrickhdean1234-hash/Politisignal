@@ -1,6 +1,6 @@
 [
   {
-    "id": "a7ec4db395bc",
+    "id": "175fb32e5202",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Young Tobi M. sold 5,625 shares of Halliburton Co (HAL) \u00b7 $41.72/share \u00b7 $234,675 total \u00b7 May 1 ($255,538 across all blocks)",
+    "content": "Turner Christopher Lee sold 250 shares of Yum Brands Inc (YUM) \u00b7 $160.48/share \u00b7 $40,120 total \u00b7 May 1",
     "tags": [],
     "tickers": [
-      "HAL"
+      "YUM"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1914276/000191427626000003/0001914276-26-000003-index.htm",
-    "published_iso": "2026-05-01T16:11:36+00:00",
-    "time_ago": "just now"
+    "url": "https://www.sec.gov/Archives/edgar/data/1783787/000104106126000113/0001041061-26-000113-index.htm",
+    "published_iso": "2026-05-01T17:11:02+00:00",
+    "time_ago": "3m ago"
   },
   {
-    "id": "2542c2ae889f",
+    "id": "7b3f07fc22d2",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -30,19 +30,23 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "'May Day Strong' rallies taking place across US: Why are people protesting?. Activists across the country are planning to partake in May Day rallies organized to push back against U.S. policies that they believe are favoring \u201cbillionaires\u201d over families and everyday workers",
+    "content": "Republican reconciliation bill should index capital gains to inflation. House Republicans should pass a budget package that indexes capital gains to inflation, which would help small businesses and ordinary Americans preserve their assets while turbocharging the economy",
     "tags": [
       "Regulation"
     ],
-    "tickers": [],
+    "tickers": [
+      "GLD",
+      "TLT",
+      "SPY"
+    ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/state-watch/5859238-may-day-strong-rallies-taking-place-across-us-why-are-people-protesting/",
-    "published_iso": "2026-05-01T15:47:35+00:00",
-    "time_ago": "24m ago"
+    "url": "https://thehill.com/opinion/finance/5858315-indexing-capital-gains-inflation/",
+    "published_iso": "2026-05-01T17:00:00+00:00",
+    "time_ago": "14m ago"
   },
   {
-    "id": "6e94ba47ea1b",
+    "id": "13dafb8cb89b",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -50,18 +54,18 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "high",
-    "content": "Texas court pauses The Onion's proposed Infowars takeover. The Texas Third Court of Appeals late Wednesday approved conspiracy theorist Alex Jones's appeal to pause the satirical outlet The Onion from taking over Infowars. The court stayed the turnover order after The Onion reached a deal for a takeover last week. The ",
+    "severity": "critical",
+    "content": "Who is eligible for Trump's new order expanding retirement benefits?. A new executive order signed by President Trump on Thursday expands retirement benefits for employees without employer-provided benefits through the upcoming launch of TrumpIRA.gov. Eligible workers will be able to enroll in private-sector retirement",
     "tags": [],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/regulation/court-battles/5859186-texas-appeals-court-the-onion-infowars-deal-paused/",
-    "published_iso": "2026-05-01T15:46:20+00:00",
-    "time_ago": "25m ago"
+    "url": "https://thehill.com/business/5859308-savers-match-program-benefits/",
+    "published_iso": "2026-05-01T16:52:51+00:00",
+    "time_ago": "21m ago"
   },
   {
-    "id": "0d5811d80c05",
+    "id": "f0956e07f572",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -70,47 +74,7 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Home distilling hits a wall of government overreach and confusion. The federal law prohibiting home distilling is un-American in both its spirit and letter",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/judiciary/5857091-home-distilling-laws-unconstitutional/",
-    "published_iso": "2026-05-01T15:30:00+00:00",
-    "time_ago": "42m ago"
-  },
-  {
-    "id": "92b951e337dd",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Not rocket science: Extreme political rhetoric eventually has consequences. Cole Allen, a Caltech graduate, is accused of attempting to assassinate President Trump, and his actions may be attributed to the heated rhetoric used in modern political life, which can lower the psychological barrier to violence",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/white-house/5857896-trump-rhetoric-impact-violence/",
-    "published_iso": "2026-05-01T15:00:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "66b421f0fec3",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Trump says US has 'won' Iran war, but 'I want to win by a bigger margin'. President Trump said Thursday that he is not satisfied with the current standing between the U.S. and Iran, amid stalled nuclear deal negotiations between the two countries.\u00a0 \u201cWe\u2019ve already won, but I want to win by a bigger margin,\u201d Trump told N",
+    "content": "Hegseth hearing ignites battle over who holds the power to wage war. While officials say talks with Iran are progressing behind closed doors, publicly, it looks like a stalemate with a ticking clock",
     "tags": [
       "Sanctions"
     ],
@@ -121,12 +85,31 @@
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5859157-donald-trump-iran-war-won-margin/",
-    "published_iso": "2026-05-01T14:53:30+00:00",
-    "time_ago": "1h ago"
+    "url": "https://thehill.com/opinion/lindseys-lens/5859446-hegseth-war-congress-disconnect/",
+    "published_iso": "2026-05-01T16:41:07+00:00",
+    "time_ago": "33m ago"
   },
   {
-    "id": "2056d3c5bedc",
+    "id": "02abafd2060b",
+    "politician": "Politico",
+    "initials": "PO",
+    "role": "Political News",
+    "color": {
+      "bg": "#1a0a0a",
+      "fg": "#fca5a5"
+    },
+    "severity": "medium",
+    "content": "Georgia won\u2019t redraw congressional map ahead of midterms, Kemp says. The Georgia governor said it\u2019s too late to act on the recent Supreme Court ruling, with voting already underway, but signaled changes for 2028",
+    "tags": [],
+    "tickers": [],
+    "source": "politico",
+    "platform": "Politico",
+    "url": "https://www.politico.com/news/2026/05/01/georgia-congressional-map-brian-kemp-00902674",
+    "published_iso": "2026-05-01T16:34:42+00:00",
+    "time_ago": "39m ago"
+  },
+  {
+    "id": "368e4c54ccbe",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -135,15 +118,86 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Judge rejects Trump administration pause on immigration applications. A federal judge in Massachusetts on Thursday determined that President Trump\u2019s halt on processing immigration applications for citizens of countries listed under his travel ban was unlawful, granting an injunction on a policy she determined was unfai",
+    "content": "Live updates: Iran war clock hits 60 days; Trump raises EU auto tariffs. Friday marks 60 days since President Trump officially notified Congress of the U.S. military's operations in Iran. Lawmakers on both sides of the aisle have voiced concerns about the conflict exceeding the time limit covered by the War Powers Act,",
+    "tags": [
+      "Trade",
+      "Defense",
+      "Regulation",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/",
+    "published_iso": "2026-05-01T16:32:36+00:00",
+    "time_ago": "41m ago"
+  },
+  {
+    "id": "1aa520d8348c",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "low",
+    "content": "A multi-state lawsuit threatens disabled rights. Trump\u2019s remarks don\u2019t help.. Americans must resist this dangerous attempt to undercut foundational disability rights laws",
     "tags": [
       "Regulation"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5859141-judge-blocks-trump-administration-pause-immigration-applications/",
-    "published_iso": "2026-05-01T14:45:38+00:00",
+    "url": "https://thehill.com/opinion/civil-rights/5858288-disability-rights-under-threat/",
+    "published_iso": "2026-05-01T16:30:00+00:00",
+    "time_ago": "44m ago"
+  },
+  {
+    "id": "266db2601f19",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "FDA names new director for vaccines, biologics unit. The Food and Drug Administration (FDA) has named Katherine Szarama to be the acting director of the unit in charge of regulating vaccines and other biological products for human use. An official for the Department of Health and Human Services (HHS) confirmed to The H",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/healthcare/5859341-fda-new-director-vaccines-biologics-unit/",
+    "published_iso": "2026-05-01T16:27:24+00:00",
+    "time_ago": "46m ago"
+  },
+  {
+    "id": "df2921b57ecd",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Trump to impose tariffs on cars, trucks from European Union. President Trump announced Friday he is increasing tariffs on the European Union, accusing the bloc of not complying with its trade deal with the U.S. In a Truth Social post, Trump said that starting next week, he will increase the tariffs on cars and trucks c",
+    "tags": [
+      "Trade"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5859376-trump-increases-eu-tariffs/",
+    "published_iso": "2026-05-01T16:14:00+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -163,7 +217,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/05/01/effective-governing-coalition-conference-00902454",
     "published_iso": "2026-05-01T13:11:36+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "44b3c3140230",
@@ -182,7 +236,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/gallery/2026/05/01/the-nations-cartoonists-on-the-week-in-politics-00901977",
     "published_iso": "2026-05-01T09:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "1b67546b05f2",
@@ -204,7 +258,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08564/modification-of-class-e-airspace-nenana-municipal-airport-nenana-ak",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "314eb93c50c3",
@@ -226,7 +280,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08556/reimagining-and-improving-student-education-federal-student-loan-program-final-regulations",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "18b572fc5175",
@@ -248,7 +302,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08545/section-6435-payments-refunds-for-previously-taxed-dyed-fuel",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "66e4a57ebd9e",
@@ -270,7 +324,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08544/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "4a46246b0e08",
@@ -291,7 +345,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08535/state-of-wyoming-discontinuance-of-certain-commission-regulatory-authority-within-the-state-notice",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "925f5579b1fd",
@@ -312,7 +366,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08533/pacific-halibut-fisheries-of-the-west-coast-2026-catch-sharing-plan-and-recreational-fishery",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "89d2cf4dfbbc",
@@ -336,7 +390,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08517/schedules-of-controlled-substances-placement-of-4f-mdmb-butica-adb-4en-pinaca-5f-edmb-pica-and",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "2f44f17548f1",
@@ -358,7 +412,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/congressional-bill-s-4465-signed-into-law/",
     "published_iso": "2026-04-30T23:11:18+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "776e217a3172",
@@ -379,7 +433,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mkqkev35z22z",
     "published_iso": "2026-04-30T21:24:08.490000+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "31e0b1a6447b",
@@ -400,7 +454,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-second-chance-month/",
     "published_iso": "2026-04-30T20:45:06+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "be603e32f6f0",
@@ -421,7 +475,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h155?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T20:43:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "13bce17067db",
@@ -443,7 +497,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/congressional-bill-h-r-7147-signed-into-law/",
     "published_iso": "2026-04-30T20:29:25+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "086b09bd96c1",
@@ -465,7 +519,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-bridger-pipeline-expansion-llc-to-construct-connect-operate-and-maintain-pipeline-facilities-at-the-international-boundary-at-phillips-county-montana-between-the/",
     "published_iso": "2026-04-30T20:08:48+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "a347a1b47e4a",
@@ -486,7 +540,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/national-fallen-firefighters-memorial-weekend-2026/",
     "published_iso": "2026-04-30T20:08:37+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "30a283fd2f94",
@@ -507,7 +561,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/national-foster-care-month-2026/",
     "published_iso": "2026-04-30T20:06:03+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "75bd11bfd1fd",
@@ -528,7 +582,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-promotes-efficiency-accountability-and-performance-in-federal-contracting/",
     "published_iso": "2026-04-30T20:05:03+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "78fed269f67e",
@@ -550,7 +604,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/promoting-retirement-savings-access-for-american-workers-by-establishing-trumpira-gov/",
     "published_iso": "2026-04-30T20:02:23+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "f2db9fcbe8b5",
@@ -571,7 +625,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ambassador-greer-issues-statement-preferential-duty-access-whiskey-produced-united-kingdom",
     "published_iso": "2026-04-30T19:45:13+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "7aadbdb481a1",
@@ -595,7 +649,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ustr-releases-2026-special-301-report-intellectual-property-protection-and-enforcement",
     "published_iso": "2026-04-30T18:26:09+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "8ad62406dfd2",
@@ -614,7 +668,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s113?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T17:59:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "7147b134d63d",
@@ -635,7 +689,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mkq36f25x22i",
     "published_iso": "2026-04-30T16:52:04.228000+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "2f2bea8148dd",
@@ -963,7 +1017,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mknlrsfodc2v",
     "published_iso": "2026-04-29T17:11:16.425000+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "d0d2a8184021",
@@ -1240,7 +1294,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/icymi-lummis-op-ed-in-washington-post-a-broken-system-is-costing-america-trillions-i-see-it-in-wyoming/",
     "published_iso": "2026-04-08T16:14:36+00:00",
-    "time_ago": "22d ago"
+    "time_ago": "23d ago"
   },
   {
     "id": "a2c0abfa69cc",
@@ -1436,7 +1490,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meetings-in-sheldon-bristol-and-poultney/",
     "published_iso": "2026-01-29T16:27:05+00:00",
-    "time_ago": "91d ago"
+    "time_ago": "92d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1462,7 +1516,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "98d ago"
+    "time_ago": "99d ago"
   },
   {
     "id": "d39ac85b9cc9",
