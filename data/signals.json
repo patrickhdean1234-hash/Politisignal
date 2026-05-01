@@ -1,32 +1,74 @@
 [
   {
-    "id": "6daaa6c2d384",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "b6cc20e57372",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
     },
-    "severity": "high",
-    "content": "New proposal could legalize killing more animals. The Department of Agriculture has proposed increasing line speeds in slaughterhouses to reduce food costs, but this would result in more animals being killed in potentially inhumane conditions, highlighting a moral wrongdoing on American soil",
+    "severity": "critical",
+    "content": "Poillon Diane disposed of 14,285 shares of Linkbancorp, Inc. (LNKB) \u00b7 May 1",
     "tags": [
       "Energy",
-      "Agriculture"
+      "Insider Trade"
     ],
     "tickers": [
-      "CORN",
-      "SOYB",
-      "DE"
+      "LNKB"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/congress-blog/the-administration/5858831-moral-wrongdoing-slaughterhouse-speeds/",
-    "published_iso": "2026-05-01T17:30:00+00:00",
-    "time_ago": "42m ago"
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1945031/000143774926014440/0001437749-26-014440-index.htm",
+    "published_iso": "2026-05-01T19:38:50+00:00",
+    "time_ago": "just now"
   },
   {
-    "id": "a6e192943236",
+    "id": "60f089d4b2d6",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Blakely Caroline received 18,879 shares of Ares Commercial Real Estate Corp (ACRE) \u00b7 May 1",
+    "tags": [],
+    "tickers": [
+      "ACRE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1600619/000162828026029287/0001628280-26-029287-index.htm",
+    "published_iso": "2026-05-01T19:37:34+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "b34aabfe38ff",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Parmer George disposed of 40,000 shares of Linkbancorp, Inc. (LNKB) \u00b7 May 1 ($0 across all blocks)",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "LNKB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1756701/000143774926014439/0001437749-26-014439-index.htm",
+    "published_iso": "2026-05-01T19:35:42+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "2402c590a559",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -34,15 +76,153 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "high",
-    "content": "Trump says White House looking at Spirit Airlines deal. President Trump on Friday said the White House is looking at a deal to rescue Spirit Airlines amid reports that talks between the government and the carrier have fallen apart. \u201cI guess we\u2019re looking at it,\u201d Trump told reporters at the White House. \u201cIf we could do,",
+    "severity": "medium",
+    "content": "Ex-Florida GOP lawmaker convicted of secretly lobbying for Venezuela. A Miami federal jury on Friday convicted former Florida Rep. David Rivera (R) with conspiracy and other crimes tied to a multi-million lobbying campaign on behalf of the Venezuelan government.\u00a0 Rivera and his consultant Esther Nuhfer were found guilt",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/regulation/court-battles/5859781-rivera-nuhfer-fara-guilty-verdict/",
+    "published_iso": "2026-05-01T19:11:35+00:00",
+    "time_ago": "27m ago"
+  },
+  {
+    "id": "84c1e2f5e0cd",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Mullin defends WHCA dinner security perimeter, Secret Service \u2018performed their job\u2019. Homeland Security Secretary Markwayne Mullin on Friday defended the Secret Service\u2019s response to the shooting at the White House Correspondents Association (WHCA) dinner last Saturday, saying agents \u201cperformed their job\u201d by preventing ",
     "tags": [],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5859559-spirit-airlines-financial-troubles/",
-    "published_iso": "2026-05-01T17:29:13+00:00",
-    "time_ago": "43m ago"
+    "url": "https://thehill.com/homenews/administration/5859777-mullin-praises-secret-service-response/",
+    "published_iso": "2026-05-01T18:59:36+00:00",
+    "time_ago": "39m ago"
+  },
+  {
+    "id": "1d2e06df9443",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Mark Cuban warns these 5 job categories are at risk due to AI. Cuban said the shift is already underway, driven by companies weighing the cost and productivity of AI systems against human labor",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/5859651-mark-cuban-artificial-intelligence-jobs/",
+    "published_iso": "2026-05-01T18:48:27+00:00",
+    "time_ago": "51m ago"
+  },
+  {
+    "id": "3491e1f9550c",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Live updates: Trump tells Congress Iran ceasefire stopped 60-day clock, calls War Powers Act unconstitutional. President Trump formally informed Congress in a letter Friday that the ongoing ceasefire with Iran extended the timeline between the start of the war and the 60-day deadline invoked by the War Powers Act. Frid",
+    "tags": [
+      "Defense",
+      "Regulation",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/",
+    "published_iso": "2026-05-01T18:48:00+00:00",
+    "time_ago": "51m ago"
+  },
+  {
+    "id": "a14dc094e482",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Treasury Department tells US ships not to pay Hormuz tolls to Iran. The Treasury Department on Friday warned U.S. shippers that they could face sanctions if they have been found paying Iranian tolls to gain access through the Strait of Hormuz. The department's Office of Foreign Assets Control (OFAC) released an advisor",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5859643-us-iran-toll-sanctions/",
+    "published_iso": "2026-05-01T18:45:06+00:00",
+    "time_ago": "54m ago"
+  },
+  {
+    "id": "29b09d2079bf",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Trump formally tells Congress Iran ceasefire counts against 60-day deadline. President Trump formally informed Congress in a letter Friday that the ongoing ceasefire with Iran extended the timeline between the start of the war and the 60-day deadline invoked by the War Powers Act.  \u201cOn April 7, 2026, I ordered a 2-week",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5859668-war-powers-act-trump/",
+    "published_iso": "2026-05-01T18:40:27+00:00",
+    "time_ago": "59m ago"
+  },
+  {
+    "id": "95a9115f55c9",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "low",
+    "content": "Watch live: Trump seeks to sell economic agenda in speech to seniors. President Trump will give remarks Friday afternoon to seniors in Florida as part of an effort to sell his economic agenda ahead of the 2026 midterm elections. His trip to The Villages \u2014 one of the nation's most prominent retirement communities \u2014 will",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/video-clips/5859666-trump-florida-senior-remarks/",
+    "published_iso": "2026-05-01T18:23:00+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "3d76286d0264",
@@ -64,7 +244,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-imposes-sanctions-on-cuban-regime-officials-responsible-for-repression-and-threats-to-u-s-national-security-and-foreign-policy/",
     "published_iso": "2026-05-01T17:24:16+00:00",
-    "time_ago": "48m ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "20e3fd2e8725",
@@ -87,76 +267,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/05/imposing-sanctions-on-those-responsible-for-repression-in-cuba-and-for-threats-to-united-states-national-security-and-foreign-policy/",
     "published_iso": "2026-05-01T17:22:39+00:00",
-    "time_ago": "50m ago"
-  },
-  {
-    "id": "7b3f07fc22d2",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Republican reconciliation bill should index capital gains to inflation. House Republicans should pass a budget package that indexes capital gains to inflation, which would help small businesses and ordinary Americans preserve their assets while turbocharging the economy",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/finance/5858315-indexing-capital-gains-inflation/",
-    "published_iso": "2026-05-01T17:00:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "13dafb8cb89b",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Who is eligible for Trump's new order expanding retirement benefits?. A new executive order signed by President Trump on Thursday expands retirement benefits for employees without employer-provided benefits through the upcoming launch of TrumpIRA.gov. Eligible workers will be able to enroll in private-sector retirement",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/5859308-savers-match-program-benefits/",
-    "published_iso": "2026-05-01T16:52:51+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "f0956e07f572",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Hegseth hearing ignites battle over who holds the power to wage war. While officials say talks with Iran are progressing behind closed doors, publicly, it looks like a stalemate with a ticking clock",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/lindseys-lens/5859446-hegseth-war-congress-disconnect/",
-    "published_iso": "2026-05-01T16:41:07+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "02abafd2060b",
@@ -175,36 +286,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/05/01/georgia-congressional-map-brian-kemp-00902674",
     "published_iso": "2026-05-01T16:34:42+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "368e4c54ccbe",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Live updates: Iran war clock hits 60 days; Trump raises EU auto tariffs. Friday marks 60 days since President Trump officially notified Congress of the U.S. military's operations in Iran. Lawmakers on both sides of the aisle have voiced concerns about the conflict exceeding the time limit covered by the War Powers Act,",
-    "tags": [
-      "Trade",
-      "Defense",
-      "Regulation",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/",
-    "published_iso": "2026-05-01T16:32:36+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "0d19c8ac6653",
@@ -223,7 +305,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/05/01/effective-governing-coalition-conference-00902454",
     "published_iso": "2026-05-01T13:11:36+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "44b3c3140230",
@@ -242,7 +324,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/gallery/2026/05/01/the-nations-cartoonists-on-the-week-in-politics-00901977",
     "published_iso": "2026-05-01T09:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "1b67546b05f2",
@@ -264,7 +346,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08564/modification-of-class-e-airspace-nenana-municipal-airport-nenana-ak",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "314eb93c50c3",
@@ -286,7 +368,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08556/reimagining-and-improving-student-education-federal-student-loan-program-final-regulations",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "18b572fc5175",
@@ -308,7 +390,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08545/section-6435-payments-refunds-for-previously-taxed-dyed-fuel",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "66e4a57ebd9e",
@@ -330,7 +412,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08544/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "4a46246b0e08",
@@ -351,7 +433,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08535/state-of-wyoming-discontinuance-of-certain-commission-regulatory-authority-within-the-state-notice",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "925f5579b1fd",
@@ -372,7 +454,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08533/pacific-halibut-fisheries-of-the-west-coast-2026-catch-sharing-plan-and-recreational-fishery",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "89d2cf4dfbbc",
@@ -396,7 +478,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08517/schedules-of-controlled-substances-placement-of-4f-mdmb-butica-adb-4en-pinaca-5f-edmb-pica-and",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "2f44f17548f1",
@@ -418,7 +500,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/congressional-bill-s-4465-signed-into-law/",
     "published_iso": "2026-04-30T23:11:18+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "776e217a3172",
@@ -439,7 +521,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mkqkev35z22z",
     "published_iso": "2026-04-30T21:24:08.490000+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "31e0b1a6447b",
@@ -460,7 +542,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-second-chance-month/",
     "published_iso": "2026-04-30T20:45:06+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "be603e32f6f0",
@@ -481,7 +563,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h155?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T20:43:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "13bce17067db",
@@ -503,7 +585,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/congressional-bill-h-r-7147-signed-into-law/",
     "published_iso": "2026-04-30T20:29:25+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "086b09bd96c1",
@@ -525,7 +607,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-bridger-pipeline-expansion-llc-to-construct-connect-operate-and-maintain-pipeline-facilities-at-the-international-boundary-at-phillips-county-montana-between-the/",
     "published_iso": "2026-04-30T20:08:48+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "a347a1b47e4a",
@@ -546,7 +628,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/national-fallen-firefighters-memorial-weekend-2026/",
     "published_iso": "2026-04-30T20:08:37+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "30a283fd2f94",
@@ -567,7 +649,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/national-foster-care-month-2026/",
     "published_iso": "2026-04-30T20:06:03+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "f2db9fcbe8b5",
@@ -588,7 +670,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ambassador-greer-issues-statement-preferential-duty-access-whiskey-produced-united-kingdom",
     "published_iso": "2026-04-30T19:45:13+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "7aadbdb481a1",
@@ -612,7 +694,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ustr-releases-2026-special-301-report-intellectual-property-protection-and-enforcement",
     "published_iso": "2026-04-30T18:26:09+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "8ad62406dfd2",
@@ -1109,7 +1191,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mkiqyrneos2u",
     "published_iso": "2026-04-27T19:01:20.528000+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "0047e3ab5b67",
@@ -1183,7 +1265,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mjkle76hac25",
     "published_iso": "2026-04-15T19:00:28.593534+00:00",
-    "time_ago": "15d ago"
+    "time_ago": "16d ago"
   },
   {
     "id": "d773df1a1b2c",
@@ -1281,7 +1363,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-introduces-legislation-to-codify-trumps-nuclear-baseload-energy-executive-orders/",
     "published_iso": "2026-03-26T18:12:45+00:00",
-    "time_ago": "35d ago"
+    "time_ago": "36d ago"
   },
   {
     "id": "42002aa36a3f",
@@ -1324,7 +1406,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/news-sanders-welch-balint-statement-on-recent-ice-raids-in-south-burlington/",
     "published_iso": "2026-03-12T18:51:43+00:00",
-    "time_ago": "49d ago"
+    "time_ago": "50d ago"
   },
   {
     "id": "3c2b4ad7a11c",
@@ -1409,7 +1491,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/aoc.bsky.social/post/3mfhthlg3u22x",
     "published_iso": "2026-02-22T19:06:46.919000+00:00",
-    "time_ago": "67d ago"
+    "time_ago": "68d ago"
   },
   {
     "id": "602146d3f751",
@@ -1431,7 +1513,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-announces-2026-service-academy-nominations/",
     "published_iso": "2026-02-18T19:38:51+00:00",
-    "time_ago": "71d ago"
+    "time_ago": "72d ago"
   },
   {
     "id": "79af8a04fb57",
@@ -1780,7 +1862,7 @@
     "platform": ".gov",
     "url": "http://jordan.house.gov/media/blog/gop-fbi-refusing-accept-accountability-enforcing-doj-school-boards-memo",
     "published_iso": "2022-02-10T19:37:15+00:00",
-    "time_ago": "1540d ago"
+    "time_ago": "1541d ago"
   },
   {
     "id": "718743804c07",
@@ -1801,6 +1883,6 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about-us/policy-offices/press-office/blog/weekly-trade-focus-apec",
     "published_iso": "2009-07-20T18:28:39+00:00",
-    "time_ago": "6128d ago"
+    "time_ago": "6129d ago"
   }
 ]
