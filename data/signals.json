@@ -1,24 +1,93 @@
 [
   {
-    "id": "175fb32e5202",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "6daaa6c2d384",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Turner Christopher Lee sold 250 shares of Yum Brands Inc (YUM) \u00b7 $160.48/share \u00b7 $40,120 total \u00b7 May 1",
-    "tags": [],
-    "tickers": [
-      "YUM"
+    "severity": "high",
+    "content": "New proposal could legalize killing more animals. The Department of Agriculture has proposed increasing line speeds in slaughterhouses to reduce food costs, but this would result in more animals being killed in potentially inhumane conditions, highlighting a moral wrongdoing on American soil",
+    "tags": [
+      "Energy",
+      "Agriculture"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1783787/000104106126000113/0001041061-26-000113-index.htm",
-    "published_iso": "2026-05-01T17:11:02+00:00",
-    "time_ago": "3m ago"
+    "tickers": [
+      "CORN",
+      "SOYB",
+      "DE"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/congress-blog/the-administration/5858831-moral-wrongdoing-slaughterhouse-speeds/",
+    "published_iso": "2026-05-01T17:30:00+00:00",
+    "time_ago": "42m ago"
+  },
+  {
+    "id": "a6e192943236",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Trump says White House looking at Spirit Airlines deal. President Trump on Friday said the White House is looking at a deal to rescue Spirit Airlines amid reports that talks between the government and the carrier have fallen apart. \u201cI guess we\u2019re looking at it,\u201d Trump told reporters at the White House. \u201cIf we could do,",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5859559-spirit-airlines-financial-troubles/",
+    "published_iso": "2026-05-01T17:29:13+00:00",
+    "time_ago": "43m ago"
+  },
+  {
+    "id": "3d76286d0264",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "critical",
+    "content": "Fact Sheet: President Donald J. Trump Imposes Sanctions on Cuban Regime Officials Responsible for Repression and Threats to U.S. National Security and Foreign Policy. IMPOSING SANCTIONS ON THE CUBAN REGIME: Today, President Donald J. Trump signed an Executive Order imposing new sanctions on the Cuban regime, protecting",
+    "tags": [
+      "Taxes",
+      "Sanctions"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-imposes-sanctions-on-cuban-regime-officials-responsible-for-repression-and-threats-to-u-s-national-security-and-foreign-policy/",
+    "published_iso": "2026-05-01T17:24:16+00:00",
+    "time_ago": "48m ago"
+  },
+  {
+    "id": "20e3fd2e8725",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "critical",
+    "content": "Imposing Sanctions on Those Responsible for Repression in Cuba and for Threats to United States National Security and Foreign Policy. By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency Economic Powers Act (50&#160;U.S.C. 170",
+    "tags": [
+      "Regulation",
+      "Taxes",
+      "Sanctions"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/05/imposing-sanctions-on-those-responsible-for-repression-in-cuba-and-for-threats-to-united-states-national-security-and-foreign-policy/",
+    "published_iso": "2026-05-01T17:22:39+00:00",
+    "time_ago": "50m ago"
   },
   {
     "id": "7b3f07fc22d2",
@@ -43,7 +112,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/opinion/finance/5858315-indexing-capital-gains-inflation/",
     "published_iso": "2026-05-01T17:00:00+00:00",
-    "time_ago": "14m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "13dafb8cb89b",
@@ -62,7 +131,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/business/5859308-savers-match-program-benefits/",
     "published_iso": "2026-05-01T16:52:51+00:00",
-    "time_ago": "21m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "f0956e07f572",
@@ -87,7 +156,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/opinion/lindseys-lens/5859446-hegseth-war-congress-disconnect/",
     "published_iso": "2026-05-01T16:41:07+00:00",
-    "time_ago": "33m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "02abafd2060b",
@@ -106,7 +175,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/05/01/georgia-congressional-map-brian-kemp-00902674",
     "published_iso": "2026-05-01T16:34:42+00:00",
-    "time_ago": "39m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "368e4c54ccbe",
@@ -135,69 +204,6 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/administration/5858291-live-updates-donald-trump-iran-war-clock-dhs-funding-midterms/",
     "published_iso": "2026-05-01T16:32:36+00:00",
-    "time_ago": "41m ago"
-  },
-  {
-    "id": "1aa520d8348c",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "low",
-    "content": "A multi-state lawsuit threatens disabled rights. Trump\u2019s remarks don\u2019t help.. Americans must resist this dangerous attempt to undercut foundational disability rights laws",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/civil-rights/5858288-disability-rights-under-threat/",
-    "published_iso": "2026-05-01T16:30:00+00:00",
-    "time_ago": "44m ago"
-  },
-  {
-    "id": "266db2601f19",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "FDA names new director for vaccines, biologics unit. The Food and Drug Administration (FDA) has named Katherine Szarama to be the acting director of the unit in charge of regulating vaccines and other biological products for human use. An official for the Department of Health and Human Services (HHS) confirmed to The H",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/healthcare/5859341-fda-new-director-vaccines-biologics-unit/",
-    "published_iso": "2026-05-01T16:27:24+00:00",
-    "time_ago": "46m ago"
-  },
-  {
-    "id": "df2921b57ecd",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Trump to impose tariffs on cars, trucks from European Union. President Trump announced Friday he is increasing tariffs on the European Union, accusing the bloc of not complying with its trade deal with the U.S. In a Truth Social post, Trump said that starting next week, he will increase the tariffs on cars and trucks c",
-    "tags": [
-      "Trade"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5859376-trump-increases-eu-tariffs/",
-    "published_iso": "2026-05-01T16:14:00+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -217,7 +223,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/05/01/effective-governing-coalition-conference-00902454",
     "published_iso": "2026-05-01T13:11:36+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "44b3c3140230",
@@ -236,7 +242,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/gallery/2026/05/01/the-nations-cartoonists-on-the-week-in-politics-00901977",
     "published_iso": "2026-05-01T09:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "1b67546b05f2",
@@ -258,7 +264,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08564/modification-of-class-e-airspace-nenana-municipal-airport-nenana-ak",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "314eb93c50c3",
@@ -280,7 +286,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08556/reimagining-and-improving-student-education-federal-student-loan-program-final-regulations",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "18b572fc5175",
@@ -302,7 +308,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08545/section-6435-payments-refunds-for-previously-taxed-dyed-fuel",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "66e4a57ebd9e",
@@ -324,7 +330,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08544/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "4a46246b0e08",
@@ -345,7 +351,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08535/state-of-wyoming-discontinuance-of-certain-commission-regulatory-authority-within-the-state-notice",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "925f5579b1fd",
@@ -366,7 +372,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08533/pacific-halibut-fisheries-of-the-west-coast-2026-catch-sharing-plan-and-recreational-fishery",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "89d2cf4dfbbc",
@@ -390,7 +396,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08517/schedules-of-controlled-substances-placement-of-4f-mdmb-butica-adb-4en-pinaca-5f-edmb-pica-and",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "2f44f17548f1",
@@ -412,7 +418,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/congressional-bill-s-4465-signed-into-law/",
     "published_iso": "2026-04-30T23:11:18+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "776e217a3172",
@@ -433,7 +439,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mkqkev35z22z",
     "published_iso": "2026-04-30T21:24:08.490000+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "31e0b1a6447b",
@@ -454,7 +460,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-second-chance-month/",
     "published_iso": "2026-04-30T20:45:06+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "be603e32f6f0",
@@ -475,7 +481,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h155?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T20:43:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "13bce17067db",
@@ -497,7 +503,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/04/congressional-bill-h-r-7147-signed-into-law/",
     "published_iso": "2026-04-30T20:29:25+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "086b09bd96c1",
@@ -519,7 +525,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-bridger-pipeline-expansion-llc-to-construct-connect-operate-and-maintain-pipeline-facilities-at-the-international-boundary-at-phillips-county-montana-between-the/",
     "published_iso": "2026-04-30T20:08:48+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "a347a1b47e4a",
@@ -540,7 +546,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/national-fallen-firefighters-memorial-weekend-2026/",
     "published_iso": "2026-04-30T20:08:37+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "30a283fd2f94",
@@ -561,50 +567,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/04/national-foster-care-month-2026/",
     "published_iso": "2026-04-30T20:06:03+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "75bd11bfd1fd",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "Fact Sheet: President Donald J. Trump Promotes Efficiency, Accountability, and Performance in Federal Contracting. MAXIMIZING PERFORMANCE IN FEDERAL CONTRACTS: Today, President Donald J. Trump signed an Executive Order directing that agencies maximize use of fixed-price and performance-based contracts that drive timely",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-promotes-efficiency-accountability-and-performance-in-federal-contracting/",
-    "published_iso": "2026-04-30T20:05:03+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "78fed269f67e",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "Promoting Retirement-Savings Access for American Workers by Establishing TrumpIRA.gov. By the authority vested in me as President by the Constitution and the laws of the United States of America, and to ensure that every American worker has access to a simple, portable, low-cost retirement-savings option, it is hereby ",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/04/promoting-retirement-savings-access-for-american-workers-by-establishing-trumpira-gov/",
-    "published_iso": "2026-04-30T20:02:23+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "f2db9fcbe8b5",
@@ -625,7 +588,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ambassador-greer-issues-statement-preferential-duty-access-whiskey-produced-united-kingdom",
     "published_iso": "2026-04-30T19:45:13+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "7aadbdb481a1",
@@ -649,7 +612,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ustr-releases-2026-special-301-report-intellectual-property-protection-and-enforcement",
     "published_iso": "2026-04-30T18:26:09+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "8ad62406dfd2",
@@ -668,7 +631,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s113?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T17:59:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "7147b134d63d",
@@ -1191,7 +1154,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-led-fences-act-clears-u-s-house/",
     "published_iso": "2026-04-16T18:07:32+00:00",
-    "time_ago": "14d ago"
+    "time_ago": "15d ago"
   },
   {
     "id": "987e63291ad4",
@@ -1243,7 +1206,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-cruz-file-amicus-brief-backing-trump-administrations-push-to-repeal-endangerment-finding/",
     "published_iso": "2026-04-15T17:31:26+00:00",
-    "time_ago": "15d ago"
+    "time_ago": "16d ago"
   },
   {
     "id": "7e97dd57aa17",
