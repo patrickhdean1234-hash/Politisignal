@@ -1,5 +1,99 @@
 [
   {
+    "id": "fadd19bfb6ef",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Watch live: Trump participates in small business summit. President Trump on Monday afternoon is expected to participate in a small business summit at the White House. It comes one day after he said that the U.S. will assist in freeing ships in the Strait of Hormuz, a key waterway for the oil industry, which has been cl",
+    "tags": [
+      "Energy",
+      "Sanctions"
+    ],
+    "tickers": [
+      "XOM",
+      "CVX",
+      "COP",
+      "OXY"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5861858-president-trump-small-business/",
+    "published_iso": "2026-05-04T12:51:50+00:00",
+    "time_ago": "7m ago"
+  },
+  {
+    "id": "1d939387daf5",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Keilaf Omer David acquired/disposed 723,019 shares of Innoviz Technologies Ltd. (INVZ) \u00b7 May 4",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "INVZ"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1964231/000117891326002357/0001178913-26-002357-index.htm",
+    "published_iso": "2026-05-04T12:49:42+00:00",
+    "time_ago": "9m ago"
+  },
+  {
+    "id": "20bbb4e708b4",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "The Iran War has real political risks \u2014 but don\u2019t ignore its strategic payoff. Recent developments suggest the long-term strategic impact of the war may improve sentiment in the long term",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/international/5860066-iran-war-middle-east/",
+    "published_iso": "2026-05-04T12:30:00+00:00",
+    "time_ago": "28m ago"
+  },
+  {
+    "id": "a39b8a4caaed",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "The birthright citizenship case affects Puerto Rico, too. As policymakers reconsider the scope of birthright citizenship, Puerto Rico exemplifies how territorial ambiguity can obscure constitutional lines and complicate national policy",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/immigration/5859349-puerto-rico-sovereignty-birthright-citizenship/",
+    "published_iso": "2026-05-04T11:30:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "23d25aa26af6",
     "politician": "The Hill",
     "initials": "TH",
@@ -18,53 +112,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/business/personal-finance/5861842-weaker-dollar-impact-consumers/",
     "published_iso": "2026-05-04T10:42:03+00:00",
-    "time_ago": "34m ago"
-  },
-  {
-    "id": "8cd891ac689b",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Where House, Senate battles stand six months out. In today\u2019s issue:  Democrats are feeling increasingly bullish about their prospects for the midterm elections with less than six months remaining before voters head to the polls.  History is on their side, as the party out of power has typically gained seats in Congress",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/morning-report/5861844-midterm-battleground-six-months/",
-    "published_iso": "2026-05-04T10:23:15+00:00",
-    "time_ago": "53m ago"
-  },
-  {
-    "id": "342384fbebef",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Crypto fight at center of FISA extension poised to escalate. A bid by hard-line conservatives to pass a measure banning the Federal Reserve from issuing a central bank digital currency (CBDC) fell short, but the fight is only poised to escalate as both chambers revisit another extension of the Foreign Intelligence Surv",
-    "tags": [
-      "Crypto",
-      "Banking"
-    ],
-    "tickers": [
-      "BTC",
-      "ETH",
-      "COIN",
-      "XRP"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/5859873-crypto-fight-at-center-of-fisa-extension-poised-to-escalate/",
-    "published_iso": "2026-05-04T10:00:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "4bbc63a01960",
@@ -85,47 +133,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/05/04/jonathan-greenberger-global-editor-in-chief-00902558",
     "published_iso": "2026-05-04T04:01:00+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "9b79f64112d4",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "NTSB to investigate United plane that struck pole on NJ Turnpike. The National Transportation Safety Board (NTSB) on Sunday said it will investigate a United Airlines plane that struck a pole on the New Jersey Turnpike. \u201cThe National Transportation Safety Board has launched an investigation into Sunday\u2019s incident invol",
-    "tags": [],
-    "tickers": [
-      "UAL"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/transportation/5861703-united-airlines-plane-strikes-pole/",
-    "published_iso": "2026-05-04T01:36:31+00:00",
-    "time_ago": "9h ago"
-  },
-  {
-    "id": "3c9c84c48968",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "low",
-    "content": "Trump goes after Jeffries after Supreme Court voting rights comments: 'Isn't he subject to Impeachment?'. President Trump went after House Minority Leader Hakeem Jeffries (D-N.Y.) over a comment he made following a recent Supreme Court decision on the Voting Rights Act. \u201cHakeem Jeffries, a Low IQ individual, said our S",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5861681-trump-jeffries-impeachment-supreme-court/",
-    "published_iso": "2026-05-04T00:25:46+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "1154e9f55c3b",
@@ -146,7 +154,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08645/establishment-of-class-d-and-class-e-airspace-ceiba-pr",
     "published_iso": "2026-05-04T00:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "a1b384a564c2",
@@ -167,7 +175,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08632/safety-standard-for-full-size-baby-cribs",
     "published_iso": "2026-05-04T00:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "040f140934c5",
@@ -188,7 +196,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08622/amending-the-department-of-commerces-regulations-implementing-the-havana-act",
     "published_iso": "2026-05-04T00:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "569075c9a5ca",
@@ -209,7 +217,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08613/treatment-of-income-from-indian-fishing-rights-related-activity-as-compensation",
     "published_iso": "2026-05-04T00:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "93bf79d3d59b",
@@ -230,7 +238,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08595/specific-listing-for-hexahydrocannabinol-a-currently-controlled-schedule-i-substance",
     "published_iso": "2026-05-04T00:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "0b9ed5691336",
@@ -251,7 +259,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08580/removal-of-standard-of-identity-for-canned-tripe-with-milk",
     "published_iso": "2026-05-04T00:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "5df27a65c1c3",
@@ -272,7 +280,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-small-business-week/",
     "published_iso": "2026-05-03T23:19:15+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "740c31e4afa4",
@@ -293,7 +301,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-hurricane-preparedness-week/",
     "published_iso": "2026-05-03T23:17:59+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "fcab79d8b3a6",
