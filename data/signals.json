@@ -1,27 +1,6 @@
 [
   {
-    "id": "0c973413f1d5",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Corre Stephane sold 5,000 shares of Constellium Se (CSTM) \u00b7 $32.04/share \u00b7 $160,200 total \u00b7 May 4",
-    "tags": [],
-    "tickers": [
-      "CSTM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2098782/000156341126000159/0001563411-26-000159-index.htm",
-    "published_iso": "2026-05-04T15:08:10+00:00",
-    "time_ago": "4m ago"
-  },
-  {
-    "id": "277dabf9a381",
+    "id": "86d3d2a30972",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -29,18 +8,51 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "high",
-    "content": "Democrat backs Jeffries after Trump call for impeachment: 'Called it like it was'. Rep. Adriano Espaillat (D-N.Y.) on Sunday backed up House Minority Leader Hakeem Jeffries (D-N.Y.) after President Trump said Jeffries\u00a0should be impeached for criticizing the Supreme Court\u2019s ruling on the Voting Rights Act. On Wednesday,",
-    "tags": [],
-    "tickers": [],
+    "severity": "medium",
+    "content": "Live updates: US Navy aids vessels through Strait of Hormuz; Florida's new map becomes law. Iran cautioned Monday it would not allow any movement through the Strait of Hormuz, hours after President Trump said Sunday the U.S. will assist in freeing ships trapped in the waterway since the war between the nations began. I",
+    "tags": [
+      "Regulation",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5862132-hakeem-jeffries-adriano-espaillat-trump-impeachment/",
-    "published_iso": "2026-05-04T14:53:37+00:00",
-    "time_ago": "18m ago"
+    "url": "https://thehill.com/homenews/administration/5861237-live-updates-donald-trump-iran/",
+    "published_iso": "2026-05-04T16:33:02+00:00",
+    "time_ago": "28m ago"
   },
   {
-    "id": "e5923a02a0b5",
+    "id": "f09b9eeb784b",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "If Kim Jong Un can have nukes, why can't Iran?. History underscores the paradox of allowing a nuclear North Korea and denying Iran similar weapons",
+    "tags": [
+      "Defense",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/national-security/5860146-trump-kim-iran-nuclear/",
+    "published_iso": "2026-05-04T16:30:00+00:00",
+    "time_ago": "32m ago"
+  },
+  {
+    "id": "d081cb306d86",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -49,57 +61,19 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Schumer: House, White House must ban prediction markets bets. Senate Democratic Leader Chuck Schumer (N.Y.) is calling on the House and White House to follow the Senate\u2019s lead and ban government officials from placing bets on prediction markets, which he says poses a serious national security risk. The Democratic leade",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5862159-chuck-schumer-bets-national-security-risk/",
-    "published_iso": "2026-05-04T14:49:23+00:00",
-    "time_ago": "23m ago"
-  },
-  {
-    "id": "0f3a2b54498f",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Southern Poverty Law Center's wrongful indictment corrupts policy and history. Whatever this Justice Department is devoted to, other than submission to Trump\u2019s whims, it is not the rule of law",
+    "content": "DeSantis signs new GOP-favored House map into law. Florida Gov. Ron DeSantis (R) said Monday that he signed into law a new set of congressional lines that could net his party up to four House seats in November. The governor's signature caps off a fast-tracked redistricting special session, which marked Republicans' las",
     "tags": [
       "Regulation"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/criminal-justice/5859948-splc-trump-justice-department-corruption/",
-    "published_iso": "2026-05-04T14:30:00+00:00",
-    "time_ago": "42m ago"
+    "url": "https://thehill.com/homenews/campaign/5855827-florida-redistricting-desantis-law/",
+    "published_iso": "2026-05-04T16:25:43+00:00",
+    "time_ago": "36m ago"
   },
   {
-    "id": "a25555bbae34",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Spirit says most customers refunded after shutdown. Spirit Airlines said Sunday that most of its customers had received refunds for their flights after the airline\u2019s shutdown. The airline told Reuters it was close to finishing passengers\u2019 refunds in the wake of ending operations. On Saturday, Spirit announced that it s",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/5862025-spirit-airlines-shutdown-refunds/",
-    "published_iso": "2026-05-04T14:18:44+00:00",
-    "time_ago": "53m ago"
-  },
-  {
-    "id": "d14c6b35d952",
+    "id": "5ffd9d4fbdaa",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -108,15 +82,76 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Trump: Van Jones 'should be ashamed of himself'. President Trump on Monday said CNN political analyst Van Jones should be \u201cashamed of himself\u201d for referring to him as a dictator on air after the two worked together for criminal justice reform in his first administration. \u201cI liked some of the people he was with, agreed ",
+    "content": "UAE reports first missile, drone attack since Iran ceasefire. The United Arab Emirates (UAE) reported missile and drone launches over its airspace on Monday, the first attacks from Tehran since the U.S.-Iran ceasefire went into effect last month.\u00a0 The UAE Defense Ministry\u00a0said\u00a0Iran fired four cruise missiles. Three wer",
     "tags": [
-      "Taxes"
+      "Defense",
+      "Taxes",
+      "Sanctions"
     ],
-    "tickers": [],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5862007-trump-jones-first-step-act/",
-    "published_iso": "2026-05-04T13:56:06+00:00",
+    "url": "https://thehill.com/policy/international/5862340-uae-reports-first-missile-drone-attack-since-iran-ceasefire/",
+    "published_iso": "2026-05-04T16:20:02+00:00",
+    "time_ago": "41m ago"
+  },
+  {
+    "id": "49081b3279cc",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "2 US cargo ships have crossed Strait of Hormuz, military says. The U.S. military said Monday two cargo ships have passed through the Strait of Hormuz as the Trump administration seeks to regain control of the critical shipping waterway.  U.S. Central Command confirmed the transit of the two vessels and said Navy guided",
+    "tags": [
+      "Defense"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5862288-us-cargo-ships-strait-hormuz/",
+    "published_iso": "2026-05-04T16:09:42+00:00",
+    "time_ago": "52m ago"
+  },
+  {
+    "id": "01e4b9d244c5",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Trump and Meloni's transatlantic divorce is important. Italian Prime Minister Giorgia Meloni has publicly distanced herself from President Trump, criticizing his military actions in Iran and declining to participate in mine sweeping operations in the Strait of Hormuz, due to the unpopularity of Trump and his policies i",
+    "tags": [
+      "Trade",
+      "Defense",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/5861466-rift-us-europe-allies/",
+    "published_iso": "2026-05-04T16:00:00+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -138,7 +173,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/may/public-hearings-regarding-section-301-investigations-relating-structural-excess-capacity",
     "published_iso": "2026-05-04T13:54:17+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "4bbc63a01960",
@@ -159,7 +194,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/05/04/jonathan-greenberger-global-editor-in-chief-00902558",
     "published_iso": "2026-05-04T04:01:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "1154e9f55c3b",
@@ -180,7 +215,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08645/establishment-of-class-d-and-class-e-airspace-ceiba-pr",
     "published_iso": "2026-05-04T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "a1b384a564c2",
@@ -201,7 +236,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08632/safety-standard-for-full-size-baby-cribs",
     "published_iso": "2026-05-04T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "040f140934c5",
@@ -222,7 +257,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08622/amending-the-department-of-commerces-regulations-implementing-the-havana-act",
     "published_iso": "2026-05-04T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "569075c9a5ca",
@@ -243,7 +278,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08613/treatment-of-income-from-indian-fishing-rights-related-activity-as-compensation",
     "published_iso": "2026-05-04T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "93bf79d3d59b",
@@ -264,7 +299,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08595/specific-listing-for-hexahydrocannabinol-a-currently-controlled-schedule-i-substance",
     "published_iso": "2026-05-04T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "0b9ed5691336",
@@ -285,7 +320,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08580/removal-of-standard-of-identity-for-canned-tripe-with-milk",
     "published_iso": "2026-05-04T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "5df27a65c1c3",
@@ -306,7 +341,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-small-business-week/",
     "published_iso": "2026-05-03T23:19:15+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "740c31e4afa4",
@@ -327,7 +362,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-hurricane-preparedness-week/",
     "published_iso": "2026-05-03T23:17:59+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "fcab79d8b3a6",
@@ -394,7 +429,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mkuyx54fo22i",
     "published_iso": "2026-05-02T15:55:32.240000+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "6d4d9a7060a1",
@@ -550,7 +585,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/05/01/georgia-congressional-map-brian-kemp-00902674",
     "published_iso": "2026-05-01T16:34:42+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "1b67546b05f2",
@@ -719,7 +754,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s112?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T15:36:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "0c7e6d29da11",
@@ -744,7 +779,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h154?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T15:14:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "b33e40b38cab",
@@ -973,7 +1008,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mkniaudrhc2g",
     "published_iso": "2026-04-29T16:08:06.792000+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "85725ec05e0b",
@@ -1061,7 +1096,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "c81c6c9123fc",
@@ -1187,7 +1222,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/icymi-lummis-op-ed-in-washington-post-a-broken-system-is-costing-america-trillions-i-see-it-in-wyoming/",
     "published_iso": "2026-04-08T16:14:36+00:00",
-    "time_ago": "25d ago"
+    "time_ago": "26d ago"
   },
   {
     "id": "a2c0abfa69cc",
@@ -1299,7 +1334,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "68d ago"
+    "time_ago": "69d ago"
   },
   {
     "id": "344041549951",
@@ -1383,7 +1418,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meetings-in-sheldon-bristol-and-poultney/",
     "published_iso": "2026-01-29T16:27:05+00:00",
-    "time_ago": "94d ago"
+    "time_ago": "95d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1453,7 +1488,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266276-2/",
     "published_iso": "2026-01-07T15:48:25+00:00",
-    "time_ago": "116d ago"
+    "time_ago": "117d ago"
   },
   {
     "id": "a2647cb5ac95",
