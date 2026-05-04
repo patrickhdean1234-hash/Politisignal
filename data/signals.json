@@ -1,6 +1,86 @@
 [
   {
-    "id": "86d3d2a30972",
+    "id": "e0e7e91e43f0",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Volkswagen Ag bought 62,889,522 shares of Rivian Automotive, Inc. / De (RIVN) \u00b7 $15.90/share \u00b7 $999,943,400 total \u00b7 May 4",
+    "tags": [],
+    "tickers": [
+      "RIVN"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2076446/000110465926054722/0001104659-26-054722-index.htm",
+    "published_iso": "2026-05-04T18:21:42+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "005a0e1a8edf",
+    "politician": "Politico",
+    "initials": "PO",
+    "role": "Political News",
+    "color": {
+      "bg": "#1a0a0a",
+      "fg": "#fca5a5"
+    },
+    "severity": "high",
+    "content": "Republicans' youth voter problem. A new national poll of 1,000 young Americans finds deep discontent over the economy and signs of a base problem for Republicans",
+    "tags": [],
+    "tickers": [],
+    "source": "politico",
+    "platform": "Politico",
+    "url": "https://www.politico.com/news/2026/05/04/young-voters-midterms-trump-00905296",
+    "published_iso": "2026-05-04T18:20:06+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "7c83c01313ac",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "New Responses from Education, Treasury Departments Reveal Trump Admin Cannot Justify Attempts to Dismantle Education Department. New Responses from Education, Treasury Departments Reveal Trump Admin Cannot Justify Attempts to Dismantle Education Department",
+    "tags": [],
+    "tickers": [],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "http://www.warren.senate.gov/newsroom/press-releases/new-responses-from-education-treasury-departments-reveal-trump-admin-cannot-justify-attempts-to-dismantle-education-department",
+    "published_iso": "2026-05-04T18:00:00+00:00",
+    "time_ago": "24m ago"
+  },
+  {
+    "id": "08db44a8e1b7",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "President Trump Celebrates Small Business Revival During National Small Business Week. \u201cWe are a nation of builders again thanks to President Trump\u2019s historic wins for Main Street, and I\u2019m honored to mark National Small Business Week alongside him and the job creators who fuel our local communities \u2014 particularly as Am",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/05/president-trump-celebrates-small-business-revival-during-national-small-business-week/",
+    "published_iso": "2026-05-04T17:35:22+00:00",
+    "time_ago": "49m ago"
+  },
+  {
+    "id": "3f54e27100de",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,71 +89,19 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Live updates: US Navy aids vessels through Strait of Hormuz; Florida's new map becomes law. Iran cautioned Monday it would not allow any movement through the Strait of Hormuz, hours after President Trump said Sunday the U.S. will assist in freeing ships trapped in the waterway since the war between the nations began. I",
+    "content": "Collaboration is the key to ending online exploitation. Meta is committed to creating safer online experiences for teens by providing parents with tools and resources, such as Teen Accounts, supervision tools, and collaboration with experts to create awareness campaigns, while also working with other tech companies to ",
     "tags": [
-      "Regulation",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5861237-live-updates-donald-trump-iran/",
-    "published_iso": "2026-05-04T16:33:02+00:00",
-    "time_ago": "28m ago"
-  },
-  {
-    "id": "f09b9eeb784b",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "If Kim Jong Un can have nukes, why can't Iran?. History underscores the paradox of allowing a nuclear North Korea and denying Iran similar weapons",
-    "tags": [
-      "Defense",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/national-security/5860146-trump-kim-iran-nuclear/",
-    "published_iso": "2026-05-04T16:30:00+00:00",
-    "time_ago": "32m ago"
-  },
-  {
-    "id": "d081cb306d86",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "DeSantis signs new GOP-favored House map into law. Florida Gov. Ron DeSantis (R) said Monday that he signed into law a new set of congressional lines that could net his party up to four House seats in November. The governor's signature caps off a fast-tracked redistricting special session, which marked Republicans' las",
-    "tags": [
-      "Regulation"
+      "Big Tech"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/5855827-florida-redistricting-desantis-law/",
-    "published_iso": "2026-05-04T16:25:43+00:00",
-    "time_ago": "36m ago"
+    "url": "https://thehill.com/opinion/technology/5861593-navigating-teens-internet-safety/",
+    "published_iso": "2026-05-04T17:30:00+00:00",
+    "time_ago": "54m ago"
   },
   {
-    "id": "5ffd9d4fbdaa",
+    "id": "dad92387e0da",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -82,52 +110,24 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "UAE reports first missile, drone attack since Iran ceasefire. The United Arab Emirates (UAE) reported missile and drone launches over its airspace on Monday, the first attacks from Tehran since the U.S.-Iran ceasefire went into effect last month.\u00a0 The UAE Defense Ministry\u00a0said\u00a0Iran fired four cruise missiles. Three wer",
+    "content": "Trump family crypto firm sues billionaire investor Justin Sun for defamation. World Liberty Financial, the Trump family's cryptocurrency company, is suing billionaire investor Justin Sun for defamation after he accused the firm of improperly freezing his tokens. In a lawsuit filed Monday, the company argued that Sun en",
     "tags": [
-      "Defense",
-      "Taxes",
-      "Sanctions"
+      "Crypto",
+      "Regulation"
     ],
     "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
+      "BTC",
+      "ETH",
+      "COIN"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/international/5862340-uae-reports-first-missile-drone-attack-since-iran-ceasefire/",
-    "published_iso": "2026-05-04T16:20:02+00:00",
-    "time_ago": "41m ago"
+    "url": "https://thehill.com/policy/technology/5862424-trump-family-crypto-sues-sun/",
+    "published_iso": "2026-05-04T17:29:03+00:00",
+    "time_ago": "55m ago"
   },
   {
-    "id": "49081b3279cc",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "2 US cargo ships have crossed Strait of Hormuz, military says. The U.S. military said Monday two cargo ships have passed through the Strait of Hormuz as the Trump administration seeks to regain control of the critical shipping waterway.  U.S. Central Command confirmed the transit of the two vessels and said Navy guided",
-    "tags": [
-      "Defense"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5862288-us-cargo-ships-strait-hormuz/",
-    "published_iso": "2026-05-04T16:09:42+00:00",
-    "time_ago": "52m ago"
-  },
-  {
-    "id": "01e4b9d244c5",
+    "id": "831c26166c64",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -136,22 +136,32 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Trump and Meloni's transatlantic divorce is important. Italian Prime Minister Giorgia Meloni has publicly distanced herself from President Trump, criticizing his military actions in Iran and declining to participate in mine sweeping operations in the Strait of Hormuz, due to the unpopularity of Trump and his policies i",
-    "tags": [
-      "Trade",
-      "Defense",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
+    "content": "Spirit Airlines is dead \u2014 thanks a lot, Elizabeth Warren!. After all,\u00a0it\u2019s\u00a0what progressives wanted, isn\u2019t it?",
+    "tags": [],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/5861466-rift-us-europe-allies/",
-    "published_iso": "2026-05-04T16:00:00+00:00",
+    "url": "https://thehill.com/opinion/robbys-radar/5862448-spirit-airlines-is-dead-thanks-a-lot-elizabeth-warren/",
+    "published_iso": "2026-05-04T17:12:40+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "5ad93ee86880",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Special interests are moving into prediction markets, and it's a problem. Institutional hedges\u00a0move prices. Campaigns read those prices as momentum. Journalists cite them as forecasts. Donors discover that moving a market is cheaper than running\u00a0ads \u2014 and pays dividends if they\u2019re right",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/campaign/5859843-prediction-markets-political-risk/",
+    "published_iso": "2026-05-04T17:00:00+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -173,7 +183,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/may/public-hearings-regarding-section-301-investigations-relating-structural-excess-capacity",
     "published_iso": "2026-05-04T13:54:17+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "4bbc63a01960",
@@ -194,7 +204,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/05/04/jonathan-greenberger-global-editor-in-chief-00902558",
     "published_iso": "2026-05-04T04:01:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "1154e9f55c3b",
@@ -215,7 +225,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08645/establishment-of-class-d-and-class-e-airspace-ceiba-pr",
     "published_iso": "2026-05-04T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "a1b384a564c2",
@@ -236,7 +246,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08632/safety-standard-for-full-size-baby-cribs",
     "published_iso": "2026-05-04T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "040f140934c5",
@@ -257,7 +267,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08622/amending-the-department-of-commerces-regulations-implementing-the-havana-act",
     "published_iso": "2026-05-04T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "569075c9a5ca",
@@ -278,7 +288,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08613/treatment-of-income-from-indian-fishing-rights-related-activity-as-compensation",
     "published_iso": "2026-05-04T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "93bf79d3d59b",
@@ -299,7 +309,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08595/specific-listing-for-hexahydrocannabinol-a-currently-controlled-schedule-i-substance",
     "published_iso": "2026-05-04T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "0b9ed5691336",
@@ -320,7 +330,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08580/removal-of-standard-of-identity-for-canned-tripe-with-milk",
     "published_iso": "2026-05-04T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "5df27a65c1c3",
@@ -341,7 +351,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-small-business-week/",
     "published_iso": "2026-05-03T23:19:15+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "740c31e4afa4",
@@ -362,7 +372,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-hurricane-preparedness-week/",
     "published_iso": "2026-05-03T23:17:59+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "fcab79d8b3a6",
@@ -543,7 +553,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-imposes-sanctions-on-cuban-regime-officials-responsible-for-repression-and-threats-to-u-s-national-security-and-foreign-policy/",
     "published_iso": "2026-05-01T17:24:16+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "20e3fd2e8725",
@@ -566,25 +576,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/05/imposing-sanctions-on-those-responsible-for-repression-in-cuba-and-for-threats-to-united-states-national-security-and-foreign-policy/",
     "published_iso": "2026-05-01T17:22:39+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "02abafd2060b",
-    "politician": "Politico",
-    "initials": "PO",
-    "role": "Political News",
-    "color": {
-      "bg": "#1a0a0a",
-      "fg": "#fca5a5"
-    },
-    "severity": "medium",
-    "content": "Georgia won\u2019t redraw congressional map ahead of midterms, Kemp says. The Georgia governor said it\u2019s too late to act on the recent Supreme Court ruling, with voting already underway, but signaled changes for 2028",
-    "tags": [],
-    "tickers": [],
-    "source": "politico",
-    "platform": "Politico",
-    "url": "https://www.politico.com/news/2026/05/01/georgia-congressional-map-brian-kemp-00902674",
-    "published_iso": "2026-05-01T16:34:42+00:00",
     "time_ago": "3d ago"
   },
   {
@@ -607,28 +598,6 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08564/modification-of-class-e-airspace-nenana-municipal-airport-nenana-ak",
     "published_iso": "2026-05-01T00:00:00+00:00",
-    "time_ago": "3d ago"
-  },
-  {
-    "id": "2f44f17548f1",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "Congressional Bill S. 4465 Signed into Law. On Thursday, April 30, 2026, the President signed into law: S. 4465, which amends the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978, and for other purposes. \n The post  Congressional Bill S. 4465 Signed",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/briefings-statements/2026/04/congressional-bill-s-4465-signed-into-law/",
-    "published_iso": "2026-04-30T23:11:18+00:00",
     "time_ago": "3d ago"
   },
   {
@@ -735,7 +704,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s113?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T17:59:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "2f2bea8148dd",
@@ -989,7 +958,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mknlrsfodc2v",
     "published_iso": "2026-04-29T17:11:16.425000+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "d0d2a8184021",
@@ -1119,7 +1088,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-led-fences-act-clears-u-s-house/",
     "published_iso": "2026-04-16T18:07:32+00:00",
-    "time_ago": "17d ago"
+    "time_ago": "18d ago"
   },
   {
     "id": "987e63291ad4",
@@ -1171,7 +1140,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-cruz-file-amicus-brief-backing-trump-administrations-push-to-repeal-endangerment-finding/",
     "published_iso": "2026-04-15T17:31:26+00:00",
-    "time_ago": "18d ago"
+    "time_ago": "19d ago"
   },
   {
     "id": "7e97dd57aa17",
@@ -1246,7 +1215,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-introduces-legislation-to-codify-trumps-nuclear-baseload-energy-executive-orders/",
     "published_iso": "2026-03-26T18:12:45+00:00",
-    "time_ago": "38d ago"
+    "time_ago": "39d ago"
   },
   {
     "id": "42002aa36a3f",
@@ -1444,7 +1413,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "101d ago"
+    "time_ago": "102d ago"
   },
   {
     "id": "d39ac85b9cc9",
