@@ -1,5 +1,119 @@
 [
   {
+    "id": "b3bb8aa86dff",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Devanur Giri received 13,323 shares of Realpha Tech Corp. (AIRE) \u00b7 May 4",
+    "tags": [],
+    "tickers": [
+      "AIRE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1859199/000121390026051710/0001213900-26-051710-index.htm",
+    "published_iso": "2026-05-04T21:15:46+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "664f966407cf",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Stice J Michael received 2,580 shares of Mplx Lp (MPLXP) \u00b7 May 4",
+    "tags": [],
+    "tickers": [
+      "MPLXP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1552000/000119312526204339/0001193125-26-204339-index.htm",
+    "published_iso": "2026-05-04T21:15:24+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "1f809fb86ab9",
+    "politician": "U.S. Trade Rep.",
+    "initials": "USTR",
+    "role": "Office of the U.S. Trade Representative",
+    "color": {
+      "bg": "#1a0a1a",
+      "fg": "#d8b4fe"
+    },
+    "severity": "critical",
+    "content": "Definitive Countervailing Duties on New Battery Electric Vehicles from China. Definitive Countervailing Duties on New Battery Electric Vehicles from China \n\n              On November 4, 2024, China requested consultations with the European Union with respect to the definitive countervailing duties imposed by the Europe",
+    "tags": [
+      "Big Tech",
+      "China",
+      "Sanctions"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "ustr",
+    "platform": "USTR",
+    "url": "https://ustr.gov/node/14325",
+    "published_iso": "2026-05-04T20:45:22+00:00",
+    "time_ago": "31m ago"
+  },
+  {
+    "id": "ef46f58b047b",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Shots fired near National Mall; press escorted off North Lawn. The Secret Service on Monday reported an officer-involved shooting near the National Mall that resulted in a response from emergency response teams. The shooting took place at 15th Street and Independence Avenue adjacent to the Washington Monument. \u201cOne ind",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5862844-secret-service-shooting-national-mall/",
+    "published_iso": "2026-05-04T20:41:14+00:00",
+    "time_ago": "35m ago"
+  },
+  {
+    "id": "a4a8af33f8fe",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Met Gala faces protests, calls for boycotts over Jeff Bezos. Multiple celebrities are skipping the Met Gala this year, as Jeff Bezos and his wife, Lauren S\u00e1nchez Bezos, are serving as honorary chairs of the event. Bella Hadid, a model who has attended multiple previous galas, liked a video on Instagram calling out cele",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "META"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/blogs/in-the-know/5862552-met-gala-jeff-bezos-metropolitan-museum/",
+    "published_iso": "2026-05-04T20:03:21+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "1e8986af06bf",
     "politician": "The Hill",
     "initials": "TH",
@@ -9,17 +123,17 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "81 percent of young Americans say economic conditions are bad or terrible: Survey. A recent survey by Generation Lab found that more than 8 in 10 young adults rate economic conditions in the U.S. as either bad or terrible. The survey, conducted April 26-29, found that 55 percent of 546 respondents from ages 18-24 view ",
+    "content": "81 percent of young Americans say economic conditions are bad or terrible: Survey. A recent survey by Generation Lab found that more than 8 in 10 young adults rate economic conditions in the U.S. as either bad or terrible. The survey, conducted April 26-29, found that 55 percent of 546 respondents ages 18-24 said they ",
     "tags": [],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
     "url": "https://thehill.com/business/5862710-young-adults-rate-economy-poorly/",
     "published_iso": "2026-05-04T19:48:20+00:00",
-    "time_ago": "12m ago"
+    "time_ago": "1h ago"
   },
   {
-    "id": "95d7e33a08bb",
+    "id": "faf2864a5351",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -28,7 +142,7 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Pirro asks judge to vacate Fed subpoena decisions. U.S. Attorney Jeanine Pirro asked a court Monday to vacate its decision to quash two subpoenas in her criminal investigation into Federal Reserve Chair Jerome Powell, arguing the issue is now \u201cmoot.\u201d Pirro announced late last month that the Department of Justice (DOJ) ",
+    "content": "DOJ asks judge to vacate Federal Reserve subpoena decisions. U.S. Attorney Jeanine Pirro asked a court Monday to vacate its decision to quash two subpoenas in her criminal investigation into Federal Reserve Chair Jerome Powell, arguing the issue is now \u201cmoot.\u201d Pirro, the U.S. attorney for the District of Columbia, anno",
     "tags": [
       "Banking"
     ],
@@ -42,7 +156,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/business/5862761-us-attorney-seeks-vacate-subpoenas/",
     "published_iso": "2026-05-04T19:43:43+00:00",
-    "time_ago": "17m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "ad03d061110a",
@@ -61,35 +175,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/business/5862627-treasury-secretary-gas-prices-relief/",
     "published_iso": "2026-05-04T19:02:47+00:00",
-    "time_ago": "58m ago"
-  },
-  {
-    "id": "7882acbc7935",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Live updates: US, Iran trade fire amid Strait of Hormuz tension. Iran opened fire on U.S. warships Monday, and the U.S. military retaliated, destroying six Iranian small boats, according to U.S. Central Command leader Adm. Brad Cooper.\u00a0 The action followed increased tension as Iran cautioned it would not allow any move",
-    "tags": [
-      "Trade",
-      "Defense",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5861237-live-updates-donald-trump-iran/",
-    "published_iso": "2026-05-04T18:27:54+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "005a0e1a8edf",
@@ -108,7 +194,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/05/04/young-voters-midterms-trump-00905296",
     "published_iso": "2026-05-04T18:20:06+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "7c83c01313ac",
@@ -127,7 +213,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/new-responses-from-education-treasury-departments-reveal-trump-admin-cannot-justify-attempts-to-dismantle-education-department",
     "published_iso": "2026-05-04T18:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "08db44a8e1b7",
@@ -148,7 +234,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/05/president-trump-celebrates-small-business-revival-during-national-small-business-week/",
     "published_iso": "2026-05-04T17:35:22+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "5247dbd2fbc8",
@@ -169,7 +255,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/may/public-hearings-regarding-section-301-investigations-relating-structural-excess-capacity",
     "published_iso": "2026-05-04T13:54:17+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "4bbc63a01960",
@@ -190,7 +276,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/05/04/jonathan-greenberger-global-editor-in-chief-00902558",
     "published_iso": "2026-05-04T04:01:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "1154e9f55c3b",
@@ -211,7 +297,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08645/establishment-of-class-d-and-class-e-airspace-ceiba-pr",
     "published_iso": "2026-05-04T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "a1b384a564c2",
@@ -232,7 +318,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08632/safety-standard-for-full-size-baby-cribs",
     "published_iso": "2026-05-04T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "040f140934c5",
@@ -253,7 +339,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08622/amending-the-department-of-commerces-regulations-implementing-the-havana-act",
     "published_iso": "2026-05-04T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "569075c9a5ca",
@@ -274,7 +360,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08613/treatment-of-income-from-indian-fishing-rights-related-activity-as-compensation",
     "published_iso": "2026-05-04T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "93bf79d3d59b",
@@ -295,7 +381,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08595/specific-listing-for-hexahydrocannabinol-a-currently-controlled-schedule-i-substance",
     "published_iso": "2026-05-04T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "0b9ed5691336",
@@ -316,7 +402,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08580/removal-of-standard-of-identity-for-canned-tripe-with-milk",
     "published_iso": "2026-05-04T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "5df27a65c1c3",
@@ -337,7 +423,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-small-business-week/",
     "published_iso": "2026-05-03T23:19:15+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "740c31e4afa4",
@@ -358,7 +444,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-hurricane-preparedness-week/",
     "published_iso": "2026-05-03T23:17:59+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "fcab79d8b3a6",
@@ -407,27 +493,6 @@
     "time_ago": "1d ago"
   },
   {
-    "id": "ff280c97b01f",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "Spiking fuel prices from Trump\u2019s war was the nail in the coffin for twice-bankrupted Spirit airline.\n\nFWIW, JetBlue merger failed because a judge, appointed by Ronald Reagan, said the deal was illegal.\n\nRepublicans are desperate to shift blame from higher costs hitting families.",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mkuyx54fo22i",
-    "published_iso": "2026-05-02T15:55:32.240000+00:00",
-    "time_ago": "2d ago"
-  },
-  {
     "id": "6d4d9a7060a1",
     "politician": "White House",
     "initials": "WH",
@@ -446,33 +511,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-the-kentucky-derby/",
     "published_iso": "2026-05-02T14:36:15+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "0349208583de",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "NEW: Donald Trump gave Meta $8 BILLION by creating a new tax loophole for billionaire corporations.\n\nAll while millions of Americans struggled to pay for food and health care.",
-    "tags": [
-      "Big Tech",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mkutunshw222",
-    "published_iso": "2026-05-02T14:24:40.368000+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -626,7 +664,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h155?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T20:43:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "f2db9fcbe8b5",
@@ -879,28 +917,6 @@
     "time_ago": "4d ago"
   },
   {
-    "id": "1089c7e5c5b0",
-    "politician": "U.S. Trade Rep.",
-    "initials": "USTR",
-    "role": "Office of the U.S. Trade Representative",
-    "color": {
-      "bg": "#1a0a1a",
-      "fg": "#d8b4fe"
-    },
-    "severity": "critical",
-    "content": "Joseph Barloon. Joseph Barloon \n  jgaertner  \n  Wed, 04/29/2026 - 18:44 \n \n\n   \n     Leadership Title \n               Deputy United States Trade Representative \n           \n\n   \n     Leadership Bio \n                Ambassador Joseph Barloon is the Deputy United States Trade Representative and Chief of Mission for the P",
-    "tags": [
-      "Trade",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "ustr",
-    "platform": "USTR",
-    "url": "https://ustr.gov/node/14318",
-    "published_iso": "2026-04-29T22:44:48+00:00",
-    "time_ago": "4d ago"
-  },
-  {
     "id": "b099891d9e99",
     "politician": "Sen. Bernie Sanders",
     "initials": "BS",
@@ -919,7 +935,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mknvzi4z2c2v",
     "published_iso": "2026-04-29T20:14:31.509000+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "f9adcd7b3c91",
@@ -1310,7 +1326,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/aoc.bsky.social/post/3mfi26wfbbk22",
     "published_iso": "2026-02-22T21:07:12.518000+00:00",
-    "time_ago": "70d ago"
+    "time_ago": "71d ago"
   },
   {
     "id": "869ac7db3b73",
@@ -1679,7 +1695,7 @@
     "platform": ".gov",
     "url": "http://jordan.house.gov/media/blog/did-biden-funnel-35-billion-payout-away-terror-victims-and-toward-ex-staff-republicans",
     "published_iso": "2022-04-06T20:45:12+00:00",
-    "time_ago": "1488d ago"
+    "time_ago": "1489d ago"
   },
   {
     "id": "ca9ac4ad3c4a",
