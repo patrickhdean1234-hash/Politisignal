@@ -1,6 +1,6 @@
 [
   {
-    "id": "22a8f636e4bb",
+    "id": "53841583fbf0",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,17 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Baird W Blake received 12,234 shares of Sunstone Hotel Investors, Inc. (SHO-PI) \u00b7 May 5 ($0 across all blocks)",
+    "content": "Okeke Angelique M exercised options for 1,775 shares of F5, Inc. (FFIV) \u00b7 May 5 ($496,672 across all blocks)",
     "tags": [],
-    "tickers": [],
+    "tickers": [
+      "FFIV"
+    ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1295810/000121359626000002/0001213596-26-000002-index.htm",
-    "published_iso": "2026-05-05T20:47:25+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/2060650/000206065026000006/0002060650-26-000006-index.htm",
+    "published_iso": "2026-05-05T21:45:40+00:00",
     "time_ago": "just now"
   },
   {
-    "id": "106c11459032",
+    "id": "0d6294c1f39f",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -28,19 +30,21 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Deoras Mukul received 518 shares of Wyndham Hotels & Resorts, Inc. (WH) \u00b7 $80.84/share \u00b7 $41,875 total \u00b7 May 5",
-    "tags": [],
+    "content": "Caple Steven W received 62 shares of First Busey Corp /Nv/ (BUSEP) \u00b7 May 5",
+    "tags": [
+      "Taxes"
+    ],
     "tickers": [
-      "WH"
+      "BUSEP"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1722684/000172268426000063/0001722684-26-000063-index.htm",
-    "published_iso": "2026-05-05T20:47:13+00:00",
-    "time_ago": "just now"
+    "url": "https://www.sec.gov/Archives/edgar/data/1161867/000116186726000006/0001161867-26-000006-index.htm",
+    "published_iso": "2026-05-05T21:45:02+00:00",
+    "time_ago": "1m ago"
   },
   {
-    "id": "92e8c3798f8a",
+    "id": "083a85db84e6",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -49,99 +53,196 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Batinovich Andrew received 12,234 shares of Sunstone Hotel Investors, Inc. (SHO-PI) \u00b7 May 5 ($0 across all blocks)",
+    "content": "Gray Jonathan received 104 shares of Hilton Worldwide Holdings Inc. (HLT) \u00b7 May 5",
     "tags": [],
+    "tickers": [
+      "HLT"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1585689/000120859026000005/0001208590-26-000005-index.htm",
+    "published_iso": "2026-05-05T21:44:20+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "c593c21e22c6",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Montoya Michael F exercised options for 2,137 shares of F5, Inc. (FFIV) \u00b7 May 5 ($271,488 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "FFIV"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1869466/000186946626000008/0001869466-26-000008-index.htm",
+    "published_iso": "2026-05-05T21:44:09+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "4ba41a395a80",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Upadhyay Suketu disposed of 796 shares of Vertex Pharmaceuticals Inc / Ma (VRTX) \u00b7 May 5",
+    "tags": [
+      "Healthcare",
+      "Insider Trade"
+    ],
+    "tickers": [
+      "VRTX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1533149/000087532026000193/0000875320-26-000193-index.htm",
+    "published_iso": "2026-05-05T21:44:07+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "0192a2d64ec3",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hammond Thomas Anthony received 121 shares of First Busey Corp /Nv/ (BUSEP) \u00b7 May 5",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "BUSEP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2109629/000210962926000006/0002109629-26-000006-index.htm",
+    "published_iso": "2026-05-05T21:43:58+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "4b72f3844884",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Chan Christopher H.M. received 329 shares of First Busey Corp /Nv/ (BUSEP) \u00b7 May 5",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "BUSEP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2090733/000209073326000006/0002090733-26-000006-index.htm",
+    "published_iso": "2026-05-05T21:42:56+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "fead637c50d7",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Maddison John Anthony exercised options for 454 shares of F5, Inc. (FFIV) \u00b7 May 5 ($396,666 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "FFIV"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2046054/000204605426000006/0002046054-26-000006-index.htm",
+    "published_iso": "2026-05-05T21:42:47+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "35fa7ccb0c09",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Dukeman Van A received 1,046 shares of First Busey Corp /Nv/ (BUSEP) \u00b7 $20.32/share \u00b7 $21,250 total \u00b7 May 5 ($21,250 across all blocks)",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "BUSEP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1231409/000123140926000011/0001231409-26-000011-index.htm",
+    "published_iso": "2026-05-05T21:42:03+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "fd44b770022a",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Locoh-Donou Francois exercised options for 6,234 shares of F5, Inc. (FFIV) \u00b7 May 5 ($792,163 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "FFIV"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1526624/000152662426000008/0001526624-26-000008-index.htm",
+    "published_iso": "2026-05-05T21:41:12+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "e43bbb99814c",
+    "politician": "Politico",
+    "initials": "PO",
+    "role": "Political News",
+    "color": {
+      "bg": "#1a0a0a",
+      "fg": "#fca5a5"
+    },
+    "severity": "medium",
+    "content": "Billionaires of the world, unite!",
+    "tags": [
+      "Regulation"
+    ],
     "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1295810/000100754626000002/0001007546-26-000002-index.htm",
-    "published_iso": "2026-05-05T20:46:51+00:00",
-    "time_ago": "1m ago"
+    "source": "politico",
+    "platform": "Politico",
+    "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/05/05/mamandi-billionaires-steve-roth-new-york-00906971",
+    "published_iso": "2026-05-05T21:14:14+00:00",
+    "time_ago": "32m ago"
   },
   {
-    "id": "6446d41e00e2",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hankinson Garth exercised options for 2,281 shares of Constellation Brands, Inc. (STZ) \u00b7 May 5 ($465,031 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "STZ"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1797763/000179776326000006/0001797763-26-000006-index.htm",
-    "published_iso": "2026-05-05T20:46:49+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "397ebd75a266",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Mcpherson Deana L received 27,612 shares of Smith & Wesson Brands, Inc. (SWBI) \u00b7 May 5 ($116,870 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "SWBI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1505810/000119312526206640/0001193125-26-206640-index.htm",
-    "published_iso": "2026-05-05T20:46:35+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "80f9faa93710",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Churchill Bruce received 573 shares of Wyndham Hotels & Resorts, Inc. (WH) \u00b7 $80.84/share \u00b7 $46,321 total \u00b7 May 5",
-    "tags": [],
-    "tickers": [
-      "WH"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1722684/000172268426000062/0001722684-26-000062-index.htm",
-    "published_iso": "2026-05-05T20:46:24+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "227dc0f9faab",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Barnello Michael D received 12,234 shares of Sunstone Hotel Investors, Inc. (SHO-PI) \u00b7 May 5 ($0 across all blocks)",
-    "tags": [],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1295810/000122930226000002/0001229302-26-000002-index.htm",
-    "published_iso": "2026-05-05T20:46:17+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "691f8fa6a5e6",
+    "id": "071d25620489",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -149,10 +250,31 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Live updates: Rubio faces 'chaos' of White House briefing room, warns Iran's 'insane in the brain' leaders. Secretary of State Marco Rubio said Tuesday afternoon that the Iranian regime's \"insane in the brain\" leaders should not test President Trump as tensions rise in the Strait of Hormuz. Rubio, the first person to s",
+    "severity": "high",
+    "content": "Trump taunts Indiana 'RINOs' on primary day. President Trump mocked a group of Republican state senators in Indiana as voters went to the polls on Tuesday to cast their ballots in the state\u2019s primary elections. Trump has endorsed a slate of challengers in the GOP primary against seven state lawmakers who opposed his pu",
     "tags": [
-      "Taxes",
+      "Defense",
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/5864758-trump-mocks-indiana-incumbents-primary-day/",
+    "published_iso": "2026-05-05T21:06:20+00:00",
+    "time_ago": "39m ago"
+  },
+  {
+    "id": "bd00379c6b5f",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Marco Rubio gets presidential tryout in White House briefing room. Marco Rubio, the secretary of State and national security adviser for President Trump, tried on yet another hat Tuesday at the White House press briefing, taking questions on the Iran war and foreign policy in a performance that had all the bearings of ",
+    "tags": [
       "Sanctions"
     ],
     "tickers": [
@@ -162,54 +284,12 @@
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5862325-live-updates-trump-iran-hegseth-midterms/",
-    "published_iso": "2026-05-05T20:02:00+00:00",
-    "time_ago": "46m ago"
+    "url": "https://thehill.com/homenews/administration/5864788-rubio-trump-2028-presidential-contender/",
+    "published_iso": "2026-05-05T21:03:07+00:00",
+    "time_ago": "43m ago"
   },
   {
-    "id": "ae1d79cd9cde",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "FAA contractor charged with threatening to kill Trump. A Federal Aviation Administration (FAA) contractor in New Hampshire is facing federal charges after authorities said he threatened to kill President Trump and used a work computer to research previous assassination attempts against the president. Dean DelleChiaie, ",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5864633-faa-contractor-threatens-trump/",
-    "published_iso": "2026-05-05T19:56:08+00:00",
-    "time_ago": "51m ago"
-  },
-  {
-    "id": "c9d702246016",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "GOP includes $1B for Trump White House ballroom security in budget bill. The Senate Judiciary Committee late on Monday added $1 billion to a spending package for the U.S. Secret Service to allow for security upgrades to the compound tied to the construction of the White House ballroom. The $1 billion makes up part of a",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5864468-billion-dollar-white-house-security/",
-    "published_iso": "2026-05-05T19:50:05+00:00",
-    "time_ago": "58m ago"
-  },
-  {
-    "id": "d628b372e9c4",
+    "id": "c9ca1f7a41d9",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -218,18 +298,75 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Delta cutting free snacks, drinks on hundreds of flights. Delta Air Lines will soon end its free snack and drink service for most passengers on flights shorter than 350 miles. The change comes amid growing cost pressures on the airline industry amid the war in Iran, which has spurred rising airfares and increased fees ",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [
-      "DAL"
-    ],
+    "content": "Live results: Indiana holds House primary elections. Voters in Indiana are heading to the polls Tuesday, when they'll weigh in on several House primary elections. Incumbent Republican Reps. Rudy Yakym of the 2nd Congressional District, Marlin Stutzman of the 3rd Congressional District, Jim Baird of the 4th Congressiona",
+    "tags": [],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/transportation/5864598-delta-ends-free-snacks-short-flights/",
-    "published_iso": "2026-05-05T19:44:52+00:00",
-    "time_ago": "1h ago"
+    "url": "https://thehill.com/homenews/campaign/5852697-live-results-indiana-house-primary-elections/",
+    "published_iso": "2026-05-05T21:00:00+00:00",
+    "time_ago": "46m ago"
+  },
+  {
+    "id": "fb93effaa84e",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Live results: Indiana state senators opposed by Trump fight for GOP primary nominations. Several of Republican state senators are fighting for their political lives Tuesday as they face challengers backed by President Trump over their opposition to the state's failed redistricting push last year. Twenty one GOP state s",
+    "tags": [
+      "Defense"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/5852919-live-results-indiana-state-senators-gop-primary/",
+    "published_iso": "2026-05-05T21:00:00+00:00",
+    "time_ago": "46m ago"
+  },
+  {
+    "id": "ebef55a0ae43",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Live results: Ramaswamy seeks GOP nod in Ohio governor's race. GOP frontrunner Vivek Ramaswamy for Ohio governor is running in a Tuesday primary against one other candidate. Ramaswamy, a businessman and former 2024 presidential candidate, is facing off against business owner Casey Putsch. Ramaswamy will almost certainl",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/5852724-live-results-ramaswamy-ohio-governor-primary/",
+    "published_iso": "2026-05-05T21:00:00+00:00",
+    "time_ago": "46m ago"
+  },
+  {
+    "id": "10be5c5dc3b1",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Remember when Donald Trump called himself the \"Father of IVF\"?\n\nRight now, Trump officials are taking a sledgehammer to rules that protect workers undergoing IVF.\n\nJust another one of Trump's broken promises.\n\nI'm fighting to stop this.",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3ml52pdkwvs2r",
+    "published_iso": "2026-05-05T20:48:15.962000+00:00",
+    "time_ago": "57m ago"
   },
   {
     "id": "b713f0de9699",
@@ -250,7 +387,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-astronaut-day-2be4/",
     "published_iso": "2026-05-05T19:39:57+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "3a8ccaf89257",
@@ -271,7 +408,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/05/national-physical-fitness-and-sports-month-2026/",
     "published_iso": "2026-05-05T16:52:13+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "e587370deb82",
@@ -298,7 +435,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/research/2026/05/savings-from-most-favored-nation-drug-pricing-policy/",
     "published_iso": "2026-05-05T14:36:40+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -324,7 +461,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "38fc5eb6632a",
@@ -345,7 +482,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08750/extension-of-postponement-of-effectiveness-for-certain-provisions-of-trichloroethylene-tce",
     "published_iso": "2026-05-05T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "1196fbe2634e",
@@ -366,7 +503,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08747/civil-monetary-penalties-2026-adjustment",
     "published_iso": "2026-05-05T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "974c7704751c",
@@ -387,7 +524,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08742/docket-number-uscg-2025-0345-head2024-quarterly-listings-third-quarter-safety-zones-security-zones",
     "published_iso": "2026-05-05T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "4d88c9e1f36a",
@@ -408,7 +545,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08741/2024-quarterly-listings-second-quarter-safety-zones-security-zones-and-special-local-regulations",
     "published_iso": "2026-05-05T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "018ebdc406a0",
@@ -429,7 +566,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08740/2024-quarterly-listings-fourth-quarter-safety-zones-security-zones-and-special-local-regulations",
     "published_iso": "2026-05-05T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "a4df67c1b3c8",
@@ -450,7 +587,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08733/regulated-navigation-area-raritan-river-perth-amboy-nj",
     "published_iso": "2026-05-05T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "2c9ebc86e5ae",
@@ -471,7 +608,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08732/safety-zones-rocket-launches-in-the-gulf-of-america-and-south-bay-boca-chica-beach-tx",
     "published_iso": "2026-05-05T00:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "b74e1bb9a01a",
@@ -493,7 +630,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/congressional-bill-s-723-signed-into-law/",
     "published_iso": "2026-05-04T23:31:22+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "488284857c76",
@@ -514,7 +651,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/05/jewish-american-heritage-month-2026/",
     "published_iso": "2026-05-04T23:06:14+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "68ecbf3fc597",
@@ -535,7 +672,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/america-250-presidential-message-on-the-anniversary-of-the-battle-of-the-coral-sea/",
     "published_iso": "2026-05-04T22:23:03+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "1f809fb86ab9",
@@ -732,7 +869,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/may/ambassador-greer-silverado-policy-accelerator-summit",
     "published_iso": "2026-05-01T21:39:19+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "776e217a3172",
@@ -753,7 +890,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mkqkev35z22z",
     "published_iso": "2026-04-30T21:24:08.490000+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "8a033624a0ee",
@@ -1389,7 +1526,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/aoc.bsky.social/post/3mfi26wfbbk22",
     "published_iso": "2026-02-22T21:07:12.518000+00:00",
-    "time_ago": "71d ago"
+    "time_ago": "72d ago"
   },
   {
     "id": "869ac7db3b73",
@@ -1649,7 +1786,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10471",
     "published_iso": "2023-07-12T21:22:15+00:00",
-    "time_ago": "1027d ago"
+    "time_ago": "1028d ago"
   },
   {
     "id": "b05ff12af7ca",
@@ -1671,7 +1808,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10470",
     "published_iso": "2023-07-12T21:20:42+00:00",
-    "time_ago": "1027d ago"
+    "time_ago": "1028d ago"
   },
   {
     "id": "b22b414d7eb9",
@@ -1695,7 +1832,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10469",
     "published_iso": "2023-07-12T21:20:14+00:00",
-    "time_ago": "1027d ago"
+    "time_ago": "1028d ago"
   },
   {
     "id": "06ebc00af517",
@@ -1716,7 +1853,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10468",
     "published_iso": "2023-07-12T21:19:46+00:00",
-    "time_ago": "1027d ago"
+    "time_ago": "1028d ago"
   },
   {
     "id": "99bfd884e5fa",
@@ -1737,7 +1874,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/node/10467",
     "published_iso": "2023-07-12T21:19:01+00:00",
-    "time_ago": "1027d ago"
+    "time_ago": "1028d ago"
   },
   {
     "id": "9ab4d9dc70a4",
