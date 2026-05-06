@@ -1,6 +1,6 @@
 [
   {
-    "id": "a6173c7f2f45",
+    "id": "7d5ec7ef0795",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,100 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Shaikh Erhaan withheld (tax) 296 shares of Lattice Semiconductor Corp (LSCC) \u00b7 $125.57/share \u00b7 $37,169 total \u00b7 May 6 ($78,496 across all blocks)",
-    "tags": [
-      "Semiconductors",
-      "Taxes"
-    ],
+    "content": "Stephens Kevin A bought 820 shares of Crown Castle Inc. (CCI) \u00b7 $90.24/share \u00b7 $73,997 total \u00b7 May 6",
+    "tags": [],
     "tickers": [
-      "LSCC"
+      "CCI"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2055582/000143774926015164/0001437749-26-015164-index.htm",
-    "published_iso": "2026-05-06T18:56:36+00:00",
-    "time_ago": "3m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1834017/000183401726000007/0001834017-26-000007-index.htm",
+    "published_iso": "2026-05-06T20:40:05+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "0d83fb3d3349",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "ICE to end shortened training programs after criticism: Reports. Immigration and Customs Enforcement (ICE) is planning to end its shortened training programs intended to release new officers out on the street sooner, multiple outlets reported. Two Department of Homeland Security (DHS) officials told The Washington Post",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5866624-ice-ends-shortened-training/",
+    "published_iso": "2026-05-06T20:00:25+00:00",
+    "time_ago": "40m ago"
+  },
+  {
+    "id": "990d99bac5bf",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Texas man charged in shooting near Washington Monument on the National Mall. A Texas man has been charged in the recent shooting near the Washington Monument on the National Mall, the Department of Justice (DOJ) said Wednesday. In a press release, the U.S. attorney's office for the District of Columbia said that 45-yea",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/regulation/court-battles/5864815-texas-man-charged-shooting-washington-monument/",
+    "published_iso": "2026-05-06T19:40:51+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "10d4b1d2d39f",
+    "politician": "Politico",
+    "initials": "PO",
+    "role": "Political News",
+    "color": {
+      "bg": "#1a0a0a",
+      "fg": "#fca5a5"
+    },
+    "severity": "medium",
+    "content": "The POLITICO Poll - April 2026 SAVE Act. The POLITICO Poll results on Americans' views of the SAVE America Act",
+    "tags": [],
+    "tickers": [],
+    "source": "politico",
+    "platform": "Politico",
+    "url": "https://www.politico.com/f/?id=0000019d-feb0-d64a-a5dd-fefa52fd0000",
+    "published_iso": "2026-05-06T19:13:55+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "7d64c039bfc3",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Hewitt: Iran peace framework 'terrible deal'. Conservative radio host Hugh Hewitt called the reported U.S.-Iran draft agreement a \u201cterrible deal\u201d on Wednesday, two days after President Trump appeared on his show. The president suddenly paused the U.S. Navy\u2019s \u201cProject Freedom\u201d operation in the Strait of Hormuz on Tuesda",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/media/5866603-hugh-hewitt-criticizes-iran-deal/",
+    "published_iso": "2026-05-06T19:03:43+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "eafef34c4467",
@@ -33,7 +114,7 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Macron calls for Strait of Hormuz to reopen, says he talked with Iranian president. French President Emmanuel Macron on Wednesday called for the Strait of Hormuz to reopen, as its closure has left oil and other cargo vessels stranded for two months amid a fragile ceasefire between the U.S. and Iran. Macron said on soci",
+    "content": "Macron calls for Strait of Hormuz to reopen, says he talked with Iranian president. French President Emmanuel Macron on Wednesday called for the Strait of Hormuz to reopen, as its closure has left oil and other cargo vessels stranded for two months amid a fragile ceasefire between the U.S. and Iran. On the social platf",
     "tags": [
       "Energy",
       "Sanctions"
@@ -48,7 +129,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/policy/international/5866516-macron-calls-strait-reopen/",
     "published_iso": "2026-05-06T18:53:20+00:00",
-    "time_ago": "6m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "99a8e4e2079c",
@@ -73,7 +154,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/administration/5864457-live-updates-trump-iran-midterms/",
     "published_iso": "2026-05-06T18:50:02+00:00",
-    "time_ago": "9m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "3e78966a6cdf",
@@ -94,54 +175,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3ml7dvfr5as2q",
     "published_iso": "2026-05-06T18:38:02.743000+00:00",
-    "time_ago": "21m ago"
-  },
-  {
-    "id": "086908d28a14",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Comer says Lutnick 'wasn't 100 percent truthful' about being on Epstein's island ahead of interview. House Oversight and Government Reform Committee Chair James Comer (R-Ky.) told reporters ahead of Commerce Secretary Howard Lutnick\u2019s testimony before the panel that Lutnick had not been \u201c100 percent truthful\u201d about whe",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5866517-comer-lutnick-epstein-island/",
-    "published_iso": "2026-05-06T18:25:17+00:00",
-    "time_ago": "34m ago"
-  },
-  {
-    "id": "06622db31c0c",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "US military attacks Iran-flagged tanker attempting to breach naval blockade. The U.S. military disabled an Iranian-flagged unladen oil tanker on Wednesday morning that attempted to breach the U.S. naval blockade, as Washington and Tehran have seemingly made progress in potentially ending the conflict.  U.S. Central Com",
-    "tags": [
-      "Energy",
-      "Defense",
-      "Sanctions"
-    ],
-    "tickers": [
-      "XOM",
-      "CVX",
-      "COP",
-      "OXY"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/defense/5866465-us-military-disables-iranian-tanker/",
-    "published_iso": "2026-05-06T17:58:23+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "a9bbd779e408",
@@ -163,7 +197,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-nurses-day/",
     "published_iso": "2026-05-06T17:46:22+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "632d29968e32",
@@ -190,7 +224,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/first-lady-melania-trump-honors-military-mothers-the-soul-of-our-nation/",
     "published_iso": "2026-05-06T17:34:22+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "caa05201b0ae",
@@ -216,7 +250,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/following-armed-services-committee-hearing-warren-questions-hegseth-on-trump-family-pentagon-contracts",
     "published_iso": "2026-05-06T15:25:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "5ea52e96901e",
@@ -238,7 +272,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3ml6yw2maxs2k",
     "published_iso": "2026-05-06T15:21:33.442000+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "363b34df67fe",
@@ -259,7 +293,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/05/05/jd-vance-iowa-2028-election-00907583",
     "published_iso": "2026-05-06T01:27:51+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "dcb07ba90d4f",
@@ -280,7 +314,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08950/eliminating-unnecessary-regulations",
     "published_iso": "2026-05-06T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "f5a3aefe93d1",
@@ -301,7 +335,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08942/safety-zones-recurring-events-in-captain-of-the-port-duluth-zone",
     "published_iso": "2026-05-06T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "479f30d716da",
@@ -322,7 +356,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08938/special-conditions-skyryse-robinson-helicopter-company-model-r66-helicopter-static-longitudinal",
     "published_iso": "2026-05-06T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "824369417821",
@@ -343,7 +377,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08931/conforming-change-for-approving-a-making-application",
     "published_iso": "2026-05-06T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "5c5d28058c46",
@@ -365,7 +399,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08927/export-control-reform-conforming-references-to-department-of-commerce",
     "published_iso": "2026-05-06T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "3e925404473d",
@@ -386,7 +420,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08926/revising-machine-gun-definition-in-response-to-supreme-court-decision",
     "published_iso": "2026-05-06T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "e43bbb99814c",
@@ -407,7 +441,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/05/05/mamandi-billionaires-steve-roth-new-york-00906971",
     "published_iso": "2026-05-05T21:14:14+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "10be5c5dc3b1",
@@ -428,7 +462,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3ml52pdkwvs2r",
     "published_iso": "2026-05-05T20:48:15.962000+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "b713f0de9699",
@@ -449,7 +483,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-astronaut-day-2be4/",
     "published_iso": "2026-05-05T19:39:57+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "3a8ccaf89257",
@@ -618,25 +652,6 @@
     "time_ago": "1d ago"
   },
   {
-    "id": "005a0e1a8edf",
-    "politician": "Politico",
-    "initials": "PO",
-    "role": "Political News",
-    "color": {
-      "bg": "#1a0a0a",
-      "fg": "#fca5a5"
-    },
-    "severity": "high",
-    "content": "Republicans' youth voter problem. A new national poll of 1,000 young Americans finds deep discontent over the economy and signs of a base problem for Republicans",
-    "tags": [],
-    "tickers": [],
-    "source": "politico",
-    "platform": "Politico",
-    "url": "https://www.politico.com/news/2026/05/04/young-voters-midterms-trump-00905296",
-    "published_iso": "2026-05-04T18:20:06+00:00",
-    "time_ago": "2d ago"
-  },
-  {
     "id": "7c83c01313ac",
     "politician": "Sen. Elizabeth Warren",
     "initials": "EW",
@@ -674,27 +689,6 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/may/public-hearings-regarding-section-301-investigations-relating-structural-excess-capacity",
     "published_iso": "2026-05-04T13:54:17+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "4bbc63a01960",
-    "politician": "Politico",
-    "initials": "PO",
-    "role": "Political News",
-    "color": {
-      "bg": "#1a0a0a",
-      "fg": "#fca5a5"
-    },
-    "severity": "low",
-    "content": "A note to our readers. As I begin my first week as POLITICO's Global Editor-in-Chief, I want to start by thanking you \u2014 our readers and subscribers \u2014 for the trust you place in POLITICO",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "politico",
-    "platform": "Politico",
-    "url": "https://www.politico.com/news/2026/05/04/jonathan-greenberger-global-editor-in-chief-00902558",
-    "published_iso": "2026-05-04T04:01:00+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -780,7 +774,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ambassador-greer-issues-statement-preferential-duty-access-whiskey-produced-united-kingdom",
     "published_iso": "2026-04-30T19:45:13+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "7aadbdb481a1",
@@ -1030,7 +1024,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3mknvzi4z2c2v",
     "published_iso": "2026-04-29T20:14:31.509000+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "f9adcd7b3c91",
@@ -1167,7 +1161,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mjkle76hac25",
     "published_iso": "2026-04-15T19:00:28.593534+00:00",
-    "time_ago": "20d ago"
+    "time_ago": "21d ago"
   },
   {
     "id": "d773df1a1b2c",
@@ -1393,7 +1387,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/aoc.bsky.social/post/3mfhthlg3u22x",
     "published_iso": "2026-02-22T19:06:46.919000+00:00",
-    "time_ago": "72d ago"
+    "time_ago": "73d ago"
   },
   {
     "id": "602146d3f751",
@@ -1415,7 +1409,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-announces-2026-service-academy-nominations/",
     "published_iso": "2026-02-18T19:38:51+00:00",
-    "time_ago": "76d ago"
+    "time_ago": "77d ago"
   },
   {
     "id": "79af8a04fb57",
@@ -1764,7 +1758,7 @@
     "platform": ".gov",
     "url": "http://jordan.house.gov/media/blog/gop-fbi-refusing-accept-accountability-enforcing-doj-school-boards-memo",
     "published_iso": "2022-02-10T19:37:15+00:00",
-    "time_ago": "1545d ago"
+    "time_ago": "1546d ago"
   },
   {
     "id": "718743804c07",
