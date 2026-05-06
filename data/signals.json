@@ -1,6 +1,99 @@
 [
   {
-    "id": "8c0539e245d0",
+    "id": "59f10cfc9cf6",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Santana Rafael sold 366 shares of Westinghouse Air Brake Technologies Corp (WAB) \u00b7 $262.30/share \u00b7 $96,000 total \u00b7 May 6 ($614,844 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "WAB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1767799/000162828026031018/0001628280-26-031018-index.htm",
+    "published_iso": "2026-05-06T15:37:35+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "caa05201b0ae",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Following Armed Services Committee Hearing, Warren Questions Hegseth on Trump Family Pentagon Contracts. Following Armed Services Committee Hearing, Warren Questions Hegseth on Trump Family Pentagon Contracts",
+    "tags": [
+      "Defense"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "http://www.warren.senate.gov/newsroom/press-releases/following-armed-services-committee-hearing-warren-questions-hegseth-on-trump-family-pentagon-contracts",
+    "published_iso": "2026-05-06T15:25:00+00:00",
+    "time_ago": "13m ago"
+  },
+  {
+    "id": "5ea52e96901e",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "This is hypocrisy at its finest.\n\nTrump's gold-encrusted ballroom has gone from costing $200 million funded by shady donors to $1 BILLION from TAXPAYERS\u2014snuck into the ICE bill by Senate Republicans.\n\nBut Trump wants to prosecute Powell for cost overruns of the Fed's renovation.",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3ml6yw2maxs2k",
+    "published_iso": "2026-05-06T15:21:33.442000+00:00",
+    "time_ago": "16m ago"
+  },
+  {
+    "id": "912140dd5e18",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Some iPhone users could see payments after Apple settles Siri AI lawsuit. Some iPhone users could soon see payouts after Apple agreed to pay $250 million to settle claims that it deceived consumers by advertising artificial intelligence features that were not yet available on its devices. Apple agreed to settle the cla",
+    "tags": [
+      "Big Tech",
+      "Regulation"
+    ],
+    "tickers": [
+      "AAPL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/5865915-iphone-payout-ai-lawsuit/",
+    "published_iso": "2026-05-06T15:13:45+00:00",
+    "time_ago": "24m ago"
+  },
+  {
+    "id": "f775552609ce",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,8 +102,78 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Live updates: Trump warns Iran to agree to deal or face 'higher level' of bombing. With the U.S. and Iran reportedly closing in on a peace deal, President Trump on Wednesday morning warned the Islamic Republic to come to terms. \"If they don\u2019t agree, the bombing starts, and it will be, sadly, at a much higher level and ",
+    "content": "Tennessee unveils GOP-favored redistricting proposal. Tennessee lawmakers on Wednesday unveiled a proposal for a new congressional map that would heavily favor Republicans this November by splitting up state's sole Democratic district. The map would put a target on Rep. Steve Cohen (D-Tenn.), who represents the state\u2019s",
     "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/state-watch/5865886-tennessee-congressional-map-proposal/",
+    "published_iso": "2026-05-06T15:01:00+00:00",
+    "time_ago": "37m ago"
+  },
+  {
+    "id": "b3562c522a7d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Stop the Trump ballroom bunker bandwagon dead in its tracks. Donald Trump's call for taxpayers to fund a $400 million White House ballroom and bunker is a political misstep and a waste of presidential power, and Democrats should seize the opportunity to criticize him for it",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/white-house/5864901-trump-taxpayer-funded-palace/",
+    "published_iso": "2026-05-06T15:00:00+00:00",
+    "time_ago": "38m ago"
+  },
+  {
+    "id": "9305d5d48220",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Esper: Further US military action in Iran 'more probable than not'. Former Defense Secretary Mark Esper said Tuesday that the U.S. military taking further action against Iran is \u201cmore probable\u201d than not. \u201cI think it's more probable than not,\u201d Esper told host Blake Burman on \u201cThe Hill,\u201d regarding whether more U.S. milit",
+    "tags": [
+      "Defense",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/defense/5865860-esper-predicts-iran-conflict/",
+    "published_iso": "2026-05-06T14:59:39+00:00",
+    "time_ago": "38m ago"
+  },
+  {
+    "id": "d4b67c8afd5f",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Gasoline price climbs 31 cents in past week, crossing $4.50 a gallon. The average price of gasoline in the U.S. reached $4.53 a gallon on Wednesday, according to AAA, an increase of 31 cents in a week and 50 percent since the U.S. and Israel began their war against Iran. Iran has responded by closing the Strait of Horm",
+    "tags": [
+      "Energy",
       "Sanctions"
     ],
     "tickers": [
@@ -20,91 +183,9 @@
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5864457-live-updates-trump-iran-midterms/",
-    "published_iso": "2026-05-06T12:38:15+00:00",
-    "time_ago": "39m ago"
-  },
-  {
-    "id": "259295ac7429",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "UnitedHealthcare to eliminate prior authorization for 30 percent of services. UnitedHealthcare plans to eliminate prior authorization requirements for 30% of services by the end of 2026",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/healthcare/5864364-unitedhealthcare-prior-authorization-updates-health-insurance/",
-    "published_iso": "2026-05-06T12:35:19+00:00",
-    "time_ago": "42m ago"
-  },
-  {
-    "id": "f97d428d0f1b",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "More Americans worried about running out of money than death: Survey. Generation X harbors the most economic anxiety, with 73% fearing for their finances over death",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/5864808-americans-worried-money-survey/",
-    "published_iso": "2026-05-06T12:29:20+00:00",
-    "time_ago": "48m ago"
-  },
-  {
-    "id": "920dcd688f61",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Trump to host Brazilian president for talks on economy, security. President Trump will host Luiz In\u00e1cio Lula da Silva for a working visit at the White House on Thursday, according to a White House official.  The official told The Hill that Trump and Lula will discuss economic and security matters.  Brazil\u2019s Vice Presid",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5865460-trump-lula-tariffs-economy-security/",
-    "published_iso": "2026-05-06T12:06:02+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "445b72211baa",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Health costs outweigh food, vaccine concerns for MAHA voters: Poll. Health care costs are the top concern among voters who identify with the \"Make America Healthy Again\" movement, according to a new\u00a0poll \u2014 far more than vaccines, pesticides or additives in food. The survey, released Wednesday by KFF, shows how affordab",
-    "tags": [],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/healthcare/5865455-health-care-affordability-maha-voters-survey/",
-    "published_iso": "2026-05-06T12:05:57+00:00",
-    "time_ago": "1h ago"
+    "url": "https://thehill.com/policy/energy-environment/5865607-gas-prices-iran-war-strait-of-hormuz/",
+    "published_iso": "2026-05-06T14:48:17+00:00",
+    "time_ago": "50m ago"
   },
   {
     "id": "363b34df67fe",
@@ -125,7 +206,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/05/05/jd-vance-iowa-2028-election-00907583",
     "published_iso": "2026-05-06T01:27:51+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "dcb07ba90d4f",
@@ -146,7 +227,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08950/eliminating-unnecessary-regulations",
     "published_iso": "2026-05-06T00:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "f5a3aefe93d1",
@@ -167,7 +248,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08942/safety-zones-recurring-events-in-captain-of-the-port-duluth-zone",
     "published_iso": "2026-05-06T00:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "479f30d716da",
@@ -188,7 +269,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08938/special-conditions-skyryse-robinson-helicopter-company-model-r66-helicopter-static-longitudinal",
     "published_iso": "2026-05-06T00:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "824369417821",
@@ -209,7 +290,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08931/conforming-change-for-approving-a-making-application",
     "published_iso": "2026-05-06T00:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "5c5d28058c46",
@@ -231,7 +312,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08927/export-control-reform-conforming-references-to-department-of-commerce",
     "published_iso": "2026-05-06T00:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "3e925404473d",
@@ -252,7 +333,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08926/revising-machine-gun-definition-in-response-to-supreme-court-decision",
     "published_iso": "2026-05-06T00:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "e43bbb99814c",
@@ -273,7 +354,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/05/05/mamandi-billionaires-steve-roth-new-york-00906971",
     "published_iso": "2026-05-05T21:14:14+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "10be5c5dc3b1",
@@ -294,7 +375,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3ml52pdkwvs2r",
     "published_iso": "2026-05-05T20:48:15.962000+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "b713f0de9699",
@@ -315,7 +396,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-astronaut-day-2be4/",
     "published_iso": "2026-05-05T19:39:57+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "3a8ccaf89257",
@@ -336,7 +417,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/05/national-physical-fitness-and-sports-month-2026/",
     "published_iso": "2026-05-05T16:52:13+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "e587370deb82",
@@ -363,7 +444,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/research/2026/05/savings-from-most-favored-nation-drug-pricing-policy/",
     "published_iso": "2026-05-05T14:36:40+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -389,7 +470,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "b74e1bb9a01a",
@@ -561,7 +642,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/may/public-hearings-regarding-section-301-investigations-relating-structural-excess-capacity",
     "published_iso": "2026-05-04T13:54:17+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "4bbc63a01960",
@@ -775,7 +856,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s112?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T15:36:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "0c7e6d29da11",
@@ -800,7 +881,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h154?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T15:14:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "b33e40b38cab",
@@ -825,7 +906,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h153?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T15:07:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "b85f20144934",
@@ -850,7 +931,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h152?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T14:59:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "d490757ee5d4",
@@ -869,7 +950,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h151?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T14:55:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "eab4062bc9f2",
@@ -894,7 +975,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h150?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T14:52:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "bcd5c9563556",
@@ -1026,7 +1107,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mkksfghmbk2z",
     "published_iso": "2026-04-28T14:31:38.230000+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "0047e3ab5b67",
@@ -1152,7 +1233,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-hosts-crypto-roundtable-with-comptroller-gould-and-governor-gordon/",
     "published_iso": "2026-04-09T13:37:03+00:00",
-    "time_ago": "26d ago"
+    "time_ago": "27d ago"
   },
   {
     "id": "a460129240a1",
@@ -1462,7 +1543,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/news-sanders-demands-reinstatement-of-jimmy-kimmel-live-program-in-vermont-calls-removal-of-show-censorship-plain-and-simple/",
     "published_iso": "2025-09-25T14:37:06+00:00",
-    "time_ago": "222d ago"
+    "time_ago": "223d ago"
   },
   {
     "id": "8c5a019a825f",
