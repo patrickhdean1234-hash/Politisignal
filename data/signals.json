@@ -1,6 +1,29 @@
 [
   {
-    "id": "3b5e09b786c0",
+    "id": "1d770cf1752e",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Bryant William C Iii bought 1,043 shares of Bank Of The James Financial Group Inc (BOTJ) \u00b7 $23.11/share \u00b7 $24,104 total \u00b7 May 7",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "BOTJ"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1347477/000143774926015552/0001437749-26-015552-index.htm",
+    "published_iso": "2026-05-07T19:48:58+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "4146e058ee02",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,78 +32,45 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Ford Bradley sold 1,940 shares of Nucor Corp (NUE) \u00b7 $232.11/share \u00b7 $450,294 total \u00b7 May 7 ($519,963 across all blocks)",
+    "content": "Von Muehlen Constance E received 2,462 shares of Terreno Realty Corp (TRNO) \u00b7 May 7",
     "tags": [],
     "tickers": [
-      "NUE"
+      "TRNO"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1978087/000007330926000062/0000073309-26-000062-index.htm",
-    "published_iso": "2026-05-07T17:33:36+00:00",
-    "time_ago": "33m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1855774/000147615026000020/0001476150-26-000020-index.htm",
+    "published_iso": "2026-05-07T19:44:52+00:00",
+    "time_ago": "7m ago"
   },
   {
-    "id": "658a20f7613d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "93f8670d6a3d",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
     },
-    "severity": "medium",
-    "content": "Brinton Jon sold 114,795 shares of Crexendo, Inc. (CXDO) \u00b7 $9.14/share \u00b7 $1,049,226 total \u00b7 May 7",
-    "tags": [],
-    "tickers": [
-      "CXDO"
+    "severity": "critical",
+    "content": "The Trump family crypto project quietly cashed in while regular investors got stuck holding the bag.\n\nAny crypto legislation that doesn\u2019t shut down this presidential corruption and protect investors isn\u2019t worth the paper it\u2019s written on.",
+    "tags": [
+      "Crypto",
+      "Regulation"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1692516/000165495426004481/0001654954-26-004481-index.htm",
-    "published_iso": "2026-05-07T17:33:16+00:00",
-    "time_ago": "33m ago"
+    "tickers": [
+      "BTC",
+      "ETH",
+      "COIN"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mlbwx2d3522f",
+    "published_iso": "2026-05-07T19:24:18.427000+00:00",
+    "time_ago": "27m ago"
   },
   {
-    "id": "235baaa62119",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Obama gives Dems a reality check: 'Talk like normal people'. If Democrats want to rebuild a durable coalition, especially with working-class voters, they\u00a0have to\u00a0do two things at once: speak plainly and deliver visibly",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/lindseys-lens/5868170-obama-colbert-democrats-voters/",
-    "published_iso": "2026-05-07T17:24:57+00:00",
-    "time_ago": "41m ago"
-  },
-  {
-    "id": "8bc8bdc85cdb",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Mike Rowe reveals huge salaries\u00a0of\u00a0data center electricians. In these tough economic times, there are still good paying jobs out there, and you\u00a0don\u2019t\u00a0even have to go massively into debt to get an otherwise\u00a0nearly worthless college degree to obtain them",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/robbys-radar/5868152-mike-rowe-reveals-huge-salaries-of-data-center-electricians/",
-    "published_iso": "2026-05-07T17:14:35+00:00",
-    "time_ago": "52m ago"
-  },
-  {
-    "id": "6c9dc82421e1",
+    "id": "d5a96209f4fb",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -89,20 +79,27 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Rubio unveils new Cuba sanctions. Secretary of State Marco Rubio unveiled a fresh batch of sanctions against one person and two Cuban entities on Thursday, solidifying a recent executive order that sought to exert greater pressure on the island\u2019s government. The new sanctions target Grupo de Administraci\u00f3n Empresarial ",
+    "content": "House Republican introduces bill that includes strict limits on Iran war. GOP Rep. Tom Barrett (Mich.) introduced a bill on Thursday that would require President Trump to wind down the Iran war by the end of July and would impose limits on the scope of the ongoing U.S. military campaign. Barrett, a 22-year Army veteran",
     "tags": [
+      "Energy",
       "Defense",
+      "Regulation",
       "Sanctions"
     ],
-    "tickers": [],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5868122-rubio-us-sanctions-cuba-leadership/",
-    "published_iso": "2026-05-07T17:14:32+00:00",
-    "time_ago": "52m ago"
+    "url": "https://thehill.com/homenews/house/5868398-gop-bill-iran-war/",
+    "published_iso": "2026-05-07T19:14:43+00:00",
+    "time_ago": "37m ago"
   },
   {
-    "id": "6190f70365ee",
+    "id": "cf46ed5f3a18",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -111,63 +108,32 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Live updates: Iran reviewing US peace proposal; Trump to host Brazil's Lula. Iranian officials are reviewing the latest U.S. peace proposal to end the more than two-month conflict and address Tehran's nuclear program, a day after President Trump threatened Tehran it would face renewed bombing if it rejects the deal. Se",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5866499-senate-trump-ballroom-spending/",
-    "published_iso": "2026-05-07T17:02:42+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "903e4e3dbb52",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Levin: Result of reported US proposal to end Iran war would be 'disastrous'. Conservative radio host Mark Levin cast doubt on the reported U.S. proposal to end the Iran war, saying it would be \u201cdisastrous\u201d if implemented. Axios reported the details of a one-page draft memorandum on Wednesday, a day after President Trum",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/media/5868059-mark-levin-criticizes-iran-deal/",
-    "published_iso": "2026-05-07T16:51:32+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "b25116a0b92e",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Marco Rubio and the rise of the real estate \u2018shadow state\u2019. The Trump administration has undermined the State Department by relying on personal fixers rather than professional diplomats, resulting in a lack of expertise and a misreading of the complexities of global security",
+    "content": "Slight majority favors requiring proof of citizenship to register to vote: Poll. A slight majority of Americans are in favor of requiring proof of citizenship to register to vote, according to a new poll. In the Politico poll, 52 percent of respondents said they either \u201cstrongly support\u201d or \u201csupport\u201d needing \u201cdocumenta",
     "tags": [],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/international/5867414-erosion-us-institutions-foreign-policy/",
-    "published_iso": "2026-05-07T16:30:00+00:00",
+    "url": "https://thehill.com/homenews/campaign/5868348-save-america-act-poll/",
+    "published_iso": "2026-05-07T19:07:33+00:00",
+    "time_ago": "44m ago"
+  },
+  {
+    "id": "570a83b2e2da",
+    "politician": "Politico",
+    "initials": "PO",
+    "role": "Political News",
+    "color": {
+      "bg": "#1a0a0a",
+      "fg": "#fca5a5"
+    },
+    "severity": "high",
+    "content": "Tennessee Republicans pass new gerrymander following Supreme Court's Voting Rights Act ruling. The map aims to give the GOP a clean sweep of the state\u2019s nine congressional districts by fracturing Black-majority Memphis between three districts",
+    "tags": [],
+    "tickers": [],
+    "source": "politico",
+    "platform": "Politico",
+    "url": "https://www.politico.com/news/2026/05/07/tennessee-republicans-redistricting-voting-rights-act-midterms-00910430",
+    "published_iso": "2026-05-07T18:45:22+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -193,7 +159,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mlbfjhtpw22c",
     "published_iso": "2026-05-07T14:12:29.232000+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "505f2f0ba9fd",
@@ -214,7 +180,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/05/07/poll-trump-save-america-act-voters-uncertain-00908224",
     "published_iso": "2026-05-07T08:45:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "961a00b4570b",
@@ -235,7 +201,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-day-of-prayer/",
     "published_iso": "2026-05-07T02:07:38+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "0eb0c9b1e163",
@@ -257,7 +223,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09094/publication-of-iranian-transactions-and-sanctions-regulations-web-general-licenses",
     "published_iso": "2026-05-07T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "78e5a96d0d2e",
@@ -279,7 +245,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09092/publication-of-venezuela-sanctions-regulations-web-general-licenses-46-46a-and-46b",
     "published_iso": "2026-05-07T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "f0af8f90f9fe",
@@ -301,7 +267,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09090/publication-of-venezuela-sanctions-regulations-web-general-licenses-47-48-49-and-50",
     "published_iso": "2026-05-07T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "2647ad4c6787",
@@ -323,7 +289,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09088/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-55e",
     "published_iso": "2026-05-07T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "ff2ce00c3ec8",
@@ -345,7 +311,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09086/publication-of-a-democratic-republic-of-the-congo-sanctions-regulations-web-general-license",
     "published_iso": "2026-05-07T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "77652cede1c8",
@@ -369,7 +335,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09085/publication-of-a-global-terrorism-sanctions-regulations-and-illicit-drug-trade-sanctions-regulations",
     "published_iso": "2026-05-07T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "5cfdf5c1331e",
@@ -391,7 +357,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09084/publication-of-a-belarus-sanctions-regulations-web-general-license",
     "published_iso": "2026-05-07T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "c033c5870f07",
@@ -412,28 +378,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09083/accelerating-wireline-broadband-deployment-by-removing-barriers-to-infrastructure-investment",
     "published_iso": "2026-05-07T00:00:00+00:00",
-    "time_ago": "18h ago"
-  },
-  {
-    "id": "e4fd0f43036c",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "Trump's bank regulators are finally realizing that consumer fraud is a problem for the financial system.\n\nHuh, I wonder if there's a federal agency designed to stop consumers from getting scammed? Oh wait, there is, the CFPB \u2014 and the Trump Administration is trying to destroy it.",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3ml7nokvvis2s",
-    "published_iso": "2026-05-06T21:33:10.679000+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "d2219a1acf6a",
@@ -454,7 +399,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/aoc.bsky.social/post/3ml7mg7do4k23",
     "published_iso": "2026-05-06T21:10:36.371000+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "10d4b1d2d39f",
@@ -473,28 +418,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/f/?id=0000019d-feb0-d64a-a5dd-fefa52fd0000",
     "published_iso": "2026-05-06T19:13:55+00:00",
-    "time_ago": "22h ago"
-  },
-  {
-    "id": "3e78966a6cdf",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "Donald Trump is slapping his face on everything from passports to coins. But here are things he won\u2019t put his name on:\n\n15 million Americans losing health coverage\nGas prices at a 4-year high\nTariffs costing families $2,500\n\nTrump wants his face on everything but accountability.",
-    "tags": [
-      "Trade"
-    ],
-    "tickers": [],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3ml7dvfr5as2q",
-    "published_iso": "2026-05-06T18:38:02.743000+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "a9bbd779e408",
@@ -593,27 +517,6 @@
     "time_ago": "1d ago"
   },
   {
-    "id": "e43bbb99814c",
-    "politician": "Politico",
-    "initials": "PO",
-    "role": "Political News",
-    "color": {
-      "bg": "#1a0a0a",
-      "fg": "#fca5a5"
-    },
-    "severity": "medium",
-    "content": "Billionaires of the world, unite!",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "politico",
-    "platform": "Politico",
-    "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/05/05/mamandi-billionaires-steve-roth-new-york-00906971",
-    "published_iso": "2026-05-05T21:14:14+00:00",
-    "time_ago": "1d ago"
-  },
-  {
     "id": "b713f0de9699",
     "politician": "White House",
     "initials": "WH",
@@ -632,7 +535,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-astronaut-day-2be4/",
     "published_iso": "2026-05-05T19:39:57+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "3a8ccaf89257",
@@ -902,7 +805,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ambassador-greer-issues-statement-preferential-duty-access-whiskey-produced-united-kingdom",
     "published_iso": "2026-04-30T19:45:13+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "7aadbdb481a1",
@@ -926,7 +829,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/april/ustr-releases-2026-special-301-report-intellectual-property-protection-and-enforcement",
     "published_iso": "2026-04-30T18:26:09+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "8ad62406dfd2",
@@ -1241,7 +1144,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-led-fences-act-clears-u-s-house/",
     "published_iso": "2026-04-16T18:07:32+00:00",
-    "time_ago": "20d ago"
+    "time_ago": "21d ago"
   },
   {
     "id": "987e63291ad4",
@@ -1270,7 +1173,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mjkle76hac25",
     "published_iso": "2026-04-15T19:00:28.593534+00:00",
-    "time_ago": "21d ago"
+    "time_ago": "22d ago"
   },
   {
     "id": "d773df1a1b2c",
@@ -1368,7 +1271,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-introduces-legislation-to-codify-trumps-nuclear-baseload-energy-executive-orders/",
     "published_iso": "2026-03-26T18:12:45+00:00",
-    "time_ago": "41d ago"
+    "time_ago": "42d ago"
   },
   {
     "id": "42002aa36a3f",
@@ -1411,7 +1314,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/news-sanders-welch-balint-statement-on-recent-ice-raids-in-south-burlington/",
     "published_iso": "2026-03-12T18:51:43+00:00",
-    "time_ago": "55d ago"
+    "time_ago": "56d ago"
   },
   {
     "id": "3c2b4ad7a11c",
@@ -1496,7 +1399,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/aoc.bsky.social/post/3mfhthlg3u22x",
     "published_iso": "2026-02-22T19:06:46.919000+00:00",
-    "time_ago": "73d ago"
+    "time_ago": "74d ago"
   },
   {
     "id": "602146d3f751",
@@ -1518,7 +1421,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-announces-2026-service-academy-nominations/",
     "published_iso": "2026-02-18T19:38:51+00:00",
-    "time_ago": "77d ago"
+    "time_ago": "78d ago"
   },
   {
     "id": "79af8a04fb57",
@@ -1867,7 +1770,7 @@
     "platform": ".gov",
     "url": "http://jordan.house.gov/media/blog/gop-fbi-refusing-accept-accountability-enforcing-doj-school-boards-memo",
     "published_iso": "2022-02-10T19:37:15+00:00",
-    "time_ago": "1546d ago"
+    "time_ago": "1547d ago"
   },
   {
     "id": "718743804c07",
@@ -1888,6 +1791,6 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about-us/policy-offices/press-office/blog/weekly-trade-focus-apec",
     "published_iso": "2009-07-20T18:28:39+00:00",
-    "time_ago": "6134d ago"
+    "time_ago": "6135d ago"
   }
 ]
