@@ -1,48 +1,93 @@
 [
   {
-    "id": "53fb31af2d12",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "658ea2185e47",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Bornemann Keith E. sold 2,000 shares of Hilltop Holdings Inc. (HTH) \u00b7 $38.00/share \u00b7 $76,000 total \u00b7 May 6",
+    "severity": "high",
+    "content": "California governor's debate devolves into bickering as primary nears. As candidates for governor of California struggle to stand out in their bids to succeed Gov. Gavin Newsom (D), a Wednesday debate saw deep policy debate devolve into bickering among the crowded field.  Former Health and Human Services Secretary Xavi",
     "tags": [],
-    "tickers": [
-      "HTH"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1420756/000142075626000005/0001420756-26-000005-index.htm",
-    "published_iso": "2026-05-07T01:14:45+00:00",
-    "time_ago": "3m ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/5867335-california-governor-debate-bickering/",
+    "published_iso": "2026-05-07T03:55:24+00:00",
+    "time_ago": "51m ago"
   },
   {
-    "id": "665e49727538",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "b9228dc00c9b",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Hank Gonzalez Carlos exercised derivative for 277,500 shares of Grupo Televisa, S.A.B. (GRPFF) \u00b7 $0.09/share \u00b7 $24,975 total \u00b7 May 6 ($50,340 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "GRPFF"
+    "severity": "critical",
+    "content": "Iranian official calls reported peace proposal 'Americans' wish list'. An Iranian official on Wednesday called a reported peace deal for the end to the U.S. war against Iran the \u201cAmericans\u2019 wish list.\u201d \u201cAxios' text is Americans' wish list until it becomes reality,\u201d Ebrahim Rezaei, a spokesperson for the Iranian parliam",
+    "tags": [
+      "Sanctions"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2124084/000089534526000210/0000895345-26-000210-index.htm",
-    "published_iso": "2026-05-07T01:10:53+00:00",
-    "time_ago": "7m ago"
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/defense/5867352-iranian-official-peace-proposal-americans-wish-list/",
+    "published_iso": "2026-05-07T03:06:35+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "07d807d3607c",
+    "id": "ad43ff99f67a",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "PlayStation users could get refunds in Sony settlement. Sony was accused of monopolizing the market and driving up prices for specific digital games purchased through the PlayStation Store",
+    "tags": [
+      "Antitrust",
+      "Insider Trade"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/5867296-playstation-users-could-get-refunds-in-sony-settlement/",
+    "published_iso": "2026-05-07T02:22:32+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "961a00b4570b",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "Presidential Message on National Day of Prayer. This National Day of Prayer, we honor America\u2019s\u00a0enduring tradition\u00a0of\u00a0prayer, faith, and trust in\u00a0Almighty\u00a0God. \u00a0And as we celebrate\u00a0250\u00a0glorious years\u00a0of\u00a0American\u00a0independence,\u00a0we pledge to never forget\u00a0the countless blessings\u00a0God\u00a0has bestowed upon\u00a0our\u00a0people\u00a0and our cou",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-day-of-prayer/",
+    "published_iso": "2026-05-07T02:07:38+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "1c462c5b5cb4",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -51,16 +96,186 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Gap Coinvestments Cda, L.P. bought 521,771 shares of Alkami Technology, Inc. (ALKT) \u00b7 $16.92/share \u00b7 $8,828,365 total \u00b7 May 6 ($34,664,924 across all blocks)",
+    "content": "Rajavelu Esther sold 25,240 shares of Spero Therapeutics, Inc. (SPRO) \u00b7 $2.51/share \u00b7 $63,352 total \u00b7 May 6",
     "tags": [],
     "tickers": [
-      "ALKT"
+      "SPRO"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2085145/000095014226001307/0000950142-26-001307-index.htm",
-    "published_iso": "2026-05-07T01:10:21+00:00",
-    "time_ago": "8m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1903716/000119312526209884/0001193125-26-209884-index.htm",
+    "published_iso": "2026-05-07T01:53:26+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "4eac26d9082a",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Korn Jeffrey G exercised options for 278 shares of Crexendo, Inc. (CXDO) \u00b7 May 6 ($338,686 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "CXDO"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1282348/000165495426004434/0001654954-26-004434-index.htm",
+    "published_iso": "2026-05-07T01:51:10+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "eaede015dd92",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Gaylor Douglas Walter exercised options for 278 shares of Crexendo, Inc. (CXDO) \u00b7 May 6 ($356,243 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "CXDO"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1550317/000165495426004431/0001654954-26-004431-index.htm",
+    "published_iso": "2026-05-07T01:38:43+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "4cd9a7bf0155",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Rabinowitz Matthew sold 722 shares of Natera, Inc. (NTRA) \u00b7 $206.16/share \u00b7 $148,848 total \u00b7 May 6 ($1,642,211 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "NTRA"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1646382/000164638226000008/0001646382-26-000008-index.htm",
+    "published_iso": "2026-05-07T01:35:06+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "2a41c60e8f0b",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Schneeberger Daniel bought 3,900 shares of Rallybio Corp (RLYB) \u00b7 $13.90/share \u00b7 $54,201 total \u00b7 May 6 ($2,178,668 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "RLYB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1940272/000110465926056540/0001104659-26-056540-index.htm",
+    "published_iso": "2026-05-07T01:32:48+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "120ed7014c95",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Singer Eric sold 24,698 shares of A10 Networks, Inc. (ATEN) \u00b7 $27.21/share \u00b7 $672,033 total \u00b7 May 6",
+    "tags": [],
+    "tickers": [
+      "ATEN"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1580808/000144328426000005/0001443284-26-000005-index.htm",
+    "published_iso": "2026-05-07T01:32:43+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "a9cceb2b664c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Behrenbruch Christian bought 34,500 shares of Telix Pharmaceuticals Ltd (TLPPF) \u00b7 $14.48/share \u00b7 $499,560 total \u00b7 May 6 ($996,738 across all blocks)",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "TLPPF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2037713/000162828026031608/0001628280-26-031608-index.htm",
+    "published_iso": "2026-05-07T01:32:08+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "a7be39aa6c34",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Trivedi Dhrupad exercised options for 63,406 shares of A10 Networks, Inc. (ATEN) \u00b7 May 6 ($891,438 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "ATEN"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1580808/000157046226000018/0001570462-26-000018-index.htm",
+    "published_iso": "2026-05-07T01:30:51+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "5ce8718bc3e3",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Weber Robert Scott exercised options for 3,882 shares of A10 Networks, Inc. (ATEN) \u00b7 May 6 ($52,361 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "ATEN"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1936128/000193612826000017/0001936128-26-000017-index.htm",
+    "published_iso": "2026-05-07T01:29:26+00:00",
+    "time_ago": "3h ago"
   },
   {
     "id": "3fd1e30744a9",
@@ -86,54 +301,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/5867179-trumps-pivot-toward-peace-deal/",
     "published_iso": "2026-05-06T22:41:56+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "376b54838cca",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Trump economic adviser: 'Credit card spending is through the roof'. One of President Trump\u2019s economic advisers projected a \u201cvery, very strong\u201d job market future in the U.S. on Wednesday, despite price hikes amid the Iran war.\u00a0 \u201cI had the head of one of the big five banks in my office yesterday going through credit card",
-    "tags": [
-      "Banking",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5867139-strong-job-market-us/",
-    "published_iso": "2026-05-06T22:26:16+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "64904ad8c284",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Neil deGrasse Tyson: 'I expect the alien files will be anticlimactic'. Astrophysicist Neil deGrasse Tyson predicted that government files on UFOs and unidentified anomalous phenomena (UAPs) \u201cwill be anticlimactic.\u201d \u201cThe impending release of U.S. government files on aliens and U.F.O.s is a good thing, even if it feels l",
-    "tags": [
-      "Trade"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/blogs/in-the-know/5867099-neil-degrasse-tyson-us-ufo-files/",
-    "published_iso": "2026-05-06T22:13:12+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "e4fd0f43036c",
@@ -154,26 +322,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3ml7nokvvis2s",
     "published_iso": "2026-05-06T21:33:10.679000+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "31df780b1dee",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Democrats rail against Lutnick interview on Epstein as 'egregious cover-up'. House Democrats on Wednesday blasted Commerce Secretary Howard Lutnick\u2019s testimony before the Oversight and Government Reform Committee, arguing that his claimed lack of knowledge about convicted sex offender Jeffrey Epstein\u2019s crimes is part o",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/5866926-democrats-lutnick-oversight-interview-epstein/",
-    "published_iso": "2026-05-06T21:28:49+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "d2219a1acf6a",
@@ -194,7 +343,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/aoc.bsky.social/post/3ml7mg7do4k23",
     "published_iso": "2026-05-06T21:10:36.371000+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "10d4b1d2d39f",
@@ -213,7 +362,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/f/?id=0000019d-feb0-d64a-a5dd-fefa52fd0000",
     "published_iso": "2026-05-06T19:13:55+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "3e78966a6cdf",
@@ -234,7 +383,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3ml7dvfr5as2q",
     "published_iso": "2026-05-06T18:38:02.743000+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "a9bbd779e408",
@@ -256,7 +405,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-nurses-day/",
     "published_iso": "2026-05-06T17:46:22+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "632d29968e32",
@@ -283,7 +432,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/first-lady-melania-trump-honors-military-mothers-the-soul-of-our-nation/",
     "published_iso": "2026-05-06T17:34:22+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "caa05201b0ae",
@@ -309,7 +458,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/following-armed-services-committee-hearing-warren-questions-hegseth-on-trump-family-pentagon-contracts",
     "published_iso": "2026-05-06T15:25:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "5ea52e96901e",
@@ -331,7 +480,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3ml6yw2maxs2k",
     "published_iso": "2026-05-06T15:21:33.442000+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "363b34df67fe",
@@ -352,7 +501,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/05/05/jd-vance-iowa-2028-election-00907583",
     "published_iso": "2026-05-06T01:27:51+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "dcb07ba90d4f",
@@ -638,27 +787,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/05/jewish-american-heritage-month-2026/",
     "published_iso": "2026-05-04T23:06:14+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "68ecbf3fc597",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "America 250: Presidential Message on the Anniversary of the Battle of the Coral Sea. Today, our Nation commemorates the 84th anniversary of the Battle of the Coral Sea, honoring the brave Americans and Australians who joined forces to turn the tide of World War II in the Pacific against tyranny.&#160; Through their sha",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/briefings-statements/2026/05/america-250-presidential-message-on-the-anniversary-of-the-battle-of-the-coral-sea/",
-    "published_iso": "2026-05-04T22:23:03+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -1605,7 +1733,7 @@
     "platform": ".gov",
     "url": "http://khanna.house.gov/media/ros-op-eds/opinion-democrats-must-make-case-government-can-be-effective-and-good",
     "published_iso": "2025-02-19T02:51:28+00:00",
-    "time_ago": "441d ago"
+    "time_ago": "442d ago"
   },
   {
     "id": "d026d19a063b",
@@ -1624,7 +1752,7 @@
     "platform": ".gov",
     "url": "http://khanna.house.gov/media/ros-op-eds/ro-khanna-democrats-have-future-here-it",
     "published_iso": "2025-02-14T03:15:17+00:00",
-    "time_ago": "446d ago"
+    "time_ago": "447d ago"
   },
   {
     "id": "0ea19a115c74",
