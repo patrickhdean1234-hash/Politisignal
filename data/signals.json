@@ -1,6 +1,48 @@
 [
   {
-    "id": "7dbcd6827a21",
+    "id": "3b5e09b786c0",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ford Bradley sold 1,940 shares of Nucor Corp (NUE) \u00b7 $232.11/share \u00b7 $450,294 total \u00b7 May 7 ($519,963 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "NUE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1978087/000007330926000062/0000073309-26-000062-index.htm",
+    "published_iso": "2026-05-07T17:33:36+00:00",
+    "time_ago": "33m ago"
+  },
+  {
+    "id": "658a20f7613d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Brinton Jon sold 114,795 shares of Crexendo, Inc. (CXDO) \u00b7 $9.14/share \u00b7 $1,049,226 total \u00b7 May 7",
+    "tags": [],
+    "tickers": [
+      "CXDO"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1692516/000165495426004481/0001654954-26-004481-index.htm",
+    "published_iso": "2026-05-07T17:33:16+00:00",
+    "time_ago": "33m ago"
+  },
+  {
+    "id": "235baaa62119",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,21 +51,17 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Anthropic adding computing capacity from Musk's SpaceX. Elon Musk\u2019s SpaceX has signed a deal to provide computing capability for Anthropic as the demand ramps up for the artificial intelligence firm\u2019s products.\u00a0 In an announcement Wednesday, the companies said Musk\u2019s firm will allow Anthropic to use all of the compute ",
-    "tags": [
-      "Semiconductors"
-    ],
-    "tickers": [
-      "TSLA"
-    ],
+    "content": "Obama gives Dems a reality check: 'Talk like normal people'. If Democrats want to rebuild a durable coalition, especially with working-class voters, they\u00a0have to\u00a0do two things at once: speak plainly and deliver visibly",
+    "tags": [],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/5867940-musk-spacex-ai-anthropic/",
-    "published_iso": "2026-05-07T15:54:38+00:00",
-    "time_ago": "31m ago"
+    "url": "https://thehill.com/opinion/lindseys-lens/5868170-obama-colbert-democrats-voters/",
+    "published_iso": "2026-05-07T17:24:57+00:00",
+    "time_ago": "41m ago"
   },
   {
-    "id": "6a831eaa014d",
+    "id": "8bc8bdc85cdb",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -32,24 +70,17 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Expansion of E15: A gift to the ethanol lobby and a consumer betrayal. The Renewable Fuel Standard (RFS) is a costly and destructive federal mandate that should be reformed to lower fuel prices, promote competitive markets, and ensure American energy dominance",
-    "tags": [
-      "Energy"
-    ],
-    "tickers": [
-      "XOM",
-      "FSLR",
-      "ENPH",
-      "XLE"
-    ],
+    "content": "Mike Rowe reveals huge salaries\u00a0of\u00a0data center electricians. In these tough economic times, there are still good paying jobs out there, and you\u00a0don\u2019t\u00a0even have to go massively into debt to get an otherwise\u00a0nearly worthless college degree to obtain them",
+    "tags": [],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/energy-environment/5867192-e15-ethanol-hidden-tax/",
-    "published_iso": "2026-05-07T15:30:00+00:00",
-    "time_ago": "56m ago"
+    "url": "https://thehill.com/opinion/robbys-radar/5868152-mike-rowe-reveals-huge-salaries-of-data-center-electricians/",
+    "published_iso": "2026-05-07T17:14:35+00:00",
+    "time_ago": "52m ago"
   },
   {
-    "id": "737d54b2f40a",
+    "id": "6c9dc82421e1",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -57,22 +88,18 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Ending military aid to Israel would be good for Israel and bad for America. For the United States, it is a small saving that ships American jobs overseas and weakens a proven alliance",
+    "severity": "critical",
+    "content": "Rubio unveils new Cuba sanctions. Secretary of State Marco Rubio unveiled a fresh batch of sanctions against one person and two Cuban entities on Thursday, solidifying a recent executive order that sought to exert greater pressure on the island\u2019s government. The new sanctions target Grupo de Administraci\u00f3n Empresarial ",
     "tags": [
-      "Defense"
+      "Defense",
+      "Sanctions"
     ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/international/5866360-israel-us-defense-alliance/",
-    "published_iso": "2026-05-07T15:00:00+00:00",
-    "time_ago": "1h ago"
+    "url": "https://thehill.com/homenews/administration/5868122-rubio-us-sanctions-cuba-leadership/",
+    "published_iso": "2026-05-07T17:14:32+00:00",
+    "time_ago": "52m ago"
   },
   {
     "id": "6190f70365ee",
@@ -96,11 +123,36 @@
     "source": "thehill",
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/administration/5866499-senate-trump-ballroom-spending/",
-    "published_iso": "2026-05-07T14:57:46+00:00",
+    "published_iso": "2026-05-07T17:02:42+00:00",
     "time_ago": "1h ago"
   },
   {
-    "id": "51fb8d6bd9fd",
+    "id": "903e4e3dbb52",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Levin: Result of reported US proposal to end Iran war would be 'disastrous'. Conservative radio host Mark Levin cast doubt on the reported U.S. proposal to end the Iran war, saying it would be \u201cdisastrous\u201d if implemented. Axios reported the details of a one-page draft memorandum on Wednesday, a day after President Trum",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/media/5868059-mark-levin-criticizes-iran-deal/",
+    "published_iso": "2026-05-07T16:51:32+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "b25116a0b92e",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -109,34 +161,13 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Hantavirus risk to US public very low: CDC. Dr. Jay Bhattacharya, the acting director of the Centers for Disease Control and Prevention (CDC), said Wednesday that the risk of hantavirus to the American public is \u201cvery low\u201d amid an outbreak of the disease on a cruise ship headed to Europe. Three people, a Dutch couple a",
+    "content": "Marco Rubio and the rise of the real estate \u2018shadow state\u2019. The Trump administration has undermined the State Department by relying on personal fixers rather than professional diplomats, resulting in a lack of expertise and a misreading of the complexities of global security",
     "tags": [],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/healthcare/5867815-cdc-hantavirus-us-risk-low/",
-    "published_iso": "2026-05-07T14:56:02+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "6bd1b74f351d",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Lawmakers demand answers after 32K gallons of jet fuel leaks at Joint Base Andrews. Nearly every member of Congress representing Maryland is demanding more information from Air Force Secretary Troy Meink after 32,000 gallons of jet fuel leaked at Joint Base Andrews earlier this year, setting off an investigation. In a ",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/defense/5867836-jet-fuel-leak-joint-base-andrews/",
-    "published_iso": "2026-05-07T14:54:27+00:00",
+    "url": "https://thehill.com/opinion/international/5867414-erosion-us-institutions-foreign-policy/",
+    "published_iso": "2026-05-07T16:30:00+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -162,7 +193,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mlbfjhtpw22c",
     "published_iso": "2026-05-07T14:12:29.232000+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "505f2f0ba9fd",
@@ -183,7 +214,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/05/07/poll-trump-save-america-act-voters-uncertain-00908224",
     "published_iso": "2026-05-07T08:45:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "961a00b4570b",
@@ -204,7 +235,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-day-of-prayer/",
     "published_iso": "2026-05-07T02:07:38+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "0eb0c9b1e163",
@@ -226,7 +257,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09094/publication-of-iranian-transactions-and-sanctions-regulations-web-general-licenses",
     "published_iso": "2026-05-07T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "78e5a96d0d2e",
@@ -248,7 +279,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09092/publication-of-venezuela-sanctions-regulations-web-general-licenses-46-46a-and-46b",
     "published_iso": "2026-05-07T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "f0af8f90f9fe",
@@ -270,7 +301,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09090/publication-of-venezuela-sanctions-regulations-web-general-licenses-47-48-49-and-50",
     "published_iso": "2026-05-07T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "2647ad4c6787",
@@ -292,7 +323,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09088/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-55e",
     "published_iso": "2026-05-07T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "ff2ce00c3ec8",
@@ -314,7 +345,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09086/publication-of-a-democratic-republic-of-the-congo-sanctions-regulations-web-general-license",
     "published_iso": "2026-05-07T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "77652cede1c8",
@@ -338,7 +369,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09085/publication-of-a-global-terrorism-sanctions-regulations-and-illicit-drug-trade-sanctions-regulations",
     "published_iso": "2026-05-07T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "5cfdf5c1331e",
@@ -360,7 +391,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09084/publication-of-a-belarus-sanctions-regulations-web-general-license",
     "published_iso": "2026-05-07T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "c033c5870f07",
@@ -381,7 +412,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09083/accelerating-wireline-broadband-deployment-by-removing-barriers-to-infrastructure-investment",
     "published_iso": "2026-05-07T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "e4fd0f43036c",
@@ -402,7 +433,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3ml7nokvvis2s",
     "published_iso": "2026-05-06T21:33:10.679000+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "d2219a1acf6a",
@@ -423,7 +454,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/aoc.bsky.social/post/3ml7mg7do4k23",
     "published_iso": "2026-05-06T21:10:36.371000+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "10d4b1d2d39f",
@@ -442,7 +473,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/f/?id=0000019d-feb0-d64a-a5dd-fefa52fd0000",
     "published_iso": "2026-05-06T19:13:55+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "3e78966a6cdf",
@@ -463,7 +494,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3ml7dvfr5as2q",
     "published_iso": "2026-05-06T18:38:02.743000+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "a9bbd779e408",
@@ -485,7 +516,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-nurses-day/",
     "published_iso": "2026-05-06T17:46:22+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "632d29968e32",
@@ -512,7 +543,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/first-lady-melania-trump-honors-military-mothers-the-soul-of-our-nation/",
     "published_iso": "2026-05-06T17:34:22+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "caa05201b0ae",
@@ -622,7 +653,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/05/national-physical-fitness-and-sports-month-2026/",
     "published_iso": "2026-05-05T16:52:13+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "e587370deb82",
@@ -765,7 +796,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/new-responses-from-education-treasury-departments-reveal-trump-admin-cannot-justify-attempts-to-dismantle-education-department",
     "published_iso": "2026-05-04T18:00:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "5247dbd2fbc8",
@@ -914,7 +945,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s113?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T17:59:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "2f2bea8148dd",
@@ -1146,7 +1177,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mknlrsfodc2v",
     "published_iso": "2026-04-29T17:11:16.425000+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "4834f3e8f4bb",
@@ -1262,7 +1293,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-cruz-file-amicus-brief-backing-trump-administrations-push-to-repeal-endangerment-finding/",
     "published_iso": "2026-04-15T17:31:26+00:00",
-    "time_ago": "21d ago"
+    "time_ago": "22d ago"
   },
   {
     "id": "7e97dd57aa17",
@@ -1509,7 +1540,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meetings-in-sheldon-bristol-and-poultney/",
     "published_iso": "2026-01-29T16:27:05+00:00",
-    "time_ago": "97d ago"
+    "time_ago": "98d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1535,7 +1566,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "104d ago"
+    "time_ago": "105d ago"
   },
   {
     "id": "d39ac85b9cc9",
