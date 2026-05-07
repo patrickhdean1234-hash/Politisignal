@@ -1,258 +1,77 @@
 [
   {
-    "id": "05e81d3f3674",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Kosel Chris sold 971 shares of Lennox International Inc (LII) \u00b7 $544.80/share \u00b7 $529,001 total \u00b7 May 7",
-    "tags": [],
-    "tickers": [
-      "LII"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1703854/000106920226000056/0001069202-26-000056-index.htm",
-    "published_iso": "2026-05-07T14:38:15+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "5662395035bf",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Ma Weiping received 23,622 shares of Intchains Group Ltd (ICG) \u00b7 May 7",
-    "tags": [],
-    "tickers": [
-      "ICG"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2111557/000149315226021652/0001493152-26-021652-index.htm",
-    "published_iso": "2026-05-07T14:31:40+00:00",
-    "time_ago": "8m ago"
-  },
-  {
-    "id": "2c61bac352bd",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Lee Conway Kong Wai received 23,622 shares of Intchains Group Ltd (ICG) \u00b7 May 7",
-    "tags": [],
-    "tickers": [
-      "ICG"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1895597/000149315226021649/0001493152-26-021649-index.htm",
-    "published_iso": "2026-05-07T14:29:36+00:00",
-    "time_ago": "10m ago"
-  },
-  {
-    "id": "890249d2c366",
+    "id": "7dbcd6827a21",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
     "color": {
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Watch live: Trump hosts Brazil's President Lula at White House. President Trump on Thursday morning will welcome Brazilian President Luiz In\u00e1cio Lula da Silva for a working visit at the White House. An administration official told The Hill earlier this week that the discussions will focus on economic and security matte",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/video-clips/5867688-watch-live-donald-trump-brazil-luiz-lula-jair-bolsonaro-trade-security/",
-    "published_iso": "2026-05-07T14:27:53+00:00",
-    "time_ago": "12m ago"
-  },
-  {
-    "id": "8bf9ad3c57b1",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Gu Qingyang received 23,622 shares of Intchains Group Ltd (ICG) \u00b7 May 7",
-    "tags": [],
-    "tickers": [
-      "ICG"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2112964/000149315226021647/0001493152-26-021647-index.htm",
-    "published_iso": "2026-05-07T14:27:28+00:00",
-    "time_ago": "12m ago"
-  },
-  {
-    "id": "be3dd116ef0e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Fearon Richard H received 417 shares of Crown Holdings, Inc. (CCK) \u00b7 $99.04/share \u00b7 $41,299 total \u00b7 May 7",
-    "tags": [],
-    "tickers": [
-      "CCK"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1219601/000143774926015398/0001437749-26-015398-index.htm",
-    "published_iso": "2026-05-07T14:23:10+00:00",
-    "time_ago": "16m ago"
-  },
-  {
-    "id": "7241f4e6e447",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Chief Justice John Roberts says Supreme Court doesn't have 'purely political actors'. Supreme Court Chief Justice John Roberts said Wednesday that the nation\u2019s highest court doesn\u2019t feature \u201cpurely political actors,\u201d comments that come after a notable decision affecting the Voting Rights Act. \u201cI think, at a very basic ",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/regulation/court-battles/5867749-supreme-court-roberts-political-actors/",
-    "published_iso": "2026-05-07T14:13:42+00:00",
-    "time_ago": "26m ago"
-  },
-  {
-    "id": "e66a612cb0bd",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
     },
     "severity": "high",
-    "content": "Average gas prices are $4.50 per gallon.\n\nGas prices are up 50% since the start of Trump\u2019s war with Iran.\n\nAnd remember, Senate Republicans have voted 6 times to continue Trump\u2019s war.\n\nEnd the war. Lower costs.",
+    "content": "Anthropic adding computing capacity from Musk's SpaceX. Elon Musk\u2019s SpaceX has signed a deal to provide computing capability for Anthropic as the demand ramps up for the artificial intelligence firm\u2019s products.\u00a0 In an announcement Wednesday, the companies said Musk\u2019s firm will allow Anthropic to use all of the compute ",
     "tags": [
-      "Sanctions"
+      "Semiconductors"
+    ],
+    "tickers": [
+      "TSLA"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/5867940-musk-spacex-ai-anthropic/",
+    "published_iso": "2026-05-07T15:54:38+00:00",
+    "time_ago": "31m ago"
+  },
+  {
+    "id": "6a831eaa014d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Expansion of E15: A gift to the ethanol lobby and a consumer betrayal. The Renewable Fuel Standard (RFS) is a costly and destructive federal mandate that should be reformed to lower fuel prices, promote competitive markets, and ensure American energy dominance",
+    "tags": [
+      "Energy"
+    ],
+    "tickers": [
+      "XOM",
+      "FSLR",
+      "ENPH",
+      "XLE"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/energy-environment/5867192-e15-ethanol-hidden-tax/",
+    "published_iso": "2026-05-07T15:30:00+00:00",
+    "time_ago": "56m ago"
+  },
+  {
+    "id": "737d54b2f40a",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Ending military aid to Israel would be good for Israel and bad for America. For the United States, it is a small saving that ships American jobs overseas and weakens a proven alliance",
+    "tags": [
+      "Defense"
     ],
     "tickers": [
       "LMT",
       "RTX",
-      "XOM"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mlbfjhtpw22c",
-    "published_iso": "2026-05-07T14:12:29.232000+00:00",
-    "time_ago": "27m ago"
-  },
-  {
-    "id": "0cd973059fcb",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "South Carolina state House leaves door open for redistricting. Republicans in the South Carolina state House voted on Wednesday to extend their legislative calendar, leaving the door open to drawing new congressional lines after the Supreme Court\u2019s landmark ruling rattled the redistricting arms race.  The extension mus",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/5867706-south-carolina-redistricting-fight/",
-    "published_iso": "2026-05-07T13:46:36+00:00",
-    "time_ago": "53m ago"
-  },
-  {
-    "id": "21beb63ef80e",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Airline trade group CEO: 'There will be a price increase on your ticket'. Former New Jersey Gov. Chris Sununu (R), the CEO of Airlines for America, said Wednesday that airline ticket prices will increase as jet fuel costs rise. Sununu told host Blake Burman on NewsNation\u2019s \u201cThe Hill\u201d that the cost of jet fuel has doubl",
-    "tags": [
-      "Trade",
-      "Sanctions"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/transportation/5867622-jet-fuel-costs-increase/",
-    "published_iso": "2026-05-07T13:37:22+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "0d475a222788",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Congress must secure the future of college sports. The NCAA is working to modernize college sports with new financial benefits, healthcare, and scholarship support for student-athletes, but is facing challenges from lawsuits and potential employment mandates that could threaten opportunities for student-athletes and pr",
-    "tags": [
-      "Healthcare",
-      "Regulation"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
+      "NOC",
+      "GD"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/education/5867267-student-athlete-rights-protections-score/",
-    "published_iso": "2026-05-07T13:30:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "5337eaa01352",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Top Virginia state senator on FBI raid: 'I am not backing down'. Virginia state Senate leader L. Louise Lucas (D) struck an unyielding tone on Wednesday after federal authorities searched her office and a nearby cannabis dispensary that she co-owns, casting the reported probe against her as politically motivated. \u201cToda",
-    "tags": [
-      "Defense"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/state-watch/5867602-top-virginia-state-democrat-louise-lucas-fbi-raid/",
-    "published_iso": "2026-05-07T13:25:35+00:00",
+    "url": "https://thehill.com/opinion/international/5866360-israel-us-defense-alliance/",
+    "published_iso": "2026-05-07T15:00:00+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -277,8 +96,73 @@
     "source": "thehill",
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/administration/5866499-senate-trump-ballroom-spending/",
-    "published_iso": "2026-05-07T13:09:52+00:00",
+    "published_iso": "2026-05-07T14:57:46+00:00",
     "time_ago": "1h ago"
+  },
+  {
+    "id": "51fb8d6bd9fd",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Hantavirus risk to US public very low: CDC. Dr. Jay Bhattacharya, the acting director of the Centers for Disease Control and Prevention (CDC), said Wednesday that the risk of hantavirus to the American public is \u201cvery low\u201d amid an outbreak of the disease on a cruise ship headed to Europe. Three people, a Dutch couple a",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/healthcare/5867815-cdc-hantavirus-us-risk-low/",
+    "published_iso": "2026-05-07T14:56:02+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "6bd1b74f351d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Lawmakers demand answers after 32K gallons of jet fuel leaks at Joint Base Andrews. Nearly every member of Congress representing Maryland is demanding more information from Air Force Secretary Troy Meink after 32,000 gallons of jet fuel leaked at Joint Base Andrews earlier this year, setting off an investigation. In a ",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/defense/5867836-jet-fuel-leak-joint-base-andrews/",
+    "published_iso": "2026-05-07T14:54:27+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "e66a612cb0bd",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "high",
+    "content": "Average gas prices are $4.50 per gallon.\n\nGas prices are up 50% since the start of Trump\u2019s war with Iran.\n\nAnd remember, Senate Republicans have voted 6 times to continue Trump\u2019s war.\n\nEnd the war. Lower costs.",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mlbfjhtpw22c",
+    "published_iso": "2026-05-07T14:12:29.232000+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "505f2f0ba9fd",
@@ -299,7 +183,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/05/07/poll-trump-save-america-act-voters-uncertain-00908224",
     "published_iso": "2026-05-07T08:45:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "961a00b4570b",
@@ -320,7 +204,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-day-of-prayer/",
     "published_iso": "2026-05-07T02:07:38+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "0eb0c9b1e163",
@@ -342,7 +226,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09094/publication-of-iranian-transactions-and-sanctions-regulations-web-general-licenses",
     "published_iso": "2026-05-07T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "78e5a96d0d2e",
@@ -364,7 +248,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09092/publication-of-venezuela-sanctions-regulations-web-general-licenses-46-46a-and-46b",
     "published_iso": "2026-05-07T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "f0af8f90f9fe",
@@ -386,7 +270,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09090/publication-of-venezuela-sanctions-regulations-web-general-licenses-47-48-49-and-50",
     "published_iso": "2026-05-07T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "2647ad4c6787",
@@ -408,7 +292,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09088/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-55e",
     "published_iso": "2026-05-07T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "ff2ce00c3ec8",
@@ -430,7 +314,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09086/publication-of-a-democratic-republic-of-the-congo-sanctions-regulations-web-general-license",
     "published_iso": "2026-05-07T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "77652cede1c8",
@@ -454,7 +338,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09085/publication-of-a-global-terrorism-sanctions-regulations-and-illicit-drug-trade-sanctions-regulations",
     "published_iso": "2026-05-07T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "5cfdf5c1331e",
@@ -476,7 +360,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09084/publication-of-a-belarus-sanctions-regulations-web-general-license",
     "published_iso": "2026-05-07T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "c033c5870f07",
@@ -497,7 +381,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09083/accelerating-wireline-broadband-deployment-by-removing-barriers-to-infrastructure-investment",
     "published_iso": "2026-05-07T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "e4fd0f43036c",
@@ -518,7 +402,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3ml7nokvvis2s",
     "published_iso": "2026-05-06T21:33:10.679000+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "d2219a1acf6a",
@@ -539,7 +423,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/aoc.bsky.social/post/3ml7mg7do4k23",
     "published_iso": "2026-05-06T21:10:36.371000+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "10d4b1d2d39f",
@@ -558,7 +442,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/f/?id=0000019d-feb0-d64a-a5dd-fefa52fd0000",
     "published_iso": "2026-05-06T19:13:55+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "3e78966a6cdf",
@@ -579,7 +463,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3ml7dvfr5as2q",
     "published_iso": "2026-05-06T18:38:02.743000+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "a9bbd779e408",
@@ -601,7 +485,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-nurses-day/",
     "published_iso": "2026-05-06T17:46:22+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "632d29968e32",
@@ -628,7 +512,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/first-lady-melania-trump-honors-military-mothers-the-soul-of-our-nation/",
     "published_iso": "2026-05-06T17:34:22+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "caa05201b0ae",
@@ -654,7 +538,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/following-armed-services-committee-hearing-warren-questions-hegseth-on-trump-family-pentagon-contracts",
     "published_iso": "2026-05-06T15:25:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "363b34df67fe",
@@ -1049,7 +933,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s112?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T15:36:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "0c7e6d29da11",
@@ -1074,7 +958,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h154?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T15:14:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "b33e40b38cab",
@@ -1099,7 +983,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h153?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T15:07:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "b85f20144934",
@@ -1124,7 +1008,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h152?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T14:59:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "d490757ee5d4",
@@ -1143,7 +1027,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h151?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T14:55:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "eab4062bc9f2",
@@ -1168,7 +1052,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h150?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T14:52:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "bcd5c9563556",
@@ -1303,7 +1187,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "16d ago"
+    "time_ago": "17d ago"
   },
   {
     "id": "c81c6c9123fc",
@@ -1429,7 +1313,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/icymi-lummis-op-ed-in-washington-post-a-broken-system-is-costing-america-trillions-i-see-it-in-wyoming/",
     "published_iso": "2026-04-08T16:14:36+00:00",
-    "time_ago": "28d ago"
+    "time_ago": "29d ago"
   },
   {
     "id": "a2c0abfa69cc",
@@ -1541,7 +1425,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "71d ago"
+    "time_ago": "72d ago"
   },
   {
     "id": "344041549951",
@@ -1695,7 +1579,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266276-2/",
     "published_iso": "2026-01-07T15:48:25+00:00",
-    "time_ago": "119d ago"
+    "time_ago": "120d ago"
   },
   {
     "id": "a2647cb5ac95",
