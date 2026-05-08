@@ -1,6 +1,48 @@
 [
   {
-    "id": "b30e12e26410",
+    "id": "16116558f1a9",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hope James D bought 464 shares of Pool Corp (POOL) \u00b7 $194.41/share \u00b7 $90,209 total \u00b7 May 8",
+    "tags": [],
+    "tickers": [
+      "POOL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1399884/000094584126000110/0000945841-26-000110-index.htm",
+    "published_iso": "2026-05-08T15:53:51+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "81a51b829748",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Cvijic Christine Mikail sold 4,800 shares of Neurogene Inc. (NGNE) \u00b7 $30.07/share \u00b7 $144,351 total \u00b7 May 8 ($300,043 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "NGNE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1543663/000154366326000013/0001543663-26-000013-index.htm",
+    "published_iso": "2026-05-08T15:51:08+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "4d71b1e08e93",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,59 +51,40 @@
       "fg": "#a5b4fc"
     },
     "severity": "critical",
-    "content": "Vitale Michael received 9,000 shares of Rhinebeck Bancorp, Inc. (RBKB) \u00b7 May 8",
+    "content": "Kilbane Catherine M exercised options for 3,376 shares of Andersons, Inc. (ANDE) \u00b7 May 8 ($0 across all blocks)",
     "tags": [],
     "tickers": [
-      "RBKB"
+      "ANDE"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2130297/000143774926015782/0001437749-26-015782-index.htm",
-    "published_iso": "2026-05-08T14:08:54+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/1266110/000082102626000078/0000821026-26-000078-index.htm",
+    "published_iso": "2026-05-08T15:46:49+00:00",
+    "time_ago": "8m ago"
+  },
+  {
+    "id": "7f0e0bf4832f",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "high",
+    "content": "First Lady Melania Trump: Mothers are America\u2019s strength. First Lady Melania Trump: Mothers are America\u2019s strengthWomen can lead boldly at work while restoring the honor of motherhood A mother\u2019s devotion to her child is unmatched. This love takes many forms: strength, compassion, wisdom, grace, joy, labor, humor and ev",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/05/first-lady-melania-trump-mothers-are-americas-strength/",
+    "published_iso": "2026-05-08T15:46:26+00:00",
     "time_ago": "9m ago"
   },
   {
-    "id": "7ed4d6c8cccc",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Snow John Ingalls Iii bought 1,525 shares of Winchester Bancorp, Inc./Md/ (WSBK) \u00b7 $12.79/share \u00b7 $19,505 total \u00b7 May 8 ($22,059 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "WSBK"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2066224/000143774926015781/0001437749-26-015781-index.htm",
-    "published_iso": "2026-05-08T14:06:23+00:00",
-    "time_ago": "12m ago"
-  },
-  {
-    "id": "8738b01d4880",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "CDC hantavirus outbreak classification lowest emergency activation level: Report. The Centers for Disease Control and Prevention (CDC) has activated its 24/7 emergency center and classified hantavirus as the lowest activation level, according to a new report on Thursday evening.\u00a0 The CDC\u2019s Emergency Operations Center (",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/healthcare/5869488-cdc-hantavirus-outbreak-low-emergency-cdc/",
-    "published_iso": "2026-05-08T14:00:19+00:00",
-    "time_ago": "18m ago"
-  },
-  {
-    "id": "3618036fd7cb",
+    "id": "d9da15041eda",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -70,40 +93,24 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "The Fed may not look past the latest global supply shock. Powell acknowledged that recent shocks have\u00a0hindered progress\u00a0in lowering inflation",
-    "tags": [],
+    "content": "$1.5 trillion for the Pentagon is not a defense budget: It\u2019s a war budget. Increased military spending is no longer a matter of technical budgetary judgment; it is a driver of human suffering",
+    "tags": [
+      "Defense"
+    ],
     "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/finance/5867954-fed-response-global-shocks/",
-    "published_iso": "2026-05-08T14:00:00+00:00",
-    "time_ago": "18m ago"
+    "url": "https://thehill.com/opinion/congress-blog/foreign-policy/5868029-trump-war-budget-congress/",
+    "published_iso": "2026-05-08T15:30:00+00:00",
+    "time_ago": "25m ago"
   },
   {
-    "id": "8e6cdac01d36",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Major data breach impacts schools across US. It's not currently known just how many people are potentially affected, though some estimate up to 9,000 colleges and universities may be",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/5868766-canvas-data-breach-shinyhunters/",
-    "published_iso": "2026-05-08T13:45:00+00:00",
-    "time_ago": "33m ago"
-  },
-  {
-    "id": "5292033901ca",
+    "id": "f6f5270e70b9",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -112,19 +119,151 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Trump says ceasefire still intact after fire exchanged. President Trump signaled late Thursday that the U.S.-Iran ceasefire agreement is still in play, despite a fresh exchange of fire between the two sides in the Strait of Hormuz. \u201c\u200bIf there\u2019s no ceasefire\u200b, you\u2019re not going to have to know. You\u2019re just going to have ",
+    "content": "Greene says UFO files release 'shiny object propaganda' as 'they wage foreign wars'. Former Rep. Marjorie Taylor Greene (R-Ga.) on Friday called the Pentagon's release of documents related to unidentified anomalous phenomena (UAPs) and UFOs \"shiny object propaganda\" as the Trump administration wages \"foreign wars.\" The",
     "tags": [
+      "Defense"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5869568-marjorie-taylor-greene-trump-pentagon-ufo-files-propaganda/",
+    "published_iso": "2026-05-08T15:26:05+00:00",
+    "time_ago": "29m ago"
+  },
+  {
+    "id": "a5c712ddc826",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "JOBS REPORT: Trump Economy Roars Ahead with Big Private Sector Job Gains. \u201cThe April jobs report smashing expectations thanks to robust private-sector growth is yet another sign that the American economy remains on a solid trajectory under President Trump. America added 12,600 factory construction jobs in April as tril",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/05/jobs-report-trump-economy-roars-ahead-with-big-private-sector-job-gains/",
+    "published_iso": "2026-05-08T15:15:06+00:00",
+    "time_ago": "40m ago"
+  },
+  {
+    "id": "ab65ac3fd41b",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Live updates: Trump insists Iran ceasefire still intact; Virginia Supreme Court tosses new map. President Trump said late Thursday that the temporary truce with Tehran remains intact despite U.S. forces hitting military targets in Iran. The latest strikes came after Tehran attacked American-guided missile destroyers th",
+    "tags": [
+      "Defense",
       "Sanctions"
     ],
     "tickers": [
       "LMT",
       "RTX",
-      "XOM"
+      "NOC",
+      "GD"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5869360-donald-trump-us-iran-ceasefire-fresh-attacks/",
-    "published_iso": "2026-05-08T12:55:13+00:00",
+    "url": "https://thehill.com/homenews/administration/5868474-live-updates-donald-trump-us-iran-strikes-ceasefire/",
+    "published_iso": "2026-05-08T15:08:20+00:00",
+    "time_ago": "47m ago"
+  },
+  {
+    "id": "2c435d29c473",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Mamdani's $6 billion mistake. Zohran\u00a0Mamdani\u2019s anti-business, anti-wealth crusade\u00a0is thrusting the city into a death spiral \u2014 fewer businesses and residents mean higher taxes, since local leaders\u00a0won\u2019t\u00a0cut spending, driving even more\u00a0to\u00a0leave",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/campaign/5869509-griffin-citadel-nyc-mamdani/",
+    "published_iso": "2026-05-08T15:00:00+00:00",
+    "time_ago": "55m ago"
+  },
+  {
+    "id": "4dd7a8d75639",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Virginia Supreme Court throws out redistricting results. The Virginia Supreme Court threw out Democrats\u2019 redistricting referendum on Friday, ruling 4-3 that it didn\u2019t follow the proper procedures.  The decision casts aside the state\u2019s new congressional map that would\u2019ve given Democrats a 10-1 tilt in Virginia. Under th",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/regulation/court-battles/5869616-virginia-supreme-court-tosses-redistricting-map-2026-midterms/",
+    "published_iso": "2026-05-08T14:54:57+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "2feea8984ace",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Spencer Pratt was 'relentless' in LA mayor debate: Billy Bush. Former \"Access Hollywood\" host Billy Bush said Thursday that former reality star Spencer Pratt, a Republican running to become mayor of Los Angeles, was \"relentless\" in Tuesday's debate with incumbent Mayor Karen Bass (D). Bush told NewsNation's Chris Cuomo",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/blogs/in-the-know/5869328-billy-bush-spencer-pratt-debate/",
+    "published_iso": "2026-05-08T14:51:12+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "f868203c7831",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "US revoking passports of parents who owe more than $2,500 in child support. The State Department announced on Thursday that it will begin revoking passports from people who owe significant amounts in child support.  Parents who owe more than $2,500 in child support payments are not eligible to receive U.S. passports. T",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5869607-state-department-revokes-passports/",
+    "published_iso": "2026-05-08T14:43:17+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -144,7 +283,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/gallery/2026/05/08/the-nations-cartoonists-on-the-week-in-politics-00911215",
     "published_iso": "2026-05-08T12:36:31+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "b39ed7026b7a",
@@ -165,7 +304,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09212/expanding-fluid-milk-options-in-child-nutrition-programs",
     "published_iso": "2026-05-08T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "c4f74951a3e5",
@@ -186,7 +325,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09189/updating-class-i-rail-carrier-reporting-requirements",
     "published_iso": "2026-05-08T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "c1922a36e1f1",
@@ -205,7 +344,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09181/amendment-of-jet-routes-j-70-and-j-94-and-amendment-of-very-high-frequency-omnidirectional-range",
     "published_iso": "2026-05-08T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "b14f5d216491",
@@ -226,7 +365,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09178/amendment-of-class-e-airspace-over-honesdale-pa",
     "published_iso": "2026-05-08T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "067944d870d9",
@@ -245,7 +384,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09172/airworthiness-directives-embraer-sa-airplanes",
     "published_iso": "2026-05-08T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "120dd56799e2",
@@ -264,7 +403,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09171/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-05-08T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "594b99899622",
@@ -283,7 +422,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09170/airworthiness-directives-gulfstream-aerospace-lp-airplanes",
     "published_iso": "2026-05-08T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "466fb1faaea1",
@@ -302,7 +441,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09169/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-05-08T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "dab1d33767b2",
@@ -323,7 +462,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mlc5gyar7c2c",
     "published_iso": "2026-05-07T21:20:35.576000+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "192578f72ccd",
@@ -350,7 +489,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/05/military-spouse-day-2026/",
     "published_iso": "2026-05-07T20:59:39+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "c1a4e9aa2712",
@@ -371,7 +510,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/05/victory-day-for-world-war-ii-2026/",
     "published_iso": "2026-05-07T20:58:45+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "93f8670d6a3d",
@@ -397,7 +536,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mlbwx2d3522f",
     "published_iso": "2026-05-07T19:24:18.427000+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "570a83b2e2da",
@@ -416,7 +555,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/05/07/tennessee-republicans-redistricting-voting-rights-act-midterms-00910430",
     "published_iso": "2026-05-07T18:45:22+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "505f2f0ba9fd",
@@ -573,7 +712,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/following-armed-services-committee-hearing-warren-questions-hegseth-on-trump-family-pentagon-contracts",
     "published_iso": "2026-05-06T15:25:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "b713f0de9699",
@@ -594,54 +733,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-astronaut-day-2be4/",
     "published_iso": "2026-05-05T19:39:57+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "3a8ccaf89257",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "National Physical Fitness and Sports Month, 2026. BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION This National Physical Fitness and Sports Month, we celebrate the strength, discipline, and competitive spirit that reflect the American people.&#160; We recognize the values and lessons that sports and fit",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/05/national-physical-fitness-and-sports-month-2026/",
-    "published_iso": "2026-05-05T16:52:13+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "e587370deb82",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "high",
-    "content": "Savings from Most-Favored-Nation Drug Pricing Policy. Executive Summary The Trump Administration has designed a Most-Favored-Nation (MFN) drug pricing policy framework to address the major differences in drug prices and contributions to the pharmaceutical innovation enterprise across developed countries. To date, the A",
-    "tags": [
-      "Healthcare",
-      "Taxes"
-    ],
-    "tickers": [
-      "LLY",
-      "PFE",
-      "JNJ",
-      "MRK"
-    ],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/research/2026/05/savings-from-most-favored-nation-drug-pricing-policy/",
-    "published_iso": "2026-05-05T14:36:40+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -668,7 +759,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "1f809fb86ab9",
@@ -883,7 +974,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s112?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T15:36:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "0c7e6d29da11",
@@ -908,7 +999,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h154?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T15:14:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "b33e40b38cab",
@@ -933,7 +1024,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h153?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T15:07:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "b85f20144934",
@@ -958,7 +1049,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h152?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T14:59:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "d490757ee5d4",
@@ -977,7 +1068,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h151?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T14:55:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "eab4062bc9f2",
@@ -1002,7 +1093,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h150?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T14:52:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "bcd5c9563556",
@@ -1115,7 +1206,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mkksfghmbk2z",
     "published_iso": "2026-04-28T14:31:38.230000+00:00",
-    "time_ago": "9d ago"
+    "time_ago": "10d ago"
   },
   {
     "id": "0047e3ab5b67",
@@ -1137,7 +1228,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "17d ago"
+    "time_ago": "18d ago"
   },
   {
     "id": "c81c6c9123fc",
@@ -1375,7 +1466,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "72d ago"
+    "time_ago": "73d ago"
   },
   {
     "id": "344041549951",
@@ -1529,7 +1620,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266276-2/",
     "published_iso": "2026-01-07T15:48:25+00:00",
-    "time_ago": "120d ago"
+    "time_ago": "121d ago"
   },
   {
     "id": "a2647cb5ac95",
@@ -1551,7 +1642,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/news-sanders-demands-reinstatement-of-jimmy-kimmel-live-program-in-vermont-calls-removal-of-show-censorship-plain-and-simple/",
     "published_iso": "2025-09-25T14:37:06+00:00",
-    "time_ago": "224d ago"
+    "time_ago": "225d ago"
   },
   {
     "id": "8c5a019a825f",
