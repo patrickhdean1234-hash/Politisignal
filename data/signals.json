@@ -1,66 +1,77 @@
 [
   {
-    "id": "16116558f1a9",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "d6f76932a228",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hope James D bought 464 shares of Pool Corp (POOL) \u00b7 $194.41/share \u00b7 $90,209 total \u00b7 May 8",
-    "tags": [],
-    "tickers": [
-      "POOL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1399884/000094584126000110/0000945841-26-000110-index.htm",
-    "published_iso": "2026-05-08T15:53:51+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "81a51b829748",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Cvijic Christine Mikail sold 4,800 shares of Neurogene Inc. (NGNE) \u00b7 $30.07/share \u00b7 $144,351 total \u00b7 May 8 ($300,043 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "NGNE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1543663/000154366326000013/0001543663-26-000013-index.htm",
-    "published_iso": "2026-05-08T15:51:08+00:00",
-    "time_ago": "4m ago"
-  },
-  {
-    "id": "4d71b1e08e93",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Kilbane Catherine M exercised options for 3,376 shares of Andersons, Inc. (ANDE) \u00b7 May 8 ($0 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "ANDE"
+    "content": "It's safer to lose money than cross the president. Large U.S. companies, such as Amazon, are declining to claim their refunds of wrongfully collected tariff revenue, presumably due to fear of provoking the president's disfavor, which could cost more than the abandoned refund",
+    "tags": [
+      "Big Tech",
+      "Trade",
+      "Taxes"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1266110/000082102626000078/0000821026-26-000078-index.htm",
-    "published_iso": "2026-05-08T15:46:49+00:00",
-    "time_ago": "8m ago"
+    "tickers": [
+      "AMZN"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/finance/5868664-trump-tariffs-amazon-refunds/",
+    "published_iso": "2026-05-08T17:00:00+00:00",
+    "time_ago": "14m ago"
+  },
+  {
+    "id": "7a982327f10d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "low",
+    "content": "Newsom accuses MAGA of rigging election after Virginia decision. California Gov. Gavin Newsom (D) on Friday accused MAGA Republicans of rigging an election after Virginia's Supreme Court ruled against state Democrats' new congressional map. Newsom noted on the social platform X that Republicans in Tennessee and Missour",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/state-watch/5869834-virginia-supreme-court-redistricting-gavin-newsom/",
+    "published_iso": "2026-05-08T16:56:35+00:00",
+    "time_ago": "17m ago"
+  },
+  {
+    "id": "1b8ae85768ed",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Lots of Americans are concerned about what AI means for their jobs.\n\nSo what did Trump do?\n\nHe gave Big Tech companies billions of dollars in tax handouts to subsidize some of the richest companies in the world.",
+    "tags": [
+      "Big Tech",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "AMZN",
+      "GOOGL",
+      "AAPL",
+      "META"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mle5opx6xs2f",
+    "published_iso": "2026-05-08T16:30:14.787000+00:00",
+    "time_ago": "43m ago"
   },
   {
     "id": "7f0e0bf4832f",
@@ -81,59 +92,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/first-lady-melania-trump-mothers-are-americas-strength/",
     "published_iso": "2026-05-08T15:46:26+00:00",
-    "time_ago": "9m ago"
-  },
-  {
-    "id": "d9da15041eda",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "$1.5 trillion for the Pentagon is not a defense budget: It\u2019s a war budget. Increased military spending is no longer a matter of technical budgetary judgment; it is a driver of human suffering",
-    "tags": [
-      "Defense"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/congress-blog/foreign-policy/5868029-trump-war-budget-congress/",
-    "published_iso": "2026-05-08T15:30:00+00:00",
-    "time_ago": "25m ago"
-  },
-  {
-    "id": "f6f5270e70b9",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Greene says UFO files release 'shiny object propaganda' as 'they wage foreign wars'. Former Rep. Marjorie Taylor Greene (R-Ga.) on Friday called the Pentagon's release of documents related to unidentified anomalous phenomena (UAPs) and UFOs \"shiny object propaganda\" as the Trump administration wages \"foreign wars.\" The",
-    "tags": [
-      "Defense"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5869568-marjorie-taylor-greene-trump-pentagon-ufo-files-propaganda/",
-    "published_iso": "2026-05-08T15:26:05+00:00",
-    "time_ago": "29m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "a5c712ddc826",
@@ -154,116 +113,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/05/jobs-report-trump-economy-roars-ahead-with-big-private-sector-job-gains/",
     "published_iso": "2026-05-08T15:15:06+00:00",
-    "time_ago": "40m ago"
-  },
-  {
-    "id": "ab65ac3fd41b",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Live updates: Trump insists Iran ceasefire still intact; Virginia Supreme Court tosses new map. President Trump said late Thursday that the temporary truce with Tehran remains intact despite U.S. forces hitting military targets in Iran. The latest strikes came after Tehran attacked American-guided missile destroyers th",
-    "tags": [
-      "Defense",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5868474-live-updates-donald-trump-us-iran-strikes-ceasefire/",
-    "published_iso": "2026-05-08T15:08:20+00:00",
-    "time_ago": "47m ago"
-  },
-  {
-    "id": "2c435d29c473",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Mamdani's $6 billion mistake. Zohran\u00a0Mamdani\u2019s anti-business, anti-wealth crusade\u00a0is thrusting the city into a death spiral \u2014 fewer businesses and residents mean higher taxes, since local leaders\u00a0won\u2019t\u00a0cut spending, driving even more\u00a0to\u00a0leave",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/campaign/5869509-griffin-citadel-nyc-mamdani/",
-    "published_iso": "2026-05-08T15:00:00+00:00",
-    "time_ago": "55m ago"
-  },
-  {
-    "id": "4dd7a8d75639",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Virginia Supreme Court throws out redistricting results. The Virginia Supreme Court threw out Democrats\u2019 redistricting referendum on Friday, ruling 4-3 that it didn\u2019t follow the proper procedures.  The decision casts aside the state\u2019s new congressional map that would\u2019ve given Democrats a 10-1 tilt in Virginia. Under th",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/regulation/court-battles/5869616-virginia-supreme-court-tosses-redistricting-map-2026-midterms/",
-    "published_iso": "2026-05-08T14:54:57+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "2feea8984ace",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Spencer Pratt was 'relentless' in LA mayor debate: Billy Bush. Former \"Access Hollywood\" host Billy Bush said Thursday that former reality star Spencer Pratt, a Republican running to become mayor of Los Angeles, was \"relentless\" in Tuesday's debate with incumbent Mayor Karen Bass (D). Bush told NewsNation's Chris Cuomo",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/blogs/in-the-know/5869328-billy-bush-spencer-pratt-debate/",
-    "published_iso": "2026-05-08T14:51:12+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "f868203c7831",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "US revoking passports of parents who owe more than $2,500 in child support. The State Department announced on Thursday that it will begin revoking passports from people who owe significant amounts in child support.  Parents who owe more than $2,500 in child support payments are not eligible to receive U.S. passports. T",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5869607-state-department-revokes-passports/",
-    "published_iso": "2026-05-08T14:43:17+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -283,7 +132,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/gallery/2026/05/08/the-nations-cartoonists-on-the-week-in-politics-00911215",
     "published_iso": "2026-05-08T12:36:31+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "b39ed7026b7a",
@@ -304,7 +153,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09212/expanding-fluid-milk-options-in-child-nutrition-programs",
     "published_iso": "2026-05-08T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "c4f74951a3e5",
@@ -325,7 +174,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09189/updating-class-i-rail-carrier-reporting-requirements",
     "published_iso": "2026-05-08T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "c1922a36e1f1",
@@ -344,7 +193,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09181/amendment-of-jet-routes-j-70-and-j-94-and-amendment-of-very-high-frequency-omnidirectional-range",
     "published_iso": "2026-05-08T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "b14f5d216491",
@@ -365,7 +214,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09178/amendment-of-class-e-airspace-over-honesdale-pa",
     "published_iso": "2026-05-08T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "067944d870d9",
@@ -384,7 +233,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09172/airworthiness-directives-embraer-sa-airplanes",
     "published_iso": "2026-05-08T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "120dd56799e2",
@@ -403,7 +252,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09171/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-05-08T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "594b99899622",
@@ -422,7 +271,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09170/airworthiness-directives-gulfstream-aerospace-lp-airplanes",
     "published_iso": "2026-05-08T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "466fb1faaea1",
@@ -441,7 +290,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09169/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-05-08T00:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "dab1d33767b2",
@@ -462,7 +311,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mlc5gyar7c2c",
     "published_iso": "2026-05-07T21:20:35.576000+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "192578f72ccd",
@@ -489,7 +338,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/05/military-spouse-day-2026/",
     "published_iso": "2026-05-07T20:59:39+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "c1a4e9aa2712",
@@ -510,7 +359,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/05/victory-day-for-world-war-ii-2026/",
     "published_iso": "2026-05-07T20:58:45+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "93f8670d6a3d",
@@ -536,7 +385,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mlbwx2d3522f",
     "published_iso": "2026-05-07T19:24:18.427000+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "570a83b2e2da",
@@ -555,7 +404,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/05/07/tennessee-republicans-redistricting-voting-rights-act-midterms-00910430",
     "published_iso": "2026-05-07T18:45:22+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "505f2f0ba9fd",
@@ -1187,7 +1036,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mknlrsfodc2v",
     "published_iso": "2026-04-29T17:11:16.425000+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "4834f3e8f4bb",
@@ -1354,7 +1203,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/icymi-lummis-op-ed-in-washington-post-a-broken-system-is-costing-america-trillions-i-see-it-in-wyoming/",
     "published_iso": "2026-04-08T16:14:36+00:00",
-    "time_ago": "29d ago"
+    "time_ago": "30d ago"
   },
   {
     "id": "a2c0abfa69cc",
@@ -1550,7 +1399,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meetings-in-sheldon-bristol-and-poultney/",
     "published_iso": "2026-01-29T16:27:05+00:00",
-    "time_ago": "98d ago"
+    "time_ago": "99d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1576,7 +1425,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "105d ago"
+    "time_ago": "106d ago"
   },
   {
     "id": "d39ac85b9cc9",
