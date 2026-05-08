@@ -1,5 +1,139 @@
 [
   {
+    "id": "a2c5bf1ee138",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hu Yiming exercised options for 8,000 shares of Gaotu Techedu Inc. (GOTU) \u00b7 May 8 ($2,212 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "GOTU"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2111221/000119312526213193/0001193125-26-213193-index.htm",
+    "published_iso": "2026-05-08T10:14:27+00:00",
+    "time_ago": "45m ago"
+  },
+  {
+    "id": "8e83f7991933",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Cui Jin exercised options for 8,000 shares of Gaotu Techedu Inc. (GOTU) \u00b7 May 8 ($2,212 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "GOTU"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2111532/000119312526213174/0001193125-26-213174-index.htm",
+    "published_iso": "2026-05-08T10:04:39+00:00",
+    "time_ago": "54m ago"
+  },
+  {
+    "id": "8e47c037f3f9",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ye Gang sold 1,504 shares of Sea Ltd (SE) \u00b7 $86.77/share \u00b7 $130,502 total \u00b7 May 8 ($1,782,867 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "SE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1729171/000119312526213170/0001193125-26-213170-index.htm",
+    "published_iso": "2026-05-08T10:03:18+00:00",
+    "time_ago": "56m ago"
+  },
+  {
+    "id": "f6ff722bca56",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Iran hawks erupt over terms of Trump's peace proposal. The reported terms of a one-page memorandum of understanding to end the Iran war spurred a swift backlash from allies of President Trump who have cheered on his fight against the Islamic Republic.  Prominent conservative media figures and pro-Israel advocates spoke",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/defense/5868335-trump-iran-peace-proposal-backlash/",
+    "published_iso": "2026-05-08T10:00:00+00:00",
+    "time_ago": "59m ago"
+  },
+  {
+    "id": "c50480c96f88",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "GOP braces for high-stakes 2027 spending fight with midterms looming. The hard-fought clash over 2026 appropriations may have just ended, but House GOP leaders aren't getting any respite as they plunge into the battle over spending for fiscal 2027 \u2014 the last major legislative fight expected before November\u2019s elections.",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/house/5868783-appropriations-2027-clash-midterms/",
+    "published_iso": "2026-05-08T10:00:00+00:00",
+    "time_ago": "59m ago"
+  },
+  {
+    "id": "7deb9554f4d5",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Democrats grasp for Senate seat in Florida, where Trump, GOP rule. A Republican president's approval ratings are stuck in the mid-30s as Americans grapple with an unpopular war with Iran that has raised gas prices above $4 per gallon.  In past midterm cycles, that would lay the groundwork for Democrats to feel optimist",
+    "tags": [
+      "Big Tech",
+      "Regulation",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/5868737-vindman-m-moody-florida-senate/",
+    "published_iso": "2026-05-08T10:00:00+00:00",
+    "time_ago": "59m ago"
+  },
+  {
     "id": "8f712f0be8bb",
     "politician": "The Hill",
     "initials": "TH",
@@ -18,113 +152,6 @@
     "platform": "The Hill",
     "url": "https://thehill.com/regulation/court-battles/5869060-naacp-challenges-tennessee-redistricting/",
     "published_iso": "2026-05-08T02:55:59+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "900d2363ef7a",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Brinton Jon sold 10,000 shares of Crexendo, Inc. (CXDO) \u00b7 $9.14/share \u00b7 $91,400 total \u00b7 May 7",
-    "tags": [],
-    "tickers": [
-      "CXDO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1692516/000165495426004562/0001654954-26-004562-index.htm",
-    "published_iso": "2026-05-08T01:56:57+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "d4f73053edf6",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Schwarting Elizabeth M sold 3,200 shares of Lattice Semiconductor Corp (LSCC) \u00b7 $124.53/share \u00b7 $398,496 total \u00b7 May 7",
-    "tags": [
-      "Semiconductors"
-    ],
-    "tickers": [
-      "LSCC"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1814048/000143774926015738/0001437749-26-015738-index.htm",
-    "published_iso": "2026-05-08T01:53:19+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "7f50f0b16c5f",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Valim Francisco exercised derivative for 225,000 shares of Grupo Televisa, S.A.B. (GRPFF) \u00b7 $0.09/share \u00b7 $20,250 total \u00b7 May 7 ($148,500 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "GRPFF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1651602/000089534526000214/0000895345-26-000214-index.htm",
-    "published_iso": "2026-05-08T01:40:32+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "16062a42b46b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Elio Michael Anthony converted 203 shares of Stepstone Private Markets \u00b7 May 7",
-    "tags": [],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2080210/000119312526212874/0001193125-26-212874-index.htm",
-    "published_iso": "2026-05-08T01:38:22+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "9eaea550edf4",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Apollo Management Gp, Llc acquired/disposed 102,000,366 shares of Adt Inc. (ADT) \u00b7 $7.25/share \u00b7 $739,502,654 total \u00b7 May 7",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [
-      "ADT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1703056/000110465926057424/0001104659-26-057424-index.htm",
-    "published_iso": "2026-05-08T01:21:24+00:00",
     "time_ago": "8h ago"
   },
   {
@@ -146,7 +173,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/administration/5868904-usps-handgun-mailing-rule/",
     "published_iso": "2026-05-08T01:01:10+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "577f3c583dc3",
@@ -167,7 +194,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/state-watch/5868969-tennessee-redistricting-memphis-lawmaker-secession/",
     "published_iso": "2026-05-08T00:10:38+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "b39ed7026b7a",
@@ -188,7 +215,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09212/expanding-fluid-milk-options-in-child-nutrition-programs",
     "published_iso": "2026-05-08T00:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "c4f74951a3e5",
@@ -209,7 +236,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09189/updating-class-i-rail-carrier-reporting-requirements",
     "published_iso": "2026-05-08T00:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "c1922a36e1f1",
@@ -228,7 +255,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09181/amendment-of-jet-routes-j-70-and-j-94-and-amendment-of-very-high-frequency-omnidirectional-range",
     "published_iso": "2026-05-08T00:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "b14f5d216491",
@@ -249,7 +276,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09178/amendment-of-class-e-airspace-over-honesdale-pa",
     "published_iso": "2026-05-08T00:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "067944d870d9",
@@ -268,7 +295,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09172/airworthiness-directives-embraer-sa-airplanes",
     "published_iso": "2026-05-08T00:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "120dd56799e2",
@@ -287,7 +314,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09171/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-05-08T00:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "594b99899622",
@@ -306,7 +333,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09170/airworthiness-directives-gulfstream-aerospace-lp-airplanes",
     "published_iso": "2026-05-08T00:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "466fb1faaea1",
@@ -325,29 +352,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09169/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-05-08T00:00:00+00:00",
-    "time_ago": "9h ago"
-  },
-  {
-    "id": "8c8bd56df009",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Minneapolis man who attacked Ilhan Omar pleads guilty. A Minneapolis man on Thursday pleaded guilty to attacking Rep. Ilhan Omar (D-Minn.) with a syringe filled with vinegar during a town hall in January. Anthony James Kazmierczak, 55, faces a maximum term of 96 months in prison but could be behind bars for between fou",
-    "tags": [
-      "Defense",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/regulation/court-battles/5868764-minneapolis-man-pleads-guilty-assault-omar/",
-    "published_iso": "2026-05-07T22:34:09+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "dab1d33767b2",
@@ -368,7 +373,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mlc5gyar7c2c",
     "published_iso": "2026-05-07T21:20:35.576000+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "192578f72ccd",
@@ -395,7 +400,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/05/military-spouse-day-2026/",
     "published_iso": "2026-05-07T20:59:39+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "c1a4e9aa2712",
@@ -416,7 +421,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/05/victory-day-for-world-war-ii-2026/",
     "published_iso": "2026-05-07T20:58:45+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "93f8670d6a3d",
@@ -442,7 +447,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mlbwx2d3522f",
     "published_iso": "2026-05-07T19:24:18.427000+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "570a83b2e2da",
@@ -461,7 +466,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/05/07/tennessee-republicans-redistricting-voting-rights-act-midterms-00910430",
     "published_iso": "2026-05-07T18:45:22+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "e66a612cb0bd",
@@ -486,7 +491,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mlbfjhtpw22c",
     "published_iso": "2026-05-07T14:12:29.232000+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "505f2f0ba9fd",
