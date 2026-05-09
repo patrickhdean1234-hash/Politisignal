@@ -148,7 +148,82 @@
     "time_ago": "just now"
   },
   {
-    "id": "59d9f008a837",
+    "id": "e492a8714560",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Trump promised his ballroom wouldn\u2019t cost you a penny.  \n\nNow, Senate Republicans are asking taxpayers to foot a $1 BILLION bill for it.",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mlghs2qx5s2r",
+    "published_iso": "2026-05-09T14:36:23.670000+00:00",
+    "time_ago": "27m ago"
+  },
+  {
+    "id": "1b83d2371d1e",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Maher ribs Trump over \u2018game of chicken\u2019 with Iran. Late night host Bill Maher ridiculed President Trump over the ongoing negotiations with Iran to end the war.  \u201cIt\u2019s a game of chicken, and Trump said he wants the Iranians to know America does not blink,\u201d the comedian said, before adding, \u201cLose interest and wander away",
+    "tags": [
+      "Regulation",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/blogs/in-the-know/5870951-bill-maher-trump-iran-war/",
+    "published_iso": "2026-05-09T14:34:43+00:00",
+    "time_ago": "29m ago"
+  },
+  {
+    "id": "1094add68b3f",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "US sanctions firms accused of aiding Iran's missile program. The U.S. is imposing new sanctions on more than a more dozen individuals and entities based in the Middle East and China, accused of helping prop up Iran\u2019s war effort. The State Department on Friday announced sanctions against three Chinese entities that alle",
+    "tags": [
+      "China",
+      "Sanctions"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5870934-us-imposes-sanctions-iran/",
+    "published_iso": "2026-05-09T14:15:13+00:00",
+    "time_ago": "49m ago"
+  },
+  {
+    "id": "d968c11d18a1",
     "politician": "Politico",
     "initials": "PO",
     "role": "Political News",
@@ -157,14 +232,55 @@
       "fg": "#fca5a5"
     },
     "severity": "high",
-    "content": "Americans say there\u2019s too much money in politics \u2014 and it\u2019s driving election outcomes. As campaign spending hits record highs, voters across parties question how deeply money shapes elections",
+    "content": "Poll: Republicans and Democrats agree on one big election issue. As campaign spending hits record highs, voters across parties question how deeply money shapes elections",
     "tags": [],
     "tickers": [],
     "source": "politico",
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/05/09/poll-americans-say-too-much-money-in-politics-00912455",
     "published_iso": "2026-05-09T14:00:00+00:00",
-    "time_ago": "2m ago"
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "58791d2821d9",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "AOC doesn't believe true billionaires exist \u2014 soon they won't, at least in New York. Billionaires and even millionaires in states like New York may go the way of unicorns \u2014 fanciful creatures that once thrived in a land of jobs and growth",
+    "tags": [
+      "Agriculture",
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/finance/5869558-aoc-ocasio-cortez-billionaires-myth/",
+    "published_iso": "2026-05-09T14:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "1a48e4a161aa",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Companies name AI as top reason for job cuts for second straight month: Analysis. Companies are increasingly citing artificial intelligence as justification for layoffs, according to a new analysis highlighting growing concerns about AI\u2019s impact on the workforce. U.S.-based employers announced 83,387 job cuts in April,",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/5870898-ai-job-cuts-analysis-trump-admin/",
+    "published_iso": "2026-05-09T13:46:42+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "4702cc10df7a",
@@ -185,7 +301,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/campaign/5870909-ocasio-cortez-2028-speculation/",
     "published_iso": "2026-05-09T13:28:54+00:00",
-    "time_ago": "33m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "467232a9e250",
@@ -211,7 +327,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/opinion/international/5869856-us-china-insight-decline/",
     "published_iso": "2026-05-09T13:00:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "0af44f52cebe",
@@ -223,14 +339,14 @@
       "fg": "#bbf7d0"
     },
     "severity": "low",
-    "content": "Trump lauds April jobs gains, swipes at Democrats in Mother\u2019s Day post. President Trump touted the latest job's report late Friday while lobbying criticism at his political opponents in a social media post for Mother\u2019s Day weekend.\u00a0 \u201cHappy Mother's Day weekend to all, especially to the 115 THOUSAND AMERICANS who found ",
+    "content": "Trump lauds April jobs gains, swipes at Democrats in Mother\u2019s Day post. President Trump touted the latest job's report late Friday while lobbying criticism at his political opponents in a social media post for Mother\u2019s Day weekend.  \u201cHappy Mother's Day weekend to all, especially to the 115 THOUSAND AMERICANS who found ",
     "tags": [],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/administration/5870877-donald-trump-april-jobs-report-mothers-day-democrats/",
     "published_iso": "2026-05-09T12:54:26+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "7ec861ffa175",
@@ -256,91 +372,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/administration/5870860-marco-rubio-pope-leo-meeting-iran-tensions/",
     "published_iso": "2026-05-09T12:01:44+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "8b64699c29b6",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Zoned out:\u00a0How today\u2019s homeowners make housing unaffordable for everyone else. Policymakers have unintentionally built a system in which\u00a0the voices most\u00a0opposed to new housing have an effective veto.\u00a0But that veto is based on fears both unsupported and unsupportable",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/finance/5868311-new-construction-property-values/",
-    "published_iso": "2026-05-09T12:00:00+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "cd4963a04862",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "NTSB investigating reported pedestrian strike involving Frontier flight in Denver. Federal aviation authorities are looking into an incident at Denver International Airport after a Frontier Airlines flight reportedly struck a pedestrian on the runway late Friday night. Frontier Flight 4345 was scheduled to travel from ",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/state-watch/5870850-frontier-airlines-denver-airport-pedestrian-strike/",
-    "published_iso": "2026-05-09T11:53:07+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "52964ad94438",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Trump, frustrated by courts, sees his tariff policies take new hit. President Trump\u2019s trade agenda is in question following the latest court decision striking down tariffs aimed at replacing a previous regime that was also knocked down by the judiciary, raising questions about his next move on the policy.  A federal co",
-    "tags": [
-      "Trade",
-      "Regulation"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5870561-trump-tariffs-court-decision/",
-    "published_iso": "2026-05-09T10:00:00+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "ecf6e917bdd4",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Virginia redistricting ruling\u00a0deals\u00a0blow to\u00a0Democrats\u2019\u00a0midterm\u00a0hopes. The Virginia Supreme Court on Friday dealt a blow to Democrats\u2019 hopes of flipping the House this fall, throwing out the redistricting referendum that was set to give Democrats a midterm boost.   The Virginia court\u2019s decision\u00a0invalidates the state\u2019s n",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/5870573-democrats-virginia-redistricting-setback/",
-    "published_iso": "2026-05-09T10:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "b5f868480d5f",
@@ -361,7 +393,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/2011960/000119312526215308/0001193125-26-215308-index.htm",
     "published_iso": "2026-05-09T01:55:04+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "a00f7ce2b89f",
@@ -380,7 +412,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/2013580/000119312526215307/0001193125-26-215307-index.htm",
     "published_iso": "2026-05-09T01:55:03+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "c407b19c0ec0",
@@ -401,7 +433,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1788170/000178817026000006/0001788170-26-000006-index.htm",
     "published_iso": "2026-05-09T01:51:15+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "2f5efbfe7447",
@@ -422,7 +454,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1877255/000108330126000098/0001083301-26-000098-index.htm",
     "published_iso": "2026-05-09T01:46:09+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "d38ed83db2e2",
@@ -443,7 +475,32 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1877476/000108330126000097/0001083301-26-000097-index.htm",
     "published_iso": "2026-05-09T01:45:27+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
+  },
+  {
+    "id": "42b7ec12347b",
+    "politician": "Rep. Alexandria Ocasio-Cortez",
+    "initials": "AOC",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#93c5fd"
+    },
+    "severity": "medium",
+    "content": "AOC on possibly running for the Senate or President:  They assume my ambition is a title or a seat. My ambition is way bigger than that. My ambition is to change this country. Presidents come and go, elected officials come and go, single payer healthcare is forever.",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/aoc.bsky.social/post/3mlezeoucc62h",
+    "published_iso": "2026-05-09T00:45:42.690000+00:00",
+    "time_ago": "14h ago"
   },
   {
     "id": "1b8ae85768ed",
@@ -471,7 +528,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mle5opx6xs2f",
     "published_iso": "2026-05-08T16:30:14.787000+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "7f0e0bf4832f",
@@ -492,7 +549,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/first-lady-melania-trump-mothers-are-americas-strength/",
     "published_iso": "2026-05-08T15:46:26+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "a5c712ddc826",
@@ -513,7 +570,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/05/jobs-report-trump-economy-roars-ahead-with-big-private-sector-job-gains/",
     "published_iso": "2026-05-08T15:15:06+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "44b3c3140230",
@@ -805,7 +862,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "1f809fb86ab9",
@@ -1095,7 +1152,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h152?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T14:59:00+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "d490757ee5d4",
@@ -1114,7 +1171,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h151?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T14:55:00+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "eab4062bc9f2",
@@ -1139,7 +1196,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h150?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T14:52:00+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "bcd5c9563556",
@@ -1252,7 +1309,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mkksfghmbk2z",
     "published_iso": "2026-04-28T14:31:38.230000+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "0047e3ab5b67",
@@ -1515,27 +1572,6 @@
     "time_ago": "73d ago"
   },
   {
-    "id": "344041549951",
-    "politician": "Rep. Alexandria Ocasio-Cortez",
-    "initials": "AOC",
-    "role": "House Financial Services Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#93c5fd"
-    },
-    "severity": "medium",
-    "content": "It\u2019s not to say all critiques are bad, but some people approach it more as a realm of one-way personal expression than a space to act, grapple, discuss, support, change, and improve.\n\nIt helps to be grounded. Are real solutions/alternatives offered? Is the expectation perfect or human? Etc",
-    "tags": [
-      "Big Tech"
-    ],
-    "tickers": [],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/aoc.bsky.social/post/3mfi26wfbbk22",
-    "published_iso": "2026-02-22T21:07:12.518000+00:00",
-    "time_ago": "75d ago"
-  },
-  {
     "id": "869ac7db3b73",
     "politician": "Rep. Alexandria Ocasio-Cortez",
     "initials": "AOC",
@@ -1688,7 +1724,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/news-sanders-demands-reinstatement-of-jimmy-kimmel-live-program-in-vermont-calls-removal-of-show-censorship-plain-and-simple/",
     "published_iso": "2025-09-25T14:37:06+00:00",
-    "time_ago": "225d ago"
+    "time_ago": "226d ago"
   },
   {
     "id": "8c5a019a825f",
