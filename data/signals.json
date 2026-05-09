@@ -1,6 +1,6 @@
 [
   {
-    "id": "b84b45871cf2",
+    "id": "b5f868480d5f",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,102 +9,139 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Lombard Shelly received 649 shares of Alpha Metallurgical Resources, Inc. (AMR) \u00b7 May 8",
+    "content": "Minard Laurie A sold 984 shares of Garmin Ltd (GRMN) \u00b7 $241.98/share \u00b7 $238,106 total \u00b7 May 8 ($262,365 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "GRMN"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2011960/000119312526215308/0001193125-26-215308-index.htm",
+    "published_iso": "2026-05-09T01:55:04+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "a00f7ce2b89f",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Cardillo Robert T. exercised options for 3,773 shares of Ionq, Inc. (IONQ-WT) \u00b7 $11.24/share \u00b7 $42,409 total \u00b7 May 8 ($230,681 across all blocks)",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2013580/000119312526215307/0001193125-26-215307-index.htm",
+    "published_iso": "2026-05-09T01:55:03+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "c407b19c0ec0",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Fairclough Brett sold 14,632 shares of Virtu Financial, Inc. (VIRT) \u00b7 $49.82/share \u00b7 $728,996 total \u00b7 May 8 ($1,501,854 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "VIRT"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1788170/000178817026000006/0001788170-26-000006-index.htm",
+    "published_iso": "2026-05-09T01:51:15+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "2f5efbfe7447",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Prager Paul B. exercised options for 981,162 shares of Terawulf Inc. (WULF) \u00b7 May 8 ($0 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "WULF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1877255/000108330126000098/0001083301-26-000098-index.htm",
+    "published_iso": "2026-05-09T01:46:09+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "d38ed83db2e2",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Khan Nazar M. exercised options for 817,635 shares of Terawulf Inc. (WULF) \u00b7 May 8 ($0 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "WULF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1877476/000108330126000097/0001083301-26-000097-index.htm",
+    "published_iso": "2026-05-09T01:45:27+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "5896f3dff5f8",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "K-shaped economy is showing up at the gas pump: NY Fed. Low-income households are cutting back on gas as prices surge, while wealthier households remain largely unfazed",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/5870589-k-shaped-economy-gasoline-consumption/",
+    "published_iso": "2026-05-09T01:29:15+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "1d9378e413b5",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "low",
+    "content": "US Postal Service reports falling losses, revenue up. The United States Postal Service (USPS) on Friday reported a net loss of $2 billion for the second quarter of fiscal 2026, underscoring the service\u2019s strained financial situation despite higher revenues and a decline in some operating costs. \u00a0 The agency reported $2",
     "tags": [
-      "Big Tech"
+      "Regulation",
+      "Taxes"
     ],
-    "tickers": [
-      "AMR"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1812653/000181265326000001/0001812653-26-000001-index.htm",
-    "published_iso": "2026-05-09T00:08:07+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "bd4592eaab28",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Kelly Aengus sold 2,563 shares of Aercap Holdings N.V. (AER) \u00b7 $147.59/share \u00b7 $378,273 total \u00b7 May 8 ($7,441,458 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "AER"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1450289/000095015726000588/0000950157-26-000588-index.htm",
-    "published_iso": "2026-05-09T00:07:47+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "9e343e268267",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Lee Johnny C exercised options for 4,356 shares of Rbb Bancorp (RBB) \u00b7 $24.05/share \u00b7 $104,762 total \u00b7 May 8 ($142,352 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "RBB"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1499422/000143774926015977/0001437749-26-015977-index.htm",
-    "published_iso": "2026-05-09T00:06:47+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "895f2155f66e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Hopkins Lynn M exercised options for 2,339 shares of Rbb Bancorp (RBB) \u00b7 $24.05/share \u00b7 $56,253 total \u00b7 May 8 ($76,455 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "RBB"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1499422/000143774926015975/0001437749-26-015975-index.htm",
-    "published_iso": "2026-05-09T00:05:43+00:00",
-    "time_ago": "3m ago"
-  },
-  {
-    "id": "757f83382c0e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Fan Gary exercised options for 1,452 shares of Rbb Bancorp (RBB) \u00b7 $24.05/share \u00b7 $34,921 total \u00b7 May 8 ($47,451 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "RBB"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1957237/000143774926015973/0001437749-26-015973-index.htm",
-    "published_iso": "2026-05-09T00:04:41+00:00",
-    "time_ago": "4m ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/5870695-usps-2-billion-loss/",
+    "published_iso": "2026-05-09T00:40:57+00:00",
+    "time_ago": "3h ago"
   },
   {
     "id": "d2907b526602",
@@ -125,7 +162,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/state-watch/5870681-alabama-primary-election-legislation/",
     "published_iso": "2026-05-09T00:02:15+00:00",
-    "time_ago": "7m ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "bd038697b6ae",
@@ -144,66 +181,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/state-watch/5870637-beshear-launches-universal-prek-program/",
     "published_iso": "2026-05-08T23:21:40+00:00",
-    "time_ago": "47m ago"
-  },
-  {
-    "id": "3e6a4b9df956",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "White House scrambles to tame AI fears. Presented by ACT The App Association {beacon} Technology Technology PRESENTED BY  The Big Story  White House scrambles to tame AI fears  The White House is trying to find its footing on AI policy, as the development of new, more powerful models forces the Trump administration to ",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/technology/5870586-white-house-ai-policy-rethink/",
-    "published_iso": "2026-05-08T22:29:01+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "fca09174d06e",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Warner slams court ruling on Virginia redistricting: 'Justice was not served'. Virginia senior Sen. Mark Warner (D) criticized a state Supreme Court ruling Friday that struck down a Democratic-backed redistricting plan, arguing the decision undermined the will of voters. \u201cToday, justice was not served in Virginia,\u201d War",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/regulation/court-battles/5870541-warner-slams-court-ruling-on-virginia-redistricting-justice-was-not-served/",
-    "published_iso": "2026-05-08T22:01:18+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "3c0d744f6934",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Alabama asks Supreme Court to\u00a0clear way\u00a0for Republicans' redrawn voting map. Alabama urged the Supreme Court on Friday for an emergency order clearing the way for its redrawn congressional map that could boost Republicans' chances of holding on to the House in November. The ask landed just as Gov. Kay Ivey (R) signed t",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/5870503-alabama-congressional-map-republicans/",
-    "published_iso": "2026-05-08T21:51:39+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "1b8ae85768ed",
@@ -231,7 +209,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mle5opx6xs2f",
     "published_iso": "2026-05-08T16:30:14.787000+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "7f0e0bf4832f",
@@ -252,7 +230,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/first-lady-melania-trump-mothers-are-americas-strength/",
     "published_iso": "2026-05-08T15:46:26+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "a5c712ddc826",
@@ -273,7 +251,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/05/jobs-report-trump-economy-roars-ahead-with-big-private-sector-job-gains/",
     "published_iso": "2026-05-08T15:15:06+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "44b3c3140230",
@@ -292,7 +270,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/gallery/2026/05/08/the-nations-cartoonists-on-the-week-in-politics-00911215",
     "published_iso": "2026-05-08T12:36:31+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "b39ed7026b7a",
@@ -580,7 +558,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-day-of-prayer/",
     "published_iso": "2026-05-07T02:07:38+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "d2219a1acf6a",
@@ -1688,7 +1666,7 @@
     "platform": ".gov",
     "url": "http://khanna.house.gov/media/ros-op-eds/opinion-democrats-must-make-case-government-can-be-effective-and-good",
     "published_iso": "2025-02-19T02:51:28+00:00",
-    "time_ago": "443d ago"
+    "time_ago": "444d ago"
   },
   {
     "id": "d026d19a063b",
@@ -1707,7 +1685,7 @@
     "platform": ".gov",
     "url": "http://khanna.house.gov/media/ros-op-eds/ro-khanna-democrats-have-future-here-it",
     "published_iso": "2025-02-14T03:15:17+00:00",
-    "time_ago": "448d ago"
+    "time_ago": "449d ago"
   },
   {
     "id": "0ea19a115c74",
