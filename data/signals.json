@@ -1,6 +1,93 @@
 [
   {
-    "id": "1b9bdc141257",
+    "id": "7820b9795414",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Xu Liangjie exercised options for 85 shares of Tuniu Corp (TOUR) \u00b7 May 11",
+    "tags": [],
+    "tickers": [
+      "TOUR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2110083/000110465926058262/0001104659-26-058262-index.htm",
+    "published_iso": "2026-05-11T11:14:54+00:00",
+    "time_ago": "10m ago"
+  },
+  {
+    "id": "cf22e8be2a61",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Cheng Haijin exercised options for 45 shares of Tuniu Corp (TOUR) \u00b7 May 11",
+    "tags": [],
+    "tickers": [
+      "TOUR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2110100/000110465926058260/0001104659-26-058260-index.htm",
+    "published_iso": "2026-05-11T11:12:03+00:00",
+    "time_ago": "13m ago"
+  },
+  {
+    "id": "429c7f1bb49f",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "What happens when the US population peaks?. If immigration declines, tomorrow's economy will need an offsetting boost in technology or capital \u2014 something we can simulate",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/immigration/5868017-shrinking-us-population-trends/",
+    "published_iso": "2026-05-11T11:00:00+00:00",
+    "time_ago": "25m ago"
+  },
+  {
+    "id": "b7b6278ce31d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Healthcare cuts threaten Sullivan\u2019s reelection chances in Alaska. Alaskans have been hit hard by the healthcare cuts in the One Big Beautiful Bill Act and lapsed Obamacare subsidies, presenting a prime target for Democrats seeking to oust Republican Sen. Dan Sullivan from office.\u00a0 A Democratic ad campaign released late",
+    "tags": [
+      "Healthcare",
+      "Regulation"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/healthcare/5870588-alaska-healthcare-sullivan-reelection/",
+    "published_iso": "2026-05-11T10:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "32ee944c2bb1",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,9 +96,31 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Trump slams Coney Barrett, Gorsuch over tariff decision. President Trump on Sunday shared a lengthy post rebuking Supreme Court Justices Amy Coney Barrett and Neil Gorsuch for ruling against his tariff agenda in February.\u00a0 \u201cThey were appointed by me, and yet have hurt our Country so badly! I do not believe they meant t",
+    "content": "This week on the hill: Congress returns from recess facing high-stakes fights. Congress returns from its one-week recess to a packed agenda, diving back into many of the same high-stakes issues that dominated lawmakers\u2019 attention last month. Among the most pressing on GOP leaders\u2019 to-do list is passing the bill to fund",
     "tags": [
-      "Trade"
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/house/5870629-congress-reconciliation-immigration-fisa-farm-bill/",
+    "published_iso": "2026-05-11T10:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "eda32a908279",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Iran war may give China, Xi, some leverage on Trump at Beijing summit. The U.S. war against Iran threatens to be a dark cloud following President Trump to his high-stakes meeting with Chinese President Xi Jinping later this week.  Trump is expected to meet with Xi on Thursday and Friday in a trip postponed because of t",
+    "tags": [
+      "China",
+      "Sanctions"
     ],
     "tickers": [
       "NVDA",
@@ -21,12 +130,12 @@
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5872012-trump-scolds-justices-barrett-gorsuch/",
-    "published_iso": "2026-05-11T02:02:53+00:00",
-    "time_ago": "5h ago"
+    "url": "https://thehill.com/homenews/administration/5870425-trump-xi-summit-iran-threat/",
+    "published_iso": "2026-05-11T10:00:00+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "1671ff548db7",
+    "id": "3e22b9c553bf",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -34,17 +143,15 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Former longtime Florida Republican lawmaker dies. Former Florida Rep. Bill Posey (R) died on Sunday at the age of 78 surrounded by his wife and two daughters after years of service representing Florida's 15th and 8th congressional districts.  \u201cCongressman Posey represented Florida in the United States House of Represen",
-    "tags": [
-      "Regulation"
-    ],
+    "severity": "high",
+    "content": "Trump administration strikes deal on D.C. golf courses, but questions loom\u00a0at East Potomac. President Trump\u2019s administration struck a deal late Friday with the National Links Trust (NLT), the local nonprofit that operates Washington D.C.\u2019s public golf courses, clearing the path for an overhaul of East Potomac Golf Link",
+    "tags": [],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5871976-bill-posey-florida-republican-dies/",
-    "published_iso": "2026-05-11T00:02:28+00:00",
-    "time_ago": "7h ago"
+    "url": "https://thehill.com/policy/keeping-score/5870134-dc-golf-trump-controversy/",
+    "published_iso": "2026-05-11T10:00:00+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "dd1bce8fd8cb",
@@ -65,7 +172,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/11/2026-09327/official-seal",
     "published_iso": "2026-05-11T00:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "da11fdbfb9b6",
@@ -86,7 +193,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/11/2026-09293/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery",
     "published_iso": "2026-05-11T00:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "f4ca32e7c54f",
@@ -108,7 +215,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/11/2026-09290/procedures-for-transportation-workplace-drug-and-alcohol-testing-programs",
     "published_iso": "2026-05-11T00:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "c001f645bc75",
@@ -129,7 +236,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/11/2026-09289/signatures-on-immigration-benefit-requests",
     "published_iso": "2026-05-11T00:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "519247c44007",
@@ -150,7 +257,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/11/2026-09276/rescinding-requirements-regarding-required-contract-provisions-for-federal-aid-construction",
     "published_iso": "2026-05-11T00:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "8076607de191",
@@ -171,7 +278,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/11/2026-09270/safety-zone-bancroft-canal-cameron-parish-la",
     "published_iso": "2026-05-11T00:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "79ef64357358",
@@ -192,57 +299,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/11/2026-09266/extension-of-compliance-dates-for-nondiscrimination-on-the-basis-of-disability-accessibility-of-web",
     "published_iso": "2026-05-11T00:00:00+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "278b485c82f6",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Netanyahu: War in Iran \u2018not over\u2019. Israeli Prime Minister Benjamin Netanyahu said the Iran war is \u201cnot over\u201d in an interview that aired on Sunday, reinvigorating the push to dismantle Tehran\u2019s proxies and see its nuclear enrichment program collapse.  \u201cI think it accomplished a great deal, but it's not over, because the",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/international/5871960-iran-war-israel-netanyahu/",
-    "published_iso": "2026-05-10T23:34:07+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "6bef231103ed",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Sanders, Moore tout bipartisan solutions to address maternal healthcare gaps. Arkansas Gov. Sarah Huckabee Sanders (R) and Maryland Gov. Wes Moore (D) on Sunday stressed the need for bipartisan cooperation to address maternal healthcare gaps.  On Mother\u2019s Day, the two spoke to host Kristen Welker on NBC's \u201cMeet the Pre",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/healthcare/5871893-maternal-health-care-gap/",
-    "published_iso": "2026-05-10T22:11:12+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "2ea927c6aa80",
@@ -263,7 +320,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-mothers-day/",
     "published_iso": "2026-05-10T14:35:53+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "bb81c6125560",
@@ -290,7 +347,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/america-250-presidential-message-on-the-anniversary-of-the-capture-of-fort-ticonderoga/",
     "published_iso": "2026-05-10T14:33:45+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "5f80517cd30b",
@@ -309,7 +366,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/05/10/poll-voters-stolen-election-concerns-00913086",
     "published_iso": "2026-05-10T14:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "e492a8714560",
@@ -351,109 +408,6 @@
     "url": "https://www.politico.com/news/2026/05/09/poll-americans-say-too-much-money-in-politics-00912455",
     "published_iso": "2026-05-09T14:00:00+00:00",
     "time_ago": "1d ago"
-  },
-  {
-    "id": "b5f868480d5f",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Minard Laurie A sold 984 shares of Garmin Ltd (GRMN) \u00b7 $241.98/share \u00b7 $238,106 total \u00b7 May 8 ($262,365 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "GRMN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2011960/000119312526215308/0001193125-26-215308-index.htm",
-    "published_iso": "2026-05-09T01:55:04+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "a00f7ce2b89f",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Cardillo Robert T. exercised options for 3,773 shares of Ionq, Inc. (IONQ-WT) \u00b7 $11.24/share \u00b7 $42,409 total \u00b7 May 8 ($230,681 across all blocks)",
-    "tags": [],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2013580/000119312526215307/0001193125-26-215307-index.htm",
-    "published_iso": "2026-05-09T01:55:03+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "c407b19c0ec0",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Fairclough Brett sold 14,632 shares of Virtu Financial, Inc. (VIRT) \u00b7 $49.82/share \u00b7 $728,996 total \u00b7 May 8 ($1,501,854 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "VIRT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1788170/000178817026000006/0001788170-26-000006-index.htm",
-    "published_iso": "2026-05-09T01:51:15+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "2f5efbfe7447",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Prager Paul B. exercised options for 981,162 shares of Terawulf Inc. (WULF) \u00b7 May 8 ($0 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "WULF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1877255/000108330126000098/0001083301-26-000098-index.htm",
-    "published_iso": "2026-05-09T01:46:09+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "d38ed83db2e2",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Khan Nazar M. exercised options for 817,635 shares of Terawulf Inc. (WULF) \u00b7 May 8 ($0 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "WULF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1877476/000108330126000097/0001083301-26-000097-index.htm",
-    "published_iso": "2026-05-09T01:45:27+00:00",
-    "time_ago": "2d ago"
   },
   {
     "id": "42b7ec12347b",
