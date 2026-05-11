@@ -1,6 +1,6 @@
 [
   {
-    "id": "9cb229cc2739",
+    "id": "bdc1debea5e0",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Saba Capital Management, L.P. bought 3,000 shares of Mexico Fund Inc (MXF) \u00b7 $21.82/share \u00b7 $65,460 total \u00b7 May 11",
+    "content": "Mellini Paul V received 10,000 shares of Superior Group Of Companies, Inc. (SGC) \u00b7 May 11",
     "tags": [],
     "tickers": [
-      "MXF"
+      "SGC"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1510281/000151028126000169/0001510281-26-000169-index.htm",
-    "published_iso": "2026-05-11T16:36:15+00:00",
-    "time_ago": "3m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1291276/000143774926016071/0001437749-26-016071-index.htm",
+    "published_iso": "2026-05-11T18:22:03+00:00",
+    "time_ago": "1m ago"
   },
   {
-    "id": "84ee42b73dd0",
+    "id": "0ef4658ea613",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,41 +30,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Saba Capital Management, L.P. bought 16,709 shares of New Germany Fund Inc (GF) \u00b7 $12.00/share \u00b7 $200,508 total \u00b7 May 11",
+    "content": "De La Aguilera Luis exercised options for 10,005 shares of Uscb Financial Holdings, Inc. (USCB) \u00b7 $11.35/share \u00b7 $113,557 total \u00b7 May 11 ($295,047 across all blocks)",
     "tags": [],
     "tickers": [
-      "GF"
+      "USCB"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1510281/000151028126000168/0001510281-26-000168-index.htm",
-    "published_iso": "2026-05-11T16:34:08+00:00",
-    "time_ago": "5m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1916660/000143774926016070/0001437749-26-016070-index.htm",
+    "published_iso": "2026-05-11T18:21:16+00:00",
+    "time_ago": "2m ago"
   },
   {
-    "id": "cbc753392136",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Saba Capital Management, L.P. sold 81,640 shares of Blackrock Esg Capital Allocation Term Trust (ECAT) \u00b7 $15.07/share \u00b7 $1,230,315 total \u00b7 May 11 ($4,254,315 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "ECAT",
-      "BLK"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1864843/000151028126000167/0001510281-26-000167-index.htm",
-    "published_iso": "2026-05-11T16:32:20+00:00",
-    "time_ago": "7m ago"
-  },
-  {
-    "id": "2d6789178c6d",
+    "id": "3490ad88c70c",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -73,9 +51,73 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "SNL opens with Hegseth, Patel and Kavanaugh drinking at DC bar. The latest Saturday Night Live (SNL) cold open featured actors playing Defense Secretary Pete Hegseth, FBI Director Kash Patel and Supreme Court Justice Brett Kavanaugh drinking at a bar in the nation\u2019s capital.  The show starts with Hegseth, played by Col",
+    "content": "Josh Gottheimer takes on Hasan Piker, accuses Democrats of double standard on antisemitism. Rep. Josh Gottheimer (D-N.J.) alleged that his party has a double standard when it comes to antisemitism in a Sunday opinion piece for The New York Times. \u201cAcross the Democratic Party\u2019s ideological spectrum, right-wing hate is c",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/house/5872746-democratic-party-antisemitism-double-standard/",
+    "published_iso": "2026-05-11T17:54:15+00:00",
+    "time_ago": "29m ago"
+  },
+  {
+    "id": "576ceeddc7a9",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "high",
+    "content": "President Trump Honors America\u2019s Moms with New Support for Families. Today, President Donald J. Trump announced sweeping new initiatives to lower costs for families, expand access to fertility care, and deliver meaningful support for mothers across America. The actions include new federal guidance to encourage employer",
     "tags": [
-      "Defense"
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/05/president-trump-honors-americas-moms-with-new-support-for-families/",
+    "published_iso": "2026-05-11T17:46:32+00:00",
+    "time_ago": "37m ago"
+  },
+  {
+    "id": "f4b1a7d36988",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Hawley to introduce bill suspending 18.4-cent-a gallon gas tax. Sen. John Hawley (R-Mo.), citing support from President Trump, says he will introduce legislation to suspend the federal gas tax, which would save drivers 18.4 cents per gallon. Suspending the gas tax is quickly picking up more support among Republicans on",
+    "tags": [
+      "Energy",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/senate/5872714-hawley-suspend-gas-tax-bill/",
+    "published_iso": "2026-05-11T17:26:51+00:00",
+    "time_ago": "57m ago"
+  },
+  {
+    "id": "634402b6f8f6",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Pentagon reveals location of nuclear-armed submarine after Trump rejects Iran proposal. The Pentagon revealed the location of a U.S. Navy nuclear-armed submarine in a rare move a day after President Trump rejected the latest peace proposal from Iran.  The Ohio-class ballistic missile submarine arrived in Gibraltar, a B",
+    "tags": [
+      "Defense",
+      "Sanctions"
     ],
     "tickers": [
       "LMT",
@@ -85,12 +127,12 @@
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/blogs/in-the-know/5872572-snl-cold-open-drinking/",
-    "published_iso": "2026-05-11T16:07:45+00:00",
-    "time_ago": "31m ago"
+    "url": "https://thehill.com/policy/defense/5872704-ohio-class-missile-submarine/",
+    "published_iso": "2026-05-11T17:17:03+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "3bc9b629308b",
+    "id": "dc98bea79e9f",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -99,108 +141,15 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Stop the myths \u2014 allow year-round E15. The House of Representatives is voting on a bill to allow nationwide, year-round sales of E15, a lower-cost gasoline blend containing 15 percent American-made ethanol, which would save drivers money and help ensure refiners are able to compete on a level playing field",
-    "tags": [
-      "Regulation",
-      "Insider Trade"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/energy-environment/5871875-nationwide-e15-sales-bill/",
-    "published_iso": "2026-05-11T16:00:00+00:00",
-    "time_ago": "39m ago"
-  },
-  {
-    "id": "457ac59c61c9",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Lawsuit filed over Trump's Reflecting Pool renovations. A group sued over President Trump\u2019s Reflecting Pool project on Monday, arguing the renovation at the National Mall violates environmental and preservation laws.  The Cultural Landscape Foundation and its founder, Charles Birnbaum, said the blue paint coating is \u201ca",
+    "content": "Jeffries vows 'massive' response following redistricting setback in Virginia. House Minority Leader Hakeem Jeffries (D-N.Y.) is vowing a \u201cmassive\u201d response to last week\u2019s Virginia Supreme Court decision on redistricting, which nullified a new map in the Old Dominion to the advantage of Republicans.\u00a0 Jeffries said Democ",
     "tags": [
       "Regulation"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/regulation/court-battles/5872486-trump-reflecting-pool-lawsuit/",
-    "published_iso": "2026-05-11T15:28:35+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "8e8bd0a71405",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Taiwan doesn't want 'surprises' during Trump-Xi meeting: 'Not overly worried'. Taiwan has said it does not want \"surprises\" during the meeting later this week between President Trump and Chinese President Xi Jinping, in which the island is among the most prickly items on the agenda. Taiwanese Foreign Minister Lin Chia-",
-    "tags": [
-      "China"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "AMD",
-      "QCOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/international/5872470-taiwan-trump-xi-summit-concerns/",
-    "published_iso": "2026-05-11T15:24:39+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "5889f5b66c92",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Hassett predicts Powell will leave Fed if he's 'happy' with IG report. National Economic Council Director Kevin Hassett said Monday that he expects Federal Reserve Chair Jerome Powell to leave the central bank\u2019s board of governors if he is \u201chappy\u201d with a forthcoming internal report on the Fed\u2019s renovations, which have ",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/5872423-hassett-powell-fed-warsh/",
-    "published_iso": "2026-05-11T15:10:28+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "2a9715bbe6d1",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Congress\u00a0built the vaccine\u00a0firewall. Now\u00a0Congress\u00a0must defend it.. Tonight, a parent will look down at her newborn and say:\u00a0let\u2019s\u00a0wait. The virus will not. Neither will the bleed",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/healthcare/5869886-hepatitis-b-vaccine-delay-consequences/",
-    "published_iso": "2026-05-11T15:00:00+00:00",
+    "url": "https://thehill.com/homenews/house/5872681-jeffries-virginia-redistricting-response/",
+    "published_iso": "2026-05-11T16:58:32+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -223,7 +172,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mlljnxlq522g",
     "published_iso": "2026-05-11T14:53:12.306000+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "dd1bce8fd8cb",
@@ -244,7 +193,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/11/2026-09327/official-seal",
     "published_iso": "2026-05-11T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "da11fdbfb9b6",
@@ -265,7 +214,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/11/2026-09293/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery",
     "published_iso": "2026-05-11T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "f4ca32e7c54f",
@@ -287,7 +236,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/11/2026-09290/procedures-for-transportation-workplace-drug-and-alcohol-testing-programs",
     "published_iso": "2026-05-11T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "c001f645bc75",
@@ -308,7 +257,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/11/2026-09289/signatures-on-immigration-benefit-requests",
     "published_iso": "2026-05-11T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "519247c44007",
@@ -329,7 +278,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/11/2026-09276/rescinding-requirements-regarding-required-contract-provisions-for-federal-aid-construction",
     "published_iso": "2026-05-11T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "8076607de191",
@@ -350,7 +299,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/11/2026-09270/safety-zone-bancroft-canal-cameron-parish-la",
     "published_iso": "2026-05-11T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "79ef64357358",
@@ -371,7 +320,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/11/2026-09266/extension-of-compliance-dates-for-nondiscrimination-on-the-basis-of-disability-accessibility-of-web",
     "published_iso": "2026-05-11T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "2ea927c6aa80",
@@ -705,28 +654,6 @@
     "time_ago": "4d ago"
   },
   {
-    "id": "a9bbd779e408",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "high",
-    "content": "Presidential Message on National Nurses Day. Every day, we rely on the compassionate service and steady commitment of our Nation\u2019s corps of nursing professionals.&#160; On National Nurses Day, we pay special tribute to these highly skilled men and women for their steadfast dedication to the health and well-being of the",
-    "tags": [
-      "Healthcare",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-nurses-day/",
-    "published_iso": "2026-05-06T17:46:22+00:00",
-    "time_ago": "4d ago"
-  },
-  {
     "id": "caa05201b0ae",
     "politician": "Sen. Elizabeth Warren",
     "initials": "EW",
@@ -823,7 +750,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/new-responses-from-education-treasury-departments-reveal-trump-admin-cannot-justify-attempts-to-dismantle-education-department",
     "published_iso": "2026-05-04T18:00:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "5247dbd2fbc8",
@@ -972,7 +899,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s113?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T17:59:00+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "2f2bea8148dd",
@@ -1204,7 +1131,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mknlrsfodc2v",
     "published_iso": "2026-04-29T17:11:16.425000+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "4834f3e8f4bb",
@@ -1268,7 +1195,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-led-fences-act-clears-u-s-house/",
     "published_iso": "2026-04-16T18:07:32+00:00",
-    "time_ago": "24d ago"
+    "time_ago": "25d ago"
   },
   {
     "id": "987e63291ad4",
@@ -1320,7 +1247,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-cruz-file-amicus-brief-backing-trump-administrations-push-to-repeal-endangerment-finding/",
     "published_iso": "2026-04-15T17:31:26+00:00",
-    "time_ago": "25d ago"
+    "time_ago": "26d ago"
   },
   {
     "id": "7e97dd57aa17",
@@ -1395,7 +1322,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-introduces-legislation-to-codify-trumps-nuclear-baseload-energy-executive-orders/",
     "published_iso": "2026-03-26T18:12:45+00:00",
-    "time_ago": "45d ago"
+    "time_ago": "46d ago"
   },
   {
     "id": "42002aa36a3f",
@@ -1572,7 +1499,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "108d ago"
+    "time_ago": "109d ago"
   },
   {
     "id": "d39ac85b9cc9",
