@@ -247,52 +247,118 @@ COMPANY_KEYWORDS: dict[str, str] = {
 # Posts about constituent services, local events, personal milestones, etc. are dropped.
 
 MARKET_RELEVANCE_KEYWORDS = {
-    # Policy & legislation
-    "bill", "legislation", "law", "act", "regulation", "executive order",
-    "rule", "policy", "reform", "repeal", "vote", "passed", "signed",
-    "tariff", "trade", "sanction", "embargo", "export", "import",
-    "treaty", "agreement", "deal", "contract",
-    # Economics
-    "economy", "economic", "gdp", "recession", "inflation", "deflation",
-    "interest rate", "federal reserve", "monetary", "fiscal", "stimulus",
-    "budget", "deficit", "debt ceiling", "spending", "appropriation",
-    "jobs", "unemployment", "payroll", "wage", "labor",
-    "tax", "irs", "corporate tax", "capital gains",
-    # Industries
-    "pharmaceutical", "pharma", "drug price", "drug pricing", "vaccine",
-    "fda approval", "clinical trial",
-    "semiconductor", "chip", "chipmaker", "foundry",
-    "artificial intelligence", "machine learning",
-    "oil", "natural gas", "petroleum", "opec", "pipeline", "refinery",
-    "clean energy", "solar", "wind power", "renewable energy", "nuclear",
-    "defense contractor", "military spending", "weapons system",
-    "healthcare", "health insurance", "medicaid", "medicare",
+    # Specific legislation/policy (more precise than bare "bill" or "law")
+    "tax bill", "spending bill", "trade bill", "budget bill", "appropriations",
+    "tariff", "trade war", "trade deal", "trade policy", "trade agreement",
+    "sanction", "embargo", "export ban", "import duty", "executive order",
+    "debt ceiling", "stimulus", "bailout", "subsidy",
+    # Economics (specific enough to be financial)
+    "interest rate", "federal reserve", "fed rate", "monetary policy",
+    "inflation", "recession", "gdp", "unemployment rate", "payroll",
+    "corporate tax", "capital gains", "tax cut", "tax hike", "irs",
+    "budget deficit", "national debt",
+    # Industries (industry-specific, not generic words)
+    "pharmaceutical", "pharma", "drug price", "drug pricing", "drug approval",
+    "fda approval", "clinical trial", "medical device",
+    "semiconductor", "chip shortage", "chipmaker", "foundry",
+    "artificial intelligence", "machine learning", "ai regulation",
+    "oil price", "natural gas", "petroleum", "opec", "oil drilling", "pipeline",
+    "clean energy", "solar power", "wind power", "renewable energy", "nuclear power",
+    "defense contractor", "military spending", "weapons contract",
+    "health insurance", "medicaid", "medicare", "obamacare", "drug cost",
     "banking regulation", "financial regulation", "wall street",
-    "agriculture", "farm bill", "crop", "commodity",
-    "housing market", "mortgage", "real estate",
-    "broadband", "telecommunications", "spectrum",
-    "airline", "aviation", "faa",
+    "farm bill", "crop subsidy", "commodity price",
+    "housing market", "mortgage rate", "real estate",
+    "broadband access", "spectrum auction", "telecommunications",
+    "airline industry", "aviation", "faa regulation",
     # Market terms
-    "stock", "market", "shares", "equity", "bond", "treasury", "yield",
-    "nasdaq", "nyse", "dow jones",
-    "merger", "acquisition", "ipo", "buyback", "dividend",
-    "investor", "investment", "hedge fund", "private equity",
-    "antitrust", "monopoly", "competition", "ftc", "doj",
-    # Crypto
-    "bitcoin", "crypto", "cryptocurrency", "blockchain", "stablecoin",
-    # International trade
-    "china", "taiwan", "supply chain", "wto",
-    # Specific companies (so posts mentioning them are always included)
-    "amazon", "google", "apple", "microsoft", "facebook",
-    "tesla", "nvidia", "boeing", "pfizer", "exxon",
-    "lockheed", "goldman sachs", "jpmorgan",
+    "stock market", "stock price", "share price", "equity market",
+    "bond market", "treasury yield", "bond yield",
+    "nasdaq", "nyse", "dow jones", "s&p 500",
+    "merger", "acquisition", "ipo", "stock buyback", "dividend",
+    "hedge fund", "private equity", "venture capital",
+    "antitrust", "monopoly", "ftc investigation", "doj lawsuit",
+    # Crypto (specific)
+    "bitcoin", "cryptocurrency", "crypto regulation", "blockchain", "stablecoin",
+    "digital asset", "cbdc",
+    # International trade / geopolitics with market impact
+    "china tariff", "china trade", "taiwan semiconductor", "supply chain",
+    "wto dispute", "trade war",
+    # Specific companies — always include posts naming these
+    "amazon", "google", "apple", "microsoft", "facebook", "meta platforms",
+    "tesla", "nvidia", "boeing", "pfizer", "exxon", "exxonmobil",
+    "lockheed martin", "goldman sachs", "jpmorgan", "blackrock",
+}
+
+# High-confidence macro keywords: so specific to market-moving events that they
+# guarantee a social media post is included even without a named company ticker.
+# These represent events where the post DESCRIBES a potential price change.
+MACRO_CERTAIN_KEYWORDS = {
+    # Monetary policy (Fed moves entire market)
+    "interest rate", "rate hike", "rate cut", "federal reserve", "fomc",
+    "quantitative easing", "quantitative tightening", "fed rate",
+    # Economic indicators
+    "inflation", "cpi report", "pce data", "gdp growth", "gdp report",
+    "recession", "unemployment rate", "payroll report", "jobs report",
+    # Trade policy (moves sector ETFs, specific companies)
+    "tariff", "trade war", "trade deal", "trade deficit",
+    "sanction", "embargo", "export ban", "import ban",
+    # Fiscal (moves bonds, broad market)
+    "debt ceiling", "government shutdown", "stimulus", "bailout", "budget deficit",
+    # Corporate events (direct price movers)
+    "ipo", "merger", "acquisition", "buyout", "takeover",
+    "bankruptcy", "default", "delisted",
+    "earnings", "profit warning", "dividend", "buyback",
+    # Healthcare programs (UNH, HCA, CVS directly affected)
+    "medicaid", "medicare", "drug pricing", "drug price", "drug cost",
+    # Defense (LMT, RTX, NOC, GD directly affected)
+    "defense budget", "military contract", "weapons contract", "pentagon budget",
+    # Crypto (COIN, BTC, ETH directly affected)
+    "bitcoin", "cryptocurrency", "crypto regulation", "stablecoin", "crypto ban",
+    # Energy (XOM, CVX, OXY directly affected)
+    "oil price", "opec", "pipeline approval", "lng export", "oil sanction",
+    # Tax (affects corporate earnings)
+    "corporate tax", "capital gains tax", "tax cut", "tax hike",
+    # Antitrust (GOOGL, AMZN, AAPL, META directly affected)
+    "antitrust", "monopoly fine", "break up", "divestiture",
+    # Semiconductors/Tech (NVDA, TSM, QCOM directly affected)
+    "chip ban", "chip export", "semiconductor ban", "ai regulation",
+}
+
+# Platforms where social posts require extra validation before inclusion
+_SOCIAL_PLATFORMS = {
+    "twitter", "truthsocial", "bluesky", "threads",
+    "gettr", "gab", "rumble", "substack", "youtube",
 }
 
 
-def is_market_relevant(text: str) -> bool:
-    """Return True only if the text has a genuine connection to financial markets."""
-    text_lower = text.lower()
-    return any(kw in text_lower for kw in MARKET_RELEVANCE_KEYWORDS)
+def is_market_relevant(text: str, platform: str = "") -> bool:
+    """Two-tier market relevance check.
+
+    Tier 1 (all platforms): must contain a financial keyword in the first 400 chars.
+    Tier 2 (social media only): must ALSO contain either a named company (which will
+    get a ticker assigned) or a high-impact macro keyword — ensuring the post
+    describes a POTENTIAL STOCK PRICE CHANGE, not just political commentary.
+    """
+    text_lower = text[:400].lower()
+
+    # Tier 1: basic financial connection required for everyone
+    if not any(kw in text_lower for kw in MARKET_RELEVANCE_KEYWORDS):
+        return False
+
+    # Tier 2: social media posts need stronger evidence of price impact
+    if platform in _SOCIAL_PLATFORMS:
+        # Named company → will get ticker assigned
+        has_company = any(
+            kw in text_lower if " " in kw
+            else bool(re.search(r"\b" + re.escape(kw) + r"\b", text_lower))
+            for kw in COMPANY_KEYWORDS
+        )
+        # High-impact macro keyword → clearly describes market-moving event
+        has_macro = any(kw in text_lower for kw in MACRO_CERTAIN_KEYWORDS)
+        return has_company or has_macro
+
+    return True
 
 # ─── POLITICIANS ─────────────────────────────────────────────────────────────
 
@@ -307,6 +373,10 @@ POLITICIANS = [
         "bluesky": None,
         "youtube_channel": "UCAql2DyGU2un1Ei2nMYsqOA",
         "truth_social": "realDonaldTrump",
+        "twitter": "realDonaldTrump",
+        "threads": None,           # Not on Threads
+        "gettr": None,
+        "gab": None,
         "keywords": ["tariff", "china", "trade", "economy", "stock", "deal", "tax", "energy", "oil", "sanction"],
     },
     # ── Senate ───────────────────────────────────────────────────────────────
@@ -315,10 +385,14 @@ POLITICIANS = [
         "initials": "EW",
         "role": "Senate Banking Committee",
         "color": {"bg": "#1b3a2a", "fg": "#4ade80"},
-        "rss": "https://warren.senate.gov/rss/",           # verified working
+        "rss": "https://warren.senate.gov/rss/",
         "bluesky": "warren.senate.gov",
         "youtube_channel": "UCxqHrKEtEAFqLiUiD_zhbfQ",
         "truth_social": None,
+        "twitter": "SenWarren",
+        "threads": "senwarren",
+        "gettr": None,
+        "gab": None,
         "keywords": ["antitrust", "big tech", "amazon", "google", "apple", "bank", "crypto", "wall street"],
     },
     {
@@ -326,10 +400,14 @@ POLITICIANS = [
         "initials": "BS",
         "role": "Senate HELP Committee",
         "color": {"bg": "#1e2a4a", "fg": "#818cf8"},
-        "rss": "https://www.sanders.senate.gov/rss/",      # verified working
+        "rss": "https://www.sanders.senate.gov/rss/",
         "bluesky": "sanders.senate.gov",
         "youtube_channel": "UCH1dpzjCEqy3GFnDES5kCNw",
         "truth_social": None,
+        "twitter": "BernieSanders",
+        "threads": "sensanders",
+        "gettr": None,
+        "gab": None,
         "keywords": ["drug", "pharma", "healthcare", "medicare", "insulin", "price", "insurance"],
     },
     {
@@ -337,10 +415,14 @@ POLITICIANS = [
         "initials": "RP",
         "role": "Senate Foreign Relations Committee",
         "color": {"bg": "#2a1818", "fg": "#fbbf24"},
-        "rss": "https://www.paul.senate.gov/rss/",         # verified working
+        "rss": "https://www.paul.senate.gov/rss/",
         "bluesky": None,
         "youtube_channel": None,
-        "truth_social": None,
+        "truth_social": "RandPaul",
+        "twitter": "RandPaul",
+        "threads": None,
+        "gettr": None,
+        "gab": None,
         "keywords": ["spending", "debt", "fed", "gold", "regulation", "crypto", "liberty"],
     },
     {
@@ -351,7 +433,11 @@ POLITICIANS = [
         "rss": "https://www.lummis.senate.gov/press-releases/feed/",
         "bluesky": None,
         "youtube_channel": None,
-        "truth_social": None,
+        "truth_social": "SenLummis",
+        "twitter": "SenLummis",
+        "threads": None,
+        "gettr": None,
+        "gab": None,
         "keywords": ["bitcoin", "crypto", "stablecoin", "digital asset", "blockchain"],
     },
     {
@@ -359,10 +445,14 @@ POLITICIANS = [
         "initials": "MR",
         "role": "Senate Foreign Relations Committee",
         "color": {"bg": "#1e3a5f", "fg": "#60a5fa"},
-        "rss": None,                                        # RSS broken, use YouTube
+        "rss": None,
         "bluesky": None,
         "youtube_channel": "UCn3YWMT3D-mXKDYdDpFQnxA",
         "truth_social": None,
+        "twitter": "marcorubio",
+        "threads": None,
+        "gettr": None,
+        "gab": None,
         "keywords": ["china", "tariff", "semiconductor", "trade", "taiwan", "military", "sanction"],
     },
     # ── House ────────────────────────────────────────────────────────────────
@@ -371,10 +461,14 @@ POLITICIANS = [
         "initials": "NP",
         "role": "House Democratic Leader",
         "color": {"bg": "#1e2a4a", "fg": "#60a5fa"},
-        "rss": "https://pelosi.house.gov/rss.xml",          # verified working
+        "rss": "https://pelosi.house.gov/rss.xml",
         "bluesky": "pelosi.house.gov",
         "youtube_channel": None,
         "truth_social": None,
+        "twitter": "NancyPelosi",
+        "threads": "nancypelosi",
+        "gettr": None,
+        "gab": None,
         "keywords": ["tech", "china", "semiconductor", "climate", "trade", "healthcare"],
     },
     {
@@ -385,7 +479,11 @@ POLITICIANS = [
         "rss": "https://mikejohnson.house.gov/rss.xml",
         "bluesky": None,
         "youtube_channel": None,
-        "truth_social": None,
+        "truth_social": "MikeJohnsonLA",
+        "twitter": "SpeakerJohnson",
+        "threads": None,
+        "gettr": None,
+        "gab": None,
         "keywords": ["budget", "spending", "tax", "debt", "energy", "defense"],
     },
     {
@@ -393,10 +491,14 @@ POLITICIANS = [
         "initials": "JJ",
         "role": "House Judiciary Committee Chair",
         "color": {"bg": "#2a1818", "fg": "#fca5a5"},
-        "rss": "https://jordan.house.gov/rss.xml",          # verified working
+        "rss": "https://jordan.house.gov/rss.xml",
         "bluesky": None,
         "youtube_channel": None,
-        "truth_social": None,
+        "truth_social": "Jim_Jordan",
+        "twitter": "Jim_Jordan",
+        "threads": None,
+        "gettr": None,
+        "gab": None,
         "keywords": ["big tech", "antitrust", "google", "amazon", "censorship", "doj"],
     },
     {
@@ -404,10 +506,14 @@ POLITICIANS = [
         "initials": "AOC",
         "role": "House Financial Services Committee",
         "color": {"bg": "#1e2a4a", "fg": "#93c5fd"},
-        "rss": "https://ocasio-cortez.house.gov/rss.xml",   # verified working
+        "rss": "https://ocasio-cortez.house.gov/rss.xml",
         "bluesky": "aoc.bsky.social",
         "youtube_channel": None,
         "truth_social": None,
+        "twitter": "AOC",
+        "threads": "aoc",
+        "gettr": None,
+        "gab": None,
         "keywords": ["big tech", "green energy", "climate", "bank", "tax", "housing", "crypto"],
     },
     {
@@ -419,6 +525,10 @@ POLITICIANS = [
         "bluesky": "khanna.house.gov",
         "youtube_channel": None,
         "truth_social": None,
+        "twitter": "RoKhanna",
+        "threads": "rokhanna",
+        "gettr": None,
+        "gab": None,
         "keywords": ["semiconductor", "tech", "china", "defense", "manufacturing", "ai"],
     },
     {
@@ -430,6 +540,10 @@ POLITICIANS = [
         "bluesky": None,
         "youtube_channel": None,
         "truth_social": None,
+        "twitter": "PatrickMcHenry",
+        "threads": None,
+        "gettr": None,
+        "gab": None,
         "keywords": ["crypto", "stablecoin", "bitcoin", "fintech", "bank", "financial"],
     },
 ]
@@ -503,6 +617,81 @@ GLOBAL_SOURCES = [
         "platform_key": "thehill",
         "keywords": ["tariff", "trade", "legislation", "bill", "vote", "congress", "senate", "house", "economy", "crypto"],
     },
+    # ── Market-moving institutional sources ──────────────────────────────────
+    {
+        "name": "Federal Reserve",
+        "initials": "FED",
+        "role": "Federal Reserve — Monetary Policy & Rate Decisions",
+        "color": {"bg": "#0a1a2a", "fg": "#60a5fa"},
+        "rss": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "platform_key": "fed_reserve",
+        "keywords": ["interest rate", "monetary policy", "inflation", "fomc", "quantitative"],
+    },
+    {
+        "name": "U.S. Treasury",
+        "initials": "TRS",
+        "role": "Treasury Dept. — Sanctions, Debt & Economic Policy",
+        "color": {"bg": "#0a1a0a", "fg": "#4ade80"},
+        "rss": "https://home.treasury.gov/rss.xml",
+        "platform_key": "treasury",
+        "keywords": ["sanction", "debt", "deficit", "tariff", "tax", "ofac"],
+    },
+    # ── Conservative / alternative media (RSS) ───────────────────────────────
+    {
+        "name": "Donald Trump",
+        "initials": "DT-R",
+        "role": "President of the United States",
+        "color": {"bg": "#3b1818", "fg": "#f87171"},
+        "rss": "https://rumble.com/c/DonaldTrump/rss",
+        "platform_key": "rumble",
+        "keywords": ["tariff", "trade", "china", "economy", "tax", "energy", "deal"],
+    },
+    {
+        "name": "War Room",
+        "initials": "WR",
+        "role": "Bannon War Room — Political & Economic Commentary",
+        "color": {"bg": "#2a1a1a", "fg": "#fca5a5"},
+        "rss": "https://rumble.com/c/WarRoom/rss",
+        "platform_key": "rumble",
+        "keywords": ["economy", "trade", "china", "dollar", "inflation", "energy"],
+    },
+    # ── Financial newsletters (Substack RSS) ─────────────────────────────────
+    {
+        "name": "Doomberg",
+        "initials": "DOOM",
+        "role": "Doomberg — Energy & Commodity Markets",
+        "color": {"bg": "#1a2a1a", "fg": "#86efac"},
+        "rss": "https://doomberg.substack.com/feed",
+        "platform_key": "substack",
+        "keywords": ["energy", "oil", "commodity", "natural gas", "nuclear", "carbon"],
+    },
+    {
+        "name": "Apricitas Economics",
+        "initials": "APR",
+        "role": "Apricitas Economics — Macroeconomic Analysis",
+        "color": {"bg": "#1a1a2a", "fg": "#c4b5fd"},
+        "rss": "https://apricitas.substack.com/feed",
+        "platform_key": "substack",
+        "keywords": ["economy", "inflation", "employment", "gdp", "federal reserve", "labor"],
+    },
+    {
+        "name": "Matt Stoller / BIG",
+        "initials": "BIG",
+        "role": "BIG Newsletter — Antitrust & Corporate Power",
+        "color": {"bg": "#2a1a2a", "fg": "#d8b4fe"},
+        "rss": "https://mattstoller.substack.com/feed",
+        "platform_key": "substack",
+        "keywords": ["antitrust", "monopoly", "merger", "ftc", "big tech", "corporate"],
+    },
+    {
+        "name": "C-SPAN",
+        "initials": "CS",
+        "role": "C-SPAN — Congressional Hearings & Floor Activity",
+        "color": {"bg": "#1a1a1a", "fg": "#94a3b8"},
+        "rss": "https://www.c-span.org/rss/",
+        "platform_key": "cspan",
+        "keywords": ["hearing", "committee", "senate", "house", "testimony", "vote", "markup"],
+    },
 ]
 
 # ─── KEYWORD → TICKER MAPPING ─────────────────────────────────────────────────
@@ -564,6 +753,16 @@ PLATFORM_LABELS = {
     "truthsocial": "Truth Social",
     "bluesky": "Bluesky",
     "youtube": "YouTube",
+    # New platforms
+    "twitter": "Twitter/X",
+    "gab": "Gab",
+    "gettr": "Gettr",
+    "threads": "Threads",
+    "rumble": "Rumble",
+    "substack": "Substack",
+    "fed_reserve": "Federal Reserve",
+    "treasury": "U.S. Treasury",
+    "cspan": "C-SPAN",
 }
 
 # ─── HELPERS ─────────────────────────────────────────────────────────────────
@@ -669,9 +868,12 @@ def time_ago(dt: datetime) -> str:
     if secs < 86400:  return f"{secs // 3600}h ago"
     return f"{secs // 86400}d ago"
 
+_ALWAYS_INCLUDE_PLATFORMS = {"sec", "govtrack", "fed_reserve", "treasury", "federal_register"}
+
 def make_signal(source: dict, content: str, platform: str, url: str = "", published: Optional[datetime] = None) -> Optional[dict]:
-    # Drop posts with no market connection (unless it's a direct market source like SEC)
-    if platform not in ("sec", "govtrack") and not is_market_relevant(content):
+    # Institutional sources are always market-relevant by definition.
+    # Social media sources go through two-tier filter (requires named company OR macro keyword).
+    if platform not in _ALWAYS_INCLUDE_PLATFORMS and not is_market_relevant(content, platform):
         return None
 
     # Only derive tickers from the actual post content — never from source's generic keywords
@@ -763,6 +965,172 @@ def fetch_truth_social(source: dict) -> list:
         print(f"  Truth Social [{source['initials']}]: {len(signals)} posts")
     except Exception as e:
         print(f"  Truth Social [{source['initials']}] error: {e}")
+    return signals
+
+
+# ─── TWITTER/X via NITTER RSS ─────────────────────────────────────────────────
+# Nitter is an open-source Twitter front-end exposing RSS feeds.
+# We try multiple public instances in order; return on first success.
+_NITTER_INSTANCES = [
+    "nitter.poast.org",
+    "nitter.privacydev.net",
+    "nitter.cz",
+    "nitter.net",
+    "nitter.1d4.us",
+]
+
+def fetch_twitter_nitter(source: dict) -> list:
+    username = source.get("twitter")
+    if not username:
+        return []
+    for instance in _NITTER_INSTANCES:
+        try:
+            url = f"https://{instance}/{username}/rss"
+            feed = feedparser.parse(
+                url,
+                request_headers={"User-Agent": "PolitiSignal/1.0 (hello@politisignal.com)"},
+            )
+            if not feed.entries:
+                continue
+            signals = []
+            for entry in feed.entries[:5]:
+                content = strip_html(entry.get("summary", entry.get("title", "")))
+                if len(content) < 20:
+                    continue
+                published = None
+                if hasattr(entry, "published_parsed") and entry.published_parsed:
+                    try:
+                        published = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
+                    except Exception:
+                        pass
+                link = entry.get("link", "")
+                sig = make_signal(source, content, "twitter", link, published)
+                if sig:
+                    signals.append(sig)
+            print(f"  Twitter [{source['initials']}]: {len(signals)} posts (via {instance})")
+            return signals
+        except Exception:
+            continue
+    print(f"  Twitter [{source['initials']}]: all Nitter instances unavailable")
+    return []
+
+
+# ─── GAB (Mastodon-compatible API) ────────────────────────────────────────────
+def fetch_gab(source: dict) -> list:
+    username = source.get("gab")
+    if not username:
+        return []
+    signals = []
+    try:
+        r = requests.get(
+            "https://gab.com/api/v1/accounts/search",
+            params={"q": username, "limit": 1},
+            headers={"User-Agent": "PolitiSignal/1.0"},
+            timeout=10,
+        )
+        if r.status_code != 200 or not r.json():
+            return []
+        account_id = r.json()[0]["id"]
+        r2 = requests.get(
+            f"https://gab.com/api/v1/accounts/{account_id}/statuses",
+            params={"limit": 5, "exclude_replies": True},
+            headers={"User-Agent": "PolitiSignal/1.0"},
+            timeout=10,
+        )
+        if r2.status_code != 200:
+            return []
+        for status in r2.json():
+            content = strip_html(status.get("content", ""))
+            if len(content) < 20:
+                continue
+            published = datetime.fromisoformat(status["created_at"].replace("Z", "+00:00"))
+            url = status.get("url", "")
+            sig = make_signal(source, content, "gab", url, published)
+            if sig:
+                signals.append(sig)
+        print(f"  Gab [{source['initials']}]: {len(signals)} posts")
+    except Exception as e:
+        print(f"  Gab [{source['initials']}] error: {e}")
+    return signals
+
+
+# ─── GETTR ────────────────────────────────────────────────────────────────────
+def fetch_gettr(source: dict) -> list:
+    username = source.get("gettr")
+    if not username:
+        return []
+    signals = []
+    try:
+        r = requests.get(
+            f"https://api.gettr.com/u/{username}/posts",
+            params={"max": 5, "offset": 0, "dir": "fwd"},
+            headers={"User-Agent": "PolitiSignal/1.0"},
+            timeout=10,
+        )
+        if r.status_code != 200:
+            return []
+        posts = r.json().get("result", {}).get("data", {}).get("list", [])
+        for post in posts:
+            content = strip_html(post.get("txt", "") or post.get("ttl", ""))
+            if len(content) < 20:
+                continue
+            ts = post.get("cdate", 0)
+            published = datetime.fromtimestamp(ts / 1000, tz=timezone.utc) if ts else None
+            post_id = post.get("_id", "")
+            url = f"https://gettr.com/post/{post_id}" if post_id else ""
+            sig = make_signal(source, content, "gettr", url, published)
+            if sig:
+                signals.append(sig)
+        print(f"  Gettr [{source['initials']}]: {len(signals)} posts")
+    except Exception as e:
+        print(f"  Gettr [{source['initials']}] error: {e}")
+    return signals
+
+
+# ─── THREADS (Meta) ───────────────────────────────────────────────────────────
+def fetch_threads(source: dict) -> list:
+    """Fetch posts from Meta Threads using the unofficial public API.
+    Returns [] silently if blocked or unavailable — Threads' scraping policy changes frequently.
+    """
+    username = source.get("threads")
+    if not username:
+        return []
+    signals = []
+    try:
+        # Threads public profile — fetch via their web API endpoint
+        r = requests.get(
+            f"https://www.threads.net/@{username}",
+            headers={
+                "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+                "Accept": "text/html,application/xhtml+xml",
+            },
+            timeout=10,
+        )
+        if r.status_code != 200:
+            return []
+        # Extract og:description meta tags which Threads uses for post previews
+        from html.parser import HTMLParser
+        class MetaParser(HTMLParser):
+            def __init__(self):
+                super().__init__()
+                self.descriptions = []
+            def handle_starttag(self, tag, attrs):
+                if tag == "meta":
+                    d = dict(attrs)
+                    if d.get("property") == "og:description" or d.get("name") == "description":
+                        val = d.get("content", "")
+                        if val and len(val) > 20:
+                            self.descriptions.append(val)
+        parser = MetaParser()
+        parser.feed(r.text[:50000])
+        for desc in parser.descriptions[:3]:
+            sig = make_signal(source, desc, "threads", f"https://www.threads.net/@{username}", None)
+            if sig:
+                signals.append(sig)
+        if signals:
+            print(f"  Threads [{source['initials']}]: {len(signals)} posts")
+    except Exception as e:
+        print(f"  Threads [{source['initials']}] error: {e}")
     return signals
 
 
@@ -1187,6 +1555,10 @@ def main():
         all_signals.extend(fetch_truth_social(pol))
         all_signals.extend(fetch_bluesky(pol))
         all_signals.extend(fetch_youtube(pol))
+        all_signals.extend(fetch_twitter_nitter(pol))
+        all_signals.extend(fetch_gettr(pol))
+        all_signals.extend(fetch_gab(pol))
+        all_signals.extend(fetch_threads(pol))
 
     # Global institutional sources
     print("\n── Institutional Sources ────────────────────────────────")

@@ -324,7 +324,34 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
   .modal-header { padding: 16px 18px 12px; }
   .modal-body { padding: 14px 18px; }
   .modal-footer { padding: 12px 18px; }
+
+  /* Mobile bottom nav visible */
+  .mobile-nav { display: flex; }
+  /* Push feed content above the nav bar */
+  .feed-list { padding-bottom: 76px; }
+  .politicians-grid { padding-bottom: 76px; }
 }
+
+/* ── MOBILE BOTTOM NAV ───────────────────────────────────────────── */
+.mobile-nav {
+  display: none; /* hidden on desktop — shown via @media 640px above */
+  position: fixed; bottom: 0; left: 0; right: 0; z-index: 150;
+  background: var(--bg2);
+  border-top: 1px solid var(--border2);
+  padding: 6px 0 env(safe-area-inset-bottom, 8px);
+  box-shadow: 0 -4px 24px rgba(0,0,0,0.4);
+}
+.mobile-nav-item {
+  flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: 3px; padding: 5px 0; background: none; border: none;
+  color: var(--text3); cursor: pointer; text-decoration: none;
+  transition: color 0.15s; -webkit-tap-highlight-color: transparent;
+  font-family: 'Bricolage Grotesque', sans-serif; min-height: 44px;
+}
+.mobile-nav-item.active { color: var(--accent); }
+.mobile-nav-item:hover { color: var(--text2); }
+.mobile-nav-icon { font-size: 19px; line-height: 1; }
+.mobile-nav-label { font-size: 9px; font-family: 'DM Mono', monospace; letter-spacing: 0.3px; text-transform: uppercase; }
 
 /* ── EMAIL SIGNUP GATE ───────────────────────────────────────────── */
 #email-gate {
@@ -422,6 +449,13 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
 .restore-btn { display: block; width: 100%; padding: 10px; margin-bottom: 8px; border-radius: 8px; border: 1px solid rgba(79,125,255,0.3); background: rgba(79,125,255,0.08); color: var(--text); font-size: 13px; font-family: 'Bricolage Grotesque', sans-serif; cursor: pointer; transition: all 0.15s; text-align: left; display: flex; justify-content: space-between; align-items: center; }
 .restore-btn:hover { background: rgba(79,125,255,0.15); border-color: rgba(79,125,255,0.5); }
 .restore-btn .rb-price { font-size: 11px; color: var(--text3); font-family: 'DM Mono', monospace; }
+.restore-verify-row { display: flex; gap: 8px; margin-bottom: 8px; }
+.restore-verify-input { flex: 1; margin: 0 !important; width: auto !important; }
+.restore-verify-btn { flex-shrink: 0; padding: 0 16px; border-radius: 8px; border: none; background: var(--accent); color: white; font-size: 13px; font-family: 'Bricolage Grotesque', sans-serif; font-weight: 600; cursor: pointer; transition: opacity 0.15s; white-space: nowrap; }
+.restore-verify-btn:hover { opacity: 0.85; }
+.restore-verify-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+.restore-status { font-size: 12px; text-align: center; min-height: 18px; margin-bottom: 6px; font-family: 'DM Mono', monospace; }
+.restore-manual-label { font-size: 11px; color: var(--text3); text-align: center; margin: 10px 0 8px; border-top: 1px solid var(--border); padding-top: 10px; }
 </style>
 </head>
 <body>
@@ -452,7 +486,13 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
       Already a paid subscriber? <a onclick="toggleRestoreAccess('gate-restore')">Restore access →</a>
     </div>
     <div class="restore-select" id="gate-restore">
-      <p>Select your plan to restore access on this device:</p>
+      <p>Enter your subscription email to verify:</p>
+      <div class="restore-verify-row">
+        <input class="email-gate-input restore-verify-input" type="email" id="restore-email-gate" placeholder="your@email.com" autocomplete="email">
+        <button class="restore-verify-btn" onclick="verifySubscription('gate')">Verify →</button>
+      </div>
+      <div class="restore-status" id="restore-gate-status"></div>
+      <p class="restore-manual-label">Or select plan manually:</p>
       <button class="restore-btn" onclick="restoreAccess('trader')"><span>⚡ Pro Trader</span><span class="rb-price">$19/mo</span></button>
       <button class="restore-btn" onclick="restoreAccess('elite')"><span>🏅 Founding Elite</span><span class="rb-price">$49/mo</span></button>
     </div>
@@ -471,7 +511,13 @@ body { font-family: 'Bricolage Grotesque', sans-serif; background: var(--bg); co
       Already subscribed? <a onclick="toggleRestoreAccess('trial-restore')">Restore access →</a>
     </div>
     <div class="restore-select" id="trial-restore">
-      <p>Select your plan to restore access on this device:</p>
+      <p>Enter your subscription email to verify:</p>
+      <div class="restore-verify-row">
+        <input class="email-gate-input restore-verify-input" type="email" id="restore-email-trial" placeholder="your@email.com" autocomplete="email">
+        <button class="restore-verify-btn" onclick="verifySubscription('trial')">Verify →</button>
+      </div>
+      <div class="restore-status" id="restore-trial-status"></div>
+      <p class="restore-manual-label">Or select plan manually:</p>
       <button class="restore-btn" onclick="restoreAccess('trader')"><span>⚡ Pro Trader</span><span class="rb-price">$19/mo</span></button>
       <button class="restore-btn" onclick="restoreAccess('elite')"><span>🏅 Founding Elite</span><span class="rb-price">$49/mo</span></button>
     </div>
@@ -802,22 +848,31 @@ const TICKER_NAMES = {
 
 // ── PLATFORM ICONS & CATEGORY FILTERS ─────────────────────────────────────
 const PLATFORM_STYLES = {
-  'bluesky':          { icon: '🦋', label: 'Bluesky',     bg: 'rgba(0,133,255,0.12)',   color: '#3ca6f8', border: 'rgba(0,133,255,0.3)' },
-  'truthsocial':      { icon: '◉',  label: 'Truth Social', bg: 'rgba(255,90,0,0.12)',   color: '#ff6b35', border: 'rgba(255,90,0,0.3)' },
-  'youtube':          { icon: '▶',  label: 'YouTube',      bg: 'rgba(255,50,50,0.12)',  color: '#ff4444', border: 'rgba(255,50,50,0.3)' },
-  'rss':              { icon: '🏛',  label: '.gov',         bg: 'rgba(139,143,168,0.12)',color: '#8b8fa8', border: 'rgba(139,143,168,0.25)' },
-  'whitehouse':       { icon: '⭐', label: 'White House',  bg: 'rgba(226,232,240,0.08)',color: '#94a3b8', border: 'rgba(226,232,240,0.15)' },
-  'govtrack':         { icon: '🗳',  label: 'GovTrack',    bg: 'rgba(79,125,255,0.12)', color: '#4f7dff', border: 'rgba(79,125,255,0.3)' },
-  'federal_register': { icon: '📜', label: 'Fed Reg',      bg: 'rgba(134,239,172,0.1)', color: '#86efac', border: 'rgba(134,239,172,0.25)' },
-  'sec':              { icon: '📊', label: 'SEC Form 4',    bg: 'rgba(165,180,252,0.1)', color: '#a5b4fc', border: 'rgba(165,180,252,0.25)' },
-  'ustr':             { icon: '🌐', label: 'USTR',          bg: 'rgba(216,180,254,0.1)', color: '#d8b4fe', border: 'rgba(216,180,254,0.25)' },
-  'politico':         { icon: '📰', label: 'Politico',      bg: 'rgba(255,107,107,0.1)', color: '#ff6b6b', border: 'rgba(255,107,107,0.25)' },
-  'thehill':          { icon: '📰', label: 'The Hill',      bg: 'rgba(187,247,208,0.1)', color: '#86efac', border: 'rgba(187,247,208,0.25)' },
+  'bluesky':          { icon: '🦋', label: 'Bluesky',        bg: 'rgba(0,133,255,0.12)',   color: '#3ca6f8', border: 'rgba(0,133,255,0.3)' },
+  'truthsocial':      { icon: '◉',  label: 'Truth Social',   bg: 'rgba(255,90,0,0.12)',    color: '#ff6b35', border: 'rgba(255,90,0,0.3)' },
+  'youtube':          { icon: '▶',  label: 'YouTube',         bg: 'rgba(255,50,50,0.12)',   color: '#ff4444', border: 'rgba(255,50,50,0.3)' },
+  'twitter':          { icon: '𝕏',  label: 'Twitter/X',      bg: 'rgba(255,255,255,0.06)', color: '#e7e9ea', border: 'rgba(255,255,255,0.15)' },
+  'threads':          { icon: '🧵', label: 'Threads',         bg: 'rgba(255,255,255,0.06)', color: '#cccccc', border: 'rgba(255,255,255,0.12)' },
+  'gettr':            { icon: '⚡', label: 'Gettr',           bg: 'rgba(255,80,0,0.1)',     color: '#ff5000', border: 'rgba(255,80,0,0.25)' },
+  'gab':              { icon: '🐸', label: 'Gab',             bg: 'rgba(33,186,66,0.1)',    color: '#21ba42', border: 'rgba(33,186,66,0.25)' },
+  'rumble':           { icon: '▶',  label: 'Rumble',          bg: 'rgba(133,187,66,0.12)',  color: '#85bb42', border: 'rgba(133,187,66,0.3)' },
+  'substack':         { icon: '📩', label: 'Substack',        bg: 'rgba(255,108,0,0.1)',    color: '#ff6c00', border: 'rgba(255,108,0,0.25)' },
+  'rss':              { icon: '🏛',  label: '.gov',            bg: 'rgba(139,143,168,0.12)', color: '#8b8fa8', border: 'rgba(139,143,168,0.25)' },
+  'whitehouse':       { icon: '⭐', label: 'White House',     bg: 'rgba(226,232,240,0.08)', color: '#94a3b8', border: 'rgba(226,232,240,0.15)' },
+  'govtrack':         { icon: '🗳',  label: 'GovTrack',       bg: 'rgba(79,125,255,0.12)',  color: '#4f7dff', border: 'rgba(79,125,255,0.3)' },
+  'federal_register': { icon: '📜', label: 'Fed Reg',         bg: 'rgba(134,239,172,0.1)',  color: '#86efac', border: 'rgba(134,239,172,0.25)' },
+  'sec':              { icon: '📊', label: 'SEC Form 4',       bg: 'rgba(165,180,252,0.1)',  color: '#a5b4fc', border: 'rgba(165,180,252,0.25)' },
+  'ustr':             { icon: '🌐', label: 'USTR',             bg: 'rgba(216,180,254,0.1)',  color: '#d8b4fe', border: 'rgba(216,180,254,0.25)' },
+  'fed_reserve':      { icon: '🏦', label: 'Fed Reserve',     bg: 'rgba(79,125,255,0.1)',   color: '#4f7dff', border: 'rgba(79,125,255,0.25)' },
+  'treasury':         { icon: '💵', label: 'Treasury',         bg: 'rgba(46,204,113,0.1)',   color: '#2ecc71', border: 'rgba(46,204,113,0.25)' },
+  'cspan':            { icon: '📺', label: 'C-SPAN',           bg: 'rgba(139,143,168,0.08)', color: '#64748b', border: 'rgba(139,143,168,0.2)' },
+  'politico':         { icon: '📰', label: 'Politico',         bg: 'rgba(255,107,107,0.1)',  color: '#ff6b6b', border: 'rgba(255,107,107,0.25)' },
+  'thehill':          { icon: '📰', label: 'The Hill',         bg: 'rgba(187,247,208,0.1)',  color: '#86efac', border: 'rgba(187,247,208,0.25)' },
 };
 const CATEGORY_SOURCES = {
-  'Social': ['bluesky', 'truthsocial', 'youtube'],
-  'News':   ['politico', 'thehill'],
-  'Gov':    ['rss', 'whitehouse', 'govtrack', 'federal_register', 'sec', 'ustr'],
+  'Social': ['bluesky', 'truthsocial', 'youtube', 'twitter', 'threads', 'gettr', 'gab'],
+  'News':   ['politico', 'thehill', 'rumble', 'substack'],
+  'Gov':    ['rss', 'whitehouse', 'govtrack', 'federal_register', 'sec', 'ustr', 'fed_reserve', 'treasury', 'cspan'],
 };
 function platformBadge(source) {
   const p = PLATFORM_STYLES[source] || { icon: '·', label: source, bg: 'rgba(74,77,98,0.15)', color: '#8b8fa8', border: 'rgba(74,77,98,0.3)' };
@@ -1590,6 +1645,41 @@ function toggleRestoreAccess(id) {
   el.style.display = el.style.display === 'block' ? 'none' : 'block';
 }
 
+async function verifySubscription(gateId) {
+  const emailEl = document.getElementById(`restore-email-${gateId}`);
+  const statusEl = document.getElementById(`restore-${gateId}-status`);
+  const btn = emailEl?.closest('.restore-verify-row')?.querySelector('.restore-verify-btn');
+  const email = emailEl?.value.trim();
+  if (!email) { emailEl?.focus(); return; }
+
+  if (btn) btn.disabled = true;
+  statusEl.style.color = 'var(--text3)';
+  statusEl.textContent = 'Checking…';
+
+  try {
+    const r = await fetch('/api/verify', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ email }),
+    });
+    const data = await r.json();
+    if (data.ok && data.plan) {
+      statusEl.style.color = 'var(--green)';
+      statusEl.textContent = `✓ Subscription confirmed! Unlocking ${data.plan === 'elite' ? 'Elite' : 'Pro Trader'}…`;
+      localStorage.setItem('ps-email', email);
+      setTimeout(() => restoreAccess(data.plan), 900);
+    } else {
+      statusEl.style.color = '#f87171';
+      statusEl.textContent = data.message || 'No active subscription found — try selecting your plan manually.';
+      if (btn) btn.disabled = false;
+    }
+  } catch {
+    statusEl.style.color = '#f87171';
+    statusEl.textContent = 'Verification unavailable — select your plan manually below.';
+    if (btn) btn.disabled = false;
+  }
+}
+
 function restoreAccess(plan) {
   localStorage.setItem('ps-plan', plan);
   localStorage.setItem('ps-plan-activated', new Date().toISOString());
@@ -1598,6 +1688,18 @@ function restoreAccess(plan) {
   }
   location.reload();
 }
+
+// ── MAGIC RESTORE LINK — handles ?restore=trader or ?restore=elite ─────────
+// Use this URL format to unlock a specific customer: /app.html?restore=trader
+(function() {
+  const p = new URLSearchParams(location.search).get('restore');
+  if (p === 'trader' || p === 'elite') {
+    localStorage.setItem('ps-plan', p);
+    localStorage.setItem('ps-plan-activated', new Date().toISOString());
+    if (!localStorage.getItem('ps-trial-start')) localStorage.setItem('ps-trial-start', String(Date.now()));
+    history.replaceState({}, '', location.pathname); // strip ?restore= from URL
+  }
+})();
 
 (function checkTrial() {
   const TRIAL_MS = 7 * 24 * 60 * 60 * 1000;
