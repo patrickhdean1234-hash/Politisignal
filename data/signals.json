@@ -1,6 +1,6 @@
 [
   {
-    "id": "478284a8ec92",
+    "id": "b91fc390536a",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,20 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Robertson Andrea gifted 342 shares of Clean Harbors Inc (CLH) \u00b7 May 12",
+    "content": "Hoglund Robert N bought 2,000 shares of Portland General Electric Co /Or/ (POR) \u00b7 $48.80/share \u00b7 $97,600 total \u00b7 May 12",
     "tags": [],
     "tickers": [
-      "CLH"
+      "POR",
+      "GE"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1295248/000129524826000002/0001295248-26-000002-index.htm",
-    "published_iso": "2026-05-12T12:17:14+00:00",
-    "time_ago": "3m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1286156/000078497726000046/0000784977-26-000046-index.htm",
+    "published_iso": "2026-05-12T15:13:21+00:00",
+    "time_ago": "1m ago"
   },
   {
-    "id": "d8ca772511bf",
+    "id": "dd0a34e173c6",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,19 +31,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Golan Roei received 658 shares of Check Point Software Technologies Ltd (CHKP) \u00b7 May 12",
+    "content": "Craig Pamela J. received 1,207 shares of Progressive Corp/Oh/ (PGR) \u00b7 May 12",
     "tags": [],
     "tickers": [
-      "CHKP"
+      "PGR"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1956242/000117891326002581/0001178913-26-002581-index.htm",
-    "published_iso": "2026-05-12T12:08:38+00:00",
-    "time_ago": "12m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1232910/000008066126000185/0000080661-26-000185-index.htm",
+    "published_iso": "2026-05-12T15:13:07+00:00",
+    "time_ago": "1m ago"
   },
   {
-    "id": "addd407fede8",
+    "id": "be7a083c340b",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -51,79 +52,322 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Kremer Nataly received 658 shares of Check Point Software Technologies Ltd (CHKP) \u00b7 May 12",
+    "content": "Khator Renu received 2,507 shares of Camden Property Trust (CPT) \u00b7 May 12",
     "tags": [],
     "tickers": [
-      "CHKP"
+      "CPT"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1978684/000117891326002579/0001178913-26-002579-index.htm",
-    "published_iso": "2026-05-12T12:05:32+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/1694495/000119312526218508/0001193125-26-218508-index.htm",
+    "published_iso": "2026-05-12T15:12:46+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "70a3c16bcbfd",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ingraham Scott S received 2,507 shares of Camden Property Trust (CPT) \u00b7 May 12",
+    "tags": [],
+    "tickers": [
+      "CPT"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1192157/000119312526218504/0001193125-26-218504-index.htm",
+    "published_iso": "2026-05-12T15:10:56+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "d49db3783f8b",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Digeronimo Kevin A received 1,606 shares of Farmers National Banc Corp /Oh/ (FMNB) \u00b7 May 12",
+    "tags": [
+      "Agriculture"
+    ],
+    "tickers": [
+      "FMNB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1888936/000143774926016292/0001437749-26-016292-index.htm",
+    "published_iso": "2026-05-12T15:10:45+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "a07762dcc097",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Langs Bradford N. sold 5,500 shares of Carter Bankshares, Inc. (CARE) \u00b7 $26.47/share \u00b7 $145,558 total \u00b7 May 12",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "CARE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1829576/000182527426000006/0001825274-26-000006-index.htm",
+    "published_iso": "2026-05-12T15:09:27+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "61fd78992c87",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Burgdoerfer Stuart B received 1,238 shares of Progressive Corp/Oh/ (PGR) \u00b7 May 12",
+    "tags": [],
+    "tickers": [
+      "PGR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1396061/000008066126000183/0000080661-26-000183-index.htm",
+    "published_iso": "2026-05-12T15:09:25+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "9843790d43d9",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Brun Nicolas sold 26,661 shares of Constellium Se (CSTM) \u00b7 $33.85/share \u00b7 $902,475 total \u00b7 May 12",
+    "tags": [],
+    "tickers": [
+      "CSTM"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2093242/000156341126000169/0001563411-26-000169-index.htm",
+    "published_iso": "2026-05-12T15:08:50+00:00",
+    "time_ago": "6m ago"
+  },
+  {
+    "id": "552e45b98be7",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Gibson Mark received 2,507 shares of Camden Property Trust (CPT) \u00b7 May 12",
+    "tags": [],
+    "tickers": [
+      "CPT"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1387771/000119312526218500/0001193125-26-218500-index.htm",
+    "published_iso": "2026-05-12T15:08:24+00:00",
+    "time_ago": "6m ago"
+  },
+  {
+    "id": "7ae7143a40f1",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board announces termination of enforcement actions with F & M Holding Company, Inc. and Thread Bancorp, Inc.. Federal Reserve Board announces termination of enforcement actions with F &amp; M Holding Company, Inc. and Thread Bancorp, Inc",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260512a.htm",
+    "published_iso": "2026-05-12T15:00:00+00:00",
     "time_ago": "15m ago"
   },
   {
-    "id": "67fac05c1589",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "8bf51ff91973",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Tsui Yiu Wa Alec received 97,767 shares of Melco Resorts & Entertainment Ltd (MLCO) \u00b7 May 12",
-    "tags": [],
-    "tickers": [
-      "MLCO"
+    "content": "Key House Republicans press Hegseth, express skepticism on Pentagon budget. The top Republicans on the House Appropriations Committee on Tuesday seemed dubious of plans to fund the Pentagon\u2019s $1.5 billion budget request as Congress waits to receive a supplemental request for tens of billions of dollars to fund the war ",
+    "tags": [
+      "Defense",
+      "Regulation",
+      "Sanctions"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1965011/000119312526218092/0001193125-26-218092-index.htm",
-    "published_iso": "2026-05-12T10:26:14+00:00",
-    "time_ago": "1h ago"
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/defense/5873970-house-republicans-doubt-pentagon-budget/",
+    "published_iso": "2026-05-12T14:50:15+00:00",
+    "time_ago": "24m ago"
   },
   {
-    "id": "ee200701afc9",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "b7454d50c685",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Chung Clarence Ym received 328,212 shares of Melco Resorts & Entertainment Ltd (MLCO) \u00b7 May 12",
+    "severity": "high",
+    "content": "Trump's approval on economy hits new low; 7 in 10 expect recession next year: Poll. A large majority of U.S. voters disapprove of President Trump's handle on the economy, with many saying they expect a recession next year, according to a new poll. The CNN survey, released this week, shows that 30 percent of respondents",
     "tags": [],
-    "tickers": [
-      "MLCO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1417660/000119312526218085/0001193125-26-218085-index.htm",
-    "published_iso": "2026-05-12T10:24:01+00:00",
-    "time_ago": "1h ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/5873663-donald-trump-approval-economy-recession-fears-survey/",
+    "published_iso": "2026-05-12T14:27:41+00:00",
+    "time_ago": "47m ago"
   },
   {
-    "id": "d58e669aed86",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "2fa6e688b67d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Kuzdowicz Amy L. received 111,735 shares of Melco Resorts & Entertainment Ltd (MLCO) \u00b7 May 12",
-    "tags": [],
-    "tickers": [
-      "MLCO"
+    "content": "Watch live: Hegseth, Caine face Senate questioning over budget, Iran. Defense Secretary Pete Hegseth and Joint Chiefs of Staff Chair Dan Caine will testify before a Senate Appropriations Committee panel on Tuesday morning about the ongoing conflict in Iran and President Trump\u2018s fiscal 2027 budget request for the Pentag",
+    "tags": [
+      "Defense",
+      "Sanctions"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1769712/000119312526218084/0001193125-26-218084-index.htm",
-    "published_iso": "2026-05-12T10:23:02+00:00",
-    "time_ago": "1h ago"
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/video-clips/5873606-watch-live-pete-hegseth-dan-caine-iran-fiscal-2027-budget-senate/",
+    "published_iso": "2026-05-12T14:25:33+00:00",
+    "time_ago": "49m ago"
+  },
+  {
+    "id": "9adc877b5926",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Comer requests sit-down with former JPMorgan banker in Epstein probe. House Oversight and Government Reform Committee Chair James Comer (R-Ky.) on Monday asked former JPMorgan Chase executive Jes Staley to sit for an interview with the panel as part of its probe into the convicted sex offender Jeffrey Epstein.\u00a0 Comer w",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/house/5873729-epstein-jpmorgan-staley-investigation/",
+    "published_iso": "2026-05-12T14:20:33+00:00",
+    "time_ago": "54m ago"
+  },
+  {
+    "id": "cc768a72a8e8",
+    "politician": "Rep. Nancy Pelosi",
+    "initials": "NP",
+    "role": "House Democratic Leader",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "From the pump to the grocery store, the President\u2019s reckless war of choice in Iran is hurting the American people.\n\nWith inflation skyrocketing, working families are being forced to pay the price for Trump\u2019s chaos\u2014while he focuses on his billion-dollar ballroom.",
+    "tags": [
+      "Regulation",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM",
+      "GLD"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/pelosi.house.gov/post/3mlny2ttpgc2a",
+    "published_iso": "2026-05-12T14:16:16.443000+00:00",
+    "time_ago": "58m ago"
+  },
+  {
+    "id": "eecf234adee1",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Trump promised to bring prices down. \n \nPrices under his policies are up. \n  \nInflation is 3.8 now. It was 3.0 when he started. \n \nHis betrayal of his base in launching a war in Iran has been an absolute disaster.",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM",
+      "GLD"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/RoKhanna/status/2054180538441728229#m",
+    "published_iso": "2026-05-12T12:42:59+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "cfccb4c0f4c9",
@@ -144,7 +388,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/12/2026-09391/safety-zones-fireworks-displays-in-the-uscg-east-district-philadelphia-pa",
     "published_iso": "2026-05-12T00:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "3262a5f612a0",
@@ -166,7 +410,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/12/2026-09386/rescission-of-conservation-and-landscape-health-rule",
     "published_iso": "2026-05-12T00:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "1576c5914719",
@@ -187,7 +431,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/12/2026-09382/restoring-flexibility-in-the-child-care-and-development-fund-ccdf",
     "published_iso": "2026-05-12T00:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "59ad81f863c6",
@@ -206,7 +450,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/12/2026-09375/safety-zone-seddon-channel-tampa-fl",
     "published_iso": "2026-05-12T00:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "0709c3e841ad",
@@ -227,7 +471,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/12/2026-09335/medical-devices-immunology-and-microbiology-devices-classification-of-the-device-to-detect-and",
     "published_iso": "2026-05-12T00:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "4acba4a67319",
@@ -253,7 +497,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s115?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-11T22:26:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "ff9d58c6be80",
@@ -272,7 +516,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s114?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-11T21:31:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "83206abfc72d",
@@ -293,7 +537,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2053930662730563835#m",
     "published_iso": "2026-05-11T20:10:04+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "04ada13c02fb",
@@ -312,7 +556,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mlm24oieak2y",
     "published_iso": "2026-05-11T19:47:45.955000+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "56483da14569",
@@ -331,7 +575,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2053924565936406805#m",
     "published_iso": "2026-05-11T19:45:51+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "1c9d020f021b",
@@ -352,7 +596,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/05/nominations-and-withdrawal-sent-to-the-senate-c6ad/",
     "published_iso": "2026-05-11T19:16:33+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -373,7 +617,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "dd1bce8fd8cb",
@@ -464,7 +708,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/america-250-presidential-message-on-the-anniversary-of-the-capture-of-fort-ticonderoga/",
     "published_iso": "2026-05-10T14:33:45+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "088f61144335",
@@ -562,7 +806,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "716237d91701",
@@ -581,7 +825,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260501a.htm",
     "published_iso": "2026-05-01T15:00:00+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "8a033624a0ee",
@@ -665,7 +909,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h154?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T15:14:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "b33e40b38cab",
@@ -690,7 +934,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h153?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T15:07:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "b85f20144934",
@@ -715,7 +959,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h152?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-04-30T14:59:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "dcd00aa841df",
@@ -763,7 +1007,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "14d ago"
+    "time_ago": "15d ago"
   },
   {
     "id": "c2929fe58248",
@@ -864,7 +1108,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260422a.htm",
     "published_iso": "2026-04-22T15:00:00+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "0047e3ab5b67",
@@ -887,32 +1131,6 @@
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
     "time_ago": "21d ago"
-  },
-  {
-    "id": "1e0dc0014454",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board issues enforcement action with Community Bankshares, Inc.. Federal Reserve Board issues enforcement action with Community Bankshares, Inc",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260416a.htm",
-    "published_iso": "2026-04-16T15:00:00+00:00",
-    "time_ago": "25d ago"
   },
   {
     "id": "7e97dd57aa17",
@@ -941,7 +1159,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-hosts-crypto-roundtable-with-comptroller-gould-and-governor-gordon/",
     "published_iso": "2026-04-09T13:37:03+00:00",
-    "time_ago": "32d ago"
+    "time_ago": "33d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -965,7 +1183,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "42d ago"
+    "time_ago": "43d ago"
   },
   {
     "id": "a2c0abfa69cc",
@@ -1073,7 +1291,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "87d ago"
+    "time_ago": "88d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1092,7 +1310,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "87d ago"
+    "time_ago": "88d ago"
   },
   {
     "id": "c3776ad92a42",
