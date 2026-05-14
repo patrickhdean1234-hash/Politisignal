@@ -1,6 +1,27 @@
 [
   {
-    "id": "ec485fbd8668",
+    "id": "db3bc0e3fa3c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Holmes Ned S sold 347 shares of Prosperity Bancshares Inc (PB) \u00b7 $66.35/share \u00b7 $23,023 total \u00b7 May 14 ($73,246 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "PB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1136856/000119312526223321/0001193125-26-223321-index.htm",
+    "published_iso": "2026-05-14T16:33:04+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "c0caa789e332",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +30,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Kaltenbach Patrick received 810 shares of Mettler Toledo International Inc/ (MTD) \u00b7 May 14",
+    "content": "Smith Gerry P received 968 shares of Arrow Electronics, Inc. (ARW) \u00b7 May 14",
     "tags": [],
     "tickers": [
-      "MTD"
+      "ARW"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1625775/000103764626000030/0001037646-26-000030-index.htm",
-    "published_iso": "2026-05-14T14:41:07+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/1698193/000000753626000090/0000007536-26-000090-index.htm",
+    "published_iso": "2026-05-14T16:32:19+00:00",
     "time_ago": "1m ago"
   },
   {
-    "id": "7ff673cec8d1",
+    "id": "214e1e60c0fd",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,65 +51,65 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Graham-Bryce Susan received 71 shares of Mettler Toledo International Inc/ (MTD) \u00b7 May 14",
+    "content": "Lowe Carol P received 968 shares of Arrow Electronics, Inc. (ARW) \u00b7 May 14",
     "tags": [],
     "tickers": [
-      "MTD"
+      "ARW"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2060644/000103764626000028/0001037646-26-000028-index.htm",
-    "published_iso": "2026-05-14T14:39:03+00:00",
-    "time_ago": "3m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1290037/000000753626000088/0000007536-26-000088-index.htm",
+    "published_iso": "2026-05-14T16:29:23+00:00",
+    "time_ago": "4m ago"
   },
   {
-    "id": "26f80eb47515",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "e4a8112c2d88",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
     },
     "severity": "medium",
-    "content": "Koren Ofer received 62,705 shares of Global-E Online Ltd. (GLBE) \u00b7 $31.90/share \u00b7 $2,000,039 total \u00b7 May 14",
+    "content": "Private Equity is Ruining Health Care. Private Equity is Ruining Health Care",
     "tags": [],
     "tickers": [
-      "GLBE"
+      "UNH",
+      "HCA",
+      "CVS"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1964100/000196410026000004/0001964100-26-000004-index.htm",
-    "published_iso": "2026-05-14T14:33:45+00:00",
-    "time_ago": "9m ago"
+    "source": "rss",
+    "platform": ".gov",
+    "url": "http://www.warren.senate.gov/newsroom/videos/watch/private-equity-is-ruining-health-care",
+    "published_iso": "2026-05-14T16:01:08+00:00",
+    "time_ago": "32m ago"
   },
   {
-    "id": "133456146d0c",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "1eb9796f1620",
+    "politician": "Sen. Bernie Sanders",
+    "initials": "BS",
+    "role": "Senate HELP Committee",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#1e2a4a",
+      "fg": "#818cf8"
     },
     "severity": "medium",
-    "content": "Live updates: China cautions US about tensions over Taiwan in first meeting between Trump, Xi. Chinese President Xi Jinping warned President Trump about tensions between Washington and Beijing over Taiwan during their first meeting in Beijing on Thursday, according to China's Foreign Ministry.  \u201cSafeguarding peace and ",
+    "content": "Amazon cut 30,000 jobs &amp; got a $7.8 billion tax break \n \nMeta cut 8,000 jobs &amp; got an $8 billion tax break \n \nPayPal cut 4,800 jobs &amp; paid $0 in federal income taxes \n \nDisney cut 1,000 jobs &amp; paid $0 in federal income taxes \n \nCorporate tax breaks don't create jobs. They enrich the 1%.",
     "tags": [
-      "China",
-      "Defense",
+      "Big Tech",
+      "Regulation",
       "Taxes"
     ],
     "tickers": [
-      "NVDA",
-      "TSM",
-      "AMD",
-      "QCOM"
+      "AMZN",
+      "DIS"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5876603-live-updates-trump-china/",
-    "published_iso": "2026-05-14T14:09:05+00:00",
-    "time_ago": "33m ago"
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/BernieSanders/status/2054938305268007177#m",
+    "published_iso": "2026-05-14T14:54:05+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "b3b421968e9c",
@@ -115,28 +136,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514a.htm",
     "published_iso": "2026-05-14T14:00:00+00:00",
-    "time_ago": "42m ago"
-  },
-  {
-    "id": "4d425a7f109c",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Watch live: Turner testifies before Senate on HUD budget request. Housing and Urban Development (HUD) Secretary Scott Turner will testify before a Senate Appropriations Committee panel on President Trump\u2018s fiscal 2027 budget request. The Trump administration is seeking $73.5 billion for HUD in 2027, focusing primarily ",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/video-clips/5877670-watch-live-hud-scott-turner-housing-trump-senate-budget-hearing/",
-    "published_iso": "2026-05-14T13:53:03+00:00",
-    "time_ago": "49m ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "f2331054daff",
@@ -163,7 +163,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mlro6y3gac2i",
     "published_iso": "2026-05-14T01:30:16.654000+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "958e2a5a82df",
@@ -185,7 +185,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09693/order-granting-conditional-substituted-compliance-in-connection-with-certain-capital-and-financial",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "0e4d9fd2ad0d",
@@ -204,7 +204,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09669/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-cod-by-catcherprocessors-using",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "466fb1faaea1",
@@ -223,7 +223,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09663/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "120dd56799e2",
@@ -242,7 +242,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09662/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "264baf958275",
@@ -261,7 +261,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09661/airworthiness-directives-dassault-aviation-airplanes",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "b390222e45d7",
@@ -280,7 +280,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09658/airworthiness-directives-atr-gie-avions-de-transport-rgional-airplanes",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "1babd8e28b05",
@@ -299,7 +299,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h167?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T22:46:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "6ef08a73d228",
@@ -326,7 +326,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2054694282418589968#m",
     "published_iso": "2026-05-13T22:44:25+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "4a033b033b4f",
@@ -345,7 +345,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h166?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T22:40:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "38c8fd77ed69",
@@ -366,7 +366,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h165?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T22:33:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "eebba48910cd",
@@ -385,7 +385,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h164?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T22:26:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "76904f3270cd",
@@ -404,7 +404,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h163?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T22:18:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "8e0299d3ddda",
@@ -425,7 +425,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s123?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T21:35:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "d0c5c93f5b4a",
@@ -446,7 +446,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s122?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T20:54:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "64183dcc4198",
@@ -467,7 +467,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-hawley-harshbarger-auchincloss-renew-bipartisan-push-to-rein-in-pharmacy-benefit-managers-pbms-cut-drug-costs",
     "published_iso": "2026-05-13T20:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "216ef1ef6414",
@@ -488,7 +488,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s121?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T20:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "4dcd53aa7eb8",
@@ -515,7 +515,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenLummis/status/2054636816582447275#m",
     "published_iso": "2026-05-13T18:56:05+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "e56a455b407a",
@@ -540,7 +540,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2054623779477651743#m",
     "published_iso": "2026-05-13T18:04:16+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "b22486d6f291",
@@ -566,7 +566,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260513a.htm",
     "published_iso": "2026-05-13T15:30:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "f5f3f5a40d16",
@@ -634,7 +634,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260512a.htm",
     "published_iso": "2026-05-12T15:00:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "cc768a72a8e8",
@@ -703,7 +703,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "eab52b9259e7",
@@ -774,7 +774,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260501a.htm",
     "published_iso": "2026-05-01T15:00:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "dcd00aa841df",
@@ -822,7 +822,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "16d ago"
+    "time_ago": "17d ago"
   },
   {
     "id": "c2929fe58248",
@@ -897,7 +897,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "23d ago"
+    "time_ago": "24d ago"
   },
   {
     "id": "7e97dd57aa17",
@@ -1015,7 +1015,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "78d ago"
+    "time_ago": "79d ago"
   },
   {
     "id": "602146d3f751",
@@ -1147,7 +1147,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266276-2/",
     "published_iso": "2026-01-07T15:48:25+00:00",
-    "time_ago": "126d ago"
+    "time_ago": "127d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1166,7 +1166,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "148d ago"
+    "time_ago": "149d ago"
   },
   {
     "id": "e88c3c11d67a",
@@ -1188,6 +1188,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/983956",
     "published_iso": "2025-10-30T16:06:54+00:00",
-    "time_ago": "195d ago"
+    "time_ago": "196d ago"
   }
 ]
