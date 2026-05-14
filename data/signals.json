@@ -1,6 +1,6 @@
 [
   {
-    "id": "82f53cc7e180",
+    "id": "f557867cdc0b",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Macdonald Scott D bought 5,000 shares of Starz Entertainment Corp /Cn/ (STRZ) \u00b7 $20.59/share \u00b7 $102,950 total \u00b7 May 14 ($102,950 across all blocks)",
+    "content": "Shu Lee-Lean exercised options for 10,313 shares of Gsi Technology Inc (GSIT) \u00b7 $7.26/share \u00b7 $74,872 total \u00b7 May 14 ($203,850 across all blocks)",
     "tags": [],
     "tickers": [
-      "STRZ"
+      "GSIT"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1268071/000126807126000003/0001268071-26-000003-index.htm",
-    "published_iso": "2026-05-14T22:38:00+00:00",
-    "time_ago": "1m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1394413/000139441326000005/0001394413-26-000005-index.htm",
+    "published_iso": "2026-05-14T23:32:08+00:00",
+    "time_ago": "3m ago"
   },
   {
-    "id": "0ce90b434841",
+    "id": "69188d32ce49",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,19 +30,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Miller Jon exercised options for 3,547 shares of Akamai Technologies Inc (AKAM) \u00b7 May 14",
+    "content": "Jackson Candace sold 2,000 shares of Silvaco Group, Inc. (SVCO) \u00b7 $11.00/share \u00b7 $22,000 total \u00b7 May 14",
     "tags": [],
     "tickers": [
-      "AKAM"
+      "SVCO"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1184244/000118424426000004/0001184244-26-000004-index.htm",
-    "published_iso": "2026-05-14T22:37:00+00:00",
-    "time_ago": "2m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2039235/000162828026035276/0001628280-26-035276-index.htm",
+    "published_iso": "2026-05-14T23:31:57+00:00",
+    "time_ago": "3m ago"
   },
   {
-    "id": "37618cfaf6fc",
+    "id": "9a123b2ccac5",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -51,103 +51,47 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Seros Alexandra sold 160,282 shares of Entravision Communications Corp (EVC) \u00b7 $8.33/share \u00b7 $1,334,508 total \u00b7 May 14 ($10,360,398 across all blocks)",
+    "content": "Park Robert J sold 4,504 shares of Dolby Laboratories, Inc. (DLB) \u00b7 $56.62/share \u00b7 $255,001 total \u00b7 May 14 ($277,425 across all blocks)",
     "tags": [],
     "tickers": [
-      "EVC"
+      "DLB"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1966279/000119312526224525/0001193125-26-224525-index.htm",
-    "published_iso": "2026-05-14T22:36:51+00:00",
-    "time_ago": "2m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1887569/000119312526224607/0001193125-26-224607-index.htm",
+    "published_iso": "2026-05-14T23:26:52+00:00",
+    "time_ago": "8m ago"
   },
   {
-    "id": "500c01946bb6",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "7bd5ce49ea13",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "high",
-    "content": "Burger Bas exercised options for 3,028 shares of Akamai Technologies Inc (AKAM) \u00b7 May 14",
-    "tags": [],
-    "tickers": [
-      "AKAM"
+    "severity": "critical",
+    "content": "Senate panel clears crypto bill. {beacon} Technology Technology &#8202; The Big Story  Senate panel advances  crypto bill with bipartisan support A cryptocurrency regulation bill advanced out of the Senate Banking Committee on Thursday, clearing a key hurdle with the support of a pair of Democrats following a last-minu",
+    "tags": [
+      "Crypto",
+      "Banking",
+      "Regulation"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2073219/000207321926000002/0002073219-26-000002-index.htm",
-    "published_iso": "2026-05-14T22:35:28+00:00",
-    "time_ago": "4m ago"
+    "tickers": [
+      "BTC",
+      "ETH",
+      "COIN",
+      "JPM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/technology/5879197-senate-panel-clears-crypto-bill/",
+    "published_iso": "2026-05-14T22:56:30+00:00",
+    "time_ago": "39m ago"
   },
   {
-    "id": "87444a8ff74a",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Steinhart Richard I received 10,000 shares of Atossa Therapeutics, Inc. (ATOS) \u00b7 May 14",
-    "tags": [],
-    "tickers": [
-      "ATOS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1488039/000119312526224521/0001193125-26-224521-index.htm",
-    "published_iso": "2026-05-14T22:32:29+00:00",
-    "time_ago": "7m ago"
-  },
-  {
-    "id": "509944812bbc",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Skinner Todd C. received 24,721 shares of Transunion (TRU) \u00b7 May 14",
-    "tags": [],
-    "tickers": [
-      "TRU"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1879101/000187910126000014/0001879101-26-000014-index.htm",
-    "published_iso": "2026-05-14T22:32:25+00:00",
-    "time_ago": "7m ago"
-  },
-  {
-    "id": "e3f25a7ad8dc",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Akella Janaki exercised options for 3,028 shares of Akamai Technologies Inc (AKAM) \u00b7 May 14",
-    "tags": [],
-    "tickers": [
-      "AKAM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1763595/000176359526000002/0001763595-26-000002-index.htm",
-    "published_iso": "2026-05-14T22:32:16+00:00",
-    "time_ago": "7m ago"
-  },
-  {
-    "id": "96eee869b87a",
+    "id": "495fddd6e0df",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -156,7 +100,35 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Comey says Trump seems 'off' compared to 2017. Former FBI Director James Comey said on Thursday that \u201csomething\u2019s off\u201d with President Trump, arguing the president\u2019s behavior has become more erratic and self-obsessed since his first term. \u201cI mean, I've always thought Donald Trump was a little bit off, but whoa, compared",
+    "content": "Trump and Xi's initial meeting reveals dueling priorities. President Trump and Chinese President Xi Jinping brought dueling priorities to their high-stakes summit in Beijing,\u00a0with Xi pressing\u00a0Trump on Taiwan, while Trump's focused on trade, business and farmers. Trump showed up with nearly 20 top executives from compan",
+    "tags": [
+      "Trade",
+      "China",
+      "Agriculture"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "AMD",
+      "QCOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5879110-trump-xi-china-taiwan-trade/",
+    "published_iso": "2026-05-14T22:27:35+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "ecfc000269e9",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Comey says Trump seems 'off' compared with 2017. Former FBI Director James Comey said Thursday that \u201csomething\u2019s off\u201d with President Trump, arguing the president\u2019s behavior has become more erratic and self-obsessed since his first term. \u201cI mean, I've always thought Donald Trump was a little bit off, but whoa, compared ",
     "tags": [
       "Taxes"
     ],
@@ -165,7 +137,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/administration/5879035-comey-trump-behavior-concerns/",
     "published_iso": "2026-05-14T21:53:34+00:00",
-    "time_ago": "46m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "5d47a9b97807",
@@ -184,7 +156,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h173?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-14T21:10:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "bcd85a6a752e",
@@ -203,7 +175,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h172?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-14T21:04:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "9c2362283415",
@@ -222,7 +194,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h171?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-14T20:58:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "24a2f09ed535",
@@ -247,7 +219,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h170?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-14T20:52:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "db4f40f0311b",
@@ -266,7 +238,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h169?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-14T20:46:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "3e9c6f890d3e",
@@ -285,7 +257,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h168?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-14T20:34:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "fd074ff0c68a",
@@ -314,7 +286,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-hails-historic-committee-passage-of-her-digital-asset-legislation/",
     "published_iso": "2026-05-14T18:06:21+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "c6549049df6a",
@@ -341,7 +313,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm",
     "published_iso": "2026-05-14T18:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "d4d08d176234",
@@ -362,7 +334,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s124?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-14T17:32:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "e4a8112c2d88",
@@ -385,7 +357,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/private-equity-is-ruining-health-care",
     "published_iso": "2026-05-14T16:01:08+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "1eb9796f1620",
@@ -411,7 +383,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2054938305268007177#m",
     "published_iso": "2026-05-14T14:54:05+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "b3b421968e9c",
@@ -438,7 +410,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514a.htm",
     "published_iso": "2026-05-14T14:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "958e2a5a82df",
@@ -460,7 +432,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09693/order-granting-conditional-substituted-compliance-in-connection-with-certain-capital-and-financial",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "0e4d9fd2ad0d",
@@ -479,7 +451,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09669/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-cod-by-catcherprocessors-using",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "466fb1faaea1",
@@ -498,7 +470,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09663/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "120dd56799e2",
@@ -517,7 +489,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09662/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "264baf958275",
@@ -536,7 +508,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09661/airworthiness-directives-dassault-aviation-airplanes",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "b390222e45d7",
@@ -555,7 +527,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09658/airworthiness-directives-atr-gie-avions-de-transport-rgional-airplanes",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "1babd8e28b05",
@@ -574,7 +546,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h167?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T22:46:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "6ef08a73d228",
@@ -601,7 +573,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2054694282418589968#m",
     "published_iso": "2026-05-13T22:44:25+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "e56a455b407a",
@@ -727,27 +699,6 @@
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mlny2ttpgc2a",
     "published_iso": "2026-05-12T14:16:16.443000+00:00",
     "time_ago": "2d ago"
-  },
-  {
-    "id": "1c9d020f021b",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "Nominations and Withdrawal Sent to the Senate. NOMINATIONS SENT TO THE SENATE: Francis Brooke, of Virginia, to be Deputy Secretary of the Treasury. Cameron Hamilton, of Virginia, to be Administrator of the Federal Emergency Management Agency, Department of Homeland Security. Brendan Hanrahan, of New York, to be an Assi",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/05/nominations-and-withdrawal-sent-to-the-senate-c6ad/",
-    "published_iso": "2026-05-11T19:16:33+00:00",
-    "time_ago": "3d ago"
   },
   {
     "id": "79faa09fe8f6",
