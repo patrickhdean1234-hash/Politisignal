@@ -1,66 +1,119 @@
 [
   {
-    "id": "db3bc0e3fa3c",
+    "id": "dc8ff600fc87",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Yoshida Kenichiro exercised options for 200,000 shares of Sony Group Corp (SNEJF) \u00b7 $14.49/share \u00b7 $2,898,000 total \u00b7 May 14 ($6,192,000 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "SNEJF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2114081/000119312526223623/0001193125-26-223623-index.htm",
+    "published_iso": "2026-05-14T18:16:44+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "6baed531ed42",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Kaufman Daniel Louis sold 213,830 shares of Branchout Food Inc. (BOF) \u00b7 $3.26/share \u00b7 $697,086 total \u00b7 May 14",
+    "tags": [],
+    "tickers": [
+      "BOF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2033227/000109991026000180/0001099910-26-000180-index.htm",
+    "published_iso": "2026-05-14T18:15:35+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "c6549049df6a",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "Stephen I. Miran submits his resignation as a member of the Federal Reserve Board, effective when or shortly before his successor on the Board is sworn in. Stephen I. Miran submits his resignation as a member of the Federal Reserve Board, effective when or shortly before his successor on the Board is sworn in",
+    "tags": [
+      "Banking",
+      "Sanctions"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm",
+    "published_iso": "2026-05-14T18:00:00+00:00",
+    "time_ago": "20m ago"
+  },
+  {
+    "id": "62130a3e60a1",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Watch live: Defense tech officials testify before House on Pentagon's digital posture. Emily Michael, the Pentagon\u2018s top technology officer, and others will testify before a House Armed Services Committee panel on Thursday afternoon about the U.S. military's digital posture. The hearing comes just two weeks after eight",
+    "tags": [
+      "Defense"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/video-clips/5878390-watch-live-pentagon-technology-posture-house-hearing-emil-michael-ai/",
+    "published_iso": "2026-05-14T17:44:19+00:00",
+    "time_ago": "36m ago"
+  },
+  {
+    "id": "20302253f2d2",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Holmes Ned S sold 347 shares of Prosperity Bancshares Inc (PB) \u00b7 $66.35/share \u00b7 $23,023 total \u00b7 May 14 ($73,246 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "PB"
+    "content": "Federal appeals court probes Trump's targeting of law firms. A federal appeals court panel on Thursday scrutinized President Trump\u2019s executive orders targeting several of the nation\u2019s top law firms, which claim they were retaliated against for representing his political adversaries.   Sharp questions were asked of both",
+    "tags": [
+      "Regulation"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1136856/000119312526223321/0001193125-26-223321-index.htm",
-    "published_iso": "2026-05-14T16:33:04+00:00",
-    "time_ago": "just now"
-  },
-  {
-    "id": "c0caa789e332",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Smith Gerry P received 968 shares of Arrow Electronics, Inc. (ARW) \u00b7 May 14",
-    "tags": [],
-    "tickers": [
-      "ARW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1698193/000000753626000090/0000007536-26-000090-index.htm",
-    "published_iso": "2026-05-14T16:32:19+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "214e1e60c0fd",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Lowe Carol P received 968 shares of Arrow Electronics, Inc. (ARW) \u00b7 May 14",
-    "tags": [],
-    "tickers": [
-      "ARW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1290037/000000753626000088/0000007536-26-000088-index.htm",
-    "published_iso": "2026-05-14T16:29:23+00:00",
-    "time_ago": "4m ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/regulation/court-battles/5878383-federal-appeals-court-trump-law/",
+    "published_iso": "2026-05-14T17:19:51+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "e4a8112c2d88",
@@ -83,7 +136,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/private-equity-is-ruining-health-care",
     "published_iso": "2026-05-14T16:01:08+00:00",
-    "time_ago": "32m ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "1eb9796f1620",
@@ -109,7 +162,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2054938305268007177#m",
     "published_iso": "2026-05-14T14:54:05+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "b3b421968e9c",
@@ -136,34 +189,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514a.htm",
     "published_iso": "2026-05-14T14:00:00+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "f2331054daff",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "Donald Trump can lie all he wants, but the data is clear: Trump's chaotic tariffs and his war in Iran are a one-two punch to American families.\n\nInflation is at a multi-year high.\n\nCosts are up and they're only climbing.\n\nEnd the war. Lower costs for families.",
-    "tags": [
-      "Trade",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM",
-      "GLD"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mlro6y3gac2i",
-    "published_iso": "2026-05-14T01:30:16.654000+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "958e2a5a82df",
@@ -185,7 +211,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09693/order-granting-conditional-substituted-compliance-in-connection-with-certain-capital-and-financial",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "0e4d9fd2ad0d",
@@ -204,7 +230,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09669/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-cod-by-catcherprocessors-using",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "466fb1faaea1",
@@ -223,7 +249,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09663/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "120dd56799e2",
@@ -242,7 +268,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09662/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "264baf958275",
@@ -261,7 +287,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09661/airworthiness-directives-dassault-aviation-airplanes",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "b390222e45d7",
@@ -280,7 +306,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09658/airworthiness-directives-atr-gie-avions-de-transport-rgional-airplanes",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "1babd8e28b05",
@@ -299,7 +325,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h167?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T22:46:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "6ef08a73d228",
@@ -326,7 +352,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2054694282418589968#m",
     "published_iso": "2026-05-13T22:44:25+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "4a033b033b4f",
@@ -345,7 +371,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h166?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T22:40:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "38c8fd77ed69",
@@ -366,7 +392,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h165?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T22:33:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "eebba48910cd",
@@ -385,7 +411,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h164?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T22:26:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "76904f3270cd",
@@ -404,7 +430,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h163?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T22:18:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "8e0299d3ddda",
@@ -425,7 +451,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s123?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T21:35:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "d0c5c93f5b4a",
@@ -446,7 +472,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s122?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T20:54:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "64183dcc4198",
@@ -467,7 +493,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-hawley-harshbarger-auchincloss-renew-bipartisan-push-to-rein-in-pharmacy-benefit-managers-pbms-cut-drug-costs",
     "published_iso": "2026-05-13T20:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "216ef1ef6414",
@@ -488,34 +514,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s121?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T20:00:00+00:00",
-    "time_ago": "20h ago"
-  },
-  {
-    "id": "4dcd53aa7eb8",
-    "politician": "Sen. Cynthia Lummis",
-    "initials": "CL",
-    "role": "Senate Banking Subcommittee (Crypto)",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#c4b5fd"
-    },
-    "severity": "high",
-    "content": "The Federal Reserve has needed reform for a long time. With Kevin Warsh confirmed as Chair, American businesses and digital asset holders finally have a leader at the Fed who is ready to deliver it.",
-    "tags": [
-      "Crypto",
-      "Banking"
-    ],
-    "tickers": [
-      "BTC",
-      "ETH",
-      "COIN",
-      "XRP"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/SenLummis/status/2054636816582447275#m",
-    "published_iso": "2026-05-13T18:56:05+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "e56a455b407a",
@@ -540,7 +539,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2054623779477651743#m",
     "published_iso": "2026-05-13T18:04:16+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "b22486d6f291",
@@ -800,7 +799,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm",
     "published_iso": "2026-04-29T18:00:00+00:00",
-    "time_ago": "14d ago"
+    "time_ago": "15d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -848,32 +847,6 @@
     "source": "fed_reserve",
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424a.htm",
-    "published_iso": "2026-04-24T20:00:00+00:00",
-    "time_ago": "19d ago"
-  },
-  {
-    "id": "71434e2e91b3",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board announces approval of application by Banco de Credito del Peru. Federal Reserve Board announces approval of application by Banco de Credito del Peru",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424b.htm",
     "published_iso": "2026-04-24T20:00:00+00:00",
     "time_ago": "19d ago"
   },
@@ -974,7 +947,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-introduces-legislation-to-codify-trumps-nuclear-baseload-energy-executive-orders/",
     "published_iso": "2026-03-26T18:12:45+00:00",
-    "time_ago": "48d ago"
+    "time_ago": "49d ago"
   },
   {
     "id": "d52e199aa058",
@@ -1103,7 +1076,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "111d ago"
+    "time_ago": "112d ago"
   },
   {
     "id": "d39ac85b9cc9",
