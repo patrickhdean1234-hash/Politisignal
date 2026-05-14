@@ -1,6 +1,6 @@
 [
   {
-    "id": "dc8ff600fc87",
+    "id": "ccdc25f8a335",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -8,20 +8,22 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "medium",
-    "content": "Yoshida Kenichiro exercised options for 200,000 shares of Sony Group Corp (SNEJF) \u00b7 $14.49/share \u00b7 $2,898,000 total \u00b7 May 14 ($6,192,000 across all blocks)",
-    "tags": [],
+    "severity": "critical",
+    "content": "Clements James P received 2,330 shares of United Community Banks Inc (UCB) \u00b7 May 14",
+    "tags": [
+      "Banking"
+    ],
     "tickers": [
-      "SNEJF"
+      "UCB"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2114081/000119312526223623/0001193125-26-223623-index.htm",
-    "published_iso": "2026-05-14T18:16:44+00:00",
-    "time_ago": "3m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1818924/000181892426000002/0001818924-26-000002-index.htm",
+    "published_iso": "2026-05-14T20:09:45+00:00",
+    "time_ago": "just now"
   },
   {
-    "id": "6baed531ed42",
+    "id": "2796f5755236",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,16 +32,167 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Kaufman Daniel Louis sold 213,830 shares of Branchout Food Inc. (BOF) \u00b7 $3.26/share \u00b7 $697,086 total \u00b7 May 14",
+    "content": "Arves Scott C received 3,025 shares of Werner Enterprises Inc (WERN) \u00b7 May 14",
     "tags": [],
     "tickers": [
-      "BOF"
+      "WERN"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2033227/000109991026000180/0001099910-26-000180-index.htm",
-    "published_iso": "2026-05-14T18:15:35+00:00",
-    "time_ago": "4m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1335657/000079307426000117/0000793074-26-000117-index.htm",
+    "published_iso": "2026-05-14T20:09:31+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "23b02d1df6cf",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Duren Diane K received 3,025 shares of Werner Enterprises Inc (WERN) \u00b7 May 14",
+    "tags": [],
+    "tickers": [
+      "WERN"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1563283/000079307426000116/0000793074-26-000116-index.htm",
+    "published_iso": "2026-05-14T20:09:02+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "8e0e23175f62",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Gennette Jeffrey received 273 shares of Signet Jewelers Ltd (SIG) \u00b7 May 14",
+    "tags": [],
+    "tickers": [
+      "SIG"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1457264/000083298826000111/0000832988-26-000111-index.htm",
+    "published_iso": "2026-05-14T20:09:01+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "054ff735e37a",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Kingsley Lawrence D received 7,383 shares of Mirion Technologies, Inc. (MIR) \u00b7 May 14",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [
+      "MIR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1809987/000162828026035097/0001628280-26-035097-index.htm",
+    "published_iso": "2026-05-14T20:08:28+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "2b8ed6c41cef",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Holmes Jack A received 3,025 shares of Werner Enterprises Inc (WERN) \u00b7 May 14",
+    "tags": [],
+    "tickers": [
+      "WERN"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1749320/000079307426000115/0000793074-26-000115-index.htm",
+    "published_iso": "2026-05-14T20:08:25+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "2e3d16f0e882",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Davis Sally Pope received 2,330 shares of United Community Banks Inc (UCB) \u00b7 May 14",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "UCB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2026030/000202603026000002/0002026030-26-000002-index.htm",
+    "published_iso": "2026-05-14T20:08:20+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "19f6500d655c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Bockhorst Kenneth received 7,383 shares of Mirion Technologies, Inc. (MIR) \u00b7 May 14",
+    "tags": [],
+    "tickers": [
+      "MIR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1809987/000162828026035096/0001628280-26-035096-index.htm",
+    "published_iso": "2026-05-14T20:08:12+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "8f5ae721cc07",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Gillibrand exasperated by HUD chief's testimony: 'Stop talking about Biden'. Democratic Sen. Kirsten Gillibrand (N.Y.) and Housing and Urban Development (HUD) Secretary Scott Turner got into a heated discussion on Thursday, with the New York Democrat raising her voice at Turner over his repeated references to the Biden",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/senate/5878670-gillibrand-hud-turner-testimony/",
+    "published_iso": "2026-05-14T19:00:00+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "c6549049df6a",
@@ -66,54 +219,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm",
     "published_iso": "2026-05-14T18:00:00+00:00",
-    "time_ago": "20m ago"
-  },
-  {
-    "id": "62130a3e60a1",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Watch live: Defense tech officials testify before House on Pentagon's digital posture. Emily Michael, the Pentagon\u2018s top technology officer, and others will testify before a House Armed Services Committee panel on Thursday afternoon about the U.S. military's digital posture. The hearing comes just two weeks after eight",
-    "tags": [
-      "Defense"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/video-clips/5878390-watch-live-pentagon-technology-posture-house-hearing-emil-michael-ai/",
-    "published_iso": "2026-05-14T17:44:19+00:00",
-    "time_ago": "36m ago"
-  },
-  {
-    "id": "20302253f2d2",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Federal appeals court probes Trump's targeting of law firms. A federal appeals court panel on Thursday scrutinized President Trump\u2019s executive orders targeting several of the nation\u2019s top law firms, which claim they were retaliated against for representing his political adversaries.   Sharp questions were asked of both",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/regulation/court-battles/5878383-federal-appeals-court-trump-law/",
-    "published_iso": "2026-05-14T17:19:51+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "e4a8112c2d88",
@@ -136,7 +242,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/private-equity-is-ruining-health-care",
     "published_iso": "2026-05-14T16:01:08+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "1eb9796f1620",
@@ -162,7 +268,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2054938305268007177#m",
     "published_iso": "2026-05-14T14:54:05+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "b3b421968e9c",
@@ -189,7 +295,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514a.htm",
     "published_iso": "2026-05-14T14:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "958e2a5a82df",
@@ -211,7 +317,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09693/order-granting-conditional-substituted-compliance-in-connection-with-certain-capital-and-financial",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "0e4d9fd2ad0d",
@@ -230,7 +336,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09669/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-cod-by-catcherprocessors-using",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "466fb1faaea1",
@@ -249,7 +355,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09663/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "120dd56799e2",
@@ -268,7 +374,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09662/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "264baf958275",
@@ -287,7 +393,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09661/airworthiness-directives-dassault-aviation-airplanes",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "b390222e45d7",
@@ -306,7 +412,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09658/airworthiness-directives-atr-gie-avions-de-transport-rgional-airplanes",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "1babd8e28b05",
@@ -325,7 +431,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h167?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T22:46:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "6ef08a73d228",
@@ -352,7 +458,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2054694282418589968#m",
     "published_iso": "2026-05-13T22:44:25+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "4a033b033b4f",
@@ -371,7 +477,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h166?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T22:40:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "38c8fd77ed69",
@@ -392,7 +498,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h165?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T22:33:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "eebba48910cd",
@@ -411,7 +517,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h164?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T22:26:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "76904f3270cd",
@@ -430,7 +536,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h163?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T22:18:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "8e0299d3ddda",
@@ -451,7 +557,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s123?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T21:35:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "d0c5c93f5b4a",
@@ -472,7 +578,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s122?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T20:54:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "64183dcc4198",
@@ -493,7 +599,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-hawley-harshbarger-auchincloss-renew-bipartisan-push-to-rein-in-pharmacy-benefit-managers-pbms-cut-drug-costs",
     "published_iso": "2026-05-13T20:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "216ef1ef6414",
@@ -514,7 +620,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s121?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T20:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "e56a455b407a",
@@ -568,27 +674,6 @@
     "time_ago": "1d ago"
   },
   {
-    "id": "f5f3f5a40d16",
-    "politician": "Sen. Bernie Sanders",
-    "initials": "BS",
-    "role": "Senate HELP Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#818cf8"
-    },
-    "severity": "medium",
-    "content": "Congratulations to Mayor Mamdani. He inherited a huge budget deficit, brought it down to zero, and still invested in childcare, housing and city infrastructure. \n \nWhen municipal governments stand with working families, not billionaires, there is nothing they cannot accomplish. \n \n \n Mayor Zohran Kwame Mamdani (@NYCMay",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/BernieSanders/status/2054317200471728259#m",
-    "published_iso": "2026-05-12T21:46:02+00:00",
-    "time_ago": "1d ago"
-  },
-  {
     "id": "8a43ea318dd6",
     "politician": "White House",
     "initials": "WH",
@@ -607,7 +692,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/first-lady-melania-trumps-10-achievements-transforming-outcomes-for-foster-youth-since-the-signing-the-fostering-the-future-executive-order-180-days-ago/",
     "published_iso": "2026-05-12T19:00:14+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "7ae7143a40f1",
@@ -681,7 +766,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/05/nominations-and-withdrawal-sent-to-the-senate-c6ad/",
     "published_iso": "2026-05-11T19:16:33+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -848,7 +933,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424a.htm",
     "published_iso": "2026-04-24T20:00:00+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "0047e3ab5b67",
@@ -966,7 +1051,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "49d ago"
+    "time_ago": "50d ago"
   },
   {
     "id": "782af70b6ebe",
@@ -1010,7 +1095,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-announces-2026-service-academy-nominations/",
     "published_iso": "2026-02-18T19:38:51+00:00",
-    "time_ago": "84d ago"
+    "time_ago": "85d ago"
   },
   {
     "id": "00f579ee8f55",
