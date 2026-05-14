@@ -1,6 +1,6 @@
 [
   {
-    "id": "814e6d3347d2",
+    "id": "ec485fbd8668",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Hendel David sold 500 shares of Silicom Ltd. (SILC) \u00b7 $44.50/share \u00b7 $22,250 total \u00b7 May 14 ($44,370 across all blocks)",
+    "content": "Kaltenbach Patrick received 810 shares of Mettler Toledo International Inc/ (MTD) \u00b7 May 14",
     "tags": [],
     "tickers": [
-      "SILC"
+      "MTD"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2110970/000117891326002670/0001178913-26-002670-index.htm",
-    "published_iso": "2026-05-14T11:44:47+00:00",
-    "time_ago": "28m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1625775/000103764626000030/0001037646-26-000030-index.htm",
+    "published_iso": "2026-05-14T14:41:07+00:00",
+    "time_ago": "1m ago"
   },
   {
-    "id": "30053c415e54",
+    "id": "7ff673cec8d1",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,104 +30,113 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Yavetz Gilad exercised options for 77,210 shares of Enlight Renewable Energy Ltd. (ENLT) \u00b7 $23.22/share \u00b7 $1,792,816 total \u00b7 May 14 ($12,872,590 across all blocks)",
+    "content": "Graham-Bryce Susan received 71 shares of Mettler Toledo International Inc/ (MTD) \u00b7 May 14",
+    "tags": [],
+    "tickers": [
+      "MTD"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2060644/000103764626000028/0001037646-26-000028-index.htm",
+    "published_iso": "2026-05-14T14:39:03+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "26f80eb47515",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Koren Ofer received 62,705 shares of Global-E Online Ltd. (GLBE) \u00b7 $31.90/share \u00b7 $2,000,039 total \u00b7 May 14",
+    "tags": [],
+    "tickers": [
+      "GLBE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1964100/000196410026000004/0001964100-26-000004-index.htm",
+    "published_iso": "2026-05-14T14:33:45+00:00",
+    "time_ago": "9m ago"
+  },
+  {
+    "id": "133456146d0c",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Live updates: China cautions US about tensions over Taiwan in first meeting between Trump, Xi. Chinese President Xi Jinping warned President Trump about tensions between Washington and Beijing over Taiwan during their first meeting in Beijing on Thursday, according to China's Foreign Ministry.  \u201cSafeguarding peace and ",
     "tags": [
-      "Energy"
+      "China",
+      "Defense",
+      "Taxes"
     ],
     "tickers": [
-      "ENLT"
+      "NVDA",
+      "TSM",
+      "AMD",
+      "QCOM"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2108306/000117891326002668/0001178913-26-002668-index.htm",
-    "published_iso": "2026-05-14T11:33:35+00:00",
-    "time_ago": "39m ago"
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5876603-live-updates-trump-china/",
+    "published_iso": "2026-05-14T14:09:05+00:00",
+    "time_ago": "33m ago"
   },
   {
-    "id": "32bfaba02b55",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "b3b421968e9c",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
     },
-    "severity": "medium",
-    "content": "Yehuda Nir sold 5,796 shares of Enlight Renewable Energy Ltd. (ENLT) \u00b7 $92.83/share \u00b7 $538,043 total \u00b7 May 14 ($645,164 across all blocks)",
+    "severity": "critical",
+    "content": "Federal Reserve Board releases results from two surveys of senior financial officers at banks about their views on discount window operating days and their strategies and practices for managing reserve balances. Federal Reserve Board releases results from two surveys of senior financial officers at banks about their vi",
     "tags": [
-      "Energy"
+      "Energy",
+      "Banking"
     ],
     "tickers": [
-      "ENLT"
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2105559/000117891326002665/0001178913-26-002665-index.htm",
-    "published_iso": "2026-05-14T11:29:50+00:00",
-    "time_ago": "43m ago"
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514a.htm",
+    "published_iso": "2026-05-14T14:00:00+00:00",
+    "time_ago": "42m ago"
   },
   {
-    "id": "fa5912724e6f",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "4d425a7f109c",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Linton Paul Alderman bought 2,400 shares of Fti Consulting, Inc (FCN) \u00b7 $144.04/share \u00b7 $345,696 total \u00b7 May 14",
-    "tags": [],
-    "tickers": [
-      "FCN"
+    "severity": "critical",
+    "content": "Watch live: Turner testifies before Senate on HUD budget request. Housing and Urban Development (HUD) Secretary Scott Turner will testify before a Senate Appropriations Committee panel on President Trump\u2018s fiscal 2027 budget request. The Trump administration is seeking $73.5 billion for HUD in 2027, focusing primarily ",
+    "tags": [
+      "Regulation"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1617579/000088793626000066/0000887936-26-000066-index.htm",
-    "published_iso": "2026-05-14T11:29:47+00:00",
-    "time_ago": "43m ago"
-  },
-  {
-    "id": "9a871988d91c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Gunby Steven Henry bought 6,658 shares of Fti Consulting, Inc (FCN) \u00b7 $143.87/share \u00b7 $957,886 total \u00b7 May 14 ($1,441,708 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "FCN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1597949/000088793626000065/0000887936-26-000065-index.htm",
-    "published_iso": "2026-05-14T11:29:39+00:00",
-    "time_ago": "43m ago"
-  },
-  {
-    "id": "3ccbcbaf3abc",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Nam Eun bought 2,000 shares of Fti Consulting, Inc (FCN) \u00b7 $144.59/share \u00b7 $289,180 total \u00b7 May 14",
-    "tags": [],
-    "tickers": [
-      "FCN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1670483/000088793626000064/0000887936-26-000064-index.htm",
-    "published_iso": "2026-05-14T11:29:28+00:00",
-    "time_ago": "44m ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/video-clips/5877670-watch-live-hud-scott-turner-housing-trump-senate-budget-hearing/",
+    "published_iso": "2026-05-14T13:53:03+00:00",
+    "time_ago": "49m ago"
   },
   {
     "id": "f2331054daff",
@@ -154,7 +163,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mlro6y3gac2i",
     "published_iso": "2026-05-14T01:30:16.654000+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "958e2a5a82df",
@@ -176,7 +185,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09693/order-granting-conditional-substituted-compliance-in-connection-with-certain-capital-and-financial",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "0e4d9fd2ad0d",
@@ -195,7 +204,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09669/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-cod-by-catcherprocessors-using",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "466fb1faaea1",
@@ -214,7 +223,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09663/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "120dd56799e2",
@@ -233,7 +242,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09662/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "264baf958275",
@@ -252,7 +261,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09661/airworthiness-directives-dassault-aviation-airplanes",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "b390222e45d7",
@@ -271,7 +280,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09658/airworthiness-directives-atr-gie-avions-de-transport-rgional-airplanes",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "1babd8e28b05",
@@ -290,7 +299,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h167?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T22:46:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "6ef08a73d228",
@@ -317,7 +326,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2054694282418589968#m",
     "published_iso": "2026-05-13T22:44:25+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "4a033b033b4f",
@@ -336,7 +345,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h166?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T22:40:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "38c8fd77ed69",
@@ -357,7 +366,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h165?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T22:33:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "eebba48910cd",
@@ -376,7 +385,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h164?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T22:26:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "76904f3270cd",
@@ -395,7 +404,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h163?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T22:18:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "8e0299d3ddda",
@@ -416,7 +425,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s123?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T21:35:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "d0c5c93f5b4a",
@@ -437,7 +446,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s122?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T20:54:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "64183dcc4198",
@@ -458,7 +467,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-hawley-harshbarger-auchincloss-renew-bipartisan-push-to-rein-in-pharmacy-benefit-managers-pbms-cut-drug-costs",
     "published_iso": "2026-05-13T20:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "216ef1ef6414",
@@ -479,33 +488,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s121?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-13T20:00:00+00:00",
-    "time_ago": "16h ago"
-  },
-  {
-    "id": "f8245dc0c512",
-    "politician": "Rep. Mike Johnson",
-    "initials": "MJ",
-    "role": "Speaker of the House",
-    "color": {
-      "bg": "#2a1a1a",
-      "fg": "#fbbf24"
-    },
-    "severity": "critical",
-    "content": "Today, we congratulate Kevin Warsh on his confirmation to serve as the 17th Chairman of the Federal Reserve. Kevin possesses a deep wealth of knowledge and experience, having previously served on the National Economic Council and as the youngest ever Federal Reserve governor.  \n \nAt a time when the American people dema",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/SpeakerJohnson/status/2054639084757479670#m",
-    "published_iso": "2026-05-13T19:05:05+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "4dcd53aa7eb8",
@@ -532,7 +515,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenLummis/status/2054636816582447275#m",
     "published_iso": "2026-05-13T18:56:05+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "e56a455b407a",
@@ -557,7 +540,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2054623779477651743#m",
     "published_iso": "2026-05-13T18:04:16+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "b22486d6f291",
@@ -583,59 +566,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260513a.htm",
     "published_iso": "2026-05-13T15:30:00+00:00",
-    "time_ago": "20h ago"
-  },
-  {
-    "id": "8475c3b14e95",
-    "politician": "Sen. Cynthia Lummis",
-    "initials": "CL",
-    "role": "Senate Banking Subcommittee (Crypto)",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#c4b5fd"
-    },
-    "severity": "critical",
-    "content": "Sadly, this does not shock me in the slightest. \n \n \n Washington Free Beacon (@FreeBeacon) \n \n The Democratic Party is lurching left\u2014and staffers of the Federal Reserve bank system are providing the financial backing, a Free Beacon analysis found.  \n \nMore than 90 percent of political contributions from Fed employees w",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/SenLummis/status/2054563793791815685#m",
-    "published_iso": "2026-05-13T14:05:55+00:00",
-    "time_ago": "22h ago"
-  },
-  {
-    "id": "2693f8f2e3bb",
-    "politician": "Sen. Cynthia Lummis",
-    "initials": "CL",
-    "role": "Senate Banking Subcommittee (Crypto)",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#c4b5fd"
-    },
-    "severity": "critical",
-    "content": "MFTV: Cynthia Lummis on the Future of Bitcoin Policy in America \n \n\u25b6\ufe0f WATCH:  piped.video/9_w-Ww-E8ew  \n \nFew lawmakers have done more to put Bitcoin on the map in American politics than Senator Cynthia Lummis.  \n \nAt a pivotal moment for digital asset policy in Washington \u2014 and following her recent announcement that s",
-    "tags": [
-      "Trade",
-      "Crypto",
-      "Banking",
-      "Defense"
-    ],
-    "tickers": [
-      "BTC"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/MARAFoundation_/status/2054561721348460687#m",
-    "published_iso": "2026-05-13T13:57:40+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "f5f3f5a40d16",
@@ -656,32 +587,6 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2054317200471728259#m",
     "published_iso": "2026-05-12T21:46:02+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "fdbd4b81896c",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "At Hearing, Warren, Army Secretary Calls for Congress to Authorize the Military Right to Repair, Debunks Defense Contractors&#x2019; Claims Undermining Reforms. At Hearing, Warren, Army Secretary Calls for Congress to Authorize the Military Right to Repair, Debunks Defense Contractors&#x2019; Claims Undermining Reforms",
-    "tags": [
-      "Defense"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "http://www.warren.senate.gov/newsroom/press-releases/at-hearing-warren-army-secretary-calls-for-congress-to-authorize-the-military-right-to-repair-debunks-defense-contractors-claims-undermining-reforms",
-    "published_iso": "2026-05-12T20:00:00+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -756,7 +661,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mlny2ttpgc2a",
     "published_iso": "2026-05-12T14:16:16.443000+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "1c9d020f021b",
@@ -850,7 +755,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "716237d91701",
@@ -973,27 +878,6 @@
     "time_ago": "19d ago"
   },
   {
-    "id": "774632efa11c",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Agencies\u202ffinalize\u202fchanges to enhance community bank leverage ratio. Agencies\u202ffinalize\u202fchanges to enhance community bank leverage ratio",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260423a.htm",
-    "published_iso": "2026-04-23T19:30:00+00:00",
-    "time_ago": "20d ago"
-  },
-  {
     "id": "0047e3ab5b67",
     "politician": "Sen. Rand Paul",
     "initials": "RP",
@@ -1042,7 +926,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-hosts-crypto-roundtable-with-comptroller-gould-and-governor-gordon/",
     "published_iso": "2026-04-09T13:37:03+00:00",
-    "time_ago": "34d ago"
+    "time_ago": "35d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1066,7 +950,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "44d ago"
+    "time_ago": "45d ago"
   },
   {
     "id": "a2c0abfa69cc",
@@ -1174,7 +1058,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "89d ago"
+    "time_ago": "90d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1193,7 +1077,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "89d ago"
+    "time_ago": "90d ago"
   },
   {
     "id": "c3776ad92a42",
