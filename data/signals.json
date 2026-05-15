@@ -1,6 +1,6 @@
 [
   {
-    "id": "5d01ecd1d4d3",
+    "id": "af5bb5f52622",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -8,22 +8,20 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "medium",
-    "content": "Jacobsmeyer Barbara Ann disposed of 413,614 shares of Enhabit, Inc. (EHAB) \u00b7 $13.80/share \u00b7 $5,707,873 total \u00b7 May 15 ($25,036,526 across all blocks)",
-    "tags": [
-      "Insider Trade"
-    ],
+    "severity": "critical",
+    "content": "Wait Brett Levi sold 2,583 shares of Five Star Bancorp (FSBC) \u00b7 $41.11/share \u00b7 $106,179 total \u00b7 May 15",
+    "tags": [],
     "tickers": [
-      "EHAB"
+      "FSBC"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1803737/000169113226000006/0001691132-26-000006-index.htm",
-    "published_iso": "2026-05-15T16:42:41+00:00",
-    "time_ago": "13m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1857889/000162828026035481/0001628280-26-035481-index.htm",
+    "published_iso": "2026-05-15T18:20:12+00:00",
+    "time_ago": "just now"
   },
   {
-    "id": "3543ad565b73",
+    "id": "e920d1ce872e",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -32,41 +30,65 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Black Dylan C disposed of 41,263 shares of Enhabit, Inc. (EHAB) \u00b7 $13.80/share \u00b7 $569,429 total \u00b7 May 15 ($4,360,731 across all blocks)",
-    "tags": [
-      "Insider Trade"
-    ],
+    "content": "Rascon Laura L sold 540 shares of Matson, Inc. (MATX) \u00b7 $180.83/share \u00b7 $97,646 total \u00b7 May 15",
+    "tags": [],
     "tickers": [
-      "EHAB"
+      "MATX"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1966580/000196658026000008/0001966580-26-000008-index.htm",
-    "published_iso": "2026-05-15T16:41:40+00:00",
-    "time_ago": "14m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1844621/000122520826005351/0001225208-26-005351-index.htm",
+    "published_iso": "2026-05-15T18:16:39+00:00",
+    "time_ago": "4m ago"
   },
   {
-    "id": "d1cb160a93ea",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "a762b1eaa417",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
     },
     "severity": "medium",
-    "content": "Jolley Julie Diane disposed of 73,591 shares of Enhabit, Inc. (EHAB) \u00b7 $13.80/share \u00b7 $1,015,556 total \u00b7 May 15 ($5,464,082 across all blocks)",
+    "content": "Trump's Department of Homeland Security is planning to lock people up in warehouses meant for Amazon packages. It's inhumane.",
     "tags": [
-      "Insider Trade"
+      "Big Tech"
     ],
     "tickers": [
-      "EHAB"
+      "AMZN"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1933957/000193395726000010/0001933957-26-000010-index.htm",
-    "published_iso": "2026-05-15T16:40:43+00:00",
-    "time_ago": "15m ago"
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SenWarren/status/2055345879716872244#m",
+    "published_iso": "2026-05-15T17:53:38+00:00",
+    "time_ago": "26m ago"
+  },
+  {
+    "id": "7ce1ebfb7a88",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Texas Children's Hospital must create country's first 'detransition clinic' under settlement with Paxton. Texas Children's Hospital will create the nation\u2019s first \u201cdetransition clinic,\u201d\u00a0fire five physicians\u00a0and pay the state $10 million\u00a0under an unusual settlement announced Friday by Texas Attorney General Ken Paxton\u00a0(",
+    "tags": [
+      "Healthcare",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/healthcare/5880188-texas-childrens-hospital-paxton-detransition-clinic/",
+    "published_iso": "2026-05-15T16:59:03+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "b752b2c89592",
@@ -91,35 +113,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/newsletters/1230-report/5880169-trump-china-visit-takeaways/",
     "published_iso": "2026-05-15T16:39:39+00:00",
-    "time_ago": "16m ago"
-  },
-  {
-    "id": "570e95082928",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Taiwan releases statement in response to Trump comments. Taiwan responded to President Trump\u2019s hesitation Friday to back a U.S. arms sale to the island following two days of meetings with Chinese President Xi Jinping.\u00a0 The island\u2019s foreign affairs ministry emphasized the U.S.\u2019s \u201clong-standing and consistent policy towa",
-    "tags": [
-      "China",
-      "Taxes",
-      "Insider Trade"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "AMD",
-      "QCOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/international/5880059-taiwan-us-arms-deal-trump-china/",
-    "published_iso": "2026-05-15T16:35:43+00:00",
-    "time_ago": "20m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "0e61fea92471",
@@ -143,55 +137,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mlvps6qnxk2n",
     "published_iso": "2026-05-15T16:09:33.870000+00:00",
-    "time_ago": "45m ago"
-  },
-  {
-    "id": "f0db6ff07154",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Trump says he discussed AI guardrails with Xi. President Trump said Friday he discussed \"working together\" on artificial intelligence guardrails with Chinese President Xi Jinping as policymakers in Washington debate how to manage the risks of the emerging technology. \"We talked about possibly working together for guard",
-    "tags": [
-      "China"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5880013-donald-trump-xi-jinping-china-summit-ai-guardrails/",
-    "published_iso": "2026-05-15T16:09:24+00:00",
-    "time_ago": "46m ago"
-  },
-  {
-    "id": "7151297f6c64",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "What deals did Trump make on China trip?. President Trump touted new business deals with Beijing as he departed a high-stakes summit with Chinese President Xi Jinping on Friday. \"I think a lot of good has come from [this visit]. We've made some fantastic trade deals, good for both countries,\" he told a reporter during ",
-    "tags": [
-      "Trade",
-      "China"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5880005-trump-china-xi-trade-deals-boeing-ge-aerospace/",
-    "published_iso": "2026-05-15T16:02:15+00:00",
-    "time_ago": "53m ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "0fde5ae7682e",
@@ -216,7 +162,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2055305880208363916#m",
     "published_iso": "2026-05-15T15:14:42+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "a1e6b3e79bef",
@@ -242,7 +188,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260515a.htm",
     "published_iso": "2026-05-15T15:00:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "67df6c9aafba",
@@ -269,7 +215,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h175?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-15T14:25:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "048d6e55bcd5",
@@ -288,7 +234,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h174?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-15T14:08:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "2a25a4c5a6e4",
@@ -310,7 +256,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/15/2026-09839/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and",
     "published_iso": "2026-05-15T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "652789a047b4",
@@ -331,7 +277,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/15/2026-09822/promoting-the-integrity-and-security-of-telecommunications-certification-bodies-measurement",
     "published_iso": "2026-05-15T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "bc4f88038939",
@@ -352,7 +298,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/15/2026-09803/special-local-regulation-miami-beach-air-and-sea-show-atlantic-ocean-miami-beach-fl",
     "published_iso": "2026-05-15T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "5b6bcedcc94b",
@@ -374,7 +320,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/15/2026-09802/establishment-of-class-e-airspace-winnie-tx",
     "published_iso": "2026-05-15T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "3f2ac9ce5570",
@@ -395,7 +341,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/15/2026-09790/training-qualification-and-oversight-for-safety-related-railroad-employees",
     "published_iso": "2026-05-15T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "ed006427f9d2",
@@ -414,7 +360,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/15/2026-09785/domestic-competitive-products-pricing-and-mailing-standards-changes",
     "published_iso": "2026-05-15T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "32c208f57c7e",
@@ -436,7 +382,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/15/2026-09775/amendment-of-class-d-and-class-e-airspace-and-revoke-class-e-airspace-fort-knox-ky",
     "published_iso": "2026-05-15T00:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "5d47a9b97807",
@@ -455,7 +401,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h173?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-14T21:10:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "bcd85a6a752e",
@@ -474,7 +420,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h172?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-14T21:04:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "9c2362283415",
@@ -493,7 +439,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h171?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-14T20:58:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "24a2f09ed535",
@@ -518,7 +464,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h170?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-14T20:52:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "db4f40f0311b",
@@ -537,7 +483,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h169?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-14T20:46:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "3e9c6f890d3e",
@@ -556,7 +502,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h168?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-14T20:34:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "fd074ff0c68a",
@@ -585,7 +531,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-hails-historic-committee-passage-of-her-digital-asset-legislation/",
     "published_iso": "2026-05-14T18:06:21+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "c6549049df6a",
@@ -612,7 +558,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm",
     "published_iso": "2026-05-14T18:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "e4a8112c2d88",
@@ -710,33 +656,6 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/14/2026-09693/order-granting-conditional-substituted-compliance-in-connection-with-certain-capital-and-financial",
     "published_iso": "2026-05-14T00:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "6ef08a73d228",
-    "politician": "Sen. Bernie Sanders",
-    "initials": "BS",
-    "role": "Senate HELP Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#818cf8"
-    },
-    "severity": "medium",
-    "content": "Net worths of the AI oligarchs joining Trump on his trip to China: \n \nElon Musk: $828 billion  \nJensen Huang, Nvidia: $195 billion  \nTim Cook, Apple: $2.9 billion  \nDina Powell, Meta: $200 million \n \nDo you think they\u2019re losing sleep over the millions of jobs AI could replace?",
-    "tags": [
-      "Big Tech",
-      "China",
-      "Regulation"
-    ],
-    "tickers": [
-      "AAPL",
-      "NVDA",
-      "TSLA"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/BernieSanders/status/2054694282418589968#m",
-    "published_iso": "2026-05-13T22:44:25+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -955,7 +874,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm",
     "published_iso": "2026-04-29T18:00:00+00:00",
-    "time_ago": "15d ago"
+    "time_ago": "16d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1181,7 +1100,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "112d ago"
+    "time_ago": "113d ago"
   },
   {
     "id": "d39ac85b9cc9",
