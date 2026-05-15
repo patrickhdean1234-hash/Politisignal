@@ -1,6 +1,6 @@
 [
   {
-    "id": "1e7bb3c251ae",
+    "id": "5d01ecd1d4d3",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,57 +9,21 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Rodkin Gary M received 1,073 shares of Simon Property Group Inc. (SPG-PJ) \u00b7 May 15",
-    "tags": [],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1199045/000119904526000006/0001199045-26-000006-index.htm",
-    "published_iso": "2026-05-15T14:58:55+00:00",
-    "time_ago": "just now"
-  },
-  {
-    "id": "5455a99f9dd3",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Lewis Randall J received 1,073 shares of Simon Property Group Inc. (SPG-PJ) \u00b7 May 15",
-    "tags": [],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1123485/000112348526000006/0001123485-26-000006-index.htm",
-    "published_iso": "2026-05-15T14:56:48+00:00",
-    "time_ago": "3m ago"
-  },
-  {
-    "id": "ea26c2e3d8da",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Zamarripa Robert received 4,601 shares of Distribution Solutions Group, Inc. (DSGR) \u00b7 $27.17/share \u00b7 $125,009 total \u00b7 May 15",
-    "tags": [],
+    "content": "Jacobsmeyer Barbara Ann disposed of 413,614 shares of Enhabit, Inc. (EHAB) \u00b7 $13.80/share \u00b7 $5,707,873 total \u00b7 May 15 ($25,036,526 across all blocks)",
+    "tags": [
+      "Insider Trade"
+    ],
     "tickers": [
-      "DSGR"
+      "EHAB"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1954623/000070360426000027/0000703604-26-000027-index.htm",
-    "published_iso": "2026-05-15T14:55:49+00:00",
-    "time_ago": "4m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1803737/000169113226000006/0001691132-26-000006-index.htm",
+    "published_iso": "2026-05-15T16:42:41+00:00",
+    "time_ago": "13m ago"
   },
   {
-    "id": "d8697b9af3b8",
+    "id": "3543ad565b73",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -68,17 +32,121 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Jones Nina P received 1,073 shares of Simon Property Group Inc. (SPG-PJ) \u00b7 May 15",
-    "tags": [],
-    "tickers": [],
+    "content": "Black Dylan C disposed of 41,263 shares of Enhabit, Inc. (EHAB) \u00b7 $13.80/share \u00b7 $569,429 total \u00b7 May 15 ($4,360,731 across all blocks)",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "EHAB"
+    ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2007895/000200789526000012/0002007895-26-000012-index.htm",
-    "published_iso": "2026-05-15T14:54:51+00:00",
-    "time_ago": "5m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1966580/000196658026000008/0001966580-26-000008-index.htm",
+    "published_iso": "2026-05-15T16:41:40+00:00",
+    "time_ago": "14m ago"
   },
   {
-    "id": "c2ff3da5de01",
+    "id": "d1cb160a93ea",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Jolley Julie Diane disposed of 73,591 shares of Enhabit, Inc. (EHAB) \u00b7 $13.80/share \u00b7 $1,015,556 total \u00b7 May 15 ($5,464,082 across all blocks)",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "EHAB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1933957/000193395726000010/0001933957-26-000010-index.htm",
+    "published_iso": "2026-05-15T16:40:43+00:00",
+    "time_ago": "15m ago"
+  },
+  {
+    "id": "b752b2c89592",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Trump leaves Beijing with two major sticking points and cloudy deals. Presented by Google Cloud {beacon} &#8202;  PRESENTED BY Happy Friday! Today is Jerome Powell\u2019s last day as chair of the Federal Reserve. Now we get to see if *this* is what he actually means by keeping a low profile. \ud83d\ude02 See, even the Fed has jokes!  ",
+    "tags": [
+      "Big Tech",
+      "China",
+      "Banking"
+    ],
+    "tickers": [
+      "GOOGL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/1230-report/5880169-trump-china-visit-takeaways/",
+    "published_iso": "2026-05-15T16:39:39+00:00",
+    "time_ago": "16m ago"
+  },
+  {
+    "id": "570e95082928",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Taiwan releases statement in response to Trump comments. Taiwan responded to President Trump\u2019s hesitation Friday to back a U.S. arms sale to the island following two days of meetings with Chinese President Xi Jinping.\u00a0 The island\u2019s foreign affairs ministry emphasized the U.S.\u2019s \u201clong-standing and consistent policy towa",
+    "tags": [
+      "China",
+      "Taxes",
+      "Insider Trade"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "AMD",
+      "QCOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/international/5880059-taiwan-us-arms-deal-trump-china/",
+    "published_iso": "2026-05-15T16:35:43+00:00",
+    "time_ago": "20m ago"
+  },
+  {
+    "id": "0e61fea92471",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "Trump brought the NVIDIA CEO on his trip to China to lobby Xi Jinping to buy advanced AI chips, even though it would create a U.S. national security threat.\n\nIt turns out Trump also bought millions in NVIDIA's stock.\n\nThe President's corruption is a national security disaster.",
+    "tags": [
+      "China",
+      "Semiconductors"
+    ],
+    "tickers": [
+      "NVDA"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mlvps6qnxk2n",
+    "published_iso": "2026-05-15T16:09:33.870000+00:00",
+    "time_ago": "45m ago"
+  },
+  {
+    "id": "f0db6ff07154",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -87,10 +155,108 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "House passes first fiscal year 2027 appropriations bill. The House on Friday passed its first appropriations bill for fiscal year 2027 with bipartisan support, marking an early step in the annual government funding process and sending the measure to the Senate for consideration. The military construction and Veteran Af",
+    "content": "Trump says he discussed AI guardrails with Xi. President Trump said Friday he discussed \"working together\" on artificial intelligence guardrails with Chinese President Xi Jinping as policymakers in Washington debate how to manage the risks of the emerging technology. \"We talked about possibly working together for guard",
+    "tags": [
+      "China"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5880013-donald-trump-xi-jinping-china-summit-ai-guardrails/",
+    "published_iso": "2026-05-15T16:09:24+00:00",
+    "time_ago": "46m ago"
+  },
+  {
+    "id": "7151297f6c64",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "What deals did Trump make on China trip?. President Trump touted new business deals with Beijing as he departed a high-stakes summit with Chinese President Xi Jinping on Friday. \"I think a lot of good has come from [this visit]. We've made some fantastic trade deals, good for both countries,\" he told a reporter during ",
+    "tags": [
+      "Trade",
+      "China"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5880005-trump-china-xi-trade-deals-boeing-ge-aerospace/",
+    "published_iso": "2026-05-15T16:02:15+00:00",
+    "time_ago": "53m ago"
+  },
+  {
+    "id": "0fde5ae7682e",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Donald Trump and Republicans in Congress gave Amazon an $8 BILLION tax handout last year. \n \nMeanwhile, Amazon executives are planning to replace more than 600,000 workers with robots.",
+    "tags": [
+      "Big Tech",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "AMZN"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SenWarren/status/2055305880208363916#m",
+    "published_iso": "2026-05-15T15:14:42+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "a1e6b3e79bef",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board announces termination of enforcement actions with UBS Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., and Credit Suisse AG, New York Branch. Federal Reserve Board announces termination of enforcement actions with UBS Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., a",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260515a.htm",
+    "published_iso": "2026-05-15T15:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "67df6c9aafba",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "H.R. 8469: Making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2027, and for other purposes.. Vote: Passed 400/15",
     "tags": [
       "Defense",
-      "Regulation",
       "Taxes"
     ],
     "tickers": [
@@ -99,11 +265,30 @@
       "NOC",
       "GD"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5879805-military-veterans-funding-bill-2027/",
-    "published_iso": "2026-05-15T14:30:14+00:00",
-    "time_ago": "29m ago"
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h175?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-05-15T14:25:00+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "048d6e55bcd5",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On Agreeing to the Amendment: Amendment 6 to H R 8469. Vote: Failed 80/333",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h174?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-05-15T14:08:00+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "2a25a4c5a6e4",
@@ -125,7 +310,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/15/2026-09839/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and",
     "published_iso": "2026-05-15T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "652789a047b4",
@@ -146,7 +331,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/15/2026-09822/promoting-the-integrity-and-security-of-telecommunications-certification-bodies-measurement",
     "published_iso": "2026-05-15T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "bc4f88038939",
@@ -167,7 +352,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/15/2026-09803/special-local-regulation-miami-beach-air-and-sea-show-atlantic-ocean-miami-beach-fl",
     "published_iso": "2026-05-15T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "5b6bcedcc94b",
@@ -189,7 +374,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/15/2026-09802/establishment-of-class-e-airspace-winnie-tx",
     "published_iso": "2026-05-15T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "3f2ac9ce5570",
@@ -210,7 +395,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/15/2026-09790/training-qualification-and-oversight-for-safety-related-railroad-employees",
     "published_iso": "2026-05-15T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "ed006427f9d2",
@@ -229,7 +414,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/15/2026-09785/domestic-competitive-products-pricing-and-mailing-standards-changes",
     "published_iso": "2026-05-15T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "32c208f57c7e",
@@ -251,7 +436,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/15/2026-09775/amendment-of-class-d-and-class-e-airspace-and-revoke-class-e-airspace-fort-knox-ky",
     "published_iso": "2026-05-15T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "5d47a9b97807",
@@ -270,7 +455,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h173?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-14T21:10:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "bcd85a6a752e",
@@ -289,7 +474,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h172?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-14T21:04:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "9c2362283415",
@@ -308,7 +493,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h171?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-14T20:58:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "24a2f09ed535",
@@ -333,7 +518,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h170?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-14T20:52:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "db4f40f0311b",
@@ -352,7 +537,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h169?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-14T20:46:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "3e9c6f890d3e",
@@ -371,7 +556,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h168?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-14T20:34:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "fd074ff0c68a",
@@ -400,7 +585,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-hails-historic-committee-passage-of-her-digital-asset-legislation/",
     "published_iso": "2026-05-14T18:06:21+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "c6549049df6a",
@@ -427,28 +612,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm",
     "published_iso": "2026-05-14T18:00:00+00:00",
-    "time_ago": "20h ago"
-  },
-  {
-    "id": "d4d08d176234",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "Motion to Invoke Cloture: En Bloc Nominations Provided for under the provisions of S. Res. 690: Catherine Dillon, of Maryland, to be an Assistant Secretary of State (Educational and Cultural Affairs). Vote: Cloture Motion Agreed to 51/46",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s124?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-05-14T17:32:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "e4a8112c2d88",
@@ -471,7 +635,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/private-equity-is-ruining-health-care",
     "published_iso": "2026-05-14T16:01:08+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "1eb9796f1620",
@@ -549,25 +713,6 @@
     "time_ago": "1d ago"
   },
   {
-    "id": "1babd8e28b05",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.Res. 1259: Expressing the sense of the House of Representatives that the President should prioritize securing the release of Pastor Jin Mingri, Pastor Gao Quanfu and his wife Pang Yu, Dr. Gulshan Abbas, and Jimmy Lai detained by the People\u2019s Republic o. Vote: Passed 414/0",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h167?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-05-13T22:46:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
     "id": "6ef08a73d228",
     "politician": "Sen. Bernie Sanders",
     "initials": "BS",
@@ -595,31 +740,6 @@
     "time_ago": "1d ago"
   },
   {
-    "id": "e56a455b407a",
-    "politician": "Sen. Bernie Sanders",
-    "initials": "BS",
-    "role": "Senate HELP Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#818cf8"
-    },
-    "severity": "medium",
-    "content": "Candidate Trump: \"Starting on day 1, we will end inflation &amp; make America affordable again.\" \n \nPrices under President Trump: \nGas:\u2b06\ufe0f28.4% \nAirfare:\u2b06\ufe0f20.7% \nEnergy:\u2b06\ufe0f17.9% \nBeef &amp; Veal:\u2b06\ufe0f14.8% \n \nPresident Trump: Keep your word. Lower prices. End the war.",
-    "tags": [
-      "Energy"
-    ],
-    "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/BernieSanders/status/2054623779477651743#m",
-    "published_iso": "2026-05-13T18:04:16+00:00",
-    "time_ago": "1d ago"
-  },
-  {
     "id": "b22486d6f291",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -643,7 +763,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260513a.htm",
     "published_iso": "2026-05-13T15:30:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "8a43ea318dd6",
@@ -690,7 +810,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260512a.htm",
     "published_iso": "2026-05-12T15:00:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "cc768a72a8e8",
@@ -738,7 +858,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "eab52b9259e7",
@@ -809,7 +929,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260501a.htm",
     "published_iso": "2026-05-01T15:00:00+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "dcd00aa841df",
@@ -860,33 +980,6 @@
     "time_ago": "18d ago"
   },
   {
-    "id": "c2929fe58248",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "high",
-    "content": "Federal Reserve Board announces approval of application by OceanFirst Financial Corp.. Federal Reserve Board announces approval of application by OceanFirst Financial Corp",
-    "tags": [
-      "Banking",
-      "Taxes"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424a.htm",
-    "published_iso": "2026-04-24T20:00:00+00:00",
-    "time_ago": "20d ago"
-  },
-  {
     "id": "0047e3ab5b67",
     "politician": "Sen. Rand Paul",
     "initials": "RP",
@@ -906,7 +999,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "24d ago"
+    "time_ago": "25d ago"
   },
   {
     "id": "7e97dd57aa17",
@@ -1000,7 +1093,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "79d ago"
+    "time_ago": "80d ago"
   },
   {
     "id": "602146d3f751",
@@ -1132,7 +1225,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266276-2/",
     "published_iso": "2026-01-07T15:48:25+00:00",
-    "time_ago": "127d ago"
+    "time_ago": "128d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1151,7 +1244,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "149d ago"
+    "time_ago": "150d ago"
   },
   {
     "id": "e88c3c11d67a",
@@ -1173,6 +1266,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/983956",
     "published_iso": "2025-10-30T16:06:54+00:00",
-    "time_ago": "196d ago"
+    "time_ago": "197d ago"
   }
 ]
