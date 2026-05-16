@@ -1,29 +1,34 @@
 [
   {
-    "id": "646108fdf9be",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "050f257d8e73",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Mallick Dhiraj withheld (tax) 491,091 shares of Cerebras Systems Inc. (CBRS) \u00b7 $185.00/share \u00b7 $90,851,835 total \u00b7 May 15 ($90,851,835 across all blocks)",
+    "severity": "critical",
+    "content": "Warren, Shaheen urge Trump administration not to extend Russian oil sanctions waiver. Sens. Jeanne Shaheen (D-N.H.) and Elizabeth Warren (D-Mass.) on Friday called on the Trump administration to not extend a waiver on sanctions for anyone who purchases oil from Russia, which is set to expire just after midnight on Satu",
     "tags": [
-      "Taxes"
+      "Energy",
+      "Sanctions",
+      "Insider Trade"
     ],
     "tickers": [
-      "CBRS"
+      "XOM",
+      "CVX",
+      "COP",
+      "OXY"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2039572/000162828026035758/0001628280-26-035758-index.htm",
-    "published_iso": "2026-05-16T00:06:19+00:00",
-    "time_ago": "just now"
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/senate/5880982-senators-call-end-russian-oil-waiver/",
+    "published_iso": "2026-05-16T02:07:35+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "925abcd787e0",
+    "id": "ac9d00348f18",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -32,19 +37,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Evans Shad E. bought 8,375 shares of Kbr, Inc. (KBR) \u00b7 $30.60/share \u00b7 $256,275 total \u00b7 May 15",
+    "content": "Botha Roelof received 13,201 shares of Unity Software Inc. (U) \u00b7 May 15",
     "tags": [],
     "tickers": [
-      "KBR"
+      "U"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1830895/000135761526000147/0001357615-26-000147-index.htm",
-    "published_iso": "2026-05-16T00:06:17+00:00",
-    "time_ago": "just now"
+    "url": "https://www.sec.gov/Archives/edgar/data/1810806/000122228726000009/0001222287-26-000009-index.htm",
+    "published_iso": "2026-05-16T01:59:06+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "a51b30330fd1",
+    "id": "61cbee0e8eff",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -53,19 +58,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Mikkilineni Krishna bought 8,106 shares of Gpgi, Inc. (GPGI) \u00b7 $12.34/share \u00b7 $100,031 total \u00b7 May 15",
+    "content": "Sternberg Matthew David received 279,329 shares of Accelerant Holdings (ARX) \u00b7 May 15",
     "tags": [],
     "tickers": [
-      "GPGI"
+      "ARX"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1823144/000162828026035757/0001628280-26-035757-index.htm",
-    "published_iso": "2026-05-16T00:05:54+00:00",
-    "time_ago": "1m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2008628/000162828026035780/0001628280-26-035780-index.htm",
+    "published_iso": "2026-05-16T01:50:48+00:00",
+    "time_ago": "2h ago"
   },
   {
-    "id": "9f66d8282277",
+    "id": "3706cb42855d",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -74,19 +79,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Cone C. David exercised options for 444 shares of Dutch Bros Inc. (BROS) \u00b7 May 15",
+    "content": "Hortig Shimie received 84,483 shares of Amdocs Ltd (DOX) \u00b7 May 15",
     "tags": [],
     "tickers": [
-      "BROS"
+      "DOX"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1866581/000186658126000095/0001866581-26-000095-index.htm",
-    "published_iso": "2026-05-16T00:03:40+00:00",
-    "time_ago": "3m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2122638/000119312526227582/0001193125-26-227582-index.htm",
+    "published_iso": "2026-05-16T01:45:03+00:00",
+    "time_ago": "2h ago"
   },
   {
-    "id": "0c070956d073",
+    "id": "0717a552a9d3",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -95,19 +100,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Hart Gerard Johan exercised options for 444 shares of Dutch Bros Inc. (BROS) \u00b7 May 15",
+    "content": "Wainwright Simon received 23,316 shares of Accelerant Holdings (ARX) \u00b7 May 15",
     "tags": [],
     "tickers": [
-      "BROS"
+      "ARX"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1866581/000130505226000007/0001305052-26-000007-index.htm",
-    "published_iso": "2026-05-16T00:03:31+00:00",
-    "time_ago": "3m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2004828/000162828026035778/0001628280-26-035778-index.htm",
+    "published_iso": "2026-05-16T01:43:59+00:00",
+    "time_ago": "2h ago"
   },
   {
-    "id": "1fb9aafbf3d3",
+    "id": "a0bee522a67f",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -116,19 +121,17 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Gillett Stephen exercised options for 444 shares of Dutch Bros Inc. (BROS) \u00b7 May 15",
+    "content": "Rinn James exercised options for 83,333 shares of Psq Holdings, Inc. (PSQH-WT) \u00b7 May 15 ($18,193 across all blocks)",
     "tags": [],
-    "tickers": [
-      "BROS"
-    ],
+    "tickers": [],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1866581/000186658126000094/0001866581-26-000094-index.htm",
-    "published_iso": "2026-05-16T00:03:27+00:00",
-    "time_ago": "3m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1985227/000198522726000003/0001985227-26-000003-index.htm",
+    "published_iso": "2026-05-16T01:43:42+00:00",
+    "time_ago": "2h ago"
   },
   {
-    "id": "388a7535c9b4",
+    "id": "26cdd7013a97",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -137,19 +140,17 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Marchisotto Kory exercised options for 444 shares of Dutch Bros Inc. (BROS) \u00b7 May 15",
+    "content": "Wunderlich Dusty exercised options for 50,000 shares of Psq Holdings, Inc. (PSQH-WT) \u00b7 May 15 ($25,096 across all blocks)",
     "tags": [],
-    "tickers": [
-      "BROS"
-    ],
+    "tickers": [],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1866581/000186658126000093/0001866581-26-000093-index.htm",
-    "published_iso": "2026-05-16T00:03:18+00:00",
-    "time_ago": "3m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2015472/000201547226000002/0002015472-26-000002-index.htm",
+    "published_iso": "2026-05-16T01:42:55+00:00",
+    "time_ago": "2h ago"
   },
   {
-    "id": "fee5db25ec6d",
+    "id": "d14841ea9bb8",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -158,19 +159,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Miller Ann M exercised options for 444 shares of Dutch Bros Inc. (BROS) \u00b7 May 15",
+    "content": "Talach David George Paul received 23,316 shares of Accelerant Holdings (ARX) \u00b7 May 15",
     "tags": [],
     "tickers": [
-      "BROS"
+      "ARX"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1911661/000186658126000092/0001866581-26-000092-index.htm",
-    "published_iso": "2026-05-16T00:03:09+00:00",
-    "time_ago": "3m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2132528/000162828026035776/0001628280-26-035776-index.htm",
+    "published_iso": "2026-05-16T01:35:54+00:00",
+    "time_ago": "2h ago"
   },
   {
-    "id": "422b2cbe6524",
+    "id": "279b43a98d82",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -179,37 +180,16 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Penegor Todd Allan exercised options for 444 shares of Dutch Bros Inc. (BROS) \u00b7 May 15 ($102,350 across all blocks)",
+    "content": "Singer Bradley E sold 20,167 shares of Warby Parker Inc. (WRBY) \u00b7 $28.51/share \u00b7 $574,961 total \u00b7 May 15 ($715,166 across all blocks)",
     "tags": [],
     "tickers": [
-      "BROS"
+      "WRBY"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1866581/000157849026000004/0001578490-26-000004-index.htm",
-    "published_iso": "2026-05-16T00:03:01+00:00",
-    "time_ago": "3m ago"
-  },
-  {
-    "id": "0a8e0631803e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Kohn Bernhard L Iii sold 82,677 shares of Playboy, Inc. (PLBY) \u00b7 $1.43/share \u00b7 $118,063 total \u00b7 May 15 ($228,257 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "PLBY"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1844121/000162828026035755/0001628280-26-035755-index.htm",
-    "published_iso": "2026-05-16T00:01:57+00:00",
-    "time_ago": "5m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1504776/000110465926062890/0001104659-26-062890-index.htm",
+    "published_iso": "2026-05-16T01:35:34+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "abfabb38afb5",
@@ -235,28 +215,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/administration/5880825-strait-hormuz-reopening-prediction-wright/",
     "published_iso": "2026-05-15T23:22:13+00:00",
-    "time_ago": "44m ago"
-  },
-  {
-    "id": "74c73a79e9df",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Tina Peters to go free after Colorado Gov. Polis commutes her sentence. Tina Peters, a former elections clerk who was the first local official convicted over efforts to subvert the 2020 presidential election, will go free from prison after Colorado Gov. Jared Polis (D) commuted her sentence Friday. Polis told Colorado ",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/state-watch/5880729-election-clerk-freed-colorado/",
-    "published_iso": "2026-05-15T21:18:48+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "0b58ed3f6b64",
@@ -282,7 +241,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm",
     "published_iso": "2026-05-15T21:00:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "aa82c863a781",
@@ -306,7 +265,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2055391577560748341#m",
     "published_iso": "2026-05-15T20:55:14+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "adfb08970c93",
@@ -332,7 +291,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm",
     "published_iso": "2026-05-15T20:30:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "75e8be05560b",
@@ -358,7 +317,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515b.htm",
     "published_iso": "2026-05-15T20:30:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "ac2d1abaadc1",
@@ -381,7 +340,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mlw4o6xcuk23",
     "published_iso": "2026-05-15T19:59:58.515000+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "54cdb6e6397f",
@@ -405,7 +364,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2055377569055170918#m",
     "published_iso": "2026-05-15T19:59:34+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "a762b1eaa417",
@@ -428,7 +387,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2055345879716872244#m",
     "published_iso": "2026-05-15T17:53:38+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "0e61fea92471",
@@ -452,7 +411,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mlvps6qnxk2n",
     "published_iso": "2026-05-15T16:09:33.870000+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "0fde5ae7682e",
@@ -477,7 +436,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mlvmp4jcjs2t",
     "published_iso": "2026-05-15T15:14:09.644000+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "a1e6b3e79bef",
@@ -503,7 +462,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260515a.htm",
     "published_iso": "2026-05-15T15:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "67df6c9aafba",
@@ -530,7 +489,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h175?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-15T14:25:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "048d6e55bcd5",
@@ -549,7 +508,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h174?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-15T14:08:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "2a25a4c5a6e4",
