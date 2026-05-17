@@ -63,7 +63,7 @@
     "time_ago": "just now"
   },
   {
-    "id": "58a4aa79dd33",
+    "id": "15ffa45b9fe4",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -71,17 +71,25 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Senate parliamentarian rules against Trump\u2019s White House ballroom funding in budget bill. The Senate parliamentarian late Saturday ruled against the $1 billion provision intended to fund President Trump\u2019s White House ballroom in the budget reconciliation package. The guidance, according to Sen. Jeff Merkley (D-Ore.) wh",
+    "severity": "high",
+    "content": "Trump, GOP make midterm appeal to farmers with China deal, farm bill. The Trump administration and GOP lawmakers are seeking to win over U.S. farmers, a core constituency for the president during his 2016 and 2024 White House wins that has been aggravated by rising prices caused by his trade policies and the Iran war. ",
     "tags": [
+      "Trade",
+      "China",
+      "Agriculture",
       "Regulation"
     ],
-    "tickers": [],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5882011-senate-parliamentarian-rejects-trump-white-house-ballroom-funding/",
-    "published_iso": "2026-05-17T13:31:59+00:00",
-    "time_ago": "2h ago"
+    "url": "https://thehill.com/homenews/state-watch/5880642-farmers-trade-deal-trump-china/",
+    "published_iso": "2026-05-17T16:00:00+00:00",
+    "time_ago": "42m ago"
   },
   {
     "id": "ac9d00348f18",
@@ -731,7 +739,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/private-equity-is-ruining-health-care",
     "published_iso": "2026-05-14T16:01:08+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "b3b421968e9c",
@@ -1043,7 +1051,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "81d ago"
+    "time_ago": "82d ago"
   },
   {
     "id": "602146d3f751",
@@ -1216,6 +1224,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/983956",
     "published_iso": "2025-10-30T16:06:54+00:00",
-    "time_ago": "198d ago"
+    "time_ago": "199d ago"
   }
 ]
