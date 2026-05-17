@@ -63,6 +63,35 @@
     "time_ago": "just now"
   },
   {
+    "id": "57fe18424df2",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "high",
+    "content": "Fact Sheet: President Donald J. Trump Secures Historic Deals with China, Delivering for American Workers, Farmers, and Industry. CONTRIBUTING TO PEACE AND PROSPERITY: This week, during the first visit of a U.S. President to the People\u2019s Republic of China since 2017, President Donald J. Trump reached consensus with Pres",
+    "tags": [
+      "Trade",
+      "China",
+      "Agriculture",
+      "Taxes"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/",
+    "published_iso": "2026-05-17T17:15:13+00:00",
+    "time_ago": "27m ago"
+  },
+  {
     "id": "15ffa45b9fe4",
     "politician": "The Hill",
     "initials": "TH",
@@ -89,7 +118,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/state-watch/5880642-farmers-trade-deal-trump-china/",
     "published_iso": "2026-05-17T16:00:00+00:00",
-    "time_ago": "42m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "ac9d00348f18",
@@ -331,29 +360,6 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515b.htm",
     "published_iso": "2026-05-15T20:30:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "ac2d1abaadc1",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "Huh.\n\nWhy would Boeing (airplane company) and Toyota (car company) donate a MILLION bucks to Trump's Transportation Secretary's pet project?\n\nCould these billionaire corporations expect a return on their donation with regulatory favors?\n\nLooks like corruption in plain sight.",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [
-      "BA"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mlw4o6xcuk23",
-    "published_iso": "2026-05-15T19:59:58.515000+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -717,29 +723,6 @@
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm",
     "published_iso": "2026-05-14T18:00:00+00:00",
     "time_ago": "2d ago"
-  },
-  {
-    "id": "e4a8112c2d88",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "Private Equity is Ruining Health Care. Private Equity is Ruining Health Care",
-    "tags": [],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "http://www.warren.senate.gov/newsroom/videos/watch/private-equity-is-ruining-health-care",
-    "published_iso": "2026-05-14T16:01:08+00:00",
-    "time_ago": "3d ago"
   },
   {
     "id": "b3b421968e9c",
@@ -1139,7 +1122,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "114d ago"
+    "time_ago": "115d ago"
   },
   {
     "id": "d39ac85b9cc9",
