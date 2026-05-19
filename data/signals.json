@@ -1,6 +1,6 @@
 [
   {
-    "id": "39ebe3940712",
+    "id": "f7489f6a8249",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,61 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Clagett Robert Yates bought 1,410 shares of Primis Financial Corp. (FRST) \u00b7 $14.16/share \u00b7 $19,966 total \u00b7 May 19",
+    "content": "Levin Woodrow sold 34,234 shares of Draftkings Inc. (DKNG) \u00b7 $25.71/share \u00b7 $880,156 total \u00b7 May 19",
     "tags": [],
     "tickers": [
-      "FRST"
+      "DKNG"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1633530/000163353026000002/0001633530-26-000002-index.htm",
-    "published_iso": "2026-05-19T19:16:51+00:00",
-    "time_ago": "7m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1883685/000181020126000006/0001810201-26-000006-index.htm",
+    "published_iso": "2026-05-19T20:57:27+00:00",
+    "time_ago": "just now"
   },
   {
-    "id": "dde6e6a03a3f",
+    "id": "7901b1301109",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Beckwitt Richard received 7,832 shares of Weyerhaeuser Co (WY) \u00b7 May 19",
+    "tags": [],
+    "tickers": [
+      "WY"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1197193/000119719326000006/0001197193-26-000006-index.htm",
+    "published_iso": "2026-05-19T20:57:12+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "3b65b4ffb61b",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Kurian George exercised options for 18,489 shares of Netapp, Inc. (NTAP) \u00b7 May 19 ($1,118,467 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "NTAP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1586813/000119312526231013/0001193125-26-231013-index.htm",
+    "published_iso": "2026-05-19T20:56:57+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "f820dcfbf25c",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -30,23 +72,45 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Jeanine Pirro cracks down on violent Navy Yard teens; punish the parents, too?. Video footage of a disturbing incident has gone viral on social media. It shows a group of teenagers trashing a Chipotle restaurant, hurling chairs at each other, and causing chaos as frightened customers hide in the corner. It\u2019s all the mo",
+    "content": "IRS barred from auditing Trump's old tax returns. The Internal Revenue Service (IRS) is \u201cforever barred\u201d from examining President Trump\u2019s old tax returns, according to an addendum\u00a0to the Justice Department's settlement of President Trump's lawsuit against the IRS, which was made public Tuesday.\u00a0 Signed by Acting Attorn",
     "tags": [
-      "Semiconductors",
-      "Agriculture",
+      "Regulation",
       "Taxes"
     ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5885763-irs-trump-tax-returns-settlement-agreement/",
+    "published_iso": "2026-05-19T20:28:35+00:00",
+    "time_ago": "29m ago"
+  },
+  {
+    "id": "3c6f326a90bf",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "US sanctions Iran currency exchange house, 19 vessels. The U.S. is imposing new sanctions on an Iranian currency exchange and 19 vessels accused of helping financially prop up the regime, the latest move in the Trump administration\u2019s campaign to exert enough economic pressure on Tehran that it capitulates to U.S. condi",
+    "tags": [
+      "Sanctions"
+    ],
     "tickers": [
-      "CMG"
+      "LMT",
+      "RTX",
+      "XOM"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/robbys-radar/5885514-dc-teen-takeovers-rising/",
-    "published_iso": "2026-05-19T18:18:17+00:00",
-    "time_ago": "1h ago"
+    "url": "https://thehill.com/homenews/administration/5885684-us-sanctions-iran-currency-vessels-middle-east-conflict/",
+    "published_iso": "2026-05-19T20:02:18+00:00",
+    "time_ago": "55m ago"
   },
   {
-    "id": "fb513ea6b552",
+    "id": "9d60627eb97c",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -54,22 +118,45 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Ticketmaster's monopoly verdict opens the door to real reform. A jury ruled that Live Nation-Ticketmaster is a monopoly in violation of federal and state antitrust laws, and the states that brought the case should use their leverage to press for a settlement that locks in real consumer protections and opens up the mark",
+    "severity": "high",
+    "content": "O'Reilly: Trump willing to 'give up the little things' in dealing with China. Political commentator Bill O\u2019Reilly defended President Trump\u2019s recent trade deal with China that will allow the country to purchase U.S. farmland, which marked a reversal from the president's 2024 campaign promise that has angered parts of th",
     "tags": [
-      "Antitrust",
+      "Trade",
+      "China",
+      "Agriculture",
       "Regulation"
     ],
     "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META"
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/judiciary/5884315-live-nation-antitrust-lawsuit/",
-    "published_iso": "2026-05-19T17:30:00+00:00",
+    "url": "https://thehill.com/homenews/administration/5885709-oreilly-trump-china-deals/",
+    "published_iso": "2026-05-19T19:59:46+00:00",
+    "time_ago": "58m ago"
+  },
+  {
+    "id": "44c594ded2ac",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Watch live: Duffy testifies before Senate on transportation budget amid airline hikes. Transportation Secretary Sean Duffy will testify Tuesday afternoon before a Senate Appropriations Committee panel on President Trump's fiscal 2027 budget request. The White House is seeking $26.6 billion in discretionary budget autho",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/video-clips/5885613-sean-duffy-senate-hearing/",
+    "published_iso": "2026-05-19T19:36:49+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -96,7 +183,26 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2056768241305870559#m",
     "published_iso": "2026-05-19T16:05:36+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "c37bdb480883",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "Motion to Invoke Cloture: Sheria Akins Clarke to be U.S. District Judge for the District of South Carolina: Sheria Akins Clarke, of South Carolina, to be United States District Judge for the District of South Carolina. Vote: Cloture Motion Agreed to 57/38",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s126?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-05-19T15:44:00+00:00",
+    "time_ago": "5h ago"
   },
   {
     "id": "ee76fbb7f10e",
@@ -118,7 +224,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-world-trade-week/",
     "published_iso": "2026-05-19T13:27:07+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "fea62cd2e1be",
@@ -141,7 +247,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2056717707987300848#m",
     "published_iso": "2026-05-19T12:44:48+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "dc25c7cd9cc7",
@@ -163,7 +269,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/may/ustr-host-g20-trade-ministerial-milwaukee-wisconsin",
     "published_iso": "2026-05-19T10:03:10+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "b4b7c16a5d87",
@@ -185,7 +291,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/19/2026-10045/endangered-and-threatened-wildlife-and-plants-reclassification-of-the-rough-popcornflower-from",
     "published_iso": "2026-05-19T00:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "021df0186818",
@@ -204,7 +310,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/19/2026-10042/fisheries-of-the-south-atlantic-2026-recreational-fishing-season-announcement-for-blueline-tilefish",
     "published_iso": "2026-05-19T00:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "b6c95212807e",
@@ -226,7 +332,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/19/2026-10037/preemption-determination-state-interest-on-escrow-laws",
     "published_iso": "2026-05-19T00:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "d76c961286c3",
@@ -248,7 +354,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/19/2026-10036/real-estate-lending-escrow-accounts",
     "published_iso": "2026-05-19T00:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "a2185f416109",
@@ -270,7 +376,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/19/2026-10013/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-pell-grant",
     "published_iso": "2026-05-19T00:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "91e332b33b03",
@@ -291,7 +397,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/19/2026-10011/promoting-fair-and-open-competitive-bidding-in-the-e-rate-program-schools-and-libraries-universal",
     "published_iso": "2026-05-19T00:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "8ee16b0a5091",
@@ -312,7 +418,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/19/2026-10008/broadcast-station-rule-updates",
     "published_iso": "2026-05-19T00:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "c2bc63022777",
@@ -333,7 +439,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/19/2026-09973/fisheries-off-west-coast-states-west-coast-salmon-fisheries-2026-specifications-and-management",
     "published_iso": "2026-05-19T00:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "b6779452ad6a",
@@ -352,7 +458,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s125?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-18T21:36:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "c025a347837c",
@@ -379,7 +485,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-announces-expansion-of-trumprx-gov-to-bring-americans-transparency-and-choice-on-everyday-medicines/",
     "published_iso": "2026-05-18T21:35:41+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "3e7f54b2fcb0",
@@ -483,7 +589,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm",
     "published_iso": "2026-05-15T20:30:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "75e8be05560b",
@@ -509,7 +615,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515b.htm",
     "published_iso": "2026-05-15T20:30:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "a1e6b3e79bef",
@@ -645,7 +751,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h171?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-14T20:58:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "24a2f09ed535",
@@ -670,26 +776,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h170?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-14T20:52:00+00:00",
-    "time_ago": "4d ago"
-  },
-  {
-    "id": "db4f40f0311b",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.R. 6260: Keeping Violent Offenders Off Our Streets Act of 2025. Vote: Passed 243/179",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h169?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-05-14T20:46:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "fd074ff0c68a",
@@ -1029,7 +1116,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-announces-2026-service-academy-nominations/",
     "published_iso": "2026-02-18T19:38:51+00:00",
-    "time_ago": "89d ago"
+    "time_ago": "90d ago"
   },
   {
     "id": "00f579ee8f55",
