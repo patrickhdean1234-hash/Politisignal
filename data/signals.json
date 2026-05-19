@@ -1,6 +1,27 @@
 [
   {
-    "id": "738fadd4d64f",
+    "id": "39ebe3940712",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Clagett Robert Yates bought 1,410 shares of Primis Financial Corp. (FRST) \u00b7 $14.16/share \u00b7 $19,966 total \u00b7 May 19",
+    "tags": [],
+    "tickers": [
+      "FRST"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1633530/000163353026000002/0001633530-26-000002-index.htm",
+    "published_iso": "2026-05-19T19:16:51+00:00",
+    "time_ago": "7m ago"
+  },
+  {
+    "id": "dde6e6a03a3f",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,18 +30,47 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Comey eyes new 'anti-weaponization' fund: 'I'm guessing I'll be in line'. Former FBI Director James Comey on Monday said he guesses he'll \"be in line\" for the Department of Justice's (DOJ) $1.776 billion compensation fund for individuals who believe they have been targeted for investigation or prosecution. He told CNN'",
+    "content": "Jeanine Pirro cracks down on violent Navy Yard teens; punish the parents, too?. Video footage of a disturbing incident has gone viral on social media. It shows a group of teenagers trashing a Chipotle restaurant, hurling chairs at each other, and causing chaos as frightened customers hide in the corner. It\u2019s all the mo",
     "tags": [
-      "Defense",
-      "Regulation",
+      "Semiconductors",
+      "Agriculture",
       "Taxes"
     ],
-    "tickers": [],
+    "tickers": [
+      "CMG"
+    ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5885232-comey-doj-settlement-compensation/",
-    "published_iso": "2026-05-19T17:11:45+00:00",
-    "time_ago": "11m ago"
+    "url": "https://thehill.com/opinion/robbys-radar/5885514-dc-teen-takeovers-rising/",
+    "published_iso": "2026-05-19T18:18:17+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "fb513ea6b552",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Ticketmaster's monopoly verdict opens the door to real reform. A jury ruled that Live Nation-Ticketmaster is a monopoly in violation of federal and state antitrust laws, and the states that brought the case should use their leverage to press for a settlement that locks in real consumer protections and opens up the mark",
+    "tags": [
+      "Antitrust",
+      "Regulation"
+    ],
+    "tickers": [
+      "AMZN",
+      "GOOGL",
+      "AAPL",
+      "META"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/judiciary/5884315-live-nation-antitrust-lawsuit/",
+    "published_iso": "2026-05-19T17:30:00+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "1018fa065cde",
@@ -46,7 +96,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2056768241305870559#m",
     "published_iso": "2026-05-19T16:05:36+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "ee76fbb7f10e",
@@ -68,7 +118,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-world-trade-week/",
     "published_iso": "2026-05-19T13:27:07+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "fea62cd2e1be",
@@ -91,7 +141,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2056717707987300848#m",
     "published_iso": "2026-05-19T12:44:48+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "dc25c7cd9cc7",
@@ -113,7 +163,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/may/ustr-host-g20-trade-ministerial-milwaukee-wisconsin",
     "published_iso": "2026-05-19T10:03:10+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "b4b7c16a5d87",
@@ -135,7 +185,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/19/2026-10045/endangered-and-threatened-wildlife-and-plants-reclassification-of-the-rough-popcornflower-from",
     "published_iso": "2026-05-19T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "021df0186818",
@@ -154,7 +204,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/19/2026-10042/fisheries-of-the-south-atlantic-2026-recreational-fishing-season-announcement-for-blueline-tilefish",
     "published_iso": "2026-05-19T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "b6c95212807e",
@@ -176,7 +226,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/19/2026-10037/preemption-determination-state-interest-on-escrow-laws",
     "published_iso": "2026-05-19T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "d76c961286c3",
@@ -198,7 +248,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/19/2026-10036/real-estate-lending-escrow-accounts",
     "published_iso": "2026-05-19T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "a2185f416109",
@@ -220,7 +270,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/19/2026-10013/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-pell-grant",
     "published_iso": "2026-05-19T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "91e332b33b03",
@@ -241,7 +291,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/19/2026-10011/promoting-fair-and-open-competitive-bidding-in-the-e-rate-program-schools-and-libraries-universal",
     "published_iso": "2026-05-19T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "8ee16b0a5091",
@@ -262,7 +312,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/19/2026-10008/broadcast-station-rule-updates",
     "published_iso": "2026-05-19T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "c2bc63022777",
@@ -283,7 +333,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/19/2026-09973/fisheries-off-west-coast-states-west-coast-salmon-fisheries-2026-specifications-and-management",
     "published_iso": "2026-05-19T00:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "b6779452ad6a",
@@ -302,7 +352,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s125?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-18T21:36:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "c025a347837c",
@@ -329,7 +379,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-announces-expansion-of-trumprx-gov-to-bring-americans-transparency-and-choice-on-everyday-medicines/",
     "published_iso": "2026-05-18T21:35:41+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "3e7f54b2fcb0",
@@ -352,7 +402,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/05/president-trumps-intel-deal-and-soaring-markets-prove-america-first-works/",
     "published_iso": "2026-05-18T19:00:31+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "57fe18424df2",
@@ -668,7 +718,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-hails-historic-committee-passage-of-her-digital-asset-legislation/",
     "published_iso": "2026-05-14T18:06:21+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "c6549049df6a",
@@ -695,7 +745,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm",
     "published_iso": "2026-05-14T18:00:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "b3b421968e9c",
@@ -935,7 +985,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "54d ago"
+    "time_ago": "55d ago"
   },
   {
     "id": "782af70b6ebe",
