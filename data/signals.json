@@ -1,27 +1,27 @@
 [
   {
-    "id": "79cb99bd79f1",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "333fe5ff42a6",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
     },
-    "severity": "medium",
-    "content": "Norwood Ralph M exercised options for 15,000 shares of Cps Technologies Corp/De/ (CPSH) \u00b7 $1.49/share \u00b7 $22,350 total \u00b7 May 20 ($44,702 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CPSH"
+    "severity": "high",
+    "content": "First Lady Melania Trump\u2019s 4 Community-Centric Pillars of Foster Care. First Lady Melania Trump delivered remarks at the 2026 United States Senate Spouses Luncheon in Washington, DC, where she outlined the four community-centric pillars of foster care and called on the gathering to help advance protections for youth wh",
+    "tags": [
+      "Taxes"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1205534/000177555726000005/0001775557-26-000005-index.htm",
-    "published_iso": "2026-05-20T13:59:31+00:00",
-    "time_ago": "14m ago"
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/05/first-lady-melania-trumps-4-community-centric-pillars-of-foster-care/",
+    "published_iso": "2026-05-20T16:57:01+00:00",
+    "time_ago": "35m ago"
   },
   {
-    "id": "d003337a6e9f",
+    "id": "082d8a806cc6",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -30,16 +30,85 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Trump to attend G7 meeting in France. President Trump will attend the G7 summit in France next month amid growing tensions between Trump and leaders of the group\u2019s member countries.\u00a0 A White House official confirmed the development, which was first reported by Axios, to The Hill early Wednesday The summit will take pla",
+    "content": "Sununu: Spirit Airlines closure was a lesson to approve mergers when 'somebody is putting up a red flag'. Airlines for America CEO and former New Hampshire Gov. Chris Sununu on Wednesday said the closure of Spirit Airlines was a lesson in allowing business mergers to be approved when \"somebody is putting up a red flag.",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/transportation/5887263-spirit-shutdown-market-impact/",
+    "published_iso": "2026-05-20T16:43:06+00:00",
+    "time_ago": "49m ago"
+  },
+  {
+    "id": "87cdb04b9c9d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Republicans learn a lesson: Don\u2019t cross Trump. Presented by Tokyo Electron {beacon}  PRESENTED BY &#8202; In today's issue: It\u2019s Wednesday. The weather for Memorial Day weekend looks crummy for much of the U.S. this year. See if that stops me from celebrating properly! \ud83c\udf66\ud83c\udf86 &#8202; Trump dominates Tuesday primaries Massi",
     "tags": [
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5886742-donald-trump-g7-summit-france/",
-    "published_iso": "2026-05-20T12:49:21+00:00",
-    "time_ago": "1h ago"
+    "url": "https://thehill.com/newsletters/1230-report/5887447-trump-dominates-gop-primaries/",
+    "published_iso": "2026-05-20T16:38:01+00:00",
+    "time_ago": "54m ago"
+  },
+  {
+    "id": "072d30de1b17",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "critical",
+    "content": "Dr. Rand Paul Introduces the Legalizing Premium Health Care Act. The post  Dr. Rand Paul Introduces the Legalizing Premium Health Care Act  appeared first on  Senator Rand Paul",
+    "tags": [
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-legalizing-premium-health-care-act/",
+    "published_iso": "2026-05-20T15:26:37+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "c15abae27830",
+    "politician": "Sen. Cynthia Lummis",
+    "initials": "CL",
+    "role": "Senate Banking Subcommittee (Crypto)",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#c4b5fd"
+    },
+    "severity": "critical",
+    "content": "Wyoming workers &amp; producers power our grid and strengthen national security. Advanced manufacturing, Bitcoin mining, AI all demand reliable baseload power. \n \nThe U.S. needs more generation, more infrastructure, and a broad energy strategy. Nuclear must be part of that future. \n \n Video",
+    "tags": [
+      "Crypto",
+      "Energy"
+    ],
+    "tickers": [
+      "BTC"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SenLummis/status/2057114026962776483#m",
+    "published_iso": "2026-05-20T14:59:38+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "e75c967152b0",
@@ -60,32 +129,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/first-lady-melania-trump-americas-tradition-fosters-unity/",
     "published_iso": "2026-05-20T00:25:18+00:00",
-    "time_ago": "13h ago"
-  },
-  {
-    "id": "0b846beb1252",
-    "politician": "Rep. Jim Jordan",
-    "initials": "JJ",
-    "role": "House Judiciary Committee Chair",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fca5a5"
-    },
-    "severity": "medium",
-    "content": "Medicaid fraud.  \n \nDaycare fraud.  \n \nFire aid fraud.  \n \nActBlue fraud.  \n \nSPLC fraud.  \n \nNow we can add student aid to the list of fraud Democrats enabled too. \n \nPresident Trump is putting a stop to it! \n \n \n Secretary Linda McMahon (@EDSecMcMahon) \n \n The Trump Administration is cracking down on decades of waste",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/Jim_Jordan/status/2056892515794461039#m",
-    "published_iso": "2026-05-20T00:19:25+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "ed436bd94809",
@@ -107,7 +151,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/20/2026-10116/returns-relating-to-sales-or-exchanges-of-certain-partnership-interests",
     "published_iso": "2026-05-20T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "0e4d9fd2ad0d",
@@ -126,7 +170,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/20/2026-10101/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-cod-by-catcherprocessors-using",
     "published_iso": "2026-05-20T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "6b14fdabf65d",
@@ -147,7 +191,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/20/2026-10096/atlantic-highly-migratory-species-prohibit-retention-of-mobulid-rays-in-fisheries-for-atlantic",
     "published_iso": "2026-05-20T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "fca80e538dae",
@@ -166,7 +210,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/20/2026-10092/safety-zone-morehead-city-harbor-morehead-city-nc",
     "published_iso": "2026-05-20T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "e6ed2596fd19",
@@ -185,7 +229,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/20/2026-10088/security-zones-new-orleans-sail-250-lower-mississippi-river-new-orleans-la",
     "published_iso": "2026-05-20T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "0994a85b3884",
@@ -207,7 +251,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/20/2026-10078/annuity-beginning-and-ending-dates",
     "published_iso": "2026-05-20T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "1fb9852b4788",
@@ -234,7 +278,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/20/2026-10064/renewable-energy-production-incentives",
     "published_iso": "2026-05-20T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "61616915aa02",
@@ -255,7 +299,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/20/2026-10061/special-local-regulation-red-river-rumble-f1-powerboat-showdown-shreveport-la",
     "published_iso": "2026-05-20T00:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "28e763290a57",
@@ -280,7 +324,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2056874885251538953#m",
     "published_iso": "2026-05-19T23:09:22+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "032c7769e864",
@@ -309,7 +353,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-applauds-trump-administration-on-federal-reserve-master-account-executive-order/",
     "published_iso": "2026-05-19T22:23:14+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "7f461f0818bf",
@@ -332,7 +376,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/05/to-implement-certain-provisions-in-the-consolidated-appropriations-act-2026-and-for-other-purposes/",
     "published_iso": "2026-05-19T22:06:08+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "12654c4ae3a8",
@@ -354,7 +398,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/congressional-bills-h-r-972-h-r-2066-and-h-r-2815-signed-into-law/",
     "published_iso": "2026-05-19T21:54:01+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "028a9eda4284",
@@ -376,29 +420,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-integrates-financial-technology-innovation-into-regulatory-frameworks/",
     "published_iso": "2026-05-19T21:30:07+00:00",
-    "time_ago": "16h ago"
-  },
-  {
-    "id": "cf86e8b60fee",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "Fact Sheet: President Donald J. Trump Restores Integrity to America\u2019s Financial System. SECURING AMERICA\u2019S FINANCIAL SYSTEM: Today, President Donald J. Trump signed an Executive Order to protect America\u2019s financial system from illicit activity, strengthen customer identification requirements for financial institutions,",
-    "tags": [
-      "Banking",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-restores-integrity-to-americas-financial-system/",
-    "published_iso": "2026-05-19T21:29:16+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "363e1d93b1f0",
@@ -417,7 +439,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s129?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-19T20:47:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "4e77b8b8c998",
@@ -436,7 +458,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s128?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-19T18:56:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "f119b355883a",
@@ -455,7 +477,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s127?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-19T18:10:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "c37bdb480883",
@@ -474,7 +496,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s126?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-19T15:44:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "dc25c7cd9cc7",
@@ -621,7 +643,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260515a.htm",
     "published_iso": "2026-05-15T15:00:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "67df6c9aafba",
@@ -648,7 +670,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h175?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-15T14:25:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "640b4e3a10f0",
@@ -802,7 +824,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260513a.htm",
     "published_iso": "2026-05-13T15:30:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "7ae7143a40f1",
@@ -828,7 +850,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260512a.htm",
     "published_iso": "2026-05-12T15:00:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -849,7 +871,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -875,7 +897,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "14d ago"
+    "time_ago": "15d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -897,7 +919,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "22d ago"
+    "time_ago": "23d ago"
   },
   {
     "id": "0047e3ab5b67",
@@ -919,7 +941,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "29d ago"
+    "time_ago": "30d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -984,7 +1006,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "84d ago"
+    "time_ago": "85d ago"
   },
   {
     "id": "602146d3f751",
@@ -1027,7 +1049,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "95d ago"
+    "time_ago": "96d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1046,7 +1068,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "95d ago"
+    "time_ago": "96d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1072,7 +1094,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "117d ago"
+    "time_ago": "118d ago"
   },
   {
     "id": "d39ac85b9cc9",
@@ -1097,28 +1119,6 @@
     "time_ago": "124d ago"
   },
   {
-    "id": "e699640936a7",
-    "politician": "Sen. Rand Paul",
-    "initials": "RP",
-    "role": "Senate Foreign Relations Committee",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fbbf24"
-    },
-    "severity": "low",
-    "content": "Chairman Paul Releases Biden-Era FBI Files: An Unverified Tip Led to Nearly Two Years of Surveillance of an Innocent Catholic School Teacher. The post  Chairman Paul Releases Biden-Era FBI Files: An Unverified Tip Led to Nearly Two Years of Surveillance of an Innocent Catholic School Teacher\u00a0  appeared first on  Senato",
-    "tags": [
-      "Defense",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "https://www.paul.senate.gov/266276-2/",
-    "published_iso": "2026-01-07T15:48:25+00:00",
-    "time_ago": "132d ago"
-  },
-  {
     "id": "d3ca74df7f0f",
     "politician": "U.S. Treasury",
     "initials": "TRS",
@@ -1135,7 +1135,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "154d ago"
+    "time_ago": "155d ago"
   },
   {
     "id": "e88c3c11d67a",
@@ -1157,6 +1157,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/983956",
     "published_iso": "2025-10-30T16:06:54+00:00",
-    "time_ago": "201d ago"
+    "time_ago": "202d ago"
   }
 ]
