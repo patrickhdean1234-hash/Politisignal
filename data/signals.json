@@ -1,6 +1,6 @@
 [
   {
-    "id": "4891dce1fc2c",
+    "id": "f9b4e66952dd",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,16 +9,39 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Maddox Mark D sold 9,800 shares of Apa Corp (APA) \u00b7 $40.04/share \u00b7 $392,392 total \u00b7 May 22",
+    "content": "Campbell Richard D received 623 shares of South Plains Financial, Inc. (SPFI) \u00b7 May 22",
     "tags": [],
     "tickers": [
-      "APA"
+      "SPFI"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1961805/000196180526000018/0001961805-26-000018-index.htm",
-    "published_iso": "2026-05-22T16:22:20+00:00",
-    "time_ago": "5m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1774463/000177446326000001/0001774463-26-000001-index.htm",
+    "published_iso": "2026-05-22T18:15:08+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "e790869d53e5",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "The House just set a 350-home cap on hedge funds \u2014 that's not a solution. The House passed legislation capping institutional investor ownership of single-family homes at 350 units per entity, while the End Hedge Fund Control of American Homes Act proposes a 50 percent excise tax on any single-family home purchased by a",
+    "tags": [
+      "Regulation",
+      "Taxes",
+      "Insider Trade"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/finance/5890446-institutional-investors-single-family/",
+    "published_iso": "2026-05-22T17:00:00+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "0b04754d0cdd",
@@ -39,26 +62,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-wyden-grill-irs-on-outrageously-corrupt-trump-settlement-press-independent-watchdog-to-immediately-open-investigation",
     "published_iso": "2026-05-22T15:31:00+00:00",
-    "time_ago": "55m ago"
-  },
-  {
-    "id": "d2eab491ca1c",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "AI capital spending is offsetting soft consumer spending \u2014 for now. When growth in AI capital spending is scaled back at some point, U.S. economic growth will slow, and the stock market will likely enter bear territory",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/finance/5889545-ai-capital-spending-trends/",
-    "published_iso": "2026-05-22T15:30:00+00:00",
-    "time_ago": "57m ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "34c2ba442217",
@@ -86,7 +90,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2057821144904851909#m",
     "published_iso": "2026-05-22T13:49:28+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "38cbb00c400d",
@@ -112,7 +116,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/JudiciaryGOP/status/2057819339441443201#m",
     "published_iso": "2026-05-22T13:42:17+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "266dee64557a",
@@ -133,7 +137,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10360/airworthiness-directives-pratt-and-whitney-rtx-corporation-type-certificate-previously-held-by-pratt",
     "published_iso": "2026-05-22T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "0013b4ae3a40",
@@ -154,7 +158,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10356/removal-of-environmental-clearance-officer-review-and-comment-for-assessments-for-projects-over-200",
     "published_iso": "2026-05-22T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "79b830d579c7",
@@ -173,7 +177,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10317/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-angling-category",
     "published_iso": "2026-05-22T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "20c006a24267",
@@ -192,7 +196,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10280/air-plan-revisions-arizona-arizona-department-of-environmental-quality-gila-county-reasonably",
     "published_iso": "2026-05-22T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "120dd56799e2",
@@ -211,7 +215,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10272/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-05-22T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "24c808c7c705",
@@ -230,7 +234,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10271/airworthiness-directives-bombardier-inc-airplanes",
     "published_iso": "2026-05-22T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "6bcb13b59056",
@@ -249,7 +253,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10270/airworthiness-directives-embraer-sa-type-certificate-previously-held-by-yabor-indstria-aeronutica-sa",
     "published_iso": "2026-05-22T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "8b9f978684e5",
@@ -275,7 +279,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10267/aluminum-in-pesticide-formulations-exemption-from-the-requirement-for-a-tolerance",
     "published_iso": "2026-05-22T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "aac8fc288b52",
@@ -294,7 +298,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h191?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-21T22:20:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "9b73f9f12d30",
@@ -313,7 +317,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h190?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-21T22:12:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "65b6f865ef07",
@@ -332,7 +336,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h189?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-21T22:06:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "99efc83ff00a",
@@ -359,7 +363,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2057582603343970473#m",
     "published_iso": "2026-05-21T22:01:35+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "d2c2d265d63c",
@@ -386,7 +390,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2057582603343970473#m",
     "published_iso": "2026-05-21T22:01:35+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "f89e83e500bd",
@@ -405,7 +409,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h188?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-21T21:59:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "fae7d1a4adef",
@@ -431,7 +435,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2057571625004880254#m",
     "published_iso": "2026-05-21T21:17:57+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "c0b18edde4a0",
@@ -450,7 +454,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h187?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-21T21:01:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "1290214ad3cd",
@@ -631,7 +635,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm",
     "published_iso": "2026-05-20T18:00:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "333fe5ff42a6",
@@ -652,7 +656,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/05/first-lady-melania-trumps-4-community-centric-pillars-of-foster-care/",
     "published_iso": "2026-05-20T16:57:01+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "072d30de1b17",
@@ -751,28 +755,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/05/to-implement-certain-provisions-in-the-consolidated-appropriations-act-2026-and-for-other-purposes/",
     "published_iso": "2026-05-19T22:06:08+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "12654c4ae3a8",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "Congressional Bills H.R. 972, H.R. 2066 and H.R. 2815 Signed into Law. On Tuesday, May 19, 2026, the President signed into law: H.R. 972, the &#8220;Sloan Canyon Conservation and Lateral Pipeline Act,&#8221; which expands the boundaries of the Sloan Canyon National Conservation Area in Clark County, Nevada, and directs",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/briefings-statements/2026/05/congressional-bills-h-r-972-h-r-2066-and-h-r-2815-signed-into-law/",
-    "published_iso": "2026-05-19T21:54:01+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -926,7 +908,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm",
     "published_iso": "2026-05-14T18:00:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -1170,7 +1152,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "119d ago"
+    "time_ago": "120d ago"
   },
   {
     "id": "d39ac85b9cc9",
