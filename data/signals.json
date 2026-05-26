@@ -1,6 +1,6 @@
 [
   {
-    "id": "8263b5b2b08b",
+    "id": "28ad0f8224ad",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,17 +9,21 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Shekell Jeffrey L. received 224,138 shares of Highlands Reit, Inc. \u00b7 May 26",
-    "tags": [],
-    "tickers": [],
+    "content": "Hohnsbeen Paul exercised options for 347 shares of Target Hospitality Corp. (TH) \u00b7 May 26",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "TH"
+    ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1758484/000175848426000002/0001758484-26-000002-index.htm",
-    "published_iso": "2026-05-26T18:27:44+00:00",
-    "time_ago": "7m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2126142/000171218926000045/0001712189-26-000045-index.htm",
+    "published_iso": "2026-05-26T20:33:17+00:00",
+    "time_ago": "just now"
   },
   {
-    "id": "ea1c89d72f3f",
+    "id": "572bc9863a7e",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -28,17 +32,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Turner R. David received 224,138 shares of Highlands Reit, Inc. \u00b7 May 26",
+    "content": "Wilson Benjamin Francis received 10,948 shares of Pg&E Corp (PCG-PX) \u00b7 May 26",
     "tags": [],
-    "tickers": [],
+    "tickers": [
+      "PCG"
+    ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1672524/000167252426000004/0001672524-26-000004-index.htm",
-    "published_iso": "2026-05-26T18:27:36+00:00",
-    "time_ago": "7m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1816994/000162828026038132/0001628280-26-038132-index.htm",
+    "published_iso": "2026-05-26T20:33:02+00:00",
+    "time_ago": "just now"
   },
   {
-    "id": "3a676dc9bcc1",
+    "id": "6b477b8be0c4",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -46,82 +52,95 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "critical",
-    "content": "Garen Kirsten E exercised options for 2,178 shares of Trico Bancshares / (TCBK) \u00b7 May 26",
+    "severity": "medium",
+    "content": "Gray Andrew I. received 11,400 shares of Dynex Capital Inc (DX-PC) \u00b7 May 26",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2016111/000082667526000063/0000826675-26-000063-index.htm",
+    "published_iso": "2026-05-26T20:32:40+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "f30795fce64c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Szafranski Sharon received 909 shares of Itt Inc. (ITT) \u00b7 May 26",
+    "tags": [],
+    "tickers": [
+      "ITT"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1798733/000179873326000004/0001798733-26-000004-index.htm",
+    "published_iso": "2026-05-26T20:32:35+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "b5cb931d71f1",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Chandoha Marie A received 11,400 shares of Dynex Capital Inc (DX-PC) \u00b7 May 26",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1656828/000082667526000062/0000826675-26-000062-index.htm",
+    "published_iso": "2026-05-26T20:32:34+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "813d9a7c6388",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Crawford Alexander I. received 11,400 shares of Dynex Capital Inc (DX-PC) \u00b7 May 26",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2016034/000082667526000061/0000826675-26-000061-index.htm",
+    "published_iso": "2026-05-26T20:32:27+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "794e59743b79",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Vance: Pope's AI warnings 'profound'. Vice President Vance on Tuesday said that Pope Leo XIV\u2019s warnings on the risks of AI were \u201cprofound.\u201d The Vatican published the pontiff\u2019s first encyclical, titled \u201cMagnifica Humanitas,\u201d on Monday. In the 42,000-word letter, the first American pope urged policymakers to address the ",
     "tags": [
       "Taxes"
     ],
-    "tickers": [
-      "TCBK"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1804874/000035617126000076/0000356171-26-000076-index.htm",
-    "published_iso": "2026-05-26T18:26:54+00:00",
-    "time_ago": "8m ago"
-  },
-  {
-    "id": "2c4b44870d97",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Mariani Martin exercised options for 2,178 shares of Trico Bancshares / (TCBK) \u00b7 May 26",
-    "tags": [],
-    "tickers": [
-      "TCBK"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1301818/000035617126000075/0000356171-26-000075-index.htm",
-    "published_iso": "2026-05-26T18:26:48+00:00",
-    "time_ago": "8m ago"
-  },
-  {
-    "id": "c6425169130b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Nakamura Jon exercised options for 2,178 shares of Trico Bancshares / (TCBK) \u00b7 May 26",
-    "tags": [],
-    "tickers": [
-      "TCBK"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1907186/000035617126000074/0000356171-26-000074-index.htm",
-    "published_iso": "2026-05-26T18:26:43+00:00",
-    "time_ago": "8m ago"
-  },
-  {
-    "id": "debf56dd69dc",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Vogel Kimberley H exercised options for 2,178 shares of Trico Bancshares / (TCBK) \u00b7 May 26",
-    "tags": [],
-    "tickers": [
-      "TCBK"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1804400/000035617126000073/0000356171-26-000073-index.htm",
-    "published_iso": "2026-05-26T18:26:37+00:00",
-    "time_ago": "8m ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/5895819-pope-leo-vance-ai-risks/",
+    "published_iso": "2026-05-26T20:02:41+00:00",
+    "time_ago": "31m ago"
   },
   {
     "id": "a1e6af3705a6",
@@ -140,7 +159,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm",
     "published_iso": "2026-05-26T18:00:00+00:00",
-    "time_ago": "35m ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "96ead14d275b",
@@ -163,7 +182,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/Jim_Jordan/status/2059273363344719903#m",
     "published_iso": "2026-05-26T14:00:03+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "259b65b652b2",
@@ -182,7 +201,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/26/C1-2026-08931/conforming-change-for-approving-a-making-application",
     "published_iso": "2026-05-26T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "5832daf773c3",
@@ -201,7 +220,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10423/security-zone-ohio-river-cincinnati-oh",
     "published_iso": "2026-05-26T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "9019cb5f6582",
@@ -220,7 +239,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10394/safety-zone-lake-michigan-milwaukee-wi",
     "published_iso": "2026-05-26T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "c5d6534fe112",
@@ -239,7 +258,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10393/safety-zones-annual-events-requiring-safety-zones-in-the-captain-of-the-port-lake-michigan-zone",
     "published_iso": "2026-05-26T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "36cd21e4a8d8",
@@ -261,7 +280,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10392/special-local-regulation-temporary-anchorage-ground-suspension-and-safety-and-security-zones-sail",
     "published_iso": "2026-05-26T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "6531acbf34c3",
@@ -280,7 +299,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10391/safety-zone-cape-charles-harbor-cape-charles-va",
     "published_iso": "2026-05-26T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "856d7c940080",
@@ -301,7 +320,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10390/safety-zones-fireworks-displays-in-the-uscg-east-district",
     "published_iso": "2026-05-26T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "d26d905a0fcc",
@@ -324,7 +343,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10387/phasedown-of-hydrofluorocarbons-reconsideration-of-certain-regulatory-requirements-promulgated-under",
     "published_iso": "2026-05-26T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "797915bf3392",
@@ -401,7 +420,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/TeamAOC/status/2057922430568468580#m",
     "published_iso": "2026-05-22T20:31:56+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "07ab4044a288",
@@ -427,7 +446,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260522a.htm",
     "published_iso": "2026-05-22T20:15:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "ee13b7f3bdd8",
@@ -453,7 +472,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260522a.htm",
     "published_iso": "2026-05-22T20:00:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "0b04754d0cdd",
@@ -683,7 +702,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260520a.htm",
     "published_iso": "2026-05-20T20:00:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "d61054dd074f",
@@ -831,7 +850,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm",
     "published_iso": "2026-05-15T20:30:00+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -965,7 +984,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "61d ago"
+    "time_ago": "62d ago"
   },
   {
     "id": "782af70b6ebe",
@@ -1009,7 +1028,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-announces-2026-service-academy-nominations/",
     "published_iso": "2026-02-18T19:38:51+00:00",
-    "time_ago": "96d ago"
+    "time_ago": "97d ago"
   },
   {
     "id": "00f579ee8f55",
