@@ -1,5 +1,119 @@
 [
   {
+    "id": "7146bfb7a219",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Shepro William B bought 3,511 shares of Altisource Portfolio Solutions S.A. (ASPSW) \u00b7 $6.02/share \u00b7 $21,136 total \u00b7 May 26",
+    "tags": [],
+    "tickers": [
+      "ASPSW"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1462418/000128931526000007/0001289315-26-000007-index.htm",
+    "published_iso": "2026-05-26T16:01:29+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "cbb5645f7a21",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Choate William Millard received 1,003 shares of Ameris Bancorp (ABCB) \u00b7 May 26",
+    "tags": [],
+    "tickers": [
+      "ABCB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1490046/000035156926000104/0000351569-26-000104-index.htm",
+    "published_iso": "2026-05-26T16:00:36+00:00",
+    "time_ago": "6m ago"
+  },
+  {
+    "id": "6de3b2c77da7",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "House Democrats label GOP reconciliation push 'political malpractice'. The Democratic Congressional Campaign Committee (DCCC), the campaign arm of House Democrats, is accusing Republicans of \u201ccommitting political malpractice\u201d by pushing a bill that would fund federal immigration agencies through the reconciliation proc",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/5895184-dccc-democrats-gop-reconciliation-dhs-ice-iran-war/",
+    "published_iso": "2026-05-26T15:34:50+00:00",
+    "time_ago": "32m ago"
+  },
+  {
+    "id": "e3396082e41e",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Ticket to regime change in Cuba: End the embargo. The U.S. embargo against Cuba has been a disaster for both countries, and the answer to the problem is ending the embargo and letting capitalism grow in Cuba, rather than military intervention",
+    "tags": [
+      "Defense",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/international/5894224-trump-cuba-regime-change/",
+    "published_iso": "2026-05-26T15:30:00+00:00",
+    "time_ago": "37m ago"
+  },
+  {
+    "id": "96ead14d275b",
+    "politician": "Rep. Jim Jordan",
+    "initials": "JJ",
+    "role": "House Judiciary Committee Chair",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fca5a5"
+    },
+    "severity": "medium",
+    "content": "Arrest Medicaid fraudsters. \n \nDeport criminal aliens. \n \nEnd sanctuary cities. \n \nSimple as that.",
+    "tags": [],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/Jim_Jordan/status/2059273363344719903#m",
+    "published_iso": "2026-05-26T14:00:03+00:00",
+    "time_ago": "2h ago"
+  },
+  {
     "id": "259b65b652b2",
     "politician": "Federal Register",
     "initials": "FR",
@@ -16,7 +130,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/26/C1-2026-08931/conforming-change-for-approving-a-making-application",
     "published_iso": "2026-05-26T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "5832daf773c3",
@@ -35,7 +149,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10423/security-zone-ohio-river-cincinnati-oh",
     "published_iso": "2026-05-26T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "9019cb5f6582",
@@ -54,7 +168,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10394/safety-zone-lake-michigan-milwaukee-wi",
     "published_iso": "2026-05-26T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "c5d6534fe112",
@@ -73,7 +187,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10393/safety-zones-annual-events-requiring-safety-zones-in-the-captain-of-the-port-lake-michigan-zone",
     "published_iso": "2026-05-26T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "36cd21e4a8d8",
@@ -95,7 +209,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10392/special-local-regulation-temporary-anchorage-ground-suspension-and-safety-and-security-zones-sail",
     "published_iso": "2026-05-26T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "6531acbf34c3",
@@ -114,7 +228,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10391/safety-zone-cape-charles-harbor-cape-charles-va",
     "published_iso": "2026-05-26T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "856d7c940080",
@@ -135,7 +249,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10390/safety-zones-fireworks-displays-in-the-uscg-east-district",
     "published_iso": "2026-05-26T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "d26d905a0fcc",
@@ -158,7 +272,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10387/phasedown-of-hydrofluorocarbons-reconsideration-of-certain-regulatory-requirements-promulgated-under",
     "published_iso": "2026-05-26T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "797915bf3392",
@@ -184,7 +298,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mmotgyjbe22y",
     "published_iso": "2026-05-25T15:51:26.659000+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "ddb47986493c",
@@ -210,217 +324,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2058938895161549312#m",
     "published_iso": "2026-05-25T15:51:00+00:00",
-    "time_ago": "17h ago"
-  },
-  {
-    "id": "4b2462c1c2ee",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Bruno John G received 87,209 shares of Xerox Holdings Corp (XRXDW) \u00b7 May 22",
-    "tags": [],
-    "tickers": [
-      "XRXDW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1770450/000119312526237487/0001193125-26-237487-index.htm",
-    "published_iso": "2026-05-23T01:59:00+00:00",
-    "time_ago": "3d ago"
-  },
-  {
-    "id": "4ff221c1555c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Kao Min H gifted 4,166 shares of Garmin Ltd (GRMN) \u00b7 May 22 ($0 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "GRMN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1134100/000119312526237482/0001193125-26-237482-index.htm",
-    "published_iso": "2026-05-23T01:55:05+00:00",
-    "time_ago": "3d ago"
-  },
-  {
-    "id": "71a5e25ed66d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Norris Dustin David bought 53,663 shares of Nexpoint Diversified Real Estate Trust (NXDT-PA) \u00b7 $4.90/share \u00b7 $262,949 total \u00b7 May 22",
-    "tags": [],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1617176/000143774926018308/0001437749-26-018308-index.htm",
-    "published_iso": "2026-05-23T01:47:40+00:00",
-    "time_ago": "3d ago"
-  },
-  {
-    "id": "a167d6703842",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Geyer Clay Howard bought 45,080 shares of Black Rock Coffee Bar, Inc. (BRCB) \u00b7 $6.51/share \u00b7 $293,471 total \u00b7 May 22 ($299,816 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "BRCB"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2080770/000162828026037910/0001628280-26-037910-index.htm",
-    "published_iso": "2026-05-23T01:42:02+00:00",
-    "time_ago": "3d ago"
-  },
-  {
-    "id": "b89b078450ed",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Qu Shawn Xiaohua exercised options for 4,582 shares of Canadian Solar Inc. (CSIQ) \u00b7 May 22 ($49 across all blocks)",
-    "tags": [
-      "Energy"
-    ],
-    "tickers": [
-      "CSIQ"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1389641/000110465926065862/0001104659-26-065862-index.htm",
-    "published_iso": "2026-05-23T01:39:36+00:00",
-    "time_ago": "3d ago"
-  },
-  {
-    "id": "eb06b5461df1",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Allen Dick exercised options for 8,759 shares of Tandem Diabetes Care Inc (TNDM) \u00b7 May 22",
-    "tags": [],
-    "tickers": [
-      "TNDM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1582779/000143813326000080/0001438133-26-000080-index.htm",
-    "published_iso": "2026-05-23T01:36:52+00:00",
-    "time_ago": "3d ago"
-  },
-  {
-    "id": "930e6e477801",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Venturo Brian M exercised options for 11,386 shares of Coreweave, Inc. (CRWV) \u00b7 May 22 ($8,363,967 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CRWV"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2058067/000176962826000246/0001769628-26-000246-index.htm",
-    "published_iso": "2026-05-23T01:28:48+00:00",
-    "time_ago": "3d ago"
-  },
-  {
-    "id": "8676d6a81ad6",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Mcveety Kristen J exercised options for 4,347 shares of Coreweave, Inc. (CRWV) \u00b7 May 22 ($382,610 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CRWV"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2058048/000176962826000245/0001769628-26-000245-index.htm",
-    "published_iso": "2026-05-23T01:26:56+00:00",
-    "time_ago": "3d ago"
-  },
-  {
-    "id": "979ceb8c2c61",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Mcbee Brannin exercised options for 8,037 shares of Coreweave, Inc. (CRWV) \u00b7 May 22 ($367,637 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CRWV"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2058103/000176962826000244/0001769628-26-000244-index.htm",
-    "published_iso": "2026-05-23T01:25:23+00:00",
-    "time_ago": "3d ago"
-  },
-  {
-    "id": "7756dc4473e6",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Jain Sachin exercised options for 8,037 shares of Coreweave, Inc. (CRWV) \u00b7 May 22 ($636,552 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CRWV"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2124855/000176962826000243/0001769628-26-000243-index.htm",
-    "published_iso": "2026-05-23T01:22:36+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "a543768920d6",
@@ -518,33 +422,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-wyden-grill-irs-on-outrageously-corrupt-trump-settlement-press-independent-watchdog-to-immediately-open-investigation",
     "published_iso": "2026-05-22T15:31:00+00:00",
-    "time_ago": "3d ago"
-  },
-  {
-    "id": "38cbb00c400d",
-    "politician": "Rep. Jim Jordan",
-    "initials": "JJ",
-    "role": "House Judiciary Committee Chair",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fca5a5"
-    },
-    "severity": "critical",
-    "content": "Democrats in Minnesota let this go on for years.  \n \nPresident Trump promised accountability, and he's delivering it with AAG McDonald! \n \n \n Alpha News (@AlphaNews) \n \n \ud83d\udea8WATCH: Assistant U.S. AG Colin McDonald says the fraud charges announced today \"include the highest loss amount ever charged in a Medicaid case in Mi",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/JudiciaryGOP/status/2057819339441443201#m",
-    "published_iso": "2026-05-22T13:42:17+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "aac8fc288b52",
@@ -665,27 +543,6 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260521a.htm",
     "published_iso": "2026-05-21T15:00:00+00:00",
-    "time_ago": "4d ago"
-  },
-  {
-    "id": "5d58e1bdc314",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "high",
-    "content": "America 250: Presidential Message on Amelia Earhart\u2019s Flight Across the Atlantic. Today, our Nation proudly celebrates the 94th anniversary of Amelia Earhart\u2019s first solo flight across the Atlantic Ocean\u2014an extraordinary achievement and testament to the bravery, ingenuity, and unyielding spirit that define the American",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/briefings-statements/2026/05/america-250-presidential-message-on-amelia-earharts-flight-across-the-atlantic/",
-    "published_iso": "2026-05-20T23:28:13+00:00",
     "time_ago": "5d ago"
   },
   {
@@ -819,7 +676,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-legalizing-premium-health-care-act/",
     "published_iso": "2026-05-20T15:26:37+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "032c7769e864",
@@ -870,7 +727,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/may/ustr-host-g20-trade-ministerial-milwaukee-wisconsin",
     "published_iso": "2026-05-19T10:03:10+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "0b58ed3f6b64",
@@ -969,7 +826,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "14d ago"
+    "time_ago": "15d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -995,7 +852,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "20d ago"
+    "time_ago": "21d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1017,7 +874,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "28d ago"
+    "time_ago": "29d ago"
   },
   {
     "id": "0047e3ab5b67",
@@ -1039,7 +896,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "35d ago"
+    "time_ago": "36d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1063,7 +920,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "56d ago"
+    "time_ago": "57d ago"
   },
   {
     "id": "d52e199aa058",
@@ -1104,7 +961,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "90d ago"
+    "time_ago": "91d ago"
   },
   {
     "id": "602146d3f751",
@@ -1147,7 +1004,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "101d ago"
+    "time_ago": "102d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1166,7 +1023,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "101d ago"
+    "time_ago": "102d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1233,7 +1090,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "160d ago"
+    "time_ago": "161d ago"
   },
   {
     "id": "e88c3c11d67a",
@@ -1255,6 +1112,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/983956",
     "published_iso": "2025-10-30T16:06:54+00:00",
-    "time_ago": "207d ago"
+    "time_ago": "208d ago"
   }
 ]
