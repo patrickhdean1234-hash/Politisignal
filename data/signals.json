@@ -1,6 +1,6 @@
 [
   {
-    "id": "8d5ff6568fc9",
+    "id": "223bacb10a45",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -8,312 +8,166 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "critical",
-    "content": "Niles Sabastian exercised options for 1,663 shares of Salesforce, Inc. (CRM) \u00b7 May 26 ($165,664 across all blocks)",
+    "severity": "medium",
+    "content": "Selig Allan H received 1,391 shares of Marcus Corp (MCS) \u00b7 $17.97/share \u00b7 $24,996 total \u00b7 May 26",
+    "tags": [],
+    "tickers": [
+      "MCS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1183319/000089706926001255/0000897069-26-001255-index.htm",
+    "published_iso": "2026-05-27T01:31:12+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "82225be06629",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Handler Richard B withheld (tax) 1,440,307 shares of Jefferies Financial Group Inc. (JEF) \u00b7 $52.43/share \u00b7 $75,515,296 total \u00b7 May 26",
     "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [
-      "CRM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1988207/000110852426000097/0001108524-26-000097-index.htm",
-    "published_iso": "2026-05-26T23:19:23+00:00",
-    "time_ago": "3m ago"
-  },
-  {
-    "id": "f49b8b8347bd",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Straw Edward M received 2,180 shares of Solana Co (HSDT) \u00b7 May 26",
-    "tags": [],
-    "tickers": [
-      "HSDT",
-      "SOL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1610853/000107538026000004/0001075380-26-000004-index.htm",
-    "published_iso": "2026-05-26T23:18:31+00:00",
-    "time_ago": "3m ago"
-  },
-  {
-    "id": "682878b58f60",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Francis Knuettel Ii disposed of 13,947 shares of Pelthos Therapeutics Inc. (PTHS) \u00b7 May 26 ($40,265 across all blocks)",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [
-      "PTHS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1919246/000191924626000081/0001919246-26-000081-index.htm",
-    "published_iso": "2026-05-26T23:17:24+00:00",
-    "time_ago": "5m ago"
-  },
-  {
-    "id": "3f998f42fef2",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Carano Bandel L received 7,550 shares of Nextnav Inc. (NXNVW) \u00b7 May 26",
-    "tags": [],
-    "tickers": [
-      "NXNVW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1865631/000155485526001165/0001554855-26-001165-index.htm",
-    "published_iso": "2026-05-26T23:16:49+00:00",
-    "time_ago": "5m ago"
-  },
-  {
-    "id": "86361ed9bb44",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Vaca-Torres Marcela received 2,812 shares of Geopark Ltd (GPRK) \u00b7 May 26",
-    "tags": [],
-    "tickers": [
-      "GPRK"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2122951/000095010326007740/0000950103-26-007740-index.htm",
-    "published_iso": "2026-05-26T23:16:44+00:00",
-    "time_ago": "5m ago"
-  },
-  {
-    "id": "db26a55dbee2",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Van Kirk Richard Lee Jr sold 1,918 shares of Pro Dex Inc (PDEX) \u00b7 $62.22/share \u00b7 $119,338 total \u00b7 May 26 ($626,248 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "PDEX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1575056/000107997326000736/0001079973-26-000736-index.htm",
-    "published_iso": "2026-05-26T23:16:18+00:00",
-    "time_ago": "6m ago"
-  },
-  {
-    "id": "0f54307b8246",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Walter Blane received 2,180 shares of Solana Co (HSDT) \u00b7 May 26",
-    "tags": [],
-    "tickers": [
-      "HSDT",
-      "SOL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1610853/000134055526000005/0001340555-26-000005-index.htm",
-    "published_iso": "2026-05-26T23:15:23+00:00",
-    "time_ago": "7m ago"
-  },
-  {
-    "id": "0718fc3cd3ea",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Papadimitriou Constantin received 2,812 shares of Geopark Ltd (GPRK) \u00b7 May 26",
-    "tags": [],
-    "tickers": [
-      "GPRK"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2122929/000095010326007739/0000950103-26-007739-index.htm",
-    "published_iso": "2026-05-26T23:14:30+00:00",
-    "time_ago": "8m ago"
-  },
-  {
-    "id": "9dc0a47ae6fd",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Marcus Jonathan Anthony received 7,550 shares of Nextnav Inc. (NXNVW) \u00b7 May 26",
-    "tags": [],
-    "tickers": [
-      "NXNVW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1865631/000155485526001164/0001554855-26-001164-index.htm",
-    "published_iso": "2026-05-26T23:13:40+00:00",
-    "time_ago": "8m ago"
-  },
-  {
-    "id": "ba9b98047716",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hook Lisa received 7,550 shares of Nextnav Inc. (NXNVW) \u00b7 May 26",
-    "tags": [],
-    "tickers": [
-      "NXNVW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1865631/000155485526001163/0001554855-26-001163-index.htm",
-    "published_iso": "2026-05-26T23:11:51+00:00",
-    "time_ago": "10m ago"
-  },
-  {
-    "id": "101b6f4d4a6c",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "DOE eyes using plutonium in nuclear fuel. {beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  DOE eyes using plutonium for nuclear power  The Energy Department may allow up to five companies to use its surplus plutonium, which has historically been used in nuclear warheads, as fuel. \u00a9 Te",
-    "tags": [
-      "Energy"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/5896231-doe-eyes-using-plutonium-in-nuclear-fuel/",
-    "published_iso": "2026-05-26T22:18:53+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "df35a1c65a53",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "House NDAA draft would limit Trump's troop cuts, battleship plans. A major defense policy bill released by House Republicans Tuesday looks to maintain limits on how many U.S. troops can be moved from Europe and South Korea and bars construction of the first \u201cTrump-class\u201d battleship until the Navy can prove it has the t",
-    "tags": [
-      "Defense",
-      "Regulation",
       "Taxes"
     ],
     "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
+      "JEF"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/defense/5896228-ndaa-house-trump-troops-battleship/",
-    "published_iso": "2026-05-26T22:06:53+00:00",
-    "time_ago": "1h ago"
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1211677/000121465926006750/0001214659-26-006750-index.htm",
+    "published_iso": "2026-05-27T01:31:02+00:00",
+    "time_ago": "just now"
   },
   {
-    "id": "42bc09e41fae",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "6bb8878d7c00",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Consumer confidence slips for first time in months. U.S. consumer confidence in May saw its first drop after three months of gains as Americans grapple with rising prices and inflation, both driven up by the U.S.-Israeli conflict in Iran, the\u00a0monthly consumer confidence index report said Tuesday. Confidence dipped 0.7 ",
-    "tags": [
-      "Big Tech",
-      "Taxes",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM",
-      "GLD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/5896053-may-consumer-confidence-decline/",
-    "published_iso": "2026-05-26T22:05:22+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "391e5ba48ae2",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "The AI IPO race. {beacon} Technology Technology &#8202; The Big Story  Tech titans face off in new front of AI race \u2014 IPOs Three of the world\u2019s leading AI companies are racing to go public, opening yet another front in the high-stakes competition over the technology. \u00a9 Adobe Stock SpaceX, OpenAI and Anthropic are all e",
+    "content": "Ramirez Austin M received 1,391 shares of Marcus Corp (MCS) \u00b7 $17.97/share \u00b7 $24,996 total \u00b7 May 26",
     "tags": [],
     "tickers": [
-      "MSFT",
-      "TSLA",
-      "ADBE"
+      "MCS"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/technology/5896173-the-ai-ipo-race/",
-    "published_iso": "2026-05-26T21:26:44+00:00",
-    "time_ago": "1h ago"
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1810993/000089706926001253/0000897069-26-001253-index.htm",
+    "published_iso": "2026-05-27T01:29:14+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "b2799377d7b9",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Olson Bruce J received 1,391 shares of Marcus Corp (MCS) \u00b7 $17.97/share \u00b7 $24,996 total \u00b7 May 26",
+    "tags": [],
+    "tickers": [
+      "MCS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1183313/000089706926001251/0000897069-26-001251-index.htm",
+    "published_iso": "2026-05-27T01:27:06+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "6be7fe7cd390",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Milstein Philip L received 1,391 shares of Marcus Corp (MCS) \u00b7 $17.97/share \u00b7 $24,996 total \u00b7 May 26",
+    "tags": [],
+    "tickers": [
+      "MCS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1195907/000089706926001249/0000897069-26-001249-index.htm",
+    "published_iso": "2026-05-27T01:25:06+00:00",
+    "time_ago": "6m ago"
+  },
+  {
+    "id": "5d0e85894338",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Leff Paul Adam received 1,391 shares of Marcus Corp (MCS) \u00b7 $17.97/share \u00b7 $24,996 total \u00b7 May 26",
+    "tags": [],
+    "tickers": [
+      "MCS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2079705/000089706926001247/0000897069-26-001247-index.htm",
+    "published_iso": "2026-05-27T01:22:45+00:00",
+    "time_ago": "8m ago"
+  },
+  {
+    "id": "3bfe27bd2532",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hoeksema Timothy E received 1,391 shares of Marcus Corp (MCS) \u00b7 $17.97/share \u00b7 $24,996 total \u00b7 May 26",
+    "tags": [],
+    "tickers": [
+      "MCS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1093035/000089706926001245/0000897069-26-001245-index.htm",
+    "published_iso": "2026-05-27T01:20:44+00:00",
+    "time_ago": "10m ago"
+  },
+  {
+    "id": "392c9eb64057",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Sawhill Stephanie received 689 shares of Karman Holdings Inc. (KRMN) \u00b7 May 26",
+    "tags": [],
+    "tickers": [
+      "KRMN"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2054244/000119312526240044/0001193125-26-240044-index.htm",
+    "published_iso": "2026-05-27T01:20:21+00:00",
+    "time_ago": "11m ago"
   },
   {
     "id": "a1e6af3705a6",
@@ -332,7 +186,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm",
     "published_iso": "2026-05-26T18:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "96ead14d275b",
@@ -355,7 +209,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/Jim_Jordan/status/2059273363344719903#m",
     "published_iso": "2026-05-26T14:00:03+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "259b65b652b2",
@@ -374,7 +228,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/26/C1-2026-08931/conforming-change-for-approving-a-making-application",
     "published_iso": "2026-05-26T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "5832daf773c3",
@@ -393,7 +247,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10423/security-zone-ohio-river-cincinnati-oh",
     "published_iso": "2026-05-26T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "9019cb5f6582",
@@ -412,7 +266,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10394/safety-zone-lake-michigan-milwaukee-wi",
     "published_iso": "2026-05-26T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "c5d6534fe112",
@@ -431,7 +285,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10393/safety-zones-annual-events-requiring-safety-zones-in-the-captain-of-the-port-lake-michigan-zone",
     "published_iso": "2026-05-26T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "36cd21e4a8d8",
@@ -453,7 +307,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10392/special-local-regulation-temporary-anchorage-ground-suspension-and-safety-and-security-zones-sail",
     "published_iso": "2026-05-26T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "6531acbf34c3",
@@ -472,7 +326,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10391/safety-zone-cape-charles-harbor-cape-charles-va",
     "published_iso": "2026-05-26T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "856d7c940080",
@@ -493,7 +347,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10390/safety-zones-fireworks-displays-in-the-uscg-east-district",
     "published_iso": "2026-05-26T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "d26d905a0fcc",
@@ -516,7 +370,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10387/phasedown-of-hydrofluorocarbons-reconsideration-of-certain-regulatory-requirements-promulgated-under",
     "published_iso": "2026-05-26T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "797915bf3392",
