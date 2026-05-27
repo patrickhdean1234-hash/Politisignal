@@ -1,24 +1,73 @@
 [
   {
-    "id": "03fcbf63a1bb",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "56ed22f8e30e",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Burke James J Jr sold 15,807 shares of Lincoln Educational Services Corp (LINC) \u00b7 $48.36/share \u00b7 $764,427 total \u00b7 May 27",
-    "tags": [],
-    "tickers": [
-      "LINC"
+    "content": "Rogan on Trump IRS audit immunity: 'That's nuts\u2019. Podcaster Joe Rogan on Monday criticized a portion of President Trump\u2019s recent settlement with the Internal Revenue Service (IRS) that shields the president, his family and businesses from existing tax audits, calling the addendum \u201cnuts.\u201d \u201cThat is so crazy,\u201d Rogan said ",
+    "tags": [
+      "Taxes"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1286613/000128661326000089/0001286613-26-000089-index.htm",
-    "published_iso": "2026-05-27T12:41:53+00:00",
-    "time_ago": "9m ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/media/5897331-joe-rogan-trump-irs-settlement/",
+    "published_iso": "2026-05-27T16:01:38+00:00",
+    "time_ago": "29m ago"
+  },
+  {
+    "id": "457c73030fa9",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "critical",
+    "content": "Biden-era IRS weaponized government to take-down prominent critic. \n \nIRS Emails Confirm Illegal Conspiracy to Destroy Innocent Bank as PR Stunt  piped.video/we8Kcnax8qI?si=tD2-\u2026  via  @YouTube",
+    "tags": [
+      "Banking",
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [
+      "GOOGL"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/RandPaul/status/2059661348598956077#m",
+    "published_iso": "2026-05-27T15:41:46+00:00",
+    "time_ago": "48m ago"
+  },
+  {
+    "id": "d32f87d3d9f4",
+    "politician": "U.S. Trade Rep.",
+    "initials": "USTR",
+    "role": "Office of the U.S. Trade Representative",
+    "color": {
+      "bg": "#1a0a1a",
+      "fg": "#d8b4fe"
+    },
+    "severity": "critical",
+    "content": "The United States and Mexico Announce Series of Bilateral Negotiating Rounds Related to the First Joint Review of the USMCA. The United States and Mexico Announce Series of Bilateral Negotiating Rounds Related to the First Joint Review of the USMCA \n  myarbrough  \n  Wed, 05/27/2026 - 09:31 \n \n\n               WASHINGTON",
+    "tags": [
+      "Trade",
+      "Agriculture",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "ustr",
+    "platform": "USTR",
+    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/may/united-states-and-mexico-announce-series-bilateral-negotiating-rounds-related-first-joint-review",
+    "published_iso": "2026-05-27T13:31:31+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "1daa818fc108",
@@ -37,7 +86,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/27/C1-2026-09849/event-data-recorders",
     "published_iso": "2026-05-27T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "cb426fa2cb72",
@@ -58,7 +107,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10543/control-of-communicable-diseases-foreign-quarantine",
     "published_iso": "2026-05-27T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "542495e954eb",
@@ -77,7 +126,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10529/regulatory-program-fees-and-water-charges-rates",
     "published_iso": "2026-05-27T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "a342d927afa9",
@@ -98,7 +147,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10492/security-zones-vessels-carrying-dangerous-cargo-corpus-christi-and-la-quinta-ship-channels-corpus",
     "published_iso": "2026-05-27T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "85e2ec4b7959",
@@ -117,7 +166,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10491/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c",
     "published_iso": "2026-05-27T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "120dd56799e2",
@@ -136,7 +185,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10490/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-05-27T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "b390222e45d7",
@@ -155,7 +204,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10488/airworthiness-directives-atr-gie-avions-de-transport-rgional-airplanes",
     "published_iso": "2026-05-27T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "a1e6af3705a6",
@@ -174,7 +223,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm",
     "published_iso": "2026-05-26T18:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "96ead14d275b",
@@ -197,7 +246,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/Jim_Jordan/status/2059273363344719903#m",
     "published_iso": "2026-05-26T14:00:03+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "797915bf3392",
@@ -223,33 +272,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mmotgyjbe22y",
     "published_iso": "2026-05-25T15:51:26.659000+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "ddb47986493c",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "Memorial Day cookout. Beach trip. Visit with family. \n  \nAll of it costs more this year.  \n  \nThat\u2019s not an accident.  \n  \nTrump\u2019s tariffs and war in Iran are driving up your costs.",
-    "tags": [
-      "Trade",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/SenWarren/status/2058938895161549312#m",
-    "published_iso": "2026-05-25T15:51:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "a543768920d6",
@@ -347,7 +370,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-wyden-grill-irs-on-outrageously-corrupt-trump-settlement-press-independent-watchdog-to-immediately-open-investigation",
     "published_iso": "2026-05-22T15:31:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "aac8fc288b52",
@@ -468,7 +491,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260521a.htm",
     "published_iso": "2026-05-21T15:00:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "292f00bece84",
@@ -601,7 +624,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-legalizing-premium-health-care-act/",
     "published_iso": "2026-05-20T15:26:37+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "032c7769e864",
@@ -725,7 +748,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "15d ago"
+    "time_ago": "16d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -751,7 +774,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "21d ago"
+    "time_ago": "22d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -773,7 +796,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "29d ago"
+    "time_ago": "30d ago"
   },
   {
     "id": "0047e3ab5b67",
@@ -795,7 +818,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "36d ago"
+    "time_ago": "37d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -819,7 +842,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "57d ago"
+    "time_ago": "58d ago"
   },
   {
     "id": "d52e199aa058",
@@ -860,7 +883,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "91d ago"
+    "time_ago": "92d ago"
   },
   {
     "id": "602146d3f751",
@@ -903,7 +926,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "102d ago"
+    "time_ago": "103d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -922,7 +945,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "102d ago"
+    "time_ago": "103d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -989,7 +1012,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "161d ago"
+    "time_ago": "162d ago"
   },
   {
     "id": "e88c3c11d67a",
@@ -1011,6 +1034,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/983956",
     "published_iso": "2025-10-30T16:06:54+00:00",
-    "time_ago": "208d ago"
+    "time_ago": "209d ago"
   }
 ]
