@@ -1,6 +1,49 @@
 [
   {
-    "id": "56ed22f8e30e",
+    "id": "dabefbb014ae",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Gupta Vikram sold 692 shares of Synaptics Inc (SYNA) \u00b7 $147.50/share \u00b7 $102,070 total \u00b7 May 27",
+    "tags": [],
+    "tickers": [
+      "SYNA"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1984784/000198478426000018/0001984784-26-000018-index.htm",
+    "published_iso": "2026-05-27T18:38:08+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "597c5da983df",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "high",
+    "content": "Powering America\u2019s Future: President Trump\u2019s Policies Fuel Demand for Skilled American Workers. As President Donald J. Trump\u2019s America First agenda fuels a blue-collar resurgence, American workers are back in demand \u2014 and a new generation is answering the call. The Shift Is Already Underway A seismic shift from years p",
+    "tags": [
+      "Trade",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/05/powering-americas-future-president-trumps-policies-fuel-historic-demand-for-skilled-american-workers/",
+    "published_iso": "2026-05-27T18:01:52+00:00",
+    "time_ago": "38m ago"
+  },
+  {
+    "id": "3903b96824e8",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,16 +52,69 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Rogan on Trump IRS audit immunity: 'That's nuts\u2019. Podcaster Joe Rogan on Monday criticized a portion of President Trump\u2019s recent settlement with the Internal Revenue Service (IRS) that shields the president, his family and businesses from existing tax audits, calling the addendum \u201cnuts.\u201d \u201cThat is so crazy,\u201d Rogan said ",
+    "content": "VA studying MDMA as treatment for veterans' PTSD. The Department of Veterans Affairs on Tuesday said it was launching a trial review on the safety and efficacy of methylenedioxymethamphetamine, or MDMA, assisted therapy for post-traumatic stress disorder (PTSD). The study will also focus on the impact of MDMA usage for",
     "tags": [
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/media/5897331-joe-rogan-trump-irs-settlement/",
-    "published_iso": "2026-05-27T16:01:38+00:00",
-    "time_ago": "29m ago"
+    "url": "https://thehill.com/policy/healthcare/5897490-va-launches-mdma-trial/",
+    "published_iso": "2026-05-27T18:01:33+00:00",
+    "time_ago": "39m ago"
+  },
+  {
+    "id": "55cf7650f1f8",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Food insecurity increase for many Americans 'remarkable': NY Fed. An increasing number of American households have struggled to afford enough food since 2020 because of rising economic strains, according to an analysis released by the Federal Reserve Bank of New York on Wednesday.\u00a0 \u201cWe find a remarkable increase in foo",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/personal-finance/5897598-food-insecurity-new-york-fed/",
+    "published_iso": "2026-05-27T17:22:01+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "d8b9833ff0ea",
+    "politician": "Rep. Mike Johnson",
+    "initials": "MJ",
+    "role": "Speaker of the House",
+    "color": {
+      "bg": "#2a1a1a",
+      "fg": "#fbbf24"
+    },
+    "severity": "critical",
+    "content": "Promises made. Promises kept.  \n \nRepublicans are rooting out waste, fraud, and abuse of taxpayer dollars \u2014 and fighting for the American families who have been forced to foot the bill for too long. \n \n \n The White House (@WhiteHouse) \n \n Crushing BILLIONS of dollars in medicare, hospice, childcare and many more types ",
+    "tags": [
+      "Healthcare",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SpeakerJohnson/status/2059677384601694437#m",
+    "published_iso": "2026-05-27T16:45:30+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "457c73030fa9",
@@ -43,7 +139,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2059661348598956077#m",
     "published_iso": "2026-05-27T15:41:46+00:00",
-    "time_ago": "48m ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "d32f87d3d9f4",
@@ -67,7 +163,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/may/united-states-and-mexico-announce-series-bilateral-negotiating-rounds-related-first-joint-review",
     "published_iso": "2026-05-27T13:31:31+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "1daa818fc108",
@@ -86,7 +182,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/27/C1-2026-09849/event-data-recorders",
     "published_iso": "2026-05-27T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "cb426fa2cb72",
@@ -107,7 +203,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10543/control-of-communicable-diseases-foreign-quarantine",
     "published_iso": "2026-05-27T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "542495e954eb",
@@ -126,7 +222,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10529/regulatory-program-fees-and-water-charges-rates",
     "published_iso": "2026-05-27T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "a342d927afa9",
@@ -147,7 +243,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10492/security-zones-vessels-carrying-dangerous-cargo-corpus-christi-and-la-quinta-ship-channels-corpus",
     "published_iso": "2026-05-27T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "85e2ec4b7959",
@@ -166,7 +262,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10491/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c",
     "published_iso": "2026-05-27T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "120dd56799e2",
@@ -185,7 +281,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10490/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-05-27T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "b390222e45d7",
@@ -204,7 +300,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10488/airworthiness-directives-atr-gie-avions-de-transport-rgional-airplanes",
     "published_iso": "2026-05-27T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "a1e6af3705a6",
@@ -223,29 +319,6 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm",
     "published_iso": "2026-05-26T18:00:00+00:00",
-    "time_ago": "22h ago"
-  },
-  {
-    "id": "96ead14d275b",
-    "politician": "Rep. Jim Jordan",
-    "initials": "JJ",
-    "role": "House Judiciary Committee Chair",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fca5a5"
-    },
-    "severity": "medium",
-    "content": "Arrest Medicaid fraudsters. \n \nDeport criminal aliens. \n \nEnd sanctuary cities. \n \nSimple as that.",
-    "tags": [],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/Jim_Jordan/status/2059273363344719903#m",
-    "published_iso": "2026-05-26T14:00:03+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -598,7 +671,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm",
     "published_iso": "2026-05-20T18:00:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "072d30de1b17",
@@ -971,7 +1044,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "124d ago"
+    "time_ago": "125d ago"
   },
   {
     "id": "d39ac85b9cc9",
