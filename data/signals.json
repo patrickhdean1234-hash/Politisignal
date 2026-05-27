@@ -1,6 +1,6 @@
 [
   {
-    "id": "dabefbb014ae",
+    "id": "33b43e2080ac",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,16 +9,119 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Gupta Vikram sold 692 shares of Synaptics Inc (SYNA) \u00b7 $147.50/share \u00b7 $102,070 total \u00b7 May 27",
+    "content": "Raber Ryan F sold 20,000 shares of Mayville Engineering Company, Inc. (MEC) \u00b7 $26.00/share \u00b7 $520,000 total \u00b7 May 27",
     "tags": [],
     "tickers": [
-      "SYNA"
+      "MEC"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1984784/000198478426000018/0001984784-26-000018-index.htm",
-    "published_iso": "2026-05-27T18:38:08+00:00",
-    "time_ago": "2m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1775978/000089706926001261/0000897069-26-001261-index.htm",
+    "published_iso": "2026-05-27T20:53:12+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "8554908cec5f",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Bianchi Francesco sold 1,800 shares of Livanova Plc (LIVN) \u00b7 $75.75/share \u00b7 $136,350 total \u00b7 May 27",
+    "tags": [],
+    "tickers": [
+      "LIVN"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1656080/000163969126000040/0001639691-26-000040-index.htm",
+    "published_iso": "2026-05-27T20:51:27+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "07b91a260dbe",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Kahn Todd exercised options for 57,286 shares of Tapestry, Inc. (TPR) \u00b7 $42.31/share \u00b7 $2,423,771 total \u00b7 May 27 ($10,444,956 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "TPR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1424688/000122520826005608/0001225208-26-005608-index.htm",
+    "published_iso": "2026-05-27T20:50:51+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "6ef321448ae4",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Robbins Charles sold 500 shares of Cisco Systems, Inc. (CSCO) \u00b7 $118.48/share \u00b7 $59,242 total \u00b7 May 27 ($2,568,584 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "CSCO"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1559655/000085887726000092/0000858877-26-000092-index.htm",
+    "published_iso": "2026-05-27T20:50:33+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "ece78c5d021f",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Latino voters souring on Trump, not warm toward Dems: Poll. President Trump has fallen out of favor with many Latino voters, but they are not incredibly warm toward Democrats in turn, according to a new poll. In the UnidosUS poll, first shared with CBS News, 57 percent of respondents said they backed former Vice Presid",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/5898163-latino-voters-poll-results/",
+    "published_iso": "2026-05-27T20:38:51+00:00",
+    "time_ago": "15m ago"
+  },
+  {
+    "id": "6f4a61c96b92",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Puerto Rico governor announces state of emergency to fight coastal erosion. Puerto Rico Gov. Jenniffer Gonz\u00e1lez-Col\u00f3n declared a state of emergency Wednesday over coastal erosion on the island\u2019s northern coast.\u00a0 Gonz\u00e1lez-Col\u00f3n signed an executive order that states coastal erosion has \u201caccelerated\u201d in Puerto Rico becaus",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/energy-environment/5898135-puerto-rico-coastal-erosion-emergency/",
+    "published_iso": "2026-05-27T20:21:30+00:00",
+    "time_ago": "33m ago"
   },
   {
     "id": "597c5da983df",
@@ -40,54 +143,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/05/powering-americas-future-president-trumps-policies-fuel-historic-demand-for-skilled-american-workers/",
     "published_iso": "2026-05-27T18:01:52+00:00",
-    "time_ago": "38m ago"
-  },
-  {
-    "id": "3903b96824e8",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "VA studying MDMA as treatment for veterans' PTSD. The Department of Veterans Affairs on Tuesday said it was launching a trial review on the safety and efficacy of methylenedioxymethamphetamine, or MDMA, assisted therapy for post-traumatic stress disorder (PTSD). The study will also focus on the impact of MDMA usage for",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/healthcare/5897490-va-launches-mdma-trial/",
-    "published_iso": "2026-05-27T18:01:33+00:00",
-    "time_ago": "39m ago"
-  },
-  {
-    "id": "55cf7650f1f8",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Food insecurity increase for many Americans 'remarkable': NY Fed. An increasing number of American households have struggled to afford enough food since 2020 because of rising economic strains, according to an analysis released by the Federal Reserve Bank of New York on Wednesday.\u00a0 \u201cWe find a remarkable increase in foo",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/personal-finance/5897598-food-insecurity-new-york-fed/",
-    "published_iso": "2026-05-27T17:22:01+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "d8b9833ff0ea",
@@ -114,7 +170,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2059677384601694437#m",
     "published_iso": "2026-05-27T16:45:30+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "457c73030fa9",
@@ -139,7 +195,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2059661348598956077#m",
     "published_iso": "2026-05-27T15:41:46+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "d32f87d3d9f4",
@@ -163,7 +219,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/may/united-states-and-mexico-announce-series-bilateral-negotiating-rounds-related-first-joint-review",
     "published_iso": "2026-05-27T13:31:31+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "1daa818fc108",
@@ -182,7 +238,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/27/C1-2026-09849/event-data-recorders",
     "published_iso": "2026-05-27T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "cb426fa2cb72",
@@ -203,7 +259,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10543/control-of-communicable-diseases-foreign-quarantine",
     "published_iso": "2026-05-27T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "542495e954eb",
@@ -222,7 +278,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10529/regulatory-program-fees-and-water-charges-rates",
     "published_iso": "2026-05-27T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "a342d927afa9",
@@ -243,7 +299,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10492/security-zones-vessels-carrying-dangerous-cargo-corpus-christi-and-la-quinta-ship-channels-corpus",
     "published_iso": "2026-05-27T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "85e2ec4b7959",
@@ -262,7 +318,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10491/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c",
     "published_iso": "2026-05-27T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "120dd56799e2",
@@ -281,7 +337,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10490/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-05-27T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "b390222e45d7",
@@ -300,7 +356,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10488/airworthiness-directives-atr-gie-avions-de-transport-rgional-airplanes",
     "published_iso": "2026-05-27T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "a1e6af3705a6",
@@ -320,32 +376,6 @@
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm",
     "published_iso": "2026-05-26T18:00:00+00:00",
     "time_ago": "1d ago"
-  },
-  {
-    "id": "797915bf3392",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "Memorial Day cookout. Beach trip. Visit with family.\n \nAll of it costs more this year. \n \nThat\u2019s not an accident. \n \nTrump\u2019s tariffs and war in Iran are driving up your costs.",
-    "tags": [
-      "Trade",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mmotgyjbe22y",
-    "published_iso": "2026-05-25T15:51:26.659000+00:00",
-    "time_ago": "2d ago"
   },
   {
     "id": "a543768920d6",
@@ -370,7 +400,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/TeamAOC/status/2057922430568468580#m",
     "published_iso": "2026-05-22T20:31:56+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "07ab4044a288",
@@ -396,7 +426,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260522a.htm",
     "published_iso": "2026-05-22T20:15:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "ee13b7f3bdd8",
@@ -422,7 +452,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260522a.htm",
     "published_iso": "2026-05-22T20:00:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "0b04754d0cdd",
@@ -652,7 +682,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260520a.htm",
     "published_iso": "2026-05-20T20:00:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "d61054dd074f",
@@ -800,7 +830,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm",
     "published_iso": "2026-05-15T20:30:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -934,7 +964,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "62d ago"
+    "time_ago": "63d ago"
   },
   {
     "id": "782af70b6ebe",
@@ -978,7 +1008,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-announces-2026-service-academy-nominations/",
     "published_iso": "2026-02-18T19:38:51+00:00",
-    "time_ago": "97d ago"
+    "time_ago": "98d ago"
   },
   {
     "id": "00f579ee8f55",
