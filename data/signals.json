@@ -1,6 +1,6 @@
 [
   {
-    "id": "9642cd4392c0",
+    "id": "93d885ba93d6",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,63 +9,40 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Gabel Daniel G. withheld (tax) 1,613 shares of One Stop Systems, Inc. (OSS) \u00b7 $15.68/share \u00b7 $25,292 total \u00b7 May 28",
+    "content": "Edwards Barbara Joanne sold 558 shares of Standex International Corp/De/ (SXI) \u00b7 $274.81/share \u00b7 $153,344 total \u00b7 May 28",
+    "tags": [],
+    "tickers": [
+      "SXI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1757393/000031035426000030/0000310354-26-000030-index.htm",
+    "published_iso": "2026-05-28T19:25:20+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "3322cde22a75",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Jimmy Kimmel goes on anti-Spencer Pratt rant: 'Mayor should not be your first job'. Late-night host Jimmy Kimmel went after Los Angeles mayoral candidate Spencer Pratt (R) on his show Wednesday. \u201cNow, the difference between Donald Trump and this guy, is Donald Trump actually had a job before he was on a reality show. H",
     "tags": [
       "Taxes"
     ],
-    "tickers": [
-      "OSS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2044400/000119312526243825/0001193125-26-243825-index.htm",
-    "published_iso": "2026-05-28T16:46:08+00:00",
-    "time_ago": "1m ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/blogs/in-the-know/5899837-kimmel-attacks-pratt-mayor-race/",
+    "published_iso": "2026-05-28T18:32:07+00:00",
+    "time_ago": "57m ago"
   },
   {
-    "id": "b930f710a96d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Ting Hock Ming sold 17,200 shares of Trio-Tech International (TRT) \u00b7 $16.65/share \u00b7 $286,380 total \u00b7 May 28",
-    "tags": [],
-    "tickers": [
-      "TRT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1247601/000143774926018705/0001437749-26-018705-index.htm",
-    "published_iso": "2026-05-28T16:45:16+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "fc9a2f4f434a",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Otto Robert P sold 4,109 shares of Black Hills Corp /Sd/ (BKH) \u00b7 $74.22/share \u00b7 $304,970 total \u00b7 May 28",
-    "tags": [],
-    "tickers": [
-      "BKH"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1693863/000113046426000067/0001130464-26-000067-index.htm",
-    "published_iso": "2026-05-28T16:44:48+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "d376e32bfd0f",
+    "id": "92087e4af0a4",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -74,19 +51,42 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Duffy announces $465M grant for Union Station repairs. Transportation Secretary Sean Duffy on Thursday said the Trump administration would use a more than $400 million grant to upgrade Washington Union Station after restoring federal control of the facility last year.\u00a0 \u201cIn our effort to follow the president's call to m",
+    "content": "Southern Democratic leaders say South Carolina should hold first primary in 2028. A group of Democratic leaders from Southern states advocated Thursday for South Carolina voters to cast the first ballots in the next presidential primaries. The Democratic Party chairs from Alabama, Mississippi, Louisiana, Arkansas and W",
     "tags": [
+      "Regulation",
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5899527-sean-duffy-trump-admin-union-station-repairs-grant/",
-    "published_iso": "2026-05-28T16:24:28+00:00",
-    "time_ago": "23m ago"
+    "url": "https://thehill.com/homenews/campaign/5899800-southern-states-democrats-2028-primaries-south-carolina/",
+    "published_iso": "2026-05-28T18:29:17+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "4cf4097a4c57",
+    "id": "484914ef989f",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "critical",
+    "content": "Congressional Bill H.R. 3497 Signed into Law. On Thursday, May 28, 2026, the President signed into law: H.R. 3497, the &#8220;Medal of Sacrifice Act of 2025,&#8221; which establishes the Medal of Sacrifice to honor certain eligible law enforcement officers and first responders who are killed in the line of duty. \n The ",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/05/congressional-bill-h-r-3497-signed-into-law/",
+    "published_iso": "2026-05-28T18:23:43+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "51b97ec36f40",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -94,44 +94,17 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "If anyone deserves a tax cut in America, it's the working class. The Working Americans\u2019 Tax Cut Act is based on the simple idea that workers should be able to pay for daily essentials before they are taxed",
+    "severity": "critical",
+    "content": "Springsteen calls Trump \u2018racist\u2019 and \u2018treasonous\u2019 at DC show. WASHINGTON, D.C. \u2014 Bruce Springsteen came to the nation\u2019s capital and blasted its most prominent resident late Wednesday during a three-hour show at the city\u2019s baseball stadium. Springsteen, a fervent critic of President Trump, set the tone from the start. H",
     "tags": [
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/congress-blog/economy-budget/5895933-working-class-tax-cut-act/",
-    "published_iso": "2026-05-28T16:00:00+00:00",
-    "time_ago": "47m ago"
-  },
-  {
-    "id": "1e6f9080dba3",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Trump refiles $10B defamation lawsuit over Jeffrey Epstein birthday card. President Trump on Wednesday refiled his $10 billion lawsuit against Dow Jones &#38; Company, the publisher of The Wall Street Journal, for an article covering a birthday letter to the convicted sex offender Jeffrey Epstein.\u00a0 A federal judge dism",
-    "tags": [
-      "Banking",
-      "Regulation"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5899382-trump-sues-dow-jones-epstein/",
-    "published_iso": "2026-05-28T15:59:47+00:00",
-    "time_ago": "47m ago"
+    "url": "https://thehill.com/homenews/5899781-bruce-springsteen-donald-trump-concert-dc/",
+    "published_iso": "2026-05-28T18:12:45+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "cb28de6b473b",
@@ -157,7 +130,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260528a.htm",
     "published_iso": "2026-05-28T15:00:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "329b08852515",
@@ -180,7 +153,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mmw5yvyqm22q",
     "published_iso": "2026-05-28T13:49:03.592000+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "646e737f599d",
@@ -202,7 +175,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10621/medical-devices-gastroenterology-urology-devices-classification-of-the-endoscopic-suturing-device",
     "published_iso": "2026-05-28T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "ef2e083a69c4",
@@ -223,7 +196,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10612/special-local-regulation-sail-grand-prix-upper-bay-new-york-city-ny",
     "published_iso": "2026-05-28T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "7c3f30cafa63",
@@ -242,7 +215,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10606/airworthiness-directives-honda-aircraft-company-llc-airplanes",
     "published_iso": "2026-05-28T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "47bc56fc4fb5",
@@ -265,7 +238,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10600/standards-for-business-practices-of-interstate-natural-gas-pipelines",
     "published_iso": "2026-05-28T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "c1af591e6c11",
@@ -286,7 +259,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10597/special-local-regulations-marine-events-within-the-sector-columbia-river-captain-of-the-port-zone",
     "published_iso": "2026-05-28T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "0c7dd248eec4",
@@ -307,7 +280,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10596/safety-zone-annual-fireworks-displays-within-the-sector-columbia-river-captain-of-the-port-zone",
     "published_iso": "2026-05-28T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "669f947047e9",
@@ -326,7 +299,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10594/airworthiness-directives-rolls-royce-deutschland-ltd-and-co-kg",
     "published_iso": "2026-05-28T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "a8469ff7a713",
@@ -348,7 +321,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10588/safety-zone-atlantic-ocean-atlantic-city-nj",
     "published_iso": "2026-05-28T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "dda7a1ba2e7a",
@@ -369,7 +342,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/05/27/jill-biden-joe-biden-debate-reaction-00938943",
     "published_iso": "2026-05-27T20:54:53+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "597c5da983df",
@@ -391,7 +364,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/05/powering-americas-future-president-trumps-policies-fuel-historic-demand-for-skilled-american-workers/",
     "published_iso": "2026-05-27T18:01:52+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "d8b9833ff0ea",
@@ -461,7 +434,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm",
     "published_iso": "2026-05-26T18:00:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "a543768920d6",
@@ -539,27 +512,6 @@
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260522a.htm",
     "published_iso": "2026-05-22T20:00:00+00:00",
     "time_ago": "5d ago"
-  },
-  {
-    "id": "0b04754d0cdd",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "Warren, Wyden Grill IRS on \"Outrageously Corrupt\" Trump Settlement, Press Independent Watchdog to Immediately Open Investigation. Warren, Wyden Grill IRS on \"Outrageously Corrupt\" Trump Settlement, Press Independent Watchdog to Immediately Open Investigation",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-wyden-grill-irs-on-outrageously-corrupt-trump-settlement-press-independent-watchdog-to-immediately-open-investigation",
-    "published_iso": "2026-05-22T15:31:00+00:00",
-    "time_ago": "6d ago"
   },
   {
     "id": "aac8fc288b52",
@@ -787,7 +739,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm",
     "published_iso": "2026-05-20T18:00:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "072d30de1b17",
@@ -1024,7 +976,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "63d ago"
+    "time_ago": "64d ago"
   },
   {
     "id": "782af70b6ebe",
@@ -1134,7 +1086,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "125d ago"
+    "time_ago": "126d ago"
   },
   {
     "id": "d39ac85b9cc9",
