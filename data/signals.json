@@ -1,6 +1,6 @@
 [
   {
-    "id": "aafe12db5287",
+    "id": "9642cd4392c0",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,16 +9,178 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Cherry Thomas F sold 500 shares of C & F Financial Corp (CFFI) \u00b7 $75.00/share \u00b7 $37,500 total \u00b7 May 28",
-    "tags": [],
+    "content": "Gabel Daniel G. withheld (tax) 1,613 shares of One Stop Systems, Inc. (OSS) \u00b7 $15.68/share \u00b7 $25,292 total \u00b7 May 28",
+    "tags": [
+      "Taxes"
+    ],
     "tickers": [
-      "CFFI"
+      "OSS"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1200512/000120051226000008/0001200512-26-000008-index.htm",
-    "published_iso": "2026-05-28T12:50:01+00:00",
-    "time_ago": "3m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2044400/000119312526243825/0001193125-26-243825-index.htm",
+    "published_iso": "2026-05-28T16:46:08+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "b930f710a96d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ting Hock Ming sold 17,200 shares of Trio-Tech International (TRT) \u00b7 $16.65/share \u00b7 $286,380 total \u00b7 May 28",
+    "tags": [],
+    "tickers": [
+      "TRT"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1247601/000143774926018705/0001437749-26-018705-index.htm",
+    "published_iso": "2026-05-28T16:45:16+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "fc9a2f4f434a",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Otto Robert P sold 4,109 shares of Black Hills Corp /Sd/ (BKH) \u00b7 $74.22/share \u00b7 $304,970 total \u00b7 May 28",
+    "tags": [],
+    "tickers": [
+      "BKH"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1693863/000113046426000067/0001130464-26-000067-index.htm",
+    "published_iso": "2026-05-28T16:44:48+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "d376e32bfd0f",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Duffy announces $465M grant for Union Station repairs. Transportation Secretary Sean Duffy on Thursday said the Trump administration would use a more than $400 million grant to upgrade Washington Union Station after restoring federal control of the facility last year.\u00a0 \u201cIn our effort to follow the president's call to m",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5899527-sean-duffy-trump-admin-union-station-repairs-grant/",
+    "published_iso": "2026-05-28T16:24:28+00:00",
+    "time_ago": "23m ago"
+  },
+  {
+    "id": "4cf4097a4c57",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "If anyone deserves a tax cut in America, it's the working class. The Working Americans\u2019 Tax Cut Act is based on the simple idea that workers should be able to pay for daily essentials before they are taxed",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/congress-blog/economy-budget/5895933-working-class-tax-cut-act/",
+    "published_iso": "2026-05-28T16:00:00+00:00",
+    "time_ago": "47m ago"
+  },
+  {
+    "id": "1e6f9080dba3",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Trump refiles $10B defamation lawsuit over Jeffrey Epstein birthday card. President Trump on Wednesday refiled his $10 billion lawsuit against Dow Jones &#38; Company, the publisher of The Wall Street Journal, for an article covering a birthday letter to the convicted sex offender Jeffrey Epstein.\u00a0 A federal judge dism",
+    "tags": [
+      "Banking",
+      "Regulation"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5899382-trump-sues-dow-jones-epstein/",
+    "published_iso": "2026-05-28T15:59:47+00:00",
+    "time_ago": "47m ago"
+  },
+  {
+    "id": "cb28de6b473b",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board issues enforcement actions with former employee of Atlantic Union Bank and former employee of Frost Bank. Federal Reserve Board issues enforcement actions with former employee of Atlantic Union Bank and former employee of Frost Bank",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260528a.htm",
+    "published_iso": "2026-05-28T15:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "329b08852515",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Today\u2019s numbers tell the story: families are paying more for gas, food, and housing and utilities.\n\nDonald Trump promised to lower costs \u2018on day one,' but instead inflation is running ahead of wages as his failed economic agenda hollows out Americans\u2019 paychecks.",
+    "tags": [],
+    "tickers": [
+      "GLD",
+      "TLT",
+      "SPY"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mmw5yvyqm22q",
+    "published_iso": "2026-05-28T13:49:03.592000+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "646e737f599d",
@@ -40,7 +202,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10621/medical-devices-gastroenterology-urology-devices-classification-of-the-endoscopic-suturing-device",
     "published_iso": "2026-05-28T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "ef2e083a69c4",
@@ -61,7 +223,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10612/special-local-regulation-sail-grand-prix-upper-bay-new-york-city-ny",
     "published_iso": "2026-05-28T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "7c3f30cafa63",
@@ -80,7 +242,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10606/airworthiness-directives-honda-aircraft-company-llc-airplanes",
     "published_iso": "2026-05-28T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "47bc56fc4fb5",
@@ -103,7 +265,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10600/standards-for-business-practices-of-interstate-natural-gas-pipelines",
     "published_iso": "2026-05-28T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "c1af591e6c11",
@@ -124,7 +286,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10597/special-local-regulations-marine-events-within-the-sector-columbia-river-captain-of-the-port-zone",
     "published_iso": "2026-05-28T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "0c7dd248eec4",
@@ -145,7 +307,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10596/safety-zone-annual-fireworks-displays-within-the-sector-columbia-river-captain-of-the-port-zone",
     "published_iso": "2026-05-28T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "669f947047e9",
@@ -164,7 +326,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10594/airworthiness-directives-rolls-royce-deutschland-ltd-and-co-kg",
     "published_iso": "2026-05-28T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "a8469ff7a713",
@@ -186,7 +348,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10588/safety-zone-atlantic-ocean-atlantic-city-nj",
     "published_iso": "2026-05-28T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "dda7a1ba2e7a",
@@ -207,7 +369,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/05/27/jill-biden-joe-biden-debate-reaction-00938943",
     "published_iso": "2026-05-27T20:54:53+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "597c5da983df",
@@ -229,7 +391,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/05/powering-americas-future-president-trumps-policies-fuel-historic-demand-for-skilled-american-workers/",
     "published_iso": "2026-05-27T18:01:52+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "d8b9833ff0ea",
@@ -256,7 +418,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2059677384601694437#m",
     "published_iso": "2026-05-27T16:45:30+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "d32f87d3d9f4",
@@ -280,7 +442,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/may/united-states-and-mexico-announce-series-bilateral-negotiating-rounds-related-first-joint-review",
     "published_iso": "2026-05-27T13:31:31+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "a1e6af3705a6",
@@ -397,7 +559,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-wyden-grill-irs-on-outrageously-corrupt-trump-settlement-press-independent-watchdog-to-immediately-open-investigation",
     "published_iso": "2026-05-22T15:31:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "aac8fc288b52",
@@ -518,7 +680,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260521a.htm",
     "published_iso": "2026-05-21T15:00:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "292f00bece84",
@@ -651,7 +813,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-legalizing-premium-health-care-act/",
     "published_iso": "2026-05-20T15:26:37+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "032c7769e864",
@@ -731,32 +893,6 @@
     "time_ago": "12d ago"
   },
   {
-    "id": "adfb08970c93",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "high",
-    "content": "Federal Reserve Board announces approval of application by the Stephen M. Calk 2025 Trust. Federal Reserve Board announces approval of application by the Stephen M. Calk 2025 Trust",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm",
-    "published_iso": "2026-05-15T20:30:00+00:00",
-    "time_ago": "12d ago"
-  },
-  {
     "id": "79faa09fe8f6",
     "politician": "U.S. Treasury",
     "initials": "TRS",
@@ -775,7 +911,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "16d ago"
+    "time_ago": "17d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -801,7 +937,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "22d ago"
+    "time_ago": "23d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -823,7 +959,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "30d ago"
+    "time_ago": "31d ago"
   },
   {
     "id": "0047e3ab5b67",
@@ -845,7 +981,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "37d ago"
+    "time_ago": "38d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -869,7 +1005,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "58d ago"
+    "time_ago": "59d ago"
   },
   {
     "id": "d52e199aa058",
@@ -910,7 +1046,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "92d ago"
+    "time_ago": "93d ago"
   },
   {
     "id": "602146d3f751",
@@ -953,7 +1089,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "103d ago"
+    "time_ago": "104d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -972,7 +1108,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "103d ago"
+    "time_ago": "104d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1039,7 +1175,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "162d ago"
+    "time_ago": "163d ago"
   },
   {
     "id": "e88c3c11d67a",
@@ -1061,6 +1197,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/983956",
     "published_iso": "2025-10-30T16:06:54+00:00",
-    "time_ago": "209d ago"
+    "time_ago": "210d ago"
   }
 ]
