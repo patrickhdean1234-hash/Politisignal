@@ -1,5 +1,26 @@
 [
   {
+    "id": "aafe12db5287",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Cherry Thomas F sold 500 shares of C & F Financial Corp (CFFI) \u00b7 $75.00/share \u00b7 $37,500 total \u00b7 May 28",
+    "tags": [],
+    "tickers": [
+      "CFFI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1200512/000120051226000008/0001200512-26-000008-index.htm",
+    "published_iso": "2026-05-28T12:50:01+00:00",
+    "time_ago": "3m ago"
+  },
+  {
     "id": "646e737f599d",
     "politician": "Federal Register",
     "initials": "FR",
@@ -19,7 +40,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10621/medical-devices-gastroenterology-urology-devices-classification-of-the-endoscopic-suturing-device",
     "published_iso": "2026-05-28T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "ef2e083a69c4",
@@ -40,7 +61,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10612/special-local-regulation-sail-grand-prix-upper-bay-new-york-city-ny",
     "published_iso": "2026-05-28T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "7c3f30cafa63",
@@ -59,7 +80,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10606/airworthiness-directives-honda-aircraft-company-llc-airplanes",
     "published_iso": "2026-05-28T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "47bc56fc4fb5",
@@ -82,7 +103,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10600/standards-for-business-practices-of-interstate-natural-gas-pipelines",
     "published_iso": "2026-05-28T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "c1af591e6c11",
@@ -103,7 +124,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10597/special-local-regulations-marine-events-within-the-sector-columbia-river-captain-of-the-port-zone",
     "published_iso": "2026-05-28T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "0c7dd248eec4",
@@ -124,7 +145,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10596/safety-zone-annual-fireworks-displays-within-the-sector-columbia-river-captain-of-the-port-zone",
     "published_iso": "2026-05-28T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "669f947047e9",
@@ -143,7 +164,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10594/airworthiness-directives-rolls-royce-deutschland-ltd-and-co-kg",
     "published_iso": "2026-05-28T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "a8469ff7a713",
@@ -165,304 +186,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10588/safety-zone-atlantic-ocean-atlantic-city-nj",
     "published_iso": "2026-05-28T04:00:00+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "9bfa1fda5f37",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Google employee charged with insider trading on Polymarket. Federal prosecutors on Wednesday charged a Google employee with insider trading on Polymarket.  In a seven-page complaint filed in federal court in the Southern District of New York (SNDY), the Department of Justice (DOJ) alleged that 36-year-old Michele Spagn",
-    "tags": [
-      "Big Tech"
-    ],
-    "tickers": [
-      "GOOGL"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/5898642-google-employee-insider-trading/",
-    "published_iso": "2026-05-28T03:13:01+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "1429a1dd1ad5",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "DOJ launches investigation into Trump accuser E. Jean Carroll: Reports. The Department of Justice (DOJ) has reportedly launched a criminal investigation into E. Jean Carroll, who accused President Trump of sexual assault, according to multiple reports. CNN was the first to report Wednesday night that the DOJ\u2019s probe fo",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/regulation/court-battles/5898599-carroll-trump-defamation-probe-doj/",
-    "published_iso": "2026-05-28T02:32:17+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "5967c44ec3d0",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Wheeler Simon exercised options for 937 shares of Trupanion, Inc. (TRUP) \u00b7 May 27 ($22,336 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "TRUP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1966923/000137128526000144/0001371285-26-000144-index.htm",
-    "published_iso": "2026-05-28T01:57:06+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "2878396bd3f1",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Rawlings Darryl exercised options for 312 shares of Trupanion, Inc. (TRUP) \u00b7 May 27",
-    "tags": [],
-    "tickers": [
-      "TRUP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1611679/000137128526000143/0001371285-26-000143-index.htm",
-    "published_iso": "2026-05-28T01:57:00+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "4fd4670e41a4",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Ollet John received 73,640 shares of Healthy Choice Wellness Corp. (HCWC) \u00b7 May 27",
-    "tags": [],
-    "tickers": [
-      "HCWC"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1948864/000149315226025500/0001493152-26-025500-index.htm",
-    "published_iso": "2026-05-28T01:55:07+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "0c68414445b1",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Lerman Michael Stuart received 12,500 shares of Healthy Choice Wellness Corp. (HCWC) \u00b7 May 27",
-    "tags": [],
-    "tickers": [
-      "HCWC"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2029546/000149315226025499/0001493152-26-025499-index.htm",
-    "published_iso": "2026-05-28T01:53:36+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "309f6538cd6e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Kavanaugh Scott F exercised options for 3,429 shares of Nexpoint Residential Trust, Inc. (NXRT) \u00b7 May 27",
-    "tags": [],
-    "tickers": [
-      "NXRT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1620393/000143774926018662/0001437749-26-018662-index.htm",
-    "published_iso": "2026-05-28T01:52:40+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "a94af767095d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Swain Carol exercised options for 3,429 shares of Nexpoint Residential Trust, Inc. (NXRT) \u00b7 May 27 ($0 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "NXRT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1941224/000143774926018661/0001437749-26-018661-index.htm",
-    "published_iso": "2026-05-28T01:52:13+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "882e6d3a611e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Cook Christopher S received 13,196 shares of Ultra Clean Holdings, Inc. (UCTT) \u00b7 May 27",
-    "tags": [],
-    "tickers": [
-      "UCTT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1927266/000095010326007863/0000950103-26-007863-index.htm",
-    "published_iso": "2026-05-28T01:52:00+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "02b1debc9fd2",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Laffer Arthur B exercised options for 3,429 shares of Nexpoint Residential Trust, Inc. (NXRT) \u00b7 May 27",
-    "tags": [],
-    "tickers": [
-      "NXRT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1620393/000143774926018660/0001437749-26-018660-index.htm",
-    "published_iso": "2026-05-28T01:51:47+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "bda5309865a5",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Myers Behnam received 12,500 shares of Healthy Choice Wellness Corp. (HCWC) \u00b7 May 27",
-    "tags": [],
-    "tickers": [
-      "HCWC"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2029962/000149315226025498/0001493152-26-025498-index.htm",
-    "published_iso": "2026-05-28T01:51:26+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "9f0ea829588a",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Wood Catherine D. exercised options for 3,429 shares of Nexpoint Residential Trust, Inc. (NXRT) \u00b7 May 27",
-    "tags": [],
-    "tickers": [
-      "NXRT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1820212/000143774926018659/0001437749-26-018659-index.htm",
-    "published_iso": "2026-05-28T01:51:20+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "a6b5ffa78078",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Bipartisan group of former judges asks court to investigate Trump's IRS deal. A group of former federal judges on Wednesday asked a federal court to reopen President Trump\u2019s lawsuit against the Internal Revenue Service (IRS), arguing that the administration circumvented the court by negotiating a settlement with the pr",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/regulation/court-battles/5898575-trump-lawsuit-irs-fund-reopen/",
-    "published_iso": "2026-05-28T01:27:32+00:00",
     "time_ago": "8h ago"
-  },
-  {
-    "id": "83d7d45fdc12",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Warren proposes AI tax. Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  Warren proposes taxing AI companies so \u2018winnings\u2019 \u2018benefit all Americans\u2019 Sen. Elizabeth Warren (D-Mass.) is calling for an overhaul of the U.S. tax code to ta",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/business-economy/5898560-warren-proposes-ai-tax/",
-    "published_iso": "2026-05-28T00:03:01+00:00",
-    "time_ago": "9h ago"
   },
   {
     "id": "dda7a1ba2e7a",
@@ -483,7 +207,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/05/27/jill-biden-joe-biden-debate-reaction-00938943",
     "published_iso": "2026-05-27T20:54:53+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "597c5da983df",
@@ -505,7 +229,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/05/powering-americas-future-president-trumps-policies-fuel-historic-demand-for-skilled-american-workers/",
     "published_iso": "2026-05-27T18:01:52+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "d8b9833ff0ea",
@@ -532,7 +256,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2059677384601694437#m",
     "published_iso": "2026-05-27T16:45:30+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "d32f87d3d9f4",
@@ -556,7 +280,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/may/united-states-and-mexico-announce-series-bilateral-negotiating-rounds-related-first-joint-review",
     "published_iso": "2026-05-27T13:31:31+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "a1e6af3705a6",
@@ -978,7 +702,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/may/ustr-host-g20-trade-ministerial-milwaukee-wisconsin",
     "published_iso": "2026-05-19T10:03:10+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "0b58ed3f6b64",
