@@ -1,6 +1,6 @@
 [
   {
-    "id": "da9431d73ac9",
+    "id": "42712bd5fe38",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Quinn Sean Edward sold 300 shares of Cimpress Plc (CMPR) \u00b7 $103.55/share \u00b7 $31,065 total \u00b7 May 29 ($3,157,325 across all blocks)",
+    "content": "Brathwaite Nicholas sold 1,728 shares of Power Integrations Inc (POWI) \u00b7 $86.62/share \u00b7 $149,679 total \u00b7 May 29",
     "tags": [],
     "tickers": [
-      "CMPR"
+      "POWI"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1621706/000162170626000006/0001621706-26-000006-index.htm",
-    "published_iso": "2026-05-29T22:00:43+00:00",
-    "time_ago": "just now"
+    "url": "https://www.sec.gov/Archives/edgar/data/1182401/000083364026000101/0000833640-26-000101-index.htm",
+    "published_iso": "2026-05-29T23:17:55+00:00",
+    "time_ago": "4m ago"
   },
   {
-    "id": "51baecfda105",
+    "id": "8546aee6a22b",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,60 +30,236 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Hirsch Douglas Joseph received 4,642 shares of Goodrx Holdings, Inc. (GDRX) \u00b7 May 29",
+    "content": "Balakrishnan Balu sold 95,287 shares of Power Integrations Inc (POWI) \u00b7 $86.25/share \u00b7 $8,218,694 total \u00b7 May 29 ($10,743,130 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "POWI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1182405/000083364026000100/0000833640-26-000100-index.htm",
+    "published_iso": "2026-05-29T23:17:45+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "afb5a48f5121",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Alexander Patrick L sold 1,482 shares of Landmark Bancorp Inc (LARK) \u00b7 $28.50/share \u00b7 $42,237 total \u00b7 May 29 ($136,320 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "LARK"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1141688/000149315226026470/0001493152-26-026470-index.htm",
+    "published_iso": "2026-05-29T23:17:40+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "858ad88612fc",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Byrne Robert Francis received 30,000 shares of Sky Quarry Inc. (SKYQ) \u00b7 May 29",
+    "tags": [],
+    "tickers": [
+      "SKYQ"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2100082/000109690626000895/0001096906-26-000895-index.htm",
+    "published_iso": "2026-05-29T23:14:44+00:00",
+    "time_ago": "8m ago"
+  },
+  {
+    "id": "27f022a31cd5",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hussein Omar Ayaz received 30,000 shares of Sky Quarry Inc. (SKYQ) \u00b7 May 29",
+    "tags": [],
+    "tickers": [
+      "SKYQ"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2099461/000109690626000893/0001096906-26-000893-index.htm",
+    "published_iso": "2026-05-29T23:13:34+00:00",
+    "time_ago": "9m ago"
+  },
+  {
+    "id": "14b332af2b2e",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Monje Alexander received 50,000 shares of Sky Quarry Inc. (SKYQ) \u00b7 May 29",
+    "tags": [],
+    "tickers": [
+      "SKYQ"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1898759/000109690626000891/0001096906-26-000891-index.htm",
+    "published_iso": "2026-05-29T23:12:19+00:00",
+    "time_ago": "10m ago"
+  },
+  {
+    "id": "891b158eac40",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Laun Marcus G received 30,000 shares of Sky Quarry Inc. (SKYQ) \u00b7 May 29",
+    "tags": [],
+    "tickers": [
+      "SKYQ"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1812447/000109690626000889/0001096906-26-000889-index.htm",
+    "published_iso": "2026-05-29T23:11:05+00:00",
+    "time_ago": "11m ago"
+  },
+  {
+    "id": "3a528546071f",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Judge agrees to reopen Trump\u2019s $10B IRS case for further scrutiny. A federal judge in Florida agreed to reopen President Trump\u2019s bid to sue the Internal Revenue Service (IRS) for $10 billion, siding with intervenors who said a settlement to create an \u201canti-weaponization\u201d fund tainted the case. The Justice Department (D",
+    "tags": [
+      "Defense",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/regulation/court-battles/5902065-trump-irs-lawsuit-reopened/",
+    "published_iso": "2026-05-29T23:02:44+00:00",
+    "time_ago": "20m ago"
+  },
+  {
+    "id": "368066d82d18",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "critical",
+    "content": "Fact Sheet: President Donald J. Trump Realigns U.S. Core Childhood Vaccine Recommendations with Best Practices from Peer, Developed Countries. REALIGNING THE CHILDHOOD VACCINE SCHEDULE WITH INTERNATIONAL BEST PRACTICES: Today, President Donald J. Trump signed an Executive Order to acknowledge a recent Department of Hea",
     "tags": [
       "Taxes"
     ],
-    "tickers": [
-      "GDRX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1822522/000180951926000118/0001809519-26-000118-index.htm",
-    "published_iso": "2026-05-29T21:58:56+00:00",
-    "time_ago": "2m ago"
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-realigns-u-s-core-childhood-vaccine-recommendations-with-best-practices-from-peer-developed-countries/",
+    "published_iso": "2026-05-29T21:59:25+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "f7f22cb674d0",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "fbbdb0d8208e",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
     },
-    "severity": "medium",
-    "content": "Bruehlman Ronald E received 4,642 shares of Goodrx Holdings, Inc. (GDRX) \u00b7 May 29",
-    "tags": [],
-    "tickers": [
-      "GDRX"
+    "severity": "critical",
+    "content": "Congressional Bill S. 4530 Signed into Law. On Friday, May 29, 2026, the President signed into law: S. 4530, which authorizes an increase of the retirement age for members of the United States Capitol Police. \n The post  Congressional Bill S. 4530 Signed into Law  appeared first on  The White House",
+    "tags": [
+      "Regulation",
+      "Taxes"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1809519/000180951926000117/0001809519-26-000117-index.htm",
-    "published_iso": "2026-05-29T21:58:05+00:00",
-    "time_ago": "3m ago"
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/05/congressional-bill-s-4530-signed-into-law/",
+    "published_iso": "2026-05-29T21:54:28+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "4f42bce1f7af",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "77e53423751d",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
     },
-    "severity": "medium",
-    "content": "Wilson James N gifted 892,056 shares of Corcept Therapeutics Inc (CORT) \u00b7 May 29 ($0 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CORT"
+    "severity": "critical",
+    "content": "Fact Sheet: President Donald J. Trump Removes Unnecessary and Counterproductive Restrictions on Access to Federal Lands. RESCINDING OUTDATED AND BURDENSOME EXECUTIVE ORDERS: Today, President Donald J. Trump signed an Executive Order rescinding outdated restrictions on access to Federal lands, restoring balanced land ma",
+    "tags": [
+      "Taxes"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1236387/000119312526248953/0001193125-26-248953-index.htm",
-    "published_iso": "2026-05-29T21:56:38+00:00",
-    "time_ago": "4m ago"
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-removes-unnecessary-and-counterproductive-restrictions-on-access-to-federal-lands/",
+    "published_iso": "2026-05-29T21:44:05+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "6e549573e1c6",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Pentagon's $9B Dell deal sparks Trump conflict of interest concerns. The Pentagon\u2019s new $9.7 billion contract with Dell is raising questions about potential conflicts of interest after President Trump touted the company\u2019s products and purchased significant amounts of its stock. The Department of Defense (DOD) on Wednes",
+    "tags": [
+      "Defense",
+      "Regulation",
+      "Insider Trade"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/5901889-pentagon-dell-deal-trump-conflict-of-interest/",
+    "published_iso": "2026-05-29T21:41:29+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "f8b67e45c4fd",
@@ -107,47 +283,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/may/united-states-and-mexico-conclude-first-bilateral-round-related-joint-review-usmca",
     "published_iso": "2026-05-29T20:07:23+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "727d8f422925",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Jill Biden calls husband's cancer diagnosis 'shocking': 'Somehow that was missed'. Former first lady Jill Biden opened up about her husband\u2019s battle with prostate cancer in a new interview.  She said in a preview clip released Friday from an interview with CBS News\u2019s Rita Braver that former President Biden\u2019s cancer dia",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/blogs/in-the-know/5901758-joe-biden-prostate-cancer-diagnosis-jill-biden/",
-    "published_iso": "2026-05-29T19:48:40+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "417b8c39be8e",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "FAA head says air traffic system is 'safe, but it's not efficient'. Federal Aviation Administration (FAA) Administrator Bryan Bedford says that while the nation\u2019s air traffic control infrastructure is safe, it is still operating on decades-old technology that needs improvement. \u201cWe still have, I think, some real reliab",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/transportation/5901691-faa-air-traffic-control-summer-travel/",
-    "published_iso": "2026-05-29T19:31:33+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "f16c9f1dd850",
@@ -169,7 +305,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2060442963604279753#m",
     "published_iso": "2026-05-29T19:27:38+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "de39bd0d288c",
@@ -195,7 +331,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2060390499391820118#m",
     "published_iso": "2026-05-29T15:59:09+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "d9cee10901d4",
@@ -219,7 +355,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/may/ambassador-jamieson-greer-trade-theory-must-catch-tariffs-industrial-policy-and-costs-globalization",
     "published_iso": "2026-05-29T15:33:55+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "64418d3c92d2",
@@ -238,7 +374,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/29/2026-10816/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-angling-category-retention-limit",
     "published_iso": "2026-05-29T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "d9a599a865da",
@@ -257,7 +393,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/29/2026-10806/airworthiness-directives-goodrich-cabin-attendant-seats",
     "published_iso": "2026-05-29T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "2a0b804a9a39",
@@ -278,7 +414,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/29/2026-10803/airworthiness-directives-the-boeing-company-airplanes",
     "published_iso": "2026-05-29T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "120dd56799e2",
@@ -299,7 +435,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/29/2026-10802/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-05-29T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "ae5aed1640f2",
@@ -320,7 +456,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/05/29/2026-10782/pipeline-safety-class-location-change-requirements-correction",
     "published_iso": "2026-05-29T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "df37b2dd8dcb",
@@ -553,7 +689,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h191?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-21T22:20:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "9b73f9f12d30",
@@ -572,7 +708,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h190?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-21T22:12:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "65b6f865ef07",
@@ -591,7 +727,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h189?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-05-21T22:06:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "f89e83e500bd",
@@ -817,7 +953,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-applauds-trump-administration-on-federal-reserve-master-account-executive-order/",
     "published_iso": "2026-05-19T22:23:14+00:00",
-    "time_ago": "9d ago"
+    "time_ago": "10d ago"
   },
   {
     "id": "dc25c7cd9cc7",
@@ -1131,7 +1267,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-welfare-for-non-citizens-act/",
     "published_iso": "2026-01-15T22:26:59+00:00",
-    "time_ago": "133d ago"
+    "time_ago": "134d ago"
   },
   {
     "id": "d3ca74df7f0f",
