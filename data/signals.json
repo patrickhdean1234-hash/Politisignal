@@ -1,5 +1,53 @@
 [
   {
+    "id": "95c6b5025f13",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hopgood Daniel Roy withheld (tax) 148 shares of Nordson Corp (NDSN) \u00b7 $281.31/share \u00b7 $41,634 total \u00b7 Jun 2",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "NDSN"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1454513/000145451326000002/0001454513-26-000002-index.htm",
+    "published_iso": "2026-06-02T12:23:36+00:00",
+    "time_ago": "27m ago"
+  },
+  {
+    "id": "70df268c28e5",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Dr. Oz to helm White House press briefing. Dr. Mehmet Oz, Centers for Medicare and Medicaid Services (CMS) administrator, will host the White House press briefing on Tuesday, becoming the latest Trump administration official to fill in for press secretary Karoline while she is on maternity leave.\u00a0 Oz follows Secretary ",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5905227-mehmet-oz-white-house-briefing/",
+    "published_iso": "2026-06-02T12:03:17+00:00",
+    "time_ago": "47m ago"
+  },
+  {
     "id": "baf66ea0f578",
     "politician": "Federal Register",
     "initials": "FR",
@@ -18,7 +66,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11022/federal-employees-health-benefits-program-verification-requirements-for-family-member-coverage",
     "published_iso": "2026-06-02T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "b1e0eaebe811",
@@ -39,7 +87,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11021/fisheries-off-west-coast-states-the-highly-migratory-species-fishery-pacific-loggerhead-conservation",
     "published_iso": "2026-06-02T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "fe9b26e076f1",
@@ -58,7 +106,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11017/fisheries-of-the-south-atlantic-2026-recreational-accountability-measure-and-closure-for-snowy",
     "published_iso": "2026-06-02T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "d034162c2951",
@@ -79,7 +127,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11015/notice-of-vacatur-regarding-certain-provisions-of-the-2024-nondiscrimination-in-health-programs-and",
     "published_iso": "2026-06-02T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "c3cafa2940b8",
@@ -101,7 +149,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11003/new-mailing-standards-for-domestic-mailing-services-products",
     "published_iso": "2026-06-02T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "818d1433efbd",
@@ -122,7 +170,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11002/payment-limitation-and-payment-eligibility",
     "published_iso": "2026-06-02T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "eb43a14f5393",
@@ -145,7 +193,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/02/2026-10996/inflation-adjustment-of-civil-monetary-penalties",
     "published_iso": "2026-06-02T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "a3f2e29ce480",
@@ -166,152 +214,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/02/2026-10962/hazardous-materials-streamlining-requirements-for-the-approval-of-certain-energetic-materials",
     "published_iso": "2026-06-02T04:00:00+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "0ad8bb0d110f",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hochman Russell C. exercised options for 49,742 shares of Enviri Corp (NVRI) \u00b7 Jun 1 ($1,055,525 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "NVRI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1636757/000004587626000268/0000045876-26-000268-index.htm",
-    "published_iso": "2026-06-02T01:59:34+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "53f088d93c99",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Amble Joan Lordi received 7,261 shares of Spire Global, Inc. (SPIR) \u00b7 Jun 1",
-    "tags": [],
-    "tickers": [
-      "SPIR"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1816017/000127425226000002/0001274252-26-000002-index.htm",
-    "published_iso": "2026-06-02T01:55:15+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "cd91ac1cf618",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Johnson Kristina M sold 20,000 shares of Infleqtion, Inc. (INFQ-WT) \u00b7 $18.00/share \u00b7 $360,000 total \u00b7 Jun 1 ($880,500 across all blocks)",
-    "tags": [],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2007825/000111626826000011/0001116268-26-000011-index.htm",
-    "published_iso": "2026-06-02T01:45:10+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "6108fabe9a72",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Walters-Hoffert Lisa exercised options for 50,000 shares of Flux Power Holdings, Inc. (FLUX) \u00b7 Jun 1",
-    "tags": [],
-    "tickers": [
-      "FLUX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1711576/000149315226026715/0001493152-26-026715-index.htm",
-    "published_iso": "2026-06-02T01:41:42+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "bae352bffd63",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Robinette Dale Thomas exercised options for 50,000 shares of Flux Power Holdings, Inc. (FLUX) \u00b7 Jun 1",
-    "tags": [],
-    "tickers": [
-      "FLUX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1781328/000149315226026713/0001493152-26-026713-index.htm",
-    "published_iso": "2026-06-02T01:41:07+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "4fbdeeb93625",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Leposky Mark F exercised options for 50,000 shares of Flux Power Holdings, Inc. (FLUX) \u00b7 Jun 1",
-    "tags": [],
-    "tickers": [
-      "FLUX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1548051/000149315226026712/0001493152-26-026712-index.htm",
-    "published_iso": "2026-06-02T01:40:45+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "43d9d1457850",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Johnson Michael exercised options for 50,000 shares of Flux Power Holdings, Inc. (FLUX) \u00b7 Jun 1",
-    "tags": [],
-    "tickers": [
-      "FLUX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1550109/000149315226026711/0001493152-26-026711-index.htm",
-    "published_iso": "2026-06-02T01:40:28+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "d9a26d5a8d0b",
@@ -339,7 +242,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-updates-tariffs-on-steel-aluminum-and-copper-imports/",
     "published_iso": "2026-06-02T01:10:32+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "5e78c21b40cc",
@@ -366,33 +269,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/",
     "published_iso": "2026-06-02T01:09:17+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "8aee17b1ab44",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Powell's warning. Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  Powell warns of political pressure on Fed Former Federal Reserve Chair Jerome Powell on Sunday warned of growing political pressure on the central bank, saying it \u201ch",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/business-economy/5904912-powells-warning/",
-    "published_iso": "2026-06-01T22:54:43+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "2e2eb3329d45",
@@ -411,7 +288,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s131?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-01T21:31:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "37863c10802e",
@@ -432,7 +309,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nominations-and-withdrawal-sent-to-the-senate-9d32/",
     "published_iso": "2026-06-01T19:45:44+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "ce6bf909e214",
@@ -453,7 +330,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/06/01/jill-biden-book-tour-2026-election-00944335",
     "published_iso": "2026-06-01T17:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "368066d82d18",
@@ -1000,7 +877,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/may/ustr-host-g20-trade-ministerial-milwaukee-wisconsin",
     "published_iso": "2026-05-19T10:03:10+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "0b58ed3f6b64",
