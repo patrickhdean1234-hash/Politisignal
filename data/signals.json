@@ -1,6 +1,6 @@
 [
   {
-    "id": "95c6b5025f13",
+    "id": "15da4f24db06",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,21 +9,82 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Hopgood Daniel Roy withheld (tax) 148 shares of Nordson Corp (NDSN) \u00b7 $281.31/share \u00b7 $41,634 total \u00b7 Jun 2",
-    "tags": [
-      "Taxes"
-    ],
+    "content": "Rodriguez Tony received 10,393 shares of Digimarc Corp (DMRC) \u00b7 $16.43/share \u00b7 $170,757 total \u00b7 Jun 2",
+    "tags": [],
     "tickers": [
-      "NDSN"
+      "DMRC"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1454513/000145451326000002/0001454513-26-000002-index.htm",
-    "published_iso": "2026-06-02T12:23:36+00:00",
-    "time_ago": "27m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2119322/000143774926019139/0001437749-26-019139-index.htm",
+    "published_iso": "2026-06-02T17:11:58+00:00",
+    "time_ago": "just now"
   },
   {
-    "id": "70df268c28e5",
+    "id": "0e9b9057c358",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Quinn Carle Ann received 11,991 shares of Digimarc Corp (DMRC) \u00b7 $16.43/share \u00b7 $197,012 total \u00b7 Jun 2",
+    "tags": [],
+    "tickers": [
+      "DMRC"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2119322/000143774926019137/0001437749-26-019137-index.htm",
+    "published_iso": "2026-06-02T17:10:27+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "2baacc4a1272",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Smith Gary B sold 2,952 shares of Ciena Corp (CIEN) \u00b7 $565.92/share \u00b7 $1,670,597 total \u00b7 Jun 2",
+    "tags": [],
+    "tickers": [
+      "CIEN"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1032553/000103255326000023/0001032553-26-000023-index.htm",
+    "published_iso": "2026-06-02T17:03:08+00:00",
+    "time_ago": "9m ago"
+  },
+  {
+    "id": "b8151aea1dab",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Atlas Infrastructure Partners (Uk) Ltd. sold 1,435 shares of H2O America (HTO) \u00b7 $57.52/share \u00b7 $82,544 total \u00b7 Jun 2 ($1,868,945 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "HTO"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2131211/000192495326000005/0001924953-26-000005-index.htm",
+    "published_iso": "2026-06-02T17:02:50+00:00",
+    "time_ago": "10m ago"
+  },
+  {
+    "id": "d64d962e6f09",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -31,10 +92,32 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Dr. Oz to helm White House press briefing. Dr. Mehmet Oz, Centers for Medicare and Medicaid Services (CMS) administrator, will host the White House press briefing on Tuesday, becoming the latest Trump administration official to fill in for press secretary Karoline while she is on maternity leave.\u00a0 Oz follows Secretary ",
+    "severity": "critical",
+    "content": "Trump signs scaled-back AI executive order. President Trump on Tuesday signed an executive order directing federal agencies to shore up their defenses against more advanced artificial intelligence (AI) models and develop a voluntary testing framework. The new order appears to be a scaled-back version of the order Trump",
     "tags": [
-      "Healthcare"
+      "Defense"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/5905712-trump-executive-order-ai-model-testing/",
+    "published_iso": "2026-06-02T16:07:49+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "442d45fcafe3",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Watch live: Oz leads White House briefing after new Medicaid requirements unveiled. Dr. Mehmet Oz, administrator of the Centers for Medicare and Medicaid Services (CMS), will lead the White House press briefing on Tuesday afternoon. Oz's turn at the podium comes a day after the Trump administration issued a final rule ",
+    "tags": [
+      "Healthcare",
+      "Regulation"
     ],
     "tickers": [
       "UNH",
@@ -43,9 +126,77 @@
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5905227-mehmet-oz-white-house-briefing/",
-    "published_iso": "2026-06-02T12:03:17+00:00",
-    "time_ago": "47m ago"
+    "url": "https://thehill.com/video-clips/5905650-watch-live-mehmet-oz-white-house-press-briefing-medicaid-rules/",
+    "published_iso": "2026-06-02T15:58:39+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "8ebadc3aca9e",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "Promoting Advanced Artificial Intelligence Innovation and Security. By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. \u00a0Purpose.\u00a0 The United States continues to lead the world in Artificial Intelligence (AI) because of the enormo",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+    "published_iso": "2026-06-02T15:34:13+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "33ef7d237f4e",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "high",
+    "content": "I don't care if it's military spending or welfare spending. Spending is spending, and we cannot keep adding to the debt. Tax cuts? I'm in. More spending disguised as a win? I'll vote no. Washington has a spending addiction, and I'm not feeding it.  @MariaBartiromo  \n \n Video",
+    "tags": [
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/RandPaul/status/2061830447152394242#m",
+    "published_iso": "2026-06-02T15:21:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "5975851e8422",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "Agencies remove additional references to reputation risk. Agencies remove additional references to reputation risk",
+    "tags": [],
+    "tickers": [],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm",
+    "published_iso": "2026-06-02T15:00:00+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "baf66ea0f578",
@@ -66,7 +217,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11022/federal-employees-health-benefits-program-verification-requirements-for-family-member-coverage",
     "published_iso": "2026-06-02T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "b1e0eaebe811",
@@ -87,7 +238,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11021/fisheries-off-west-coast-states-the-highly-migratory-species-fishery-pacific-loggerhead-conservation",
     "published_iso": "2026-06-02T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "fe9b26e076f1",
@@ -106,7 +257,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11017/fisheries-of-the-south-atlantic-2026-recreational-accountability-measure-and-closure-for-snowy",
     "published_iso": "2026-06-02T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "d034162c2951",
@@ -127,7 +278,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11015/notice-of-vacatur-regarding-certain-provisions-of-the-2024-nondiscrimination-in-health-programs-and",
     "published_iso": "2026-06-02T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "c3cafa2940b8",
@@ -149,7 +300,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11003/new-mailing-standards-for-domestic-mailing-services-products",
     "published_iso": "2026-06-02T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "818d1433efbd",
@@ -170,7 +321,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11002/payment-limitation-and-payment-eligibility",
     "published_iso": "2026-06-02T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "eb43a14f5393",
@@ -193,7 +344,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/02/2026-10996/inflation-adjustment-of-civil-monetary-penalties",
     "published_iso": "2026-06-02T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "a3f2e29ce480",
@@ -214,7 +365,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/02/2026-10962/hazardous-materials-streamlining-requirements-for-the-approval-of-certain-energetic-materials",
     "published_iso": "2026-06-02T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "d9a26d5a8d0b",
@@ -242,7 +393,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-updates-tariffs-on-steel-aluminum-and-copper-imports/",
     "published_iso": "2026-06-02T01:10:32+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "5e78c21b40cc",
@@ -269,7 +420,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/",
     "published_iso": "2026-06-02T01:09:17+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "2e2eb3329d45",
@@ -288,7 +439,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s131?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-01T21:31:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "37863c10802e",
@@ -309,7 +460,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nominations-and-withdrawal-sent-to-the-senate-9d32/",
     "published_iso": "2026-06-01T19:45:44+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "ce6bf909e214",
@@ -330,7 +481,28 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/06/01/jill-biden-book-tour-2026-election-00944335",
     "published_iso": "2026-06-01T17:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "1d ago"
+  },
+  {
+    "id": "41af30459760",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "Memorandum from the White House Physician. The post  Memorandum from the White House Physician  appeared first on  The White House",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/05/memorandum-from-the-white-house-physician-9440/",
+    "published_iso": "2026-05-30T03:00:00+00:00",
+    "time_ago": "3d ago"
   },
   {
     "id": "368066d82d18",
@@ -351,28 +523,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-realigns-u-s-core-childhood-vaccine-recommendations-with-best-practices-from-peer-developed-countries/",
     "published_iso": "2026-05-29T21:59:25+00:00",
-    "time_ago": "3d ago"
-  },
-  {
-    "id": "fbbdb0d8208e",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "Congressional Bill S. 4530 Signed into Law. On Friday, May 29, 2026, the President signed into law: S. 4530, which authorizes an increase of the retirement age for members of the United States Capitol Police. \n The post  Congressional Bill S. 4530 Signed into Law  appeared first on  The White House",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/briefings-statements/2026/05/congressional-bill-s-4530-signed-into-law/",
-    "published_iso": "2026-05-29T21:54:28+00:00",
     "time_ago": "3d ago"
   },
   {
@@ -443,7 +593,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/may/ambassador-jamieson-greer-trade-theory-must-catch-tariffs-industrial-policy-and-costs-globalization",
     "published_iso": "2026-05-29T15:33:55+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "cb28de6b473b",
@@ -469,7 +619,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260528a.htm",
     "published_iso": "2026-05-28T15:00:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "d8b9833ff0ea",
@@ -496,7 +646,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2059677384601694437#m",
     "published_iso": "2026-05-27T16:45:30+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "d32f87d3d9f4",
@@ -520,7 +670,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/may/united-states-and-mexico-announce-series-bilateral-negotiating-rounds-related-first-joint-review",
     "published_iso": "2026-05-27T13:31:31+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "a1e6af3705a6",
@@ -712,7 +862,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260521a.htm",
     "published_iso": "2026-05-21T15:00:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "292f00bece84",
@@ -826,7 +976,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-legalizing-premium-health-care-act/",
     "published_iso": "2026-05-20T15:26:37+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "032c7769e864",
@@ -880,32 +1030,6 @@
     "time_ago": "14d ago"
   },
   {
-    "id": "0b58ed3f6b64",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "Federal Reserve Board names Jerome H. Powell as chair pro tempore; Powell will serve as chair pro tempore until Kevin M. Warsh is sworn in as the new chair. Federal Reserve Board names Jerome H. Powell as chair pro tempore; Powell will serve as chair pro tempore until Kevin M. Warsh is sworn in as the new chair",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm",
-    "published_iso": "2026-05-15T21:00:00+00:00",
-    "time_ago": "17d ago"
-  },
-  {
     "id": "79faa09fe8f6",
     "politician": "U.S. Treasury",
     "initials": "TRS",
@@ -924,7 +1048,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "21d ago"
+    "time_ago": "22d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -950,7 +1074,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "27d ago"
+    "time_ago": "28d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -972,7 +1096,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "35d ago"
+    "time_ago": "36d ago"
   },
   {
     "id": "0047e3ab5b67",
@@ -994,7 +1118,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "42d ago"
+    "time_ago": "43d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1018,7 +1142,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "63d ago"
+    "time_ago": "64d ago"
   },
   {
     "id": "d52e199aa058",
@@ -1059,7 +1183,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "97d ago"
+    "time_ago": "98d ago"
   },
   {
     "id": "602146d3f751",
@@ -1102,7 +1226,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "108d ago"
+    "time_ago": "109d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1121,7 +1245,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "108d ago"
+    "time_ago": "109d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1147,7 +1271,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "130d ago"
+    "time_ago": "131d ago"
   },
   {
     "id": "d39ac85b9cc9",
@@ -1188,7 +1312,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "167d ago"
+    "time_ago": "168d ago"
   },
   {
     "id": "e88c3c11d67a",
@@ -1210,6 +1334,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/983956",
     "published_iso": "2025-10-30T16:06:54+00:00",
-    "time_ago": "214d ago"
+    "time_ago": "215d ago"
   }
 ]
