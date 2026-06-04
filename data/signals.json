@@ -1,6 +1,29 @@
 [
   {
-    "id": "ac1f5737d8fd",
+    "id": "de172c3c1dba",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Moylan John Patrick withheld (tax) 2,553 shares of Neogen Corp (NEOG) \u00b7 $8.75/share \u00b7 $22,339 total \u00b7 Jun 4",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "NEOG"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2019232/000071137726000011/0000711377-26-000011-index.htm",
+    "published_iso": "2026-06-04T13:31:58+00:00",
+    "time_ago": "12m ago"
+  },
+  {
+    "id": "c17673224561",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,67 +32,16 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Rubio, Vance, Bessent, Oz: White House\u2019s 'guest' briefers step into different spotlight. There\u2019s a new, favorite Beltway game: evaluating the performance of the big figures in the Trump administration who have stepped to the lectern to conduct White House briefings. Centers for Medicare and Medicaid Services (CMS) Admi",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5908621-trump-administration-briefings-performance/",
-    "published_iso": "2026-06-04T10:00:00+00:00",
-    "time_ago": "33m ago"
-  },
-  {
-    "id": "c556fbdcbcc5",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Jill Biden hits back at Democratic critic of her book: 'Say it to my face'. Jill Biden is responding to criticism from at least one Democrat who worked in her husband's administration, saying that her new memoir could be unnecessarily igniting a \"painful conversation\" for the party and urging any detractor to call her ",
+    "content": "It could soon be harder to get a green card \u2014 and\u00a0that's\u00a0a good thing. Aliens who intend to remain in the United States\u00a0aren\u2019t\u00a0eligible for a nonimmigrant visitor\u2019s visa\u00a0in the first place",
     "tags": [
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/blogs/in-the-know/5909129-jill-biden-responds-democrat-criticism-book-tour/",
-    "published_iso": "2026-06-04T02:50:06+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "dc1cc772e354",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Remote work may be locking younger workers out of labor force: NY Fed. Rising youth unemployment rates since the 2020 pandemic may be tied to a trend in remote work, the New York Federal Reserve Bank said in an analysis published on Monday.  In the report, the regional Fed bank cited census data showing a 20 percent in",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/5909105-remote-work-youth-unemployment/",
-    "published_iso": "2026-06-04T02:24:11+00:00",
-    "time_ago": "8h ago"
+    "url": "https://thehill.com/opinion/immigration/5908142-uscis-policy-green-cards/",
+    "published_iso": "2026-06-04T13:00:00+00:00",
+    "time_ago": "44m ago"
   },
   {
     "id": "e471042695a1",
@@ -91,7 +63,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2062317909087543415#m",
     "published_iso": "2026-06-03T23:38:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "c4a58bad1238",
@@ -115,7 +87,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenLummis/status/2062308546235011175#m",
     "published_iso": "2026-06-03T23:00:47+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "ddb58e0107d1",
@@ -137,7 +109,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/the-senate-page-program/",
     "published_iso": "2026-06-03T21:41:29+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "12aec564c493",
@@ -158,7 +130,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h200?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-03T21:25:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "2581289f5aa2",
@@ -183,7 +155,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h199?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-03T21:16:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "951cb1b27558",
@@ -202,7 +174,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h198?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-03T21:08:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "ce5b0efe21c3",
@@ -221,7 +193,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h197?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-03T21:01:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "71e5576083a8",
@@ -240,7 +212,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h196?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-03T20:54:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "eefd07ddaa83",
@@ -262,7 +234,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-increases-accountability-in-the-federal-workforce/",
     "published_iso": "2026-06-03T20:30:33+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "ae8b02e75084",
@@ -284,7 +256,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-strengthens-customs-enforcement/",
     "published_iso": "2026-06-03T20:29:46+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "cc3ca08ca1e1",
@@ -305,7 +277,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2062258293666730087#m",
     "published_iso": "2026-06-03T19:41:06+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "abdde58c5d26",
@@ -324,10 +296,10 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s136?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-03T18:59:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "18h ago"
   },
   {
-    "id": "510c893f9ff8",
+    "id": "f6fe8e21e2ff",
     "politician": "GovTrack",
     "initials": "GT",
     "role": "Congressional Legislation",
@@ -336,7 +308,7 @@
       "fg": "#7dd3fc"
     },
     "severity": "high",
-    "content": "On Agreeing to the Resolution: H RES 1333 Providing for consideration of the bills (H.R. 8646) Agriculture, Rural Development, Food and Drug Administration, and Related Agency Appropriations Act, 2027; (H.R. 7726) Stop Child Care Scams Act; (H.R. 7892) No Aid for Ghost Students Act; and (H.R. 8872) Preventing Waste, Fr",
+    "content": "H.Res. 1333: Providing for consideration of the bill (H.R. 8646) making appropriations for Agriculture, Rural Development, Food and Drug Administration, and Related Agencies programs for the fiscal year ending September 30, 2027, and for other purposes;. Vote: Passed 211/207",
     "tags": [
       "Healthcare",
       "Agriculture",
@@ -351,10 +323,10 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h195?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-03T18:31:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
-    "id": "10c71f0a5816",
+    "id": "bbbe386e013e",
     "politician": "GovTrack",
     "initials": "GT",
     "role": "Congressional Legislation",
@@ -363,9 +335,8 @@
       "fg": "#7dd3fc"
     },
     "severity": "high",
-    "content": "On Ordering the Previous Question: H RES 1333 Providing for consideration of the bills (H.R. 8646) Agriculture, Rural Development, Food and Drug Administration, and Related Agency Appropriations Act, 2027; (H.R. 7726) Stop Child Care Scams Act; (H.R. 7892) No Aid for Ghost Students Act; and (H.R. 8872) Preventing Waste",
+    "content": "On Ordering the Previous Question: H.Res. 1333: Providing for consideration of the bill (H.R. 8646) making appropriations for Agriculture, Rural \u2026. Vote: Passed 208/207",
     "tags": [
-      "Healthcare",
       "Agriculture",
       "Regulation"
     ],
@@ -378,31 +349,6 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h194?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-03T18:25:00+00:00",
-    "time_ago": "16h ago"
-  },
-  {
-    "id": "d10e8e1a8d58",
-    "politician": "Sen. Rand Paul",
-    "initials": "RP",
-    "role": "Senate Foreign Relations Committee",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fbbf24"
-    },
-    "severity": "medium",
-    "content": ". @lukerosiak  talks about a Medicaid fraudster who flaunts on social media a life of private jets, yachts, etc. \"These are people that came here as refugees & now they\u2019re living as millionaires [via fraud].\" \n \nROSIAK: \"Whistleblowers in the [Columbus] area tell me companies knock on doors in ethnic neighborhoods, whe",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/tomselliott/status/2062194247374135303#m",
-    "published_iso": "2026-06-03T15:26:36+00:00",
     "time_ago": "19h ago"
   },
   {
@@ -474,27 +420,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-promotes-advanced-artificial-intelligence-innovation-and-security/",
     "published_iso": "2026-06-02T18:04:20+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "d5a3cf654065",
-    "politician": "Rep. Mike Johnson",
-    "initials": "MJ",
-    "role": "Speaker of the House",
-    "color": {
-      "bg": "#2a1a1a",
-      "fg": "#fbbf24"
-    },
-    "severity": "critical",
-    "content": "This filing season, 97% of filers received a tax cut. \n \nReal relief. Bigger refunds. Higher take-home pay. More money in Americans' pockets.  \n \nAll thanks to Republicans' Working Families Tax Cuts. \n \n \n The White House (@WhiteHouse) \n \n NEW ANALYSIS CONFIRMS: The Working Families Tax Cuts just delivered the LARGEST ",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/SpeakerJohnson/status/2061862561058841016#m",
-    "published_iso": "2026-06-02T17:28:36+00:00",
     "time_ago": "1d ago"
   },
   {
