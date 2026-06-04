@@ -1,45 +1,142 @@
 [
   {
-    "id": "098038191392",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "a52468e83128",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Lederer James P sold 3,569 shares of Entegris Inc (ENTG) \u00b7 $143.59/share \u00b7 $512,473 total \u00b7 Jun 4",
-    "tags": [],
-    "tickers": [
-      "ENTG"
+    "severity": "critical",
+    "content": "Jill Biden: Former president, Harris 'still friends'. Former first lady Jill Biden said Wednesday that her husband and former Vice President Kamala Harris remain \u201cfriends,\u201d nearly a year-and-a-half after they left office. While promoting her new book at the Sixth &#38; I synagogue in Washington, D.C., she said Harris r",
+    "tags": [
+      "Taxes"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1434807/000110130226000136/0001101302-26-000136-index.htm",
-    "published_iso": "2026-06-04T16:36:08+00:00",
-    "time_ago": "1m ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/blogs/in-the-know/5910263-jill-biden-former-president-harris-still-friends/",
+    "published_iso": "2026-06-04T18:40:03+00:00",
+    "time_ago": "23m ago"
   },
   {
-    "id": "a1906eb1efc5",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "80bad231716f",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Johnson William received 23,483 shares of Commercial Vehicle Group, Inc. (CVGI) \u00b7 Jun 4",
-    "tags": [],
-    "tickers": [
-      "CVGI"
+    "content": "WATCH: Lincoln Memorial Reflecting Pool fills with water after work, repainting. Weeks after crews drained the Lincoln Memorial Reflecting Pool to repaint its floor and make repairs, water began flowing",
+    "tags": [
+      "Taxes"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1310250/000162828026040682/0001628280-26-040682-index.htm",
-    "published_iso": "2026-06-04T16:34:13+00:00",
-    "time_ago": "3m ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/state-watch/5910416-watch-lincoln-memorial-reflecting-pool-fills-with-water-after-work-repainting/",
+    "published_iso": "2026-06-04T18:37:05+00:00",
+    "time_ago": "26m ago"
+  },
+  {
+    "id": "c6f5eef9b7f1",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Acting CDC director says US Ebola response more justified than COVID measures. Acting Director of the\u00a0Centers for Disease Control and Prevention (CDC) Jay Bhattacharya defended the Trump administration\u2019s response to the Ebola outbreak Thursday,\u00a0writing\u00a0in The Wall Street Journal that\u00a0the measures being taken are scient",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/healthcare/5910344-bhattacharya-defends-ebola-measures/",
+    "published_iso": "2026-06-04T18:19:55+00:00",
+    "time_ago": "43m ago"
+  },
+  {
+    "id": "3ae14a595940",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "On January 6, Donald Trump bought up to $1 million in NVIDIA stock. \n  \nA week later, his Administration approved chip sales to China. Now, NVIDIA stock is through the roof. \n  \nYou don\u2019t need to be a Wall Street guy to know the President shouldn\u2019t be doing this.",
+    "tags": [
+      "China",
+      "Semiconductors",
+      "Banking",
+      "Insider Trade"
+    ],
+    "tickers": [
+      "NVDA"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SenWarren/status/2062586185663332466#m",
+    "published_iso": "2026-06-04T17:24:02+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "56c5d29cac7f",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "On January 6, Donald Trump bought up to $1 million in NVIDIA stock.\n \nA week later, his Administration approved chip sales to China. Now, NVIDIA stock is through the roof.\n \nYou don\u2019t need to be a Wall Street guy to know the President shouldn\u2019t be doing this.",
+    "tags": [
+      "China",
+      "Semiconductors",
+      "Banking",
+      "Insider Trade"
+    ],
+    "tickers": [
+      "NVDA"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mni5blkepk27",
+    "published_iso": "2026-06-04T17:23:56.157000+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "0b38cdeff238",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Private Equity's Going After Your Utilities.. Private Equity's Going After Your Utilities",
+    "tags": [],
+    "tickers": [],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "http://www.warren.senate.gov/newsroom/videos/watch/private-equitys-going-after-your-utilities",
+    "published_iso": "2026-06-04T15:49:37+00:00",
+    "time_ago": "3h ago"
   },
   {
     "id": "fb98dbbcd272",
@@ -60,7 +157,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/04/2026-11277/special-local-regulation-ohio-river-mile-marker-90-91-wheeling-wv",
     "published_iso": "2026-06-04T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "2e2c39c65f2c",
@@ -81,7 +178,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/04/2026-11274/emergency-relief-program",
     "published_iso": "2026-06-04T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "4ce287892cb5",
@@ -102,7 +199,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/04/2026-11273/private-investment-project-procedures",
     "published_iso": "2026-06-04T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "f4aa90cf7a3e",
@@ -123,7 +220,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/04/2026-11272/project-management-oversight",
     "published_iso": "2026-06-04T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "593e8400e13c",
@@ -144,7 +241,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/04/2026-11271/public-transportation-safety-certification-training-program",
     "published_iso": "2026-06-04T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "ee8c392ef505",
@@ -165,7 +262,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/04/2026-11270/rail-transit-roadway-worker-protection",
     "published_iso": "2026-06-04T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "3c39ff9cd1c8",
@@ -187,7 +284,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/04/2026-11269/establishing-united-states-citizenship-for-marad-program-participation-simplifying-the-application",
     "published_iso": "2026-06-04T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "8a157b867e3c",
@@ -209,7 +306,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/04/2026-11267/american-fisheries-act-program-update-simplifying-the-application-process",
     "published_iso": "2026-06-04T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "e471042695a1",
@@ -231,7 +328,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2062317909087543415#m",
     "published_iso": "2026-06-03T23:38:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "c4a58bad1238",
@@ -255,7 +352,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenLummis/status/2062308546235011175#m",
     "published_iso": "2026-06-03T23:00:47+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "ddb58e0107d1",
@@ -277,7 +374,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/the-senate-page-program/",
     "published_iso": "2026-06-03T21:41:29+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "12aec564c493",
@@ -298,7 +395,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h200?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-03T21:25:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "2581289f5aa2",
@@ -323,7 +420,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h199?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-03T21:16:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "951cb1b27558",
@@ -342,7 +439,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h198?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-03T21:08:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "ce5b0efe21c3",
@@ -361,7 +458,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h197?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-03T21:01:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "71e5576083a8",
@@ -380,7 +477,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h196?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-03T20:54:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "eefd07ddaa83",
@@ -402,7 +499,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-increases-accountability-in-the-federal-workforce/",
     "published_iso": "2026-06-03T20:30:33+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "ae8b02e75084",
@@ -424,7 +521,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-strengthens-customs-enforcement/",
     "published_iso": "2026-06-03T20:29:46+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "cc3ca08ca1e1",
@@ -445,7 +542,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2062258293666730087#m",
     "published_iso": "2026-06-03T19:41:06+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "abdde58c5d26",
@@ -464,7 +561,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s136?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-03T18:59:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "f6fe8e21e2ff",
@@ -491,7 +588,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h195?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-03T18:31:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "bbbe386e013e",
@@ -517,7 +614,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h194?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-03T18:25:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "51a2166bc3bb",
@@ -588,7 +685,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-promotes-advanced-artificial-intelligence-innovation-and-security/",
     "published_iso": "2026-06-02T18:04:20+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "8ebadc3aca9e",
@@ -629,34 +726,6 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm",
     "published_iso": "2026-06-02T15:00:00+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "d9a26d5a8d0b",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "Fact Sheet: President Donald J. Trump Updates Tariffs on Steel, Aluminum, and Copper Imports. BOLSTERING DOMESTIC MANUFACTURING OF STRATEGIC METALS:&#160;Today, President Donald J. Trump signed a Proclamation adjusting certain metals tariffs to more effectively address national security threats, spur investment in Amer",
-    "tags": [
-      "Big Tech",
-      "Trade",
-      "Agriculture",
-      "Taxes"
-    ],
-    "tickers": [
-      "X",
-      "AA",
-      "NUE"
-    ],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-updates-tariffs-on-steel-aluminum-and-copper-imports/",
-    "published_iso": "2026-06-02T01:10:32+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -702,7 +771,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm",
     "published_iso": "2026-05-26T18:00:00+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "07ab4044a288",
@@ -825,7 +894,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm",
     "published_iso": "2026-05-20T18:00:00+00:00",
-    "time_ago": "14d ago"
+    "time_ago": "15d ago"
   },
   {
     "id": "072d30de1b17",
@@ -1014,7 +1083,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "70d ago"
+    "time_ago": "71d ago"
   },
   {
     "id": "782af70b6ebe",
@@ -1124,7 +1193,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "132d ago"
+    "time_ago": "133d ago"
   },
   {
     "id": "d3ca74df7f0f",
