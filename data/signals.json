@@ -1,5 +1,211 @@
 [
   {
+    "id": "8f89ac3eb2bb",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On the Motion (Motion to Waive All Budgetary Discipline Re: Lee Amdt. No. 5804). Vote: Motion Rejected 50/49",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s151?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-06T03:39:00+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "1952cccfead7",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Durbin Amdt. No. 5806). Vote: Motion Rejected 48/51",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s152?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-05T04:12:00+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "94a8f112f190",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Booker Amdt. No. 5803). Vote: Motion Rejected 46/53",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s150?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-05T02:57:00+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "e7547938e906",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Baldwin Amdt. No. 5485). Vote: Motion Rejected 46/53",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s149?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-05T02:15:00+00:00",
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "7eee52835db5",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Lafargue Rell Q. Jr. withheld (tax) 68,219 shares of Reservoir Media, Inc. (RSVRW) \u00b7 $10.32/share \u00b7 $704,020 total \u00b7 Jun 4 ($1,239,742 across all blocks)",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "RSVRW"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1865887/000186588726000003/0001865887-26-000003-index.htm",
+    "published_iso": "2026-06-05T01:59:14+00:00",
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "9b926a5926a9",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Heindlmeyer James A withheld (tax) 6,432 shares of Reservoir Media, Inc. (RSVRW) \u00b7 $10.32/share \u00b7 $66,378 total \u00b7 Jun 4 ($138,236 across all blocks)",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "RSVRW"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1864346/000186434626000004/0001864346-26-000004-index.htm",
+    "published_iso": "2026-06-05T01:57:47+00:00",
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "dec9e4ae0380",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Wulf John William received 2,133 shares of Agilon Health, Inc. (AGL) \u00b7 Jun 4",
+    "tags": [],
+    "tickers": [
+      "AGL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1856345/000162828026041025/0001628280-26-041025-index.htm",
+    "published_iso": "2026-06-05T01:57:15+00:00",
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "a1f72e108a85",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Williams Ronald A received 2,133 shares of Agilon Health, Inc. (AGL) \u00b7 Jun 4",
+    "tags": [],
+    "tickers": [
+      "AGL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1831097/000162828026041024/0001628280-26-041024-index.htm",
+    "published_iso": "2026-06-05T01:56:56+00:00",
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "48c540fce81d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Mcloughlin Karen received 2,133 shares of Agilon Health, Inc. (AGL) \u00b7 Jun 4",
+    "tags": [],
+    "tickers": [
+      "AGL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1831097/000162828026041023/0001628280-26-041023-index.htm",
+    "published_iso": "2026-06-05T01:56:35+00:00",
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "433b2092e06c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Mckenzie Diana received 2,133 shares of Agilon Health, Inc. (AGL) \u00b7 Jun 4",
+    "tags": [],
+    "tickers": [
+      "AGL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1831097/000162828026041022/0001628280-26-041022-index.htm",
+    "published_iso": "2026-06-05T01:56:15+00:00",
+    "time_ago": "4h ago"
+  },
+  {
     "id": "189ac565565b",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
@@ -18,7 +224,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1831097/000162828026041021/0001628280-26-041021-index.htm",
     "published_iso": "2026-06-05T01:55:51+00:00",
-    "time_ago": "just now"
+    "time_ago": "4h ago"
   },
   {
     "id": "140f1fc2c5c1",
@@ -39,7 +245,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1831097/000162828026041020/0001628280-26-041020-index.htm",
     "published_iso": "2026-06-05T01:55:25+00:00",
-    "time_ago": "1m ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "c42726fd0225",
@@ -60,226 +266,10 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/2004307/000196232926000051/0001962329-26-000051-index.htm",
     "published_iso": "2026-06-05T01:47:47+00:00",
-    "time_ago": "8m ago"
-  },
-  {
-    "id": "da92e24f1fa1",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Mcguire Annie withheld (tax) 3,292 shares of Veracyte, Inc. (VCYT) \u00b7 $47.80/share \u00b7 $157,358 total \u00b7 Jun 4 ($315,394 across all blocks)",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "VCYT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1914620/000191462026000011/0001914620-26-000011-index.htm",
-    "published_iso": "2026-06-05T01:38:52+00:00",
-    "time_ago": "17m ago"
-  },
-  {
-    "id": "54f4d8ac6add",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Wygant Jonathan withheld (tax) 1,361 shares of Veracyte, Inc. (VCYT) \u00b7 $47.80/share \u00b7 $65,056 total \u00b7 Jun 4",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "VCYT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1584145/000158414526000007/0001584145-26-000007-index.htm",
-    "published_iso": "2026-06-05T01:38:46+00:00",
-    "time_ago": "17m ago"
-  },
-  {
-    "id": "c82a3aafa198",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Chambers Rebecca withheld (tax) 3,693 shares of Veracyte, Inc. (VCYT) \u00b7 $47.80/share \u00b7 $176,525 total \u00b7 Jun 4 ($353,608 across all blocks)",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "VCYT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1823563/000182356326000014/0001823563-26-000014-index.htm",
-    "published_iso": "2026-06-05T01:38:40+00:00",
-    "time_ago": "17m ago"
-  },
-  {
-    "id": "4cfc83cdd6cd",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Febbo Phillip G. withheld (tax) 3,730 shares of Veracyte, Inc. (VCYT) \u00b7 $47.80/share \u00b7 $178,294 total \u00b7 Jun 4",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "VCYT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1649245/000164924526000007/0001649245-26-000007-index.htm",
-    "published_iso": "2026-06-05T01:38:34+00:00",
-    "time_ago": "18m ago"
-  },
-  {
-    "id": "43e51d0ab1be",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Stapley Marc withheld (tax) 9,012 shares of Veracyte, Inc. (VCYT) \u00b7 $47.80/share \u00b7 $430,774 total \u00b7 Jun 4 ($12,403,026 across all blocks)",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "VCYT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1539796/000153979626000015/0001539796-26-000015-index.htm",
-    "published_iso": "2026-06-05T01:38:26+00:00",
-    "time_ago": "18m ago"
-  },
-  {
-    "id": "068fa74439ef",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "House passes new Ukraine aid package, with 18 Republicans bucking Trump. The GOP-controlled House on Thursday passed legislation authorizing funding for military aid to Ukraine and sanctions on Russia, a largely symbolic move that nonetheless demonstrates some Republicans\u2019 willingness to buck President Trump on foreign",
-    "tags": [
-      "Defense",
-      "Regulation",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/international/5911086-house-passes-ukraine-aid/",
-    "published_iso": "2026-06-05T00:20:25+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "a3b1f105a242",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.Res. 518: Providing for consideration of the bill (H.R. 2913) to authorize support for Ukraine, and for other purposes.. Vote: Passed 216/204",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h206?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-04T22:15:00+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "688f40c1c7a6",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.R. 8646: Agriculture, Rural Development, Food and Drug Administration, and Related Agency Appropriations Act, 2027. Vote: Passed 213/210",
-    "tags": [
-      "Healthcare",
-      "Agriculture"
-    ],
-    "tickers": [
-      "CORN",
-      "SOYB",
-      "DE"
-    ],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h205?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-04T22:08:00+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "a14e0fe9ab41",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On Motion to Recommit: H.R. 8646: Agriculture, Rural Development, Food and Drug Administration, and Related Agency Appropriations Act, 2027. Vote: Failed 210/212",
-    "tags": [
-      "Healthcare",
-      "Agriculture"
-    ],
-    "tickers": [
-      "CORN",
-      "SOYB",
-      "DE"
-    ],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h204?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-04T21:56:00+00:00",
     "time_ago": "4h ago"
   },
   {
-    "id": "a30f79ac35d4",
+    "id": "cd33abbdd80f",
     "politician": "GovTrack",
     "initials": "GT",
     "role": "Congressional Legislation",
@@ -288,38 +278,17 @@
       "fg": "#7dd3fc"
     },
     "severity": "high",
-    "content": "H.Res. 1336: Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.. Vote: Passed 213/211",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h203?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-04T21:50:00+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "369f6f6fbba8",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Warner Amdt. No. 5556). Vote: Motion Rejected 49/49",
+    "content": "On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Sanders Amdt. No. 5451). Vote: Motion Rejected 45/53",
     "tags": [],
     "tickers": [],
     "source": "govtrack",
     "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s143?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-04T21:20:00+00:00",
-    "time_ago": "4h ago"
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s148?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-05T01:15:00+00:00",
+    "time_ago": "5h ago"
   },
   {
-    "id": "d442eaab0035",
+    "id": "4b9aee34f063",
     "politician": "GovTrack",
     "initials": "GT",
     "role": "Congressional Legislation",
@@ -328,16 +297,52 @@
       "fg": "#7dd3fc"
     },
     "severity": "high",
-    "content": "On Ordering the Previous Question: H.Res. 1336: Waiving a requirement of clause 6(a) of rule XIII with respect to consideration \u2026. Vote: Passed 212/210",
-    "tags": [
-      "Regulation"
-    ],
+    "content": "On the Motion (Warnock Motion to Commit S. 2 to the Committee on the Judiciary with Instructions). Vote: Motion Rejected 46/52",
+    "tags": [],
     "tickers": [],
     "source": "govtrack",
     "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h202?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-04T21:08:00+00:00",
-    "time_ago": "4h ago"
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s147?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-05T00:36:00+00:00",
+    "time_ago": "5h ago"
+  },
+  {
+    "id": "13384443dc27",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "H.R. 2913: Ukraine Support Act. Vote: Passed 226/195",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h207?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-05T00:08:00+00:00",
+    "time_ago": "6h ago"
+  },
+  {
+    "id": "47f669933236",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Kim Amdt. No. 5545). Vote: Motion Rejected 46/53",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s146?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-04T23:33:00+00:00",
+    "time_ago": "6h ago"
   },
   {
     "id": "f6e1efed1840",
@@ -362,45 +367,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/FBIDirectorKash/status/2062642034020700646#m",
     "published_iso": "2026-06-04T21:05:57+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "18f26db10557",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "critical",
-    "content": "H.Con.Res. 84: Directing the President pursuant to section 5(c) of the War Powers Resolution to remove United States Armed Forces from Lebanon.. Vote: Failed 92/324",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h201?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-04T20:43:00+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "227618f617f4",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Hassan Amdt. No. 5535). Vote: Motion Rejected 46/52",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s142?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-04T20:42:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "3ae14a595940",
@@ -426,7 +393,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2062586185663332466#m",
     "published_iso": "2026-06-04T17:24:02+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "56c5d29cac7f",
@@ -452,7 +419,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mni5blkepk27",
     "published_iso": "2026-06-04T17:23:56.157000+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "0b38cdeff238",
@@ -471,7 +438,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/private-equitys-going-after-your-utilities",
     "published_iso": "2026-06-04T15:49:37+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "7efa4c0a4cc7",
@@ -500,177 +467,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-sullivan-lead-colleagues-in-urging-bank-regulators-to-establish-fair-capital-standards-for-digital-assets/",
     "published_iso": "2026-06-04T14:07:24+00:00",
-    "time_ago": "11h ago"
-  },
-  {
-    "id": "fb98dbbcd272",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Special Local Regulation; Ohio River Mile Marker 90-91, Wheeling, WV. The Coast Guard is establishing a temporary special local regulation on the waters of the Ohio River from mile marker 90 to mile marker 91 in Wheeling, WV. This action is necessary to provide for the safety of life on these navigable waters from pote",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/06/04/2026-11277/special-local-regulation-ohio-river-mile-marker-90-91-wheeling-wv",
-    "published_iso": "2026-06-04T04:00:00+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "2e2c39c65f2c",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "critical",
-    "content": "Emergency Relief Program. FTA is amending its emergency relief regulation to reduce the regulatory burden on grant recipients by extending the baseline period to establish a waiver of certain administrative requirements related to FTA's Public Transportation Emergency Relief Program",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/06/04/2026-11274/emergency-relief-program",
-    "published_iso": "2026-06-04T04:00:00+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "4ce287892cb5",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Private Investment Project Procedures. The Federal Transit Administration (FTA) amends its Private Investment Project Procedures regulation to reduce the regulatory burden on recipients subject to FTA's private investment procedures by removing an unnecessary reporting requirement",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/06/04/2026-11273/private-investment-project-procedures",
-    "published_iso": "2026-06-04T04:00:00+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "f4aa90cf7a3e",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Project Management Oversight. This final rule modifies the applicability of project management oversight by raising the total cost and Federal investment thresholds to align with the statutory thresholds for Small Starts projects under FTA's Capital Investment Grant program",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/06/04/2026-11272/project-management-oversight",
-    "published_iso": "2026-06-04T04:00:00+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "593e8400e13c",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Public Transportation Safety Certification Training Program. The Federal Transit Administration (FTA) is publishing a final rule amending the reporting requirements for the Public Transportation Safety Certification Training Program (PTSCTP). This final rule reduces reporting burdens for rail transit agencies (RTA) and",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/06/04/2026-11271/public-transportation-safety-certification-training-program",
-    "published_iso": "2026-06-04T04:00:00+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "ee8c392ef505",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Rail Transit Roadway Worker Protection. The Federal Transit Administration (FTA) is publishing a final rule amending the Rail Transit Roadway Worker Protection (RWP) regulation. This final rule extends the time period for State Safety Oversight Agencies (SSOA) to report RWP programs to FTA and allows SSOAs to complete ",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/06/04/2026-11270/rail-transit-roadway-worker-protection",
-    "published_iso": "2026-06-04T04:00:00+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "3c39ff9cd1c8",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Establishing United States Citizenship for MARAD Program Participation; Simplifying the Application Process. On July 1, 2025, MARAD published a Notice of Proposed Rulemaking (NPRM), titled &quot;How to Best Evidence Corporate Citizenship: Policy and Regulatory Review,&quot; soliciting public comment on actions MARAD co",
-    "tags": [
-      "Trade",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/06/04/2026-11269/establishing-united-states-citizenship-for-marad-program-participation-simplifying-the-application",
-    "published_iso": "2026-06-04T04:00:00+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "8a157b867e3c",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "American Fisheries Act Program Update; Simplifying the Application Process. On July 1, 2025, MARAD published a Notice of Proposed Rulemaking (NPRM), titled &quot;American Fisheries Act Program Update; Simplifying the Application Process,&quot; soliciting public comment on steps MARAD could take to simplify and moderniz",
-    "tags": [
-      "Trade",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/06/04/2026-11267/american-fisheries-act-program-update-simplifying-the-application-process",
-    "published_iso": "2026-06-04T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "ddb58e0107d1",
@@ -782,7 +579,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2061994535366873246#m",
     "published_iso": "2026-06-03T02:13:01+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "b730b555f5bc",
