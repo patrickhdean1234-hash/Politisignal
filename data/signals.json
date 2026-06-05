@@ -38,7 +38,7 @@
     "time_ago": "just now"
   },
   {
-    "id": "3473385e4269",
+    "id": "545141e79b47",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -47,19 +47,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Shrewsbury Ronda received 1,542 shares of 1St Source Corp (SRCE) \u00b7 $73.49/share \u00b7 $113,322 total \u00b7 Jun 5",
+    "content": "Walker-Lee Robin A received 230 shares of Emcor Group, Inc. (EME) \u00b7 Jun 5",
     "tags": [],
     "tickers": [
-      "SRCE"
+      "EME"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1856339/000185633926000004/0001856339-26-000004-index.htm",
-    "published_iso": "2026-06-05T13:34:46+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/1483329/000010563426000101/0000105634-26-000101-index.htm",
+    "published_iso": "2026-06-05T16:14:40+00:00",
     "time_ago": "2m ago"
   },
   {
-    "id": "d744123ddf23",
+    "id": "81262008871d",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -68,19 +68,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Schwabero Mark D received 1,338 shares of 1St Source Corp (SRCE) \u00b7 $73.49/share \u00b7 $98,330 total \u00b7 Jun 5",
+    "content": "Schwarzwaelder Steven received 230 shares of Emcor Group, Inc. (EME) \u00b7 Jun 5",
     "tags": [],
     "tickers": [
-      "SRCE"
+      "EME"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1281348/000128134826000004/0001281348-26-000004-index.htm",
-    "published_iso": "2026-06-05T13:33:51+00:00",
-    "time_ago": "3m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1529253/000010563426000099/0000105634-26-000099-index.htm",
+    "published_iso": "2026-06-05T16:11:43+00:00",
+    "time_ago": "5m ago"
   },
   {
-    "id": "abc40e8ca8e0",
+    "id": "7087f744d9f0",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -89,19 +89,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Graham Tracy D received 562 shares of 1St Source Corp (SRCE) \u00b7 $73.49/share \u00b7 $41,301 total \u00b7 Jun 5",
+    "content": "Vinciarelli Patrizio sold 1,600 shares of Vicor Corp (VICR) \u00b7 $305.15/share \u00b7 $488,241 total \u00b7 Jun 5 ($6,237,098 across all blocks)",
     "tags": [],
     "tickers": [
-      "SRCE"
+      "VICR"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1544055/000154405526000006/0001544055-26-000006-index.htm",
-    "published_iso": "2026-06-05T13:32:39+00:00",
-    "time_ago": "4m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/901484/000090148426000017/0000901484-26-000017-index.htm",
+    "published_iso": "2026-06-05T16:10:47+00:00",
+    "time_ago": "6m ago"
   },
   {
-    "id": "a7ee52dcad88",
+    "id": "ec6b5b0d30df",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -110,16 +110,86 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Schurz Todd F. received 1,515 shares of 1St Source Corp (SRCE) \u00b7 $73.49/share \u00b7 $111,337 total \u00b7 Jun 5",
+    "content": "Roche Patrick J received 304 shares of Emcor Group, Inc. (EME) \u00b7 Jun 5",
     "tags": [],
     "tickers": [
-      "SRCE"
+      "EME"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1819846/000181984626000004/0001819846-26-000004-index.htm",
-    "published_iso": "2026-06-05T13:26:43+00:00",
-    "time_ago": "10m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1557074/000010563426000097/0000105634-26-000097-index.htm",
+    "published_iso": "2026-06-05T16:09:40+00:00",
+    "time_ago": "7m ago"
+  },
+  {
+    "id": "753bade01c5a",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "The US is still an investors' haven, but high Treasury yields are a concern. The premium that investors require to hold dollar debt could rise further",
+    "tags": [],
+    "tickers": [
+      "GLD",
+      "TLT",
+      "SPY"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/finance/5910516-us-debt-market-challenges/",
+    "published_iso": "2026-06-05T15:30:00+00:00",
+    "time_ago": "46m ago"
+  },
+  {
+    "id": "3b24083658f1",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "At 4am, Republicans gave the greenlight for the IRS to drop investigations into Trump and his family. At 4am, Republicans gave the greenlight for the IRS to drop investigations into Trump and his family",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "http://www.warren.senate.gov/newsroom/videos/watch/at-4am-republicans-gave-the-greenlight-for-the-irs-to-drop-investigations-into-trump-and-his-family",
+    "published_iso": "2026-06-05T14:25:27+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "123b7a4cb2a3",
+    "politician": "Sen. Bernie Sanders",
+    "initials": "BS",
+    "role": "Senate HELP Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#818cf8"
+    },
+    "severity": "high",
+    "content": "Will Lawrence is running a people-powered campaign taking on Big Money interests. He's an organizer ready to champion Medicare for All, protect Social Security and demand accountability for AI companies. \n \nHe's the exact type of leader the American people deserve in Congress. \n \n Video",
+    "tags": [
+      "Healthcare",
+      "Regulation"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/BernieSanders/status/2062898717594632313#m",
+    "published_iso": "2026-06-05T14:05:55+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "9be0e59e906b",
@@ -138,10 +208,10 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s164?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-05T08:52:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
-    "id": "f30731e55ea0",
+    "id": "f6bbf03b0a05",
     "politician": "GovTrack",
     "initials": "GT",
     "role": "Congressional Legislation",
@@ -150,7 +220,7 @@
       "fg": "#7dd3fc"
     },
     "severity": "critical",
-    "content": "S. 2: Secure America Act. Vote: Bill Passed 52/47",
+    "content": "S. 2: An original bill to provide for reconciliation pursuant to title II of S. Con. Res. 33.. Vote: Bill Passed 52/47",
     "tags": [
       "Regulation"
     ],
@@ -159,7 +229,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s163?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-05T08:42:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "991666674bfe",
@@ -178,7 +248,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s162?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-05T08:28:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "2031d1cdbb40",
@@ -197,7 +267,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s161?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-05T08:15:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "13e56cb80f62",
@@ -216,7 +286,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s160?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-05T07:58:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "d82f87c2dbc0",
@@ -235,7 +305,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s159?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-05T07:41:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "6ff4744f931e",
@@ -257,7 +327,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/05/2026-11363/exceptions-from-foreign-ownership-control-or-domination",
     "published_iso": "2026-06-05T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "c25a65dc56af",
@@ -278,7 +348,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/05/2026-11360/extending-the-reporting-deadline-under-the-greenhouse-gas-reporting-rule-for-2025-correction",
     "published_iso": "2026-06-05T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "f3097ed4bca8",
@@ -299,7 +369,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/05/2026-11313/seamens-claims-administrative-action-and-litigation",
     "published_iso": "2026-06-05T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "fe230404a1cb",
@@ -320,7 +390,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/05/2026-11311/special-local-regulation-genesee-river-rochester-ny",
     "published_iso": "2026-06-05T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "16a63a8d221e",
@@ -341,7 +411,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/05/2026-11308/medical-devices-orthopedic-devices-classification-of-the-resorbable-calcium-salt-bone-void-filler",
     "published_iso": "2026-06-05T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "0e97853fad85",
@@ -363,7 +433,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/05/2026-11307/amendment-of-class-e-airspace-springfield-ky",
     "published_iso": "2026-06-05T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "f0cc84babe9b",
@@ -385,7 +455,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/05/2026-11306/medical-devices-orthopedic-devices-classification-of-the-shoulder-joint-humeral-hemi-shoulder",
     "published_iso": "2026-06-05T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "41b5697fec7f",
@@ -407,32 +477,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/05/2026-11304/establishment-of-class-e-airspace-wickenburg-az",
     "published_iso": "2026-06-05T04:00:00+00:00",
-    "time_ago": "9h ago"
-  },
-  {
-    "id": "f6e1efed1840",
-    "politician": "Rep. Jim Jordan",
-    "initials": "JJ",
-    "role": "House Judiciary Committee Chair",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fca5a5"
-    },
-    "severity": "critical",
-    "content": "You mess with our kids, and you WILL be caught! \n \nThank you to our partners in Ohio that helped facilitate Operation Playground Therapy. Together, we investigated health care companies in Ohio who offered community-based programs for Medicaid-enrolled children across the Southern District of Ohio. \n \nThese companies a",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/FBIDirectorKash/status/2062642034020700646#m",
-    "published_iso": "2026-06-04T21:05:57+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "56c5d29cac7f",
@@ -458,7 +503,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mni5blkepk27",
     "published_iso": "2026-06-04T17:23:56.157000+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "0b38cdeff238",
@@ -477,7 +522,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/private-equitys-going-after-your-utilities",
     "published_iso": "2026-06-04T15:49:37+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "7efa4c0a4cc7",
@@ -506,7 +551,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-sullivan-lead-colleagues-in-urging-bank-regulators-to-establish-fair-capital-standards-for-digital-assets/",
     "published_iso": "2026-06-04T14:07:24+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "ddb58e0107d1",
@@ -575,52 +620,6 @@
     "time_ago": "1d ago"
   },
   {
-    "id": "cc3ca08ca1e1",
-    "politician": "Rep. Mike Johnson",
-    "initials": "MJ",
-    "role": "Speaker of the House",
-    "color": {
-      "bg": "#2a1a1a",
-      "fg": "#fbbf24"
-    },
-    "severity": "medium",
-    "content": "Here's the fact: this tax season was a great boost for hardworking American families. That's exactly how we designed the Working Families Tax Cuts, and that is what the numbers now prove that we achieved. \n\u00a0 \nAfter voting against tax relief for low and middle class earners, Democrats have zero credibility when it comes",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/SpeakerJohnson/status/2062258293666730087#m",
-    "published_iso": "2026-06-03T19:41:06+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "51a2166bc3bb",
-    "politician": "Sen. Bernie Sanders",
-    "initials": "BS",
-    "role": "Senate HELP Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#818cf8"
-    },
-    "severity": "medium",
-    "content": "Congratulations to Dr. Adam Hamawy on his landslide victory tonight in the New Jersey 12th district Democratic primary. \n \nDr. Hamawy will be a strong progressive voice in the House and, as a physician, he understands our healthcare system is broken and we need Medicare for All.",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/BernieSanders/status/2061994535366873246#m",
-    "published_iso": "2026-06-03T02:13:01+00:00",
-    "time_ago": "2d ago"
-  },
-  {
     "id": "b730b555f5bc",
     "politician": "Politico",
     "initials": "PO",
@@ -686,7 +685,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
     "published_iso": "2026-06-02T15:34:13+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "5975851e8422",
@@ -705,7 +704,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm",
     "published_iso": "2026-06-02T15:00:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "cb28de6b473b",
@@ -731,7 +730,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260528a.htm",
     "published_iso": "2026-05-28T15:00:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "a1e6af3705a6",
@@ -828,7 +827,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260521a.htm",
     "published_iso": "2026-05-21T15:00:00+00:00",
-    "time_ago": "14d ago"
+    "time_ago": "15d ago"
   },
   {
     "id": "2238b50fba31",
@@ -899,7 +898,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-legalizing-premium-health-care-act/",
     "published_iso": "2026-05-20T15:26:37+00:00",
-    "time_ago": "15d ago"
+    "time_ago": "16d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -920,7 +919,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "24d ago"
+    "time_ago": "25d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -946,7 +945,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "30d ago"
+    "time_ago": "31d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -968,7 +967,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "38d ago"
+    "time_ago": "39d ago"
   },
   {
     "id": "0047e3ab5b67",
@@ -990,7 +989,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "45d ago"
+    "time_ago": "46d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1014,7 +1013,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "66d ago"
+    "time_ago": "67d ago"
   },
   {
     "id": "d52e199aa058",
@@ -1055,7 +1054,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "100d ago"
+    "time_ago": "101d ago"
   },
   {
     "id": "602146d3f751",
@@ -1098,7 +1097,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "111d ago"
+    "time_ago": "112d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1117,7 +1116,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "111d ago"
+    "time_ago": "112d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1162,7 +1161,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "170d ago"
+    "time_ago": "171d ago"
   },
   {
     "id": "e88c3c11d67a",
@@ -1184,6 +1183,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/983956",
     "published_iso": "2025-10-30T16:06:54+00:00",
-    "time_ago": "217d ago"
+    "time_ago": "218d ago"
   }
 ]
