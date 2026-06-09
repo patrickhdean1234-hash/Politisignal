@@ -1,6 +1,6 @@
 [
   {
-    "id": "4b20e88b9e67",
+    "id": "97b23edab375",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,42 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Patel Sagar A sold 29,499 shares of Kennametal Inc (KMT) \u00b7 $33.50/share \u00b7 $988,203 total \u00b7 Jun 9",
-    "tags": [
-      "Big Tech"
-    ],
-    "tickers": [
-      "KMT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1523231/000152323126000001/0001523231-26-000001-index.htm",
-    "published_iso": "2026-06-09T15:22:21+00:00",
-    "time_ago": "10m ago"
-  },
-  {
-    "id": "ae0d8fb1662c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Long Jason E sold 1,360 shares of C & F Financial Corp (CFFI) \u00b7 $75.50/share \u00b7 $102,680 total \u00b7 Jun 9",
+    "content": "Combs Michael G sold 7,000 shares of Corvel Corp (CRVL) \u00b7 $60.22/share \u00b7 $421,558 total \u00b7 Jun 9",
     "tags": [],
     "tickers": [
-      "CFFI"
+      "CRVL"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1669850/000166985026000008/0001669850-26-000008-index.htm",
-    "published_iso": "2026-06-09T15:18:32+00:00",
-    "time_ago": "14m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1641248/000164124826000010/0001641248-26-000010-index.htm",
+    "published_iso": "2026-06-09T17:31:09+00:00",
+    "time_ago": "4m ago"
   },
   {
-    "id": "966064e48a91",
+    "id": "5ca5e26f9315",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -53,87 +30,60 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Sam Bankman-Fried applied for Trump pardon. FTX founder Sam Bankman-Fried has formally applied for a pardon, as he serves out a 25-year sentence on fraud charges tied to the high-profile collapse of his cryptocurrency exchange. Bankman-Fried is seeking a pardon after the completion of his sentence, according to the Off",
+    "content": "Iran is turning Lebanon into a veto point \u2014 and we are letting it happen. The U.S.-Iran memorandum of understanding pairs the nuclear and Lebanon tracks, creating a situation where Hezbollah's rejection of the U.S.-brokered Lebanon ceasefire could halt nuclear diplomacy, as Iran has engineered the situation to use regi",
     "tags": [
-      "Crypto",
-      "Banking"
+      "Taxes",
+      "Sanctions"
     ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/international/5915839-lebanon-nuclear-deal-threat/",
+    "published_iso": "2026-06-09T17:00:00+00:00",
+    "time_ago": "35m ago"
+  },
+  {
+    "id": "7acba70b4fc8",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Helicopter crew rescued by unmanned Navy vessel near Strait of Hormuz. An unmanned U.S. Navy surface vessel rescued the\u00a0U.S. Army AH-64 Apache crew late Monday that went down\u00a0near the Strait of Hormuz.\u00a0 The two crew members, who were in the waters close to the coast of Oman, were located and picked up by a Saronic Cors",
+    "tags": [],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/5916200-bankman-fried-seeks-pardon/",
-    "published_iso": "2026-06-09T14:42:51+00:00",
+    "url": "https://thehill.com/policy/defense/5916494-unmanned-navy-vessel-apache-rescue/",
+    "published_iso": "2026-06-09T16:45:52+00:00",
     "time_ago": "49m ago"
   },
   {
-    "id": "8829502ad4b8",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "b8f83b5947d0",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
     },
-    "severity": "critical",
-    "content": "Congress is choosing lobbyists over voters, and could re-legalize horse slaughter. The Save Our Bacon (SOB) Act, included in the House farm bill, could potentially re-legalize horse slaughter nationwide, despite strong bipartisan opposition and the existing state-level bans",
+    "severity": "high",
+    "content": "First Lady Melania Trump Honors America\u2019s Next Generation of Top AI Talent at Historic Presidential AI Challenge Awards Ceremony. \u201cToday is about opening doors,\u201d said First Lady Melania Trump. \u201cWhen new doors open, passions flow, courage blossoms, and dreams are realized. AI inspires.\u201d Mrs. Trump awarded America\u2019s six ",
     "tags": [
-      "Agriculture",
-      "Regulation"
-    ],
-    "tickers": [
-      "CORN",
-      "SOYB",
-      "DE"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/congress-blog/5915596-horse-slaughter-farm-bill/",
-    "published_iso": "2026-06-09T14:30:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "98b069271dc5",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Kennedy Center removes Trump name from website, YouTube page. The Kennedy Center on Monday scrubbed its website and YouTube pages of references to President Trump. On Monday, Trump\u2019s name was also excluded from formal invitations to the annual honors ceremony at the center. However, his name remains on the venue's Inst",
-    "tags": [
-      "Big Tech"
-    ],
-    "tickers": [
-      "GOOGL"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5916195-kennedy-center-donald-trump-name-website-youtube/",
-    "published_iso": "2026-06-09T14:28:50+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "89ba0f469f4c",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "White House negotiating federal preemption of state AI laws in exchange for Hill priorities. The White House is negotiating with Capitol Hill to secure federal preemption of some state regulations on artificial intelligence (AI) in exchange for technology policies related to kids safety and deepfake protections. Sen. M",
-    "tags": [
-      "Defense",
-      "Regulation"
+      "Taxes"
     ],
     "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/5916062-artificial-intelligence-federal-preemption-negotiations/",
-    "published_iso": "2026-06-09T14:00:49+00:00",
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trump-honors-americas-next-generation-of-top-ai-talent-at-historic-presidential-ai-challenge-awards-ceremony/",
+    "published_iso": "2026-06-09T15:51:33+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -155,7 +105,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11560/airworthiness-directives-airbus-helicopters",
     "published_iso": "2026-06-09T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "c87b0faa7f2d",
@@ -176,7 +126,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11559/preemption-federal-credit-union-non-interest-charges-and-fees",
     "published_iso": "2026-06-09T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "ffaa2eb33334",
@@ -197,7 +147,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11531/reducing-bureaucracy-and-burden-for-community-services-programs",
     "published_iso": "2026-06-09T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "ccd0fd0d4b3a",
@@ -216,7 +166,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11528/airworthiness-directives-pilatus-aircraft-ltd-airplanes",
     "published_iso": "2026-06-09T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "55715bd14928",
@@ -238,7 +188,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11526/implementation-of-the-substance-use-disorder-prevention-that-promotes-opioid-recovery-and-treatment",
     "published_iso": "2026-06-09T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "1f1494973c74",
@@ -259,7 +209,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11513/schedule-of-fees-for-consular-services-department-of-state-and-overseas-embassies-and",
     "published_iso": "2026-06-09T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "120dd56799e2",
@@ -278,7 +228,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11511/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-06-09T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "466fb1faaea1",
@@ -297,7 +247,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11510/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-06-09T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "a7b9fdd2b560",
@@ -320,7 +270,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mnsw2bg4ic2h",
     "published_iso": "2026-06-09T00:13:51.597000+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "b11e8c20d94d",
@@ -344,7 +294,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2064126058643783935#m",
     "published_iso": "2026-06-08T23:22:56+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "cc8de0831321",
@@ -363,7 +313,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h209?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-08T23:04:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "021d8429b8c1",
@@ -382,7 +332,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h208?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-08T22:56:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "643aaa729222",
@@ -401,7 +351,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s165?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-08T21:25:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "d2dbe1b4a8d0",
@@ -422,7 +372,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2064083154692952116#m",
     "published_iso": "2026-06-08T20:32:27+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "9938c3f2aa9d",
@@ -443,7 +393,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-3556/",
     "published_iso": "2026-06-08T19:38:26+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "8f89ac3eb2bb",
@@ -502,7 +452,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s153?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-05T16:40:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "9be0e59e906b",
@@ -870,7 +820,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "28d ago"
+    "time_ago": "29d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -940,7 +890,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "49d ago"
+    "time_ago": "50d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1005,7 +955,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "104d ago"
+    "time_ago": "105d ago"
   },
   {
     "id": "602146d3f751",
@@ -1093,7 +1043,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "137d ago"
+    "time_ago": "138d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1134,6 +1084,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/983956",
     "published_iso": "2025-10-30T16:06:54+00:00",
-    "time_ago": "221d ago"
+    "time_ago": "222d ago"
   }
 ]
