@@ -1,5 +1,122 @@
 [
   {
+    "id": "e1bc68e215e0",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Jpmorgan Chase Bank, N.A. acquired/disposed 1,274 shares of Aberdeen Municipal Income Fund (MFM) \u00b7 Jun 9",
+    "tags": [
+      "Banking",
+      "Insider Trade"
+    ],
+    "tickers": [
+      "MFM",
+      "JPM"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/835271/000119312526264049/0001193125-26-264049-index.htm",
+    "published_iso": "2026-06-09T21:21:38+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "4588ae3efed9",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Dannenfeldt Thomas withheld (tax) 311 shares of T-Mobile Us, Inc. (TMUSL) \u00b7 $178.10/share \u00b7 $55,460 total \u00b7 Jun 9",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "TMUSL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1592495/000128369926000074/0001283699-26-000074-index.htm",
+    "published_iso": "2026-06-09T21:19:48+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "1be0dc0dc96a",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Cashman Steve sold 104,781 shares of Butterfly Network, Inc. (BFLY) \u00b7 $4.96/share \u00b7 $520,133 total \u00b7 Jun 9 ($1,893,342 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "BFLY"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2035576/000206483226000223/0002064832-26-000223-index.htm",
+    "published_iso": "2026-06-09T21:19:47+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "b0c01587dd99",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "critical",
+    "content": "Congressional Bills H.R. 3490 and S. 2393 Signed into Law. On Tuesday, June 9, 2026, the President signed into law: H.R. 3490, the &#8220;Gerald E. Connolly Esophageal Cancer Awareness Act of 2025,&#8221; which requires the Government Accountability Office to produce a report on esophageal cancer; and S. 2393, the &#82",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/06/congressional-bills-h-r-3490-and-s-2393-signed-into-law/",
+    "published_iso": "2026-06-09T20:01:10+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "82c28da78cda",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.. Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm",
+    "published_iso": "2026-06-09T20:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "217ce3911cd1",
     "politician": "Sen. Elizabeth Warren",
     "initials": "EW",
@@ -23,28 +140,33 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mnuwm6dydk2s",
     "published_iso": "2026-06-09T19:29:11.837000+00:00",
-    "time_ago": "6m ago"
+    "time_ago": "1h ago"
   },
   {
-    "id": "acc8b399227a",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "c9e2edac44d6",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
     },
-    "severity": "medium",
-    "content": "Mascolo Elizabeth received 15,083 shares of General Mills Inc (GIS) \u00b7 Jun 9",
-    "tags": [],
-    "tickers": [
-      "GIS"
+    "severity": "critical",
+    "content": "This is Donald Trump's economy.  \n \nInstead of addressing the economic pain Americans are feeling, the President is doubling down on his reckless tariffs and his war in Iran.",
+    "tags": [
+      "Trade",
+      "Sanctions"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2060847/000089710126000213/0000897101-26-000213-index.htm",
-    "published_iso": "2026-06-09T19:28:34+00:00",
-    "time_ago": "7m ago"
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SenWarren/status/2064429503590322447#m",
+    "published_iso": "2026-06-09T19:28:43+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "e3c024d0bc34",
@@ -65,7 +187,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2064414222629405178#m",
     "published_iso": "2026-06-09T18:28:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "b8f83b5947d0",
@@ -86,7 +208,29 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trump-honors-americas-next-generation-of-top-ai-talent-at-historic-presidential-ai-challenge-awards-ceremony/",
     "published_iso": "2026-06-09T15:51:33+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "5h ago"
+  },
+  {
+    "id": "30219695fcbf",
+    "politician": "Politico",
+    "initials": "PO",
+    "role": "Political News",
+    "color": {
+      "bg": "#1a0a0a",
+      "fg": "#fca5a5"
+    },
+    "severity": "medium",
+    "content": "Lindsey Graham is fighting off an \u2018America First\u2019 primary challenge. The senator is facing a well-funded challenge supported by some of President Donald Trump\u2019s highest-profile MAGA defectors",
+    "tags": [
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "politico",
+    "platform": "Politico",
+    "url": "https://www.politico.com/news/2026/06/09/lindsey-graham-primary-challenge-america-first-iran-00954007",
+    "published_iso": "2026-06-09T09:00:00+00:00",
+    "time_ago": "12h ago"
   },
   {
     "id": "4ab5b92ec661",
@@ -107,7 +251,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11560/airworthiness-directives-airbus-helicopters",
     "published_iso": "2026-06-09T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "c87b0faa7f2d",
@@ -128,7 +272,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11559/preemption-federal-credit-union-non-interest-charges-and-fees",
     "published_iso": "2026-06-09T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "ffaa2eb33334",
@@ -149,7 +293,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11531/reducing-bureaucracy-and-burden-for-community-services-programs",
     "published_iso": "2026-06-09T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "ccd0fd0d4b3a",
@@ -168,7 +312,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11528/airworthiness-directives-pilatus-aircraft-ltd-airplanes",
     "published_iso": "2026-06-09T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "55715bd14928",
@@ -190,7 +334,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11526/implementation-of-the-substance-use-disorder-prevention-that-promotes-opioid-recovery-and-treatment",
     "published_iso": "2026-06-09T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "1f1494973c74",
@@ -211,7 +355,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11513/schedule-of-fees-for-consular-services-department-of-state-and-overseas-embassies-and",
     "published_iso": "2026-06-09T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "120dd56799e2",
@@ -230,7 +374,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11511/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-06-09T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "466fb1faaea1",
@@ -249,7 +393,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11510/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-06-09T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "a7b9fdd2b560",
@@ -272,7 +416,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mnsw2bg4ic2h",
     "published_iso": "2026-06-09T00:13:51.597000+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "b11e8c20d94d",
@@ -296,7 +440,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2064126058643783935#m",
     "published_iso": "2026-06-08T23:22:56+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "cc8de0831321",
@@ -315,7 +459,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h209?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-08T23:04:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "021d8429b8c1",
@@ -334,7 +478,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h208?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-08T22:56:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "643aaa729222",
@@ -353,7 +497,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s165?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-08T21:25:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "d2dbe1b4a8d0",
@@ -374,7 +518,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2064083154692952116#m",
     "published_iso": "2026-06-08T20:32:27+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "9938c3f2aa9d",
@@ -395,7 +539,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-3556/",
     "published_iso": "2026-06-08T19:38:26+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "8f89ac3eb2bb",
@@ -414,6 +558,27 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s151?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-06T03:39:00+00:00",
+    "time_ago": "3d ago"
+  },
+  {
+    "id": "7fa1a085ed17",
+    "politician": "Politico",
+    "initials": "PO",
+    "role": "Political News",
+    "color": {
+      "bg": "#1a0a0a",
+      "fg": "#fca5a5"
+    },
+    "severity": "medium",
+    "content": "Sen. Brian Schatz offers first show of support for scandal-ridden Graham Platner. He hasn\u2019t formally endorsed yet, but he is scheduled to appear at a virtual donor event Sunday",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "politico",
+    "platform": "Politico",
+    "url": "https://www.politico.com/news/2026/06/05/brian-schatz-graham-platner-maine-donors-00952600",
+    "published_iso": "2026-06-06T02:24:39+00:00",
     "time_ago": "3d ago"
   },
   {
@@ -607,7 +772,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/may/united-states-and-mexico-conclude-first-bilateral-round-related-joint-review-usmca",
     "published_iso": "2026-05-29T20:07:23+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "cb28de6b473b",
@@ -678,7 +843,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260522a.htm",
     "published_iso": "2026-05-22T20:15:00+00:00",
-    "time_ago": "17d ago"
+    "time_ago": "18d ago"
   },
   {
     "id": "ee13b7f3bdd8",
@@ -704,7 +869,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260522a.htm",
     "published_iso": "2026-05-22T20:00:00+00:00",
-    "time_ago": "17d ago"
+    "time_ago": "18d ago"
   },
   {
     "id": "1290214ad3cd",
@@ -756,25 +921,6 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260520a.htm",
     "published_iso": "2026-05-20T20:00:00+00:00",
-    "time_ago": "19d ago"
-  },
-  {
-    "id": "d61054dd074f",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "Minutes of the Federal Open Market Committee, April 28-29, 2026. Minutes of the Federal Open Market Committee, April 28-29, 2026",
-    "tags": [],
-    "tickers": [],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm",
-    "published_iso": "2026-05-20T18:00:00+00:00",
     "time_ago": "20d ago"
   },
   {
@@ -979,7 +1125,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-announces-2026-service-academy-nominations/",
     "published_iso": "2026-02-18T19:38:51+00:00",
-    "time_ago": "110d ago"
+    "time_ago": "111d ago"
   },
   {
     "id": "00f579ee8f55",
