@@ -1,6 +1,6 @@
 [
   {
-    "id": "e1bc68e215e0",
+    "id": "8ba4d41be051",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -8,24 +8,43 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "critical",
-    "content": "Jpmorgan Chase Bank, N.A. acquired/disposed 1,274 shares of Aberdeen Municipal Income Fund (MFM) \u00b7 Jun 9",
+    "severity": "medium",
+    "content": "Silver Lake Group, L.L.C. exercised options for 632 shares of Dell Technologies Inc. (DELL) \u00b7 Jun 9 ($255,101 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "DELL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1737657/000119312526264423/0001193125-26-264423-index.htm",
+    "published_iso": "2026-06-09T22:44:44+00:00",
+    "time_ago": "10m ago"
+  },
+  {
+    "id": "936ae04fba4d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Gray Jonathan H. acquired/disposed 396,901 shares of Prairie Operating Co. (PROP) \u00b7 $1.81/share \u00b7 $718,391 total \u00b7 Jun 9 ($986,214 across all blocks)",
     "tags": [
-      "Banking",
       "Insider Trade"
     ],
     "tickers": [
-      "MFM",
-      "JPM"
+      "PROP"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/835271/000119312526264049/0001193125-26-264049-index.htm",
-    "published_iso": "2026-06-09T21:21:38+00:00",
-    "time_ago": "just now"
+    "url": "https://www.sec.gov/Archives/edgar/data/1977414/000114036126024676/0001140361-26-024676-index.htm",
+    "published_iso": "2026-06-09T22:43:30+00:00",
+    "time_ago": "11m ago"
   },
   {
-    "id": "4588ae3efed9",
+    "id": "fc7c35f1f81c",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -34,39 +53,58 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Dannenfeldt Thomas withheld (tax) 311 shares of T-Mobile Us, Inc. (TMUSL) \u00b7 $178.10/share \u00b7 $55,460 total \u00b7 Jun 9",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "TMUSL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1592495/000128369926000074/0001283699-26-000074-index.htm",
-    "published_iso": "2026-06-09T21:19:48+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "1be0dc0dc96a",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Cashman Steve sold 104,781 shares of Butterfly Network, Inc. (BFLY) \u00b7 $4.96/share \u00b7 $520,133 total \u00b7 Jun 9 ($1,893,342 across all blocks)",
+    "content": "Karachun Rita A received 30,000 shares of Coherus Oncology, Inc. (CHRS) \u00b7 Jun 9",
     "tags": [],
     "tickers": [
-      "BFLY"
+      "CHRS"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2035576/000206483226000223/0002064832-26-000223-index.htm",
-    "published_iso": "2026-06-09T21:19:47+00:00",
-    "time_ago": "2m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1601572/000161071726000205/0001610717-26-000205-index.htm",
+    "published_iso": "2026-06-09T22:43:22+00:00",
+    "time_ago": "11m ago"
+  },
+  {
+    "id": "eda7f81e27aa",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Newcomer Lee Nisley received 30,000 shares of Coherus Oncology, Inc. (CHRS) \u00b7 Jun 9",
+    "tags": [],
+    "tickers": [
+      "CHRS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1788981/000161071726000204/0001610717-26-000204-index.htm",
+    "published_iso": "2026-06-09T22:42:41+00:00",
+    "time_ago": "12m ago"
+  },
+  {
+    "id": "524f616d0e6e",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Silver Lake Group, L.L.C. exercised options for 95,192 shares of Dell Technologies Inc. (DELL) \u00b7 Jun 9 ($36,128,593 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "DELL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1672568/000119312526264418/0001193125-26-264418-index.htm",
+    "published_iso": "2026-06-09T22:41:39+00:00",
+    "time_ago": "13m ago"
   },
   {
     "id": "b0c01587dd99",
@@ -88,7 +126,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/06/congressional-bills-h-r-3490-and-s-2393-signed-into-law/",
     "published_iso": "2026-06-09T20:01:10+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "82c28da78cda",
@@ -114,7 +152,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm",
     "published_iso": "2026-06-09T20:00:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "217ce3911cd1",
@@ -140,7 +178,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mnuwm6dydk2s",
     "published_iso": "2026-06-09T19:29:11.837000+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "c9e2edac44d6",
@@ -166,7 +204,49 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2064429503590322447#m",
     "published_iso": "2026-06-09T19:28:43+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "56bc12731f9b",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On Motion to Discharge: H.Res. 1140: Providing for consideration of the bill (H.R. 5408) to accelerate workplace time-to-contract under \u2026. Vote: Passed 220/199",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h212?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-09T18:50:00+00:00",
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "c70c54f1cecd",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "H.Res. 1345: Providing for consideration of the bill (H.R. 8312) to establish fraud prevention and program integrity functions and data sharing authorities within the Department of Treasury and a permanent governmentwide Inspector General for Fraud, Acco. Vote: Passed 213/211",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h211?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-09T18:41:00+00:00",
+    "time_ago": "4h ago"
   },
   {
     "id": "e3c024d0bc34",
@@ -187,7 +267,47 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2064414222629405178#m",
     "published_iso": "2026-06-09T18:28:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "8755c52ee8f0",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On the Nomination PN851-4: Anthony W. Mattivi, of Kansas, to be United States District Judge for the District of Kansas. Vote: Nomination Confirmed 51/46",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s166?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-09T18:15:00+00:00",
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "56e912ac14ac",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On Ordering the Previous Question: H.Res. 1345: Providing for consideration of the bill (H.R. 8312) to establish fraud prevention and \u2026. Vote: Passed 214/211",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h210?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-09T18:05:00+00:00",
+    "time_ago": "4h ago"
   },
   {
     "id": "b8f83b5947d0",
@@ -208,7 +328,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trump-honors-americas-next-generation-of-top-ai-talent-at-historic-presidential-ai-challenge-awards-ceremony/",
     "published_iso": "2026-06-09T15:51:33+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "30219695fcbf",
@@ -230,7 +350,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/06/09/lindsey-graham-primary-challenge-america-first-iran-00954007",
     "published_iso": "2026-06-09T09:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "4ab5b92ec661",
@@ -251,7 +371,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11560/airworthiness-directives-airbus-helicopters",
     "published_iso": "2026-06-09T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "c87b0faa7f2d",
@@ -272,7 +392,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11559/preemption-federal-credit-union-non-interest-charges-and-fees",
     "published_iso": "2026-06-09T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "ffaa2eb33334",
@@ -293,7 +413,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11531/reducing-bureaucracy-and-burden-for-community-services-programs",
     "published_iso": "2026-06-09T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "ccd0fd0d4b3a",
@@ -312,7 +432,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11528/airworthiness-directives-pilatus-aircraft-ltd-airplanes",
     "published_iso": "2026-06-09T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "55715bd14928",
@@ -334,7 +454,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11526/implementation-of-the-substance-use-disorder-prevention-that-promotes-opioid-recovery-and-treatment",
     "published_iso": "2026-06-09T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "1f1494973c74",
@@ -355,7 +475,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11513/schedule-of-fees-for-consular-services-department-of-state-and-overseas-embassies-and",
     "published_iso": "2026-06-09T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "120dd56799e2",
@@ -374,7 +494,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11511/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-06-09T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "466fb1faaea1",
@@ -393,7 +513,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/09/2026-11510/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-06-09T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "a7b9fdd2b560",
@@ -416,7 +536,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mnsw2bg4ic2h",
     "published_iso": "2026-06-09T00:13:51.597000+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "b11e8c20d94d",
@@ -440,7 +560,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2064126058643783935#m",
     "published_iso": "2026-06-08T23:22:56+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "cc8de0831321",
@@ -459,7 +579,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h209?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-08T23:04:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "021d8429b8c1",
@@ -478,7 +598,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h208?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-08T22:56:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "643aaa729222",
@@ -497,7 +617,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s165?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-08T21:25:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "d2dbe1b4a8d0",
@@ -603,84 +723,6 @@
     "time_ago": "4d ago"
   },
   {
-    "id": "f2f5908da622",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On the Motion (Wyden Motion to Commit S. 2 to the Committee on the Judiciary with Instructions). Vote: Motion Rejected 48/51",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s153?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-05T16:40:00+00:00",
-    "time_ago": "4d ago"
-  },
-  {
-    "id": "9be0e59e906b",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "Motion to Proceed on S. 1318: Fallen Servicemembers Religious Heritage Restoration Act. Vote: Motion to Proceed Rejected 47/52",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s164?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-05T08:52:00+00:00",
-    "time_ago": "4d ago"
-  },
-  {
-    "id": "f30731e55ea0",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "critical",
-    "content": "S. 2: Secure America Act. Vote: Bill Passed 52/47",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s163?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-05T08:42:00+00:00",
-    "time_ago": "4d ago"
-  },
-  {
-    "id": "991666674bfe",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Schiff Amdt. No. 5740). Vote: Motion Rejected 51/48",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s162?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-05T08:28:00+00:00",
-    "time_ago": "4d ago"
-  },
-  {
     "id": "7efa4c0a4cc7",
     "politician": "Sen. Cynthia Lummis",
     "initials": "CL",
@@ -729,7 +771,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/the-senate-page-program/",
     "published_iso": "2026-06-03T21:41:29+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "5975851e8422",
