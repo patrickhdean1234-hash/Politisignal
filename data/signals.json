@@ -1,6 +1,6 @@
 [
   {
-    "id": "9536419789fb",
+    "id": "47cd65369670",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,21 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Bailly R Jeffrey received 1,787 shares of Ufp Technologies Inc (UFPT) \u00b7 Jun 8 ($167,902 across all blocks)",
-    "tags": [],
+    "content": "Tennican Elizabeth received 5,222 shares of Four Corners Property Trust, Inc. (FCPT) \u00b7 Jun 8",
+    "tags": [
+      "Agriculture"
+    ],
     "tickers": [
-      "UFPT"
+      "FCPT"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1033284/000208495626000048/0002084956-26-000048-index.htm",
-    "published_iso": "2026-06-08T23:51:11+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/1830747/000119312526262710/0001193125-26-262710-index.htm",
+    "published_iso": "2026-06-09T01:44:44+00:00",
     "time_ago": "1m ago"
   },
   {
-    "id": "a8f4252fceff",
+    "id": "9cbf9eb3c692",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,19 +32,45 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Stafford Ryan K received 1,448 shares of Ufp Technologies Inc (UFPT) \u00b7 Jun 8",
-    "tags": [],
+    "content": "Jesuele Barbara Angelica Faylona received 5,222 shares of Four Corners Property Trust, Inc. (FCPT) \u00b7 Jun 8",
+    "tags": [
+      "Agriculture"
+    ],
     "tickers": [
-      "UFPT"
+      "FCPT"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1384707/000208495626000046/0002084956-26-000046-index.htm",
-    "published_iso": "2026-06-08T23:48:55+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/1968467/000119312526262706/0001193125-26-262706-index.htm",
+    "published_iso": "2026-06-09T01:43:49+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "292586394be1",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Friedland Michael Lawrence received 5,222 shares of Four Corners Property Trust, Inc. (FCPT) \u00b7 Jun 8",
+    "tags": [
+      "Agriculture",
+      "Regulation"
+    ],
+    "tickers": [
+      "FCPT"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2129037/000119312526262704/0001193125-26-262704-index.htm",
+    "published_iso": "2026-06-09T01:42:36+00:00",
     "time_ago": "3m ago"
   },
   {
-    "id": "284b00786344",
+    "id": "de11566be142",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -51,40 +79,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Morandi Brandi Galvin sold 3,726 shares of Equinix Inc (EQIX) \u00b7 $1,076.36/share \u00b7 $4,010,517 total \u00b7 Jun 8",
+    "content": "Silver Lake Group, L.L.C. sold 279 shares of Dell Technologies Inc. (DELL) \u00b7 $421.85/share \u00b7 $117,696 total \u00b7 Jun 8 ($614,753 across all blocks)",
     "tags": [],
     "tickers": [
-      "EQIX"
+      "DELL"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1219928/000110123926000123/0001101239-26-000123-index.htm",
-    "published_iso": "2026-06-08T23:45:17+00:00",
-    "time_ago": "7m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1672568/000119312526262703/0001193125-26-262703-index.htm",
+    "published_iso": "2026-06-09T01:42:34+00:00",
+    "time_ago": "3m ago"
   },
   {
-    "id": "0268a2a96dda",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Tang Anthony M sold 10,000 shares of Cathay General Bancorp (CATY) \u00b7 $58.16/share \u00b7 $581,633 total \u00b7 Jun 8 ($1,462,480 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CATY"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1185633/000143774926019885/0001437749-26-019885-index.htm",
-    "published_iso": "2026-06-08T23:43:14+00:00",
-    "time_ago": "9m ago"
-  },
-  {
-    "id": "e1ba14217dae",
+    "id": "0ab7b0ec3e3d",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -93,40 +100,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Trabuco Carolyn sold 13,000 shares of Usa Rare Earth, Inc. (USAR) \u00b7 $22.77/share \u00b7 $295,984 total \u00b7 Jun 8",
+    "content": "Silver Lake Group, L.L.C. exercised options for 2,704 shares of Dell Technologies Inc. (DELL) \u00b7 Jun 8 ($519,709 across all blocks)",
     "tags": [],
     "tickers": [
-      "USAR"
+      "DELL"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1970622/000189774526000011/0001897745-26-000011-index.htm",
-    "published_iso": "2026-06-08T23:41:41+00:00",
-    "time_ago": "10m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1672568/000119312526262702/0001193125-26-262702-index.htm",
+    "published_iso": "2026-06-09T01:42:06+00:00",
+    "time_ago": "3m ago"
   },
   {
-    "id": "9fb952b110f1",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Holmes Rob C sold 49,100 shares of Texas Capital Bancshares Inc/Tx (TCBIO) \u00b7 $101.88/share \u00b7 $5,002,308 total \u00b7 Jun 8 ($10,012,698 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "TCBIO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1845093/000184509326000012/0001845093-26-000012-index.htm",
-    "published_iso": "2026-06-08T23:41:29+00:00",
-    "time_ago": "10m ago"
-  },
-  {
-    "id": "481e4cc57d23",
+    "id": "c37fab4bcde3",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -135,37 +121,66 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Nagel Bradley M. exercised options for 4,334 shares of Electromed, Inc. (ELMD) \u00b7 $10.25/share \u00b7 $44,424 total \u00b7 Jun 8 ($529,769 across all blocks)",
-    "tags": [],
+    "content": "Hansen Douglas B received 7,728 shares of Four Corners Property Trust, Inc. (FCPT) \u00b7 Jun 8",
+    "tags": [
+      "Agriculture"
+    ],
     "tickers": [
-      "ELMD"
+      "FCPT"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1954272/000143774926019883/0001437749-26-019883-index.htm",
-    "published_iso": "2026-06-08T23:39:19+00:00",
-    "time_ago": "13m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1650132/000119312526262700/0001193125-26-262700-index.htm",
+    "published_iso": "2026-06-09T01:41:28+00:00",
+    "time_ago": "4m ago"
   },
   {
-    "id": "7a3890308d11",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "a7b9fdd2b560",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
     },
     "severity": "medium",
-    "content": "Legg Benson E received 17,095 shares of Sinclair, Inc. (SBGI) \u00b7 Jun 8",
-    "tags": [],
-    "tickers": [
-      "SBGI"
+    "content": "If NVIDIA CEO Jensen Huang has time to attend a $1 million-a-head dinner at Mar-a-Lago and meet with President Xi in China, he should be able to find time to answer questions from Congress.\n\nThe American people deserve answers.",
+    "tags": [
+      "China"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1971213/000176645826000003/0001766458-26-000003-index.htm",
-    "published_iso": "2026-06-08T23:37:56+00:00",
-    "time_ago": "14m ago"
+    "tickers": [
+      "NVDA"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mnsw2bg4ic2h",
+    "published_iso": "2026-06-09T00:13:51.597000+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "679e9fd59736",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Iran war spikes airline fuel costs. Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  Airline fuel costs jump 78 percent in past year As the war in Iran passes the 100-day mark, the cost for America\u2019s airline industry is mounting. \u00a9 ",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/business-economy/5915598-iran-war-spikes-airline-fuel-costs/",
+    "published_iso": "2026-06-08T23:36:21+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "b11e8c20d94d",
@@ -189,29 +204,64 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2064126058643783935#m",
     "published_iso": "2026-06-08T23:22:56+00:00",
-    "time_ago": "29m ago"
+    "time_ago": "2h ago"
   },
   {
-    "id": "c450896062c6",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "cc8de0831321",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "critical",
+    "content": "H.R. 8428: Federal Fraud Prevention Workforce Training Act. Vote: Passed 393/0",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h209?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-08T23:04:00+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "021d8429b8c1",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
     },
     "severity": "high",
-    "content": "OpenAI files to go public as IPO race heats up. OpenAI has confidentially filed paperwork to go public, the company announced Monday. It is one of three leading AI companies preparing for an initial public offering (IPO), alongside SpaceX and Anthropic, which have both filed with the Securities and Exchange Commission ",
+    "content": "H.R. 8466: TRUE Accountability Act. Vote: Passed 384/0",
     "tags": [],
-    "tickers": [
-      "MSFT",
-      "TSLA"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/5915457-openai-ipo-sec-filing/",
-    "published_iso": "2026-06-08T21:39:05+00:00",
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h208?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-08T22:56:00+00:00",
     "time_ago": "2h ago"
+  },
+  {
+    "id": "643aaa729222",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "Motion to Invoke Cloture: Anthony W. Mattivi to be U.S. District Judge for the District of Kansas: Anthony W. Mattivi, of Kansas, to be United States District Judge for the District of Kansas. Vote: Cloture Motion Agreed to 49/42",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s165?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-08T21:25:00+00:00",
+    "time_ago": "4h ago"
   },
   {
     "id": "d2dbe1b4a8d0",
@@ -232,7 +282,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2064083154692952116#m",
     "published_iso": "2026-06-08T20:32:27+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "9938c3f2aa9d",
@@ -253,34 +303,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-3556/",
     "published_iso": "2026-06-08T19:38:26+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "e15378f59a92",
-    "politician": "Rep. Jim Jordan",
-    "initials": "JJ",
-    "role": "House Judiciary Committee Chair",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fca5a5"
-    },
-    "severity": "medium",
-    "content": "Scathing  @JudiciaryGOP  report accuses NFL of stretching law's limited antitrust exemption \n foxnews.com/sports/scathing-\u2026",
-    "tags": [
-      "Antitrust",
-      "Regulation"
-    ],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/Jim_Jordan/status/2064064283583943036#m",
-    "published_iso": "2026-06-08T19:17:28+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "9b68fd9f452a",
@@ -303,7 +326,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2063989299687632965#m",
     "published_iso": "2026-06-08T14:19:30+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "0fb1e3c6fb7f",
@@ -326,7 +349,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mnrueb46sk2o",
     "published_iso": "2026-06-08T14:10:59.586000+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "2caa3ab1b0a0",
@@ -353,7 +376,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11476/establishment-of-class-e-airspace-dover-oh",
     "published_iso": "2026-06-08T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "e0788a63e03c",
@@ -374,7 +397,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11466/rescission-of-policy-relating-to-the-acceptance-of-settlements-in-administrative-and-civil",
     "published_iso": "2026-06-08T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "068c4a6c2826",
@@ -399,7 +422,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11432/air-plan-approval-minnesota-revision-to-taconite-federal-implementation-plan",
     "published_iso": "2026-06-08T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "21320ae7915b",
@@ -418,7 +441,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11425/safety-zone-monongahela-river-mm-122-1225-rivesville-wv",
     "published_iso": "2026-06-08T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "40b126d8fe14",
@@ -608,65 +631,6 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s162?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-05T08:28:00+00:00",
-    "time_ago": "3d ago"
-  },
-  {
-    "id": "2031d1cdbb40",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Van Hollen Amdt. No. 5632). Vote: Motion Rejected 53/46",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s161?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-05T08:15:00+00:00",
-    "time_ago": "3d ago"
-  },
-  {
-    "id": "5e02ba6415c4",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "critical",
-    "content": "S.Amdt. 5463 (Cortez Masto) to S. 2: To appropriate amounts for local law enforcement hiring programs.. Vote: Amendment Rejected 45/53",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s160?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-05T07:58:00+00:00",
-    "time_ago": "3d ago"
-  },
-  {
-    "id": "d82f87c2dbc0",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: Cassidy Amdt. No. 5812). Vote: Motion Rejected 52/47",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s159?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-05T07:41:00+00:00",
     "time_ago": "3d ago"
   },
   {
