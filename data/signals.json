@@ -1,6 +1,6 @@
 [
   {
-    "id": "836ce54fb091",
+    "id": "9d4d5294136f",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,173 +9,148 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Yang Donghao sold 397 shares of Vipshop Holdings Ltd (VIPS) \u00b7 $69.30/share \u00b7 $27,512 total \u00b7 Jun 11",
+    "content": "Okland Marianne received 7,500 shares of Scorpio Tankers Inc. (STNG) \u00b7 $626,025.00/share \u00b7 $4,695,187,500 total \u00b7 Jun 11",
     "tags": [],
     "tickers": [
-      "VIPS"
+      "STNG"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1529192/000150134326000003/0001501343-26-000003-index.htm",
-    "published_iso": "2026-06-11T12:53:40+00:00",
-    "time_ago": "1m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1969452/000196945226000008/0001969452-26-000008-index.htm",
+    "published_iso": "2026-06-11T16:37:29+00:00",
+    "time_ago": "8m ago"
   },
   {
-    "id": "60deeeb0c43c",
+    "id": "681215d13918",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Rowen Bradley K sold 1,326 shares of Heico Corp (HEI-A) \u00b7 $241.63/share \u00b7 $320,401 total \u00b7 Jun 11",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2057115/000205711526000008/0002057115-26-000008-index.htm",
+    "published_iso": "2026-06-11T16:36:44+00:00",
+    "time_ago": "9m ago"
+  },
+  {
+    "id": "65fc95ef5842",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "First Lady Melania Trump Launches Fostering the Future AccountsAmerica\u2019s First Savings & Investment Vehicle for Foster Youth. First Lady Melania Trump launched her Fostering the Future Accounts, a new financial resource established to empower foster youth to be fiscally autonomous upon reaching the age of majority. \u201cFo",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trump-launches-fostering-the-future-accountsamericas-first-savings-investment-vehicle-for-foster-youth/",
+    "published_iso": "2026-06-11T16:13:47+00:00",
+    "time_ago": "32m ago"
+  },
+  {
+    "id": "5883aa3b9ed1",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Adkins Stephanie sold 1,600 shares of Princeton Bancorp, Inc. (BPRN) \u00b7 $35.04/share \u00b7 $56,064 total \u00b7 Jun 11",
+    "content": "European Central Bank raises interest rates ahead of Federal Reserve meeting next week. The European Central Bank (ECB) raised interest rates by 25 basis points on Thursday ahead of Kevin Warsh\u2019s first Federal Open Market Committee (FOMC) meeting as chair of the Federal Reserve next week.  \u201cThe war in the Middle East i",
+    "tags": [
+      "Banking",
+      "Taxes"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/international/5920030-ecb-raises-rates-iran-war/",
+    "published_iso": "2026-06-11T15:30:31+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "2f1208e0d945",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "high",
+    "content": "Federal Reserve Board announces final rule that establishes data standards for certain information collections. Federal Reserve Board announces final rule that establishes data standards for certain information collections",
+    "tags": [
+      "Banking",
+      "Regulation"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
+    "published_iso": "2026-06-11T15:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "5eeaf0e00f1c",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "H.Res. 1335: Condemning actors seeking to defraud the United States Government, and expressing the sense of the House of Representatives that governmentwide fraud and improper payment prevention reforms will meaningfully improve the financial prosperity. Vote: Passed 235/177",
     "tags": [],
-    "tickers": [
-      "BPRN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1957233/000119312526266762/0001193125-26-266762-index.htm",
-    "published_iso": "2026-06-11T12:50:50+00:00",
-    "time_ago": "4m ago"
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h222?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-11T14:44:00+00:00",
+    "time_ago": "2h ago"
   },
   {
-    "id": "dd11a761383d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "e184daff96fd",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
     },
-    "severity": "medium",
-    "content": "Urdang E Scott sold 3,000 shares of Gaming & Leisure Properties, Inc. (GLPI) \u00b7 $48.32/share \u00b7 $144,960 total \u00b7 Jun 11",
+    "severity": "high",
+    "content": "H.R. 9238: To amend the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978, and for other purposes.. Vote: Failed 198/218",
     "tags": [],
-    "tickers": [
-      "GLPI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1588854/000157596526000056/0001575965-26-000056-index.htm",
-    "published_iso": "2026-06-11T12:48:24+00:00",
-    "time_ago": "6m ago"
-  },
-  {
-    "id": "d6b722e11801",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Sellers Robin Stone disposed of 534 shares of Hovnanian Enterprises Inc (HOVNP) \u00b7 $114.00/share \u00b7 $60,876 total \u00b7 Jun 11",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [
-      "HOVNP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1744557/000122520826005922/0001225208-26-005922-index.htm",
-    "published_iso": "2026-06-11T12:46:40+00:00",
-    "time_ago": "8m ago"
-  },
-  {
-    "id": "f9dd8c5e15a4",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Pagano Vincent Jr disposed of 534 shares of Hovnanian Enterprises Inc (HOVNP) \u00b7 $114.00/share \u00b7 $60,876 total \u00b7 Jun 11",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [
-      "HOVNP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1563558/000122520826005921/0001225208-26-005921-index.htm",
-    "published_iso": "2026-06-11T12:46:38+00:00",
-    "time_ago": "8m ago"
-  },
-  {
-    "id": "bebb82063f6f",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Marengi Joseph A disposed of 610 shares of Hovnanian Enterprises Inc (HOVNP) \u00b7 $114.00/share \u00b7 $69,540 total \u00b7 Jun 11",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [
-      "HOVNP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1077821/000122520826005920/0001225208-26-005920-index.htm",
-    "published_iso": "2026-06-11T12:46:37+00:00",
-    "time_ago": "8m ago"
-  },
-  {
-    "id": "60da7b8d25f7",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hernandez-Kakol Miriam disposed of 534 shares of Hovnanian Enterprises Inc (HOVNP) \u00b7 $114.00/share \u00b7 $60,876 total \u00b7 Jun 11",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [
-      "HOVNP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1906530/000122520826005919/0001225208-26-005919-index.htm",
-    "published_iso": "2026-06-11T12:46:35+00:00",
-    "time_ago": "8m ago"
-  },
-  {
-    "id": "04226e2520ab",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Coutts Robert B disposed of 534 shares of Hovnanian Enterprises Inc (HOVNP) \u00b7 $114.00/share \u00b7 $60,876 total \u00b7 Jun 11",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [
-      "HOVNP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1193999/000122520826005918/0001225208-26-005918-index.htm",
-    "published_iso": "2026-06-11T12:46:33+00:00",
-    "time_ago": "8m ago"
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h221?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-11T14:34:00+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "8120b443d54a",
@@ -196,7 +171,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/06/11/poll-voter-cynicism-uk-us-starmer-trump-00956725",
     "published_iso": "2026-06-11T04:01:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "382cef1cedfd",
@@ -218,7 +193,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11800/removing-regulations-related-to-trade-adjustment-assistance-for-firms",
     "published_iso": "2026-06-11T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "24036c5c5938",
@@ -239,7 +214,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11799/labor-organization-annual-financial-reports",
     "published_iso": "2026-06-11T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "7c9d7242f1c6",
@@ -261,7 +236,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11792/modification-of-class-e-airspace-omak-airport-omak-wa",
     "published_iso": "2026-06-11T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "506dfd55e1c2",
@@ -282,7 +257,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11790/rescinding-portions-of-department-of-transportations-title-vi-regulations-to-conform-more-closely",
     "published_iso": "2026-06-11T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "3f19ad5487f7",
@@ -303,7 +278,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11789/special-local-regulation-ohio-river-henderson-ky",
     "published_iso": "2026-06-11T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "a13d190ef8a4",
@@ -324,7 +299,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11786/danger-zone-waters-of-carr-creek-and-whitehall-bay-in-the-vicinity-of-the-naval-support-activity",
     "published_iso": "2026-06-11T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "1ffde35618eb",
@@ -345,7 +320,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11773/eliminating-redundant-regulatory-part-related-to-relocation-assistance-and-real-property-acquisition",
     "published_iso": "2026-06-11T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "7f44ab26d1ed",
@@ -366,7 +341,34 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11772/eliminating-regulations-regarding-the-operation-of-vending-stands",
     "published_iso": "2026-06-11T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
+  },
+  {
+    "id": "db78c229ddc0",
+    "politician": "Sen. Cynthia Lummis",
+    "initials": "CL",
+    "role": "Senate Banking Subcommittee (Crypto)",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#c4b5fd"
+    },
+    "severity": "high",
+    "content": "We're excited about the US CLARITY Act. \n \nWe think all YC companies will use crypto technology, like stablecoins, before long. Not just crypto startups, not just fintech startups, but every company. \n \nHere's why this law is such a big deal \ud83e\uddf5 \n \n \n Senator Cynthia Lummis (@SenLummis) \n \n The Clarity Act passed committ",
+    "tags": [
+      "Crypto",
+      "Defense",
+      "Regulation"
+    ],
+    "tickers": [
+      "BTC",
+      "ETH",
+      "COIN"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/ycombinator/status/2064917761101635988#m",
+    "published_iso": "2026-06-11T03:48:53+00:00",
+    "time_ago": "12h ago"
   },
   {
     "id": "414099ac61df",
@@ -392,7 +394,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/Lokay/status/2064902721333854467#m",
     "published_iso": "2026-06-11T02:49:07+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "f75be386772b",
@@ -419,7 +421,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/ClayTravis/status/2064842527497138192#m",
     "published_iso": "2026-06-10T22:49:56+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "c285df6dd76f",
@@ -445,7 +447,83 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2064821955954417975#m",
     "published_iso": "2026-06-10T21:28:11+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "19h ago"
+  },
+  {
+    "id": "08ec32451dc7",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "H.R. 8464: Stopping Fraudulent Payments Act. Vote: Passed 218/200",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h220?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-10T20:32:00+00:00",
+    "time_ago": "20h ago"
+  },
+  {
+    "id": "3b5c17f7535a",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On Motion to Recommit: H.R. 8464: Stopping Fraudulent Payments Act. Vote: Failed 209/213",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h219?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-10T20:23:00+00:00",
+    "time_ago": "20h ago"
+  },
+  {
+    "id": "24688b7cd0a7",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "H.R. 8312: Fraud Prevention and Accountability Act. Vote: Passed 240/181",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h218?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-10T20:16:00+00:00",
+    "time_ago": "20h ago"
+  },
+  {
+    "id": "356cc6cd6e1d",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "H.R. 7892: No Aid for Ghost Students Act of 2026. Vote: Passed 249/172",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h217?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-10T20:09:00+00:00",
+    "time_ago": "20h ago"
   },
   {
     "id": "2641f8ec095e",
@@ -466,7 +544,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-6e45/",
     "published_iso": "2026-06-10T19:41:45+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "61dc83f7100f",
@@ -485,7 +563,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s169?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-10T18:54:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "fbf2663d08b8",
@@ -509,7 +587,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenLummis/status/2064777113777926474#m",
     "published_iso": "2026-06-10T18:30:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "7e068a43bde5",
@@ -528,7 +606,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s168?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-10T18:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "d34cd08345bb",
@@ -551,7 +629,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2064769141957927018#m",
     "published_iso": "2026-06-10T17:58:19+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "143e18455b30",
@@ -573,7 +651,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/06/president-trump-is-restoring-american-greatness-one-win-at-a-time/",
     "published_iso": "2026-06-10T17:34:42+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "42a1b115c176",
@@ -594,7 +672,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mnx7wevf2c23",
     "published_iso": "2026-06-10T17:21:17.397000+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "0dac6e46a3c1",
@@ -615,7 +693,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2064753480808415714#m",
     "published_iso": "2026-06-10T16:56:05+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "dbeb6a54fbc7",
@@ -636,7 +714,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/the-sec-must-delay-the-spacex-ipo-until-investors-are-protected",
     "published_iso": "2026-06-10T16:52:49+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "87e9e18b796f",
@@ -657,7 +735,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/f/?id=0000019e-b262-d4e8-afde-f2665fec0000",
     "published_iso": "2026-06-10T16:35:39+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "361b4e1be0b7",
@@ -679,53 +757,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/06/s-2-signed-into-law/",
     "published_iso": "2026-06-10T16:25:35+00:00",
-    "time_ago": "20h ago"
-  },
-  {
-    "id": "17c5a8905e6f",
-    "politician": "Rep. Jim Jordan",
-    "initials": "JJ",
-    "role": "House Judiciary Committee Chair",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fca5a5"
-    },
-    "severity": "critical",
-    "content": "America has antitrust laws to protect consumers. \n \nIn 1961, Congress gave the NFL an antitrust exemption to negotiate broadcast agreements. \n \nToday, games are available on broadcast TV, cable, and streaming platforms. \n \nLeagues are financially strong, but our constituents tell us the system is expensive and confusin",
-    "tags": [
-      "Antitrust",
-      "Regulation"
-    ],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/JudiciaryGOP/status/2064737669674869066#m",
-    "published_iso": "2026-06-10T15:53:16+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "cd865e640462",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "Motion to Invoke Cloture: Anthony J. Powell to be U.S. District Judge for the District of Kansas: Anthony J. Powell, of Kansas, to be United States District Judge for the District of Kansas. Vote: Cloture Motion Agreed to 48/45",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s167?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-10T15:33:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "1eb205a863f9",
@@ -751,107 +783,6 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mnwxnyqgsk2c",
     "published_iso": "2026-06-10T14:53:26.282000+00:00",
-    "time_ago": "22h ago"
-  },
-  {
-    "id": "6a176a9c2435",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "Trump's failed economic agenda is raising costs and draining your paychecks. \n \n \n CNN Breaking News (@cnnbrk) \n \n Annual US inflation hit a three-year-high in May, according to new data, as many Americans struggle with elevated prices and high cost of living. \n cnn.it/4vF66Iu  \n \n\n \n \n\u2014   https://nitter.net/cnnbrk/sta",
-    "tags": [],
-    "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/SenWarren/status/2064706903876211130#m",
-    "published_iso": "2026-06-10T13:51:00+00:00",
-    "time_ago": "23h ago"
-  },
-  {
-    "id": "a1c96305a257",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.R. 5408: Faster Labor Contracts Act. Vote: Passed 230/193",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h216?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-09T23:05:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "ee83c6830230",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.Res. 1140: Providing for consideration of the bill (H.R. 5408) to accelerate workplace time-to-contract under the National Labor Relations Act.. Vote: Passed 221/201",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h215?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-09T21:30:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "f5edcfd2b523",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "S. 2: Secure America Act. Vote: Passed 214/212",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h214?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-09T21:23:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "693d78b958c3",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On Motion to Commit: S. 2: Secure America Act. Vote: Failed 211/215",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h213?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-09T21:10:00+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -903,27 +834,6 @@
     "time_ago": "1d ago"
   },
   {
-    "id": "56bc12731f9b",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On Motion to Discharge: H.Res. 1140: Providing for consideration of the bill (H.R. 5408) to accelerate workplace time-to-contract under \u2026. Vote: Passed 220/199",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h212?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-09T18:50:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
     "id": "b8f83b5947d0",
     "politician": "White House",
     "initials": "WH",
@@ -942,27 +852,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trump-honors-americas-next-generation-of-top-ai-talent-at-historic-presidential-ai-challenge-awards-ceremony/",
     "published_iso": "2026-06-09T15:51:33+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "9938c3f2aa9d",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "Nomination Sent to the Senate. NOMINATION SENT TO THE SENATE: Todd Blanche, of Florida, to be Attorney General. \n The post  Nomination Sent to the Senate  appeared first on  The White House",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-3556/",
-    "published_iso": "2026-06-08T19:38:26+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -992,7 +881,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-sullivan-lead-colleagues-in-urging-bank-regulators-to-establish-fair-capital-standards-for-digital-assets/",
     "published_iso": "2026-06-04T14:07:24+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "ddb58e0107d1",
@@ -1033,7 +922,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm",
     "published_iso": "2026-06-02T15:00:00+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "cb28de6b473b",
@@ -1059,7 +948,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260528a.htm",
     "published_iso": "2026-05-28T15:00:00+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "a1e6af3705a6",
@@ -1156,32 +1045,6 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260521a.htm",
     "published_iso": "2026-05-21T15:00:00+00:00",
-    "time_ago": "20d ago"
-  },
-  {
-    "id": "2238b50fba31",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "high",
-    "content": "Federal Reserve Board requests public comment on a proposal to establish a \"payment account,\" which legally eligible financial institutions could use for the specific purpose of clearing and settling their payments. Federal Reserve Board requests public comment on a proposal to establish a &quot;payment account,&quot; ",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260520a.htm",
-    "published_iso": "2026-05-20T20:00:00+00:00",
     "time_ago": "21d ago"
   },
   {
@@ -1208,7 +1071,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-legalizing-premium-health-care-act/",
     "published_iso": "2026-05-20T15:26:37+00:00",
-    "time_ago": "21d ago"
+    "time_ago": "22d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -1229,7 +1092,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "30d ago"
+    "time_ago": "31d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1255,7 +1118,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "36d ago"
+    "time_ago": "37d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1277,7 +1140,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "44d ago"
+    "time_ago": "45d ago"
   },
   {
     "id": "0047e3ab5b67",
@@ -1299,7 +1162,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "51d ago"
+    "time_ago": "52d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1323,7 +1186,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "72d ago"
+    "time_ago": "73d ago"
   },
   {
     "id": "d52e199aa058",
@@ -1364,7 +1227,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "106d ago"
+    "time_ago": "107d ago"
   },
   {
     "id": "602146d3f751",
@@ -1407,7 +1270,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "117d ago"
+    "time_ago": "118d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1426,7 +1289,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "117d ago"
+    "time_ago": "118d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1471,7 +1334,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "176d ago"
+    "time_ago": "177d ago"
   },
   {
     "id": "e88c3c11d67a",
@@ -1493,6 +1356,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/983956",
     "published_iso": "2025-10-30T16:06:54+00:00",
-    "time_ago": "223d ago"
+    "time_ago": "224d ago"
   }
 ]
