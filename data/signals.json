@@ -1,6 +1,6 @@
 [
   {
-    "id": "9d4d5294136f",
+    "id": "00309763aed8",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -8,20 +8,20 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "medium",
-    "content": "Okland Marianne received 7,500 shares of Scorpio Tankers Inc. (STNG) \u00b7 $626,025.00/share \u00b7 $4,695,187,500 total \u00b7 Jun 11",
+    "severity": "critical",
+    "content": "Scavuzzo Anthony bought 20,000 shares of Texas Community Bancshares, Inc. (TCBS) \u00b7 $17.25/share \u00b7 $345,000 total \u00b7 Jun 11",
     "tags": [],
     "tickers": [
-      "STNG"
+      "TCBS"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1969452/000196945226000008/0001969452-26-000008-index.htm",
-    "published_iso": "2026-06-11T16:37:29+00:00",
-    "time_ago": "8m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1910485/000143774926020281/0001437749-26-020281-index.htm",
+    "published_iso": "2026-06-11T19:17:59+00:00",
+    "time_ago": "9m ago"
   },
   {
-    "id": "681215d13918",
+    "id": "acfc6e2d432f",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -29,18 +29,88 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "medium",
-    "content": "Rowen Bradley K sold 1,326 shares of Heico Corp (HEI-A) \u00b7 $241.63/share \u00b7 $320,401 total \u00b7 Jun 11",
+    "severity": "critical",
+    "content": "Sobel Jason sold 2,100 shares of Texas Community Bancshares, Inc. (TCBS) \u00b7 $17.25/share \u00b7 $36,226 total \u00b7 Jun 11",
     "tags": [],
-    "tickers": [],
+    "tickers": [
+      "TCBS"
+    ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2057115/000205711526000008/0002057115-26-000008-index.htm",
-    "published_iso": "2026-06-11T16:36:44+00:00",
-    "time_ago": "9m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1971709/000143774926020280/0001437749-26-020280-index.htm",
+    "published_iso": "2026-06-11T19:17:10+00:00",
+    "time_ago": "10m ago"
   },
   {
-    "id": "65fc95ef5842",
+    "id": "03c5ea3c14c5",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Warren Secures Wins on Military Right to Repair, Defense Contractor Stock Buybacks, Service Member Safety in Senate FY 2027 NDAA. Warren Secures Wins on Military Right to Repair, Defense Contractor Stock Buybacks, Service Member Safety in Senate FY 2027 NDAA",
+    "tags": [
+      "Defense"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-secures-wins-on-military-right-to-repair-defense-contractor-stock-buybacks-service-member-safety-in-senate-fy-2027-ndaa",
+    "published_iso": "2026-06-11T18:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "239ff50f5680",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "Motion to Invoke Cloture: Justin D. Smith to be U.S. Circuit Judge for the Eighth Circuit: Justin D. Smith, of Missouri, to be United States Circuit Judge for the Eighth Circuit. Vote: Cloture Motion Agreed to 47/43",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s171?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-11T17:41:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "788e0c17cef4",
+    "politician": "Sen. Cynthia Lummis",
+    "initials": "CL",
+    "role": "Senate Banking Subcommittee (Crypto)",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#c4b5fd"
+    },
+    "severity": "medium",
+    "content": "A Strategic Bitcoin Reserve is the most asymmetric bet the U.S. Treasury could make. The downside is manageable. The upside is generational.",
+    "tags": [
+      "Crypto"
+    ],
+    "tickers": [
+      "BTC"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SenLummis/status/2065125157169967440#m",
+    "published_iso": "2026-06-11T17:33:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "8294c787f1a6",
     "politician": "White House",
     "initials": "WH",
     "role": "Executive Branch",
@@ -49,7 +119,7 @@
       "fg": "#e2e8f0"
     },
     "severity": "low",
-    "content": "First Lady Melania Trump Launches Fostering the Future AccountsAmerica\u2019s First Savings & Investment Vehicle for Foster Youth. First Lady Melania Trump launched her Fostering the Future Accounts, a new financial resource established to empower foster youth to be fiscally autonomous upon reaching the age of majority. \u201cFo",
+    "content": "First Lady Melania Trump Launches Fostering the Future Accounts America\u2019s First Savings & Investment Vehicle for Foster Youth. First Lady Melania Trump launched her Fostering the Future Accounts, a new financial resource established to empower foster youth to be fiscally autonomous upon reaching the age of majority. \u201cF",
     "tags": [
       "Taxes"
     ],
@@ -58,34 +128,26 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trump-launches-fostering-the-future-accountsamericas-first-savings-investment-vehicle-for-foster-youth/",
     "published_iso": "2026-06-11T16:13:47+00:00",
-    "time_ago": "32m ago"
+    "time_ago": "3h ago"
   },
   {
-    "id": "5883aa3b9ed1",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "12cc6306c61c",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
     },
-    "severity": "critical",
-    "content": "European Central Bank raises interest rates ahead of Federal Reserve meeting next week. The European Central Bank (ECB) raised interest rates by 25 basis points on Thursday ahead of Kevin Warsh\u2019s first Federal Open Market Committee (FOMC) meeting as chair of the Federal Reserve next week.  \u201cThe war in the Middle East i",
-    "tags": [
-      "Banking",
-      "Taxes"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/international/5920030-ecb-raises-rates-iran-war/",
-    "published_iso": "2026-06-11T15:30:31+00:00",
-    "time_ago": "1h ago"
+    "severity": "high",
+    "content": "On the Nomination PN901-4: Brock Dahl, of Maryland, to be Legal Adviser of the Department of State. Vote: Nomination Confirmed 49/44",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s170?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-11T15:30:00+00:00",
+    "time_ago": "3h ago"
   },
   {
     "id": "2f1208e0d945",
@@ -112,7 +174,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
     "published_iso": "2026-06-11T15:00:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "5eeaf0e00f1c",
@@ -131,7 +193,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h222?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-11T14:44:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "e184daff96fd",
@@ -150,7 +212,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h221?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-11T14:34:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "8120b443d54a",
@@ -171,177 +233,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/06/11/poll-voter-cynicism-uk-us-starmer-trump-00956725",
     "published_iso": "2026-06-11T04:01:00+00:00",
-    "time_ago": "12h ago"
-  },
-  {
-    "id": "382cef1cedfd",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Removing Regulations Related to Trade Adjustment Assistance for Firms. By this rule, EDA removes its regulations pertaining to trade adjustment assistance for firms, effective September 30, 2028. The removal of these regulations is ultimately necessary to reflect both the lapse of the underlying statutory authorization",
-    "tags": [
-      "Trade",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11800/removing-regulations-related-to-trade-adjustment-assistance-for-firms",
-    "published_iso": "2026-06-11T04:00:00+00:00",
-    "time_ago": "12h ago"
-  },
-  {
-    "id": "24036c5c5938",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Labor Organization Annual Financial Reports. The Department of Labor (Department) is correcting a final rule that appeared in the Federal Register on June 1, 2026. The Department is correcting an error to the published Form LM-2 Long Form Instructions, specifically, a page missing in the instructions. Additionally, the",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11799/labor-organization-annual-financial-reports",
-    "published_iso": "2026-06-11T04:00:00+00:00",
-    "time_ago": "12h ago"
-  },
-  {
-    "id": "7c9d7242f1c6",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Modification of Class E Airspace, Omak Airport, Omak, WA. This action modifies the Class E airspace area extending upward from 700 feet above the surface at Omak Airport, Omak, WA, to support the safety and management of instrument flight rules (IFR) operations at the airport",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11792/modification-of-class-e-airspace-omak-airport-omak-wa",
-    "published_iso": "2026-06-11T04:00:00+00:00",
-    "time_ago": "12h ago"
-  },
-  {
-    "id": "506dfd55e1c2",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "critical",
-    "content": "Rescinding Portions of Department of Transportation's Title VI Regulations To Conform More Closely With the Statutory Text and To Implement Executive Order 14281. By this rule, the U.S. Department of Transportation amends its regulations implementing Title VI of the Civil Rights Act of 1964 (&quot;Title VI&quot;) to el",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11790/rescinding-portions-of-department-of-transportations-title-vi-regulations-to-conform-more-closely",
-    "published_iso": "2026-06-11T04:00:00+00:00",
-    "time_ago": "12h ago"
-  },
-  {
-    "id": "3f19ad5487f7",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Special Local Regulation; Ohio River, Henderson, KY. The Coast Guard is establishing a temporary special local regulation (SLR) for all navigable waters of the Ohio River at mile markers 803-805. This action is necessary to provide for the safety of life on these navigable waters near Henderson, KY during the Independe",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11789/special-local-regulation-ohio-river-henderson-ky",
-    "published_iso": "2026-06-11T04:00:00+00:00",
-    "time_ago": "12h ago"
-  },
-  {
-    "id": "a13d190ef8a4",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "critical",
-    "content": "Danger Zone; Waters of Carr Creek and Whitehall Bay in the Vicinity of the Naval Support Activity Annapolis. The United States Army Corps of Engineers (Corps) is amending its regulations to establish three danger zones in the waters of Carr Creek and Whitehall Bay in the vicinity of the Naval Support Activity Annapolis",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11786/danger-zone-waters-of-carr-creek-and-whitehall-bay-in-the-vicinity-of-the-naval-support-activity",
-    "published_iso": "2026-06-11T04:00:00+00:00",
-    "time_ago": "12h ago"
-  },
-  {
-    "id": "1ffde35618eb",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Eliminating Redundant Regulatory Part Related to Relocation Assistance and Real Property Acquisition. By this rule, Commerce is eliminating a part of the Code of Federal Regulations that merely cross-references the Federal Highway Administration's relocation assistance and real property acquisition regulations. This ac",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11773/eliminating-redundant-regulatory-part-related-to-relocation-assistance-and-real-property-acquisition",
-    "published_iso": "2026-06-11T04:00:00+00:00",
-    "time_ago": "12h ago"
-  },
-  {
-    "id": "7f44ab26d1ed",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Eliminating Regulations Regarding the Operation of Vending Stands. By this rule, Commerce is eliminating its agency-specific regulations pertaining to the operation of vending stands. The regulations being eliminated lack a sufficient statutory authorization and are substantively unnecessary, given the existence of oth",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11772/eliminating-regulations-regarding-the-operation-of-vending-stands",
-    "published_iso": "2026-06-11T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "db78c229ddc0",
@@ -353,7 +245,7 @@
       "fg": "#c4b5fd"
     },
     "severity": "high",
-    "content": "We're excited about the US CLARITY Act. \n \nWe think all YC companies will use crypto technology, like stablecoins, before long. Not just crypto startups, not just fintech startups, but every company. \n \nHere's why this law is such a big deal \ud83e\uddf5 \n \n \n Senator Cynthia Lummis (@SenLummis) \n \n The Clarity Act passed committ",
+    "content": "We're excited about the US CLARITY Act. \n \nWe think all YC companies will use crypto technology, like stablecoins, before long. Not just crypto startups, not just fintech startups, but every company. \n \nHere's why this law is such a big deal \u0111\u0178\u00a7\u013e \n \n \n Senator Cynthia Lummis (@SenLummis) \n \n The Clarity Act passed comm",
     "tags": [
       "Crypto",
       "Defense",
@@ -368,7 +260,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/ycombinator/status/2064917761101635988#m",
     "published_iso": "2026-06-11T03:48:53+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "414099ac61df",
@@ -394,7 +286,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/Lokay/status/2064902721333854467#m",
     "published_iso": "2026-06-11T02:49:07+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "f75be386772b",
@@ -421,7 +313,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/ClayTravis/status/2064842527497138192#m",
     "published_iso": "2026-06-10T22:49:56+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "c285df6dd76f",
@@ -447,7 +339,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2064821955954417975#m",
     "published_iso": "2026-06-10T21:28:11+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "08ec32451dc7",
@@ -466,7 +358,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h220?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-10T20:32:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "3b5c17f7535a",
@@ -485,7 +377,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h219?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-10T20:23:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "24688b7cd0a7",
@@ -504,7 +396,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h218?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-10T20:16:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "356cc6cd6e1d",
@@ -523,7 +415,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h217?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-10T20:09:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "2641f8ec095e",
@@ -544,69 +436,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-6e45/",
     "published_iso": "2026-06-10T19:41:45+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "61dc83f7100f",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "Motion to Invoke Cloture: Brock Dahl to be Legal Adviser of the Department of State: Brock Dahl, of Maryland, to be Legal Adviser of the Department of State. Vote: Cloture Motion Agreed to 51/44",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s169?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-10T18:54:00+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "fbf2663d08b8",
-    "politician": "Sen. Cynthia Lummis",
-    "initials": "CL",
-    "role": "Senate Banking Subcommittee (Crypto)",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#c4b5fd"
-    },
-    "severity": "medium",
-    "content": "Other nations are accumulating Bitcoin quietly. We should be doing it loudly, on the record, by law.",
-    "tags": [
-      "Crypto",
-      "Regulation"
-    ],
-    "tickers": [
-      "BTC"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/SenLummis/status/2064777113777926474#m",
-    "published_iso": "2026-06-10T18:30:00+00:00",
-    "time_ago": "22h ago"
-  },
-  {
-    "id": "7e068a43bde5",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On the Nomination PN851-5: Anthony J. Powell, of Kansas, to be United States District Judge for the District of Kansas. Vote: Nomination Confirmed 50/44",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s168?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-10T18:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "d34cd08345bb",
@@ -629,7 +459,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2064769141957927018#m",
     "published_iso": "2026-06-10T17:58:19+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "143e18455b30",
@@ -651,7 +481,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/06/president-trump-is-restoring-american-greatness-one-win-at-a-time/",
     "published_iso": "2026-06-10T17:34:42+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "42a1b115c176",
@@ -672,49 +502,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mnx7wevf2c23",
     "published_iso": "2026-06-10T17:21:17.397000+00:00",
-    "time_ago": "23h ago"
-  },
-  {
-    "id": "0dac6e46a3c1",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "The SEC must delay the SpaceX IPO until investors are protected. \n \n Video",
-    "tags": [],
-    "tickers": [
-      "TSLA"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/SenWarren/status/2064753480808415714#m",
-    "published_iso": "2026-06-10T16:56:05+00:00",
-    "time_ago": "23h ago"
-  },
-  {
-    "id": "dbeb6a54fbc7",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "The SEC must delay the SpaceX IPO until investors are protected.. The SEC must delay the SpaceX IPO until investors are protected",
-    "tags": [],
-    "tickers": [
-      "TSLA"
-    ],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "http://www.warren.senate.gov/newsroom/videos/watch/the-sec-must-delay-the-spacex-ipo-until-investors-are-protected",
-    "published_iso": "2026-06-10T16:52:49+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "87e9e18b796f",
@@ -967,7 +755,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm",
     "published_iso": "2026-05-26T18:00:00+00:00",
-    "time_ago": "15d ago"
+    "time_ago": "16d ago"
   },
   {
     "id": "07ab4044a288",
@@ -1205,7 +993,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "77d ago"
+    "time_ago": "78d ago"
   },
   {
     "id": "782af70b6ebe",
@@ -1315,7 +1103,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "139d ago"
+    "time_ago": "140d ago"
   },
   {
     "id": "d3ca74df7f0f",
