@@ -1,5 +1,135 @@
 [
   {
+    "id": "8aa3b22ff7ea",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Burrell Jonathan gifted 322,000 shares of Garmin Ltd (GRMN) \u00b7 Jun 12 ($0 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "GRMN"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1134084/000101410826000035/0001014108-26-000035-index.htm",
+    "published_iso": "2026-06-12T18:26:12+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "3c2f6f645335",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Sparks Martin Randolph sold 1,200 shares of Nbt Bancorp Inc (NBTB) \u00b7 $48.04/share \u00b7 $57,650 total \u00b7 Jun 12",
+    "tags": [],
+    "tickers": [
+      "NBTB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1925416/000079035926000058/0000790359-26-000058-index.htm",
+    "published_iso": "2026-06-12T18:24:53+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "4acd3f81db3d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Hoeller Heidi M sold 2,100 shares of Nbt Bancorp Inc (NBTB) \u00b7 $48.03/share \u00b7 $100,874 total \u00b7 Jun 12",
+    "tags": [],
+    "tickers": [
+      "NBTB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1908775/000079035926000057/0000790359-26-000057-index.htm",
+    "published_iso": "2026-06-12T18:20:06+00:00",
+    "time_ago": "8m ago"
+  },
+  {
+    "id": "45fcae520efb",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Durn Daniel exercised options for 3,940 shares of Marvell Technology, Inc. (MRVL) \u00b7 Jun 12",
+    "tags": [],
+    "tickers": [
+      "MRVL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1835632/000162828026042758/0001628280-26-042758-index.htm",
+    "published_iso": "2026-06-12T18:18:33+00:00",
+    "time_ago": "9m ago"
+  },
+  {
+    "id": "62874af0d38f",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Elsztain Eduardo S exercised derivative for 13,010,290 shares of Irsa Investments & Representations Inc (IRS) \u00b7 Jun 12",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "IRS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1037182/000103718226000006/0001037182-26-000006-index.htm",
+    "published_iso": "2026-06-12T18:17:08+00:00",
+    "time_ago": "11m ago"
+  },
+  {
+    "id": "1fdda22d239e",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "critical",
+    "content": "The power of the purse belongs with Congress. \n \n \n National Taxpayers Union (@NTU) \n \n Two-hundred and fifty years later, Congress should embrace our heritage by passing legislation like the No Taxation Without Representation Act, introduced by  @SenRandPaul .  \n \nHis bill and similar proposals requiring Congress to v",
+    "tags": [
+      "Trade",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/RandPaul/status/2065489069027500503#m",
+    "published_iso": "2026-06-12T17:39:03+00:00",
+    "time_ago": "48m ago"
+  },
+  {
     "id": "59e8b2b0e51b",
     "politician": "Sen. Elizabeth Warren",
     "initials": "EW",
@@ -20,7 +150,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2065466952923984219#m",
     "published_iso": "2026-06-12T16:11:10+00:00",
-    "time_ago": "23m ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "5b4120fb7831",
@@ -43,72 +173,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mo44wllfd22g",
     "published_iso": "2026-06-12T16:11:01.876000+00:00",
-    "time_ago": "23m ago"
-  },
-  {
-    "id": "7acf0316cdfa",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "SpaceX launches IPO, making Elon Musk the world's first trillionaire. Elon Musk\u2019s SpaceX made its highly anticipated stock market debut Friday morning, establishing him as the first person to ever be worth $1 trillion. The spacecraft and satellite communications company began trading on the Nasdaq with shares opening a",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "TSLA"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/5921862-elon-musk-spacex-trillionaire/",
-    "published_iso": "2026-06-12T16:00:25+00:00",
-    "time_ago": "34m ago"
-  },
-  {
-    "id": "9fa9f5709d37",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Tariff-jumping doesn't prove that tariffs work. Relocation, by itself, is not evidence of success",
-    "tags": [
-      "Trade"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/finance/5920426-tariff-jumping-economic-impact/",
-    "published_iso": "2026-06-12T16:00:00+00:00",
-    "time_ago": "35m ago"
-  },
-  {
-    "id": "4fb25a3d8164",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Blackburn presses Kik on kids safety after 'disturbing' research report. Sen. Marsha Blackburn (R-Tenn.) is pressing the messaging platform Kik over its dangers to users, accusing the platform of \"turning a blind eye\" or \"allowing\" the exploitation and abuse of minors. The letter, sent Friday and first shared with The ",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/5921714-marsha-blackburn-kik-kids-safety-report/",
-    "published_iso": "2026-06-12T15:59:03+00:00",
-    "time_ago": "36m ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "0a0074d19d2d",
@@ -134,7 +199,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2065452345329086495#m",
     "published_iso": "2026-06-12T15:13:08+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "c18ee115f23b",
@@ -156,7 +221,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/12/2026-11904/establishment-of-class-e-airspace-mullin-tx",
     "published_iso": "2026-06-12T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "a6203b9d8439",
@@ -177,7 +242,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/12/2026-11884/partial-withdrawals-of-findings-of-failure-to-submit-state-implementation-plan-sip-revisions-to",
     "published_iso": "2026-06-12T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "0fbfbccc800b",
@@ -199,7 +264,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/12/2026-11861/establishment-of-class-e-airspace-freer-tx",
     "published_iso": "2026-06-12T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "dbc84d674154",
@@ -221,7 +286,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/12/2026-11860/establishment-of-class-e-airspace-canton-oh",
     "published_iso": "2026-06-12T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "9cbbbb938d4a",
@@ -242,7 +307,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/12/2026-11849/revising-huds-noise-abatement-and-control-regulations",
     "published_iso": "2026-06-12T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "14243ac460f7",
@@ -263,7 +328,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/12/2026-11838/drawbridge-operation-regulation-big-carlos-pass-estero-island-fl",
     "published_iso": "2026-06-12T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "6e5416dfa372",
@@ -284,7 +349,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-and-withdrawal-sent-to-the-senate/",
     "published_iso": "2026-06-11T21:03:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "212dc63066ec",
@@ -305,7 +370,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/06/75th-anniversary-of-the-white-house-navy-mess-2026/",
     "published_iso": "2026-06-11T20:27:44+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "0b54789d7fdc",
@@ -326,7 +391,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-restores-american-commercial-fishing-in-the-pacific/",
     "published_iso": "2026-06-11T20:26:56+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "03c5ea3c14c5",
@@ -352,7 +417,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-secures-wins-on-military-right-to-repair-defense-contractor-stock-buybacks-service-member-safety-in-senate-fy-2027-ndaa",
     "published_iso": "2026-06-11T18:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "239ff50f5680",
@@ -371,7 +436,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s171?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-11T17:41:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "788e0c17cef4",
@@ -394,7 +459,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenLummis/status/2065125157169967440#m",
     "published_iso": "2026-06-11T17:33:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "8294c787f1a6",
@@ -572,33 +637,6 @@
     "time_ago": "1d ago"
   },
   {
-    "id": "f75be386772b",
-    "politician": "Rep. Jim Jordan",
-    "initials": "JJ",
-    "role": "House Judiciary Committee Chair",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fca5a5"
-    },
-    "severity": "medium",
-    "content": "Good questions earlier today from  @Jim_Jordan  on sports rights and antitrust law. Check it out below. \n \n \n Rep. Jim Jordan (@Jim_Jordan) \n \n  \n \n Video \n   \n \n\n\n \n \n\u2014   https://nitter.net/Jim_Jordan/status/2064768503735812248#m",
-    "tags": [
-      "Antitrust",
-      "Regulation"
-    ],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/ClayTravis/status/2064842527497138192#m",
-    "published_iso": "2026-06-10T22:49:56+00:00",
-    "time_ago": "1d ago"
-  },
-  {
     "id": "c285df6dd76f",
     "politician": "Sen. Bernie Sanders",
     "initials": "BS",
@@ -741,7 +779,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/06/president-trump-is-restoring-american-greatness-one-win-at-a-time/",
     "published_iso": "2026-06-10T17:34:42+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "1eb205a863f9",
@@ -908,7 +946,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm",
     "published_iso": "2026-05-26T18:00:00+00:00",
-    "time_ago": "16d ago"
+    "time_ago": "17d ago"
   },
   {
     "id": "07ab4044a288",
@@ -1256,7 +1294,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "140d ago"
+    "time_ago": "141d ago"
   },
   {
     "id": "d3ca74df7f0f",
