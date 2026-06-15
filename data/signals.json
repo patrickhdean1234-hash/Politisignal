@@ -1,6 +1,6 @@
 [
   {
-    "id": "ae5cdf392726",
+    "id": "f53b56953cee",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,16 +9,89 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Carlson Jan sold 19,607 shares of Autoliv Inc (ALV) \u00b7 $130.00/share \u00b7 $2,548,930 total \u00b7 Jun 15",
+    "content": "Murphy Christopher J Iii gifted 2,000 shares of 1St Source Corp (SRCE) \u00b7 Jun 15",
     "tags": [],
     "tickers": [
-      "ALV"
+      "SRCE"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1321553/000119312526270402/0001193125-26-270402-index.htm",
-    "published_iso": "2026-06-15T13:30:02+00:00",
-    "time_ago": "5m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1217073/000121707326000007/0001217073-26-000007-index.htm",
+    "published_iso": "2026-06-15T18:09:57+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "b3e3ed586512",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "FBI issues urgent Kali365 security warning for Teams, Outlook, OneDrive users. The FBI released an urgent security warning to the public about a fast-acting scam targeting Microsoft 365 users on Teams, Outlook and OneDrive. The agency warned that the hacking platform Kali365 seeks out OAuth device codes, allowing scamm",
+    "tags": [],
+    "tickers": [
+      "MSFT"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/5924655-microsoft-365-phishing-threat/",
+    "published_iso": "2026-06-15T17:04:06+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "4e60ebeef267",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "China is quietly taking control of US medicine. We must stop helping it.. China is using economic leverage to dominate the global supply chain for medicines, and the U.S. must take action to protect its leadership in the biomedical industry by strengthening regulatory frameworks and investing in domestic infrastructure",
+    "tags": [
+      "China"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/5923996-us-china-medicine-control-risk/",
+    "published_iso": "2026-06-15T17:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "4838a98f8e97",
+    "politician": "Rep. Mike Johnson",
+    "initials": "MJ",
+    "role": "Speaker of the House",
+    "color": {
+      "bg": "#2a1a1a",
+      "fg": "#fbbf24"
+    },
+    "severity": "medium",
+    "content": "Don\u2019t believe the FAKE NEWS. When Republicans talk about fixing\u00a0Social Security, Medicare and Medicaid, we are not talking about reducing a single benefit.  \n \nWe\u2019re talking about eliminating hundreds of billions in FRAUD and inefficiencies that are draining the programs and threatening their sustainability.  \n \nThe du",
+    "tags": [
+      "Healthcare",
+      "Regulation"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SpeakerJohnson/status/2066541635136041372#m",
+    "published_iso": "2026-06-15T15:21:34+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "4e8a2d266375",
@@ -39,7 +112,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/15/2026-12011/miscellaneous-rules-relating-to-common-carriers",
     "published_iso": "2026-06-15T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "7b55e6cbda3b",
@@ -61,7 +134,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/15/2026-11998/amendment-and-revocation-of-organizational-information-regulations",
     "published_iso": "2026-06-15T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "ad7f58e363eb",
@@ -80,7 +153,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/15/2026-11993/security-zone-santa-monica-bay-los-angeles-ca",
     "published_iso": "2026-06-15T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "c1922a36e1f1",
@@ -101,7 +174,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/15/2026-11990/amendment-of-jet-routes-j-70-and-j-94-and-amendment-of-very-high-frequency-omnidirectional-range",
     "published_iso": "2026-06-15T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "692ec73ecad3",
@@ -120,7 +193,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/15/2026-11987/fisheries-of-the-northeastern-united-states-northeast-skate-complex-2026-and-projected-2027-and-2028",
     "published_iso": "2026-06-15T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "0adb7b2123fe",
@@ -141,7 +214,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/15/2026-11986/fisheries-of-the-northeastern-united-states-mid-atlantic-blueline-tilefish-and-golden-tilefish",
     "published_iso": "2026-06-15T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "24c808c7c705",
@@ -160,7 +233,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/15/2026-11976/airworthiness-directives-bombardier-inc-airplanes",
     "published_iso": "2026-06-15T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "120dd56799e2",
@@ -179,31 +252,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/15/2026-11975/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-06-15T04:00:00+00:00",
-    "time_ago": "9h ago"
-  },
-  {
-    "id": "082486b3220f",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Vinod, my understanding is these students walked out to protest Google's contract with IDF given Israel's genocide in Gaza. \n \nWherever one stands on those contracts, I believe you would support their right of free expression and challenging authority. \n \n \n Vinod Khosla (@vkhosla) \n \n The stupidity of these  @Stanford",
-    "tags": [
-      "Big Tech",
-      "Regulation"
-    ],
-    "tickers": [
-      "GOOGL"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/RoKhanna/status/2066303930586247532#m",
-    "published_iso": "2026-06-14T23:37:01+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "8107104b0b70",
@@ -243,7 +292,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/private-equity-is-buying-up-hospitals-driving-them-into-the-ground-and-selling-them-for-parts",
     "published_iso": "2026-06-13T17:09:01+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "3ce5eff683f8",
@@ -333,29 +382,6 @@
     "time_ago": "2d ago"
   },
   {
-    "id": "59e8b2b0e51b",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "Elon Musk just became the world's first trillionaire. \n \nThe typical American household would have to work more than 11 MILLION years to make Elon Musk's level of wealth. \n \nWe need a wealth tax.",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "TSLA"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/SenWarren/status/2065466952923984219#m",
-    "published_iso": "2026-06-12T16:11:10+00:00",
-    "time_ago": "2d ago"
-  },
-  {
     "id": "5b4120fb7831",
     "politician": "Sen. Elizabeth Warren",
     "initials": "EW",
@@ -376,7 +402,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mo44wllfd22g",
     "published_iso": "2026-06-12T16:11:01.876000+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "239ff50f5680",
@@ -395,7 +421,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s171?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-11T17:41:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "12cc6306c61c",
@@ -414,7 +440,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s170?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-11T15:30:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "2f1208e0d945",
@@ -441,7 +467,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
     "published_iso": "2026-06-11T15:00:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "5eeaf0e00f1c",
@@ -460,7 +486,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h222?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-11T14:44:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "e184daff96fd",
@@ -479,7 +505,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h221?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-11T14:34:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "08ec32451dc7",
@@ -610,7 +636,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-sullivan-lead-colleagues-in-urging-bank-regulators-to-establish-fair-capital-standards-for-digital-assets/",
     "published_iso": "2026-06-04T14:07:24+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "ddb58e0107d1",
@@ -651,7 +677,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm",
     "published_iso": "2026-06-02T15:00:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "cb28de6b473b",
@@ -677,7 +703,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260528a.htm",
     "published_iso": "2026-05-28T15:00:00+00:00",
-    "time_ago": "17d ago"
+    "time_ago": "18d ago"
   },
   {
     "id": "a1e6af3705a6",
@@ -696,7 +722,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm",
     "published_iso": "2026-05-26T18:00:00+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "07ab4044a288",
@@ -774,7 +800,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260521a.htm",
     "published_iso": "2026-05-21T15:00:00+00:00",
-    "time_ago": "24d ago"
+    "time_ago": "25d ago"
   },
   {
     "id": "072d30de1b17",
@@ -800,7 +826,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-legalizing-premium-health-care-act/",
     "published_iso": "2026-05-20T15:26:37+00:00",
-    "time_ago": "25d ago"
+    "time_ago": "26d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -821,7 +847,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "34d ago"
+    "time_ago": "35d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -847,7 +873,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "40d ago"
+    "time_ago": "41d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -869,7 +895,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "48d ago"
+    "time_ago": "49d ago"
   },
   {
     "id": "0047e3ab5b67",
@@ -891,7 +917,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "55d ago"
+    "time_ago": "56d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -915,7 +941,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "76d ago"
+    "time_ago": "77d ago"
   },
   {
     "id": "d52e199aa058",
@@ -956,7 +982,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "110d ago"
+    "time_ago": "111d ago"
   },
   {
     "id": "602146d3f751",
@@ -999,7 +1025,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "121d ago"
+    "time_ago": "122d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1018,7 +1044,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "121d ago"
+    "time_ago": "122d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1044,7 +1070,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "143d ago"
+    "time_ago": "144d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1063,7 +1089,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "180d ago"
+    "time_ago": "181d ago"
   },
   {
     "id": "e88c3c11d67a",
@@ -1085,6 +1111,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/983956",
     "published_iso": "2025-10-30T16:06:54+00:00",
-    "time_ago": "227d ago"
+    "time_ago": "228d ago"
   }
 ]
