@@ -1,6 +1,6 @@
 [
   {
-    "id": "a8a320e99c99",
+    "id": "37fc8df06a11",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,121 +9,134 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Lorberbaum Jeffrey S sold 500 shares of Mohawk Industries Inc (MHK) \u00b7 $110.00/share \u00b7 $55,000 total \u00b7 Jun 16 ($559,362 across all blocks)",
+    "content": "Obstler David M converted 7,500 shares of Datadog, Inc. (DDOG) \u00b7 Jun 16 ($0 across all blocks)",
     "tags": [],
     "tickers": [
-      "MHK"
+      "DDOG"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/925177/000092517726000012/0000925177-26-000012-index.htm",
-    "published_iso": "2026-06-16T20:22:30+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000208/0001561550-26-000208-index.htm",
+    "published_iso": "2026-06-16T22:26:20+00:00",
     "time_ago": "1m ago"
   },
   {
-    "id": "a8ee1e576f03",
+    "id": "1893be39253a",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Sebulsky Alan bought 8,435 shares of Parabilis Medicines, Inc. (PBLS) \u00b7 $27.67/share \u00b7 $233,393 total \u00b7 Jun 16 ($473,529 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "PBLS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1657677/000119312526273013/0001193125-26-273013-index.htm",
+    "published_iso": "2026-06-16T22:19:27+00:00",
+    "time_ago": "8m ago"
+  },
+  {
+    "id": "fb1e4a44fd30",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Page Tyler exercised options for 333,334 shares of Cipher Digital Inc. (CIFR) \u00b7 Jun 16 ($4,429,473 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "CIFR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1887623/000188762326000010/0001887623-26-000010-index.htm",
+    "published_iso": "2026-06-16T22:18:06+00:00",
+    "time_ago": "9m ago"
+  },
+  {
+    "id": "544f97bb0db7",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Kelly Patrick Arthur exercised options for 166,667 shares of Cipher Digital Inc. (CIFR) \u00b7 Jun 16 ($2,214,737 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "CIFR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1887616/000188761626000018/0001887616-26-000018-index.htm",
+    "published_iso": "2026-06-16T22:16:28+00:00",
+    "time_ago": "11m ago"
+  },
+  {
+    "id": "bd1bd5a08216",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
     },
     "severity": "critical",
-    "content": "Oh Irene H sold 800 shares of East West Bancorp Inc (EWBC) \u00b7 $133.19/share \u00b7 $106,552 total \u00b7 Jun 16",
-    "tags": [],
-    "tickers": [
-      "EWBC"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1482107/000148210726000012/0001482107-26-000012-index.htm",
-    "published_iso": "2026-06-16T20:22:22+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "e7f8cbe67ffe",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Wilm Renee L sold 11,597 shares of Liberty Media Corp (FWONB) \u00b7 $90.09/share \u00b7 $1,044,774 total \u00b7 Jun 16",
-    "tags": [],
-    "tickers": [
-      "FWONB"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1789667/000122520826006073/0001225208-26-006073-index.htm",
-    "published_iso": "2026-06-16T20:22:12+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "b1d1d93598b4",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Paya Carlos V received 2,265 shares of Vaxcyte, Inc. (PCVX) \u00b7 Jun 16",
-    "tags": [],
-    "tickers": [
-      "PCVX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1649094/000160624426000004/0001606244-26-000004-index.htm",
-    "published_iso": "2026-06-16T20:21:17+00:00",
-    "time_ago": "3m ago"
-  },
-  {
-    "id": "4350fd48ed41",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hahn Stephen M. converted 44,763 shares of Sensei Biotherapeutics, Inc. (SNSE) \u00b7 Jun 16",
-    "tags": [],
-    "tickers": [
-      "SNSE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2137706/000213770626000003/0002137706-26-000003-index.htm",
-    "published_iso": "2026-06-16T20:21:10+00:00",
-    "time_ago": "3m ago"
-  },
-  {
-    "id": "8c0189bda68c",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Democrats unveil drug pricing policy roadmap ahead of midterms. Senate Democrats on Tuesday released a blueprint\u00a0of proposals to lower\u00a0prescription\u00a0drug costs, as Democrats focus on affordability to provide a counter message to\u00a0the White House and help Democrats win back control of Congress. High prescription drug cost",
+    "content": "Mark, do you not believe that Medicare today for those over 65, run by the federal government, is better than private health insurance plans?   \n \nAnd Sanders bill adds protections so the government can't deny needed care. \n \n \n Mark Cuban (@mcuban) \n \n Who runs it ? \n\n \n \n\u2014   https://nitter.net/mcuban/status/206672170",
     "tags": [
-      "Healthcare"
+      "Healthcare",
+      "Regulation"
     ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5926593-senate-democrats-prescription-drug-plan/",
-    "published_iso": "2026-06-16T18:41:04+00:00",
-    "time_ago": "1h ago"
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/RoKhanna/status/2067002789319106626#m",
+    "published_iso": "2026-06-16T21:54:02+00:00",
+    "time_ago": "33m ago"
+  },
+  {
+    "id": "37bfe4923312",
+    "politician": "Sen. Cynthia Lummis",
+    "initials": "CL",
+    "role": "Senate Banking Subcommittee (Crypto)",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#c4b5fd"
+    },
+    "severity": "critical",
+    "content": "Lummis Leads Colleagues in Urging Treasury to Preserve State Authority Under GENIUS Act. Washington D.C. \u2014&#160;Senate Banking Subcommittee on Digital Assets Chair Cynthia Lummis (R-WY) led Senators Kirsten Gillibrand (D-NY), Bill Hagerty (R-TN), Angela Alsobrooks (D-MD), Kevin Cramer (R-ND), Catherine Cortez Masto (D-",
+    "tags": [
+      "Crypto",
+      "Banking",
+      "Defense",
+      "Regulation"
+    ],
+    "tickers": [
+      "BTC",
+      "ETH",
+      "COIN",
+      "XRP"
+    ],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "https://www.lummis.senate.gov/press-releases/lummis-leads-colleagues-in-urging-treasury-to-preserve-state-authority-under-genius-act/",
+    "published_iso": "2026-06-16T19:13:07+00:00",
+    "time_ago": "3h ago"
   },
   {
     "id": "e570a70ceb43",
@@ -149,7 +162,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/GunnelsWarren/status/2066924723510845477#m",
     "published_iso": "2026-06-16T16:43:50+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "2374d9279528",
@@ -170,7 +183,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s173?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-16T15:44:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "ae62b108c3bc",
@@ -189,7 +202,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/16/2026-12131/pacific-halibut-fisheries-of-the-west-coast-annual-management-measures-for-the-2026-area-2a-pacific",
     "published_iso": "2026-06-16T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "c46d2e3978d7",
@@ -210,7 +223,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/16/2026-12108/fisheries-off-west-coast-states-extension-of-emergency-action-to-temporarily-increase-2026-harvest",
     "published_iso": "2026-06-16T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "c3c59ec26be4",
@@ -229,7 +242,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/16/2026-12077/endangered-and-threatened-wildlife-and-plants-two-species-not-warranted-for-listing-as-endangered-or",
     "published_iso": "2026-06-16T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "1073e7b2b6f4",
@@ -250,7 +263,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/16/2026-12071/international-mailing-services-price-changes",
     "published_iso": "2026-06-16T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "c7dcf8a72faa",
@@ -276,7 +289,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/16/2026-12069/medicare-program-strengthening-oversight-of-accrediting-organizations-aos-and-preventing-ao",
     "published_iso": "2026-06-16T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "384806d48361",
@@ -297,7 +310,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/16/2026-12067/fee-schedules-fee-recovery-for-fiscal-year-2026",
     "published_iso": "2026-06-16T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "ed97213ad69d",
@@ -320,7 +333,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/16/2026-12066/assistance-to-foreign-atomic-energy-activities",
     "published_iso": "2026-06-16T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "f6544d137655",
@@ -341,7 +354,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/16/2026-12058/records-preservation-program-and-appendices-record-retention-guidelines-catastrophic-act",
     "published_iso": "2026-06-16T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "d76f89ffe367",
@@ -367,7 +380,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/GunnelsWarren/status/2066663452379070895#m",
     "published_iso": "2026-06-15T23:25:38+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "e574ee4f8687",
@@ -386,7 +399,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s172?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-15T21:28:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "3ce5eff683f8",
@@ -410,7 +423,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/AOC/status/2065552802756145382#m",
     "published_iso": "2026-06-12T21:52:18+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "cb3496b8791b",
@@ -431,7 +444,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trumps-remarkable-week-empowering-youth-through-ai-challenge-and-fostering-the-future-accounts/",
     "published_iso": "2026-06-12T20:58:22+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "16ba7c8dc4ac",
@@ -574,7 +587,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h220?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-10T20:32:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "3b5c17f7535a",
@@ -670,7 +683,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/the-senate-page-program/",
     "published_iso": "2026-06-03T21:41:29+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "5975851e8422",
