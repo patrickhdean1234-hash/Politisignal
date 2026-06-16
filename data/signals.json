@@ -1,6 +1,111 @@
 [
   {
-    "id": "7fa561d2ebef",
+    "id": "a8a320e99c99",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Lorberbaum Jeffrey S sold 500 shares of Mohawk Industries Inc (MHK) \u00b7 $110.00/share \u00b7 $55,000 total \u00b7 Jun 16 ($559,362 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "MHK"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/925177/000092517726000012/0000925177-26-000012-index.htm",
+    "published_iso": "2026-06-16T20:22:30+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "a8ee1e576f03",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Oh Irene H sold 800 shares of East West Bancorp Inc (EWBC) \u00b7 $133.19/share \u00b7 $106,552 total \u00b7 Jun 16",
+    "tags": [],
+    "tickers": [
+      "EWBC"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1482107/000148210726000012/0001482107-26-000012-index.htm",
+    "published_iso": "2026-06-16T20:22:22+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "e7f8cbe67ffe",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Wilm Renee L sold 11,597 shares of Liberty Media Corp (FWONB) \u00b7 $90.09/share \u00b7 $1,044,774 total \u00b7 Jun 16",
+    "tags": [],
+    "tickers": [
+      "FWONB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1789667/000122520826006073/0001225208-26-006073-index.htm",
+    "published_iso": "2026-06-16T20:22:12+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "b1d1d93598b4",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Paya Carlos V received 2,265 shares of Vaxcyte, Inc. (PCVX) \u00b7 Jun 16",
+    "tags": [],
+    "tickers": [
+      "PCVX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1649094/000160624426000004/0001606244-26-000004-index.htm",
+    "published_iso": "2026-06-16T20:21:17+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "4350fd48ed41",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hahn Stephen M. converted 44,763 shares of Sensei Biotherapeutics, Inc. (SNSE) \u00b7 Jun 16",
+    "tags": [],
+    "tickers": [
+      "SNSE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2137706/000213770626000003/0002137706-26-000003-index.htm",
+    "published_iso": "2026-06-16T20:21:10+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "8c0189bda68c",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -8,19 +113,17 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "low",
-    "content": "'The View' hosts press Vance over Trump 'I love inflation' comment: 'Are you his interpreter?'. Vice President Vance sparred with the hosts of ABC\u2019s \u201cThe View\u201d Tuesday over President Trump\u2019s recent comments on inflation. The show\u2019s co-hosts pressed Vance on Trump\u2019s comments on affordability and inflation while he appea",
-    "tags": [],
-    "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
+    "severity": "high",
+    "content": "Democrats unveil drug pricing policy roadmap ahead of midterms. Senate Democrats on Tuesday released a blueprint\u00a0of proposals to lower\u00a0prescription\u00a0drug costs, as Democrats focus on affordability to provide a counter message to\u00a0the White House and help Democrats win back control of Congress. High prescription drug cost",
+    "tags": [
+      "Healthcare"
     ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5926418-trump-vance-inflation-debate/",
-    "published_iso": "2026-06-16T17:07:53+00:00",
-    "time_ago": "19m ago"
+    "url": "https://thehill.com/homenews/senate/5926593-senate-democrats-prescription-drug-plan/",
+    "published_iso": "2026-06-16T18:41:04+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "e570a70ceb43",
@@ -46,54 +149,28 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/GunnelsWarren/status/2066924723510845477#m",
     "published_iso": "2026-06-16T16:43:50+00:00",
-    "time_ago": "43m ago"
+    "time_ago": "3h ago"
   },
   {
-    "id": "f7ba6ef4ce2b",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "2374d9279528",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
     },
-    "severity": "critical",
-    "content": "Let's not revive the predatory mortgages Barney Frank eliminated. The Dodd-Frank Wall Street Reform and Consumer Protection Act was passed in response to the 2008 financial crisis to protect borrowers from predatory lending practices and ensure that lenders verify borrowers' ability to repay before making a loan",
+    "severity": "high",
+    "content": "Motion to Proceed on S.J.Res. 190: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Executive Office for Immigration Review relating to \u201cAppellate Procedures for the Board of Immigration A. Vote: Motion to Proceed Rejected 46/48",
     "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/finance/5925577-dodd-frank-mortgage-reform/",
-    "published_iso": "2026-06-16T16:30:00+00:00",
-    "time_ago": "57m ago"
-  },
-  {
-    "id": "db5ce01574f9",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "World Cup 2026: Manic Monday of draws; Argentina and France to debut. COLUMBUS, Ohio (WCMH) -- The World Cup gave fans four surprising ties Monday. The upset-filled action introduced the world to a small African nation and its goalkeeper and created two groups locked into four-way ties. This is ahead of a Tuesday tourn",
-    "tags": [
-      "Taxes"
+      "Regulation"
     ],
     "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/sports-gaming/5926254-world-cup-2026-manic-monday-of-draws-argentina-and-france-to-debut/",
-    "published_iso": "2026-06-16T16:09:41+00:00",
-    "time_ago": "1h ago"
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s173?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-16T15:44:00+00:00",
+    "time_ago": "4h ago"
   },
   {
     "id": "ae62b108c3bc",
@@ -112,7 +189,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/16/2026-12131/pacific-halibut-fisheries-of-the-west-coast-annual-management-measures-for-the-2026-area-2a-pacific",
     "published_iso": "2026-06-16T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "c46d2e3978d7",
@@ -133,7 +210,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/16/2026-12108/fisheries-off-west-coast-states-extension-of-emergency-action-to-temporarily-increase-2026-harvest",
     "published_iso": "2026-06-16T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "c3c59ec26be4",
@@ -152,7 +229,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/16/2026-12077/endangered-and-threatened-wildlife-and-plants-two-species-not-warranted-for-listing-as-endangered-or",
     "published_iso": "2026-06-16T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "1073e7b2b6f4",
@@ -173,7 +250,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/16/2026-12071/international-mailing-services-price-changes",
     "published_iso": "2026-06-16T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "c7dcf8a72faa",
@@ -199,7 +276,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/16/2026-12069/medicare-program-strengthening-oversight-of-accrediting-organizations-aos-and-preventing-ao",
     "published_iso": "2026-06-16T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "384806d48361",
@@ -220,7 +297,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/16/2026-12067/fee-schedules-fee-recovery-for-fiscal-year-2026",
     "published_iso": "2026-06-16T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "ed97213ad69d",
@@ -243,7 +320,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/16/2026-12066/assistance-to-foreign-atomic-energy-activities",
     "published_iso": "2026-06-16T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "f6544d137655",
@@ -264,7 +341,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/16/2026-12058/records-preservation-program-and-appendices-record-retention-guidelines-catastrophic-act",
     "published_iso": "2026-06-16T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "d76f89ffe367",
@@ -290,7 +367,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/GunnelsWarren/status/2066663452379070895#m",
     "published_iso": "2026-06-15T23:25:38+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "e574ee4f8687",
@@ -309,26 +386,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s172?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-15T21:28:00+00:00",
-    "time_ago": "19h ago"
-  },
-  {
-    "id": "8107104b0b70",
-    "politician": "Sen. Bernie Sanders",
-    "initials": "BS",
-    "role": "Senate HELP Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#818cf8"
-    },
-    "severity": "medium",
-    "content": "Not content to controlling our economy and our political system, the Oligarchs are now consolidating control over the media. \n \nTrump\u2019s ally David Ellison is poised to control both CBS and CNN. \n \nNot acceptable. This merger must be opposed.",
-    "tags": [],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/BernieSanders/status/2065904638474268757#m",
-    "published_iso": "2026-06-13T21:10:23+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "3ce5eff683f8",
@@ -394,7 +452,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-250th-anniversary-of-the-virginia-declaration-of-rights/",
     "published_iso": "2026-06-12T20:21:35+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "239ff50f5680",
@@ -413,7 +471,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s171?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-11T17:41:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "12cc6306c61c",
@@ -535,26 +593,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h219?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-10T20:23:00+00:00",
-    "time_ago": "5d ago"
-  },
-  {
-    "id": "24688b7cd0a7",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.R. 8312: Fraud Prevention and Accountability Act. Vote: Passed 240/181",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h218?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-10T20:16:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "82c28da78cda",
@@ -580,7 +619,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm",
     "published_iso": "2026-06-09T20:00:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "7efa4c0a4cc7",
@@ -695,7 +734,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm",
     "published_iso": "2026-05-26T18:00:00+00:00",
-    "time_ago": "20d ago"
+    "time_ago": "21d ago"
   },
   {
     "id": "07ab4044a288",
@@ -721,7 +760,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260522a.htm",
     "published_iso": "2026-05-22T20:15:00+00:00",
-    "time_ago": "24d ago"
+    "time_ago": "25d ago"
   },
   {
     "id": "ee13b7f3bdd8",
@@ -747,7 +786,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260522a.htm",
     "published_iso": "2026-05-22T20:00:00+00:00",
-    "time_ago": "24d ago"
+    "time_ago": "25d ago"
   },
   {
     "id": "1290214ad3cd",
@@ -933,7 +972,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "82d ago"
+    "time_ago": "83d ago"
   },
   {
     "id": "782af70b6ebe",
@@ -977,7 +1016,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-announces-2026-service-academy-nominations/",
     "published_iso": "2026-02-18T19:38:51+00:00",
-    "time_ago": "117d ago"
+    "time_ago": "118d ago"
   },
   {
     "id": "00f579ee8f55",
