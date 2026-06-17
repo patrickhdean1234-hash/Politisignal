@@ -1,5 +1,73 @@
 [
   {
+    "id": "665b1eed1d22",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "low",
+    "content": "Japan Post Holdings Co., Ltd. sold 28,102 shares of Aflac Inc (AFL) \u00b7 $117.15/share \u00b7 $3,292,149 total \u00b7 Jun 17 ($3,374,423 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "AFL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1783464/000110465926074921/0001104659-26-074921-index.htm",
+    "published_iso": "2026-06-17T12:56:30+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "4b49d89a547a",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Oldakowski Joseph Frank sold 12,102 shares of Clover Health Investments, Corp. /De (CLOV) \u00b7 $4.86/share \u00b7 $58,816 total \u00b7 Jun 17",
+    "tags": [],
+    "tickers": [
+      "CLOV"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2128814/000180117026000161/0001801170-26-000161-index.htm",
+    "published_iso": "2026-06-17T12:13:30+00:00",
+    "time_ago": "43m ago"
+  },
+  {
+    "id": "f759574cb519",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "The Gavel: A new tariff refund battle emerges. A note for Gavel readers: The Gavel is becoming part of The Hill Insider \u2014 our new premium access digital subscription launching July 2026. As a Hill Insider subscriber, your weekly legal and policy briefing continues, now with live editor calls, exclusive analysis, and di",
+    "tags": [
+      "Trade"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/the-gavel/5927088-trump-tariffs-legal-fight/",
+    "published_iso": "2026-06-17T12:00:00+00:00",
+    "time_ago": "57m ago"
+  },
+  {
     "id": "0727d2dcedea",
     "politician": "Rep. Ro Khanna",
     "initials": "RK",
@@ -23,7 +91,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2067118973892612441#m",
     "published_iso": "2026-06-17T05:35:43+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "80d46907e471",
@@ -42,7 +110,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/17/2026-12203/safety-zone-ohio-river-mile-marker-0-05-allegheny-river-mile-marker-0-05-monongahela-river-mile",
     "published_iso": "2026-06-17T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "798913bb05ba",
@@ -61,7 +129,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/17/2026-12190/priority-mail-express-and-priority-mail-open-and-distribute-parcel-mailings-discontinued",
     "published_iso": "2026-06-17T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "b3687764ec84",
@@ -82,7 +150,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/17/2026-12189/reducing-bureaucracy-and-burden-for-human-services-and-emergency-response-programs-repatriation",
     "published_iso": "2026-06-17T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "1c871b6620e9",
@@ -103,7 +171,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/17/2026-12183/2025-quarterly-listings-fourth-quarter-safety-zones-security-zones-and-special-local-regulations",
     "published_iso": "2026-06-17T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "8cc499b6b75f",
@@ -124,7 +192,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/17/2026-12182/2025-quarterly-listings-third-quarter-safety-zones-security-zones-and-special-local-regulations",
     "published_iso": "2026-06-17T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "4b7ffa9ccd75",
@@ -145,7 +213,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/17/2026-12175/reef-fish-fishery-of-the-gulf-of-america-shallow-water-grouper-management-measures",
     "published_iso": "2026-06-17T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "cb2a48a92b37",
@@ -164,7 +232,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/17/2026-12172/anchorage-grounds-columbia-river-longview-oregon-and-washington",
     "published_iso": "2026-06-17T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "070378d18d43",
@@ -185,208 +253,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/17/2026-12170/special-local-regulation-marine-events-within-the-captain-of-the-port-zone-columbia-river",
     "published_iso": "2026-06-17T04:00:00+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "0a6ce60986da",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Condor Theresa exercised options for 2,285 shares of Spire Global, Inc. (SPIR) \u00b7 $7.04/share \u00b7 $16,086 total \u00b7 Jun 16 ($418,495 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "SPIR"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1856513/000185651326000002/0001856513-26-000002-index.htm",
-    "published_iso": "2026-06-17T01:55:05+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "3b267c39e9f9",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Messer Stephen acquired/disposed 24,660 shares of Spire Global, Inc. (SPIR) \u00b7 Jun 16 ($0 across all blocks)",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [
-      "SPIR"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1856304/000185630426000002/0001856304-26-000002-index.htm",
-    "published_iso": "2026-06-17T01:55:03+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "cb92871c2b0c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Smaldone Alsup Laurie received 6,009 shares of Theravance Biopharma, Inc. (TBPH) \u00b7 Jun 16",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "TBPH"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1589602/000158960226000002/0001589602-26-000002-index.htm",
-    "published_iso": "2026-06-17T01:40:59+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "a97ebf982a80",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Gray Susannah received 6,009 shares of Theravance Biopharma, Inc. (TBPH) \u00b7 Jun 16",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "TBPH"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1833453/000183345326000006/0001833453-26-000006-index.htm",
-    "published_iso": "2026-06-17T01:39:42+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "db311284a573",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Mitchell Dean J received 6,009 shares of Theravance Biopharma, Inc. (TBPH) \u00b7 Jun 16",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "TBPH"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1583107/000119929726000003/0001199297-26-000003-index.htm",
-    "published_iso": "2026-06-17T01:37:40+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "d6a9c1cb0094",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "O'Connor Donal received 6,009 shares of Theravance Biopharma, Inc. (TBPH) \u00b7 Jun 16",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "TBPH"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1625377/000162537726000004/0001625377-26-000004-index.htm",
-    "published_iso": "2026-06-17T01:36:48+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "0142eceb80cd",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Pakianathan Deepika received 6,009 shares of Theravance Biopharma, Inc. (TBPH) \u00b7 Jun 16",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "TBPH"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1583107/000127073426000004/0001270734-26-000004-index.htm",
-    "published_iso": "2026-06-17T01:35:54+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "a149a8de0914",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Rabinowitz Matthew sold 2,536 shares of Natera, Inc. (NTRA) \u00b7 $209.50/share \u00b7 $531,280 total \u00b7 Jun 16 ($21,447,308 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "NTRA"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1646382/000164638226000010/0001646382-26-000010-index.htm",
-    "published_iso": "2026-06-17T01:35:06+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "e1354bfc024d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Pentland Adele Louise exercised options for 7,800 shares of Adobe Inc. (ADBE) \u00b7 Jun 16 ($758,579 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "ADBE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1643724/000164372426000003/0001643724-26-000003-index.htm",
-    "published_iso": "2026-06-17T01:30:52+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "1896732b7b4d",
@@ -410,7 +277,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/YALiberty/status/2067014103441580134#m",
     "published_iso": "2026-06-16T22:39:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "246eb2054308",
@@ -429,7 +296,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s175?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-16T20:52:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "37bfe4923312",
@@ -458,7 +325,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-leads-colleagues-in-urging-treasury-to-preserve-state-authority-under-genius-act/",
     "published_iso": "2026-06-16T19:13:07+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "10e8dc0be9dd",
@@ -477,7 +344,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s174?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-16T19:01:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "2374d9279528",
@@ -498,7 +365,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s173?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-16T15:44:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "e574ee4f8687",
