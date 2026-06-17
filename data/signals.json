@@ -1,6 +1,6 @@
 [
   {
-    "id": "a2bf17f20f1d",
+    "id": "0a6ce60986da",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,21 +9,42 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Muguiro Dominguez Jaime withheld (tax) 54,311 shares of Cemex Sab De Cv (CXMSF) \u00b7 $12.25/share \u00b7 $665,310 total \u00b7 Jun 16 ($665,310 across all blocks)",
+    "content": "Condor Theresa exercised options for 2,285 shares of Spire Global, Inc. (SPIR) \u00b7 $7.04/share \u00b7 $16,086 total \u00b7 Jun 16 ($418,495 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "SPIR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1856513/000185651326000002/0001856513-26-000002-index.htm",
+    "published_iso": "2026-06-17T01:55:05+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "3b267c39e9f9",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Messer Stephen acquired/disposed 24,660 shares of Spire Global, Inc. (SPIR) \u00b7 Jun 16 ($0 across all blocks)",
     "tags": [
-      "Taxes"
+      "Insider Trade"
     ],
     "tickers": [
-      "CXMSF"
+      "SPIR"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2018394/000201839426000004/0002018394-26-000004-index.htm",
-    "published_iso": "2026-06-16T23:49:28+00:00",
-    "time_ago": "7m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1856304/000185630426000002/0001856304-26-000002-index.htm",
+    "published_iso": "2026-06-17T01:55:03+00:00",
+    "time_ago": "2h ago"
   },
   {
-    "id": "a2f428e939f7",
+    "id": "cb92871c2b0c",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -32,42 +53,21 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Weingarten Tomer converted 57,941 shares of Sentinelone, Inc. (S) \u00b7 Jun 16 ($881,306 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "S"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1866222/000186622226000032/0001866222-26-000032-index.htm",
-    "published_iso": "2026-06-16T23:39:42+00:00",
-    "time_ago": "17m ago"
-  },
-  {
-    "id": "d2f58854e180",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Zambrano Lozano Rogelio withheld (tax) 89,310 shares of Cemex Sab De Cv (CXMSF) \u00b7 $12.25/share \u00b7 $1,094,048 total \u00b7 Jun 16 ($1,094,048 across all blocks)",
+    "content": "Smaldone Alsup Laurie received 6,009 shares of Theravance Biopharma, Inc. (TBPH) \u00b7 Jun 16",
     "tags": [
-      "Taxes"
+      "Healthcare"
     ],
     "tickers": [
-      "CXMSF"
+      "TBPH"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2035244/000203524426000007/0002035244-26-000007-index.htm",
-    "published_iso": "2026-06-16T23:39:31+00:00",
-    "time_ago": "17m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1589602/000158960226000002/0001589602-26-000002-index.htm",
+    "published_iso": "2026-06-17T01:40:59+00:00",
+    "time_ago": "2h ago"
   },
   {
-    "id": "b0cecc277bf1",
+    "id": "a97ebf982a80",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -76,19 +76,21 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Wilson Kevin John bought 464,197 shares of Leef Brands Inc. (LEEEF) \u00b7 $0.23/share \u00b7 $106,765 total \u00b7 Jun 16",
-    "tags": [],
+    "content": "Gray Susannah received 6,009 shares of Theravance Biopharma, Inc. (TBPH) \u00b7 Jun 16",
+    "tags": [
+      "Healthcare"
+    ],
     "tickers": [
-      "LEEEF"
+      "TBPH"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2127894/000149315226028963/0001493152-26-028963-index.htm",
-    "published_iso": "2026-06-16T23:34:40+00:00",
-    "time_ago": "22m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1833453/000183345326000006/0001833453-26-000006-index.htm",
+    "published_iso": "2026-06-17T01:39:42+00:00",
+    "time_ago": "2h ago"
   },
   {
-    "id": "8cec9c602383",
+    "id": "db311284a573",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -97,19 +99,21 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Weitman Gary exercised options for 656 shares of Nexstar Media Group, Inc. (NXST) \u00b7 Jun 16 ($44,581 across all blocks)",
-    "tags": [],
+    "content": "Mitchell Dean J received 6,009 shares of Theravance Biopharma, Inc. (TBPH) \u00b7 Jun 16",
+    "tags": [
+      "Healthcare"
+    ],
     "tickers": [
-      "NXST"
+      "TBPH"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1789720/000119312526273089/0001193125-26-273089-index.htm",
-    "published_iso": "2026-06-16T23:33:16+00:00",
-    "time_ago": "23m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1583107/000119929726000003/0001199297-26-000003-index.htm",
+    "published_iso": "2026-06-17T01:37:40+00:00",
+    "time_ago": "2h ago"
   },
   {
-    "id": "22ade4917efb",
+    "id": "d6a9c1cb0094",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -118,19 +122,21 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Russell Blake exercised options for 656 shares of Nexstar Media Group, Inc. (NXST) \u00b7 Jun 16 ($44,581 across all blocks)",
-    "tags": [],
+    "content": "O'Connor Donal received 6,009 shares of Theravance Biopharma, Inc. (TBPH) \u00b7 Jun 16",
+    "tags": [
+      "Healthcare"
+    ],
     "tickers": [
-      "NXST"
+      "TBPH"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1418459/000119312526273084/0001193125-26-273084-index.htm",
-    "published_iso": "2026-06-16T23:31:12+00:00",
-    "time_ago": "25m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1625377/000162537726000004/0001625377-26-000004-index.htm",
+    "published_iso": "2026-06-17T01:36:48+00:00",
+    "time_ago": "2h ago"
   },
   {
-    "id": "3e8d70c69acd",
+    "id": "0142eceb80cd",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -139,19 +145,21 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Khan Nick sold 500 shares of Tko Group Holdings, Inc. (TKO) \u00b7 $199.37/share \u00b7 $99,685 total \u00b7 Jun 16 ($1,990,266 across all blocks)",
-    "tags": [],
+    "content": "Pakianathan Deepika received 6,009 shares of Theravance Biopharma, Inc. (TBPH) \u00b7 Jun 16",
+    "tags": [
+      "Healthcare"
+    ],
     "tickers": [
-      "TKO"
+      "TBPH"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312526273081/0001193125-26-273081-index.htm",
-    "published_iso": "2026-06-16T23:30:04+00:00",
-    "time_ago": "26m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1583107/000127073426000004/0001270734-26-000004-index.htm",
+    "published_iso": "2026-06-17T01:35:54+00:00",
+    "time_ago": "2h ago"
   },
   {
-    "id": "ce89fb0bb2d3",
+    "id": "a149a8de0914",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -160,16 +168,37 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Knapp Lindsey exercised options for 375 shares of Nexstar Media Group, Inc. (NXST) \u00b7 Jun 16 ($15,885 across all blocks)",
+    "content": "Rabinowitz Matthew sold 2,536 shares of Natera, Inc. (NTRA) \u00b7 $209.50/share \u00b7 $531,280 total \u00b7 Jun 16 ($21,447,308 across all blocks)",
     "tags": [],
     "tickers": [
-      "NXST"
+      "NTRA"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2129484/000119312526273079/0001193125-26-273079-index.htm",
-    "published_iso": "2026-06-16T23:29:20+00:00",
-    "time_ago": "27m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1646382/000164638226000010/0001646382-26-000010-index.htm",
+    "published_iso": "2026-06-17T01:35:06+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "e1354bfc024d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Pentland Adele Louise exercised options for 7,800 shares of Adobe Inc. (ADBE) \u00b7 Jun 16 ($758,579 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "ADBE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1643724/000164372426000003/0001643724-26-000003-index.htm",
+    "published_iso": "2026-06-17T01:30:52+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "1896732b7b4d",
@@ -193,7 +222,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/YALiberty/status/2067014103441580134#m",
     "published_iso": "2026-06-16T22:39:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "bd1bd5a08216",
@@ -219,7 +248,26 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2067002789319106626#m",
     "published_iso": "2026-06-16T21:54:02+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "6h ago"
+  },
+  {
+    "id": "246eb2054308",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "Motion to Proceed on H.R. 6644: 21st Century ROAD to Housing Act. Vote: Motion to Proceed Agreed to 87/8",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s175?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-16T20:52:00+00:00",
+    "time_ago": "7h ago"
   },
   {
     "id": "37bfe4923312",
@@ -248,7 +296,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-leads-colleagues-in-urging-treasury-to-preserve-state-authority-under-genius-act/",
     "published_iso": "2026-06-16T19:13:07+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "10e8dc0be9dd",
@@ -267,7 +315,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s174?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-16T19:01:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "e570a70ceb43",
@@ -293,7 +341,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/GunnelsWarren/status/2066924723510845477#m",
     "published_iso": "2026-06-16T16:43:50+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "2374d9279528",
@@ -314,7 +362,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s173?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-16T15:44:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "ae62b108c3bc",
@@ -333,7 +381,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/16/2026-12131/pacific-halibut-fisheries-of-the-west-coast-annual-management-measures-for-the-2026-area-2a-pacific",
     "published_iso": "2026-06-16T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "c46d2e3978d7",
@@ -354,7 +402,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/16/2026-12108/fisheries-off-west-coast-states-extension-of-emergency-action-to-temporarily-increase-2026-harvest",
     "published_iso": "2026-06-16T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "c3c59ec26be4",
@@ -373,7 +421,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/16/2026-12077/endangered-and-threatened-wildlife-and-plants-two-species-not-warranted-for-listing-as-endangered-or",
     "published_iso": "2026-06-16T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "1073e7b2b6f4",
@@ -394,7 +442,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/16/2026-12071/international-mailing-services-price-changes",
     "published_iso": "2026-06-16T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "c7dcf8a72faa",
@@ -420,7 +468,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/16/2026-12069/medicare-program-strengthening-oversight-of-accrediting-organizations-aos-and-preventing-ao",
     "published_iso": "2026-06-16T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "384806d48361",
@@ -441,7 +489,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/16/2026-12067/fee-schedules-fee-recovery-for-fiscal-year-2026",
     "published_iso": "2026-06-16T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "ed97213ad69d",
@@ -464,7 +512,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/16/2026-12066/assistance-to-foreign-atomic-energy-activities",
     "published_iso": "2026-06-16T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "f6544d137655",
@@ -485,7 +533,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/16/2026-12058/records-preservation-program-and-appendices-record-retention-guidelines-catastrophic-act",
     "published_iso": "2026-06-16T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "e574ee4f8687",
@@ -674,25 +722,6 @@
     "url": "https://www.govtrack.us/congress/votes/119-2026/h221?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-11T14:34:00+00:00",
     "time_ago": "5d ago"
-  },
-  {
-    "id": "08ec32451dc7",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.R. 8464: Stopping Fraudulent Payments Act. Vote: Passed 218/200",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h220?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-10T20:32:00+00:00",
-    "time_ago": "6d ago"
   },
   {
     "id": "82c28da78cda",
