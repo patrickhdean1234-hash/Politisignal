@@ -1,5 +1,220 @@
 [
   {
+    "id": "9cfe2a94fb54",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Micallef Andrew sold 1,000 shares of Nxp Semiconductors N.V. (NXPI) \u00b7 $315.57/share \u00b7 $315,570 total \u00b7 Jun 17",
+    "tags": [
+      "Semiconductors"
+    ],
+    "tickers": [
+      "NXPI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1413447/000134176726000004/0001341767-26-000004-index.htm",
+    "published_iso": "2026-06-17T21:21:21+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "bb853e2657f5",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Boothe Timothy W exercised options for 97 shares of Western Alliance Bancorporation (WAL-PA) \u00b7 Jun 17 ($19,225 across all blocks)",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1364140/000162828026044008/0001628280-26-044008-index.htm",
+    "published_iso": "2026-06-17T21:19:05+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "225aced08188",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Gibbons Dale exercised options for 285 shares of Western Alliance Bancorporation (WAL-PA) \u00b7 Jun 17 ($59,394 across all blocks)",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1331626/000162828026044007/0001628280-26-044007-index.htm",
+    "published_iso": "2026-06-17T21:18:57+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "e45b338302f6",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Nachlas Emily exercised options for 72 shares of Western Alliance Bancorporation (WAL-PA) \u00b7 Jun 17 ($15,462 across all blocks)",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1946843/000162828026044006/0001628280-26-044006-index.htm",
+    "published_iso": "2026-06-17T21:18:49+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "ae6b28b2852a",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Jarvi Jessica H exercised options for 58 shares of Western Alliance Bancorporation (WAL-PA) \u00b7 Jun 17 ($13,744 across all blocks)",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1981756/000162828026044005/0001628280-26-044005-index.htm",
+    "published_iso": "2026-06-17T21:18:41+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "be69ec13b03d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Kennedy Barbara exercised options for 101 shares of Western Alliance Bancorporation (WAL-PA) \u00b7 Jun 17 ($21,025 across all blocks)",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1379831/000162828026044004/0001628280-26-044004-index.htm",
+    "published_iso": "2026-06-17T21:18:32+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "8640e5d76059",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "New chief Kevin Warsh says forward guidance dropped at Federal Reserve. New Federal Reserve Chair Kevin Warsh said Wednesday the central bank will move away from forecasting its future action under his leadership. In announcing its decision to hold interest rates steady, the Federal Open Market Committee (FOMC) opted n",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/5929155-warsh-ends-fed-forecasts/",
+    "published_iso": "2026-06-17T21:00:25+00:00",
+    "time_ago": "21m ago"
+  },
+  {
+    "id": "4c7dd920bba6",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Nvidia CEO: Society needs to change with advent of AI. Nvidia CEO Jensen Huang is emphasizing society must change with the development and increased use of artificial intelligence, urging all individuals to engage with the technology. \"We need to create new social norms,\" Huang told The Associated Press in an interview",
+    "tags": [],
+    "tickers": [
+      "NVDA"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/5928431-nvidia-jensen-huang-ai-society/",
+    "published_iso": "2026-06-17T20:32:50+00:00",
+    "time_ago": "49m ago"
+  },
+  {
+    "id": "9af969871d5e",
+    "politician": "Sen. Cynthia Lummis",
+    "initials": "CL",
+    "role": "Senate Banking Subcommittee (Crypto)",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#c4b5fd"
+    },
+    "severity": "critical",
+    "content": "CSBS appreciates the bipartisan support, led by Senate Banking Subcommittee on Digital Assets Chair  @SenLummis , for preserving a strong state role in the supervision of payment stablecoin issuers. \n \n csbs.org/newsroom/bipartisan\u2026",
+    "tags": [
+      "Crypto",
+      "Banking"
+    ],
+    "tickers": [
+      "BTC",
+      "ETH",
+      "COIN",
+      "XRP"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/CSBSNews/status/2067333210631983164#m",
+    "published_iso": "2026-06-17T19:47:01+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "3c132c6d6a39",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On the Nomination PN901-8: Michelle Steel, of California, to be Ambassador to the Republic of Korea. Vote: Nomination Confirmed 55/39",
+    "tags": [],
+    "tickers": [
+      "X",
+      "AA",
+      "NUE"
+    ],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s177?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-17T18:15:00+00:00",
+    "time_ago": "3h ago"
+  },
+  {
     "id": "dcd00aa841df",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -23,7 +238,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
     "published_iso": "2026-06-17T18:00:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "871ffab494b5",
@@ -49,7 +264,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
     "published_iso": "2026-06-17T18:00:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "2040a5918041",
@@ -76,33 +291,30 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2067305467509129414#m",
     "published_iso": "2026-06-17T17:56:46+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
-    "id": "04cf8f23d060",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
+    "id": "0e3f9e8093d7",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
     "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
     },
-    "severity": "critical",
-    "content": "Why not start with expanding Medicare to 60, then 55, then 50? This is what Johnson thought would happen and that Moynihan believed made the most sense in the 1990s healthcare hearings. \n \n \n Mark Cuban (@mcuban) \n \n 1. It\u2019s not about \u201cneeded care won\u2019t be denied \u201c. It\u2019s about implementing the MOST COMPLICATED OPERATIO",
-    "tags": [
-      "Healthcare",
-      "Regulation"
-    ],
+    "severity": "high",
+    "content": "Motion to Invoke Cloture: Michelle Steel to be Ambassador of the United States of America to the Republic of Korea: Michelle Steel, of California, to be Ambassador to the Republic of Korea. Vote: Cloture Motion Agreed to 54/41",
+    "tags": [],
     "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
+      "X",
+      "AA",
+      "NUE"
     ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/RoKhanna/status/2067261836748050719#m",
-    "published_iso": "2026-06-17T15:03:24+00:00",
-    "time_ago": "4h ago"
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s176?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-17T15:48:00+00:00",
+    "time_ago": "5h ago"
   },
   {
     "id": "ad41d4e0a4a7",
@@ -123,7 +335,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/06/what-they-are-saying-first-lady-melania-trump-launches-fostering-the-future-accounts/",
     "published_iso": "2026-06-17T13:23:49+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "80d46907e471",
@@ -142,7 +354,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/17/2026-12203/safety-zone-ohio-river-mile-marker-0-05-allegheny-river-mile-marker-0-05-monongahela-river-mile",
     "published_iso": "2026-06-17T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "798913bb05ba",
@@ -161,7 +373,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/17/2026-12190/priority-mail-express-and-priority-mail-open-and-distribute-parcel-mailings-discontinued",
     "published_iso": "2026-06-17T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "b3687764ec84",
@@ -182,7 +394,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/17/2026-12189/reducing-bureaucracy-and-burden-for-human-services-and-emergency-response-programs-repatriation",
     "published_iso": "2026-06-17T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "1c871b6620e9",
@@ -203,7 +415,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/17/2026-12183/2025-quarterly-listings-fourth-quarter-safety-zones-security-zones-and-special-local-regulations",
     "published_iso": "2026-06-17T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "8cc499b6b75f",
@@ -224,7 +436,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/17/2026-12182/2025-quarterly-listings-third-quarter-safety-zones-security-zones-and-special-local-regulations",
     "published_iso": "2026-06-17T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "4b7ffa9ccd75",
@@ -245,7 +457,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/17/2026-12175/reef-fish-fishery-of-the-gulf-of-america-shallow-water-grouper-management-measures",
     "published_iso": "2026-06-17T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "cb2a48a92b37",
@@ -264,7 +476,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/17/2026-12172/anchorage-grounds-columbia-river-longview-oregon-and-washington",
     "published_iso": "2026-06-17T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "070378d18d43",
@@ -285,7 +497,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/17/2026-12170/special-local-regulation-marine-events-within-the-captain-of-the-port-zone-columbia-river",
     "published_iso": "2026-06-17T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "246eb2054308",
@@ -304,7 +516,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s175?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-16T20:52:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "37bfe4923312",
@@ -333,7 +545,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-leads-colleagues-in-urging-treasury-to-preserve-state-authority-under-genius-act/",
     "published_iso": "2026-06-16T19:13:07+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "10e8dc0be9dd",
@@ -484,44 +696,6 @@
     "time_ago": "6d ago"
   },
   {
-    "id": "5eeaf0e00f1c",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.Res. 1335: Condemning actors seeking to defraud the United States Government, and expressing the sense of the House of Representatives that governmentwide fraud and improper payment prevention reforms will meaningfully improve the financial prosperity. Vote: Passed 235/177",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h222?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-11T14:44:00+00:00",
-    "time_ago": "6d ago"
-  },
-  {
-    "id": "e184daff96fd",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.R. 9238: To amend the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978, and for other purposes.. Vote: Failed 198/218",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h221?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-11T14:34:00+00:00",
-    "time_ago": "6d ago"
-  },
-  {
     "id": "82c28da78cda",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -545,7 +719,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm",
     "published_iso": "2026-06-09T20:00:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "7efa4c0a4cc7",
@@ -686,7 +860,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260522a.htm",
     "published_iso": "2026-05-22T20:15:00+00:00",
-    "time_ago": "25d ago"
+    "time_ago": "26d ago"
   },
   {
     "id": "072d30de1b17",
@@ -890,7 +1064,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-announces-2026-service-academy-nominations/",
     "published_iso": "2026-02-18T19:38:51+00:00",
-    "time_ago": "118d ago"
+    "time_ago": "119d ago"
   },
   {
     "id": "00f579ee8f55",
