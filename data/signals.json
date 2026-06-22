@@ -1,6 +1,6 @@
 [
   {
-    "id": "c2e580a57ac8",
+    "id": "b88799848a00",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,17 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Oboyle Kevin C received 13,698 shares of Carlsmed, Inc. (CARL) \u00b7 Jun 22",
+    "content": "Batista De Lima Filho Pedro sold 169,400 shares of Axia Energia S.A. (AXIA-P) \u00b7 $10.16/share \u00b7 $1,721,104 total \u00b7 Jun 22 ($4,673,600 across all blocks)",
     "tags": [],
-    "tickers": [
-      "CARL"
-    ],
+    "tickers": [],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1794546/000119312526276633/0001193125-26-276633-index.htm",
-    "published_iso": "2026-06-22T10:13:31+00:00",
-    "time_ago": "8m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2121444/000121390026070458/0001213900-26-070458-index.htm",
+    "published_iso": "2026-06-22T15:33:52+00:00",
+    "time_ago": "just now"
   },
   {
-    "id": "e02cf52d8e74",
+    "id": "85fb66e53ad6",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,121 +28,70 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Sidow Kevin received 13,698 shares of Carlsmed, Inc. (CARL) \u00b7 Jun 22",
-    "tags": [],
+    "content": "Schorn Patrick bought 1,200,000 shares of Borr Drilling Ltd (BORR) \u00b7 $1.66/share \u00b7 $1,992,000 total \u00b7 Jun 22",
+    "tags": [
+      "Energy"
+    ],
     "tickers": [
-      "CARL"
+      "BORR"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1794546/000119312526276628/0001193125-26-276628-index.htm",
-    "published_iso": "2026-06-22T10:11:27+00:00",
-    "time_ago": "10m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1715497/000162828026044543/0001628280-26-044543-index.htm",
+    "published_iso": "2026-06-22T15:27:23+00:00",
+    "time_ago": "7m ago"
   },
   {
-    "id": "c0450bfc9e48",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "0a108dd0f7c1",
+    "politician": "Rep. Patrick McHenry",
+    "initials": "PM",
+    "role": "House Financial Services Committee",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#2d1e5f",
+      "fg": "#c084fc"
     },
     "severity": "medium",
-    "content": "Chen Xiangdong bought 167,051 shares of Gaotu Techedu Inc. (GOTU) \u00b7 $2.50/share \u00b7 $418,045 total \u00b7 Jun 22",
-    "tags": [],
-    "tickers": [
-      "GOTU"
+    "content": "cnbc.com/2026/06/22/alan-gre\u2026  \n \n Link  \n \n \n \n Alan Greenspan, former chairman of the Fed, dies at age 100 \n \n Alan Greenspan presided over the Federal Reserve for 19 years under four presidents and mastered the art of obfuscation known as Fedspeak. \n  cnbc.com",
+    "tags": [
+      "Banking"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1798421/000119312526276626/0001193125-26-276626-index.htm",
-    "published_iso": "2026-06-22T10:09:52+00:00",
-    "time_ago": "11m ago"
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/PatrickMcHenry/status/2069055774643409185#m",
+    "published_iso": "2026-06-22T13:51:52+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "8b72ab23862b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "b944112ab796",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
     },
-    "severity": "medium",
-    "content": "Budig Renee Varni received 119,784 shares of Chegg, Inc (CHGG) \u00b7 Jun 22",
-    "tags": [],
-    "tickers": [
-      "CHGG"
+    "severity": "high",
+    "content": "Federal Reserve notes with deep sadness the passing of Alan Greenspan. Federal Reserve notes with deep sadness the passing of Alan Greenspan",
+    "tags": [
+      "Banking"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1658725/000136495426000077/0001364954-26-000077-index.htm",
-    "published_iso": "2026-06-22T10:07:48+00:00",
-    "time_ago": "13m ago"
-  },
-  {
-    "id": "10c8e8d4f421",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Martin Marcela received 119,784 shares of Chegg, Inc (CHGG) \u00b7 Jun 22",
-    "tags": [],
     "tickers": [
-      "CHGG"
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1856602/000136495426000075/0001364954-26-000075-index.htm",
-    "published_iso": "2026-06-22T10:07:11+00:00",
-    "time_ago": "14m ago"
-  },
-  {
-    "id": "09521c60bfcc",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Levine Marne L. received 119,784 shares of Chegg, Inc (CHGG) \u00b7 Jun 22",
-    "tags": [],
-    "tickers": [
-      "CHGG"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1586643/000136495426000073/0001364954-26-000073-index.htm",
-    "published_iso": "2026-06-22T10:06:41+00:00",
-    "time_ago": "14m ago"
-  },
-  {
-    "id": "b42cb4c9bf95",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Schlein Ted received 119,784 shares of Chegg, Inc (CHGG) \u00b7 Jun 22",
-    "tags": [],
-    "tickers": [
-      "CHGG"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1364954/000136495426000071/0001364954-26-000071-index.htm",
-    "published_iso": "2026-06-22T10:06:04+00:00",
-    "time_ago": "15m ago"
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm",
+    "published_iso": "2026-06-22T12:45:00+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "27d67d80da47",
@@ -156,7 +103,7 @@
       "fg": "#fca5a5"
     },
     "severity": "medium",
-    "content": "Poll: Americans draw a new line in the betting bonanza sweeping over Wall Street \u2014 politics.. A plurality of Americans believe betting on election outcomes should be illegal, The POLITICO Poll finds",
+    "content": "Poll: Americans draw a new line in the betting bonanza sweeping over Wall Street \u2014 politics. A plurality of Americans believe betting on election outcomes should be illegal, The POLITICO Poll finds",
     "tags": [
       "Banking"
     ],
@@ -170,7 +117,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/06/22/poll-betting-markets-politics-00967298",
     "published_iso": "2026-06-22T09:00:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "ff6a57a1c882",
@@ -191,7 +138,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12510/deletion-of-obsolete-regulations",
     "published_iso": "2026-06-22T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "5bc111a1b53a",
@@ -213,7 +160,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12496/establishment-of-class-e-airspace-rosenberg-tx",
     "published_iso": "2026-06-22T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "54464a6a20c8",
@@ -234,7 +181,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12490/safety-zone-delaware-river-philadelphia-pa",
     "published_iso": "2026-06-22T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "3e88e8278a44",
@@ -255,7 +202,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12488/safety-zone-toms-river-beachwood-nj",
     "published_iso": "2026-06-22T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "a08a6fbf3a1a",
@@ -276,7 +223,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12482/west-virginia-regulatory-program",
     "published_iso": "2026-06-22T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "d3aeb53b8c60",
@@ -298,7 +245,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12475/application-for-authorization-to-transmit-electric-energy-to-a-foreign-country",
     "published_iso": "2026-06-22T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "91879af080c4",
@@ -319,7 +266,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12450/completed-inspection-report-disposition",
     "published_iso": "2026-06-22T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "21e68f63198f",
@@ -340,35 +287,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12449/removal-of-self-reporting-requirement",
     "published_iso": "2026-06-22T04:00:00+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "8c2fd4e6b322",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Pence rips Trump\u2019s Iran deal: \u2018A plan to make a plan\u2019. Former Vice President Mike Pence on Sunday tore into President Trump's tentative deal between the U.S. and Iran as he deemed the agreement to be a \"plan to make a plan.\" Pence started an op-ed published in The Wall Street Journal by commending Trump for \"acting dec",
-    "tags": [
-      "Banking",
-      "Defense",
-      "Sanctions"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5933451-pence-criticizes-trump-iran-deal/",
-    "published_iso": "2026-06-21T22:11:56+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "b0db3b24c836",
@@ -389,28 +308,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/jordan-first-world-cup-ambassador-dina-kawar-00969399",
     "published_iso": "2026-06-21T21:31:00+00:00",
-    "time_ago": "12h ago"
-  },
-  {
-    "id": "29a755dbcc37",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "low",
-    "content": "Trump touts \u2018BEST ECONOMY EVER\u2019 in Father\u2019s Day message. President Trump on Sunday celebrated Father's Day with a social media post touting that the U.S. has the \"BEST ECONOMY EVER.\" \"Happy Father\u2019s Day!\" the president wrote on Truth Social. \"Our Country is doing GREAT. Record Jobs Numbers and Stock Market, BEST ECONOM",
-    "tags": [
-      "Defense"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5933394-trump-economy-fathers-day/",
-    "published_iso": "2026-06-21T21:19:43+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "892f9deb4f1f",
@@ -435,7 +333,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/ever-wonder-how-private-equity-takes-over-your-local-restaurant-stores-or-even-your-hospital",
     "published_iso": "2026-06-20T14:50:02+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "e69649ae9e9d",
@@ -560,7 +458,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/Jim_Jordan/status/2067624707914924329#m",
     "published_iso": "2026-06-18T15:05:19+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "d47797b2aba4",
@@ -579,7 +477,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s180?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-18T15:01:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "831ce6b4e6ca",
@@ -606,7 +504,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618a.htm",
     "published_iso": "2026-06-18T15:00:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "28cdca2c6be8",
@@ -633,7 +531,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm",
     "published_iso": "2026-06-18T13:00:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "f90f1cb34f15",
@@ -792,7 +690,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/06/what-they-are-saying-first-lady-melania-trump-launches-fostering-the-future-accounts/",
     "published_iso": "2026-06-17T13:23:49+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "246eb2054308",
@@ -910,7 +808,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
     "published_iso": "2026-06-11T15:00:00+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "82c28da78cda",
@@ -965,7 +863,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-sullivan-lead-colleagues-in-urging-bank-regulators-to-establish-fair-capital-standards-for-digital-assets/",
     "published_iso": "2026-06-04T14:07:24+00:00",
-    "time_ago": "17d ago"
+    "time_ago": "18d ago"
   },
   {
     "id": "ddb58e0107d1",
@@ -988,25 +886,6 @@
     "url": "https://www.paul.senate.gov/the-senate-page-program/",
     "published_iso": "2026-06-03T21:41:29+00:00",
     "time_ago": "18d ago"
-  },
-  {
-    "id": "5975851e8422",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "Agencies remove additional references to reputation risk. Agencies remove additional references to reputation risk",
-    "tags": [],
-    "tickers": [],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm",
-    "published_iso": "2026-06-02T15:00:00+00:00",
-    "time_ago": "19d ago"
   },
   {
     "id": "072d30de1b17",
@@ -1032,7 +911,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-legalizing-premium-health-care-act/",
     "published_iso": "2026-05-20T15:26:37+00:00",
-    "time_ago": "32d ago"
+    "time_ago": "33d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -1079,7 +958,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "47d ago"
+    "time_ago": "48d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1101,7 +980,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "55d ago"
+    "time_ago": "56d ago"
   },
   {
     "id": "0047e3ab5b67",
@@ -1147,7 +1026,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "83d ago"
+    "time_ago": "84d ago"
   },
   {
     "id": "d52e199aa058",
@@ -1231,7 +1110,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "128d ago"
+    "time_ago": "129d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1250,7 +1129,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "128d ago"
+    "time_ago": "129d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1295,7 +1174,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "187d ago"
+    "time_ago": "188d ago"
   },
   {
     "id": "e88c3c11d67a",
