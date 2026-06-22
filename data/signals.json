@@ -1,45 +1,72 @@
 [
   {
-    "id": "b88799848a00",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "46ee0f751ab0",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
     },
-    "severity": "medium",
-    "content": "Batista De Lima Filho Pedro sold 169,400 shares of Axia Energia S.A. (AXIA-P) \u00b7 $10.16/share \u00b7 $1,721,104 total \u00b7 Jun 22 ($4,673,600 across all blocks)",
-    "tags": [],
+    "severity": "critical",
+    "content": "President Trump Drives Down Rents by Ending Open Borders Disaster. President Donald J. Trump\u2019s decisive enforcement of America\u2019s immigration laws is producing real results for hardworking families \u2014 including the nation\u2019s 46 million renters. Rents are falling sharply across the country for the first time in years as th",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
     "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2121444/000121390026070458/0001213900-26-070458-index.htm",
-    "published_iso": "2026-06-22T15:33:52+00:00",
-    "time_ago": "just now"
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/06/president-trump-drives-down-rents-by-ending-open-borders-disaster/",
+    "published_iso": "2026-06-22T18:47:12+00:00",
+    "time_ago": "10m ago"
   },
   {
-    "id": "85fb66e53ad6",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "a2296366a8a1",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Schorn Patrick bought 1,200,000 shares of Borr Drilling Ltd (BORR) \u00b7 $1.66/share \u00b7 $1,992,000 total \u00b7 Jun 22",
+    "content": "Dead duckling found in Reflecting Pool. Onlookers found a dead duckling in the Lincoln Memorial Reflecting Pool on Sunday, sparking concerns about the water conditions inside the newly renovated landmark.  Photos of the dead duckling floating in the pool next to green algae surfaced online days after the Trump administ",
     "tags": [
-      "Energy"
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5934462-dead-duckling-reflecting-pool/",
+    "published_iso": "2026-06-22T17:19:40+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "bf6f34b864f2",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Hassett: Warsh 'not asking the White House for advice' on interest rates. National Economic Council (NEC) Director Kevin Hassett said Monday that Federal Reserve Chair Kevin Warsh is not soliciting advice from the White House on monetary policy.  \u201cWe\u2019re very close friends,\u201d Hassett said on CNBC\u2019s \u201cSquawk Box,\u201d referrin",
+    "tags": [
+      "Banking"
     ],
     "tickers": [
-      "BORR"
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1715497/000162828026044543/0001628280-26-044543-index.htm",
-    "published_iso": "2026-06-22T15:27:23+00:00",
-    "time_ago": "7m ago"
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/5934465-nec-hasset-warsh-fed/",
+    "published_iso": "2026-06-22T17:03:13+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "0a108dd0f7c1",
@@ -65,7 +92,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/PatrickMcHenry/status/2069055774643409185#m",
     "published_iso": "2026-06-22T13:51:52+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "b944112ab796",
@@ -91,7 +118,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm",
     "published_iso": "2026-06-22T12:45:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "27d67d80da47",
@@ -117,7 +144,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/06/22/poll-betting-markets-politics-00967298",
     "published_iso": "2026-06-22T09:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "ff6a57a1c882",
@@ -138,7 +165,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12510/deletion-of-obsolete-regulations",
     "published_iso": "2026-06-22T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "5bc111a1b53a",
@@ -160,7 +187,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12496/establishment-of-class-e-airspace-rosenberg-tx",
     "published_iso": "2026-06-22T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "54464a6a20c8",
@@ -181,7 +208,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12490/safety-zone-delaware-river-philadelphia-pa",
     "published_iso": "2026-06-22T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "3e88e8278a44",
@@ -202,7 +229,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12488/safety-zone-toms-river-beachwood-nj",
     "published_iso": "2026-06-22T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "a08a6fbf3a1a",
@@ -223,7 +250,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12482/west-virginia-regulatory-program",
     "published_iso": "2026-06-22T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "d3aeb53b8c60",
@@ -245,7 +272,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12475/application-for-authorization-to-transmit-electric-energy-to-a-foreign-country",
     "published_iso": "2026-06-22T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "91879af080c4",
@@ -266,7 +293,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12450/completed-inspection-report-disposition",
     "published_iso": "2026-06-22T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "21e68f63198f",
@@ -287,7 +314,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12449/removal-of-self-reporting-requirement",
     "published_iso": "2026-06-22T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "b0db3b24c836",
@@ -308,7 +335,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/live-updates/2026/06/21/world-cup-2026/jordan-first-world-cup-ambassador-dina-kawar-00969399",
     "published_iso": "2026-06-21T21:31:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "892f9deb4f1f",
@@ -361,7 +388,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/06/president-trumps-iran-agreement-is-america-first-in-action/",
     "published_iso": "2026-06-19T17:37:43+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "67b7239dfcea",
@@ -437,7 +464,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s181?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-18T17:40:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "4c4e7fc285e9",
@@ -594,7 +621,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s177?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-17T18:15:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "dcd00aa841df",
@@ -620,7 +647,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
     "published_iso": "2026-06-17T18:00:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "871ffab494b5",
@@ -646,7 +673,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
     "published_iso": "2026-06-17T18:00:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "0e3f9e8093d7",
@@ -669,7 +696,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s176?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-17T15:48:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "ad41d4e0a4a7",
@@ -758,30 +785,6 @@
     "url": "https://www.govtrack.us/congress/votes/119-2026/s174?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-16T19:01:00+00:00",
     "time_ago": "5d ago"
-  },
-  {
-    "id": "3ce5eff683f8",
-    "politician": "Rep. Alexandria Ocasio-Cortez",
-    "initials": "AOC",
-    "role": "House Financial Services Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#93c5fd"
-    },
-    "severity": "critical",
-    "content": "But taxing wealth so normal people can afford to see a doctor and not go bankrupt over inhalers is radical left.  OK \n \n \n Financial Times (@FT) \n \n SpaceX's 11% share price boost has made Elon Musk the world's first trillionaire, controlling two of the world's largest companies.  ft.trib.al/wHPQ9gw  \n \n\n\n \n \n\u2014   https",
-    "tags": [
-      "Banking",
-      "Taxes"
-    ],
-    "tickers": [
-      "TSLA"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/AOC/status/2065552802756145382#m",
-    "published_iso": "2026-06-12T21:52:18+00:00",
-    "time_ago": "9d ago"
   },
   {
     "id": "2f1208e0d945",
@@ -932,7 +935,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "41d ago"
+    "time_ago": "42d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1002,7 +1005,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "62d ago"
+    "time_ago": "63d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1067,7 +1070,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "117d ago"
+    "time_ago": "118d ago"
   },
   {
     "id": "602146d3f751",
@@ -1155,7 +1158,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "150d ago"
+    "time_ago": "151d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1196,6 +1199,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/983956",
     "published_iso": "2025-10-30T16:06:54+00:00",
-    "time_ago": "234d ago"
+    "time_ago": "235d ago"
   }
 ]
