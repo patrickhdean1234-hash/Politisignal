@@ -1,5 +1,118 @@
 [
   {
+    "id": "aca3790e2aa8",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Yuan Lipen bought 1,000 shares of Taiwan Semiconductor Manufacturing Co Ltd (TSMWF) \u00b7 $79.19/share \u00b7 $79,190 total \u00b7 Jun 23",
+    "tags": [
+      "Semiconductors"
+    ],
+    "tickers": [
+      "TSMWF",
+      "TSM"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2114024/000104617926000371/0001046179-26-000371-index.htm",
+    "published_iso": "2026-06-23T10:51:16+00:00",
+    "time_ago": "37m ago"
+  },
+  {
+    "id": "f188a5a65eb3",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Markley John D. Jr. sold 400 shares of Interdigital, Inc. (IDCC) \u00b7 $300.00/share \u00b7 $120,000 total \u00b7 Jun 23",
+    "tags": [],
+    "tickers": [
+      "IDCC"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1491492/000162828026044794/0001628280-26-044794-index.htm",
+    "published_iso": "2026-06-23T10:31:47+00:00",
+    "time_ago": "56m ago"
+  },
+  {
+    "id": "6b120903abd5",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Wang Barney Tianhao exercised options for 2,085 shares of Sharkninja, Inc. (SN) \u00b7 Jun 23",
+    "tags": [],
+    "tickers": [
+      "SN"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2098635/000110465926076613/0001104659-26-076613-index.htm",
+    "published_iso": "2026-06-23T10:30:47+00:00",
+    "time_ago": "57m ago"
+  },
+  {
+    "id": "ecd99be72d7c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Wang Jingbo exercised options for 15,000 shares of Atrenew Inc. (RERE) \u00b7 Jun 23",
+    "tags": [],
+    "tickers": [
+      "RERE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2035043/000119312526278453/0001193125-26-278453-index.htm",
+    "published_iso": "2026-06-23T10:21:12+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "0d1566697724",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Iran-US peace deal faces various threats, from Lebanon, Israel and Trump. President Trump and Vice President Vance are staring down a number of major challenges in the U.S.-Iran negotiations, despite signs of progress being reported from the first round of talks on Sunday.\u00a0 Vance said Monday that \u201ca very good foundatio",
+    "tags": [
+      "Taxes",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5935018-strait-hormuz-oil-prices-iran/",
+    "published_iso": "2026-06-23T10:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "bff28d8481e5",
     "politician": "Federal Register",
     "initials": "FR",
@@ -16,7 +129,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12645/rescission-of-affirmative-outreach-requirements-for-recipients-of-wioa-title-i-financial-assistance",
     "published_iso": "2026-06-23T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "75032aaa41c6",
@@ -35,7 +148,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12592/operating-limitations-at-new-york-laguardia-airport",
     "published_iso": "2026-06-23T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "e85af8df946c",
@@ -54,7 +167,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12591/operating-limitations-at-john-f-kennedy-international-airport",
     "published_iso": "2026-06-23T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "e66adefa7fc4",
@@ -73,7 +186,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12581/federal-employees-retirement-system-present-value-conversion-factors-for-spouses-of-deceased",
     "published_iso": "2026-06-23T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "6fdcb885f13e",
@@ -95,7 +208,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12578/definition-of-shellfish-inclusion-of-cephalopods",
     "published_iso": "2026-06-23T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "5e0aaae9ce4f",
@@ -116,7 +229,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12576/migratory-bird-subsistence-harvest-in-alaska",
     "published_iso": "2026-06-23T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "da11fdbfb9b6",
@@ -138,7 +251,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12566/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery",
     "published_iso": "2026-06-23T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "536c5f1d847e",
@@ -157,107 +270,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12558/safety-zone-detroit-river-trenton-mi",
     "published_iso": "2026-06-23T04:00:00+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "f2a051ddb85b",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "low",
-    "content": "Trump endorses James in Michigan governor's race. President Trump has backed Rep. John James (R-Mich.) in Michigan\u2019s gubernatorial race. \u201cIt is my Great Honor to endorse America First Congressman, John James, who is running to become the next Governor of the Beautiful State of Michigan!\u201d Trump said in a Monday post on ",
-    "tags": [
-      "Defense",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/5935338-trump-endorses-john-james-michigan/",
-    "published_iso": "2026-06-23T03:06:43+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "8b2eb550dce6",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hrtg Gpe, Llc converted 2,050,166 shares of Kardigan, Inc. (KARD) \u00b7 Jun 22 ($0 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "KARD"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2139540/000119312526278251/0001193125-26-278251-index.htm",
-    "published_iso": "2026-06-23T01:57:14+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "40c778321300",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Toledano Gabrielle B received 4,526 shares of Ionq, Inc. (IONQ-WT) \u00b7 Jun 22 ($151,663 across all blocks)",
-    "tags": [],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1824920/000119312526278249/0001193125-26-278249-index.htm",
-    "published_iso": "2026-06-23T01:55:06+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "e3d166829212",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Chou Kathryn K. received 4,526 shares of Ionq, Inc. (IONQ-WT) \u00b7 Jun 22 ($151,690 across all blocks)",
-    "tags": [],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1935209/000119312526278247/0001193125-26-278247-index.htm",
-    "published_iso": "2026-06-23T01:55:04+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "2b5cb1149b6b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Raymond John W sold 3,815 shares of Ionq, Inc. (IONQ-WT) \u00b7 $55.01/share \u00b7 $209,863 total \u00b7 Jun 22",
-    "tags": [],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2058452/000119312526278246/0001193125-26-278246-index.htm",
-    "published_iso": "2026-06-23T01:55:03+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "6800b86028cf",
@@ -276,7 +289,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s182?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-22T21:40:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "89976e961a61",
@@ -299,7 +312,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-secures-the-nation-against-advanced-cryptographic-attacks/",
     "published_iso": "2026-06-22T20:39:42+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "eedcdf7dd4f1",
@@ -320,7 +333,33 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-ushers-in-the-next-frontier-of-quantum-innovation/",
     "published_iso": "2026-06-22T20:39:32+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
+  },
+  {
+    "id": "4c2cdac3c6cd",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Why'd the Pentagon Pay $4,361 for a $46 Pin? Private Equity.. Why'd the Pentagon Pay $4,361 for a $46 Pin? Private Equity",
+    "tags": [
+      "Defense"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "http://www.warren.senate.gov/newsroom/videos/watch/whyd-the-pentagon-pay-4361-for-a-46-pin-private-equity",
+    "published_iso": "2026-06-22T19:13:46+00:00",
+    "time_ago": "16h ago"
   },
   {
     "id": "46ee0f751ab0",
@@ -342,7 +381,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/06/president-trump-drives-down-rents-by-ending-open-borders-disaster/",
     "published_iso": "2026-06-22T18:47:12+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "0a108dd0f7c1",
@@ -368,7 +407,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/PatrickMcHenry/status/2069055774643409185#m",
     "published_iso": "2026-06-22T13:51:52+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "b944112ab796",
@@ -394,7 +433,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm",
     "published_iso": "2026-06-22T12:45:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "27d67d80da47",
@@ -420,7 +459,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/06/22/poll-betting-markets-politics-00967298",
     "published_iso": "2026-06-22T09:00:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "b0db3b24c836",
