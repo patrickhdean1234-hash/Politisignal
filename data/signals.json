@@ -1,6 +1,6 @@
 [
   {
-    "id": "aca3790e2aa8",
+    "id": "5326adddc24b",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -8,86 +8,20 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "medium",
-    "content": "Yuan Lipen bought 1,000 shares of Taiwan Semiconductor Manufacturing Co Ltd (TSMWF) \u00b7 $79.19/share \u00b7 $79,190 total \u00b7 Jun 23",
-    "tags": [
-      "Semiconductors"
-    ],
-    "tickers": [
-      "TSMWF",
-      "TSM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2114024/000104617926000371/0001046179-26-000371-index.htm",
-    "published_iso": "2026-06-23T10:51:16+00:00",
-    "time_ago": "37m ago"
-  },
-  {
-    "id": "f188a5a65eb3",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Markley John D. Jr. sold 400 shares of Interdigital, Inc. (IDCC) \u00b7 $300.00/share \u00b7 $120,000 total \u00b7 Jun 23",
+    "severity": "low",
+    "content": "Japan Post Holdings Co., Ltd. sold 600 shares of Aflac Inc (AFL) \u00b7 $116.06/share \u00b7 $69,636 total \u00b7 Jun 23 ($385,833 across all blocks)",
     "tags": [],
     "tickers": [
-      "IDCC"
+      "AFL"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1491492/000162828026044794/0001628280-26-044794-index.htm",
-    "published_iso": "2026-06-23T10:31:47+00:00",
-    "time_ago": "56m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1783464/000110465926076676/0001104659-26-076676-index.htm",
+    "published_iso": "2026-06-23T13:58:29+00:00",
+    "time_ago": "1m ago"
   },
   {
-    "id": "6b120903abd5",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Wang Barney Tianhao exercised options for 2,085 shares of Sharkninja, Inc. (SN) \u00b7 Jun 23",
-    "tags": [],
-    "tickers": [
-      "SN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2098635/000110465926076613/0001104659-26-076613-index.htm",
-    "published_iso": "2026-06-23T10:30:47+00:00",
-    "time_ago": "57m ago"
-  },
-  {
-    "id": "ecd99be72d7c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Wang Jingbo exercised options for 15,000 shares of Atrenew Inc. (RERE) \u00b7 Jun 23",
-    "tags": [],
-    "tickers": [
-      "RERE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2035043/000119312526278453/0001193125-26-278453-index.htm",
-    "published_iso": "2026-06-23T10:21:12+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "0d1566697724",
+    "id": "e23ca8e72280",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -96,10 +30,10 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Iran-US peace deal faces various threats, from Lebanon, Israel and Trump. President Trump and Vice President Vance are staring down a number of major challenges in the U.S.-Iran negotiations, despite signs of progress being reported from the first round of talks on Sunday.\u00a0 Vance said Monday that \u201ca very good foundatio",
+    "content": "Trump defends sanctions relief, saying Iran will buy US food, medical supplies. President Trump on Tuesday defended the U.S.\u2019s new agreement with Iran, which opens the door to lifting sanctions on the country and reopening the Strait of Hormuz.\u00a0 \u201cThe Money and/or Sanctions that the U.S. Treasury is releasing goes into ",
     "tags": [
-      "Taxes",
-      "Sanctions"
+      "Sanctions",
+      "Insider Trade"
     ],
     "tickers": [
       "LMT",
@@ -108,8 +42,35 @@
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5935018-strait-hormuz-oil-prices-iran/",
-    "published_iso": "2026-06-23T10:00:00+00:00",
+    "url": "https://thehill.com/homenews/administration/5935586-donald-trump-iran-sanctions-relief-defense/",
+    "published_iso": "2026-06-23T12:59:41+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "1a007f5080e1",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Watch live: Senate convenes hearing on affordability ahead of midterms. The Senate Banking Committee will hear testimony from experts on affordability Tuesday morning as cost-of-living concerns in the U.S. grow ahead of the midterm elections. Rising costs \u2014 including gas price spikes amid the war in Iran \u2014 and inflatio",
+    "tags": [
+      "Banking",
+      "Sanctions"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/video-clips/5935520-watch-live-senate-banking-committee-affordability-crisis/",
+    "published_iso": "2026-06-23T12:57:37+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -129,7 +90,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12645/rescission-of-affirmative-outreach-requirements-for-recipients-of-wioa-title-i-financial-assistance",
     "published_iso": "2026-06-23T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "75032aaa41c6",
@@ -148,7 +109,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12592/operating-limitations-at-new-york-laguardia-airport",
     "published_iso": "2026-06-23T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "e85af8df946c",
@@ -167,7 +128,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12591/operating-limitations-at-john-f-kennedy-international-airport",
     "published_iso": "2026-06-23T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "e66adefa7fc4",
@@ -186,7 +147,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12581/federal-employees-retirement-system-present-value-conversion-factors-for-spouses-of-deceased",
     "published_iso": "2026-06-23T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "6fdcb885f13e",
@@ -208,7 +169,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12578/definition-of-shellfish-inclusion-of-cephalopods",
     "published_iso": "2026-06-23T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "5e0aaae9ce4f",
@@ -229,7 +190,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12576/migratory-bird-subsistence-harvest-in-alaska",
     "published_iso": "2026-06-23T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "da11fdbfb9b6",
@@ -251,7 +212,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12566/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery",
     "published_iso": "2026-06-23T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "536c5f1d847e",
@@ -270,7 +231,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12558/safety-zone-detroit-river-trenton-mi",
     "published_iso": "2026-06-23T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "6800b86028cf",
@@ -289,7 +250,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s182?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-22T21:40:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "89976e961a61",
@@ -312,7 +273,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-secures-the-nation-against-advanced-cryptographic-attacks/",
     "published_iso": "2026-06-22T20:39:42+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "eedcdf7dd4f1",
@@ -333,7 +294,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-ushers-in-the-next-frontier-of-quantum-innovation/",
     "published_iso": "2026-06-22T20:39:32+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "4c2cdac3c6cd",
@@ -359,7 +320,7 @@
     "platform": ".gov",
     "url": "http://www.warren.senate.gov/newsroom/videos/watch/whyd-the-pentagon-pay-4361-for-a-46-pin-private-equity",
     "published_iso": "2026-06-22T19:13:46+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "46ee0f751ab0",
@@ -381,7 +342,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/06/president-trump-drives-down-rents-by-ending-open-borders-disaster/",
     "published_iso": "2026-06-22T18:47:12+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "0a108dd0f7c1",
@@ -407,7 +368,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/PatrickMcHenry/status/2069055774643409185#m",
     "published_iso": "2026-06-22T13:51:52+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "b944112ab796",
@@ -433,7 +394,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm",
     "published_iso": "2026-06-22T12:45:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "27d67d80da47",
@@ -682,7 +643,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm",
     "published_iso": "2026-06-18T13:00:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "f90f1cb34f15",
@@ -1113,7 +1074,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "84d ago"
+    "time_ago": "85d ago"
   },
   {
     "id": "d52e199aa058",
