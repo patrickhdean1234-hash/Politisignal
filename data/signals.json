@@ -1,6 +1,6 @@
 [
   {
-    "id": "ded88ad875cc",
+    "id": "bb76f783a9c1",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,21 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Dumais Michael R received 1,214 shares of Commercial Metals Co (CMC) \u00b7 $71.14/share \u00b7 $86,364 total \u00b7 Jun 24",
-    "tags": [
-      "Big Tech"
-    ],
+    "content": "D'Amico Andrew exercised options for 754 shares of Vicor Corp (VICR) \u00b7 $53.07/share \u00b7 $40,015 total \u00b7 Jun 24 ($288,835 across all blocks)",
+    "tags": [],
     "tickers": [
-      "CMC"
+      "VICR"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1531769/000153176926000008/0001531769-26-000008-index.htm",
-    "published_iso": "2026-06-24T15:33:14+00:00",
-    "time_ago": "18m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1830195/000183019526000014/0001830195-26-000014-index.htm",
+    "published_iso": "2026-06-24T17:41:24+00:00",
+    "time_ago": "3m ago"
   },
   {
-    "id": "369d4c6ee8d9",
+    "id": "39001a5a85a1",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -31,88 +29,23 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Affordability, not fraud, is why fewer Americans have health insurance. The \u201cfraud, waste, and abuse\u201d narrative has been seriously overworked, and does not fit the facts",
-    "tags": [],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/healthcare/5936487-rising-premiums-aca-decline/",
-    "published_iso": "2026-06-24T15:30:00+00:00",
-    "time_ago": "22m ago"
-  },
-  {
-    "id": "fcd7627bbb99",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Trump set to return to Washington Hilton for first time since correspondents dinner shooting. President Trump will return to the Washington Hilton on Friday for the first time since the White House Correspondents' Association dinner shooting earlier this year.  Trump will address the Faith and Freedom Coalition\u2019s annua",
+    "severity": "critical",
+    "content": "US forces kill senior ISIS leader in Syria: Centcom. U.S. Central Command (Centcom), the military arm that oversees American forces in the Middle East, last week killed a senior Islamic State leader in an airstrike in northwest Syria, according to a Wednesday announcement. The June 19 strike killed Ali Husayn al-\u2018Ulayw",
     "tags": [
+      "Defense",
       "Taxes"
     ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5938342-trump-washington-hilton-faith-and-freedom/",
-    "published_iso": "2026-06-24T15:25:22+00:00",
-    "time_ago": "26m ago"
-  },
-  {
-    "id": "ec93d088b86c",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Why drawing down the Strategic Petroleum Reserve is a smart business decision. The world has changed since the 1973-1974 oil embargo",
-    "tags": [
-      "Energy",
-      "Sanctions"
-    ],
     "tickers": [
-      "XOM",
-      "CVX",
-      "COP",
-      "OXY"
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/energy-environment/5936835-strategic-petroleum-reserve-release/",
-    "published_iso": "2026-06-24T15:00:00+00:00",
-    "time_ago": "52m ago"
-  },
-  {
-    "id": "b40b23f98449",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Musk on fatal Tesla crash in Texas: 'This makes no sense'. Tesla CEO Elon Musk is pushing back on allegations the company\u2019s full self-driving software was involved in a recent crash that killed a Texas woman. Martha Avila, 76, died after a Tesla drove through the front of her home in Katy, Texas, last Friday. Both poli",
-    "tags": [],
-    "tickers": [
-      "TSLA"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/5938198-musk-on-fatal-tesla-crash-in-texas-this-makes-no-sense/",
-    "published_iso": "2026-06-24T14:57:12+00:00",
-    "time_ago": "55m ago"
+    "url": "https://thehill.com/policy/defense/5938628-airstrike-kills-senior-isis-leader/",
+    "published_iso": "2026-06-24T17:00:12+00:00",
+    "time_ago": "45m ago"
   },
   {
     "id": "1be9546e4305",
@@ -133,7 +66,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-648d/",
     "published_iso": "2026-06-24T14:08:26+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "30b75d6744d5",
@@ -154,7 +87,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/06/24/democratic-socialists-new-york-2028-presidential-00973341",
     "published_iso": "2026-06-24T08:45:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "c1fe9635e6e4",
@@ -173,7 +106,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12766/establishing-the-digital-opportunity-data-collection-modernizing-the-fcc-form-477-data-program",
     "published_iso": "2026-06-24T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "198532700e79",
@@ -194,7 +127,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12717/conditions-for-additional-information-and-fee-in-petitions-filed-in-patent-applications-and-patents",
     "published_iso": "2026-06-24T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "b61ddec0cc71",
@@ -216,7 +149,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12701/establishment-of-class-e-airspace-glen-rose-tx",
     "published_iso": "2026-06-24T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "3c7cb1d68ed1",
@@ -237,7 +170,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12700/special-supplemental-nutrition-program-for-women-infants-and-children-wic-revisions-in-the-wic-food",
     "published_iso": "2026-06-24T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "22e2c400f1bf",
@@ -259,7 +192,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12698/establishment-of-class-e-airspace-barksdale-tx",
     "published_iso": "2026-06-24T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "2398dad574b4",
@@ -281,7 +214,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12674/modification-of-class-e-airspace-ralph-wien-memorial-airport-kotzebue-ak",
     "published_iso": "2026-06-24T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "6ef8478389cd",
@@ -303,7 +236,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12673/modification-of-class-e-airspace-omak-airport-omak-wa",
     "published_iso": "2026-06-24T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "19be8ba94976",
@@ -325,7 +258,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12670/indefinite-suspension-of-the-de-minimis-exemption-for-merchandise-arriving-through-all-modes-other",
     "published_iso": "2026-06-24T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "9a6e6495ca60",
@@ -344,7 +277,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h224?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-23T23:25:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "19a4c742b22c",
@@ -363,7 +296,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h223?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-23T22:58:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "e54e02fa45ba",
@@ -384,7 +317,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/06/white-house-unveils-president-trumps-america-first-resilience-strategy/",
     "published_iso": "2026-06-23T21:28:24+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "2581289f5aa2",
@@ -409,7 +342,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s184?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-23T19:01:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "f80ad6f82792",
@@ -428,7 +361,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s183?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-23T18:15:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "058c66aadf98",
@@ -450,28 +383,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/06/omb-advances-revolutionary-far-overhaul-with-formal-publication-of-regulatory-changes/",
     "published_iso": "2026-06-23T16:45:45+00:00",
-    "time_ago": "23h ago"
-  },
-  {
-    "id": "91de5462fe6b",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "Sens. Warren, Kelly press Trump administration on effects of tariffs on manufacturing  cnbc.com/2026/06/23/trump-ta\u2026  \n \n Link  \n \n Sens. Warren, Kelly press Trump administration on effects of tariffs on manufacturing \n \n A pair of Democratic senators is asking for answers from the Trump administration on the effect of",
-    "tags": [
-      "Trade",
-      "Defense"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/CNBC/status/2069391446864474212#m",
-    "published_iso": "2026-06-23T12:05:43+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -535,32 +446,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-ushers-in-the-next-frontier-of-quantum-innovation/",
     "published_iso": "2026-06-22T20:39:32+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "4c2cdac3c6cd",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "Why'd the Pentagon Pay $4,361 for a $46 Pin? Private Equity.. Why'd the Pentagon Pay $4,361 for a $46 Pin? Private Equity",
-    "tags": [
-      "Defense"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "http://www.warren.senate.gov/newsroom/videos/watch/whyd-the-pentagon-pay-4361-for-a-46-pin-private-equity",
-    "published_iso": "2026-06-22T19:13:46+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -715,7 +600,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s181?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-18T17:40:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "d47797b2aba4",
@@ -1174,7 +1059,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "119d ago"
+    "time_ago": "120d ago"
   },
   {
     "id": "602146d3f751",
@@ -1262,7 +1147,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "152d ago"
+    "time_ago": "153d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1303,6 +1188,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/983956",
     "published_iso": "2025-10-30T16:06:54+00:00",
-    "time_ago": "236d ago"
+    "time_ago": "237d ago"
   }
 ]
