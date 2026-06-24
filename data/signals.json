@@ -1,6 +1,6 @@
 [
   {
-    "id": "260ec987a126",
+    "id": "ded88ad875cc",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,21 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Streyl Annedore sold 11,350 shares of Schmid Group N.V. (SHMDW) \u00b7 $6.35/share \u00b7 $72,095 total \u00b7 Jun 24",
-    "tags": [],
+    "content": "Dumais Michael R received 1,214 shares of Commercial Metals Co (CMC) \u00b7 $71.14/share \u00b7 $86,364 total \u00b7 Jun 24",
+    "tags": [
+      "Big Tech"
+    ],
     "tickers": [
-      "SHMDW"
+      "CMC"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2120462/000212046226000014/0002120462-26-000014-index.htm",
-    "published_iso": "2026-06-24T13:17:22+00:00",
-    "time_ago": "11m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1531769/000153176926000008/0001531769-26-000008-index.htm",
+    "published_iso": "2026-06-24T15:33:14+00:00",
+    "time_ago": "18m ago"
   },
   {
-    "id": "ba9ed4b7e78a",
+    "id": "369d4c6ee8d9",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -30,16 +32,108 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Watch live: Postmaster general testifies before Senate on USPS reforms. Postmaster General David Steiner will testify before the Senate Homeland Security and Governmental Affairs Committee on Wednesday morning about reforms within the United States Postal Service (USPS). USPS has faced financial struggles since before ",
+    "content": "Affordability, not fraud, is why fewer Americans have health insurance. The \u201cfraud, waste, and abuse\u201d narrative has been seriously overworked, and does not fit the facts",
+    "tags": [],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/healthcare/5936487-rising-premiums-aca-decline/",
+    "published_iso": "2026-06-24T15:30:00+00:00",
+    "time_ago": "22m ago"
+  },
+  {
+    "id": "fcd7627bbb99",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Trump set to return to Washington Hilton for first time since correspondents dinner shooting. President Trump will return to the Washington Hilton on Friday for the first time since the White House Correspondents' Association dinner shooting earlier this year.  Trump will address the Faith and Freedom Coalition\u2019s annua",
     "tags": [
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/video-clips/5937781-watch-live-david-steiner-usps-reform-senate-hearing/",
-    "published_iso": "2026-06-24T12:50:55+00:00",
-    "time_ago": "37m ago"
+    "url": "https://thehill.com/homenews/administration/5938342-trump-washington-hilton-faith-and-freedom/",
+    "published_iso": "2026-06-24T15:25:22+00:00",
+    "time_ago": "26m ago"
+  },
+  {
+    "id": "ec93d088b86c",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Why drawing down the Strategic Petroleum Reserve is a smart business decision. The world has changed since the 1973-1974 oil embargo",
+    "tags": [
+      "Energy",
+      "Sanctions"
+    ],
+    "tickers": [
+      "XOM",
+      "CVX",
+      "COP",
+      "OXY"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/energy-environment/5936835-strategic-petroleum-reserve-release/",
+    "published_iso": "2026-06-24T15:00:00+00:00",
+    "time_ago": "52m ago"
+  },
+  {
+    "id": "b40b23f98449",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Musk on fatal Tesla crash in Texas: 'This makes no sense'. Tesla CEO Elon Musk is pushing back on allegations the company\u2019s full self-driving software was involved in a recent crash that killed a Texas woman. Martha Avila, 76, died after a Tesla drove through the front of her home in Katy, Texas, last Friday. Both poli",
+    "tags": [],
+    "tickers": [
+      "TSLA"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/5938198-musk-on-fatal-tesla-crash-in-texas-this-makes-no-sense/",
+    "published_iso": "2026-06-24T14:57:12+00:00",
+    "time_ago": "55m ago"
+  },
+  {
+    "id": "1be9546e4305",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "Nomination Sent to the Senate. NOMINATION SENT TO THE SENATE: Konstantinos Ligris, of Florida, to be an Assistant Attorney General. \n The post  Nomination Sent to the Senate  appeared first on  The White House",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-648d/",
+    "published_iso": "2026-06-24T14:08:26+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "30b75d6744d5",
@@ -60,7 +154,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/06/24/democratic-socialists-new-york-2028-presidential-00973341",
     "published_iso": "2026-06-24T08:45:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "c1fe9635e6e4",
@@ -79,7 +173,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12766/establishing-the-digital-opportunity-data-collection-modernizing-the-fcc-form-477-data-program",
     "published_iso": "2026-06-24T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "198532700e79",
@@ -100,7 +194,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12717/conditions-for-additional-information-and-fee-in-petitions-filed-in-patent-applications-and-patents",
     "published_iso": "2026-06-24T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "b61ddec0cc71",
@@ -122,7 +216,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12701/establishment-of-class-e-airspace-glen-rose-tx",
     "published_iso": "2026-06-24T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "3c7cb1d68ed1",
@@ -143,7 +237,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12700/special-supplemental-nutrition-program-for-women-infants-and-children-wic-revisions-in-the-wic-food",
     "published_iso": "2026-06-24T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "22e2c400f1bf",
@@ -165,7 +259,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12698/establishment-of-class-e-airspace-barksdale-tx",
     "published_iso": "2026-06-24T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "2398dad574b4",
@@ -187,7 +281,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12674/modification-of-class-e-airspace-ralph-wien-memorial-airport-kotzebue-ak",
     "published_iso": "2026-06-24T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "6ef8478389cd",
@@ -209,7 +303,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12673/modification-of-class-e-airspace-omak-airport-omak-wa",
     "published_iso": "2026-06-24T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "19be8ba94976",
@@ -231,7 +325,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12670/indefinite-suspension-of-the-de-minimis-exemption-for-merchandise-arriving-through-all-modes-other",
     "published_iso": "2026-06-24T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "9a6e6495ca60",
@@ -250,7 +344,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h224?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-23T23:25:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "19a4c742b22c",
@@ -269,7 +363,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h223?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-23T22:58:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "e54e02fa45ba",
@@ -290,7 +384,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/06/white-house-unveils-president-trumps-america-first-resilience-strategy/",
     "published_iso": "2026-06-23T21:28:24+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "2581289f5aa2",
@@ -315,34 +409,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s184?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-23T19:01:00+00:00",
-    "time_ago": "18h ago"
-  },
-  {
-    "id": "f953d43a1f87",
-    "politician": "Rep. Jim Jordan",
-    "initials": "JJ",
-    "role": "House Judiciary Committee Chair",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fca5a5"
-    },
-    "severity": "critical",
-    "content": "President Trump and AG Blanche are saving your tax dollars from fraudsters. \n \nAnd Democrats are mad about it. \n \n \n Rapid Response 47 (@RapidResponse47) \n \n . @DAGToddBlanche  announces charges against 455 defendants across 45 states and territories for healthcare fraud schemes involving over $6.5 billion in false cla",
-    "tags": [
-      "Healthcare",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/Jim_Jordan/status/2069491462920691899#m",
-    "published_iso": "2026-06-23T18:43:08+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "f80ad6f82792",
@@ -361,7 +428,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s183?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-23T18:15:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "058c66aadf98",
@@ -383,7 +450,29 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/06/omb-advances-revolutionary-far-overhaul-with-formal-publication-of-regulatory-changes/",
     "published_iso": "2026-06-23T16:45:45+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "23h ago"
+  },
+  {
+    "id": "91de5462fe6b",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "Sens. Warren, Kelly press Trump administration on effects of tariffs on manufacturing  cnbc.com/2026/06/23/trump-ta\u2026  \n \n Link  \n \n Sens. Warren, Kelly press Trump administration on effects of tariffs on manufacturing \n \n A pair of Democratic senators is asking for answers from the Trump administration on the effect of",
+    "tags": [
+      "Trade",
+      "Defense"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/CNBC/status/2069391446864474212#m",
+    "published_iso": "2026-06-23T12:05:43+00:00",
+    "time_ago": "1d ago"
   },
   {
     "id": "6800b86028cf",
@@ -498,7 +587,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/PatrickMcHenry/status/2069055774643409185#m",
     "published_iso": "2026-06-22T13:51:52+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "b944112ab796",
@@ -645,7 +734,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s180?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-18T15:01:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "831ce6b4e6ca",
@@ -672,7 +761,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618a.htm",
     "published_iso": "2026-06-18T15:00:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "28cdca2c6be8",
@@ -826,7 +915,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
     "published_iso": "2026-06-11T15:00:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "82c28da78cda",
@@ -881,7 +970,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-sullivan-lead-colleagues-in-urging-bank-regulators-to-establish-fair-capital-standards-for-digital-assets/",
     "published_iso": "2026-06-04T14:07:24+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "ddb58e0107d1",
@@ -929,7 +1018,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-legalizing-premium-health-care-act/",
     "published_iso": "2026-05-20T15:26:37+00:00",
-    "time_ago": "34d ago"
+    "time_ago": "35d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -950,7 +1039,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "43d ago"
+    "time_ago": "44d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -976,7 +1065,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "49d ago"
+    "time_ago": "50d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -998,7 +1087,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "57d ago"
+    "time_ago": "58d ago"
   },
   {
     "id": "0047e3ab5b67",
@@ -1020,7 +1109,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "64d ago"
+    "time_ago": "65d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1044,7 +1133,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "85d ago"
+    "time_ago": "86d ago"
   },
   {
     "id": "d52e199aa058",
@@ -1128,7 +1217,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "130d ago"
+    "time_ago": "131d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1147,7 +1236,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "130d ago"
+    "time_ago": "131d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1192,7 +1281,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "189d ago"
+    "time_ago": "190d ago"
   },
   {
     "id": "e88c3c11d67a",
