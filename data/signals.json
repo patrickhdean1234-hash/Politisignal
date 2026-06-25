@@ -1,6 +1,25 @@
 [
   {
-    "id": "b80a67e18d35",
+    "id": "a49b64ece837",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "Motion to Invoke Cloture: Matthew A. Schwartz, to be U.S. Circuit Judge for the Second Circuit: Matthew A. Schwartz, of New York, to be United States Circuit Judge for the Second Circuit. Vote: Cloture Motion Agreed to 52/45",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s191?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-25T02:09:00+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "ec0c2c303525",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +28,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Hrtg Gpe, Llc bought 3,125,000 shares of Kardigan, Inc. (KARD) \u00b7 $16.00/share \u00b7 $50,000,000 total \u00b7 Jun 24",
+    "content": "Insight Holdings Group, Llc sold 119,244 shares of Hinge Health, Inc. (HNGE) \u00b7 $71.67/share \u00b7 $8,545,848 total \u00b7 Jun 24 ($10,198,988 across all blocks)",
     "tags": [],
     "tickers": [
-      "KARD"
+      "HNGE"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2139540/000119312526281553/0001193125-26-281553-index.htm",
-    "published_iso": "2026-06-25T01:26:05+00:00",
-    "time_ago": "10m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1844845/000110465926077467/0001104659-26-077467-index.htm",
+    "published_iso": "2026-06-25T01:57:13+00:00",
+    "time_ago": "3h ago"
   },
   {
-    "id": "55f32eeea675",
+    "id": "fabc5cc0c44e",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,145 +49,82 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Allen Kurt withheld (tax) 14,309 shares of Hecla Mining Co/De/ (HL-PB) \u00b7 $15.98/share \u00b7 $228,658 total \u00b7 Jun 24 ($541,035 across all blocks)",
+    "content": "Insight Holdings Group, Llc converted 112,064 shares of Hinge Health, Inc. (HNGE) \u00b7 Jun 24 ($51,634,252 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "HNGE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1844845/000110465926077466/0001104659-26-077466-index.htm",
+    "published_iso": "2026-06-25T01:56:27+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "b118f159295e",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Lafargue Rell Q. Jr. received 155,318 shares of Reservoir Media, Inc. (RSVRW) \u00b7 Jun 24",
+    "tags": [],
+    "tickers": [
+      "RSVRW"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1865887/000186588726000005/0001865887-26-000005-index.htm",
+    "published_iso": "2026-06-25T01:54:53+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "9fbe58d4b5a5",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Thayne Daren sold 52,365 shares of Domo, Inc. (DOMO) \u00b7 $2.38/share \u00b7 $124,503 total \u00b7 Jun 24",
+    "tags": [],
+    "tickers": [
+      "DOMO"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1960894/000162828026045339/0001628280-26-045339-index.htm",
+    "published_iso": "2026-06-25T01:51:48+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "b32bd808a447",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "Motion to Proceed on S.J.Res. 196: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to \u201cReimagining and Improving Student Education-Federal Student Loan Pr. Vote: Motion to Proceed Rejected 45/52",
     "tags": [
-      "Taxes"
+      "Regulation"
     ],
     "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1869029/000186902926000005/0001869029-26-000005-index.htm",
-    "published_iso": "2026-06-25T01:24:29+00:00",
-    "time_ago": "12m ago"
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s190?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-25T01:16:00+00:00",
+    "time_ago": "4h ago"
   },
   {
-    "id": "a32786d836f9",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Glaser Rachel C received 8,262 shares of Costar Group, Inc. (CSGP) \u00b7 Jun 24",
-    "tags": [],
-    "tickers": [
-      "CSGP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1497570/000149757026000011/0001497570-26-000011-index.htm",
-    "published_iso": "2026-06-25T01:14:03+00:00",
-    "time_ago": "22m ago"
-  },
-  {
-    "id": "db3f21450a61",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Berisford John L received 8,262 shares of Costar Group, Inc. (CSGP) \u00b7 Jun 24",
-    "tags": [],
-    "tickers": [
-      "CSGP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1449719/000144971926000002/0001449719-26-000002-index.htm",
-    "published_iso": "2026-06-25T01:13:57+00:00",
-    "time_ago": "22m ago"
-  },
-  {
-    "id": "341e16f5b931",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hill John W received 8,262 shares of Costar Group, Inc. (CSGP) \u00b7 Jun 24",
-    "tags": [],
-    "tickers": [
-      "CSGP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1351689/000135168926000002/0001351689-26-000002-index.htm",
-    "published_iso": "2026-06-25T01:13:51+00:00",
-    "time_ago": "23m ago"
-  },
-  {
-    "id": "cbd0053af474",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Brunner Angelique G. received 8,262 shares of Costar Group, Inc. (CSGP) \u00b7 Jun 24",
-    "tags": [],
-    "tickers": [
-      "CSGP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1742356/000174235626000002/0001742356-26-000002-index.htm",
-    "published_iso": "2026-06-25T01:13:45+00:00",
-    "time_ago": "23m ago"
-  },
-  {
-    "id": "3d6104245c7f",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Musslewhite Robert W received 8,262 shares of Costar Group, Inc. (CSGP) \u00b7 Jun 24",
-    "tags": [],
-    "tickers": [
-      "CSGP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1390194/000139019426000002/0001390194-26-000002-index.htm",
-    "published_iso": "2026-06-25T01:13:39+00:00",
-    "time_ago": "23m ago"
-  },
-  {
-    "id": "4512dc1b2f5a",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Sams Louise S received 8,262 shares of Costar Group, Inc. (CSGP) \u00b7 Jun 24",
-    "tags": [],
-    "tickers": [
-      "CSGP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1796961/000179696126000004/0001796961-26-000004-index.htm",
-    "published_iso": "2026-06-25T01:13:33+00:00",
-    "time_ago": "23m ago"
-  },
-  {
-    "id": "327d7182816e",
+    "id": "52b4e037e790",
     "politician": "Sen. Elizabeth Warren",
     "initials": "EW",
     "role": "Senate Banking Committee",
@@ -176,23 +132,22 @@
       "bg": "#1b3a2a",
       "fg": "#4ade80"
     },
-    "severity": "medium",
-    "content": "Who cares? Sign the bill. \n \n \n Aaron Rupar (@atrupar) \n \n Q: Will you veto the housing bill? \n \nTRUMP: Look, I made billions of dollars with housing. I know housing better than anybody maybe anywhere. It's all about the interest rate. I don't want to hurt people that own houses too. \n \n Video \n   \n \n\n\n \n \n\u2014   https://",
+    "severity": "critical",
+    "content": "Warren Calls on Congress and Antitrust Enforcers to Take on Corporate Power at Open Markets Conference. Warren Calls on Congress and Antitrust Enforcers to Take on Corporate Power at Open Markets Conference",
     "tags": [
-      "Banking",
-      "Regulation"
+      "Antitrust"
     ],
     "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
+      "AMZN",
+      "GOOGL",
+      "AAPL",
+      "META"
     ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/SenatorAndyKim/status/2069922623048372719#m",
-    "published_iso": "2026-06-24T23:16:25+00:00",
-    "time_ago": "2h ago"
+    "source": "rss",
+    "platform": ".gov",
+    "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-calls-on-congress-and-antitrust-enforcers-to-take-on-corporate-power-at-open-markets-conference",
+    "published_iso": "2026-06-25T00:00:00+00:00",
+    "time_ago": "5h ago"
   },
   {
     "id": "b1020ee06414",
@@ -211,7 +166,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s189?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-24T22:28:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "51b979d6f32a",
@@ -230,7 +185,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s188?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-24T21:24:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "24fd3a4e3513",
@@ -249,7 +204,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h226?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-24T21:16:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "8edf33f62e9c",
@@ -268,7 +223,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h225?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-24T21:05:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "0e2c47821b03",
@@ -294,7 +249,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260624a.htm",
     "published_iso": "2026-06-24T20:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "a53e30eb38d9",
@@ -313,7 +268,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s187?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-24T18:57:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "d8bca451b607",
@@ -332,7 +287,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s186?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-24T18:17:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "dc36ccc44bda",
@@ -358,26 +313,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mp2dbyru522x",
     "published_iso": "2026-06-24T16:24:39.418000+00:00",
-    "time_ago": "9h ago"
-  },
-  {
-    "id": "8bcec0981afe",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "Motion to Invoke Cloture: John George Edward Marck to be U.S. District Judge for the Southern District of Texas: John George Edward Marck, of Texas, to be United States District Judge for the Southern District of Texas. Vote: Cloture Motion Agreed to 52/45",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s185?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-24T15:39:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "1be9546e4305",
@@ -398,7 +334,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-648d/",
     "published_iso": "2026-06-24T14:08:26+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "30b75d6744d5",
@@ -419,7 +355,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/06/24/democratic-socialists-new-york-2028-presidential-00973341",
     "published_iso": "2026-06-24T08:45:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "c1fe9635e6e4",
@@ -438,7 +374,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12766/establishing-the-digital-opportunity-data-collection-modernizing-the-fcc-form-477-data-program",
     "published_iso": "2026-06-24T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "198532700e79",
@@ -459,7 +395,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12717/conditions-for-additional-information-and-fee-in-petitions-filed-in-patent-applications-and-patents",
     "published_iso": "2026-06-24T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "b61ddec0cc71",
@@ -481,7 +417,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12701/establishment-of-class-e-airspace-glen-rose-tx",
     "published_iso": "2026-06-24T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "3c7cb1d68ed1",
@@ -502,7 +438,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12700/special-supplemental-nutrition-program-for-women-infants-and-children-wic-revisions-in-the-wic-food",
     "published_iso": "2026-06-24T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "22e2c400f1bf",
@@ -524,7 +460,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12698/establishment-of-class-e-airspace-barksdale-tx",
     "published_iso": "2026-06-24T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "2398dad574b4",
@@ -546,7 +482,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12674/modification-of-class-e-airspace-ralph-wien-memorial-airport-kotzebue-ak",
     "published_iso": "2026-06-24T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "6ef8478389cd",
@@ -568,7 +504,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12673/modification-of-class-e-airspace-omak-airport-omak-wa",
     "published_iso": "2026-06-24T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "19be8ba94976",
@@ -590,25 +526,6 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/24/2026-12670/indefinite-suspension-of-the-de-minimis-exemption-for-merchandise-arriving-through-all-modes-other",
     "published_iso": "2026-06-24T04:00:00+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "9a6e6495ca60",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.R. 6644: 21st Century ROAD to Housing Act. Vote: Passed 358/32",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h224?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-23T23:25:00+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -674,6 +591,32 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-ushers-in-the-next-frontier-of-quantum-innovation/",
     "published_iso": "2026-06-22T20:39:32+00:00",
+    "time_ago": "2d ago"
+  },
+  {
+    "id": "0a108dd0f7c1",
+    "politician": "Rep. Patrick McHenry",
+    "initials": "PM",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#2d1e5f",
+      "fg": "#c084fc"
+    },
+    "severity": "medium",
+    "content": "cnbc.com/2026/06/22/alan-gre\u2026  \n \n Link  \n \n \n \n Alan Greenspan, former chairman of the Fed, dies at age 100 \n \n Alan Greenspan presided over the Federal Reserve for 19 years under four presidents and mastered the art of obfuscation known as Fedspeak. \n  cnbc.com",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/PatrickMcHenry/status/2069055774643409185#m",
+    "published_iso": "2026-06-22T13:51:52+00:00",
     "time_ago": "2d ago"
   },
   {
