@@ -1,6 +1,27 @@
 [
   {
-    "id": "aef34ff1b8db",
+    "id": "8d58b96a1caf",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Vinciarelli Patrizio sold 301 shares of Vicor Corp (VICR) \u00b7 $314.42/share \u00b7 $94,642 total \u00b7 Jun 25 ($6,528,725 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "VICR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/901484/000090148426000032/0000901484-26-000032-index.htm",
+    "published_iso": "2026-06-25T18:20:01+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "080196028cb7",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,21 +30,22 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Trump, Live Nation CEO spoke before antitrust case settlement: Filing. President Trump and Live Nation CEO Michael Rapino spoke in February before the ticketing giant settled its antitrust case with the Department of Justice (DOJ), according to new court documents. In a filing Monday, the company said Rapino \u201cdiscussed",
+    "content": "Inflation hits 4.1 percent in May: 5 takeaways. Federal inflation data released Thursday showed prices rising at the fastest annual rate in three years, posing serious challenges for President Trump and policymakers. The Federal Reserve\u2019s preferred gauge of inflation showed prices rising 4.1 percent over the past year ",
     "tags": [
-      "Antitrust"
+      "Energy",
+      "Banking"
     ],
     "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META"
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/business/5940480-live-nation-ticketmaster-doj-case/",
-    "published_iso": "2026-06-25T15:13:54+00:00",
-    "time_ago": "52m ago"
+    "url": "https://thehill.com/business/5941082-inflation-rise-trump-challenges/",
+    "published_iso": "2026-06-25T18:15:51+00:00",
+    "time_ago": "8m ago"
   },
   {
     "id": "da7ccb0d5dde",
@@ -48,7 +70,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2070161009801605182#m",
     "published_iso": "2026-06-25T15:03:41+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "cf50e2364299",
@@ -74,7 +96,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm",
     "published_iso": "2026-06-25T15:00:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "1c1e70c8629e",
@@ -100,7 +122,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
     "published_iso": "2026-06-25T15:00:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "6cf107961736",
@@ -127,7 +149,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12856/prohibition-on-the-use-of-reputation-risk",
     "published_iso": "2026-06-25T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "f3c4b193a1b2",
@@ -148,7 +170,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12839/fisheries-of-the-exclusive-economic-zone-off-alaska-modify-the-timing-of-haul-designation-for-trawl",
     "published_iso": "2026-06-25T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "ac8e57c08ee5",
@@ -169,7 +191,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12838/safety-zone-rainy-lake-city-of-ranier-mn",
     "published_iso": "2026-06-25T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "a64be1026808",
@@ -190,7 +212,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12830/special-local-regulations-marine-events-in-the-coast-guard-sector-detroit-captain-of-the-port",
     "published_iso": "2026-06-25T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "d7f8986170b2",
@@ -209,7 +231,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12828/safety-zone-ohio-river-newport-ky",
     "published_iso": "2026-06-25T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "31ee11783877",
@@ -228,7 +250,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12827/safety-zone-ohio-river-north-bend-oh",
     "published_iso": "2026-06-25T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "5c6472efb4f6",
@@ -249,7 +271,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12823/special-local-regulation-sandusky-bay-sandusky-oh",
     "published_iso": "2026-06-25T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "9338191e0f83",
@@ -270,7 +292,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12822/limited-access-areas-marine-events-within-captain-of-the-port-eastern-great-lakes-zone",
     "published_iso": "2026-06-25T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "deb21a2007f6",
@@ -295,7 +317,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s192?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-25T02:30:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "a49b64ece837",
@@ -314,7 +336,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s191?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-25T02:09:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "b32bd808a447",
@@ -335,7 +357,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s190?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-25T01:16:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "b1020ee06414",
@@ -354,7 +376,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s189?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-24T22:28:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "51b979d6f32a",
@@ -373,7 +395,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s188?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-24T21:24:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "24fd3a4e3513",
@@ -392,7 +414,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h226?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-24T21:16:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "8edf33f62e9c",
@@ -411,7 +433,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h225?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-24T21:05:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "0e2c47821b03",
@@ -437,7 +459,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260624a.htm",
     "published_iso": "2026-06-24T20:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "a53e30eb38d9",
@@ -456,32 +478,6 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s187?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-24T18:57:00+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "dc36ccc44bda",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "President Trump promised to cap credit card interest rates at 10%. We are more than 5 months past Trump's January 20 deadline. Not a single bank has done so.\n\nAbsolute \ud83d\udd25\ud83d\udd25 from @elizabeth-warren.bsky.social",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mp2dbyru522x",
-    "published_iso": "2026-06-24T16:24:39.418000+00:00",
     "time_ago": "23h ago"
   },
   {
@@ -644,32 +640,6 @@
     "time_ago": "3d ago"
   },
   {
-    "id": "27d67d80da47",
-    "politician": "Politico",
-    "initials": "PO",
-    "role": "Political News",
-    "color": {
-      "bg": "#1a0a0a",
-      "fg": "#fca5a5"
-    },
-    "severity": "medium",
-    "content": "Poll: Americans draw a new line in the betting bonanza sweeping over Wall Street \u2014 politics. A plurality of Americans believe betting on election outcomes should be illegal, The POLITICO Poll finds",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "politico",
-    "platform": "Politico",
-    "url": "https://www.politico.com/news/2026/06/22/poll-betting-markets-politics-00967298",
-    "published_iso": "2026-06-22T09:00:00+00:00",
-    "time_ago": "3d ago"
-  },
-  {
     "id": "67b7239dfcea",
     "politician": "U.S. Trade Rep.",
     "initials": "USTR",
@@ -802,7 +772,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
     "published_iso": "2026-06-17T18:00:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "37bfe4923312",
@@ -1152,7 +1122,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "153d ago"
+    "time_ago": "154d ago"
   },
   {
     "id": "d3ca74df7f0f",
