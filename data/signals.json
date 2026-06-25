@@ -1,6 +1,6 @@
 [
   {
-    "id": "9aa5e1bcbb12",
+    "id": "aef34ff1b8db",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,18 +9,98 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Inflation hits 4.1 percent in May, highest level in 3 years. Annual inflation hit the highest level in more than three years last month as prices across the economy rose at an even quicker pace, according to data released Thursday by the Commerce Department. Prices rose 4.1 percent over the past year and 0.7 percent in",
-    "tags": [],
+    "content": "Trump, Live Nation CEO spoke before antitrust case settlement: Filing. President Trump and Live Nation CEO Michael Rapino spoke in February before the ticketing giant settled its antitrust case with the Department of Justice (DOJ), according to new court documents. In a filing Monday, the company said Rapino \u201cdiscussed",
+    "tags": [
+      "Antitrust"
+    ],
     "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
+      "AMZN",
+      "GOOGL",
+      "AAPL",
+      "META"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/business/5940002-prices-rise-inflation-spikes/",
-    "published_iso": "2026-06-25T13:00:43+00:00",
-    "time_ago": "32m ago"
+    "url": "https://thehill.com/business/5940480-live-nation-ticketmaster-doj-case/",
+    "published_iso": "2026-06-25T15:13:54+00:00",
+    "time_ago": "52m ago"
+  },
+  {
+    "id": "da7ccb0d5dde",
+    "politician": "Sen. Bernie Sanders",
+    "initials": "BS",
+    "role": "Senate HELP Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#818cf8"
+    },
+    "severity": "medium",
+    "content": "While she was in Congress,  @CoriBush  and I helped lead the fight for Medicare for All. \n \nAs a nurse, Cori knows that our healthcare system is broken and unaffordable and that ALL Americans are entitled to health care as a human right. \n \n Video",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/BernieSanders/status/2070161009801605182#m",
+    "published_iso": "2026-06-25T15:03:41+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "cf50e2364299",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.. Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm",
+    "published_iso": "2026-06-25T15:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "1c1e70c8629e",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.. Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
+    "published_iso": "2026-06-25T15:00:00+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "6cf107961736",
@@ -47,7 +127,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12856/prohibition-on-the-use-of-reputation-risk",
     "published_iso": "2026-06-25T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "f3c4b193a1b2",
@@ -68,7 +148,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12839/fisheries-of-the-exclusive-economic-zone-off-alaska-modify-the-timing-of-haul-designation-for-trawl",
     "published_iso": "2026-06-25T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "ac8e57c08ee5",
@@ -89,7 +169,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12838/safety-zone-rainy-lake-city-of-ranier-mn",
     "published_iso": "2026-06-25T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "a64be1026808",
@@ -110,7 +190,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12830/special-local-regulations-marine-events-in-the-coast-guard-sector-detroit-captain-of-the-port",
     "published_iso": "2026-06-25T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "d7f8986170b2",
@@ -129,7 +209,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12828/safety-zone-ohio-river-newport-ky",
     "published_iso": "2026-06-25T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "31ee11783877",
@@ -148,7 +228,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12827/safety-zone-ohio-river-north-bend-oh",
     "published_iso": "2026-06-25T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "5c6472efb4f6",
@@ -169,7 +249,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12823/special-local-regulation-sandusky-bay-sandusky-oh",
     "published_iso": "2026-06-25T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "9338191e0f83",
@@ -190,7 +270,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12822/limited-access-areas-marine-events-within-captain-of-the-port-eastern-great-lakes-zone",
     "published_iso": "2026-06-25T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "deb21a2007f6",
@@ -215,7 +295,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s192?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-25T02:30:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "a49b64ece837",
@@ -234,7 +314,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s191?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-25T02:09:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "b32bd808a447",
@@ -255,33 +335,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s190?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-25T01:16:00+00:00",
-    "time_ago": "12h ago"
-  },
-  {
-    "id": "52b4e037e790",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "Warren Calls on Congress and Antitrust Enforcers to Take on Corporate Power at Open Markets Conference. Warren Calls on Congress and Antitrust Enforcers to Take on Corporate Power at Open Markets Conference",
-    "tags": [
-      "Antitrust"
-    ],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META"
-    ],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "http://www.warren.senate.gov/newsroom/press-releases/warren-calls-on-congress-and-antitrust-enforcers-to-take-on-corporate-power-at-open-markets-conference",
-    "published_iso": "2026-06-25T00:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "b1020ee06414",
@@ -300,7 +354,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s189?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-24T22:28:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "51b979d6f32a",
@@ -319,7 +373,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s188?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-24T21:24:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "24fd3a4e3513",
@@ -338,7 +392,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h226?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-24T21:16:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "8edf33f62e9c",
@@ -357,7 +411,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h225?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-24T21:05:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "0e2c47821b03",
@@ -383,7 +437,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260624a.htm",
     "published_iso": "2026-06-24T20:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "a53e30eb38d9",
@@ -402,7 +456,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s187?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-24T18:57:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "dc36ccc44bda",
@@ -428,7 +482,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mp2dbyru522x",
     "published_iso": "2026-06-24T16:24:39.418000+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "1be9546e4305",
@@ -449,7 +503,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-648d/",
     "published_iso": "2026-06-24T14:08:26+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "30b75d6744d5",
@@ -561,7 +615,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/PatrickMcHenry/status/2069055774643409185#m",
     "published_iso": "2026-06-22T13:51:52+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "b944112ab796",
@@ -695,7 +749,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618a.htm",
     "published_iso": "2026-06-18T15:00:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "28cdca2c6be8",
@@ -751,32 +805,6 @@
     "time_ago": "7d ago"
   },
   {
-    "id": "871ffab494b5",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting. Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
-    "published_iso": "2026-06-17T18:00:00+00:00",
-    "time_ago": "7d ago"
-  },
-  {
     "id": "37bfe4923312",
     "politician": "Sen. Cynthia Lummis",
     "initials": "CL",
@@ -806,33 +834,6 @@
     "time_ago": "8d ago"
   },
   {
-    "id": "2f1208e0d945",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "high",
-    "content": "Federal Reserve Board announces final rule that establishes data standards for certain information collections. Federal Reserve Board announces final rule that establishes data standards for certain information collections",
-    "tags": [
-      "Banking",
-      "Regulation"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
-    "published_iso": "2026-06-11T15:00:00+00:00",
-    "time_ago": "13d ago"
-  },
-  {
     "id": "7efa4c0a4cc7",
     "politician": "Sen. Cynthia Lummis",
     "initials": "CL",
@@ -859,7 +860,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-sullivan-lead-colleagues-in-urging-bank-regulators-to-establish-fair-capital-standards-for-digital-assets/",
     "published_iso": "2026-06-04T14:07:24+00:00",
-    "time_ago": "20d ago"
+    "time_ago": "21d ago"
   },
   {
     "id": "ddb58e0107d1",
@@ -907,7 +908,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-legalizing-premium-health-care-act/",
     "published_iso": "2026-05-20T15:26:37+00:00",
-    "time_ago": "35d ago"
+    "time_ago": "36d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -928,7 +929,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "44d ago"
+    "time_ago": "45d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -954,7 +955,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "50d ago"
+    "time_ago": "51d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -976,7 +977,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "58d ago"
+    "time_ago": "59d ago"
   },
   {
     "id": "0047e3ab5b67",
@@ -998,7 +999,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "65d ago"
+    "time_ago": "66d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1022,7 +1023,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "86d ago"
+    "time_ago": "87d ago"
   },
   {
     "id": "d52e199aa058",
@@ -1063,7 +1064,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "120d ago"
+    "time_ago": "121d ago"
   },
   {
     "id": "602146d3f751",
@@ -1106,7 +1107,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "131d ago"
+    "time_ago": "132d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1125,7 +1126,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "131d ago"
+    "time_ago": "132d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1170,7 +1171,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "190d ago"
+    "time_ago": "191d ago"
   },
   {
     "id": "e88c3c11d67a",
@@ -1192,6 +1193,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/983956",
     "published_iso": "2025-10-30T16:06:54+00:00",
-    "time_ago": "237d ago"
+    "time_ago": "238d ago"
   }
 ]
