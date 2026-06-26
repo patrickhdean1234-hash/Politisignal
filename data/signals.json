@@ -1,6 +1,6 @@
 [
   {
-    "id": "9974105f4fb3",
+    "id": "b8579a1f97d5",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,104 +9,37 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Lovett William Radford Ii sold 2,450 shares of Dream Finders Homes, Inc. (DFH) \u00b7 $16.00/share \u00b7 $39,200 total \u00b7 Jun 26 ($943,338 across all blocks)",
+    "content": "Pickering Grant sold 6,683 shares of Vaxcyte, Inc. (PCVX) \u00b7 $54.27/share \u00b7 $362,720 total \u00b7 Jun 26 ($1,338,270 across all blocks)",
     "tags": [],
     "tickers": [
-      "DFH"
+      "PCVX"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1825088/000089706926001453/0000897069-26-001453-index.htm",
-    "published_iso": "2026-06-26T21:38:18+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/1649094/000125869326000013/0001258693-26-000013-index.htm",
+    "published_iso": "2026-06-26T22:49:13+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "7ef269ee8c61",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Bvf I Gp Llc sold 837,914 shares of Kymera Therapeutics, Inc. (KYMR) \u00b7 $106.50/share \u00b7 $89,237,841 total \u00b7 Jun 26 ($173,665,077 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "KYMR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1815442/000092189526001688/0000921895-26-001688-index.htm",
+    "published_iso": "2026-06-26T22:48:12+00:00",
     "time_ago": "2m ago"
-  },
-  {
-    "id": "c3060b0ec977",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Oliver Eric L bought 4,047 shares of Cross Timbers Royalty Trust (CRT) \u00b7 $8.66/share \u00b7 $35,047 total \u00b7 Jun 26 ($68,143 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CRT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2077837/000110465926078339/0001104659-26-078339-index.htm",
-    "published_iso": "2026-06-26T21:35:21+00:00",
-    "time_ago": "5m ago"
-  },
-  {
-    "id": "17a5ac5fea5d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Richardson Valerie received 2,594 shares of American Healthcare Reit, Inc. (AHR) \u00b7 Jun 26",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "AHR"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1743057/000119312526285754/0001193125-26-285754-index.htm",
-    "published_iso": "2026-06-26T21:33:41+00:00",
-    "time_ago": "7m ago"
-  },
-  {
-    "id": "9faa5c9d35fd",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "O'Quinn Marvin R received 2,594 shares of American Healthcare Reit, Inc. (AHR) \u00b7 Jun 26",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "AHR"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1649433/000119312526285750/0001193125-26-285750-index.htm",
-    "published_iso": "2026-06-26T21:31:27+00:00",
-    "time_ago": "9m ago"
-  },
-  {
-    "id": "d9000c8ed9c1",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "high",
-    "content": "Ribeiro Sergio Passos sold 3,897 shares of Vinci Compass Investments Ltd. (VINP) \u00b7 $9.58/share \u00b7 $37,333 total \u00b7 Jun 26 ($91,287 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "VINP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2028643/000095010326009576/0000950103-26-009576-index.htm",
-    "published_iso": "2026-06-26T21:30:50+00:00",
-    "time_ago": "10m ago"
   },
   {
     "id": "3f8b56a8a5a1",
@@ -128,7 +61,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/06/s-1003-signed-into-law/",
     "published_iso": "2026-06-26T20:55:58+00:00",
-    "time_ago": "45m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "17084e855b7e",
@@ -154,7 +87,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/trade-topics/enforcement/section-301-investigations/section-301-germanys-persistent-underpayment-innovative-pharmaceutical-products",
     "published_iso": "2026-06-26T19:36:57+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "216d02a54687",
@@ -176,7 +109,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/06/president-trumps-america-first-agenda-scores-major-supreme-court-win-on-tps-termination/",
     "published_iso": "2026-06-26T18:13:13+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "53362cadd01e",
@@ -201,7 +134,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mp76tbiwqc2c",
     "published_iso": "2026-06-26T14:48:08.974000+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "7dc29482cc0f",
@@ -222,7 +155,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12976/uniform-allowances",
     "published_iso": "2026-06-26T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "e6d35be14d33",
@@ -243,7 +176,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12951/process-for-authorizing-seasonal-migratory-game-bird-hunting",
     "published_iso": "2026-06-26T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "045d445a6d73",
@@ -262,7 +195,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12944/safety-zones-recurring-safety-zones-in-captain-of-the-port-northern-great-lakes",
     "published_iso": "2026-06-26T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "c5d6534fe112",
@@ -281,7 +214,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12942/safety-zones-annual-events-requiring-safety-zones-in-the-captain-of-the-port-lake-michigan-zone",
     "published_iso": "2026-06-26T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "fda050e93ea3",
@@ -300,7 +233,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12941/safety-zone-los-angeles-channel-los-angeles-ca",
     "published_iso": "2026-06-26T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "91073d013fe7",
@@ -319,7 +252,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12932/southern-california-annual-firework-events-for-the-los-angeles-long-beach-captain-of-the-port-zone",
     "published_iso": "2026-06-26T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "caa251fe822d",
@@ -340,7 +273,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12927/us-ecology-nevada-inc-high-mercury-subcategory-wastes-land-disposal-restrictions-variance",
     "published_iso": "2026-06-26T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "b765948eddbc",
@@ -359,7 +292,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/usembassyve/status/2070347738378629237#m",
     "published_iso": "2026-06-26T03:25:40+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "8a50a28b66f8",
@@ -386,7 +319,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/06/advancing-regenerative-agriculture-and-strengthening-american-farm-resilience/",
     "published_iso": "2026-06-25T23:00:19+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "cce27e2a695e",
@@ -412,7 +345,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-advances-regenerative-agriculture-and-strengthens-american-farm-resilience/",
     "published_iso": "2026-06-25T23:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "b68ff8c6e424",
@@ -592,7 +525,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s189?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-24T22:28:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "51b979d6f32a",
@@ -984,7 +917,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/the-senate-page-program/",
     "published_iso": "2026-06-03T21:41:29+00:00",
-    "time_ago": "22d ago"
+    "time_ago": "23d ago"
   },
   {
     "id": "072d30de1b17",
