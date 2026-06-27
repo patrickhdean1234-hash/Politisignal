@@ -1,5 +1,98 @@
 [
   {
+    "id": "ed176d8d7657",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ressler Richard S disposed of 20,000 shares of Cim Real Estate Finance Trust, Inc. (CMRF) \u00b7 Jun 26 ($0 across all blocks)",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "CMRF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1498547/000119312526286497/0001193125-26-286497-index.htm",
+    "published_iso": "2026-06-27T01:59:10+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "0eae2bc93a0a",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Wardi Teddie Benjamin received 3,638 shares of Sentinelone, Inc. (S) \u00b7 Jun 26 ($0 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "S"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1869541/000158370826000047/0001583708-26-000047-index.htm",
+    "published_iso": "2026-06-27T01:58:33+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "6c2dbd6e75ea",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Bochenek David R acquired/disposed 8,617 shares of Sinclair, Inc. (SBGI) \u00b7 Jun 26",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "SBGI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1971213/000124637026000002/0001246370-26-000002-index.htm",
+    "published_iso": "2026-06-27T01:51:16+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "2556d0adec56",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Federal government permits release of Anthropic\u2019s Mythos model to select companies. Anthropic can now share its most advanced AI model with over 100 companies after the U.S. government lifted its export ban on Claude Mythos 5 on Friday, a spokesperson for Anthropic confirmed in a statement to the Hill. The decision ref",
+    "tags": [
+      "Trade"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/5943549-anthropic-mythos-5-access/",
+    "published_iso": "2026-06-27T01:46:00+00:00",
+    "time_ago": "3h ago"
+  },
+  {
     "id": "0f5d784c5ce0",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
@@ -18,7 +111,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1119037/000162828026045865/0001628280-26-045865-index.htm",
     "published_iso": "2026-06-27T01:35:11+00:00",
-    "time_ago": "13m ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "344d013dddff",
@@ -39,7 +132,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1853327/000185332726000008/0001853327-26-000008-index.htm",
     "published_iso": "2026-06-27T01:31:44+00:00",
-    "time_ago": "16m ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "7f91fadf13fc",
@@ -60,7 +153,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1583708/000129093626000008/0001290936-26-000008-index.htm",
     "published_iso": "2026-06-27T01:22:52+00:00",
-    "time_ago": "25m ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "a2aa56b7814e",
@@ -81,7 +174,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1605698/000160569826000002/0001605698-26-000002-index.htm",
     "published_iso": "2026-06-27T01:20:01+00:00",
-    "time_ago": "28m ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "228b2aef693b",
@@ -102,91 +195,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1583708/000118475426000006/0001184754-26-000006-index.htm",
     "published_iso": "2026-06-27T01:18:41+00:00",
-    "time_ago": "29m ago"
-  },
-  {
-    "id": "c05c0a0817dc",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hughes Aaron received 4,176 shares of Sentinelone, Inc. (S) \u00b7 Jun 26 ($0 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "S"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1866183/000186618326000002/0001866183-26-000002-index.htm",
-    "published_iso": "2026-06-27T01:17:18+00:00",
-    "time_ago": "31m ago"
-  },
-  {
-    "id": "32a430f39f42",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Begley Charlene T received 4,429 shares of Sentinelone, Inc. (S) \u00b7 Jun 26 ($0 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "S"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1583708/000123315026000009/0001233150-26-000009-index.htm",
-    "published_iso": "2026-06-27T01:13:10+00:00",
-    "time_ago": "35m ago"
-  },
-  {
-    "id": "e62220f50691",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Rabinowitz Daniel sold 16,204 shares of Natera, Inc. (NTRA) \u00b7 $250.25/share \u00b7 $4,055,036 total \u00b7 Jun 26 ($8,455,355 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "NTRA"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1857843/000185784326000015/0001857843-26-000015-index.htm",
-    "published_iso": "2026-06-27T01:05:07+00:00",
-    "time_ago": "43m ago"
-  },
-  {
-    "id": "c08e92093087",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Rosenman Herm sold 16,530 shares of Natera, Inc. (NTRA) \u00b7 $250.00/share \u00b7 $4,132,500 total \u00b7 Jun 26",
-    "tags": [],
-    "tickers": [
-      "NTRA"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1604821/000123005726000004/0001230057-26-000004-index.htm",
-    "published_iso": "2026-06-27T01:05:05+00:00",
-    "time_ago": "43m ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "5f62b5ae9362",
@@ -213,7 +222,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/5943472-stars-stripes-ombudsman-lawsuit/",
     "published_iso": "2026-06-26T23:28:45+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "2cff4f1b361a",
@@ -240,7 +249,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/newsletters/energy-environment/5943459-gas-prices-high-still/",
     "published_iso": "2026-06-26T23:14:03+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "3f8b56a8a5a1",
@@ -262,7 +271,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/06/s-1003-signed-into-law/",
     "published_iso": "2026-06-26T20:55:58+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "17084e855b7e",
@@ -288,7 +297,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/trade-topics/enforcement/section-301-investigations/section-301-germanys-persistent-underpayment-innovative-pharmaceutical-products",
     "published_iso": "2026-06-26T19:36:57+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "216d02a54687",
@@ -310,7 +319,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/06/president-trumps-america-first-agenda-scores-major-supreme-court-win-on-tps-termination/",
     "published_iso": "2026-06-26T18:13:13+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "53362cadd01e",
@@ -335,7 +344,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mp76tbiwqc2c",
     "published_iso": "2026-06-26T14:48:08.974000+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "7dc29482cc0f",
@@ -356,7 +365,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12976/uniform-allowances",
     "published_iso": "2026-06-26T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "e6d35be14d33",
@@ -377,7 +386,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12951/process-for-authorizing-seasonal-migratory-game-bird-hunting",
     "published_iso": "2026-06-26T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "045d445a6d73",
@@ -396,7 +405,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12944/safety-zones-recurring-safety-zones-in-captain-of-the-port-northern-great-lakes",
     "published_iso": "2026-06-26T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "c5d6534fe112",
@@ -415,7 +424,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12942/safety-zones-annual-events-requiring-safety-zones-in-the-captain-of-the-port-lake-michigan-zone",
     "published_iso": "2026-06-26T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "fda050e93ea3",
@@ -434,7 +443,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12941/safety-zone-los-angeles-channel-los-angeles-ca",
     "published_iso": "2026-06-26T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "91073d013fe7",
@@ -453,7 +462,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12932/southern-california-annual-firework-events-for-the-los-angeles-long-beach-captain-of-the-port-zone",
     "published_iso": "2026-06-26T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "caa251fe822d",
@@ -474,7 +483,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12927/us-ecology-nevada-inc-high-mercury-subcategory-wastes-land-disposal-restrictions-variance",
     "published_iso": "2026-06-26T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "b765948eddbc",
@@ -493,7 +502,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/usembassyve/status/2070347738378629237#m",
     "published_iso": "2026-06-26T03:25:40+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "8a50a28b66f8",
@@ -667,7 +676,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s192?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-25T02:30:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "a49b64ece837",
@@ -686,7 +695,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s191?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-25T02:09:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "b32bd808a447",
