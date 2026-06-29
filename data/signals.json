@@ -1,6 +1,67 @@
 [
   {
-    "id": "63a735a5d065",
+    "id": "6f668a6ca39e",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Sook Perry A bought 12,235 shares of Nexstar Media Group, Inc. (NXST) \u00b7 $162.26/share \u00b7 $1,985,309 total \u00b7 Jun 29",
+    "tags": [],
+    "tickers": [
+      "NXST"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1250261/000119312526288030/0001193125-26-288030-index.htm",
+    "published_iso": "2026-06-29T17:55:16+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "f18f9c8369af",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "West Alfred P Jr sold 46,162 shares of Sei Investments Co (SEIC) \u00b7 $87.21/share \u00b7 $4,025,788 total \u00b7 Jun 29 ($5,002,998 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "SEIC"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1059374/000162828026045937/0001628280-26-045937-index.htm",
+    "published_iso": "2026-06-29T17:55:05+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "11d6c15e2f48",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Limp Nascimento Rodrigo exercised options for 49,679 shares of Axia Energia S.A. (AXIA-PC) \u00b7 $54.18/share \u00b7 $2,691,608 total \u00b7 Jun 29",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2120238/000121390026073008/0001213900-26-073008-index.htm",
+    "published_iso": "2026-06-29T17:54:16+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "7b8c385394f2",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -8,23 +69,18 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "high",
-    "content": "Supreme Court halts Trump's firing of Fed's Lisa Cook. The Supreme Court blocked President Trump\u2019s firing of Federal Reserve board member Lisa Cook on Monday in a 5-4 vote, ruling she can remain on the job as her legal challenge moves forward.   Trump became the first president to attempt to fire a Fed board member in ",
+    "severity": "critical",
+    "content": "Democratic Project 2029 calls for child social media ban, strict kids safety rules on tech. Democrats working on a policy blueprint ahead of the 2028 presidential election released their kids online safety proposal Monday, calling for a ban on social media for kids under 16 and stronger privacy protections. The \"Kids O",
     "tags": [
-      "Banking",
+      "Regulation",
       "Taxes"
     ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/regulation/court-battles/5935213-supreme-court-federal-reserve-lisa-cook-trump/",
-    "published_iso": "2026-06-29T14:26:27+00:00",
-    "time_ago": "54m ago"
+    "url": "https://thehill.com/policy/technology/5945564-democratic-project-2029-calls-for-child-social-media-ban-strict-kids-safety-rules-on-tech/",
+    "published_iso": "2026-06-29T16:22:01+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "0a503c1e6418",
@@ -47,7 +103,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/29/C1-2026-11094/medicaid-program-community-engagement-requirement-for-certain-individuals",
     "published_iso": "2026-06-29T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "42d0fb628d6d",
@@ -66,7 +122,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/29/C1-2026-10036/real-estate-lending-escrow-accounts",
     "published_iso": "2026-06-29T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "4d624e60b9e0",
@@ -87,7 +143,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13101/medical-devices-orthopedic-devices-classification-of-the-medial-knee-implanted-shock-absorber",
     "published_iso": "2026-06-29T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "2051db6740c7",
@@ -109,7 +165,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13092/technical-guidelines-for-the-production-of-regenerative-agricultural-biofuel-feedstocks",
     "published_iso": "2026-06-29T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "48c06d2d21c9",
@@ -130,7 +186,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13064/airworthiness-directives-airbus-helicopters",
     "published_iso": "2026-06-29T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "4ab5b92ec661",
@@ -151,7 +207,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13063/airworthiness-directives-airbus-helicopters",
     "published_iso": "2026-06-29T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "120dd56799e2",
@@ -170,7 +226,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13062/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-06-29T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "c09f6827def4",
@@ -197,7 +253,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2071367122383499297#m",
     "published_iso": "2026-06-28T22:56:20+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "c73c707a8cf1",
@@ -218,7 +274,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/live-updates/2026/06/28/world-cup-2026/political-spending-tv-adverts-fifa-world-cup-00979364",
     "published_iso": "2026-06-28T21:15:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "8871e87b1c23",
@@ -245,7 +301,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2071327107477541053#m",
     "published_iso": "2026-06-28T20:17:20+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "3f8b56a8a5a1",
@@ -431,7 +487,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h227?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-25T17:29:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "cf50e2364299",
@@ -1006,7 +1062,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-legalizing-premium-health-care-act/",
     "published_iso": "2026-05-20T15:26:37+00:00",
-    "time_ago": "39d ago"
+    "time_ago": "40d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -1027,7 +1083,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "48d ago"
+    "time_ago": "49d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1097,7 +1153,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "69d ago"
+    "time_ago": "70d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1162,7 +1218,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "124d ago"
+    "time_ago": "125d ago"
   },
   {
     "id": "602146d3f751",
@@ -1250,7 +1306,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "157d ago"
+    "time_ago": "158d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1269,7 +1325,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "194d ago"
+    "time_ago": "195d ago"
   },
   {
     "id": "e88c3c11d67a",
@@ -1291,6 +1347,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/983956",
     "published_iso": "2025-10-30T16:06:54+00:00",
-    "time_ago": "241d ago"
+    "time_ago": "242d ago"
   }
 ]
