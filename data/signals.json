@@ -1,67 +1,28 @@
 [
   {
-    "id": "6f668a6ca39e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "4c2bfbd2d9b9",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
     },
-    "severity": "medium",
-    "content": "Sook Perry A bought 12,235 shares of Nexstar Media Group, Inc. (NXST) \u00b7 $162.26/share \u00b7 $1,985,309 total \u00b7 Jun 29",
-    "tags": [],
-    "tickers": [
-      "NXST"
+    "severity": "low",
+    "content": "Fact Sheet: President Donald J. Trump Lowers the Cost of Living by Promoting the Freedom to Fix. EXPANDING AMERICANS\u2019 FREEDOM TO FIX THEIR OWN VEHICLES:&#160;Today, President Donald J. Trump signed a Presidential Memorandum expanding Americans\u2019 freedom to fix their own vehicles. REDUCING REGULATORY BARRIERS TO AFFORDAB",
+    "tags": [
+      "Regulation",
+      "Taxes"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1250261/000119312526288030/0001193125-26-288030-index.htm",
-    "published_iso": "2026-06-29T17:55:16+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "f18f9c8369af",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "West Alfred P Jr sold 46,162 shares of Sei Investments Co (SEIC) \u00b7 $87.21/share \u00b7 $4,025,788 total \u00b7 Jun 29 ($5,002,998 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "SEIC"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1059374/000162828026045937/0001628280-26-045937-index.htm",
-    "published_iso": "2026-06-29T17:55:05+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "11d6c15e2f48",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Limp Nascimento Rodrigo exercised options for 49,679 shares of Axia Energia S.A. (AXIA-PC) \u00b7 $54.18/share \u00b7 $2,691,608 total \u00b7 Jun 29",
-    "tags": [],
     "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2120238/000121390026073008/0001213900-26-073008-index.htm",
-    "published_iso": "2026-06-29T17:54:16+00:00",
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-lowers-the-cost-of-living-by-promoting-the-freedom-to-fix/",
+    "published_iso": "2026-06-29T19:54:29+00:00",
     "time_ago": "2m ago"
   },
   {
-    "id": "7b8c385394f2",
+    "id": "31413f08d104",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -69,17 +30,42 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "critical",
-    "content": "Democratic Project 2029 calls for child social media ban, strict kids safety rules on tech. Democrats working on a policy blueprint ahead of the 2028 presidential election released their kids online safety proposal Monday, calling for a ban on social media for kids under 16 and stronger privacy protections. The \"Kids O",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
+    "severity": "medium",
+    "content": "JetBlue flight reports striking drone while landing at JFK. A JetBlue Airways pilot reported striking a drone while approaching John F. Kennedy International Airport (JFK) on Monday morning, according to the Federal Aviation Administration (FAA). The pilot of JetBlue Flight 948, en route from Harry Reid International A",
+    "tags": [],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/5945564-democratic-project-2029-calls-for-child-social-media-ban-strict-kids-safety-rules-on-tech/",
-    "published_iso": "2026-06-29T16:22:01+00:00",
+    "url": "https://thehill.com/policy/transportation/5946049-drone-jetblue-jfk-las-vegas-flight/",
+    "published_iso": "2026-06-29T18:59:39+00:00",
+    "time_ago": "57m ago"
+  },
+  {
+    "id": "9d296296d10d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Hegseth announces new Defense Policy Board after clearing out previous panel. Defense Secretary Pete Hegseth\u00a0on Monday announced\u00a0the 15 individuals who will make up the new Defense Policy Board, just a little more than a year after the previous panel was cleared out by the Pentagon chief.\u00a0 Robert Lighthizer, who was th",
+    "tags": [
+      "Trade",
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/defense/5946027-hegseth-announces-new-board/",
+    "published_iso": "2026-06-29T18:36:31+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -103,7 +89,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/29/C1-2026-11094/medicaid-program-community-engagement-requirement-for-certain-individuals",
     "published_iso": "2026-06-29T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "42d0fb628d6d",
@@ -122,7 +108,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/29/C1-2026-10036/real-estate-lending-escrow-accounts",
     "published_iso": "2026-06-29T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "4d624e60b9e0",
@@ -143,7 +129,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13101/medical-devices-orthopedic-devices-classification-of-the-medial-knee-implanted-shock-absorber",
     "published_iso": "2026-06-29T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "2051db6740c7",
@@ -165,7 +151,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13092/technical-guidelines-for-the-production-of-regenerative-agricultural-biofuel-feedstocks",
     "published_iso": "2026-06-29T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "48c06d2d21c9",
@@ -186,7 +172,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13064/airworthiness-directives-airbus-helicopters",
     "published_iso": "2026-06-29T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "4ab5b92ec661",
@@ -207,7 +193,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13063/airworthiness-directives-airbus-helicopters",
     "published_iso": "2026-06-29T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "120dd56799e2",
@@ -226,7 +212,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13062/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-06-29T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "c09f6827def4",
@@ -253,7 +239,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2071367122383499297#m",
     "published_iso": "2026-06-28T22:56:20+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "c73c707a8cf1",
@@ -274,7 +260,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/live-updates/2026/06/28/world-cup-2026/political-spending-tv-adverts-fifa-world-cup-00979364",
     "published_iso": "2026-06-28T21:15:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "8871e87b1c23",
@@ -301,7 +287,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2071327107477541053#m",
     "published_iso": "2026-06-28T20:17:20+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "3f8b56a8a5a1",
@@ -349,7 +335,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/trade-topics/enforcement/section-301-investigations/section-301-germanys-persistent-underpayment-innovative-pharmaceutical-products",
     "published_iso": "2026-06-26T19:36:57+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "216d02a54687",
@@ -371,7 +357,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/06/president-trumps-america-first-agenda-scores-major-supreme-court-win-on-tps-termination/",
     "published_iso": "2026-06-26T18:13:13+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "53362cadd01e",
@@ -730,27 +716,6 @@
     "time_ago": "5d ago"
   },
   {
-    "id": "e54e02fa45ba",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "White House Unveils President Trump\u2019s America First Resilience Strategy. The White House today released \u201cPresident Trump\u2019s America First Resilience Strategy,\u201d a bold mandate that denies adversaries the ability to hold America and our core interests at risk. Resilience is a strategic capability that preserves our freedo",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/releases/2026/06/white-house-unveils-president-trumps-america-first-resilience-strategy/",
-    "published_iso": "2026-06-23T21:28:24+00:00",
-    "time_ago": "5d ago"
-  },
-  {
     "id": "0a108dd0f7c1",
     "politician": "Rep. Patrick McHenry",
     "initials": "PM",
@@ -850,7 +815,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/news/pelosi-update/more-perfect-union",
     "published_iso": "2026-06-18T19:41:05+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "beebd907ec49",
@@ -876,7 +841,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618b.htm",
     "published_iso": "2026-06-18T19:00:00+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "831ce6b4e6ca",
@@ -956,7 +921,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
     "published_iso": "2026-06-17T18:00:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "37bfe4923312",
@@ -985,7 +950,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-leads-colleagues-in-urging-treasury-to-preserve-state-authority-under-genius-act/",
     "published_iso": "2026-06-16T19:13:07+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "7efa4c0a4cc7",
@@ -1196,7 +1161,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "95d ago"
+    "time_ago": "96d ago"
   },
   {
     "id": "782af70b6ebe",
@@ -1240,7 +1205,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-announces-2026-service-academy-nominations/",
     "published_iso": "2026-02-18T19:38:51+00:00",
-    "time_ago": "130d ago"
+    "time_ago": "131d ago"
   },
   {
     "id": "00f579ee8f55",
