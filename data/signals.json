@@ -1,5 +1,54 @@
 [
   {
+    "id": "a9b242479d03",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Medicare for All \nStop Wars and Genocide \nTax the billionaires \nWorkers over AI \nChildcare $10 day \nHousing Guarantee \nFree Public College and Trade Schools \nLiving wage \nFederal jobs program \n \nA 21sr century New Deal for America! \n \nI call it a New Economic Patriotism.",
+    "tags": [
+      "Trade",
+      "Healthcare",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/RoKhanna/status/2071807234934190219#m",
+    "published_iso": "2026-06-30T04:05:11+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "329b9decc9ab",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Huang Ying sold 5,566 shares of Legend Biotech Corp (LEGN) \u00b7 $14.78/share \u00b7 $82,265 total \u00b7 Jun 29",
+    "tags": [],
+    "tickers": [
+      "LEGN"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1967360/000196736026000006/0001967360-26-000006-index.htm",
+    "published_iso": "2026-06-30T01:53:13+00:00",
+    "time_ago": "4h ago"
+  },
+  {
     "id": "2c9e782a1169",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
@@ -20,7 +69,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/2080215/000122520826006243/0001225208-26-006243-index.htm",
     "published_iso": "2026-06-30T01:47:15+00:00",
-    "time_ago": "3m ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "7c4542f15c13",
@@ -43,7 +92,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/2124491/000122520826006242/0001225208-26-006242-index.htm",
     "published_iso": "2026-06-30T01:47:14+00:00",
-    "time_ago": "3m ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "ec52a198d128",
@@ -64,7 +113,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1593086/000159308626000012/0001593086-26-000012-index.htm",
     "published_iso": "2026-06-30T01:30:08+00:00",
-    "time_ago": "20m ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "aac5fde162d6",
@@ -85,7 +134,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1593087/000159308726000013/0001593087-26-000013-index.htm",
     "published_iso": "2026-06-30T01:30:06+00:00",
-    "time_ago": "20m ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "6dad0ce1a72b",
@@ -106,7 +155,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1844845/000089914026000691/0000899140-26-000691-index.htm",
     "published_iso": "2026-06-30T01:27:21+00:00",
-    "time_ago": "23m ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "a18b608efedb",
@@ -128,58 +177,45 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/house/5946180-house-passes-kids-online-safety-package/",
     "published_iso": "2026-06-29T23:12:55+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "6h ago"
   },
   {
-    "id": "7c6765873763",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "0037ada2fa46",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Millions dropped ObamaCare plans after subsidies ended. Presented by HealthyWomen {beacon} Healthcare Health Care The Big Story  Millions dropped ACA plans after subsidies ended About four million Americans have dropped out of Affordable Care Act insurance coverage this year as costs soared due to the loss of enhanced ",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/healthcare/5946502-aca-enrollment-drop-premiums-spike/",
-    "published_iso": "2026-06-29T22:39:15+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "8351e1755588",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
     },
     "severity": "high",
-    "content": "SCOTUS spares Lisa Cook. Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  Supreme Court halts Trump\u2019s firing of Lisa Cook The Supreme Court blocked President Trump\u2019s firing of the Federal Reserve board member on Monday in a 5-4 vote",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/business-economy/5946475-scotus-spares-lisa-cook/",
-    "published_iso": "2026-06-29T22:20:00+00:00",
-    "time_ago": "3h ago"
+    "content": "H.R. 7128: TRIA Program Reauthorization Act of 2026. Vote: Passed 373/15",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h229?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-29T23:08:00+00:00",
+    "time_ago": "6h ago"
+  },
+  {
+    "id": "acdae0c91073",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "H.R. 7757: KIDS Act. Vote: Passed 267/117",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h228?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-29T23:01:00+00:00",
+    "time_ago": "6h ago"
   },
   {
     "id": "4c2bfbd2d9b9",
@@ -201,7 +237,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-lowers-the-cost-of-living-by-promoting-the-freedom-to-fix/",
     "published_iso": "2026-06-29T19:54:29+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "0a503c1e6418",
@@ -224,7 +260,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/29/C1-2026-11094/medicaid-program-community-engagement-requirement-for-certain-individuals",
     "published_iso": "2026-06-29T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "42d0fb628d6d",
@@ -243,7 +279,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/29/C1-2026-10036/real-estate-lending-escrow-accounts",
     "published_iso": "2026-06-29T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "4d624e60b9e0",
@@ -264,7 +300,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13101/medical-devices-orthopedic-devices-classification-of-the-medial-knee-implanted-shock-absorber",
     "published_iso": "2026-06-29T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "2051db6740c7",
@@ -286,7 +322,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13092/technical-guidelines-for-the-production-of-regenerative-agricultural-biofuel-feedstocks",
     "published_iso": "2026-06-29T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "48c06d2d21c9",
@@ -307,7 +343,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13064/airworthiness-directives-airbus-helicopters",
     "published_iso": "2026-06-29T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "4ab5b92ec661",
@@ -328,7 +364,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13063/airworthiness-directives-airbus-helicopters",
     "published_iso": "2026-06-29T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "120dd56799e2",
@@ -347,7 +383,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13062/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-06-29T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "c73c707a8cf1",
@@ -482,7 +518,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/usembassyve/status/2070347738378629237#m",
     "published_iso": "2026-06-26T03:25:40+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "8a50a28b66f8",
@@ -631,7 +667,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s192?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-25T02:30:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "a49b64ece837",
@@ -650,7 +686,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s191?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-25T02:09:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "b32bd808a447",
@@ -709,44 +745,6 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s188?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-24T21:24:00+00:00",
-    "time_ago": "5d ago"
-  },
-  {
-    "id": "243130640975",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.R. 915: Small Business Technological Advancement Act. Vote: Passed 414/4",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h226?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-24T21:16:00+00:00",
-    "time_ago": "5d ago"
-  },
-  {
-    "id": "8edf33f62e9c",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.R. 7401: Small Business Lending Fraud Prevention Act. Vote: Passed 415/0",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h225?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-24T21:05:00+00:00",
     "time_ago": "5d ago"
   },
   {
