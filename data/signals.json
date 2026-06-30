@@ -1,6 +1,69 @@
 [
   {
-    "id": "9f81f331f633",
+    "id": "dccc68b9feb2",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Coulter James G sold 202,368 shares of Ceribell, Inc. (CBLL) \u00b7 $20.12/share \u00b7 $4,071,705 total \u00b7 Jun 30",
+    "tags": [],
+    "tickers": [
+      "CBLL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1903793/000199937126013926/0001999371-26-013926-index.htm",
+    "published_iso": "2026-06-30T20:29:47+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "92ff884c75f5",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ahrens Douglas T exercised options for 1,377 shares of Virgin Galactic Holdings, Inc (SPCE) \u00b7 Jun 30 ($2,192 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "SPCE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1706946/000158980026000008/0001589800-26-000008-index.htm",
+    "published_iso": "2026-06-30T20:29:30+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "fe4a16090994",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Chitale Aparna exercised options for 525 shares of Virgin Galactic Holdings, Inc (SPCE) \u00b7 Jun 30 ($838 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "SPCE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1916877/000191687726000008/0001916877-26-000008-index.htm",
+    "published_iso": "2026-06-30T20:29:09+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "141167422275",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,16 +72,16 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Democrats spar with Vought over USAID cuts, federal grants in tense hearing. White House Office of Management and Budget (OMB) Director Russell Vought clashed with House Democrats on Tuesday over the administration\u2019s spending cuts to foreign aid and grant approvals. The heated exchanges occurred during Vought\u2019s testimo",
+    "content": "UK government may \u2018intervene\u2019 in Paramount\u2019s $110 billion takeover of Warner Bros. Lisa Nandy, the British secretary of State for Culture, Media and Sport, said Tuesday she may \u201cintervene\u201d in Paramount Skydance\u2019s acquisition of Warner Bros. Discovery.\u00a0 In a statement, Nandy said she wrote letters to both companies stat",
     "tags": [
       "Regulation"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5947905-vought-clashes-democrats-spending-cuts/",
-    "published_iso": "2026-06-30T17:51:13+00:00",
-    "time_ago": "36m ago"
+    "url": "https://thehill.com/business/5947979-uk-lisa-nandy-paramount-warner-bros/",
+    "published_iso": "2026-06-30T19:16:29+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "2c1166c01a0e",
@@ -41,7 +104,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2071988316694520024#m",
     "published_iso": "2026-06-30T16:04:45+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "b0317f8d2396",
@@ -68,7 +131,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/patrickjwitt/status/2071964944434647520#m",
     "published_iso": "2026-06-30T14:31:52+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "e418f52c7ed5",
@@ -96,7 +159,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2071957292606505058#m",
     "published_iso": "2026-06-30T14:01:28+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "a677483391d0",
@@ -115,84 +178,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm",
     "published_iso": "2026-06-30T14:00:00+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "b13a2220b162",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Proud to support  @AishaforMI  who is fighting for the working class, Medicare for All, and human rights! \n \n \n Aisha Farooqi (@AishaforMI) \n \n Grateful to have congressman  @RoKhanna  join us on the campaign trail here in Michigan!  \n \nThank you to everyone that joined us! \n \n\n \n\n \n\n\n \n \n\u2014   https://nitter.net/Aishafo",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/RoKhanna/status/2071940801848881439#m",
-    "published_iso": "2026-06-30T12:55:56+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "b8b840a73989",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "critical",
-    "content": "Workers need to share in the profits. Right now, $530 billion of $563 billion in profits of top companies with UAW workers went on stock buybacks &amp; dividends instead of to employees. Pete Stavros has brilliant initiatives on worker ownership. \n \n\n \n \n SightBringer (@_The_Prophet__) \n \n \u26a1\ufe0fThe worker has become the l",
-    "tags": [
-      "Semiconductors",
-      "Energy",
-      "Healthcare",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/RoKhanna/status/2071938938437075101#m",
-    "published_iso": "2026-06-30T12:48:32+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "a9b242479d03",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Medicare for All \nStop Wars and Genocide \nTax the billionaires \nWorkers over AI \nChildcare $10 day \nHousing Guarantee \nFree Public College and Trade Schools \nLiving wage \nFederal jobs program \n \nA 21sr century New Deal for America! \n \nI call it a New Economic Patriotism.",
-    "tags": [
-      "Trade",
-      "Healthcare",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/RoKhanna/status/2071807234934190219#m",
-    "published_iso": "2026-06-30T04:05:11+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "05c008aece08",
@@ -211,7 +197,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/30/C1-2026-09289/signatures-on-immigration-benefit-requests",
     "published_iso": "2026-06-30T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "2a0b804a9a39",
@@ -234,7 +220,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/30/2026-13218/airworthiness-directives-the-boeing-company-airplanes",
     "published_iso": "2026-06-30T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "0037ada2fa46",
@@ -253,7 +239,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h229?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-29T23:08:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "acdae0c91073",
@@ -272,7 +258,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h228?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-29T23:01:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "4c2bfbd2d9b9",
@@ -294,7 +280,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-lowers-the-cost-of-living-by-promoting-the-freedom-to-fix/",
     "published_iso": "2026-06-29T19:54:29+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "3f8b56a8a5a1",
@@ -342,7 +328,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/trade-topics/enforcement/section-301-investigations/section-301-germanys-persistent-underpayment-innovative-pharmaceutical-products",
     "published_iso": "2026-06-26T19:36:57+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "216d02a54687",
@@ -635,7 +621,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260624a.htm",
     "published_iso": "2026-06-24T20:00:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "0a108dd0f7c1",
@@ -737,7 +723,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/news/pelosi-update/more-perfect-union",
     "published_iso": "2026-06-18T19:41:05+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "beebd907ec49",
@@ -763,7 +749,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618b.htm",
     "published_iso": "2026-06-18T19:00:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "831ce6b4e6ca",
@@ -846,7 +832,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-leads-colleagues-in-urging-treasury-to-preserve-state-authority-under-genius-act/",
     "published_iso": "2026-06-16T19:13:07+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "7efa4c0a4cc7",
@@ -1057,7 +1043,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "96d ago"
+    "time_ago": "97d ago"
   },
   {
     "id": "782af70b6ebe",
@@ -1101,7 +1087,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-announces-2026-service-academy-nominations/",
     "published_iso": "2026-02-18T19:38:51+00:00",
-    "time_ago": "131d ago"
+    "time_ago": "132d ago"
   },
   {
     "id": "00f579ee8f55",
