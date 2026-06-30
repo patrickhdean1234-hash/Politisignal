@@ -1,5 +1,47 @@
 [
   {
+    "id": "817d47e32bb9",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Keyter Charl bought 200,000 shares of Sibanye Stillwater Ltd (SBYSF) \u00b7 $2.24/share \u00b7 $448,000 total \u00b7 Jun 30",
+    "tags": [],
+    "tickers": [
+      "SBYSF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2115714/000211571426000009/0002115714-26-000009-index.htm",
+    "published_iso": "2026-06-30T11:52:19+00:00",
+    "time_ago": "8m ago"
+  },
+  {
+    "id": "73ba24fdc9c0",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Remember Ben Franklin's other legacy. In the crowded wooden Philadelphia of the 1730s, one careless act could take a block of homes, shops, and lives before morning. A shovel of coals carried upstairs, an unclean chimney, or a poorly watched hearth could turn a private mistake into a public disaster. In February 1735, ",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/campaign/5945915-prevention-better-reaction-franklin/",
+    "published_iso": "2026-06-30T11:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "a9b242479d03",
     "politician": "Rep. Ro Khanna",
     "initials": "RK",
@@ -25,7 +67,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2071807234934190219#m",
     "published_iso": "2026-06-30T04:05:11+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "05c008aece08",
@@ -44,7 +86,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/30/C1-2026-09289/signatures-on-immigration-benefit-requests",
     "published_iso": "2026-06-30T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "2a0b804a9a39",
@@ -67,159 +109,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/30/2026-13218/airworthiness-directives-the-boeing-company-airplanes",
     "published_iso": "2026-06-30T04:00:00+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "329b9decc9ab",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Huang Ying sold 5,566 shares of Legend Biotech Corp (LEGN) \u00b7 $14.78/share \u00b7 $82,265 total \u00b7 Jun 29",
-    "tags": [],
-    "tickers": [
-      "LEGN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1967360/000196736026000006/0001967360-26-000006-index.htm",
-    "published_iso": "2026-06-30T01:53:13+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "2c9e782a1169",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Cho Young received 323,750 shares of Stablecoinx Inc. (USDE) \u00b7 Jun 29 ($0 across all blocks)",
-    "tags": [
-      "Crypto"
-    ],
-    "tickers": [
-      "USDE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2080215/000122520826006243/0001225208-26-006243-index.htm",
-    "published_iso": "2026-06-30T01:47:15+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "7c4542f15c13",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Aly Ahmed J. received 52,500 shares of Stablecoinx Inc. (USDE) \u00b7 Jun 29 ($0 across all blocks)",
-    "tags": [
-      "Crypto"
-    ],
-    "tickers": [
-      "USDE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2124491/000122520826006242/0001225208-26-006242-index.htm",
-    "published_iso": "2026-06-30T01:47:14+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "ec52a198d128",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Krasney Karen exercised options for 24,100 shares of Capricor Therapeutics, Inc. (CAPR) \u00b7 $3.18/share \u00b7 $76,638 total \u00b7 Jun 29 ($808,796 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CAPR"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1593086/000159308626000012/0001593086-26-000012-index.htm",
-    "published_iso": "2026-06-30T01:30:08+00:00",
     "time_ago": "8h ago"
-  },
-  {
-    "id": "aac5fde162d6",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Bergmann Anthony exercised options for 24,100 shares of Capricor Therapeutics, Inc. (CAPR) \u00b7 $3.18/share \u00b7 $76,638 total \u00b7 Jun 29 ($808,796 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CAPR"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1593087/000159308726000013/0001593087-26-000013-index.htm",
-    "published_iso": "2026-06-30T01:30:06+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "6dad0ce1a72b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Insight Holdings Group, Llc converted 732,444 shares of Hinge Health, Inc. (HNGE) \u00b7 Jun 29 ($121,489,333 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "HNGE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1844845/000089914026000691/0000899140-26-000691-index.htm",
-    "published_iso": "2026-06-30T01:27:21+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "a18b608efedb",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "House passes kids online safety package despite watchdog pushback. The House passed a sprawling package of kids online safety bills Monday night, marking the first time a version of the landmark Kids Online Safety Act (KOSA) made it out of the lower chamber. The House passed the Kids Internet and Digital Safety (KIDS) ",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5946180-house-passes-kids-online-safety-package/",
-    "published_iso": "2026-06-29T23:12:55+00:00",
-    "time_ago": "10h ago"
   },
   {
     "id": "0037ada2fa46",
@@ -238,7 +128,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h229?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-29T23:08:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "acdae0c91073",
@@ -257,7 +147,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h228?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-29T23:01:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "4c2bfbd2d9b9",
@@ -279,7 +169,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-lowers-the-cost-of-living-by-promoting-the-freedom-to-fix/",
     "published_iso": "2026-06-29T19:54:29+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "c73c707a8cf1",
