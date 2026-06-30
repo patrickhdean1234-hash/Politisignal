@@ -1,44 +1,125 @@
 [
   {
-    "id": "817d47e32bb9",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "b0317f8d2396",
+    "politician": "Sen. Cynthia Lummis",
+    "initials": "CL",
+    "role": "Senate Banking Subcommittee (Crypto)",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Keyter Charl bought 200,000 shares of Sibanye Stillwater Ltd (SBYSF) \u00b7 $2.24/share \u00b7 $448,000 total \u00b7 Jun 30",
-    "tags": [],
-    "tickers": [
-      "SBYSF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2115714/000211571426000009/0002115714-26-000009-index.htm",
-    "published_iso": "2026-06-30T11:52:19+00:00",
-    "time_ago": "8m ago"
-  },
-  {
-    "id": "73ba24fdc9c0",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#1a1a2a",
+      "fg": "#c4b5fd"
     },
     "severity": "medium",
-    "content": "Remember Ben Franklin's other legacy. In the crowded wooden Philadelphia of the 1730s, one careless act could take a block of homes, shops, and lives before morning. A shovel of coals carried upstairs, an unclean chimney, or a poorly watched hearth could turn a private mistake into a public disaster. In February 1735, ",
+    "content": "Another example of how clear rules of the road can unlock massive value. What GENIUS did for stablecoins, the Clarity Act will do for all other digital assets. \n \n \n Open Standard (@openstandard) \n \n Introducing Open USD: a stablecoin built for the internet economy, designed by the businesses growing it. \n \n joinopenst",
     "tags": [
+      "Crypto",
+      "Regulation"
+    ],
+    "tickers": [
+      "BTC",
+      "ETH",
+      "COIN",
+      "XRP"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/patrickjwitt/status/2071964944434647520#m",
+    "published_iso": "2026-06-30T14:31:52+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "e418f52c7ed5",
+    "politician": "Rep. Mike Johnson",
+    "initials": "MJ",
+    "role": "Speaker of the House",
+    "color": {
+      "bg": "#2a1a1a",
+      "fg": "#fbbf24"
+    },
+    "severity": "critical",
+    "content": "This week marks ONE YEAR since the Working Families Tax Cuts became law and started delivering REAL RELIEF for hardworking Americans across the country.  \n \nHere are the results: \n\u2705 The BIGGEST tax cuts in U.S. history \n\u2705 A Strong and SECURE border  \n\u2705 Safer cities  \n\u2705 Historic investment in America's military  \n\u2705 Root",
+    "tags": [
+      "Defense",
+      "Regulation",
       "Taxes"
     ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SpeakerJohnson/status/2071957292606505058#m",
+    "published_iso": "2026-06-30T14:01:28+00:00",
+    "time_ago": "36m ago"
+  },
+  {
+    "id": "a677483391d0",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies. Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
+    "tags": [],
     "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/campaign/5945915-prevention-better-reaction-franklin/",
-    "published_iso": "2026-06-30T11:00:00+00:00",
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm",
+    "published_iso": "2026-06-30T14:00:00+00:00",
+    "time_ago": "37m ago"
+  },
+  {
+    "id": "b13a2220b162",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Proud to support  @AishaforMI  who is fighting for the working class, Medicare for All, and human rights! \n \n \n Aisha Farooqi (@AishaforMI) \n \n Grateful to have congressman  @RoKhanna  join us on the campaign trail here in Michigan!  \n \nThank you to everyone that joined us! \n \n\n \n\n \n\n\n \n \n\u2014   https://nitter.net/Aishafo",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/RoKhanna/status/2071940801848881439#m",
+    "published_iso": "2026-06-30T12:55:56+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "b8b840a73989",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "critical",
+    "content": "Workers need to share in the profits. Right now, $530 billion of $563 billion in profits of top companies with UAW workers went on stock buybacks &amp; dividends instead of to employees. Pete Stavros has brilliant initiatives on worker ownership. \n \n\n \n \n SightBringer (@_The_Prophet__) \n \n \u26a1\ufe0fThe worker has become the l",
+    "tags": [
+      "Semiconductors",
+      "Energy",
+      "Healthcare",
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/RoKhanna/status/2071938938437075101#m",
+    "published_iso": "2026-06-30T12:48:32+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -67,7 +148,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2071807234934190219#m",
     "published_iso": "2026-06-30T04:05:11+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "05c008aece08",
@@ -86,7 +167,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/30/C1-2026-09289/signatures-on-immigration-benefit-requests",
     "published_iso": "2026-06-30T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "2a0b804a9a39",
@@ -109,7 +190,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/30/2026-13218/airworthiness-directives-the-boeing-company-airplanes",
     "published_iso": "2026-06-30T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "0037ada2fa46",
@@ -128,7 +209,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h229?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-29T23:08:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "acdae0c91073",
@@ -147,7 +228,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h228?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-29T23:01:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "4c2bfbd2d9b9",
@@ -169,28 +250,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-lowers-the-cost-of-living-by-promoting-the-freedom-to-fix/",
     "published_iso": "2026-06-29T19:54:29+00:00",
-    "time_ago": "16h ago"
-  },
-  {
-    "id": "c73c707a8cf1",
-    "politician": "Politico",
-    "initials": "PO",
-    "role": "Political News",
-    "color": {
-      "bg": "#1a0a0a",
-      "fg": "#fca5a5"
-    },
-    "severity": "medium",
-    "content": "AI regulation group is biggest spender on World Cup TV ads. Groups aligned with Sen. Susan Collins also spent large sums for visibility during U.S. matches \u2014 as campaigns and committees drop more than $700K",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "politico",
-    "platform": "Politico",
-    "url": "https://www.politico.com/live-updates/2026/06/28/world-cup-2026/political-spending-tv-adverts-fifa-world-cup-00979364",
-    "published_iso": "2026-06-28T21:15:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "3f8b56a8a5a1",
@@ -379,32 +439,6 @@
     "time_ago": "4d ago"
   },
   {
-    "id": "cf50e2364299",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.. Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm",
-    "published_iso": "2026-06-25T15:00:00+00:00",
-    "time_ago": "4d ago"
-  },
-  {
     "id": "1c1e70c8629e",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -427,6 +461,32 @@
     "source": "fed_reserve",
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
+    "published_iso": "2026-06-25T15:00:00+00:00",
+    "time_ago": "4d ago"
+  },
+  {
+    "id": "cf50e2364299",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.. Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm",
     "published_iso": "2026-06-25T15:00:00+00:00",
     "time_ago": "4d ago"
   },
@@ -583,7 +643,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/PatrickMcHenry/status/2069055774643409185#m",
     "published_iso": "2026-06-22T13:51:52+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "b944112ab796",
@@ -609,7 +669,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm",
     "published_iso": "2026-06-22T12:45:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "67b7239dfcea",
@@ -638,6 +698,27 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-announces-initiation-section-301-investigation-germanys-persistent-underpayment-innovative",
     "published_iso": "2026-06-19T00:36:30+00:00",
+    "time_ago": "11d ago"
+  },
+  {
+    "id": "d7e6bf88263a",
+    "politician": "Rep. Nancy Pelosi",
+    "initials": "NP",
+    "role": "House Democratic Leader",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "A More Perfect Union. A More Perfect Union \n\n               A Home for Hope  This week, I joined President Barack Obama, First Lady Michelle Obama and leaders from around the world for the opening of the Obama Presidential Center on Chicago\u2019s South Side\u2014a powerful new space dedicated not simply to preserving history, b",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "http://pelosi.house.gov/news/pelosi-update/more-perfect-union",
+    "published_iso": "2026-06-18T19:41:05+00:00",
     "time_ago": "11d ago"
   },
   {
@@ -718,32 +799,6 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm",
     "published_iso": "2026-06-18T13:00:00+00:00",
-    "time_ago": "11d ago"
-  },
-  {
-    "id": "dcd00aa841df",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "Federal Reserve issues FOMC statement. Federal Reserve issues FOMC statement",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
-    "published_iso": "2026-06-17T18:00:00+00:00",
     "time_ago": "12d ago"
   },
   {
@@ -802,7 +857,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-sullivan-lead-colleagues-in-urging-bank-regulators-to-establish-fair-capital-standards-for-digital-assets/",
     "published_iso": "2026-06-04T14:07:24+00:00",
-    "time_ago": "25d ago"
+    "time_ago": "26d ago"
   },
   {
     "id": "ddb58e0107d1",
@@ -897,7 +952,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "55d ago"
+    "time_ago": "56d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -965,7 +1020,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "91d ago"
+    "time_ago": "92d ago"
   },
   {
     "id": "d52e199aa058",
@@ -1049,7 +1104,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "136d ago"
+    "time_ago": "137d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1068,7 +1123,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "136d ago"
+    "time_ago": "137d ago"
   },
   {
     "id": "c3776ad92a42",
