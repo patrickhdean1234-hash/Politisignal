@@ -1,6 +1,6 @@
 [
   {
-    "id": "61f52bae6284",
+    "id": "a7c363c2acb4",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Gracey Craig sold 2,084 shares of Omada Health, Inc. (OMDA) \u00b7 $20.00/share \u00b7 $41,680 total \u00b7 Jun 30 ($85,423 across all blocks)",
+    "content": "Chan Jeffrey exercised options for 588 shares of Mcewen Inc. (MUX) \u00b7 Jun 30 ($0 across all blocks)",
     "tags": [],
     "tickers": [
-      "OMDA"
+      "MUX"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2021724/000161071726000307/0001610717-26-000307-index.htm",
-    "published_iso": "2026-06-30T23:09:32+00:00",
-    "time_ago": "8m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2012198/000110465926079476/0001104659-26-079476-index.htm",
+    "published_iso": "2026-07-01T01:16:56+00:00",
+    "time_ago": "18m ago"
   },
   {
-    "id": "dc6440d9cfef",
+    "id": "353f05c45f8f",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,19 +30,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Cook Steven L. sold 33,000 shares of Omada Health, Inc. (OMDA) \u00b7 $19.89/share \u00b7 $656,449 total \u00b7 Jun 30 ($1,034,616 across all blocks)",
+    "content": "Ball Ian J exercised options for 160 shares of Mcewen Inc. (MUX) \u00b7 Jun 30",
     "tags": [],
     "tickers": [
-      "OMDA"
+      "MUX"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2067605/000161071726000306/0001610717-26-000306-index.htm",
-    "published_iso": "2026-06-30T23:09:01+00:00",
-    "time_ago": "8m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1443094/000110465926079475/0001104659-26-079475-index.htm",
+    "published_iso": "2026-07-01T01:15:25+00:00",
+    "time_ago": "20m ago"
   },
   {
-    "id": "3b1f92d82ab1",
+    "id": "837b4a951a41",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -51,58 +51,63 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Mehrotra Sanjay sold 496 shares of Micron Technology Inc (MU) \u00b7 $1,170.60/share \u00b7 $580,618 total \u00b7 Jun 30 ($13,573,977 across all blocks)",
+    "content": "Shaver William M exercised options for 2,100 shares of Mcewen Inc. (MUX) \u00b7 Jun 30 ($0 across all blocks)",
     "tags": [],
     "tickers": [
-      "MU"
+      "MUX"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1242654/000124265426000012/0001242654-26-000012-index.htm",
-    "published_iso": "2026-06-30T23:06:59+00:00",
-    "time_ago": "10m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1887702/000110465926079472/0001104659-26-079472-index.htm",
+    "published_iso": "2026-07-01T01:11:53+00:00",
+    "time_ago": "23m ago"
   },
   {
-    "id": "afa0f543d48b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "14d82474aab0",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Mehrotra Sanjay sold 243 shares of Micron Technology Inc (MU) \u00b7 $1,128.41/share \u00b7 $274,204 total \u00b7 Jun 30 ($32,761,315 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "MU"
+    "severity": "high",
+    "content": "Trump administration lifts limits on Anthropic\u2019s new AI models. The Trump administration lifted Tuesday the restrictions placed on Anthropic's new Fable and Mythos models, restoring access just over two weeks since the export controls on the artificial intelligence models were put in place.  Commerce Secretary Howard L",
+    "tags": [
+      "Trade"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1242654/000124265426000011/0001242654-26-000011-index.htm",
-    "published_iso": "2026-06-30T23:06:07+00:00",
-    "time_ago": "11m ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/5948719-anthropic-fable-mythos-models-restored/",
+    "published_iso": "2026-07-01T00:15:13+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "33074be70f83",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "f61dc8a9a571",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Rhodes Jason P sold 162,954 shares of Dyne Therapeutics, Inc. (DYN) \u00b7 $21.28/share \u00b7 $3,467,661 total \u00b7 Jun 30 ($10,712,550 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "DYN"
+    "content": "Trump discloses more than $500 million from crypto sale. President Trump raked in more than $500 million from his cryptocurrency venture he co-founded with his sons, according to his financial disclosures released on Tuesday. Trump and his sons launched the crypto venture known as World Liberty Financial in the fall of",
+    "tags": [
+      "Crypto",
+      "Insider Trade"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1818794/000157701426000012/0001577014-26-000012-index.htm",
-    "published_iso": "2026-06-30T23:05:14+00:00",
-    "time_ago": "12m ago"
+    "tickers": [
+      "BTC",
+      "ETH",
+      "COIN"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5948701-trump-crypto-venture-profits/",
+    "published_iso": "2026-06-30T23:59:46+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "d72fd3e7f36e",
@@ -129,26 +134,26 @@
     "platform": "The Hill",
     "url": "https://thehill.com/newsletters/healthcare/5948600-temporary-medicare-glp-1-coverage/",
     "published_iso": "2026-06-30T22:49:07+00:00",
-    "time_ago": "28m ago"
+    "time_ago": "2h ago"
   },
   {
-    "id": "42fc4becb059",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "2af5e3686b5b",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
     },
-    "severity": "medium",
-    "content": "AI, deepfakes used in 12 percent of successful scams: Survey. A new report released on Tuesday found that 12 percent of successful scams last year involved artificial intelligence or deepfakes.\u00a0 The analysis, which was conducted jointly by Gallup and the Stop Scams Alliance, acknowledged that this reported number could",
+    "severity": "high",
+    "content": "On Agreeing to the Resolution: H RES 1399 Directing the Committee on Ethics to preserve and publicly release records relating to monetary settlements involving acts of sexual harassment. Vote: Passed 420/0",
     "tags": [],
     "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/5948497-ai-deepfakes-scams-report/",
-    "published_iso": "2026-06-30T21:51:37+00:00",
-    "time_ago": "1h ago"
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h233?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-06-30T21:46:00+00:00",
+    "time_ago": "3h ago"
   },
   {
     "id": "feba95861498",
@@ -167,7 +172,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h232?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-30T18:26:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "1534334a71a5",
@@ -188,7 +193,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h231?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-30T18:14:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "7048f00c649b",
@@ -209,7 +214,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h230?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-30T18:04:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "2c1166c01a0e",
@@ -232,7 +237,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2071988316694520024#m",
     "published_iso": "2026-06-30T16:04:45+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "b0317f8d2396",
@@ -259,7 +264,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/patrickjwitt/status/2071964944434647520#m",
     "published_iso": "2026-06-30T14:31:52+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "e418f52c7ed5",
@@ -287,7 +292,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2071957292606505058#m",
     "published_iso": "2026-06-30T14:01:28+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "a677483391d0",
@@ -306,7 +311,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm",
     "published_iso": "2026-06-30T14:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "05c008aece08",
@@ -325,7 +330,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/30/C1-2026-09289/signatures-on-immigration-benefit-requests",
     "published_iso": "2026-06-30T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "2a0b804a9a39",
@@ -348,7 +353,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/06/30/2026-13218/airworthiness-directives-the-boeing-company-airplanes",
     "published_iso": "2026-06-30T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "0037ada2fa46",
@@ -409,6 +414,27 @@
     "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-lowers-the-cost-of-living-by-promoting-the-freedom-to-fix/",
     "published_iso": "2026-06-29T19:54:29+00:00",
     "time_ago": "1d ago"
+  },
+  {
+    "id": "c73c707a8cf1",
+    "politician": "Politico",
+    "initials": "PO",
+    "role": "Political News",
+    "color": {
+      "bg": "#1a0a0a",
+      "fg": "#fca5a5"
+    },
+    "severity": "medium",
+    "content": "AI regulation group is biggest spender on World Cup TV ads. Groups aligned with Sen. Susan Collins also spent large sums for visibility during U.S. matches \u2014 as campaigns and committees drop more than $700K",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "politico",
+    "platform": "Politico",
+    "url": "https://www.politico.com/live-updates/2026/06/28/world-cup-2026/political-spending-tv-adverts-fifa-world-cup-00979364",
+    "published_iso": "2026-06-28T21:15:00+00:00",
+    "time_ago": "2d ago"
   },
   {
     "id": "3f8b56a8a5a1",
@@ -648,25 +674,6 @@
     "time_ago": "5d ago"
   },
   {
-    "id": "a49b64ece837",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "Motion to Invoke Cloture: Matthew A. Schwartz, to be U.S. Circuit Judge for the Second Circuit: Matthew A. Schwartz, of New York, to be United States Circuit Judge for the Second Circuit. Vote: Cloture Motion Agreed to 52/45",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s191?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-06-25T02:09:00+00:00",
-    "time_ago": "5d ago"
-  },
-  {
     "id": "0e2c47821b03",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -771,7 +778,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-announces-initiation-section-301-investigation-germanys-persistent-underpayment-innovative",
     "published_iso": "2026-06-19T00:36:30+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "d7e6bf88263a",
