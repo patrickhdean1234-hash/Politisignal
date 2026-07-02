@@ -1,24 +1,155 @@
 [
   {
-    "id": "82506ec75468",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "130526c0ce9f",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Trump accounts launch soon. Can you still register your child?. Trump accounts will soon accept their first contributions",
+    "content": "Urist Marshall sold 9,099 shares of Royalty Pharma Plc (RPRX) \u00b7 $55.88/share \u00b7 $508,454 total \u00b7 Jul 2",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "RPRX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1838139/000183813926000022/0001838139-26-000022-index.htm",
+    "published_iso": "2026-07-02T20:10:26+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "0ff720a9f8d3",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hanson Jennifer Ladd withheld (tax) 1,039 shares of Cargurus, Inc. (CARG) \u00b7 $34.09/share \u00b7 $35,420 total \u00b7 Jul 2 ($163,672 across all blocks)",
     "tags": [
       "Taxes"
     ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5951755-trump-accounts-launch-soon-can-you-still-register-your-child/",
-    "published_iso": "2026-07-02T18:14:43+00:00",
-    "time_ago": "34m ago"
+    "tickers": [
+      "CARG"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2039704/000149425926000050/0001494259-26-000050-index.htm",
+    "published_iso": "2026-07-02T20:10:24+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "7f89af98a519",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Jain Amit S exercised options for 135 shares of Zspace, Inc. (ZSPC) \u00b7 Jul 2",
+    "tags": [],
+    "tickers": [
+      "ZSPC"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2043427/000204342726000006/0002043427-26-000006-index.htm",
+    "published_iso": "2026-07-02T20:10:23+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "a85c47b50532",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Santos Da Silva Jorge sold 47,775 shares of Moonlake Immunotherapeutics (MLTX) \u00b7 $20.03/share \u00b7 $956,933 total \u00b7 Jul 2",
+    "tags": [],
+    "tickers": [
+      "MLTX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1920509/000121390026074964/0001213900-26-074964-index.htm",
+    "published_iso": "2026-07-02T20:10:21+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "acb23cf79d08",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Leung Sandra received 6,845 shares of Bausch Health Companies Inc. (BHC) \u00b7 $4.93/share \u00b7 $33,746 total \u00b7 Jul 2",
+    "tags": [],
+    "tickers": [
+      "BHC"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1199294/000088559026000091/0000885590-26-000091-index.htm",
+    "published_iso": "2026-07-02T20:10:20+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "0238bca813db",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Baltimore Thomas J Jr received 1,375 shares of Comcast Corp (CCZ) \u00b7 Jul 2",
+    "tags": [],
+    "tickers": [
+      "CCZ",
+      "CMCSA"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1390946/000122520826006365/0001225208-26-006365-index.htm",
+    "published_iso": "2026-07-02T20:10:19+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "14b67cb136e1",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hendrickson Gary E received 492 shares of Polaris Inc. (PII) \u00b7 $64.73/share \u00b7 $31,875 total \u00b7 Jul 2",
+    "tags": [],
+    "tickers": [
+      "PII"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1331749/000162828026046893/0001628280-26-046893-index.htm",
+    "published_iso": "2026-07-02T20:10:15+00:00",
+    "time_ago": "just now"
   },
   {
     "id": "0349e31b4e16",
@@ -39,7 +170,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/OfTheBraveUSA/status/2072725021336752499#m",
     "published_iso": "2026-07-02T16:52:09+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "659d472bb278",
@@ -65,7 +196,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260702a.htm",
     "published_iso": "2026-07-02T15:00:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "6afbd2893bc9",
@@ -86,7 +217,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13491/safety-zones-northern-california-and-lake-tahoe-area-annual-fireworks-events",
     "published_iso": "2026-07-02T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "a729ae4eab5a",
@@ -105,7 +236,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13487/safety-zone-san-pedro-channel-newport-beach-ca",
     "published_iso": "2026-07-02T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "f4c678c1fcfb",
@@ -124,7 +255,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13484/safety-zone-isthmus-cove-santa-catalina-island-ca",
     "published_iso": "2026-07-02T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "22237ec6bf2d",
@@ -143,7 +274,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13483/safety-zone-san-pedro-bay-los-angeles-ca",
     "published_iso": "2026-07-02T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "bdebd2640a35",
@@ -162,7 +293,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13482/safety-zone-san-pedro-bay-long-beach-ca",
     "published_iso": "2026-07-02T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "3fbd49fb083b",
@@ -183,7 +314,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13481/airworthiness-directives-rolls-royce-deutschland-ltd-and-co-kg-engines",
     "published_iso": "2026-07-02T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "59128b24c015",
@@ -202,7 +333,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13476/airworthiness-directives-gulfstream-aerospace-corporation-airplanes",
     "published_iso": "2026-07-02T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "2a0b804a9a39",
@@ -223,7 +354,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13475/airworthiness-directives-the-boeing-company-airplanes",
     "published_iso": "2026-07-02T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "3c11c54d1e1a",
@@ -244,7 +375,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2072459293966692365#m",
     "published_iso": "2026-07-01T23:16:14+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "064f23ae3c5c",
@@ -272,7 +403,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenLummis/status/2072450008494858301#m",
     "published_iso": "2026-07-01T22:39:20+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "41e3e029b7e1",
@@ -487,7 +618,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-lowers-the-cost-of-living-by-promoting-the-freedom-to-fix/",
     "published_iso": "2026-06-29T19:54:29+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "3f8b56a8a5a1",
@@ -535,7 +666,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/trade-topics/enforcement/section-301-investigations/section-301-germanys-persistent-underpayment-innovative-pharmaceutical-products",
     "published_iso": "2026-06-26T19:36:57+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "216d02a54687",
@@ -723,7 +854,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260624a.htm",
     "published_iso": "2026-06-24T20:00:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "b944112ab796",
@@ -799,7 +930,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/news/pelosi-update/more-perfect-union",
     "published_iso": "2026-06-18T19:41:05+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "beebd907ec49",
@@ -825,7 +956,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618b.htm",
     "published_iso": "2026-06-18T19:00:00+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "37bfe4923312",
@@ -854,7 +985,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-leads-colleagues-in-urging-treasury-to-preserve-state-authority-under-genius-act/",
     "published_iso": "2026-06-16T19:13:07+00:00",
-    "time_ago": "15d ago"
+    "time_ago": "16d ago"
   },
   {
     "id": "7efa4c0a4cc7",
@@ -1065,7 +1196,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "98d ago"
+    "time_ago": "99d ago"
   },
   {
     "id": "782af70b6ebe",
@@ -1109,7 +1240,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-announces-2026-service-academy-nominations/",
     "published_iso": "2026-02-18T19:38:51+00:00",
-    "time_ago": "133d ago"
+    "time_ago": "134d ago"
   },
   {
     "id": "00f579ee8f55",
