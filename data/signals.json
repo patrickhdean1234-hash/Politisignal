@@ -1,6 +1,6 @@
 [
   {
-    "id": "4f5627149516",
+    "id": "a032dab55c42",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,60 +9,65 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Mccullough Gary E received 592 shares of Commercial Metals Co (CMC) \u00b7 $61.21/share \u00b7 $36,236 total \u00b7 Jul 2",
+    "content": "Johnson Mercedes sold 167 shares of Teradyne, Inc (TER) \u00b7 $460.00/share \u00b7 $76,820 total \u00b7 Jul 2",
+    "tags": [],
+    "tickers": [
+      "TER"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1225110/000090445426000390/0000904454-26-000390-index.htm",
+    "published_iso": "2026-07-02T17:11:15+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "b59fb4d7f41c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Larossa Ralph A sold 2,083 shares of Public Service Enterprise Group Inc (PEG) \u00b7 $80.51/share \u00b7 $167,704 total \u00b7 Jul 2",
+    "tags": [],
+    "tickers": [
+      "PEG"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1377477/000122520826006359/0001225208-26-006359-index.htm",
+    "published_iso": "2026-07-02T17:06:18+00:00",
+    "time_ago": "6m ago"
+  },
+  {
+    "id": "1cb38a732f8c",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Wall Street Journal: Trump family 'cashing in on the presidency in big and sketchy ways'. The Wall Street Journal's editorial board published a Wednesday op-ed slamming President Trump and his family for \u201ccashing in on the presidency\u201d after his financial disclosures showed the president brought in $2 billion last year ",
     "tags": [
-      "Big Tech"
+      "Crypto",
+      "Banking",
+      "Regulation"
     ],
     "tickers": [
-      "CMC"
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1163212/000116321226000010/0001163212-26-000010-index.htm",
-    "published_iso": "2026-07-02T15:28:12+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "13959372daac",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Vogt Mark A received 321 shares of Republic Bancorp Inc /Ky/ (RBCAA) \u00b7 $90.43/share \u00b7 $29,000 total \u00b7 Jul 2",
-    "tags": [],
-    "tickers": [
-      "RBCAA"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1670473/000167047326000008/0001670473-26-000008-index.htm",
-    "published_iso": "2026-07-02T15:24:54+00:00",
-    "time_ago": "5m ago"
-  },
-  {
-    "id": "3371720b4bcf",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Marshall Ernest W Jr received 199 shares of Republic Bancorp Inc /Ky/ (RBCAA) \u00b7 $90.43/share \u00b7 $18,000 total \u00b7 Jul 2",
-    "tags": [],
-    "tickers": [
-      "RBCAA"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1768444/000176844426000009/0001768444-26-000009-index.htm",
-    "published_iso": "2026-07-02T15:23:16+00:00",
-    "time_ago": "7m ago"
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/media/5951517-wall-street-journal-trump-family/",
+    "published_iso": "2026-07-02T16:52:00+00:00",
+    "time_ago": "20m ago"
   },
   {
     "id": "659d472bb278",
@@ -88,7 +93,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260702a.htm",
     "published_iso": "2026-07-02T15:00:00+00:00",
-    "time_ago": "30m ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "6afbd2893bc9",
@@ -109,7 +114,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13491/safety-zones-northern-california-and-lake-tahoe-area-annual-fireworks-events",
     "published_iso": "2026-07-02T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "a729ae4eab5a",
@@ -128,7 +133,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13487/safety-zone-san-pedro-channel-newport-beach-ca",
     "published_iso": "2026-07-02T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "f4c678c1fcfb",
@@ -147,7 +152,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13484/safety-zone-isthmus-cove-santa-catalina-island-ca",
     "published_iso": "2026-07-02T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "22237ec6bf2d",
@@ -166,7 +171,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13483/safety-zone-san-pedro-bay-los-angeles-ca",
     "published_iso": "2026-07-02T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "bdebd2640a35",
@@ -185,7 +190,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13482/safety-zone-san-pedro-bay-long-beach-ca",
     "published_iso": "2026-07-02T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "3fbd49fb083b",
@@ -206,7 +211,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13481/airworthiness-directives-rolls-royce-deutschland-ltd-and-co-kg-engines",
     "published_iso": "2026-07-02T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "59128b24c015",
@@ -225,7 +230,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13476/airworthiness-directives-gulfstream-aerospace-corporation-airplanes",
     "published_iso": "2026-07-02T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "2a0b804a9a39",
@@ -246,7 +251,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13475/airworthiness-directives-the-boeing-company-airplanes",
     "published_iso": "2026-07-02T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "3c11c54d1e1a",
@@ -267,7 +272,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2072459293966692365#m",
     "published_iso": "2026-07-01T23:16:14+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "064f23ae3c5c",
@@ -295,7 +300,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenLummis/status/2072450008494858301#m",
     "published_iso": "2026-07-01T22:39:20+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "544fdd3f3339",
@@ -316,7 +321,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/bosnia-vs-america-trump-bosnian-serb-nationalism-00984742",
     "published_iso": "2026-07-01T21:15:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "41e3e029b7e1",
@@ -342,7 +347,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm",
     "published_iso": "2026-07-01T18:30:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "d8151a6efb05",
@@ -365,7 +370,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/PatrickMcHenry/status/2072345479761772605#m",
     "published_iso": "2026-07-01T15:43:59+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "9539aeb71e78",
@@ -996,7 +1001,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "51d ago"
+    "time_ago": "52d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1066,7 +1071,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "72d ago"
+    "time_ago": "73d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1131,7 +1136,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "127d ago"
+    "time_ago": "128d ago"
   },
   {
     "id": "602146d3f751",
@@ -1219,7 +1224,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "160d ago"
+    "time_ago": "161d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1260,6 +1265,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/983956",
     "published_iso": "2025-10-30T16:06:54+00:00",
-    "time_ago": "244d ago"
+    "time_ago": "245d ago"
   }
 ]
