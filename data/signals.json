@@ -163,7 +163,54 @@
     "time_ago": "just now"
   },
   {
-    "id": "b21ca70fb079",
+    "id": "73b50a296c23",
+    "politician": "Politico",
+    "initials": "PO",
+    "role": "Political News",
+    "color": {
+      "bg": "#1a0a0a",
+      "fg": "#fca5a5"
+    },
+    "severity": "medium",
+    "content": "It's Canadian soccer's first rodeo. Canada's cowboy politics collide with World Cup fever",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "politico",
+    "platform": "Politico",
+    "url": "https://www.politico.com/live-updates/2026/07/04/world-cup-2026/cowboy-hats-soccer-cleats-calgary-stampede-ottawa-00987004",
+    "published_iso": "2026-07-04T16:15:00+00:00",
+    "time_ago": "21m ago"
+  },
+  {
+    "id": "ac4b49477fb0",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Trump battles time in bid to boost weapons stockpiles. President Trump\u2019s talk of boosting U.S. munitions stockpiles is facing the harsh reality of America\u2019s production capacity.  Even if Congress passes his enormous $1.5 trillion request for defense spending, which is looking less likely with each passing week, defense",
+    "tags": [
+      "Defense"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/defense/5948623-trump-munitions-stockpiles-hurdles-time-congress/",
+    "published_iso": "2026-07-04T16:00:00+00:00",
+    "time_ago": "36m ago"
+  },
+  {
+    "id": "bb1949a104c6",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -172,39 +219,16 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Trump accounts are launching: 5 things to know. The long-awaited Trump accounts for children are about to accept their first contributions",
+    "content": "What to know about July 4th security on National Mall. Security at this year\u2019s Fourth of July celebration on the National Mall in Washington, D.C., will look different from previous years to accommodate a speech from President Trump marking the 250th anniversary.\u00a0 The iconic annual fireworks show in the nation\u2019s capita",
     "tags": [
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/business/personal-finance/5941553-trump-accounts-are-launching-5-things-to-know/",
-    "published_iso": "2026-07-04T13:00:00+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "598d9efda28c",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "low",
-    "content": "Criticism like this is why it is so important to pair a wealth tax with a simultaneous huge tax cut for everybody making less than $100k.  \n \nOtherwise the super rich will trick everyone into thinking it's gonna hit them too.  \n \nAlso: life is hard out there, cutting taxes for everyone under $100k is the right thing to",
-    "tags": [
-      "Trade",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/ryangrim/status/2073128822992449792#m",
-    "published_iso": "2026-07-03T19:36:42+00:00",
-    "time_ago": "19h ago"
+    "url": "https://thehill.com/homenews/administration/5953440-great-american-state-fair-washington-dc-national-mall-security-july-4/",
+    "published_iso": "2026-07-04T15:42:28+00:00",
+    "time_ago": "53m ago"
   },
   {
     "id": "6ee2d6bd79ed",
@@ -226,7 +250,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/07/one-year-later-president-trumps-working-families-tax-cuts-are-delivering-for-american-workers/",
     "published_iso": "2026-07-03T17:18:56+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "a810bf7de0b4",
@@ -249,29 +273,6 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2073031052977680412#m",
     "published_iso": "2026-07-03T13:08:12+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "323f33d6dff6",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "This July 4th, families are drowning in higher prices at grocery checkout.\n \nBut Trump \u201cloves the inflation\u201d \u2014 and has no plan to lower your costs.",
-    "tags": [],
-    "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mpqmh3nowk2c",
-    "published_iso": "2026-07-03T13:07:08.112000+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -1039,7 +1040,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "53d ago"
+    "time_ago": "54d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1109,7 +1110,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "74d ago"
+    "time_ago": "75d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1174,7 +1175,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "129d ago"
+    "time_ago": "130d ago"
   },
   {
     "id": "602146d3f751",
@@ -1303,6 +1304,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/983956",
     "published_iso": "2025-10-30T16:06:54+00:00",
-    "time_ago": "246d ago"
+    "time_ago": "247d ago"
   }
 ]
