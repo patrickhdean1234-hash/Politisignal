@@ -1,6 +1,6 @@
 [
   {
-    "id": "b7067afcc9eb",
+    "id": "327125ddc455",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -8,126 +8,130 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "critical",
-    "content": "Bagwell Lee withheld (tax) 761 shares of Colony Bankcorp Inc (CBAN) \u00b7 $20.49/share \u00b7 $15,593 total \u00b7 Jul 6",
+    "severity": "medium",
+    "content": "Schiller Thomas exercised options for 5,000 shares of Indie Semiconductor, Inc. (INDI) \u00b7 Jul 6 ($8,159 across all blocks)",
     "tags": [
-      "Banking",
+      "Semiconductors"
+    ],
+    "tickers": [
+      "INDI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1865418/000186541826000005/0001865418-26-000005-index.htm",
+    "published_iso": "2026-07-06T21:55:36+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "6b1f8aa8741f",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Callahan Michael James converted 12,500 shares of Datadog, Inc. (DDOG) \u00b7 Jul 6 ($3,343,375 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "DDOG"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1784030/000156155026000236/0001561550-26-000236-index.htm",
+    "published_iso": "2026-07-06T21:54:21+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "189da2ff65ed",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Mcclymont Donald exercised options for 243,750 shares of Indie Semiconductor, Inc. (INDI) \u00b7 Jul 6 ($563,072 across all blocks)",
+    "tags": [
+      "Semiconductors"
+    ],
+    "tickers": [
+      "INDI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1866018/000186601826000015/0001866018-26-000015-index.htm",
+    "published_iso": "2026-07-06T21:53:25+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "fcf1827d70cd",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Gupta Amit exercised options for 12,500 shares of Cardlytics, Inc. (CDLX) \u00b7 Jul 6 ($70,917 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "CDLX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1961238/000162828026047392/0001628280-26-047392-index.htm",
+    "published_iso": "2026-07-06T21:52:46+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "1fcc8550aaf0",
+    "politician": "Politico",
+    "initials": "PO",
+    "role": "Political News",
+    "color": {
+      "bg": "#1a0a0a",
+      "fg": "#fca5a5"
+    },
+    "severity": "medium",
+    "content": "Revenge of the \u2018hellhole\u2019: Belgium eyes payback in US World Cup clash. Donald Trump has targeted the western European country dating back to his first run for president",
+    "tags": [
       "Taxes"
     ],
-    "tickers": [
-      "CBAN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1687883/000168788326000002/0001687883-26-000002-index.htm",
-    "published_iso": "2026-07-06T20:27:08+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "f5e009cac1f6",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Rose B Andrew received 526 shares of Trex Co Inc (TREX) \u00b7 $48.69/share \u00b7 $25,611 total \u00b7 Jul 6",
-    "tags": [],
-    "tickers": [
-      "TREX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1451048/000106987826000046/0001069878-26-000046-index.htm",
-    "published_iso": "2026-07-06T20:26:57+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "ba48bc0e4538",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Knausenberger Lauren received 5 shares of Enersys (ENS) \u00b7 Jul 6 ($0 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "ENS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2032877/000143774926022793/0001437749-26-022793-index.htm",
-    "published_iso": "2026-07-06T20:26:05+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "8d820857a7b9",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Vasos Todd J exercised options for 27,385 shares of Keycorp /New/ (KEY-PL) \u00b7 Jul 6",
-    "tags": [],
     "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1243183/000124318326000005/0001243183-26-000005-index.htm",
-    "published_iso": "2026-07-06T20:25:52+00:00",
-    "time_ago": "2m ago"
+    "source": "politico",
+    "platform": "Politico",
+    "url": "https://www.politico.com/live-updates/2026/07/06/world-cup-2026/belgium-usa-world-cup-hellhole-trump-00988322",
+    "published_iso": "2026-07-06T21:26:26+00:00",
+    "time_ago": "30m ago"
   },
   {
-    "id": "0a64b1121f0a",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "4ced35757aab",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Zamora Javier sold 3,533 shares of Cargurus, Inc. (CARG) \u00b7 $36.06/share \u00b7 $127,400 total \u00b7 Jul 6",
-    "tags": [],
-    "tickers": [
-      "CARG"
+    "severity": "high",
+    "content": "MacBooks, Xboxes grow in cost amid AI boom. {beacon} Technology Technology &#8202; The Big Story  How the AI boom is making MacBooks, Xboxes more expensive The AI boom is fueling massive demand for memory chips, forcing electronics manufacturers to grapple with rising prices that are starting to trickle down to consume",
+    "tags": [
+      "Big Tech",
+      "Semiconductors"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1939671/000149425926000060/0001494259-26-000060-index.htm",
-    "published_iso": "2026-07-06T20:25:44+00:00",
-    "time_ago": "3m ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/technology/5955711-macbooks-xboxes-grow-in-cost-amid-ai-boom/",
+    "published_iso": "2026-07-06T20:58:36+00:00",
+    "time_ago": "58m ago"
   },
   {
-    "id": "0614c0724ee9",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Wynter Rudolph W. received 12 shares of Enersys (ENS) \u00b7 Jul 6 ($0 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "ENS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1941344/000143774926022792/0001437749-26-022792-index.htm",
-    "published_iso": "2026-07-06T20:25:34+00:00",
-    "time_ago": "3m ago"
-  },
-  {
-    "id": "a0975f3aa996",
+    "id": "7fb97f561791",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -136,7 +140,7 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Mourners flood Iran capital for Khamenei funeral procession. Iranians flooded the capital of Tehran on Monday during the funeral procession for former Supreme Leader Ayatollah Ali Khamenei, who was killed in an airstrike at the start of the U.S.-Israeli conflict in Iran. Monday saw the biggest day of crowds marching th",
+    "content": "Mourners flood Iran capital for Khamenei funeral procession. Iranians flooded Tehran on Monday during the funeral procession for former Supreme Leader Ayatollah Ali Khamenei, who was killed in an airstrike at the start of the U.S.-Israeli conflict in Iran. Monday saw the biggest day of crowds marching through the capit",
     "tags": [
       "Taxes",
       "Sanctions"
@@ -150,28 +154,6 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/5955498-funeral-ayatollah-khamenei-tehran/",
     "published_iso": "2026-07-06T20:00:36+00:00",
-    "time_ago": "28m ago"
-  },
-  {
-    "id": "1aba45837f70",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Illinois becomes first state to require third-party audit of AI models. Illinois Gov. JB Pritzker (D) on Monday signed a bill making the state the country's first to mandate that the largest artificial intelligence labs obtain third-party audits of their safety plans. Pritzker signed the Artificial Intelligence Safety ",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/5955442-illinois-ai-safety-bill/",
-    "published_iso": "2026-07-06T19:12:37+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -193,7 +175,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/07/president-trump-rings-in-trump-accounts-with-historic-opening-bell-ceremony-from-the-oval-office/",
     "published_iso": "2026-07-06T18:15:57+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "e79f27ba504d",
@@ -205,16 +187,16 @@
       "fg": "#fbbf24"
     },
     "severity": "medium",
-    "content": "Trump Accounts \u2014 created through Republicans\u2019 Working Families Tax Cuts \u2014 are investing in the next generation.  \n \n6 million American children have signed up and 86% are from families earning less than $200k.  \n \nJumpstart your kids' financial futures:  trumpaccounts.gov  \n \n Link  \n \n \n \n Jumpstarting the American Dr",
+    "content": "Trump Accounts \u2014 created through Republicans\u2019 Working Families Tax Cuts \u2014 are investing in the next generation.  \n \n6 million American children have signed up and 86% are from families earning less than $200k.  \n \nJumpstart your kids' financial futures:  trumpaccounts.gov  \n \n \n \n The White House (@WhiteHouse) \n \n \ud83c\uddfa\ud83c\uddf8 T",
     "tags": [
       "Taxes"
     ],
     "tickers": [],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "https://nitter.net/SpeakerJohnson/status/2074156415204065772#m",
+    "url": "http://nt.vern.cc/SpeakerJohnson/status/2074156415204065772#m",
     "published_iso": "2026-07-06T15:40:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "be8a560c73c9",
@@ -235,7 +217,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13637/rescission-of-guidelines-on-affirmative-action-appropriate-under-title-vii-of-the-civil-rights-act",
     "published_iso": "2026-07-06T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "79b830d579c7",
@@ -254,7 +236,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13630/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-angling-category",
     "published_iso": "2026-07-06T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "dada4b3cebc7",
@@ -275,7 +257,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13624/nondiscrimination-in-federally-assisted-programs-of-nasa-effectuation-of-title-vi-of-the-civil",
     "published_iso": "2026-07-06T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "42609639de92",
@@ -294,7 +276,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13620/amendment-of-using-agency-and-controlling-agency-for-restricted-areas-r-5301-r-5302a-r-5302b-and",
     "published_iso": "2026-07-06T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "e597d5c62e7a",
@@ -315,7 +297,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13619/safety-zone-lake-michigan-chicago-il",
     "published_iso": "2026-07-06T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "196c817b53b5",
@@ -334,7 +316,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13614/safety-zone-savannah-river-savannah-ga",
     "published_iso": "2026-07-06T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "b32a24377fed",
@@ -356,7 +338,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13609/counter-uas-authority-for-state-local-tribal-and-territorial-law-enforcement-and-correctional",
     "published_iso": "2026-07-06T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "221f7cc1ea1e",
@@ -377,7 +359,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13585/licensee-ez-check-verification-for-transfers-withdrawing-direct-final-rule",
     "published_iso": "2026-07-06T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "f6fb9773511f",
@@ -394,9 +376,9 @@
     "tickers": [],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "https://nitter.net/usembassyve/status/2073873845241413988#m",
+    "url": "http://nt.vern.cc/usembassyve/status/2073873845241413988#m",
     "published_iso": "2026-07-05T20:57:10+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "4677647d46c1",
@@ -442,9 +424,9 @@
     ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "https://nitter.net/SenWarren/status/2073511004877508775#m",
+    "url": "http://nt.vern.cc/SenWarren/status/2073511004877508775#m",
     "published_iso": "2026-07-04T20:55:22+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "6ee2d6bd79ed",
@@ -561,7 +543,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h233?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-30T21:46:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "feba95861498",
@@ -1012,7 +994,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/the-senate-page-program/",
     "published_iso": "2026-06-03T21:41:29+00:00",
-    "time_ago": "32d ago"
+    "time_ago": "33d ago"
   },
   {
     "id": "072d30de1b17",
