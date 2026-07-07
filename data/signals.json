@@ -1,6 +1,6 @@
 [
   {
-    "id": "9636a2064176",
+    "id": "fb085b89673a",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,164 +9,212 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Moore Daniel William sold 7,085 shares of Gamestop Corp. (GME-WT) \u00b7 $22.38/share \u00b7 $158,562 total \u00b7 Jul 6",
+    "content": "Cerberus Capital Management, L.P. received 16,461 shares of Comscore, Inc. (SCOR) \u00b7 Jul 6",
     "tags": [],
+    "tickers": [
+      "SCOR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1851987/000149315226032238/0001493152-26-032238-index.htm",
+    "published_iso": "2026-07-07T01:55:03+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "08447dc6bf7e",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Keith Daniel C sold 17,000 shares of Sinclair, Inc. (SBGI) \u00b7 $15.02/share \u00b7 $255,340 total \u00b7 Jul 6",
+    "tags": [],
+    "tickers": [
+      "SBGI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1971213/000125401726000004/0001254017-26-000004-index.htm",
+    "published_iso": "2026-07-07T01:44:45+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "90aeb0a94ec3",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Carey Stephen P. exercised options for 3,313 shares of Ani Pharmaceuticals Inc (ANIP) \u00b7 $49.51/share \u00b7 $164,027 total \u00b7 Jul 6 ($448,945 across all blocks)",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "ANIP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1674236/000167423626000017/0001674236-26-000017-index.htm",
+    "published_iso": "2026-07-07T01:40:18+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "0d08c755f57d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Alba Manuel sold 971 shares of Astera Labs, Inc. (ALAB) \u00b7 $451.96/share \u00b7 $438,851 total \u00b7 Jul 6 ($3,892,091 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "ALAB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1736297/000113472726000010/0001134727-26-000010-index.htm",
+    "published_iso": "2026-07-07T01:38:03+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "0470644e2f11",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Alba Manuel sold 1,520 shares of Astera Labs, Inc. (ALAB) \u00b7 $460.07/share \u00b7 $699,310 total \u00b7 Jul 6 ($16,792,742 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "ALAB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1736297/000113472726000008/0001134727-26-000008-index.htm",
+    "published_iso": "2026-07-07T01:32:50+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "32a042279dfd",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Dickman Thomas J exercised options for 17 shares of Fold Holdings, Inc. (FLDDW) \u00b7 Jul 6 ($2 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "FLDDW"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2057497/000119312526296693/0001193125-26-296693-index.htm",
+    "published_iso": "2026-07-07T01:30:06+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "53f36f868e4b",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Reeves William Brian Poppic exercised options for 1,075 shares of Fold Holdings, Inc. (FLDDW) \u00b7 Jul 6 ($2,395 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "FLDDW"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2057455/000119312526296692/0001193125-26-296692-index.htm",
+    "published_iso": "2026-07-07T01:30:04+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "64605d70599d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "high",
+    "content": "Repass Wolfe exercised options for 2,639 shares of Fold Holdings, Inc. (FLDDW) \u00b7 Jul 6 ($556 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "FLDDW"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2057456/000119312526296691/0001193125-26-296691-index.htm",
+    "published_iso": "2026-07-07T01:30:03+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "d346de6617f3",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": ". @TroyJackson207  is someone who has spent his life standing up for these progressive values. The movement is about standing for Medicare for All, opposing foreign wars, and getting money out of politics. \n \n \n Our Revolution (@OurRevolution) \n \n Our statement on Graham Platner. To the Democratic establishment: this i",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/RoKhanna/status/2074288378552455396#m",
+    "published_iso": "2026-07-07T00:24:22+00:00",
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "c3d1755bd334",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Senate Democrats\u2019 campaign arm calls for Platner to drop out of Maine race. Democratic Senatorial Campaign Committee leader Sen. Chuck Schumer (N.Y.) and Chair Kirsten Gillibrand (N.Y.) on Monday called on Maine Senate candidate Graham Platner to withdraw as the Democratic nominee. \"The allegations reported today are i",
+    "tags": [
+      "Defense",
+      "Taxes"
+    ],
     "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1990547/000199054726000014/0001990547-26-000014-index.htm",
-    "published_iso": "2026-07-07T00:17:42+00:00",
-    "time_ago": "just now"
-  },
-  {
-    "id": "4d968e613d8c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Johnson Timothy A received 1,238 shares of Dollar Tree, Inc. (DLTR) \u00b7 $121.15/share \u00b7 $149,984 total \u00b7 Jul 6",
-    "tags": [],
-    "tickers": [
-      "DLTR"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1278800/000093570326000091/0000935703-26-000091-index.htm",
-    "published_iso": "2026-07-07T00:17:25+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "b3386a931287",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Dageville Benoit exercised options for 135,134 shares of Snowflake Inc. (SNOW) \u00b7 $0.74/share \u00b7 $99,999 total \u00b7 Jul 6 ($48,779,616 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "SNOW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1821737/000182173726000007/0001821737-26-000007-index.htm",
-    "published_iso": "2026-07-07T00:17:24+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "1040b0098cbe",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Robinson Mark Haymond sold 7,083 shares of Gamestop Corp. (GME-WT) \u00b7 $22.38/share \u00b7 $158,518 total \u00b7 Jul 6 ($248,029 across all blocks)",
-    "tags": [],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1981001/000198100126000021/0001981001-26-000021-index.htm",
-    "published_iso": "2026-07-07T00:17:11+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "c089ec7cd58e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Kleinerman Christian sold 2,500 shares of Snowflake Inc. (SNOW) \u00b7 $258.56/share \u00b7 $646,400 total \u00b7 Jul 6",
-    "tags": [],
-    "tickers": [
-      "SNOW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1979088/000197908826000013/0001979088-26-000013-index.htm",
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/5955965-schumer-gillibrand-call-platner-withdraw/",
     "published_iso": "2026-07-07T00:16:40+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "3bbccafeae2b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Casteel Julie K withheld (tax) 910 shares of Ibex Ltd (IBEX) \u00b7 $31.60/share \u00b7 $28,756 total \u00b7 Jul 6",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "IBEX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1974084/000197408426000007/0001974084-26-000007-index.htm",
-    "published_iso": "2026-07-07T00:15:44+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "3bd3d127710d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Briggs Teresa sold 344 shares of Snowflake Inc. (SNOW) \u00b7 $254.64/share \u00b7 $87,596 total \u00b7 Jul 6 ($175,099 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "SNOW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1767659/000176765926000016/0001767659-26-000016-index.htm",
-    "published_iso": "2026-07-07T00:15:43+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "d50b1c2f3e6b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Lawrence Philippa withheld (tax) 2,086 shares of Freshworks Inc. (FRSH) \u00b7 $10.34/share \u00b7 $21,569 total \u00b7 Jul 6 ($99,352 across all blocks)",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "FRSH"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2033454/000154452226000122/0001544522-26-000122-index.htm",
-    "published_iso": "2026-07-07T00:15:03+00:00",
-    "time_ago": "3m ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "37436637991f",
@@ -192,29 +240,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/newsletters/healthcare/5955953-planned-parenthood-funding-restored/",
     "published_iso": "2026-07-06T23:13:44+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "43a8d193571a",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "MacBooks, Xboxes grow more costly amid AI boom. {beacon} Technology Technology &#8202; The Big Story  How the AI boom is making MacBooks, Xboxes more expensive The AI boom is fueling massive demand for memory chips, forcing electronics manufacturers to grapple with rising prices that are starting to trickle down to con",
-    "tags": [
-      "Big Tech",
-      "Semiconductors"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/technology/5955711-macbooks-xboxes-grow-in-cost-amid-ai-boom/",
-    "published_iso": "2026-07-06T20:58:36+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "bc254cc73522",
@@ -235,7 +261,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/07/president-trump-rings-in-trump-accounts-with-historic-opening-bell-ceremony-from-the-oval-office/",
     "published_iso": "2026-07-06T18:15:57+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "e79f27ba504d",
@@ -256,7 +282,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2074156415204065772#m",
     "published_iso": "2026-07-06T15:40:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "be8a560c73c9",
@@ -277,7 +303,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13637/rescission-of-guidelines-on-affirmative-action-appropriate-under-title-vii-of-the-civil-rights-act",
     "published_iso": "2026-07-06T04:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "79b830d579c7",
@@ -296,7 +322,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13630/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-angling-category",
     "published_iso": "2026-07-06T04:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "dada4b3cebc7",
@@ -317,7 +343,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13624/nondiscrimination-in-federally-assisted-programs-of-nasa-effectuation-of-title-vi-of-the-civil",
     "published_iso": "2026-07-06T04:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "42609639de92",
@@ -336,7 +362,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13620/amendment-of-using-agency-and-controlling-agency-for-restricted-areas-r-5301-r-5302a-r-5302b-and",
     "published_iso": "2026-07-06T04:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "e597d5c62e7a",
@@ -357,7 +383,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13619/safety-zone-lake-michigan-chicago-il",
     "published_iso": "2026-07-06T04:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "196c817b53b5",
@@ -376,7 +402,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13614/safety-zone-savannah-river-savannah-ga",
     "published_iso": "2026-07-06T04:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "b32a24377fed",
@@ -398,7 +424,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13609/counter-uas-authority-for-state-local-tribal-and-territorial-law-enforcement-and-correctional",
     "published_iso": "2026-07-06T04:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "221f7cc1ea1e",
@@ -419,7 +445,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13585/licensee-ez-check-verification-for-transfers-withdrawing-direct-final-rule",
     "published_iso": "2026-07-06T04:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "f6fb9773511f",
@@ -459,7 +485,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/07/saving-americas-story/",
     "published_iso": "2026-07-05T00:30:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "182e7ddb0e96",
@@ -875,7 +901,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s192?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-25T02:30:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "0e2c47821b03",
