@@ -1,5 +1,94 @@
 [
   {
+    "id": "678b14ea4f44",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Kastin David received 2,322 shares of Greenbacker Renewable Energy Co Llc (DVN) \u00b7 Jul 8",
+    "tags": [
+      "Energy"
+    ],
+    "tickers": [
+      "DVN"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1563922/000175392626001161/0001753926-26-001161-index.htm",
+    "published_iso": "2026-07-08T18:19:48+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "dc169391dc18",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "Minutes of the Federal Open Market Committee, June 16-17, 2026. Minutes of the Federal Open Market Committee, June 16-17, 2026",
+    "tags": [],
+    "tickers": [],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
+    "published_iso": "2026-07-08T18:00:00+00:00",
+    "time_ago": "20m ago"
+  },
+  {
+    "id": "a0c06a665c19",
+    "politician": "Sen. Bernie Sanders",
+    "initials": "BS",
+    "role": "Senate HELP Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#818cf8"
+    },
+    "severity": "medium",
+    "content": "We have a fundamental choice to make. \n \nWe can maintain a broken healthcare system that allows insurance companies to make billions by raising premiums by 14%-35% next year. \n \nOr we can enact Medicare for All and save the American people $650 billion a year. \n \nWhich side are you on?",
+    "tags": [
+      "Healthcare",
+      "Regulation"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/BernieSanders/status/2074906603698971029#m",
+    "published_iso": "2026-07-08T17:20:58+00:00",
+    "time_ago": "59m ago"
+  },
+  {
+    "id": "1ecd1ed98ae0",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Trump says he is undecided on F-35s for Turkey. President Trump said Wednesday he is undecided on whether to readmit Turkey into the U.S.'s F-35 fighter jet program after expelling the country during his first term.\u00a0 \"I haven't totally made up my mind, but my inclination is to say, look, he's [Turkish President Recep T",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/defense/5959425-trump-undecided-turkey-f35/",
+    "published_iso": "2026-07-08T17:14:19+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "53d50b91f2ba",
     "politician": "Rep. Jim Jordan",
     "initials": "JJ",
@@ -22,7 +111,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/Jim_Jordan/status/2074847081894711735#m",
     "published_iso": "2026-07-08T13:24:27+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "f4d9bce3e30f",
@@ -43,7 +132,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13801/age-search-fee-structure",
     "published_iso": "2026-07-08T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "91f2e1be9ec4",
@@ -65,7 +154,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13765/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security",
     "published_iso": "2026-07-08T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "1f042e572881",
@@ -86,7 +175,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13764/conformance-of-cost-accounting-standards-to-generally-accepted-accounting-principles-for-cost",
     "published_iso": "2026-07-08T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "c1af591e6c11",
@@ -107,7 +196,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13763/special-local-regulations-marine-events-within-the-sector-columbia-river-captain-of-the-port-zone",
     "published_iso": "2026-07-08T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "f2cb6386869e",
@@ -134,7 +223,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2074622714531221840#m",
     "published_iso": "2026-07-07T22:32:54+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "7c7027804e65",
@@ -155,7 +244,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/07/democrats-fought-against-historic-tax-cuts-now-theyre-fighting-against-opportunity-for-americas-kids/",
     "published_iso": "2026-07-07T21:02:50+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "33f3d14db1f9",
@@ -176,7 +265,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2074575459535213026#m",
     "published_iso": "2026-07-07T19:25:07+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "417f0c14ac5b",
@@ -202,7 +291,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm",
     "published_iso": "2026-07-07T19:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "9c0359ecd192",
@@ -224,7 +313,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2074553423375008108#m",
     "published_iso": "2026-07-07T17:57:34+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "f43b7beab0af",
@@ -245,7 +334,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/USDOL/status/2074544098590007508#m",
     "published_iso": "2026-07-07T17:20:30+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "3cbf822d77a2",
@@ -370,7 +459,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/07/president-trump-rings-in-trump-accounts-with-historic-opening-bell-ceremony-from-the-oval-office/",
     "published_iso": "2026-07-06T18:15:57+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "f6fb9773511f",
@@ -432,7 +521,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/07/one-year-later-president-trumps-working-families-tax-cuts-are-delivering-for-american-workers/",
     "published_iso": "2026-07-03T17:18:56+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "ae33a3c26ef2",
@@ -574,7 +663,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h231?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-30T18:14:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "07e00f686b74",
@@ -595,7 +684,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h230?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-30T18:04:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "a677483391d0",
@@ -722,32 +811,6 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h227?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-25T17:29:00+00:00",
-    "time_ago": "12d ago"
-  },
-  {
-    "id": "1c1e70c8629e",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.. Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
-    "published_iso": "2026-06-25T15:00:00+00:00",
     "time_ago": "13d ago"
   },
   {
@@ -773,6 +836,32 @@
     "source": "fed_reserve",
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm",
+    "published_iso": "2026-06-25T15:00:00+00:00",
+    "time_ago": "13d ago"
+  },
+  {
+    "id": "1c1e70c8629e",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.. Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
     "published_iso": "2026-06-25T15:00:00+00:00",
     "time_ago": "13d ago"
   },
@@ -826,32 +915,6 @@
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260624a.htm",
     "published_iso": "2026-06-24T20:00:00+00:00",
     "time_ago": "13d ago"
-  },
-  {
-    "id": "b944112ab796",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "high",
-    "content": "Federal Reserve notes with deep sadness the passing of Alan Greenspan. Federal Reserve notes with deep sadness the passing of Alan Greenspan",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm",
-    "published_iso": "2026-06-22T12:45:00+00:00",
-    "time_ago": "16d ago"
   },
   {
     "id": "d7e6bf88263a",
@@ -1222,7 +1285,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "166d ago"
+    "time_ago": "167d ago"
   },
   {
     "id": "d3ca74df7f0f",
