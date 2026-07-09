@@ -1,6 +1,6 @@
 [
   {
-    "id": "1ad041b88ca6",
+    "id": "a0e962a03b80",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,36 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Chao Xingjuan sold 14,000 shares of Ceribell, Inc. (CBLL) \u00b7 $19.90/share \u00b7 $278,600 total \u00b7 Jul 9 ($893,600 across all blocks)",
+    "content": "Amg New York Holdings Corp. bought 182,784 shares of Amg Bbh Asset-Backed Credit Fund, Llc \u00b7 $9.99/share \u00b7 $1,826,012 total \u00b7 Jul 9",
     "tags": [],
-    "tickers": [
-      "CBLL"
-    ],
+    "tickers": [],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2035784/000119312526299427/0001193125-26-299427-index.htm",
-    "published_iso": "2026-07-09T16:34:55+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/2097545/000119312526299529/0001193125-26-299529-index.htm",
+    "published_iso": "2026-07-09T18:21:07+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "64853632364f",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Brown Brothers Harriman Credit Partners, Llc bought 45,696 shares of Amg Bbh Asset-Backed Credit Fund, Llc \u00b7 $9.99/share \u00b7 $456,503 total \u00b7 Jul 9",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2102651/000119312526299528/0001193125-26-299528-index.htm",
+    "published_iso": "2026-07-09T18:20:36+00:00",
     "time_ago": "5m ago"
   },
   {
-    "id": "c51e8866d785",
+    "id": "3f9e40679d77",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -29,41 +46,43 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "medium",
-    "content": "Taylor Jeffrey T. sold 2,165 shares of Velocity Financial, Inc. (VEL) \u00b7 $19.00/share \u00b7 $41,135 total \u00b7 Jul 9",
-    "tags": [],
-    "tickers": [
-      "VEL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1692376/000121465926008372/0001214659-26-008372-index.htm",
-    "published_iso": "2026-07-09T16:30:31+00:00",
-    "time_ago": "9m ago"
-  },
-  {
-    "id": "da178aa62182",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Talarico raises record $30M in second quarter. The campaign of Texas Democratic Senate nominee James Talarico raised more than $30 million in the second quarter of this year, as the 37-year-old looks to become the first Democrat from the state elected to the upper chamber in nearly four decades. In a release, Talarico\u2019",
+    "severity": "critical",
+    "content": "Gribble Jennifer Ellen received 7,000 shares of First Northwest Bancorp (FNWB) \u00b7 $9.97/share \u00b7 $69,790 total \u00b7 Jul 9",
     "tags": [
       "Taxes"
     ],
+    "tickers": [
+      "FNWB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2128640/000143774926023171/0001437749-26-023171-index.htm",
+    "published_iso": "2026-07-09T18:16:59+00:00",
+    "time_ago": "9m ago"
+  },
+  {
+    "id": "ae9f0467c981",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Bipartisan lawmakers press agencies on AI election threats. A bipartisan pair of House lawmakers are pressing multiple federal agencies over the risks artificial intelligence could pose to the upcoming election, specifically over chatbots' responses to voters. Reps. Josh Gottheimer (D-N.J.) and Mike Lawler (R-N.Y.), in",
+    "tags": [
+      "Regulation"
+    ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/5960979-texas-senate-talarico-campaign/",
-    "published_iso": "2026-07-09T15:43:04+00:00",
-    "time_ago": "57m ago"
+    "url": "https://thehill.com/policy/technology/5961267-ai-election-threats-2026-midterms/",
+    "published_iso": "2026-07-09T18:08:23+00:00",
+    "time_ago": "17m ago"
   },
   {
-    "id": "f93d5c35324a",
+    "id": "d0bc33205587",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -72,14 +91,17 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Massie: Might as well call ObamaCare 'Trumpcare'. Kentucky Rep. Thomas Massie (R) on Wednesday said ObamaCare might as well be renamed \u201cTrumpcare\u201d as premiums increase and Republicans haven\u2019t moved to repeal the Affordable Care Act (ACA). \u201cMight as well call it Trumpcare now. Our party has made no serious effort to rep",
-    "tags": [],
+    "content": "Ken Griffin backing Rubio over Vance: Report. Prominent Republican donor Ken Griffin reportedly favors Secretary of State Marco Rubio over Vice President Vance in the 2028 presidential race. During the annual Allen &#38; Company conference in Sun Valley, Idaho, the billionaire hedge fund manager told financial journali",
+    "tags": [
+      "Regulation",
+      "Insider Trade"
+    ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5960829-thomas-massie-republicans-obamacare/",
-    "published_iso": "2026-07-09T15:38:46+00:00",
-    "time_ago": "1h ago"
+    "url": "https://thehill.com/homenews/campaign/5961185-ken-griffin-2028-presidential-election-potential-race-marco-rubio-jd-vance/",
+    "published_iso": "2026-07-09T17:45:58+00:00",
+    "time_ago": "40m ago"
   },
   {
     "id": "a3e903d71da7",
@@ -105,7 +127,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2075235510608363705#m",
     "published_iso": "2026-07-09T15:07:56+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "374047f602cb",
@@ -131,7 +153,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260709a.htm",
     "published_iso": "2026-07-09T15:00:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "e8b17170cbd7",
@@ -156,7 +178,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2075224283962347879#m",
     "published_iso": "2026-07-09T14:23:19+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "9410396a4e82",
@@ -183,7 +205,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenLummis/status/2075221688795504926#m",
     "published_iso": "2026-07-09T14:13:01+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "8a972fc0dab9",
@@ -205,7 +227,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13878/supplemental-disaster-assistance-programs-marketing-assistance-loans-and-sugar-provisions",
     "published_iso": "2026-07-09T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "d125a111dd80",
@@ -227,7 +249,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13875/zero-based-regulating",
     "published_iso": "2026-07-09T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "e330e2eed3e2",
@@ -246,7 +268,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13873/advancement-of-the-low-power-television-tv-translator-and-class-a-television-service",
     "published_iso": "2026-07-09T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "b3531cc7bdbb",
@@ -265,7 +287,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13867/fisheries-of-the-northeastern-united-states-2026-chub-mackerel-squid-and-butterfish-fishery",
     "published_iso": "2026-07-09T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "931b45eaba49",
@@ -286,7 +308,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13860/rescinding-portions-of-department-of-state-title-vi-regulations-to-conform-more-closely-with-the",
     "published_iso": "2026-07-09T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "16939fab8dc4",
@@ -308,7 +330,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13851/charitable-remainder-annuity-trust-listed-transaction",
     "published_iso": "2026-07-09T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "172e6b7a20df",
@@ -327,7 +349,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13843/air-plan-approval-michigan-redesignation-and-maintenance-plan-for-the-partial-st-clair-2010-1-hour",
     "published_iso": "2026-07-09T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "34597ef1994c",
@@ -353,7 +375,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13841/revisions-to-the-biorefinery-renewable-chemical-and-biobased-product-manufacturing-assistance-loan",
     "published_iso": "2026-07-09T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "96c3ae9d766b",
@@ -381,7 +403,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2075005436735234536#m",
     "published_iso": "2026-07-08T23:53:42+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "838666d0ee46",
@@ -402,7 +424,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mq6cswwhxs2p",
     "published_iso": "2026-07-08T23:52:04.740000+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "e1d141871b1d",
@@ -421,7 +443,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mq63bnn5gk2p",
     "published_iso": "2026-07-08T21:37:08.376000+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "503a1ca00428",
@@ -446,7 +468,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/PatrickMcHenry/status/2074933945850896773#m",
     "published_iso": "2026-07-08T19:09:37+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "f89a6aed75a9",
@@ -473,7 +495,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2074931974469296553#m",
     "published_iso": "2026-07-08T19:01:47+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "dc169391dc18",
@@ -492,7 +514,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
     "published_iso": "2026-07-08T18:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "a0c06a665c19",
@@ -518,7 +540,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2074906603698971029#m",
     "published_iso": "2026-07-08T17:20:58+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "53d50b91f2ba",
@@ -611,7 +633,7 @@
     "platform": "Twitter/X",
     "url": "http://nt.vern.cc/USDOL/status/2074544098590007508#m",
     "published_iso": "2026-07-07T17:20:30+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "bc254cc73522",
@@ -632,7 +654,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/07/president-trump-rings-in-trump-accounts-with-historic-opening-bell-ceremony-from-the-oval-office/",
     "published_iso": "2026-07-06T18:15:57+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "f6fb9773511f",
@@ -786,7 +808,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h232?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-30T18:26:00+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "112d75e97493",
@@ -814,7 +836,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h231?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-30T18:14:00+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "07e00f686b74",
@@ -835,7 +857,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h230?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-30T18:04:00+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "a677483391d0",
@@ -962,7 +984,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h227?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-25T17:29:00+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "1c1e70c8629e",
@@ -1410,7 +1432,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "167d ago"
+    "time_ago": "168d ago"
   },
   {
     "id": "d3ca74df7f0f",
