@@ -1,6 +1,6 @@
 [
   {
-    "id": "6c9a0069aa54",
+    "id": "1ad041b88ca6",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,40 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Espinosa Pablo Lagos sold 10,000 shares of Ezcorp Inc (EZPW) \u00b7 $35.54/share \u00b7 $355,426 total \u00b7 Jul 9",
+    "content": "Chao Xingjuan sold 14,000 shares of Ceribell, Inc. (CBLL) \u00b7 $19.90/share \u00b7 $278,600 total \u00b7 Jul 9 ($893,600 across all blocks)",
     "tags": [],
     "tickers": [
-      "EZPW"
+      "CBLL"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1503225/000087652326000057/0000876523-26-000057-index.htm",
-    "published_iso": "2026-07-09T13:59:02+00:00",
-    "time_ago": "11m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2035784/000119312526299427/0001193125-26-299427-index.htm",
+    "published_iso": "2026-07-09T16:34:55+00:00",
+    "time_ago": "5m ago"
   },
   {
-    "id": "0668bc647004",
+    "id": "c51e8866d785",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Taylor Jeffrey T. sold 2,165 shares of Velocity Financial, Inc. (VEL) \u00b7 $19.00/share \u00b7 $41,135 total \u00b7 Jul 9",
+    "tags": [],
+    "tickers": [
+      "VEL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1692376/000121465926008372/0001214659-26-008372-index.htm",
+    "published_iso": "2026-07-09T16:30:31+00:00",
+    "time_ago": "9m ago"
+  },
+  {
+    "id": "da178aa62182",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -29,17 +50,140 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "critical",
-    "content": "Live updates: Trump flies on old Air Force One over security concerns; Maine Democrats seek Platner successor. President returned from Turkey overnight Thursday, traveling on the first leg of the trip on an older Air Force One jet, on the guidance of Secret Service. The move quickly elevated concern about the security ",
+    "severity": "medium",
+    "content": "Talarico raises record $30M in second quarter. The campaign of Texas Democratic Senate nominee James Talarico raised more than $30 million in the second quarter of this year, as the 37-year-old looks to become the first Democrat from the state elected to the upper chamber in nearly four decades. In a release, Talarico\u2019",
     "tags": [
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5959432-president-returns-from-turkey/",
-    "published_iso": "2026-07-09T12:47:56+00:00",
+    "url": "https://thehill.com/homenews/campaign/5960979-texas-senate-talarico-campaign/",
+    "published_iso": "2026-07-09T15:43:04+00:00",
+    "time_ago": "57m ago"
+  },
+  {
+    "id": "f93d5c35324a",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Massie: Might as well call ObamaCare 'Trumpcare'. Kentucky Rep. Thomas Massie (R) on Wednesday said ObamaCare might as well be renamed \u201cTrumpcare\u201d as premiums increase and Republicans haven\u2019t moved to repeal the Affordable Care Act (ACA). \u201cMight as well call it Trumpcare now. Our party has made no serious effort to rep",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/house/5960829-thomas-massie-republicans-obamacare/",
+    "published_iso": "2026-07-09T15:38:46+00:00",
     "time_ago": "1h ago"
+  },
+  {
+    "id": "a3e903d71da7",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "politico.com/news/magazine/2\u2026  \n \n Link  \n \n \n \n \u2018Hugely Troubling\u2019: A Former Wall Street Regulator Is Getting Nervous \n \n Are regulators sowing the seeds of another bank bailout? \n  politico.com",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SenWarren/status/2075235510608363705#m",
+    "published_iso": "2026-07-09T15:07:56+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "374047f602cb",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board issues enforcement action with TS Banking Group, Inc. and TS Contrarian Bancshares, Inc.. Federal Reserve Board issues enforcement action with TS Banking Group, Inc. and TS Contrarian Bancshares, Inc",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260709a.htm",
+    "published_iso": "2026-07-09T15:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "e8b17170cbd7",
+    "politician": "Sen. Bernie Sanders",
+    "initials": "BS",
+    "role": "Senate HELP Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#818cf8"
+    },
+    "severity": "medium",
+    "content": ". @EdMarkey  has been my partner in fighting for Medicare for All, ensuring every person earns a living wage and transforming our rigged economic and political systems so that they work for ordinary Americans. \n \nThat's why I'm endorsing him for his reelection for the U.S. Senate. \n \n Video",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/BernieSanders/status/2075224283962347879#m",
+    "published_iso": "2026-07-09T14:23:19+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "9410396a4e82",
+    "politician": "Sen. Cynthia Lummis",
+    "initials": "CL",
+    "role": "Senate Banking Subcommittee (Crypto)",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#c4b5fd"
+    },
+    "severity": "critical",
+    "content": "We both want bad actors held accountable. The difference is I\u2019m working on solutions, you\u2019re shouting into the void hoping the status quo fixes itself.  \n \nSec. 303 enables new crypto sanctions on Iran.  \n \nSec. 305 lets exchanges stop illicit funds before they reach North Korea. \n \n\n \n\n \n \n Elizabeth Warren (@SenWarre",
+    "tags": [
+      "Crypto",
+      "Sanctions"
+    ],
+    "tickers": [
+      "BTC",
+      "ETH",
+      "COIN",
+      "LMT"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SenLummis/status/2075221688795504926#m",
+    "published_iso": "2026-07-09T14:13:01+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "8a972fc0dab9",
@@ -61,7 +205,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13878/supplemental-disaster-assistance-programs-marketing-assistance-loans-and-sugar-provisions",
     "published_iso": "2026-07-09T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "d125a111dd80",
@@ -83,7 +227,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13875/zero-based-regulating",
     "published_iso": "2026-07-09T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "e330e2eed3e2",
@@ -102,7 +246,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13873/advancement-of-the-low-power-television-tv-translator-and-class-a-television-service",
     "published_iso": "2026-07-09T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "b3531cc7bdbb",
@@ -121,7 +265,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13867/fisheries-of-the-northeastern-united-states-2026-chub-mackerel-squid-and-butterfish-fishery",
     "published_iso": "2026-07-09T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "931b45eaba49",
@@ -142,7 +286,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13860/rescinding-portions-of-department-of-state-title-vi-regulations-to-conform-more-closely-with-the",
     "published_iso": "2026-07-09T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "16939fab8dc4",
@@ -164,7 +308,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13851/charitable-remainder-annuity-trust-listed-transaction",
     "published_iso": "2026-07-09T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "172e6b7a20df",
@@ -183,7 +327,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13843/air-plan-approval-michigan-redesignation-and-maintenance-plan-for-the-partial-st-clair-2010-1-hour",
     "published_iso": "2026-07-09T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "34597ef1994c",
@@ -209,7 +353,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13841/revisions-to-the-biorefinery-renewable-chemical-and-biobased-product-manufacturing-assistance-loan",
     "published_iso": "2026-07-09T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "96c3ae9d766b",
@@ -237,7 +381,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2075005436735234536#m",
     "published_iso": "2026-07-08T23:53:42+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "838666d0ee46",
@@ -258,7 +402,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mq6cswwhxs2p",
     "published_iso": "2026-07-08T23:52:04.740000+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "e1d141871b1d",
@@ -277,7 +421,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mq63bnn5gk2p",
     "published_iso": "2026-07-08T21:37:08.376000+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "503a1ca00428",
@@ -302,7 +446,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/PatrickMcHenry/status/2074933945850896773#m",
     "published_iso": "2026-07-08T19:09:37+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "f89a6aed75a9",
@@ -329,7 +473,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2074931974469296553#m",
     "published_iso": "2026-07-08T19:01:47+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "dc169391dc18",
@@ -348,7 +492,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
     "published_iso": "2026-07-08T18:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "a0c06a665c19",
@@ -374,7 +518,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2074906603698971029#m",
     "published_iso": "2026-07-08T17:20:58+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "53d50b91f2ba",
@@ -465,7 +609,7 @@
     "tickers": [],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "https://nitter.net/USDOL/status/2074544098590007508#m",
+    "url": "http://nt.vern.cc/USDOL/status/2074544098590007508#m",
     "published_iso": "2026-07-07T17:20:30+00:00",
     "time_ago": "1d ago"
   },
@@ -531,28 +675,6 @@
     "time_ago": "4d ago"
   },
   {
-    "id": "6ee2d6bd79ed",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "One Year Later: President Trump\u2019s Working Families Tax Cuts Are Delivering for American Workers. As we celebrate America&#8217;s 250th birthday this week, our nation is stronger with President Trump at the helm\u2014 a leader who believes that people who work hard every day deserve to keep more of what they earn. One year a",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/releases/2026/07/one-year-later-president-trumps-working-families-tax-cuts-are-delivering-for-american-workers/",
-    "published_iso": "2026-07-03T17:18:56+00:00",
-    "time_ago": "5d ago"
-  },
-  {
     "id": "ae33a3c26ef2",
     "politician": "U.S. Trade Rep.",
     "initials": "USTR",
@@ -600,7 +722,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260702a.htm",
     "published_iso": "2026-07-02T15:00:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "41e3e029b7e1",
@@ -821,7 +943,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mp76tbiwqc2c",
     "published_iso": "2026-06-26T14:48:08.974000+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "b68ff8c6e424",
@@ -840,32 +962,6 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h227?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-25T17:29:00+00:00",
-    "time_ago": "13d ago"
-  },
-  {
-    "id": "cf50e2364299",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.. Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm",
-    "published_iso": "2026-06-25T15:00:00+00:00",
     "time_ago": "13d ago"
   },
   {
@@ -892,7 +988,33 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
     "published_iso": "2026-06-25T15:00:00+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
+  },
+  {
+    "id": "cf50e2364299",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.. Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm",
+    "published_iso": "2026-06-25T15:00:00+00:00",
+    "time_ago": "14d ago"
   },
   {
     "id": "deb21a2007f6",
@@ -917,32 +1039,6 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s192?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-25T02:30:00+00:00",
-    "time_ago": "14d ago"
-  },
-  {
-    "id": "0e2c47821b03",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses. Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to c",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260624a.htm",
-    "published_iso": "2026-06-24T20:00:00+00:00",
     "time_ago": "14d ago"
   },
   {
@@ -1070,7 +1166,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-legalizing-premium-health-care-act/",
     "published_iso": "2026-05-20T15:26:37+00:00",
-    "time_ago": "49d ago"
+    "time_ago": "50d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -1091,7 +1187,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "58d ago"
+    "time_ago": "59d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1117,7 +1213,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "64d ago"
+    "time_ago": "65d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1139,7 +1235,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "72d ago"
+    "time_ago": "73d ago"
   },
   {
     "id": "0047e3ab5b67",
@@ -1161,7 +1257,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "79d ago"
+    "time_ago": "80d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1226,7 +1322,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "134d ago"
+    "time_ago": "135d ago"
   },
   {
     "id": "602146d3f751",
@@ -1269,7 +1365,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "145d ago"
+    "time_ago": "146d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1288,7 +1384,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "145d ago"
+    "time_ago": "146d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1333,7 +1429,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "204d ago"
+    "time_ago": "205d ago"
   },
   {
     "id": "e88c3c11d67a",
@@ -1355,6 +1451,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/983956",
     "published_iso": "2025-10-30T16:06:54+00:00",
-    "time_ago": "251d ago"
+    "time_ago": "252d ago"
   }
 ]
