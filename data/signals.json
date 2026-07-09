@@ -1,5 +1,68 @@
 [
   {
+    "id": "44501538ede6",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Li Tianmin sold 2,518 shares of Vipshop Holdings Ltd (VIPS) \u00b7 $67.45/share \u00b7 $169,849 total \u00b7 Jul 9",
+    "tags": [],
+    "tickers": [
+      "VIPS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2111248/000211124826000002/0002111248-26-000002-index.htm",
+    "published_iso": "2026-07-09T10:21:18+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "b1191a6f11a2",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Trump's pledge to lift Turkey sanctions sets up fight with Congress, allies. President Trump is setting up a fight with Congress and regional allies over his announcement Tuesday that he will remove sanctions on Turkey and potentially welcome Ankara back into the F-35 fighter jet program, despite its possession of a Ru",
+    "tags": [
+      "Defense",
+      "Regulation",
+      "Sanctions"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/defense/5959945-trump-turkey-sanctions-fight-f35s-congress-fight/",
+    "published_iso": "2026-07-09T10:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "0081e241f9ac",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Rising Obamacare premiums fuel Democrats' affordability attacks against GOP. Obamacare premiums are poised for a double-digit increase in 2027, putting more Americans on the hook for hundreds of dollars in additional costs per month and adding fuel to Democratic attacks over affordability ahead of the midterm elections",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/healthcare/5959964-obamacare-premiums-climb-affordability-midterms/",
+    "published_iso": "2026-07-09T10:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "8a972fc0dab9",
     "politician": "Federal Register",
     "initials": "FR",
@@ -19,7 +82,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13878/supplemental-disaster-assistance-programs-marketing-assistance-loans-and-sugar-provisions",
     "published_iso": "2026-07-09T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "d125a111dd80",
@@ -41,7 +104,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13875/zero-based-regulating",
     "published_iso": "2026-07-09T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "e330e2eed3e2",
@@ -60,7 +123,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13873/advancement-of-the-low-power-television-tv-translator-and-class-a-television-service",
     "published_iso": "2026-07-09T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "b3531cc7bdbb",
@@ -79,7 +142,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13867/fisheries-of-the-northeastern-united-states-2026-chub-mackerel-squid-and-butterfish-fishery",
     "published_iso": "2026-07-09T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "931b45eaba49",
@@ -100,7 +163,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13860/rescinding-portions-of-department-of-state-title-vi-regulations-to-conform-more-closely-with-the",
     "published_iso": "2026-07-09T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "16939fab8dc4",
@@ -122,7 +185,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13851/charitable-remainder-annuity-trust-listed-transaction",
     "published_iso": "2026-07-09T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "172e6b7a20df",
@@ -141,7 +204,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13843/air-plan-approval-michigan-redesignation-and-maintenance-plan-for-the-partial-st-clair-2010-1-hour",
     "published_iso": "2026-07-09T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "34597ef1994c",
@@ -167,217 +230,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13841/revisions-to-the-biorefinery-renewable-chemical-and-biobased-product-manufacturing-assistance-loan",
     "published_iso": "2026-07-09T04:00:00+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "8e8a03491276",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Bruce Kofi A received 24,225 shares of General Mills Inc (GIS) \u00b7 Jul 8",
-    "tags": [],
-    "tickers": [
-      "GIS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1711382/000089710126000327/0000897101-26-000327-index.htm",
-    "published_iso": "2026-07-09T01:54:30+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "0de783c29304",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Harmening Jeffrey L received 69,214 shares of General Mills Inc (GIS) \u00b7 Jul 8",
-    "tags": [],
-    "tickers": [
-      "GIS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1605892/000089710126000326/0000897101-26-000326-index.htm",
-    "published_iso": "2026-07-09T01:53:27+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "794399c58b36",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Mascolo Elizabeth received 6,576 shares of General Mills Inc (GIS) \u00b7 Jul 8",
-    "tags": [],
-    "tickers": [
-      "GIS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2060847/000089710126000325/0000897101-26-000325-index.htm",
-    "published_iso": "2026-07-09T01:52:28+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "5afb7e53f29d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Mcnabb Dana M received 27,686 shares of General Mills Inc (GIS) \u00b7 Jul 8",
-    "tags": [],
-    "tickers": [
-      "GIS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1794679/000089710126000324/0000897101-26-000324-index.htm",
-    "published_iso": "2026-07-09T01:51:29+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "6507ac1aebab",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Montemayor Jaime received 17,304 shares of General Mills Inc (GIS) \u00b7 Jul 8",
-    "tags": [],
-    "tickers": [
-      "GIS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1803669/000089710126000323/0000897101-26-000323-index.htm",
-    "published_iso": "2026-07-09T01:50:28+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "67e5e7299d19",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Ness Jonathan David received 5,884 shares of General Mills Inc (GIS) \u00b7 Jul 8",
-    "tags": [],
-    "tickers": [
-      "GIS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2122870/000089710126000322/0000897101-26-000322-index.htm",
-    "published_iso": "2026-07-09T01:49:40+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "2ccc49b667b4",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Pallot Mark A received 2,077 shares of General Mills Inc (GIS) \u00b7 Jul 8",
-    "tags": [],
-    "tickers": [
-      "GIS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1800699/000089710126000321/0000897101-26-000321-index.htm",
-    "published_iso": "2026-07-09T01:48:40+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "5b0bb551796d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Saksena Asheesh received 13,063 shares of General Mills Inc (GIS) \u00b7 Jul 8",
-    "tags": [],
-    "tickers": [
-      "GIS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1701497/000089710126000320/0000897101-26-000320-index.htm",
-    "published_iso": "2026-07-09T01:47:55+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "187e5ce2af21",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Shaffer Werner Lanette received 6,576 shares of General Mills Inc (GIS) \u00b7 Jul 8",
-    "tags": [],
-    "tickers": [
-      "GIS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1980222/000089710126000319/0000897101-26-000319-index.htm",
-    "published_iso": "2026-07-09T01:47:09+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "6c98a56b13e3",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Sharma Pankaj Mn received 6,576 shares of General Mills Inc (GIS) \u00b7 Jul 8",
-    "tags": [],
-    "tickers": [
-      "GIS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2013148/000089710126000318/0000897101-26-000318-index.htm",
-    "published_iso": "2026-07-09T01:46:24+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "96c3ae9d766b",
@@ -405,7 +258,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2075005436735234536#m",
     "published_iso": "2026-07-08T23:53:42+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "838666d0ee46",
@@ -426,7 +279,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mq6cswwhxs2p",
     "published_iso": "2026-07-08T23:52:04.740000+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "e1d141871b1d",
@@ -445,7 +298,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mq63bnn5gk2p",
     "published_iso": "2026-07-08T21:37:08.376000+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "503a1ca00428",
@@ -470,7 +323,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/PatrickMcHenry/status/2074933945850896773#m",
     "published_iso": "2026-07-08T19:09:37+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "f89a6aed75a9",
@@ -497,7 +350,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2074931974469296553#m",
     "published_iso": "2026-07-08T19:01:47+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "dc169391dc18",
@@ -516,7 +369,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
     "published_iso": "2026-07-08T18:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "a0c06a665c19",
@@ -542,7 +395,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2074906603698971029#m",
     "published_iso": "2026-07-08T17:20:58+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "53d50b91f2ba",
@@ -567,7 +420,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/Jim_Jordan/status/2074847081894711735#m",
     "published_iso": "2026-07-08T13:24:27+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "7c7027804e65",
@@ -635,27 +488,6 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/USDOL/status/2074544098590007508#m",
     "published_iso": "2026-07-07T17:20:30+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "3cbf822d77a2",
-    "politician": "Politico",
-    "initials": "PO",
-    "role": "Political News",
-    "color": {
-      "bg": "#1a0a0a",
-      "fg": "#fca5a5"
-    },
-    "severity": "low",
-    "content": "Bernie Sanders says he told Graham Platner to \u2018step aside\u2019. It\u2019s Sanders\u2019 first comment since POLITICO reported on Monday that a woman who dated Platner says he sexually assaulted her",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "politico",
-    "platform": "Politico",
-    "url": "https://www.politico.com/news/2026/07/07/bernie-sanders-graham-platner-drop-out-00988638",
-    "published_iso": "2026-07-07T16:32:27+00:00",
     "time_ago": "1d ago"
   },
   {
