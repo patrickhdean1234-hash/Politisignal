@@ -1,6 +1,6 @@
 [
   {
-    "id": "d8c49578d2d8",
+    "id": "d304888ee12b",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,16 +9,93 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Magalhaes Joao exercised options for 1,658 shares of Fuller H B Co (FUL) \u00b7 $50.10/share \u00b7 $83,066 total \u00b7 Jul 10",
+    "content": "Cockrell Sanford Alonza Iii received 100,000 shares of Xcf Global, Inc. (SAFX) \u00b7 Jul 10 ($0 across all blocks)",
     "tags": [],
     "tickers": [
-      "FUL"
+      "SAFX"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2058348/000122520826006556/0001225208-26-006556-index.htm",
-    "published_iso": "2026-07-10T15:32:04+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/2066373/000206637326000005/0002066373-26-000005-index.htm",
+    "published_iso": "2026-07-10T17:20:30+00:00",
     "time_ago": "2m ago"
+  },
+  {
+    "id": "69243ed94999",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Top Democrats bash Trump over cryptocurrency income. Top Senate Democrats slammed President Trump on Friday over the more than $1 billion in cryptocurrency-related income he reported last year, calling for investigations into the national security ramifications of the president\u2019s digital asset holdings. The administrat",
+    "tags": [
+      "Crypto",
+      "Regulation"
+    ],
+    "tickers": [
+      "BTC",
+      "ETH",
+      "COIN",
+      "XRP"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/senate/5962664-senate-dems-elizabeth-warren-richard-blumenthal-dick-durbin-gary-peters-donald-trump-crypto-criticism/",
+    "published_iso": "2026-07-10T16:02:22+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "e4292ff8c4d9",
+    "politician": "Rep. Patrick McHenry",
+    "initials": "PM",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#2d1e5f",
+      "fg": "#c084fc"
+    },
+    "severity": "critical",
+    "content": "federalreserve.gov/newsevent\u2026  \n \n Link  \n \n \n \n Federal Reserve announces the leadership and objectives of its task forces to advance the conduct... \n \n The Federal Reserve on Thursday announced the leadership and objectives of its task forces to advance the conduct of monetary policy. &quot;The Federal Reserve&apos;s",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/PatrickMcHenry/status/2075608154201624720#m",
+    "published_iso": "2026-07-10T15:48:41+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "18f327bab25a",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "medium",
+    "content": "Important quotes and lessons on liberty can be found in  @markm1776 's book, \"The Forbidden Idea: Hidden Truths About Individual Liberty, Economic Freedom, Political Philosophy, and History.\" Be sure to get your copy today:  amazon.com/Forbidden-Idea-In\u2026",
+    "tags": [
+      "Big Tech",
+      "Trade"
+    ],
+    "tickers": [
+      "AMZN"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/RandPaul/status/2075604961031811106#m",
+    "published_iso": "2026-07-10T15:36:00+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "25c9f1f8454a",
@@ -39,7 +116,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/10/2026-13998/facilitating-implementation-of-next-generation-911-services-ng911-improving-911-reliability",
     "published_iso": "2026-07-10T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "466fb1faaea1",
@@ -58,7 +135,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/10/2026-13983/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-07-10T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "24c808c7c705",
@@ -77,7 +154,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/10/2026-13981/airworthiness-directives-bombardier-inc-airplanes",
     "published_iso": "2026-07-10T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "e73c4f9cd275",
@@ -100,7 +177,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/10/2026-13980/establishment-of-class-e-airspace-conneaut-oh",
     "published_iso": "2026-07-10T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "3854748ed253",
@@ -121,7 +198,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/10/2026-13979/airworthiness-directives-cfm-international-sa-engines",
     "published_iso": "2026-07-10T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "48c06d2d21c9",
@@ -140,7 +217,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/10/2026-13977/airworthiness-directives-airbus-helicopters",
     "published_iso": "2026-07-10T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "1820e540aad9",
@@ -162,7 +239,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/10/2026-13971/expansion-of-va-process-for-72-hour-notification-of-emergency-treatment",
     "published_iso": "2026-07-10T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "d0cf7ddb6394",
@@ -188,7 +265,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/AbdulElSayed/status/2075311672550445566#m",
     "published_iso": "2026-07-09T20:10:34+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "14224f4fd608",
@@ -214,7 +291,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
     "published_iso": "2026-07-09T19:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "e2811cd80013",
@@ -233,9 +310,9 @@
     "tickers": [],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "http://nt.vern.cc/SpeakerJohnson/status/2075290771591196678#m",
+    "url": "https://nitter.net/SpeakerJohnson/status/2075290771591196678#m",
     "published_iso": "2026-07-09T18:47:31+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "374047f602cb",
@@ -311,7 +388,7 @@
     ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "https://nitter.net/SenLummis/status/2075221688795504926#m",
+    "url": "http://nt.vern.cc/SenLummis/status/2075221688795504926#m",
     "published_iso": "2026-07-09T14:13:01+00:00",
     "time_ago": "1d ago"
   },
@@ -410,7 +487,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2074906603698971029#m",
     "published_iso": "2026-07-08T17:20:58+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "7c7027804e65",
@@ -883,64 +960,6 @@
     "time_ago": "21d ago"
   },
   {
-    "id": "37bfe4923312",
-    "politician": "Sen. Cynthia Lummis",
-    "initials": "CL",
-    "role": "Senate Banking Subcommittee (Crypto)",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#c4b5fd"
-    },
-    "severity": "critical",
-    "content": "Lummis Leads Colleagues in Urging Treasury to Preserve State Authority Under GENIUS Act. Washington D.C. \u2014&#160;Senate Banking Subcommittee on Digital Assets Chair Cynthia Lummis (R-WY) led Senators Kirsten Gillibrand (D-NY), Bill Hagerty (R-TN), Angela Alsobrooks (D-MD), Kevin Cramer (R-ND), Catherine Cortez Masto (D-",
-    "tags": [
-      "Crypto",
-      "Banking",
-      "Defense",
-      "Regulation"
-    ],
-    "tickers": [
-      "BTC",
-      "ETH",
-      "COIN",
-      "XRP"
-    ],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "https://www.lummis.senate.gov/press-releases/lummis-leads-colleagues-in-urging-treasury-to-preserve-state-authority-under-genius-act/",
-    "published_iso": "2026-06-16T19:13:07+00:00",
-    "time_ago": "23d ago"
-  },
-  {
-    "id": "7efa4c0a4cc7",
-    "politician": "Sen. Cynthia Lummis",
-    "initials": "CL",
-    "role": "Senate Banking Subcommittee (Crypto)",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#c4b5fd"
-    },
-    "severity": "critical",
-    "content": "Lummis, Sullivan Lead Colleagues in Urging Bank Regulators to Establish Fair Capital Standards for Digital Assets. Washington D.C. \u2014&#160;Senate Banking Subcommittee on Digital Assets Chair Cynthia Lummis (R-WY) and Senator Dan Sullivan (R-AK) led their colleagues Senators Bill Hagerty (R-TN), Bernie Moreno (R-OH), Ted",
-    "tags": [
-      "Crypto",
-      "Banking",
-      "Defense",
-      "Regulation"
-    ],
-    "tickers": [
-      "BTC",
-      "ETH",
-      "COIN",
-      "XRP"
-    ],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "https://www.lummis.senate.gov/press-releases/lummis-sullivan-lead-colleagues-in-urging-bank-regulators-to-establish-fair-capital-standards-for-digital-assets/",
-    "published_iso": "2026-06-04T14:07:24+00:00",
-    "time_ago": "36d ago"
-  },
-  {
     "id": "ddb58e0107d1",
     "politician": "Sen. Rand Paul",
     "initials": "RP",
@@ -1007,7 +1026,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "59d ago"
+    "time_ago": "60d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1077,7 +1096,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "80d ago"
+    "time_ago": "81d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1142,7 +1161,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "135d ago"
+    "time_ago": "136d ago"
   },
   {
     "id": "602146d3f751",
@@ -1230,7 +1249,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "168d ago"
+    "time_ago": "169d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1271,6 +1290,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/983956",
     "published_iso": "2025-10-30T16:06:54+00:00",
-    "time_ago": "252d ago"
+    "time_ago": "253d ago"
   }
 ]
