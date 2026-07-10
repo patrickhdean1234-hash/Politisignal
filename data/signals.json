@@ -1,6 +1,6 @@
 [
   {
-    "id": "3b0d3e97400f",
+    "id": "79cc8207e82a",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,147 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Koschel Williams Ena sold 2,800 shares of Caseys General Stores Inc (CASY) \u00b7 $833.69/share \u00b7 $2,334,332 total \u00b7 Jul 10",
+    "content": "Bass Carl received 6,479 shares of Planet Labs Pbc (PL) \u00b7 Jul 10 ($0 across all blocks)",
     "tags": [],
     "tickers": [
-      "CASY"
+      "PL"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1777759/000072695826000058/0000726958-26-000058-index.htm",
-    "published_iso": "2026-07-10T18:50:50+00:00",
-    "time_ago": "3m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1836833/000122113726000002/0001221137-26-000002-index.htm",
+    "published_iso": "2026-07-10T20:16:12+00:00",
+    "time_ago": "just now"
   },
   {
-    "id": "f73ff57acbc4",
+    "id": "33463ff869a5",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Fiore Michael Henry withheld (tax) 2,045 shares of Healthequity, Inc. (HQY) \u00b7 $95.08/share \u00b7 $194,445 total \u00b7 Jul 10",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "HQY"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2016116/000201611626000018/0002016116-26-000018-index.htm",
+    "published_iso": "2026-07-10T20:16:03+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "d06af77675f9",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Shaman David R. withheld (tax) 704 shares of Bentley Systems Inc (BSY) \u00b7 $31.65/share \u00b7 $22,282 total \u00b7 Jul 10",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "BSY"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1825193/000110465926082657/0001104659-26-082657-index.htm",
+    "published_iso": "2026-07-10T20:15:19+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "c248d895061e",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Gloria Melanie sold 1,930 shares of Immunovant, Inc. (IMVT) \u00b7 $39.53/share \u00b7 $76,293 total \u00b7 Jul 10 ($80,532 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "IMVT"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1973838/000176401326000083/0001764013-26-000083-index.htm",
+    "published_iso": "2026-07-10T20:15:18+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "483b8e4ad35c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Shlomi Ben Haim sold 5,845 shares of Jfrog Ltd (FROG) \u00b7 $93.65/share \u00b7 $547,384 total \u00b7 Jul 10 ($1,415,526 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "FROG"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1823009/000182300926000019/0001823009-26-000019-index.htm",
+    "published_iso": "2026-07-10T20:15:17+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "099dcbcf436f",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Fukushima Ryan sold 13,984 shares of Tempus Ai, Inc. (TEM) \u00b7 $56.80/share \u00b7 $794,291 total \u00b7 Jul 10 ($1,910,123 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "TEM"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2024250/000202425026000020/0002024250-26-000020-index.htm",
+    "published_iso": "2026-07-10T20:15:16+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "c257b81dfedc",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "medium",
+    "content": "If a government scientist is getting paid by outside companies, you deserve to know. Period. \n \nMy Royalty Transparency Act would end the secrecy that let Fauci's conflicts go unchecked for years. \n \n \n Joe Rogan Podcast News (@joeroganhq) \n \n Rand Paul: \"Not one scientist in government reveals their royalties. Some of",
+    "tags": [],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/RandPaul/status/2075673412018880991#m",
+    "published_iso": "2026-07-10T20:08:00+00:00",
+    "time_ago": "8m ago"
+  },
+  {
+    "id": "e982984c0d41",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -29,18 +157,23 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "high",
-    "content": "Right to vehicle repair is about keeping America moving. The REPAIR Act is a bipartisan bill that would ensure independent dealers and repair shops have access to the same service information, diagnostics, software updates, parts, and specialized tools available to manufacturers and their authorized networks, which wou",
+    "severity": "critical",
+    "content": "Bipartisan senators welcome deal with Trump on stalled Russia sanctions bill. A bipartisan group of senators announced Friday they reached an agreement with the White House on language for a Russia sanctions bill stalled in Congress for more than a year.\u00a0 \u201cWe are proud to announce that we have reached an agreement with",
     "tags": [
+      "Defense",
       "Regulation",
-      "Taxes"
+      "Sanctions"
     ],
-    "tickers": [],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/congress-blog/5962085-repair-act-protects-consumers/",
-    "published_iso": "2026-07-10T17:30:00+00:00",
-    "time_ago": "1h ago"
+    "url": "https://thehill.com/homenews/senate/5963080-senators-trump-russia-sanctions-bill/",
+    "published_iso": "2026-07-10T19:24:12+00:00",
+    "time_ago": "52m ago"
   },
   {
     "id": "e4292ff8c4d9",
@@ -66,7 +199,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/PatrickMcHenry/status/2075608154201624720#m",
     "published_iso": "2026-07-10T15:48:41+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "18f327bab25a",
@@ -90,7 +223,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2075604961031811106#m",
     "published_iso": "2026-07-10T15:36:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "25c9f1f8454a",
@@ -111,7 +244,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/10/2026-13998/facilitating-implementation-of-next-generation-911-services-ng911-improving-911-reliability",
     "published_iso": "2026-07-10T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "466fb1faaea1",
@@ -130,7 +263,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/10/2026-13983/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-07-10T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "24c808c7c705",
@@ -149,7 +282,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/10/2026-13981/airworthiness-directives-bombardier-inc-airplanes",
     "published_iso": "2026-07-10T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "e73c4f9cd275",
@@ -172,7 +305,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/10/2026-13980/establishment-of-class-e-airspace-conneaut-oh",
     "published_iso": "2026-07-10T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "3854748ed253",
@@ -193,7 +326,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/10/2026-13979/airworthiness-directives-cfm-international-sa-engines",
     "published_iso": "2026-07-10T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "48c06d2d21c9",
@@ -212,7 +345,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/10/2026-13977/airworthiness-directives-airbus-helicopters",
     "published_iso": "2026-07-10T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "1820e540aad9",
@@ -234,7 +367,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/10/2026-13971/expansion-of-va-process-for-72-hour-notification-of-emergency-treatment",
     "published_iso": "2026-07-10T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "d0cf7ddb6394",
@@ -260,7 +393,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/AbdulElSayed/status/2075311672550445566#m",
     "published_iso": "2026-07-09T20:10:34+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "14224f4fd608",
@@ -286,7 +419,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
     "published_iso": "2026-07-09T19:00:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "e2811cd80013",
@@ -410,7 +543,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/PatrickMcHenry/status/2074933945850896773#m",
     "published_iso": "2026-07-08T19:09:37+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "f89a6aed75a9",
@@ -437,7 +570,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2074931974469296553#m",
     "published_iso": "2026-07-08T19:01:47+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "dc169391dc18",
@@ -503,7 +636,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm",
     "published_iso": "2026-07-07T19:00:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "bc254cc73522",
@@ -789,7 +922,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/trade-topics/enforcement/section-301-investigations/section-301-germanys-persistent-underpayment-innovative-pharmaceutical-products",
     "published_iso": "2026-06-26T19:36:57+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "53362cadd01e",
@@ -905,7 +1038,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/news/pelosi-update/more-perfect-union",
     "published_iso": "2026-06-18T19:41:05+00:00",
-    "time_ago": "21d ago"
+    "time_ago": "22d ago"
   },
   {
     "id": "37bfe4923312",
@@ -934,7 +1067,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-leads-colleagues-in-urging-treasury-to-preserve-state-authority-under-genius-act/",
     "published_iso": "2026-06-16T19:13:07+00:00",
-    "time_ago": "23d ago"
+    "time_ago": "24d ago"
   },
   {
     "id": "7efa4c0a4cc7",
@@ -1145,7 +1278,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "106d ago"
+    "time_ago": "107d ago"
   },
   {
     "id": "782af70b6ebe",
@@ -1189,7 +1322,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-announces-2026-service-academy-nominations/",
     "published_iso": "2026-02-18T19:38:51+00:00",
-    "time_ago": "141d ago"
+    "time_ago": "142d ago"
   },
   {
     "id": "00f579ee8f55",
