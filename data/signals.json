@@ -1,6 +1,6 @@
 [
   {
-    "id": "27908e40d33f",
+    "id": "d54b93c6277e",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,21 +9,66 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Lee David J. withheld (tax) 9,463 shares of Webtoon Entertainment Inc. (WBTN) \u00b7 $11.54/share \u00b7 $109,203 total \u00b7 Jul 13",
+    "content": "Thoma Donald Lee received 41,949 shares of Iridium Communications Inc. (IRDM) \u00b7 Jul 13",
+    "tags": [],
+    "tickers": [
+      "IRDM"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1472725/000112329226001005/0001123292-26-001005-index.htm",
+    "published_iso": "2026-07-13T23:22:11+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "48b329932768",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Cohen & Co Inc. bought 265,000 shares of Columbus Circle Capital Corp Iii (CCCTU) \u00b7 $10.00/share \u00b7 $2,650,000 total \u00b7 Jul 13",
+    "tags": [],
+    "tickers": [
+      "CCCTU"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2137455/000118518526002924/0001185185-26-002924-index.htm",
+    "published_iso": "2026-07-13T23:20:55+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "bafaa03fa9ec",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Trump's proposed research rule faces widespread pushback. Click in for more news from The Hill {beacon} Healthcare Health Care &#8202; Your feedback matters to us. Take our brief newsletter survey to help us improve the newsletters you read every day.  The Big Story  Trump's proposed research rule faces pushback Patien",
     "tags": [
-      "Taxes"
+      "Healthcare",
+      "Regulation"
     ],
     "tickers": [
-      "WBTN"
+      "UNH",
+      "HCA",
+      "CVS"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1997859/000160518226000014/0001605182-26-000014-index.htm",
-    "published_iso": "2026-07-13T22:17:54+00:00",
-    "time_ago": "7m ago"
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/healthcare/5966698-trump-research-rule-pushback/",
+    "published_iso": "2026-07-13T23:20:05+00:00",
+    "time_ago": "5m ago"
   },
   {
-    "id": "9bceb58ef286",
+    "id": "b0fbfa6f6a9d",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -32,19 +77,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Loh Michael Anthony bought 3,658 shares of Butler National Corp (BUKS) \u00b7 $4.34/share \u00b7 $15,876 total \u00b7 Jul 13",
+    "content": "Ullal Jayshree sold 12,005 shares of Arista Networks, Inc. (ANET) \u00b7 $187.31/share \u00b7 $2,248,683 total \u00b7 Jul 13 ($45,616,220 across all blocks)",
     "tags": [],
     "tickers": [
-      "BUKS"
+      "ANET"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2033348/000203334826000008/0002033348-26-000008-index.htm",
-    "published_iso": "2026-07-13T22:17:20+00:00",
-    "time_ago": "8m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1605809/000159653226000160/0001596532-26-000160-index.htm",
+    "published_iso": "2026-07-13T23:07:30+00:00",
+    "time_ago": "18m ago"
   },
   {
-    "id": "1e98ca56b76d",
+    "id": "06d27a367ab2",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -53,81 +98,79 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Eisen Anthony Mathew sold 6,000 shares of Block, Inc. (BSQKZ) \u00b7 $76.14/share \u00b7 $456,840 total \u00b7 Jul 13 ($1,400,400 across all blocks)",
+    "content": "Feierstein Matthew David sold 1,971 shares of Evercommerce Inc. (EVCM) \u00b7 $10.03/share \u00b7 $19,761 total \u00b7 Jul 13",
     "tags": [],
     "tickers": [
-      "BSQKZ"
+      "EVCM"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1933928/000162828026048060/0001628280-26-048060-index.htm",
-    "published_iso": "2026-07-13T22:12:56+00:00",
-    "time_ago": "12m ago"
-  },
-  {
-    "id": "f1dfcfb1d64e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "El-Haj Ali Omar withheld (tax) 8,918 shares of Rogers Corp (ROG) \u00b7 $137.52/share \u00b7 $1,226,403 total \u00b7 Jul 13",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "ROG"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2076878/000207687826000003/0002076878-26-000003-index.htm",
-    "published_iso": "2026-07-13T22:12:18+00:00",
-    "time_ago": "13m ago"
-  },
-  {
-    "id": "6a2dc50a8809",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Stevens Brent M sold 2,300 shares of Concrete Pumping Holdings, Inc. (BBCP) \u00b7 $10.78/share \u00b7 $24,797 total \u00b7 Jul 13 ($1,082,976 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "BBCP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1703956/000143774926023453/0001437749-26-023453-index.htm",
-    "published_iso": "2026-07-13T22:11:36+00:00",
-    "time_ago": "14m ago"
-  },
-  {
-    "id": "a075d7ad4a9b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Sankarlingam Velchamy exercised options for 20,751 shares of Zoom Communications, Inc. (ZM) \u00b7 Jul 13 ($922,857 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "ZM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1814012/000158552126000102/0001585521-26-000102-index.htm",
-    "published_iso": "2026-07-13T22:02:49+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/1856776/000185677626000034/0001856776-26-000034-index.htm",
+    "published_iso": "2026-07-13T23:02:05+00:00",
     "time_ago": "23m ago"
+  },
+  {
+    "id": "42bdb1f6bf5a",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Li David H exercised options for 373 shares of Hexcel Corp /De/ (HXL) \u00b7 Jul 13",
+    "tags": [],
+    "tickers": [
+      "HXL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1436880/000119312526302234/0001193125-26-302234-index.htm",
+    "published_iso": "2026-07-13T22:49:59+00:00",
+    "time_ago": "35m ago"
+  },
+  {
+    "id": "cefdf6aefa97",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Lenamon William Chad sold 1,000 shares of Kodiak Gas Services, Inc. (KGS) \u00b7 $67.79/share \u00b7 $67,790 total \u00b7 Jul 13",
+    "tags": [],
+    "tickers": [
+      "KGS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1971854/000119312526302231/0001193125-26-302231-index.htm",
+    "published_iso": "2026-07-13T22:47:06+00:00",
+    "time_ago": "38m ago"
+  },
+  {
+    "id": "3f44ebc661af",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Trump shrinks Utah monuments. {beacon} Energy &#038; Environment Energy &#038; Environment &#8202; Your feedback matters to us. Take our brief newsletter survey to help us improve the newsletters you read every day.  The Big Story  Trump shrinks Bears Ears, Grand Staircase-Escalante President Trump on Monday signed exe",
+    "tags": [
+      "Energy"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/energy-environment/5966649-trump-shrinks-utah-monuments/",
+    "published_iso": "2026-07-13T22:41:47+00:00",
+    "time_ago": "43m ago"
   },
   {
     "id": "8a0e08056b1d",
@@ -148,91 +191,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/policy/energy-environment/5966604-trump-shrinks-utah-monuments/",
     "published_iso": "2026-07-13T22:02:31+00:00",
-    "time_ago": "23m ago"
-  },
-  {
-    "id": "366079547211",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Mcgarry Kimberly J exercised options for 12,486 shares of Zoom Communications, Inc. (ZM) \u00b7 Jul 13 ($483,497 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "ZM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1585521/000158552126000100/0001585521-26-000100-index.htm",
-    "published_iso": "2026-07-13T22:01:48+00:00",
-    "time_ago": "24m ago"
-  },
-  {
-    "id": "df21af670ef8",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Chang Michelle exercised options for 22,217 shares of Zoom Communications, Inc. (ZM) \u00b7 Jul 13 ($1,534,958 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "ZM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2040959/000158552126000098/0001585521-26-000098-index.htm",
-    "published_iso": "2026-07-13T22:00:05+00:00",
-    "time_ago": "25m ago"
-  },
-  {
-    "id": "7087e9277ce2",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Sporck Alistair N withheld (tax) 209 shares of Aehr Test Systems (AEHR) \u00b7 $72.60/share \u00b7 $15,173 total \u00b7 Jul 13",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "AEHR"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1939261/000104047026000207/0001040470-26-000207-index.htm",
-    "published_iso": "2026-07-13T22:00:00+00:00",
-    "time_ago": "25m ago"
-  },
-  {
-    "id": "d52c34a9c582",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Kropp James H bought 2,200 shares of Kkr Asset-Based Finance Fund \u00b7 $22.73/share \u00b7 $50,000 total \u00b7 Jul 13",
-    "tags": [],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1787621/000094562126000902/0000945621-26-000902-index.htm",
-    "published_iso": "2026-07-13T21:58:50+00:00",
-    "time_ago": "27m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "6ab9a5d688d5",
@@ -253,7 +212,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-sent-to-the-senate-3fd0/",
     "published_iso": "2026-07-13T20:39:42+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "d56eb50d4531",
@@ -279,28 +238,6 @@
     "platform": "Twitter/X",
     "url": "http://nt.vern.cc/SenWarren/status/2076746129086042236#m",
     "published_iso": "2026-07-13T19:10:35+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "2dd98b1cfa69",
-    "politician": "Rep. Mike Johnson",
-    "initials": "MJ",
-    "role": "Speaker of the House",
-    "color": {
-      "bg": "#2a1a1a",
-      "fg": "#fbbf24"
-    },
-    "severity": "critical",
-    "content": "Article  \n \n \n \n One Year Later: Democrats Tout Tax Cuts They Voted Against \n \n One year after President Trump signed the Working Families Tax Cuts into law, hardworking American families across the nation are paying lower\u00a0taxes and keeping more of what they earn \u2013 outcomes the",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/SpeakerJohnson/status/2076730395526107634#m",
-    "published_iso": "2026-07-13T18:08:04+00:00",
     "time_ago": "4h ago"
   },
   {
@@ -327,7 +264,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mqk7uxb4y22c",
     "published_iso": "2026-07-13T17:31:27.832000+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "42f1a63fb52e",
@@ -354,7 +291,7 @@
     "platform": "Twitter/X",
     "url": "http://nt.vern.cc/SenWarren/status/2076721161564549548#m",
     "published_iso": "2026-07-13T17:31:23+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "952fefad8490",
@@ -380,7 +317,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mqk553ah7k2t",
     "published_iso": "2026-07-13T16:42:19.215000+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "012e50c7c037",
@@ -403,7 +340,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2076661422885351531#m",
     "published_iso": "2026-07-13T13:34:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "fbdd48a73561",
@@ -424,7 +361,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14090/airworthiness-directives-the-boeing-company-airplanes",
     "published_iso": "2026-07-13T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "f6827b4bc774",
@@ -443,7 +380,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14072/safety-zone-chicago-sanitary-and-ship-canal-chicago-il",
     "published_iso": "2026-07-13T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "5328c5eb8f42",
@@ -464,7 +401,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14052/natural-resource-damages-for-hazardous-substances",
     "published_iso": "2026-07-13T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "7d096e586362",
@@ -483,7 +420,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14045/safety-zone-fireworks-display-lavaca-bay-point-comfort-tx",
     "published_iso": "2026-07-13T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "cb74682170a2",
@@ -505,33 +442,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14043/administrative-false-claims-and-procedures",
     "published_iso": "2026-07-13T04:00:00+00:00",
-    "time_ago": "18h ago"
-  },
-  {
-    "id": "e4292ff8c4d9",
-    "politician": "Rep. Patrick McHenry",
-    "initials": "PM",
-    "role": "House Financial Services Committee",
-    "color": {
-      "bg": "#2d1e5f",
-      "fg": "#c084fc"
-    },
-    "severity": "critical",
-    "content": "federalreserve.gov/newsevent\u2026  \n \n Link  \n \n \n \n Federal Reserve announces the leadership and objectives of its task forces to advance the conduct... \n \n The Federal Reserve on Thursday announced the leadership and objectives of its task forces to advance the conduct of monetary policy. &quot;The Federal Reserve&apos;s",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/PatrickMcHenry/status/2075608154201624720#m",
-    "published_iso": "2026-07-10T15:48:41+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "25c9f1f8454a",
@@ -711,7 +622,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/america-first-trade-fast-tracking-our-industrial-resurgence-ambassador-greer-joins-fireside-chat",
     "published_iso": "2026-07-02T22:58:29+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "659d472bb278",
@@ -888,7 +799,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h229?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-29T23:08:00+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "acdae0c91073",
@@ -907,7 +818,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h228?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-29T23:01:00+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "53362cadd01e",
