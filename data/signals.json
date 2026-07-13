@@ -1,6 +1,32 @@
 [
   {
-    "id": "021fff952242",
+    "id": "93212d594a94",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "A Paramount-Warner Bros. megamerger would mean higher costs and fewer choices for Americans.\n\nGood news: the states are stepping up to BLOCK this antitrust nightmare.\n\nThis fight isn't over.",
+    "tags": [
+      "Antitrust"
+    ],
+    "tickers": [
+      "AMZN",
+      "GOOGL",
+      "AAPL",
+      "META"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mqk7uxb4y22c",
+    "published_iso": "2026-07-13T17:31:27.832000+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "0569654eb45e",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,44 +35,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Ide Britt E received 524 shares of Northwestern Energy Group, Inc. (NWE) \u00b7 $71.62/share \u00b7 $37,529 total \u00b7 Jul 13",
-    "tags": [
-      "Energy"
-    ],
+    "content": "Nagpal Ankur bought 9,775 shares of Usvc Venture Capital Access Fund (COF) \u00b7 $20.46/share \u00b7 $200,000 total \u00b7 Jul 13",
+    "tags": [],
     "tickers": [
-      "NWE"
+      "COF"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1993004/000163440326000006/0001634403-26-000006-index.htm",
-    "published_iso": "2026-07-13T15:30:37+00:00",
-    "time_ago": "2m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2126229/000094562126000897/0000945621-26-000897-index.htm",
+    "published_iso": "2026-07-13T17:22:25+00:00",
+    "time_ago": "11m ago"
   },
   {
-    "id": "949c1b50b13e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Goodin David L received 524 shares of Northwestern Energy Group, Inc. (NWE) \u00b7 $71.62/share \u00b7 $37,529 total \u00b7 Jul 13",
-    "tags": [
-      "Energy"
-    ],
-    "tickers": [
-      "NWE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1993004/000142870426000006/0001428704-26-000006-index.htm",
-    "published_iso": "2026-07-13T15:28:45+00:00",
-    "time_ago": "4m ago"
-  },
-  {
-    "id": "89e32cf07ce6",
+    "id": "1ba67f343fd1",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -55,16 +56,94 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Ronny Jackson running for top GOP spot on Armed Services panel. Rep. Ronny Jackson (R-Texas), a former White House physician and staunch supporter of President Trump, on Monday announced his bid to serve as the top Republican on the House Armed Services Committee next year. A retired Navy officer who already chairs the",
+    "content": "Judge halts Trump's settlement with IRS. A federal judge Monday voided President Trump\u2019s settlement with the Internal Revenue Service (IRS) that awarded $1.776 billion and barred the agency from auditing his previous filings. Trump, who sued his own administration in January over the leak of his tax returns, struck an ",
     "tags": [
+      "Regulation",
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/defense/5965652-jackson-bid-house-armed-services/",
-    "published_iso": "2026-07-13T14:54:39+00:00",
-    "time_ago": "38m ago"
+    "url": "https://thehill.com/regulation/court-battles/5966060-trump-irs-settlement-voided-federal-judge/",
+    "published_iso": "2026-07-13T17:17:29+00:00",
+    "time_ago": "16m ago"
+  },
+  {
+    "id": "7fc291738c08",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Health insurers' $1.7 trillion revenue sparks concern. Physician-legislator Greg Murphy is calling for the breakup of the seven largest for-profit health insurance conglomerates, which he says are taking almost $2 trillion annually from the American people while denying care to those who need it most",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/healthcare/5965168-health-insurance-lobby-congress/",
+    "published_iso": "2026-07-13T17:00:00+00:00",
+    "time_ago": "33m ago"
+  },
+  {
+    "id": "952fefad8490",
+    "politician": "Rep. Nancy Pelosi",
+    "initials": "NP",
+    "role": "House Democratic Leader",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "While they spend American tax dollars on endless wars abroad and line the pockets of billionaires at home, Republicans are leaving working families with skyrocketing inflation and higher prices at the pump.\n\nTrump and Republicans will do anything except lower costs.",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "GLD",
+      "TLT",
+      "SPY"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/pelosi.house.gov/post/3mqk553ah7k2t",
+    "published_iso": "2026-07-13T16:42:19.215000+00:00",
+    "time_ago": "50m ago"
+  },
+  {
+    "id": "c047b029b1c5",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "low",
+    "content": "'Fat Leonard' planning to ask Trump for pardon or commutation. Con man Leonard Glenn Francis, also known as \"Fat Leonard,\" the mastermind of one of the largest U.S. military bribery scandals, plans to ask President Trump to pardon him or commute what's left of his prison sentence. Francis, also a former Malaysian defen",
+    "tags": [
+      "Defense"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5965877-fat-leonard-seeks-trump-pardon/",
+    "published_iso": "2026-07-13T16:42:03+00:00",
+    "time_ago": "51m ago"
   },
   {
     "id": "012e50c7c037",
@@ -87,7 +166,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2076661422885351531#m",
     "published_iso": "2026-07-13T13:34:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "fbdd48a73561",
@@ -108,7 +187,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14090/airworthiness-directives-the-boeing-company-airplanes",
     "published_iso": "2026-07-13T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "f6827b4bc774",
@@ -127,7 +206,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14072/safety-zone-chicago-sanitary-and-ship-canal-chicago-il",
     "published_iso": "2026-07-13T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "5328c5eb8f42",
@@ -148,7 +227,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14052/natural-resource-damages-for-hazardous-substances",
     "published_iso": "2026-07-13T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "7d096e586362",
@@ -167,7 +246,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14045/safety-zone-fireworks-display-lavaca-bay-point-comfort-tx",
     "published_iso": "2026-07-13T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "cb74682170a2",
@@ -189,7 +268,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14043/administrative-false-claims-and-procedures",
     "published_iso": "2026-07-13T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "e4292ff8c4d9",
@@ -215,7 +294,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/PatrickMcHenry/status/2075608154201624720#m",
     "published_iso": "2026-07-10T15:48:41+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "25c9f1f8454a",
@@ -703,7 +782,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h227?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-25T17:29:00+00:00",
-    "time_ago": "17d ago"
+    "time_ago": "18d ago"
   },
   {
     "id": "1c1e70c8629e",
@@ -873,7 +952,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "62d ago"
+    "time_ago": "63d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -943,7 +1022,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "83d ago"
+    "time_ago": "84d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1008,7 +1087,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "138d ago"
+    "time_ago": "139d ago"
   },
   {
     "id": "602146d3f751",
@@ -1096,7 +1175,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "171d ago"
+    "time_ago": "172d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1137,6 +1216,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/983956",
     "published_iso": "2025-10-30T16:06:54+00:00",
-    "time_ago": "255d ago"
+    "time_ago": "256d ago"
   }
 ]
