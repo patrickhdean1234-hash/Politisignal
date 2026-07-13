@@ -1,5 +1,125 @@
 [
   {
+    "id": "388d1a607393",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hrt Financial Lp bought 125,911 shares of 707 Cayman Holdings Ltd. (JEM) \u00b7 $1.07/share \u00b7 $134,725 total \u00b7 Jul 13 ($163,824 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "JEM"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2018222/000147559726000156/0001475597-26-000156-index.htm",
+    "published_iso": "2026-07-13T18:58:37+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "a410f4230582",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "In a first, US military used seaborne drones in attack on Iran port. The U.S. military used one-way attack seaborne drones in an assault on an Iranian port on Sunday \u2014 the first instance of U.S. forces utilizing sea drones in combat operations.\u00a0 The military utilized three Corsair unmanned surface vessels to strike a s",
+    "tags": [
+      "Defense",
+      "Taxes",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/defense/5966167-us-military-sea-drones-iran/",
+    "published_iso": "2026-07-13T18:09:05+00:00",
+    "time_ago": "51m ago"
+  },
+  {
+    "id": "2dd98b1cfa69",
+    "politician": "Rep. Mike Johnson",
+    "initials": "MJ",
+    "role": "Speaker of the House",
+    "color": {
+      "bg": "#2a1a1a",
+      "fg": "#fbbf24"
+    },
+    "severity": "critical",
+    "content": "Article  \n \n \n \n One Year Later: Democrats Tout Tax Cuts They Voted Against \n \n One year after President Trump signed the Working Families Tax Cuts into law, hardworking American families across the nation are paying lower\u00a0taxes and keeping more of what they earn \u2013 outcomes the",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SpeakerJohnson/status/2076730395526107634#m",
+    "published_iso": "2026-07-13T18:08:04+00:00",
+    "time_ago": "52m ago"
+  },
+  {
+    "id": "23909d422f64",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "States sue to block Paramount-Warner Brothers Discovery merger. A dozen state attorneys general on Monday filed a joint lawsuit seeking to block Paramount's pending takeover of Warner Brothers Discovery, the sprawling media company that owns one of the world's largest movie and television studios and cable news channel",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/5966111-paramount-warner-merger/",
+    "published_iso": "2026-07-13T17:46:54+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "cf713b21eb43",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Live updates: Judge nullifies Trump's IRS settlement; US will resume Strait of Hormuz blockade. President Trump said Monday the U.S. military would resume its blockade of the Strait of Hormuz and charge a 20 percent rate \"on all cargo shipped,\" declaring the U.S. to be the \"guardian\" of the waterway, as tensions and st",
+    "tags": [
+      "Defense",
+      "Taxes",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5964919-senate-graham-death-succession/",
+    "published_iso": "2026-07-13T17:36:35+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "93212d594a94",
     "politician": "Sen. Elizabeth Warren",
     "initials": "EW",
@@ -23,28 +143,55 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mqk7uxb4y22c",
     "published_iso": "2026-07-13T17:31:27.832000+00:00",
-    "time_ago": "1m ago"
+    "time_ago": "1h ago"
   },
   {
-    "id": "0569654eb45e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "42f1a63fb52e",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
     },
-    "severity": "medium",
-    "content": "Nagpal Ankur bought 9,775 shares of Usvc Venture Capital Access Fund (COF) \u00b7 $20.46/share \u00b7 $200,000 total \u00b7 Jul 13",
-    "tags": [],
-    "tickers": [
-      "COF"
+    "severity": "high",
+    "content": "\u2068A Paramount-Warner Bros. megamerger would mean higher costs and fewer choices for Americans. \n \nGood news: the states are stepping up to BLOCK this antitrust nightmare. \n \nThis fight isn't over. \n \n \n Variety (@Variety) \n \n A coalition of 12 states filed an antitrust lawsuit to block the Paramount Skydance and Warner ",
+    "tags": [
+      "Antitrust",
+      "Regulation"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2126229/000094562126000897/0000945621-26-000897-index.htm",
-    "published_iso": "2026-07-13T17:22:25+00:00",
-    "time_ago": "11m ago"
+    "tickers": [
+      "AMZN",
+      "GOOGL",
+      "AAPL",
+      "META"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SenWarren/status/2076721161564549548#m",
+    "published_iso": "2026-07-13T17:31:23+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "deab8c24bd5c",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Why isn\u2019t the world retaliating against US tariffs?. Despite President Trump's imposition of tariffs, the EU and other countries have refrained from retaliating, instead choosing to uphold the principles of multilateralism and non-discrimination in trade, and to take their trade elsewhere",
+    "tags": [
+      "Trade"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/international/5965207-global-trade-trump-impact/",
+    "published_iso": "2026-07-13T17:30:00+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "1ba67f343fd1",
@@ -55,9 +202,10 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "high",
-    "content": "Judge halts Trump's settlement with IRS. A federal judge Monday voided President Trump\u2019s settlement with the Internal Revenue Service (IRS) that awarded $1.776 billion and barred the agency from auditing his previous filings. Trump, who sued his own administration in January over the leak of his tax returns, struck an ",
+    "severity": "medium",
+    "content": "Judge halts Trump's settlement with IRS. A federal judge Monday voided President Trump\u2019s settlement with the Internal Revenue Service (IRS), finding that the lawsuit that served as the hook for the $1.776 billion so-called Anti-Weaponization fund amounted to collusion as the two parties were never truly averse. The rul",
     "tags": [
+      "Defense",
       "Regulation",
       "Taxes"
     ],
@@ -66,32 +214,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/regulation/court-battles/5966060-trump-irs-settlement-voided-federal-judge/",
     "published_iso": "2026-07-13T17:17:29+00:00",
-    "time_ago": "16m ago"
-  },
-  {
-    "id": "7fc291738c08",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Health insurers' $1.7 trillion revenue sparks concern. Physician-legislator Greg Murphy is calling for the breakup of the seven largest for-profit health insurance conglomerates, which he says are taking almost $2 trillion annually from the American people while denying care to those who need it most",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/healthcare/5965168-health-insurance-lobby-congress/",
-    "published_iso": "2026-07-13T17:00:00+00:00",
-    "time_ago": "33m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "952fefad8490",
@@ -117,33 +240,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mqk553ah7k2t",
     "published_iso": "2026-07-13T16:42:19.215000+00:00",
-    "time_ago": "50m ago"
-  },
-  {
-    "id": "c047b029b1c5",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "low",
-    "content": "'Fat Leonard' planning to ask Trump for pardon or commutation. Con man Leonard Glenn Francis, also known as \"Fat Leonard,\" the mastermind of one of the largest U.S. military bribery scandals, plans to ask President Trump to pardon him or commute what's left of his prison sentence. Francis, also a former Malaysian defen",
-    "tags": [
-      "Defense"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5965877-fat-leonard-seeks-trump-pardon/",
-    "published_iso": "2026-07-13T16:42:03+00:00",
-    "time_ago": "51m ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "012e50c7c037",
@@ -166,7 +263,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2076661422885351531#m",
     "published_iso": "2026-07-13T13:34:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "fbdd48a73561",
@@ -187,7 +284,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14090/airworthiness-directives-the-boeing-company-airplanes",
     "published_iso": "2026-07-13T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "f6827b4bc774",
@@ -206,7 +303,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14072/safety-zone-chicago-sanitary-and-ship-canal-chicago-il",
     "published_iso": "2026-07-13T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "5328c5eb8f42",
@@ -227,7 +324,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14052/natural-resource-damages-for-hazardous-substances",
     "published_iso": "2026-07-13T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "7d096e586362",
@@ -246,7 +343,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14045/safety-zone-fireworks-display-lavaca-bay-point-comfort-tx",
     "published_iso": "2026-07-13T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "cb74682170a2",
@@ -268,7 +365,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14043/administrative-false-claims-and-procedures",
     "published_iso": "2026-07-13T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "e4292ff8c4d9",
@@ -360,7 +457,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
     "published_iso": "2026-07-09T19:00:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "374047f602cb",
@@ -405,7 +502,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
     "published_iso": "2026-07-08T18:00:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "7c7027804e65",
@@ -452,7 +549,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm",
     "published_iso": "2026-07-07T19:00:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "bc254cc73522",
@@ -473,7 +570,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/07/president-trump-rings-in-trump-accounts-with-historic-opening-bell-ceremony-from-the-oval-office/",
     "published_iso": "2026-07-06T18:15:57+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "f6fb9773511f",
@@ -568,7 +665,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm",
     "published_iso": "2026-07-01T18:30:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "9539aeb71e78",
@@ -606,7 +703,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h232?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-30T18:26:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "112d75e97493",
@@ -634,7 +731,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h231?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-30T18:14:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "07e00f686b74",
@@ -655,7 +752,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h230?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-30T18:04:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "a677483391d0",
@@ -1065,7 +1162,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "109d ago"
+    "time_ago": "110d ago"
   },
   {
     "id": "782af70b6ebe",
