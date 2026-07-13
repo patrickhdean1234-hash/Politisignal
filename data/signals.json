@@ -1,6 +1,6 @@
 [
   {
-    "id": "2957e21cfda9",
+    "id": "95ecb41c5133",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,21 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Nesbitt Martin H. received 10,665 shares of Chewy, Inc. (CHWY) \u00b7 Jul 13",
-    "tags": [],
+    "content": "Erickson Gayn withheld (tax) 4,404 shares of Aehr Test Systems (AEHR) \u00b7 $72.60/share \u00b7 $319,730 total \u00b7 Jul 13",
+    "tags": [
+      "Taxes"
+    ],
     "tickers": [
-      "CHWY"
+      "AEHR"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1766502/000176650226000060/0001766502-26-000060-index.htm",
-    "published_iso": "2026-07-13T20:20:19+00:00",
-    "time_ago": "1m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1364097/000104047026000201/0001040470-26-000201-index.htm",
+    "published_iso": "2026-07-13T21:23:16+00:00",
+    "time_ago": "2m ago"
   },
   {
-    "id": "62bfbf3b62fd",
+    "id": "8c82ef83c6da",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,19 +32,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Kowalczuk Tom received 1,000,000 shares of Sunpower Inc. (SPWRW) \u00b7 Jul 13",
+    "content": "Smith Mary L. exercised options for 10,000 shares of Ptc Therapeutics, Inc. (PTCT) \u00b7 $42.95/share \u00b7 $429,500 total \u00b7 Jul 13 ($2,105,130 across all blocks)",
     "tags": [],
     "tickers": [
-      "SPWRW"
+      "PTCT"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2143661/000121390026077581/0001213900-26-077581-index.htm",
-    "published_iso": "2026-07-13T20:20:11+00:00",
-    "time_ago": "1m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1866044/000186604426000005/0001866044-26-000005-index.htm",
+    "published_iso": "2026-07-13T21:20:09+00:00",
+    "time_ago": "5m ago"
   },
   {
-    "id": "0d1dfe58c082",
+    "id": "232ad7e2d869",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -51,16 +53,86 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Brackenbury Robert Lee received 2,332 shares of Phoenix Education Partners, Inc. (PXED) \u00b7 Jul 13",
+    "content": "Almstead Neil Gregory exercised options for 2,464 shares of Ptc Therapeutics, Inc. (PTCT) \u00b7 $46.54/share \u00b7 $114,675 total \u00b7 Jul 13 ($337,051 across all blocks)",
     "tags": [],
     "tickers": [
-      "PXED"
+      "PTCT"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2142271/000095014226002033/0000950142-26-002033-index.htm",
-    "published_iso": "2026-07-13T20:17:52+00:00",
-    "time_ago": "3m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1578850/000157885026000023/0001578850-26-000023-index.htm",
+    "published_iso": "2026-07-13T21:20:05+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "961789488bfe",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Pilot dies fighting Colorado wildfires. A pilot died on Sunday when his helicopter crashed as he fought wildfires in Colorado, according to local authorities. The Gunnison County Sheriff\u2019s Office (GCSO) said on Facebook the pilot, 56-year-old Nicholas Dale, died after his K-MAX helicopter, manufactured by Kaman Aircraf",
+    "tags": [
+      "Big Tech"
+    ],
+    "tickers": [
+      "META"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/state-watch/5966457-pilot-dies-helicopter-colorado/",
+    "published_iso": "2026-07-13T20:52:27+00:00",
+    "time_ago": "33m ago"
+  },
+  {
+    "id": "6ab9a5d688d5",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "Nominations Sent to the Senate. NOMINATIONS SENT TO THE SENATE: Keith Sonderling, of Florida, to be Secretary of Labor. Andrew A. De Mello, of Virginia, to be a Judge of the United States Tax Court for a term of fifteen years. \n The post  Nominations Sent to the Senate  appeared first on  The White House",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-sent-to-the-senate-3fd0/",
+    "published_iso": "2026-07-13T20:39:42+00:00",
+    "time_ago": "45m ago"
+  },
+  {
+    "id": "4b08b32d725c",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "White House says Trump supports Graham's Russia sanctions bill. President Trump is supporting the late Sen. Lindsey Graham\u2019s (R-S.C.) Russia sanctions bill, a White House official confirmed to The Hill on Monday.  The confirmation comes amid a push on Capitol Hill led by Sen. Jeanne Shaheen (D-N.H.) to get members of C",
+    "tags": [
+      "Regulation",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5966436-lindsey-graham-russia-sanctions/",
+    "published_iso": "2026-07-13T20:38:27+00:00",
+    "time_ago": "47m ago"
   },
   {
     "id": "d56eb50d4531",
@@ -86,7 +158,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2076746129086042236#m",
     "published_iso": "2026-07-13T19:10:35+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "2dd98b1cfa69",
@@ -108,7 +180,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2076730395526107634#m",
     "published_iso": "2026-07-13T18:08:04+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "93212d594a94",
@@ -134,7 +206,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mqk7uxb4y22c",
     "published_iso": "2026-07-13T17:31:27.832000+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "42f1a63fb52e",
@@ -161,7 +233,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2076721161564549548#m",
     "published_iso": "2026-07-13T17:31:23+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "952fefad8490",
@@ -187,7 +259,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mqk553ah7k2t",
     "published_iso": "2026-07-13T16:42:19.215000+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "012e50c7c037",
@@ -208,9 +280,9 @@
     ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "https://nitter.net/RandPaul/status/2076661422885351531#m",
+    "url": "http://nt.vern.cc/RandPaul/status/2076661422885351531#m",
     "published_iso": "2026-07-13T13:34:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "fbdd48a73561",
@@ -231,7 +303,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14090/airworthiness-directives-the-boeing-company-airplanes",
     "published_iso": "2026-07-13T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "f6827b4bc774",
@@ -250,7 +322,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14072/safety-zone-chicago-sanitary-and-ship-canal-chicago-il",
     "published_iso": "2026-07-13T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "5328c5eb8f42",
@@ -271,7 +343,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14052/natural-resource-damages-for-hazardous-substances",
     "published_iso": "2026-07-13T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "7d096e586362",
@@ -290,7 +362,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14045/safety-zone-fireworks-display-lavaca-bay-point-comfort-tx",
     "published_iso": "2026-07-13T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "cb74682170a2",
@@ -312,7 +384,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14043/administrative-false-claims-and-procedures",
     "published_iso": "2026-07-13T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "e4292ff8c4d9",
@@ -452,27 +524,6 @@
     "time_ago": "5d ago"
   },
   {
-    "id": "7c7027804e65",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "Democrats Fought Against Historic Tax Cuts. Now They\u2019re Fighting Against Opportunity for America\u2019s Kids.. President Donald J. Trump and Republicans delivered the largest middle- and working-class tax cuts in history through the Working Families Tax Cuts, which Democrats fought every step of the way. Now, Democrats are ",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/releases/2026/07/democrats-fought-against-historic-tax-cuts-now-theyre-fighting-against-opportunity-for-americas-kids/",
-    "published_iso": "2026-07-07T21:02:50+00:00",
-    "time_ago": "5d ago"
-  },
-  {
     "id": "417f0c14ac5b",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -515,7 +566,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/usembassyve/status/2073873845241413988#m",
     "published_iso": "2026-07-05T20:57:10+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "ae33a3c26ef2",
