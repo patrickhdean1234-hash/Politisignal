@@ -1,6 +1,79 @@
 [
   {
-    "id": "2fa890606884",
+    "id": "a8933978907e",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026. Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
+    "tags": [],
+    "tickers": [],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
+    "published_iso": "2026-07-14T18:00:00+00:00",
+    "time_ago": "34m ago"
+  },
+  {
+    "id": "653dcec0fe7d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve chair Warsh touts \u2018sea change\u2019 in thinking at first hearing. Federal Reserve Chair Kevin Warsh on Tuesday touted his efforts to overhaul the central bank\u2019s approach to inflation and the economy at his first congressional hearing as its leader. In testimony\u00a0before the House Financial Services Committee, ",
+    "tags": [
+      "Banking",
+      "Taxes"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/5967869-warsh-overhauls-fed-inflation/",
+    "published_iso": "2026-07-14T17:55:39+00:00",
+    "time_ago": "38m ago"
+  },
+  {
+    "id": "dc381aba5be9",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "National Guard deployment in DC extended until next presidential inauguration. The Pentagon is planning to keep a National Guard presence in Washington, D.C., through Inauguration Day 2029, a guard official confirmed to The Hill Tuesday. The plan \u2014\u00a0first reported in March\u00a0and awaiting final approval from Defense Secret",
+    "tags": [
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/5967829-national-guard-deployment-in-dc-extended-until-next-presidential-inauguration/",
+    "published_iso": "2026-07-14T17:50:42+00:00",
+    "time_ago": "43m ago"
+  },
+  {
+    "id": "94c8ce9aab68",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,22 +82,22 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Democrat AGs sue to block Warner Bros. / Paramount merger. Paramount execs may get upset, but this is exactly why antitrust laws exist",
+    "content": "Oil prices jump as US-Iran conflict escalates again. Oil prices have jumped over as the conflict between the U.S. and Iran heats back up. U.S. benchmark WTI crude\u00a0was trading\u00a0at about $79 per barrel on Tuesday, up from about $74 per barrel since the start of trading on Monday morning and about $72 late last week. Inter",
     "tags": [
-      "Antitrust",
-      "Regulation"
+      "Energy",
+      "Sanctions"
     ],
     "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META"
+      "XOM",
+      "CVX",
+      "COP",
+      "OXY"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/lindseys-lens/5967709-hollywood-antitrust-battle-paramount/",
-    "published_iso": "2026-07-14T16:53:13+00:00",
-    "time_ago": "28m ago"
+    "url": "https://thehill.com/policy/energy-environment/5967770-strait-of-hormuz-oil-prices-iran/",
+    "published_iso": "2026-07-14T17:31:13+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "6db01659eb85",
@@ -43,7 +116,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2077048767149216153#m",
     "published_iso": "2026-07-14T15:13:10+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "753200464923",
@@ -64,7 +137,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14195/rescinding-the-definition-of-harm-under-the-endangered-species-act",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "253a447c97b1",
@@ -88,7 +161,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14132/enhanced-favorable-treatment-for-the-united-arab-emirates-under-the-export-administration",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "0ea2210a7da7",
@@ -109,7 +182,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14131/designated-placement-requirements-under-titles-iv-e-and-iv-b-for-lgbtqi-children-rescission",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "797f920aab11",
@@ -128,7 +201,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14127/safety-zone-charleston-harbor-charleston-sc",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "9f53dd77922b",
@@ -150,7 +223,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14114/bacteriophage-active-against-xanthomonas-campestris-pv-vesicatoriaecophage-and-bacteriophage-active",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "a4ca45491a48",
@@ -169,7 +242,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14113/safety-zone-dyes-inlet-silverdale-wa",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "41716de95741",
@@ -188,7 +261,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14110/airworthiness-directives-bombardier-inc-airplanes",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "38de3b9be964",
@@ -207,7 +280,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14109/airworthiness-directives-textron-aviation-inc-airplanes",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "db3324644f1c",
@@ -226,7 +299,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h235?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-13T23:02:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "db900d032d11",
@@ -245,7 +318,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h234?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-13T22:55:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "17dd55bf21d2",
@@ -264,7 +337,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s193?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-13T21:31:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "6ab9a5d688d5",
@@ -285,7 +358,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-sent-to-the-senate-3fd0/",
     "published_iso": "2026-07-13T20:39:42+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "2dd98b1cfa69",
@@ -307,7 +380,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2076730395526107634#m",
     "published_iso": "2026-07-13T18:08:04+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "952fefad8490",
@@ -404,7 +477,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
     "published_iso": "2026-07-08T18:00:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "417f0c14ac5b",
@@ -525,7 +598,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm",
     "published_iso": "2026-07-01T18:30:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "9539aeb71e78",
@@ -563,7 +636,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h232?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-30T18:26:00+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "112d75e97493",
@@ -591,7 +664,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h231?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-30T18:14:00+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "07e00f686b74",
@@ -612,7 +685,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h230?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-06-30T18:04:00+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "a677483391d0",
@@ -676,32 +749,6 @@
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mp76tbiwqc2c",
     "published_iso": "2026-06-26T14:48:08.974000+00:00",
     "time_ago": "18d ago"
-  },
-  {
-    "id": "1c1e70c8629e",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.. Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
-    "published_iso": "2026-06-25T15:00:00+00:00",
-    "time_ago": "19d ago"
   },
   {
     "id": "d7e6bf88263a",
