@@ -1,71 +1,6 @@
 [
   {
-    "id": "def9a87609d1",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Coffey John W received 144 shares of Bok Financial Corp (BOKF) \u00b7 $138.55/share \u00b7 $19,951 total \u00b7 Jul 14",
-    "tags": [],
-    "tickers": [
-      "BOKF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1287013/000128701326000001/0001287013-26-000001-index.htm",
-    "published_iso": "2026-07-14T15:53:55+00:00",
-    "time_ago": "5m ago"
-  },
-  {
-    "id": "a76651a4f30e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Foss David B exercised options for 1,220 shares of Jack Henry & Associates Inc (JKHY) \u00b7 Jul 14",
-    "tags": [],
-    "tickers": [
-      "JKHY"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1610501/000161050126000002/0001610501-26-000002-index.htm",
-    "published_iso": "2026-07-14T15:53:02+00:00",
-    "time_ago": "6m ago"
-  },
-  {
-    "id": "b3e125f9010c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Milmoe William H. acquired/disposed 150,000 shares of Celsius Holdings, Inc. (CELH) \u00b7 $46.25/share \u00b7 $6,937,905 total \u00b7 Jul 14 ($20,813,715 across all blocks)",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [
-      "CELH"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1443194/000182912626007549/0001829126-26-007549-index.htm",
-    "published_iso": "2026-07-14T15:51:42+00:00",
-    "time_ago": "8m ago"
-  },
-  {
-    "id": "f5ee0f999bdb",
+    "id": "2fa890606884",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -74,16 +9,22 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "AI could lead to large-scale job displacement, say Nobel laureates. Hundreds of economics and artificial intelligence researchers warned Monday that institutions must begin preparing for the potential economic upheaval AI could unleash, while putting many jobs at risk. The open letter, signed by Nobel laureates, top co",
+    "content": "Democrat AGs sue to block Warner Bros. / Paramount merger. Paramount execs may get upset, but this is exactly why antitrust laws exist",
     "tags": [
-      "Big Tech"
+      "Antitrust",
+      "Regulation"
     ],
-    "tickers": [],
+    "tickers": [
+      "AMZN",
+      "GOOGL",
+      "AAPL",
+      "META"
+    ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/5967512-ai-transformation-job-displacement/",
-    "published_iso": "2026-07-14T15:37:07+00:00",
-    "time_ago": "22m ago"
+    "url": "https://thehill.com/opinion/lindseys-lens/5967709-hollywood-antitrust-battle-paramount/",
+    "published_iso": "2026-07-14T16:53:13+00:00",
+    "time_ago": "28m ago"
   },
   {
     "id": "6db01659eb85",
@@ -102,7 +43,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2077048767149216153#m",
     "published_iso": "2026-07-14T15:13:10+00:00",
-    "time_ago": "46m ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "753200464923",
@@ -123,7 +64,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14195/rescinding-the-definition-of-harm-under-the-endangered-species-act",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "253a447c97b1",
@@ -147,7 +88,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14132/enhanced-favorable-treatment-for-the-united-arab-emirates-under-the-export-administration",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "0ea2210a7da7",
@@ -168,7 +109,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14131/designated-placement-requirements-under-titles-iv-e-and-iv-b-for-lgbtqi-children-rescission",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "797f920aab11",
@@ -187,7 +128,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14127/safety-zone-charleston-harbor-charleston-sc",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "9f53dd77922b",
@@ -209,7 +150,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14114/bacteriophage-active-against-xanthomonas-campestris-pv-vesicatoriaecophage-and-bacteriophage-active",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "a4ca45491a48",
@@ -228,7 +169,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14113/safety-zone-dyes-inlet-silverdale-wa",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "41716de95741",
@@ -247,7 +188,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14110/airworthiness-directives-bombardier-inc-airplanes",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "38de3b9be964",
@@ -266,7 +207,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14109/airworthiness-directives-textron-aviation-inc-airplanes",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "db3324644f1c",
@@ -285,7 +226,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h235?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-13T23:02:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "db900d032d11",
@@ -304,7 +245,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h234?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-13T22:55:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "17dd55bf21d2",
@@ -323,7 +264,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s193?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-13T21:31:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "6ab9a5d688d5",
@@ -344,7 +285,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-sent-to-the-senate-3fd0/",
     "published_iso": "2026-07-13T20:39:42+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "2dd98b1cfa69",
@@ -366,7 +307,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2076730395526107634#m",
     "published_iso": "2026-07-13T18:08:04+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "952fefad8490",
@@ -392,7 +333,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mqk553ah7k2t",
     "published_iso": "2026-07-13T16:42:19.215000+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "14224f4fd608",
@@ -1102,7 +1043,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "172d ago"
+    "time_ago": "173d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1143,6 +1084,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/983956",
     "published_iso": "2025-10-30T16:06:54+00:00",
-    "time_ago": "256d ago"
+    "time_ago": "257d ago"
   }
 ]
