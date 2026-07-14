@@ -1,6 +1,71 @@
 [
   {
-    "id": "9f05b642ee31",
+    "id": "def9a87609d1",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Coffey John W received 144 shares of Bok Financial Corp (BOKF) \u00b7 $138.55/share \u00b7 $19,951 total \u00b7 Jul 14",
+    "tags": [],
+    "tickers": [
+      "BOKF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1287013/000128701326000001/0001287013-26-000001-index.htm",
+    "published_iso": "2026-07-14T15:53:55+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "a76651a4f30e",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Foss David B exercised options for 1,220 shares of Jack Henry & Associates Inc (JKHY) \u00b7 Jul 14",
+    "tags": [],
+    "tickers": [
+      "JKHY"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1610501/000161050126000002/0001610501-26-000002-index.htm",
+    "published_iso": "2026-07-14T15:53:02+00:00",
+    "time_ago": "6m ago"
+  },
+  {
+    "id": "b3e125f9010c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Milmoe William H. acquired/disposed 150,000 shares of Celsius Holdings, Inc. (CELH) \u00b7 $46.25/share \u00b7 $6,937,905 total \u00b7 Jul 14 ($20,813,715 across all blocks)",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "CELH"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1443194/000182912626007549/0001829126-26-007549-index.htm",
+    "published_iso": "2026-07-14T15:51:42+00:00",
+    "time_ago": "8m ago"
+  },
+  {
+    "id": "f5ee0f999bdb",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,16 +74,35 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Trump says drained Reflecting Pool will be 'put back into service soon'. President Trump said Monday that the Lincoln Memorial Reflecting Pool will reopen \u201csoon\u201d after it was drained for repairs over the weekend. The White House completed its renovations to the iconic landmark just last month \u2014 a project that has been ",
+    "content": "AI could lead to large-scale job displacement, say Nobel laureates. Hundreds of economics and artificial intelligence researchers warned Monday that institutions must begin preparing for the potential economic upheaval AI could unleash, while putting many jobs at risk. The open letter, signed by Nobel laureates, top co",
     "tags": [
-      "Taxes"
+      "Big Tech"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5967236-donald-trump-lincoln-memorial-reflecting-pool-draining-update/",
-    "published_iso": "2026-07-14T13:50:27+00:00",
-    "time_ago": "39m ago"
+    "url": "https://thehill.com/policy/technology/5967512-ai-transformation-job-displacement/",
+    "published_iso": "2026-07-14T15:37:07+00:00",
+    "time_ago": "22m ago"
+  },
+  {
+    "id": "6db01659eb85",
+    "politician": "Sen. Bernie Sanders",
+    "initials": "BS",
+    "role": "Senate HELP Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#818cf8"
+    },
+    "severity": "medium",
+    "content": "1. Larry Ellison spent $45 million to elect Trump. \n \n2. Trump's DOJ approved Ellison's takeover of CNN &amp; CBS. \n \nIn a democracy, the president does not control the media.  \n \nState AGs must block the Ellison-led Paramount-Warner Bros. merger.",
+    "tags": [],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/BernieSanders/status/2077048767149216153#m",
+    "published_iso": "2026-07-14T15:13:10+00:00",
+    "time_ago": "46m ago"
   },
   {
     "id": "753200464923",
@@ -39,7 +123,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14195/rescinding-the-definition-of-harm-under-the-endangered-species-act",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "253a447c97b1",
@@ -63,7 +147,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14132/enhanced-favorable-treatment-for-the-united-arab-emirates-under-the-export-administration",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "0ea2210a7da7",
@@ -84,7 +168,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14131/designated-placement-requirements-under-titles-iv-e-and-iv-b-for-lgbtqi-children-rescission",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "797f920aab11",
@@ -103,7 +187,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14127/safety-zone-charleston-harbor-charleston-sc",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "9f53dd77922b",
@@ -125,7 +209,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14114/bacteriophage-active-against-xanthomonas-campestris-pv-vesicatoriaecophage-and-bacteriophage-active",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "a4ca45491a48",
@@ -144,7 +228,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14113/safety-zone-dyes-inlet-silverdale-wa",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "41716de95741",
@@ -163,7 +247,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14110/airworthiness-directives-bombardier-inc-airplanes",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "38de3b9be964",
@@ -182,36 +266,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14109/airworthiness-directives-textron-aviation-inc-airplanes",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "10h ago"
-  },
-  {
-    "id": "b8b44853ef91",
-    "politician": "Sen. Cynthia Lummis",
-    "initials": "CL",
-    "role": "Senate Banking Subcommittee (Crypto)",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#c4b5fd"
-    },
-    "severity": "critical",
-    "content": "No rule can give the CFTC spot authority over digital assets, grant new sanctions authority against adversaries, or protect developers from unwarranted prosecution. Only Congress can. The Clarity Act is the only path that works. \n \n \n Chad Steingraber (@ChadSteingraber) \n \n Just so we\u2019re all clear.. if Clarity Act does",
-    "tags": [
-      "Crypto",
-      "Energy",
-      "Regulation",
-      "Sanctions"
-    ],
-    "tickers": [
-      "BTC",
-      "ETH",
-      "COIN",
-      "XRP"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/SenLummis/status/2076840527937356210#m",
-    "published_iso": "2026-07-14T01:25:42+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "db3324644f1c",
@@ -230,7 +285,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h235?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-13T23:02:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "db900d032d11",
@@ -249,7 +304,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h234?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-13T22:55:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "17dd55bf21d2",
@@ -268,7 +323,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s193?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-13T21:31:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "6ab9a5d688d5",
@@ -289,7 +344,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-sent-to-the-senate-3fd0/",
     "published_iso": "2026-07-13T20:39:42+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "2dd98b1cfa69",
@@ -311,7 +366,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2076730395526107634#m",
     "published_iso": "2026-07-13T18:08:04+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "952fefad8490",
@@ -337,30 +392,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mqk553ah7k2t",
     "published_iso": "2026-07-13T16:42:19.215000+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "012e50c7c037",
-    "politician": "Sen. Rand Paul",
-    "initials": "RP",
-    "role": "Senate Foreign Relations Committee",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fbbf24"
-    },
-    "severity": "medium",
-    "content": "My dad,  @RonPaul , said it best: \"Liberty means to exercise human rights in any manner a person chooses, so as long as it does not interfere with the exercise of the rights of others.\" \n \nInspirational quotes on liberty and freedom like this are featured in  @markm1776 's new book. Grab your copy today. \n \n amazon.com",
-    "tags": [
-      "Big Tech"
-    ],
-    "tickers": [
-      "AMZN"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nt.vern.cc/RandPaul/status/2076661422885351531#m",
-    "published_iso": "2026-07-13T13:34:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "14224f4fd608",
@@ -412,7 +444,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260709a.htm",
     "published_iso": "2026-07-09T15:00:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "dc169391dc18",
@@ -526,7 +558,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260702a.htm",
     "published_iso": "2026-07-02T15:00:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "41e3e029b7e1",
@@ -702,7 +734,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mp76tbiwqc2c",
     "published_iso": "2026-06-26T14:48:08.974000+00:00",
-    "time_ago": "17d ago"
+    "time_ago": "18d ago"
   },
   {
     "id": "1c1e70c8629e",
@@ -728,7 +760,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
     "published_iso": "2026-06-25T15:00:00+00:00",
-    "time_ago": "18d ago"
+    "time_ago": "19d ago"
   },
   {
     "id": "d7e6bf88263a",
@@ -826,7 +858,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-legalizing-premium-health-care-act/",
     "published_iso": "2026-05-20T15:26:37+00:00",
-    "time_ago": "54d ago"
+    "time_ago": "55d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -847,7 +879,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "63d ago"
+    "time_ago": "64d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -895,7 +927,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "77d ago"
+    "time_ago": "78d ago"
   },
   {
     "id": "0047e3ab5b67",
@@ -917,7 +949,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "84d ago"
+    "time_ago": "85d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -982,7 +1014,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "139d ago"
+    "time_ago": "140d ago"
   },
   {
     "id": "602146d3f751",
@@ -1089,7 +1121,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "209d ago"
+    "time_ago": "210d ago"
   },
   {
     "id": "e88c3c11d67a",
