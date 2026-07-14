@@ -1,67 +1,23 @@
 [
   {
-    "id": "248c14b0cf6e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "e89057e887c8",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Yin Chung-Yao acquired/disposed 9,561,657 shares of Gogoro Inc. (GGROW) \u00b7 Jul 14",
+    "severity": "critical",
+    "content": "Tariffs pull, USMCA pushes: Toyota to Texas. A robust domestic auto industry with resilient supply chains enhances both national security and economic pros",
     "tags": [
-      "Insider Trade"
+      "Trade"
     ],
-    "tickers": [
-      "GGROW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1916103/000119312526302449/0001193125-26-302449-index.htm",
-    "published_iso": "2026-07-14T10:06:12+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "07ea1ded2e8a",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Wang Yanjun sold 527 shares of Sea Ltd (SE) \u00b7 $111.96/share \u00b7 $59,003 total \u00b7 Jul 14 ($338,523 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "SE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2113214/000119312526302442/0001193125-26-302442-index.htm",
-    "published_iso": "2026-07-14T10:02:29+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "3727dd14c887",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Ye Gang sold 1,519 shares of Sea Ltd (SE) \u00b7 $112.02/share \u00b7 $170,158 total \u00b7 Jul 14 ($4,531,349 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "SE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1729171/000119312526302441/0001193125-26-302441-index.htm",
-    "published_iso": "2026-07-14T10:01:55+00:00",
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/white-house/5965989-toyota-texas-tacoma-tariffs-impact/",
+    "published_iso": "2026-07-14T11:00:00+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -88,48 +44,6 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/senate/5966575-bipartisan-russia-sanctions-bill-graham/",
     "published_iso": "2026-07-14T10:00:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "29d44b594493",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Graham's death, McConnell's absence wreak havoc on GOP agenda. The sudden death of Senate Budget Committee Chair Lindsey Graham (R-S.C.), who's also a senior member of the Appropriations Committee and the Judiciary Committee, plays havoc with Senate Majority Leader John Thune's (R-S.D.) agenda, which now faces weeks of",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5966598-lindsey-graham-senate-republicans-trump-priorities/",
-    "published_iso": "2026-07-14T10:00:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "1f9b143f297b",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "New York imposes first-in-the-nation statewide freeze on 'hyperscale' data centers. New York Gov. Kathy Hochul (D) is imposing the nation\u2019s first-ever statewide freeze on new \u201chyperscale\u201d data centers. Hochul is pausing state-level environmental permits for \u201cup to\u201d a year to give the state time to put together a framew",
-    "tags": [
-      "Energy",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/5966562-new-york-ai-data-center-moratorium/",
-    "published_iso": "2026-07-14T09:00:00+00:00",
     "time_ago": "2h ago"
   },
   {
@@ -151,7 +65,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14195/rescinding-the-definition-of-harm-under-the-endangered-species-act",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "253a447c97b1",
@@ -175,7 +89,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14132/enhanced-favorable-treatment-for-the-united-arab-emirates-under-the-export-administration",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "0ea2210a7da7",
@@ -196,7 +110,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14131/designated-placement-requirements-under-titles-iv-e-and-iv-b-for-lgbtqi-children-rescission",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "797f920aab11",
@@ -215,7 +129,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14127/safety-zone-charleston-harbor-charleston-sc",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "9f53dd77922b",
@@ -237,7 +151,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14114/bacteriophage-active-against-xanthomonas-campestris-pv-vesicatoriaecophage-and-bacteriophage-active",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "a4ca45491a48",
@@ -256,7 +170,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14113/safety-zone-dyes-inlet-silverdale-wa",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "41716de95741",
@@ -275,7 +189,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14110/airworthiness-directives-bombardier-inc-airplanes",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "38de3b9be964",
@@ -294,7 +208,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14109/airworthiness-directives-textron-aviation-inc-airplanes",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "b8b44853ef91",
@@ -323,7 +237,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenLummis/status/2076840527937356210#m",
     "published_iso": "2026-07-14T01:25:42+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "db3324644f1c",
@@ -342,7 +256,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h235?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-13T23:02:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "db900d032d11",
@@ -361,7 +275,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h234?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-13T22:55:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "17dd55bf21d2",
@@ -380,7 +294,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s193?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-13T21:31:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "6ab9a5d688d5",
@@ -401,7 +315,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-sent-to-the-senate-3fd0/",
     "published_iso": "2026-07-13T20:39:42+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "d56eb50d4531",
@@ -427,7 +341,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2076746129086042236#m",
     "published_iso": "2026-07-13T19:10:35+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "2dd98b1cfa69",
@@ -449,7 +363,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2076730395526107634#m",
     "published_iso": "2026-07-13T18:08:04+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "93212d594a94",
@@ -475,7 +389,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mqk7uxb4y22c",
     "published_iso": "2026-07-13T17:31:27.832000+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "952fefad8490",
@@ -501,7 +415,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mqk553ah7k2t",
     "published_iso": "2026-07-13T16:42:19.215000+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "012e50c7c037",
@@ -524,7 +438,33 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2076661422885351531#m",
     "published_iso": "2026-07-13T13:34:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
+  },
+  {
+    "id": "e4292ff8c4d9",
+    "politician": "Rep. Patrick McHenry",
+    "initials": "PM",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#2d1e5f",
+      "fg": "#c084fc"
+    },
+    "severity": "critical",
+    "content": "federalreserve.gov/newsevent\u2026  \n \n Link  \n \n \n \n Federal Reserve announces the leadership and objectives of its task forces to advance the conduct... \n \n The Federal Reserve on Thursday announced the leadership and objectives of its task forces to advance the conduct of monetary policy. &quot;The Federal Reserve&apos;s",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/PatrickMcHenry/status/2075608154201624720#m",
+    "published_iso": "2026-07-10T15:48:41+00:00",
+    "time_ago": "3d ago"
   },
   {
     "id": "14224f4fd608",
