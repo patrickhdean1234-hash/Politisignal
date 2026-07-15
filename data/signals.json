@@ -1,6 +1,6 @@
 [
   {
-    "id": "71209fbcc247",
+    "id": "099554e3b655",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,63 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Englander Daniel J sold 80,000 shares of Copart Inc (CPRT) \u00b7 $27.55/share \u00b7 $2,204,000 total \u00b7 Jul 15 ($2,204,000 across all blocks)",
-    "tags": [],
+    "content": "Shackley Brian Charles withheld (tax) 243 shares of Aerovironment Inc (AVAV) \u00b7 $144.58/share \u00b7 $35,133 total \u00b7 Jul 15",
+    "tags": [
+      "Taxes"
+    ],
     "tickers": [
-      "CPRT"
+      "AVAV"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1289438/000119312526304271/0001193125-26-304271-index.htm",
-    "published_iso": "2026-07-15T15:09:29+00:00",
-    "time_ago": "3m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1790261/000179026126000012/0001790261-26-000012-index.htm",
+    "published_iso": "2026-07-15T16:38:41+00:00",
+    "time_ago": "7m ago"
   },
   {
-    "id": "610dcead1c7b",
+    "id": "49eb2d718ae6",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Leggio Anthony L. received 1,119 shares of Tejon Ranch Co (TRC) \u00b7 $18.70/share \u00b7 $20,925 total \u00b7 Jul 15",
+    "tags": [],
+    "tickers": [
+      "TRC"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1441799/000009686926000003/0000096869-26-000003-index.htm",
+    "published_iso": "2026-07-15T16:36:31+00:00",
+    "time_ago": "9m ago"
+  },
+  {
+    "id": "9a92f67f8ba7",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "The National Guard cannot serve two masters. The National Guard should be restored to its primary historical purpose as a domestic emergency force first and a state-based strategic reserve second",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/national-security/5968328-defend-the-guard-legislation/",
+    "published_iso": "2026-07-15T16:30:00+00:00",
+    "time_ago": "16m ago"
+  },
+  {
+    "id": "7c624ea62926",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -30,19 +74,20 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "DCCC chair predicts Democrats will take House, talk up Trump record. Rep. Suzan DelBene (D-Wash.), who chairs the Democratic Congressional Campaign Committee, predicted Democrats will take back control of the House in November. \u201cWe are absolutely going to take back the House,\u201d she told The Hill\u2019s Amie Parnes at the sec",
+    "content": "Supreme Court justices make rare appearance testifying on the Hill: Join the live\u00a0discussion. For the first time since 2019, two sitting Supreme Court justices appeared on Capitol Hill this week to testify. Join The Hill's legal affairs reporters, Zach Schonfeld and Sophie Brams, who will break down what stood out to t",
     "tags": [
+      "Regulation",
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/5969475-suzan-delbene-dccc-2026-democrats-house-campaigns-hill-nation-summit/",
-    "published_iso": "2026-07-15T14:57:42+00:00",
-    "time_ago": "15m ago"
+    "url": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/5969712-supreme-court-elena-kagan-amy-coney-barrett-capitol-hill-live-discussion/",
+    "published_iso": "2026-07-15T16:19:51+00:00",
+    "time_ago": "26m ago"
   },
   {
-    "id": "7ea3b4dceaf0",
+    "id": "82b79eb91854",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -50,24 +95,22 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "high",
-    "content": "Live updates: Blanche pressed on Epstein files, Trump IRS settlement at confirmation hearing. The U.S. military launched a new round of daytime strikes against Iran, seeking to further disable its capabilities to attack ships in the Strait of Hormuz. The U.S. reimposed a blockade of the waterway on Tuesday. President T",
+    "severity": "critical",
+    "content": "Warren grills Fed chair over colleague's private dinner with Wall Street bankers. Sen. Elizabeth Warren (D-Mass.) pressed new Federal Reserve Chair Kevin Warsh on Wednesday over his handling of an investigation into a top Fed official's private dinner with Wall Street bankers. At a Wednesday hearing held by the Senate ",
     "tags": [
-      "Defense",
-      "Taxes",
-      "Sanctions"
+      "Banking"
     ],
     "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5968257-live-updates-trump-iran-todd-blanche-jay-clayton-hearings/",
-    "published_iso": "2026-07-15T14:24:00+00:00",
-    "time_ago": "49m ago"
+    "url": "https://thehill.com/business/5969426-warren-warsh-hearing/",
+    "published_iso": "2026-07-15T16:07:18+00:00",
+    "time_ago": "38m ago"
   },
   {
     "id": "3888cea11b3e",
@@ -94,7 +137,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2077392465984671805#m",
     "published_iso": "2026-07-15T13:58:54+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "88995eae97ff",
@@ -123,7 +166,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2077377167013384672#m",
     "published_iso": "2026-07-15T12:58:07+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "82fb49ce448b",
@@ -150,7 +193,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14248/establishment-of-class-e-airspace-crown-point-in",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "002823f0782d",
@@ -171,7 +214,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14245/montana-regulatory-program",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "9ea2685aac73",
@@ -192,7 +235,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14244/montana-regulatory-program",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "264ea2e52f87",
@@ -214,7 +257,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14240/references-to-electronic-filing-systems-in-rules-of-practice-in-filings-pursuant-to-the-protocol",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "d5967b69bf7b",
@@ -233,7 +276,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14224/safety-zone-cuyahoga-river-cleveland-oh",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "f5a3aefe93d1",
@@ -254,7 +297,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14207/safety-zones-recurring-events-in-captain-of-the-port-duluth-zone",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "315ca8961643",
@@ -276,7 +319,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14205/amendment-of-class-d-airspace-and-removal-of-class-e4-airspace-over-nashua-nh",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "d3a7b7bb2060",
@@ -297,7 +340,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14204/lake-ontario-national-marine-sanctuary-delay-of-effective-date",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "d417fcb8f6c2",
@@ -318,7 +361,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h240?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T21:32:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "92505bc1a9f9",
@@ -339,7 +382,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h239?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T21:25:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "bb8e93f58680",
@@ -358,29 +401,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h238?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T21:17:00+00:00",
-    "time_ago": "17h ago"
-  },
-  {
-    "id": "e27d58a9ee5d",
-    "politician": "Sen. Rand Paul",
-    "initials": "RP",
-    "role": "Senate Foreign Relations Committee",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fbbf24"
-    },
-    "severity": "medium",
-    "content": "\ud83d\udea8 The fraud is bigger than anyone imagined. \n \nOn this episode of The Truth with Lisa Boothe, Sen.  @RandPaul  explains why what we're seeing in  #Minnesota  isn't just a local scandal\u2014it's the result of a broken federal system that rewards waste, abuse, and a lack of accountability. \n \n\ud83d\udcb0 Why blue states have little in",
-    "tags": [
-      "Big Tech",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/LisaMarieBoothe/status/2077136054465818783#m",
-    "published_iso": "2026-07-14T21:00:01+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "d2c2b9df1036",
@@ -405,7 +426,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/07/white-house-launches-gold-eagle-initiative-for-unprecedented-cybersecurity-vulnerability-coordination/",
     "published_iso": "2026-07-14T19:50:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "bbd034846708",
@@ -428,32 +449,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-and-withdrawals-sent-to-the-senate-e958/",
     "published_iso": "2026-07-14T19:12:59+00:00",
-    "time_ago": "20h ago"
-  },
-  {
-    "id": "344158ee0178",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "ft.com/content/4f4940cb-5ab4\u2026  \n \n Link  \n \n Dimon pressed over whether he lobbied UK government on Epstein\u2019s advice \n \n US Senator Elizabeth Warren demands JPMorgan boss explain any links with paedophile over proposed tax on bankers\u2019 bonuses \n  ft.com",
-    "tags": [
-      "Banking",
-      "Defense",
-      "Taxes"
-    ],
-    "tickers": [
-      "JPM"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/SenWarren/status/2077104674075824151#m",
-    "published_iso": "2026-07-14T18:55:19+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "58be44d5bd9b",
@@ -472,7 +468,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s195?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T18:41:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "0ab3d6d287f0",
@@ -493,7 +489,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h237?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T18:38:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "f77d88591fe5",
@@ -514,7 +510,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h236?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T18:29:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "a8933978907e",
@@ -533,7 +529,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
     "published_iso": "2026-07-14T18:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "f318a672c438",
@@ -552,7 +548,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s194?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T15:50:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "6db01659eb85",
@@ -571,7 +567,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2077048767149216153#m",
     "published_iso": "2026-07-14T15:13:10+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "db3324644f1c",
@@ -638,7 +634,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mqk553ah7k2t",
     "published_iso": "2026-07-13T16:42:19.215000+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "14224f4fd608",
@@ -972,7 +968,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-legalizing-premium-health-care-act/",
     "published_iso": "2026-05-20T15:26:37+00:00",
-    "time_ago": "55d ago"
+    "time_ago": "56d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -993,7 +989,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "64d ago"
+    "time_ago": "65d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1063,7 +1059,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266421-2/",
     "published_iso": "2026-04-20T15:45:00+00:00",
-    "time_ago": "85d ago"
+    "time_ago": "86d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1128,7 +1124,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-end-the-vaccine-carveout-act/",
     "published_iso": "2026-02-24T15:53:10+00:00",
-    "time_ago": "140d ago"
+    "time_ago": "141d ago"
   },
   {
     "id": "602146d3f751",
@@ -1235,7 +1231,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "210d ago"
+    "time_ago": "211d ago"
   },
   {
     "id": "e88c3c11d67a",
@@ -1257,6 +1253,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/983956",
     "published_iso": "2025-10-30T16:06:54+00:00",
-    "time_ago": "257d ago"
+    "time_ago": "258d ago"
   }
 ]
