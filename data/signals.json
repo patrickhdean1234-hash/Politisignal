@@ -1,6 +1,6 @@
 [
   {
-    "id": "dc9846041978",
+    "id": "264237df2291",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Palkhiwala Akash J. sold 581 shares of Qualcomm Inc/De (QCOM) \u00b7 $178.27/share \u00b7 $103,574 total \u00b7 Jul 14 ($452,030 across all blocks)",
+    "content": "Tan Anthony Ping Yeow sold 400,000 shares of Grab Holdings Ltd (GRABW) \u00b7 $3.91/share \u00b7 $1,563,960 total \u00b7 Jul 14",
     "tags": [],
     "tickers": [
-      "QCOM"
+      "GRABW"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1786420/000080432826000074/0000804328-26-000074-index.htm",
-    "published_iso": "2026-07-14T23:30:25+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/1896497/000185561226000117/0001855612-26-000117-index.htm",
+    "published_iso": "2026-07-15T00:51:24+00:00",
     "time_ago": "3m ago"
   },
   {
-    "id": "e6f82df1defd",
+    "id": "526af3369626",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,19 +30,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Khan Nick sold 3,356 shares of Tko Group Holdings, Inc. (TKO) \u00b7 $181.13/share \u00b7 $607,872 total \u00b7 Jul 14 ($1,751,280 across all blocks)",
+    "content": "Delly Gayla J gifted 500 shares of Broadcom Inc. (AVGO) \u00b7 Jul 14",
     "tags": [],
     "tickers": [
-      "TKO"
+      "AVGO"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312526303601/0001193125-26-303601-index.htm",
-    "published_iso": "2026-07-14T23:30:09+00:00",
-    "time_ago": "3m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000072/0001730168-26-000072-index.htm",
+    "published_iso": "2026-07-15T00:27:57+00:00",
+    "time_ago": "27m ago"
   },
   {
-    "id": "0e234067487f",
+    "id": "fc76ba5081a4",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -51,41 +51,38 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Sordoni Giordano withheld (tax) 9,916 shares of Xos, Inc. (XOSWW) \u00b7 $2.47/share \u00b7 $24,493 total \u00b7 Jul 14",
-    "tags": [
-      "Taxes"
-    ],
+    "content": "Brazeal Mark David sold 25,000 shares of Broadcom Inc. (AVGO) \u00b7 $401.33/share \u00b7 $10,033,225 total \u00b7 Jul 14",
+    "tags": [],
     "tickers": [
-      "XOSWW"
+      "AVGO"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1877937/000119312526303580/0001193125-26-303580-index.htm",
-    "published_iso": "2026-07-14T23:18:45+00:00",
-    "time_ago": "14m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000070/0001730168-26-000070-index.htm",
+    "published_iso": "2026-07-15T00:23:44+00:00",
+    "time_ago": "31m ago"
   },
   {
-    "id": "82cf6cc93196",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "9727c27eb178",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Semler Dakota withheld (tax) 14,538 shares of Xos, Inc. (XOSWW) \u00b7 $2.47/share \u00b7 $35,909 total \u00b7 Jul 14",
+    "content": "Warsh's hill debut. Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; Your feedback matters to us. Take our brief newsletter survey to help us improve the newsletters you read every day.  The Big Story  Warsh touts 'sea change' at Fed in first hear",
     "tags": [
+      "Banking",
       "Taxes"
     ],
-    "tickers": [
-      "XOSWW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1877933/000119312526303577/0001193125-26-303577-index.htm",
-    "published_iso": "2026-07-14T23:17:40+00:00",
-    "time_ago": "16m ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/business-economy/5968666-warshs-hill-debut/",
+    "published_iso": "2026-07-14T23:11:42+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "47762556e135",
@@ -111,49 +108,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/newsletters/technology/5968631-apple-openai-ai-hardware-suit/",
     "published_iso": "2026-07-14T23:03:21+00:00",
-    "time_ago": "30m ago"
-  },
-  {
-    "id": "5415ba69ed99",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Garfield Mark S. sold 918 shares of Workday, Inc. (WDAY) \u00b7 $142.19/share \u00b7 $130,530 total \u00b7 Jul 14",
-    "tags": [],
-    "tickers": [
-      "WDAY"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1602315/000160231526000016/0001602315-26-000016-index.htm",
-    "published_iso": "2026-07-14T23:02:50+00:00",
-    "time_ago": "30m ago"
-  },
-  {
-    "id": "f625230d854a",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Shah Rajeev M. bought 15,102 shares of Artiva Biotherapeutics, Inc. (ARTV) \u00b7 $8.97/share \u00b7 $135,465 total \u00b7 Jul 14 ($194,040 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "ARTV"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1883840/000123191926000764/0001231919-26-000764-index.htm",
-    "published_iso": "2026-07-14T23:00:23+00:00",
-    "time_ago": "33m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "fc65b8e000b0",
@@ -172,51 +127,6 @@
     "platform": "The Hill",
     "url": "https://thehill.com/policy/technology/5968601-claude-for-teachers-launch/",
     "published_iso": "2026-07-14T22:58:46+00:00",
-    "time_ago": "35m ago"
-  },
-  {
-    "id": "fe337bd7d16d",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "NY imposes moratorium on large data centers. {beacon} Energy &#038; Environment Energy &#038; Environment &#8202; Your feedback matters to us. Take our brief newsletter survey to help us improve the newsletters you read every day.  The Big Story  NY pauses large data center buildout New York Gov. Kathy Hochul (D) is im",
-    "tags": [
-      "Energy",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/energy-environment/5968525-ny-imposes-moratorium-on-large-data-centers/",
-    "published_iso": "2026-07-14T22:24:14+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "ae65dd3a99c5",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Key GOP senator concerned over Blanche involvement in Trump IRS deal. Sen. John Cornyn (R-Texas), a key member of the Senate Judiciary Committee, says he is \u201cconcerned\u201d about acting Attorney General Todd Blanche\u2019s role in crafting a settlement between President Trump, the Internal Revenue Service (IRS) and Justice Depa",
-    "tags": [
-      "Agriculture",
-      "Defense",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5968577-cornyn-blanche-irs-audit-settlement/",
-    "published_iso": "2026-07-14T22:16:54+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -238,7 +148,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h240?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T21:32:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "92505bc1a9f9",
@@ -259,7 +169,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h239?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T21:25:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "bb8e93f58680",
@@ -278,7 +188,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h238?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T21:17:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "e27d58a9ee5d",
@@ -300,7 +210,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/LisaMarieBoothe/status/2077136054465818783#m",
     "published_iso": "2026-07-14T21:00:01+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "d2c2b9df1036",
@@ -325,7 +235,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/07/white-house-launches-gold-eagle-initiative-for-unprecedented-cybersecurity-vulnerability-coordination/",
     "published_iso": "2026-07-14T19:50:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "bbd034846708",
@@ -348,7 +258,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-and-withdrawals-sent-to-the-senate-e958/",
     "published_iso": "2026-07-14T19:12:59+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "344158ee0178",
@@ -373,7 +283,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2077104674075824151#m",
     "published_iso": "2026-07-14T18:55:19+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "72357c35d777",
@@ -395,10 +305,10 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h237?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T18:38:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "6h ago"
   },
   {
-    "id": "a0e6ea362ac3",
+    "id": "9fe1af4d7d60",
     "politician": "Politico",
     "initials": "PO",
     "role": "Political News",
@@ -407,7 +317,7 @@
       "fg": "#fca5a5"
     },
     "severity": "medium",
-    "content": "Maine Democrats will square off in Senate debate Thursday. It\u2019ll be their first and potentially only public face-off ahead of the July 25 nomination convention to replace Graham Platner as the Senate nominee",
+    "content": "Maine Democrats will square off in first Senate debate since Platner's withdrawal. Eight candidates have been invited to take part in the event in Portland",
     "tags": [
       "Taxes"
     ],
@@ -416,7 +326,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/07/14/maine-democrats-senate-debate-platner-00997107",
     "published_iso": "2026-07-14T18:34:24+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "c414d0e5dfda",
@@ -438,7 +348,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h236?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T18:29:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "a8933978907e",
@@ -457,7 +367,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
     "published_iso": "2026-07-14T18:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "f318a672c438",
@@ -476,7 +386,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s194?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T15:50:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "6db01659eb85",
@@ -495,7 +405,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2077048767149216153#m",
     "published_iso": "2026-07-14T15:13:10+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "753200464923",
@@ -516,7 +426,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14195/rescinding-the-definition-of-harm-under-the-endangered-species-act",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "253a447c97b1",
@@ -540,7 +450,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14132/enhanced-favorable-treatment-for-the-united-arab-emirates-under-the-export-administration",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "0ea2210a7da7",
@@ -561,7 +471,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14131/designated-placement-requirements-under-titles-iv-e-and-iv-b-for-lgbtqi-children-rescission",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "797f920aab11",
@@ -580,7 +490,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14127/safety-zone-charleston-harbor-charleston-sc",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "9f53dd77922b",
@@ -602,7 +512,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14114/bacteriophage-active-against-xanthomonas-campestris-pv-vesicatoriaecophage-and-bacteriophage-active",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "a4ca45491a48",
@@ -621,7 +531,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14113/safety-zone-dyes-inlet-silverdale-wa",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "41716de95741",
@@ -640,7 +550,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14110/airworthiness-directives-bombardier-inc-airplanes",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "38de3b9be964",
@@ -659,7 +569,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14109/airworthiness-directives-textron-aviation-inc-airplanes",
     "published_iso": "2026-07-14T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "db3324644f1c",
