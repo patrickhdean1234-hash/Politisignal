@@ -1,48 +1,6 @@
 [
   {
-    "id": "d59b1f09b1f2",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "King Jonathan Allen received 180 shares of Gds Holdings Ltd (GDHLF) \u00b7 Jul 15",
-    "tags": [],
-    "tickers": [
-      "GDHLF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1970147/000110465926083730/0001104659-26-083730-index.htm",
-    "published_iso": "2026-07-15T11:17:41+00:00",
-    "time_ago": "40m ago"
-  },
-  {
-    "id": "5b171a1d1db9",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Zhang David received 75 shares of Gds Holdings Ltd (GDHLF) \u00b7 Jul 15",
-    "tags": [],
-    "tickers": [
-      "GDHLF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2117642/000110465926083726/0001104659-26-083726-index.htm",
-    "published_iso": "2026-07-15T11:08:26+00:00",
-    "time_ago": "49m ago"
-  },
-  {
-    "id": "3e1062b7dbb9",
+    "id": "8c7593fa40f5",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -51,58 +9,45 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "House GOP scrambles to tee up reconciliation 3.0 while facing competing pressures. Republican leaders are scrambling to try to tee up a third party-line budget bill by the end of the week,\u00a0aiming to deliver on a framework before the midterm campaign season gets into full swing but facing internal divisions that complic",
+    "content": "Trump: Texas, Alaska could be \u2018alternatives\u2019 to Strait of Hormuz. President Trump on Tuesday suggested pipelines in Texas and Alaska could serve as alternatives to the Strait of Hormuz, which Trump said is \u201copen if people want to go through it\u201d despite Iranian officials blocking maritime shipping through the region.\u00a0 I",
     "tags": [
+      "Sanctions"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5969138-trump-suggests-texas-alaska-pipelines/",
+    "published_iso": "2026-07-15T13:24:19+00:00",
+    "time_ago": "21m ago"
+  },
+  {
+    "id": "88995eae97ff",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "critical",
+    "content": "Graham Tariff bill could increase taxes (tariffs) a half a trillion dollars! \u00a0(Bill allows 100% tariff on top five purchasers of Russian oil: \u00a0China, India, Turkey, Slovakia, & Hungary \u2014 approx. $500 billion dollars.) \n \nConstitution forbids delegating the taxing authority to the Executive. \u00a0 \n \nConstitution commands t",
+    "tags": [
+      "Trade",
+      "China",
+      "Energy",
       "Regulation"
     ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5968330-republicans-reconciliation-bill-midterms/",
-    "published_iso": "2026-07-15T10:00:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "bb6973463bee",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Democrats face test over future of party in Michigan Senate primary. Democrats increasingly see Michigan\u2019s Senate race as the first major test in the party's fight over its identity as it looks beyond the midterms to the presidential race in 2028.  The primary battle between Rep. Haley Stevens (D-Mich.) and Abdul El-Sa",
-    "tags": [
-      "Taxes"
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
     ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/5967912-democrats-battle-michigan-left/",
-    "published_iso": "2026-07-15T10:00:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "ebea769f94a8",
-    "politician": "Politico",
-    "initials": "PO",
-    "role": "Political News",
-    "color": {
-      "bg": "#1a0a0a",
-      "fg": "#fca5a5"
-    },
-    "severity": "high",
-    "content": "Maine Democrats grapple with who is best to take over Graham Platner\u2019s movement. Platner\u2019s former volunteers and supporters are splitting across a number of the newly-announced Senate candidates to succeed him",
-    "tags": [
-      "Big Tech"
-    ],
-    "tickers": [],
-    "source": "politico",
-    "platform": "Politico",
-    "url": "https://www.politico.com/news/2026/07/15/maine-democrats-fractures-platner-replacement-00997729",
-    "published_iso": "2026-07-15T09:55:00+00:00",
-    "time_ago": "2h ago"
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/RandPaul/status/2077377167013384672#m",
+    "published_iso": "2026-07-15T12:58:07+00:00",
+    "time_ago": "47m ago"
   },
   {
     "id": "82fb49ce448b",
@@ -129,7 +74,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14248/establishment-of-class-e-airspace-crown-point-in",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "002823f0782d",
@@ -150,7 +95,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14245/montana-regulatory-program",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "9ea2685aac73",
@@ -171,7 +116,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14244/montana-regulatory-program",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "264ea2e52f87",
@@ -193,7 +138,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14240/references-to-electronic-filing-systems-in-rules-of-practice-in-filings-pursuant-to-the-protocol",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "d5967b69bf7b",
@@ -212,7 +157,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14224/safety-zone-cuyahoga-river-cleveland-oh",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "f5a3aefe93d1",
@@ -233,7 +178,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14207/safety-zones-recurring-events-in-captain-of-the-port-duluth-zone",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "315ca8961643",
@@ -255,7 +200,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14205/amendment-of-class-d-airspace-and-removal-of-class-e4-airspace-over-nashua-nh",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "d3a7b7bb2060",
@@ -276,7 +221,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14204/lake-ontario-national-marine-sanctuary-delay-of-effective-date",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "d417fcb8f6c2",
@@ -297,7 +242,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h240?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T21:32:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "92505bc1a9f9",
@@ -318,7 +263,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h239?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T21:25:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "bb8e93f58680",
@@ -337,7 +282,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h238?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T21:17:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "e27d58a9ee5d",
@@ -359,7 +304,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/LisaMarieBoothe/status/2077136054465818783#m",
     "published_iso": "2026-07-14T21:00:01+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "d2c2b9df1036",
@@ -384,7 +329,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/07/white-house-launches-gold-eagle-initiative-for-unprecedented-cybersecurity-vulnerability-coordination/",
     "published_iso": "2026-07-14T19:50:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "bbd034846708",
@@ -407,7 +352,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-and-withdrawals-sent-to-the-senate-e958/",
     "published_iso": "2026-07-14T19:12:59+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "344158ee0178",
@@ -432,7 +377,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2077104674075824151#m",
     "published_iso": "2026-07-14T18:55:19+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "0ab3d6d287f0",
@@ -453,7 +398,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h237?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T18:38:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "f77d88591fe5",
@@ -474,7 +419,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h236?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T18:29:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "a8933978907e",
@@ -493,7 +438,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
     "published_iso": "2026-07-14T18:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "f318a672c438",
@@ -512,7 +457,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s194?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T15:50:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "6db01659eb85",
@@ -531,7 +476,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2077048767149216153#m",
     "published_iso": "2026-07-14T15:13:10+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "db3324644f1c",
@@ -731,7 +676,7 @@
     "tickers": [],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "http://nt.vern.cc/usembassyve/status/2073873845241413988#m",
+    "url": "https://nitter.net/usembassyve/status/2073873845241413988#m",
     "published_iso": "2026-07-05T20:57:10+00:00",
     "time_ago": "9d ago"
   },
