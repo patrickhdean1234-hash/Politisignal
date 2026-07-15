@@ -1,6 +1,6 @@
 [
   {
-    "id": "a97542cfde43",
+    "id": "bc86683bf28f",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,21 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Chen Ying Cenly received 2,800,000 shares of Chronoscale Holdings Corp (CHRN) \u00b7 Jul 15",
-    "tags": [],
+    "content": "Weinstein Marc Adam acquired/disposed 7,500 shares of Robostrategy, Inc. (BOT) \u00b7 Jul 15",
+    "tags": [
+      "Insider Trade"
+    ],
     "tickers": [
-      "CHRN"
+      "BOT"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2132614/000149315226033359/0001493152-26-033359-index.htm",
-    "published_iso": "2026-07-15T20:15:31+00:00",
-    "time_ago": "3m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2085332/000121390026078395/0001213900-26-078395-index.htm",
+    "published_iso": "2026-07-15T21:20:26+00:00",
+    "time_ago": "5m ago"
   },
   {
-    "id": "150501929f3b",
+    "id": "c6411c3f8ab2",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,19 +32,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Ceesay Abraham sold 5,481 shares of Rapport Therapeutics, Inc. (RAPP) \u00b7 $39.72/share \u00b7 $217,715 total \u00b7 Jul 15 ($328,437 across all blocks)",
+    "content": "Mezger Jeffrey T exercised options for 94,872 shares of Kb Home (KBH) \u00b7 $16.21/share \u00b7 $1,537,875 total \u00b7 Jul 15 ($19,668,644 across all blocks)",
     "tags": [],
     "tickers": [
-      "RAPP"
+      "KBH"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2012593/000119312526304786/0001193125-26-304786-index.htm",
-    "published_iso": "2026-07-15T20:15:03+00:00",
-    "time_ago": "4m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1074923/000107492326000011/0001074923-26-000011-index.htm",
+    "published_iso": "2026-07-15T21:18:04+00:00",
+    "time_ago": "8m ago"
   },
   {
-    "id": "69464b12a714",
+    "id": "fb7e680e54a4",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -51,19 +53,40 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Boromisa Jeffrey M sold 25,000 shares of Wolverine World Wide Inc /De/ (WWW) \u00b7 $18.14/share \u00b7 $453,500 total \u00b7 Jul 15",
+    "content": "Mcgibney Robert V. exercised options for 20,621 shares of Kb Home (KBH) \u00b7 $16.21/share \u00b7 $334,266 total \u00b7 Jul 15 ($1,474,814 across all blocks)",
     "tags": [],
     "tickers": [
-      "WWW"
+      "KBH"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1185940/000162828026048333/0001628280-26-048333-index.htm",
-    "published_iso": "2026-07-15T20:14:13+00:00",
-    "time_ago": "4m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1871453/000187145326000007/0001871453-26-000007-index.htm",
+    "published_iso": "2026-07-15T21:17:49+00:00",
+    "time_ago": "8m ago"
   },
   {
-    "id": "3c5b5e4936aa",
+    "id": "e327b4596155",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "Presidential Message on the Birthday of Saint Frances Xavier Cabrini. Today, we celebrate the birthday of Saint Frances Xavier Cabrini\u2014a woman of boundless faith and limitless charity, a towering Italian American hero, and the first American citizen ever proclaimed a saint by the Catholic Church. From a young age in No",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-birthday-of-saint-frances-xavier-cabrini/",
+    "published_iso": "2026-07-15T20:50:29+00:00",
+    "time_ago": "35m ago"
+  },
+  {
+    "id": "12e7fdd0492d",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -71,12 +94,12 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "critical",
-    "content": "Democratic opposition over Trump tariffs complicates Russian sanctions push. A trio of Democrats are raising alarm that a bipartisan sanctions bill targeting Russian President Vladimir Putin\u2019s war against Ukraine gives President Trump unacceptable tariff authorities. Rep. Gregory Meeks (D-N.Y.), the ranking member of t",
+    "severity": "medium",
+    "content": "Cammack says China has deployed 'digital twins' of every lawmaker. Rep. Kat Cammack (R-Fla.) on Wednesday addressed the international race to achieve dominance over artificial intelligence and the importance behind each country\u2019s efforts to take the lead. \u201cChina and Russia and Iran would love nothing more than for us t",
     "tags": [
       "Trade",
+      "China",
       "Regulation",
-      "Taxes",
       "Sanctions"
     ],
     "tickers": [
@@ -87,55 +110,58 @@
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5970400-democrats-oppose-russia-sanctions-act/",
-    "published_iso": "2026-07-15T19:55:05+00:00",
-    "time_ago": "24m ago"
+    "url": "https://thehill.com/homenews/house/5970422-cammack-warns-china-ai-threat/",
+    "published_iso": "2026-07-15T20:50:29+00:00",
+    "time_ago": "35m ago"
   },
   {
-    "id": "1a4f9653cbce",
-    "politician": "The Hill",
-    "initials": "TH",
+    "id": "e9fff092e4cc",
+    "politician": "Politico",
+    "initials": "PO",
     "role": "Political News",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#1a0a0a",
+      "fg": "#fca5a5"
     },
-    "severity": "high",
-    "content": "Live updates: Blanche tells confirmation hearing Trump isn't eligible for third term. The Senate is holding confirmation hearings to examine the nominations of Todd Blanche as attorney general and Jay Clayton as director of national intelligence. Senators have grilled Blanche on the Jeffrey Epstein files, President Tru",
+    "severity": "medium",
+    "content": "A British diplomat with a diplomatic answer. \"Will winning feel better than winning the Falklands War?\" our foreign-affairs columnist asks",
     "tags": [
-      "Defense",
       "Taxes"
     ],
     "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5968257-live-updates-trump-iran-todd-blanche-jay-clayton-hearings/",
-    "published_iso": "2026-07-15T19:28:00+00:00",
-    "time_ago": "51m ago"
+    "source": "politico",
+    "platform": "Politico",
+    "url": "https://www.politico.com/live-updates/2026/07/15/world-cup-2026/diplomatic-view-from-d-c-00999880",
+    "published_iso": "2026-07-15T20:20:51+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "4f420e12b490",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "30815ff24f77",
+    "politician": "Sen. Cynthia Lummis",
+    "initials": "CL",
+    "role": "Senate Banking Subcommittee (Crypto)",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#1a1a2a",
+      "fg": "#c4b5fd"
     },
-    "severity": "medium",
-    "content": "Chipotle to open first restaurant in Mexico: What's on the menu?. On Thursday, Chipotle hopes to do what at least one other U.S-based Mexican chain has failed at \u2013 open a successful location in Mexico",
+    "severity": "critical",
+    "content": "REPORT: The Federal Law Enforcement Officers Association and the National Organization of Black Law Enforcement Executives have endorsed the CLARITY Act.  \n \n\u201cFLEOA commends the Committee for its efforts to establish a clear regulatory framework for digital assets that promotes responsible innovation while preserving c",
     "tags": [
-      "Semiconductors",
-      "Taxes"
+      "Crypto",
+      "Regulation",
+      "Sanctions"
     ],
     "tickers": [
-      "CMG"
+      "BTC",
+      "ETH",
+      "COIN",
+      "XRP"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/5970020-chipotle-to-open-first-restaurant-in-mexico-whats-on-the-menu/",
-    "published_iso": "2026-07-15T19:26:03+00:00",
-    "time_ago": "53m ago"
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/WarMachineRR/status/2077486060704301557#m",
+    "published_iso": "2026-07-15T20:10:49+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "72606479d124",
@@ -154,7 +180,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s196?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-15T15:50:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "3888cea11b3e",
@@ -181,7 +207,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2077392465984671805#m",
     "published_iso": "2026-07-15T13:58:54+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "82fb49ce448b",
@@ -208,7 +234,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14248/establishment-of-class-e-airspace-crown-point-in",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "002823f0782d",
@@ -229,7 +255,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14245/montana-regulatory-program",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "9ea2685aac73",
@@ -250,7 +276,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14244/montana-regulatory-program",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "264ea2e52f87",
@@ -272,7 +298,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14240/references-to-electronic-filing-systems-in-rules-of-practice-in-filings-pursuant-to-the-protocol",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "d5967b69bf7b",
@@ -291,7 +317,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14224/safety-zone-cuyahoga-river-cleveland-oh",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "f5a3aefe93d1",
@@ -312,7 +338,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14207/safety-zones-recurring-events-in-captain-of-the-port-duluth-zone",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "315ca8961643",
@@ -334,7 +360,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14205/amendment-of-class-d-airspace-and-removal-of-class-e4-airspace-over-nashua-nh",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "d3a7b7bb2060",
@@ -355,7 +381,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14204/lake-ontario-national-marine-sanctuary-delay-of-effective-date",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "d417fcb8f6c2",
@@ -376,7 +402,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h240?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T21:32:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "92505bc1a9f9",
@@ -397,7 +423,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h239?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T21:25:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "bb8e93f58680",
@@ -416,7 +442,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h238?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T21:17:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "d2c2b9df1036",
@@ -746,7 +772,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/usembassyve/status/2073873845241413988#m",
     "published_iso": "2026-07-05T20:57:10+00:00",
-    "time_ago": "9d ago"
+    "time_ago": "10d ago"
   },
   {
     "id": "ae33a3c26ef2",
