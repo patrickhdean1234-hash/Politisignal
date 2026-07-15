@@ -1,6 +1,6 @@
 [
   {
-    "id": "099554e3b655",
+    "id": "db1c2a874a51",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,7 +9,28 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Shackley Brian Charles withheld (tax) 243 shares of Aerovironment Inc (AVAV) \u00b7 $144.58/share \u00b7 $35,133 total \u00b7 Jul 15",
+    "content": "Metcalfe Norman J received 1,253 shares of Tejon Ranch Co (TRC) \u00b7 $18.70/share \u00b7 $23,431 total \u00b7 Jul 15",
+    "tags": [],
+    "tickers": [
+      "TRC"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1214407/000119312526304530/0001193125-26-304530-index.htm",
+    "published_iso": "2026-07-15T17:57:01+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "e37bd4cd588d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Nawabi Wahid withheld (tax) 5,246 shares of Aerovironment Inc (AVAV) \u00b7 $144.58/share \u00b7 $758,467 total \u00b7 Jul 15",
     "tags": [
       "Taxes"
     ],
@@ -18,33 +39,12 @@
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1790261/000179026126000012/0001790261-26-000012-index.htm",
-    "published_iso": "2026-07-15T16:38:41+00:00",
-    "time_ago": "7m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1538012/000153801226000008/0001538012-26-000008-index.htm",
+    "published_iso": "2026-07-15T17:54:05+00:00",
+    "time_ago": "3m ago"
   },
   {
-    "id": "49eb2d718ae6",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Leggio Anthony L. received 1,119 shares of Tejon Ranch Co (TRC) \u00b7 $18.70/share \u00b7 $20,925 total \u00b7 Jul 15",
-    "tags": [],
-    "tickers": [
-      "TRC"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1441799/000009686926000003/0000096869-26-000003-index.htm",
-    "published_iso": "2026-07-15T16:36:31+00:00",
-    "time_ago": "9m ago"
-  },
-  {
-    "id": "9a92f67f8ba7",
+    "id": "68e417726be4",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -52,20 +52,20 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "critical",
-    "content": "The National Guard cannot serve two masters. The National Guard should be restored to its primary historical purpose as a domestic emergency force first and a state-based strategic reserve second",
+    "severity": "low",
+    "content": "Biden teases new memoir slated for post-midterm release. Former President Biden on Wednesday revealed plans for a new memoir reflecting on his single term in the White House, with the book set to hit shelves just weeks after the midterm elections. The memoir, \u201cPromise Me, America,\u201d will offer his first-person account o",
     "tags": [
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/national-security/5968328-defend-the-guard-legislation/",
-    "published_iso": "2026-07-15T16:30:00+00:00",
-    "time_ago": "16m ago"
+    "url": "https://thehill.com/blogs/in-the-know/5969700-biden-promise-me-america-memoir/",
+    "published_iso": "2026-07-15T17:26:42+00:00",
+    "time_ago": "31m ago"
   },
   {
-    "id": "7c624ea62926",
+    "id": "9b963ac90f89",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -74,20 +74,19 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Supreme Court justices make rare appearance testifying on the Hill: Join the live\u00a0discussion. For the first time since 2019, two sitting Supreme Court justices appeared on Capitol Hill this week to testify. Join The Hill's legal affairs reporters, Zach Schonfeld and Sophie Brams, who will break down what stood out to t",
+    "content": "FCC Chair Carr says California could drop lawsuit against Paramount, Warner Bros. merger if CNN is spun off. Federal Communications Commission (FCC) Chair Brendan Carr said Wednesday California could drop its joint lawsuit\u00a0against Paramount Skydance\u2019s acquisition of Warner Bros. Discovery if CNN was spun off to be its ",
     "tags": [
-      "Regulation",
-      "Taxes"
+      "Regulation"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/5969712-supreme-court-elena-kagan-amy-coney-barrett-capitol-hill-live-discussion/",
-    "published_iso": "2026-07-15T16:19:51+00:00",
-    "time_ago": "26m ago"
+    "url": "https://thehill.com/regulation/court-battles/5969820-fcc-chair-cnn-spinoff-rumor/",
+    "published_iso": "2026-07-15T17:06:22+00:00",
+    "time_ago": "51m ago"
   },
   {
-    "id": "82b79eb91854",
+    "id": "c09f3081930f",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -95,22 +94,17 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "critical",
-    "content": "Warren grills Fed chair over colleague's private dinner with Wall Street bankers. Sen. Elizabeth Warren (D-Mass.) pressed new Federal Reserve Chair Kevin Warsh on Wednesday over his handling of an investigation into a top Fed official's private dinner with Wall Street bankers. At a Wednesday hearing held by the Senate ",
+    "severity": "medium",
+    "content": "Lieu criticizes GOP colleagues for strategy on AI. Rep. Ted Lieu (D-Calif.) on Wednesday expressed concern about the rapid evolution of artificial intelligence (AI). \u201cI am still freaked out by AI, and it\u2019s actually accelerated much more quickly than I thought possible,\u201d the fourth-ranking House Democrat told The Hill\u2019s",
     "tags": [
-      "Banking"
+      "Sanctions"
     ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/business/5969426-warren-warsh-hearing/",
-    "published_iso": "2026-07-15T16:07:18+00:00",
-    "time_ago": "38m ago"
+    "url": "https://thehill.com/policy/technology/5969830-lieu-ai-guardrails-congress/",
+    "published_iso": "2026-07-15T17:03:30+00:00",
+    "time_ago": "54m ago"
   },
   {
     "id": "3888cea11b3e",
@@ -137,7 +131,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2077392465984671805#m",
     "published_iso": "2026-07-15T13:58:54+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "88995eae97ff",
@@ -166,7 +160,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2077377167013384672#m",
     "published_iso": "2026-07-15T12:58:07+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "82fb49ce448b",
@@ -193,7 +187,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14248/establishment-of-class-e-airspace-crown-point-in",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "002823f0782d",
@@ -214,7 +208,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14245/montana-regulatory-program",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "9ea2685aac73",
@@ -235,7 +229,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14244/montana-regulatory-program",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "264ea2e52f87",
@@ -257,7 +251,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14240/references-to-electronic-filing-systems-in-rules-of-practice-in-filings-pursuant-to-the-protocol",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "d5967b69bf7b",
@@ -276,7 +270,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14224/safety-zone-cuyahoga-river-cleveland-oh",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "f5a3aefe93d1",
@@ -297,7 +291,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14207/safety-zones-recurring-events-in-captain-of-the-port-duluth-zone",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "315ca8961643",
@@ -319,7 +313,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14205/amendment-of-class-d-airspace-and-removal-of-class-e4-airspace-over-nashua-nh",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "d3a7b7bb2060",
@@ -340,7 +334,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14204/lake-ontario-national-marine-sanctuary-delay-of-effective-date",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "d417fcb8f6c2",
@@ -361,7 +355,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h240?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T21:32:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "92505bc1a9f9",
@@ -382,7 +376,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h239?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T21:25:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "bb8e93f58680",
@@ -401,7 +395,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h238?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T21:17:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "d2c2b9df1036",
@@ -426,7 +420,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/07/white-house-launches-gold-eagle-initiative-for-unprecedented-cybersecurity-vulnerability-coordination/",
     "published_iso": "2026-07-14T19:50:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "bbd034846708",
@@ -449,7 +443,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-and-withdrawals-sent-to-the-senate-e958/",
     "published_iso": "2026-07-14T19:12:59+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "58be44d5bd9b",
@@ -468,7 +462,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s195?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T18:41:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "0ab3d6d287f0",
@@ -489,7 +483,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h237?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T18:38:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "f77d88591fe5",
@@ -510,7 +504,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h236?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T18:29:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "a8933978907e",
@@ -529,7 +523,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
     "published_iso": "2026-07-14T18:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "f318a672c438",
@@ -1212,7 +1206,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "173d ago"
+    "time_ago": "174d ago"
   },
   {
     "id": "d3ca74df7f0f",
