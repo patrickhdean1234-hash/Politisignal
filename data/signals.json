@@ -1,6 +1,6 @@
 [
   {
-    "id": "bc86683bf28f",
+    "id": "3e5724f96d75",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,21 +9,42 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Weinstein Marc Adam acquired/disposed 7,500 shares of Robostrategy, Inc. (BOT) \u00b7 Jul 15",
+    "content": "Shootman Alex received 40,946 shares of Pagerduty, Inc. (PD) \u00b7 Jul 15",
+    "tags": [],
+    "tickers": [
+      "PD"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1568100/000133357026000014/0001333570-26-000014-index.htm",
+    "published_iso": "2026-07-15T22:15:45+00:00",
+    "time_ago": "13m ago"
+  },
+  {
+    "id": "98cdb8337946",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Levy Keith acquired/disposed 10,964 shares of Gorilla Technology Group Inc. (GRRRW) \u00b7 Jul 15",
     "tags": [
       "Insider Trade"
     ],
     "tickers": [
-      "BOT"
+      "GRRRW"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2085332/000121390026078395/0001213900-26-078395-index.htm",
-    "published_iso": "2026-07-15T21:20:26+00:00",
-    "time_ago": "5m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2113881/000121390026078421/0001213900-26-078421-index.htm",
+    "published_iso": "2026-07-15T22:05:19+00:00",
+    "time_ago": "23m ago"
   },
   {
-    "id": "c6411c3f8ab2",
+    "id": "d487b361417d",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -32,19 +53,21 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Mezger Jeffrey T exercised options for 94,872 shares of Kb Home (KBH) \u00b7 $16.21/share \u00b7 $1,537,875 total \u00b7 Jul 15 ($19,668,644 across all blocks)",
-    "tags": [],
+    "content": "Walker Gregg acquired/disposed 10,964 shares of Gorilla Technology Group Inc. (GRRRW) \u00b7 Jul 15",
+    "tags": [
+      "Insider Trade"
+    ],
     "tickers": [
-      "KBH"
+      "GRRRW"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1074923/000107492326000011/0001074923-26-000011-index.htm",
-    "published_iso": "2026-07-15T21:18:04+00:00",
-    "time_ago": "8m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1903145/000121390026078420/0001213900-26-078420-index.htm",
+    "published_iso": "2026-07-15T22:05:03+00:00",
+    "time_ago": "23m ago"
   },
   {
-    "id": "fb7e680e54a4",
+    "id": "5c5b6e748365",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -53,16 +76,196 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Mcgibney Robert V. exercised options for 20,621 shares of Kb Home (KBH) \u00b7 $16.21/share \u00b7 $334,266 total \u00b7 Jul 15 ($1,474,814 across all blocks)",
-    "tags": [],
+    "content": "Chandan Jayesh acquired/disposed 119,178 shares of Gorilla Technology Group Inc. (GRRRW) \u00b7 Jul 15",
+    "tags": [
+      "Insider Trade"
+    ],
     "tickers": [
-      "KBH"
+      "GRRRW"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1871453/000187145326000007/0001871453-26-000007-index.htm",
-    "published_iso": "2026-07-15T21:17:49+00:00",
-    "time_ago": "8m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1903145/000121390026078418/0001213900-26-078418-index.htm",
+    "published_iso": "2026-07-15T22:04:33+00:00",
+    "time_ago": "24m ago"
+  },
+  {
+    "id": "5e6e6932768c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Medeiros Evan S acquired/disposed 10,964 shares of Gorilla Technology Group Inc. (GRRRW) \u00b7 Jul 15",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "GRRRW"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2116306/000121390026078417/0001213900-26-078417-index.htm",
+    "published_iso": "2026-07-15T22:04:16+00:00",
+    "time_ago": "24m ago"
+  },
+  {
+    "id": "7417758be738",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Kelly Ruth acquired/disposed 14,301 shares of Gorilla Technology Group Inc. (GRRRW) \u00b7 Jul 15",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "GRRRW"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2111955/000121390026078416/0001213900-26-078416-index.htm",
+    "published_iso": "2026-07-15T22:03:58+00:00",
+    "time_ago": "25m ago"
+  },
+  {
+    "id": "92b2b9c3f6bc",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Rawlings Amy Marie received 6,567 shares of Roblox Corp (RBLX) \u00b7 Jul 15",
+    "tags": [],
+    "tickers": [
+      "RBLX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1875017/000131509826000148/0001315098-26-000148-index.htm",
+    "published_iso": "2026-07-15T22:02:39+00:00",
+    "time_ago": "26m ago"
+  },
+  {
+    "id": "a624d3065d19",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Rajaram Gokul sold 1,050 shares of Pinterest, Inc. (PINS) \u00b7 $22.85/share \u00b7 $23,992 total \u00b7 Jul 15",
+    "tags": [],
+    "tickers": [
+      "PINS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1589043/000158904326000011/0001589043-26-000011-index.htm",
+    "published_iso": "2026-07-15T21:56:18+00:00",
+    "time_ago": "32m ago"
+  },
+  {
+    "id": "033b423381c4",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Silbermann Benjamin converted 46,875 shares of Pinterest, Inc. (PINS) \u00b7 Jul 15 ($2,122,420 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "PINS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1773914/000150629326000097/0001506293-26-000097-index.htm",
+    "published_iso": "2026-07-15T21:55:57+00:00",
+    "time_ago": "33m ago"
+  },
+  {
+    "id": "65ce8ffeea3b",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "House passes State Department funding bill for fiscal year 2027. The House on Wednesday passed an appropriations bill funding the State Department, national security and other programs for fiscal year 2027, sending the measure to the Senate for consideration. The lower chamber voted 217-209 to pass the measure, with on",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/house/5970582-house-state-department-funding-bill/",
+    "published_iso": "2026-07-15T21:44:52+00:00",
+    "time_ago": "44m ago"
+  },
+  {
+    "id": "0ced6cd25646",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Lieu bashes GOP colleagues for strategy on AI. {beacon} Technology Technology &#8202; Your feedback matters to us. Take our brief newsletter survey to help us improve the newsletters you read every day.  The Big Story  Lieu bashes GOP colleagues for strategy on AI Rep. Ted Lieu (D-Calif.) on Wednesday expressed concern",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/technology/5970635-lieu-bashes-gop-ai-strategy/",
+    "published_iso": "2026-07-15T21:39:58+00:00",
+    "time_ago": "49m ago"
+  },
+  {
+    "id": "864c61a9fee9",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "US military disables first tanker in Arabian Sea since blockade was reimposed. The U.S. military disabled an unladen oil tanker attempting to sail to an Iranian port in the Arabian Gulf on Wednesday, the first instance of the U.S. forces crippling a vessel since President Trump reimposed the naval blockade in the Strai",
+    "tags": [
+      "Energy",
+      "Defense",
+      "Taxes",
+      "Sanctions"
+    ],
+    "tickers": [
+      "XOM",
+      "CVX",
+      "COP",
+      "OXY"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/defense/5970606-us-strikes-iranian-tanker-blockade/",
+    "published_iso": "2026-07-15T21:33:14+00:00",
+    "time_ago": "55m ago"
   },
   {
     "id": "e327b4596155",
@@ -83,36 +286,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-birthday-of-saint-frances-xavier-cabrini/",
     "published_iso": "2026-07-15T20:50:29+00:00",
-    "time_ago": "35m ago"
-  },
-  {
-    "id": "12e7fdd0492d",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Cammack says China has deployed 'digital twins' of every lawmaker. Rep. Kat Cammack (R-Fla.) on Wednesday addressed the international race to achieve dominance over artificial intelligence and the importance behind each country\u2019s efforts to take the lead. \u201cChina and Russia and Iran would love nothing more than for us t",
-    "tags": [
-      "Trade",
-      "China",
-      "Regulation",
-      "Sanctions"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5970422-cammack-warns-china-ai-threat/",
-    "published_iso": "2026-07-15T20:50:29+00:00",
-    "time_ago": "35m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "e9fff092e4cc",
@@ -133,7 +307,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/live-updates/2026/07/15/world-cup-2026/diplomatic-view-from-d-c-00999880",
     "published_iso": "2026-07-15T20:20:51+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "30815ff24f77",
@@ -161,7 +335,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/WarMachineRR/status/2077486060704301557#m",
     "published_iso": "2026-07-15T20:10:49+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "72606479d124",
@@ -180,7 +354,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s196?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-15T15:50:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "3888cea11b3e",
@@ -207,7 +381,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2077392465984671805#m",
     "published_iso": "2026-07-15T13:58:54+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "82fb49ce448b",
@@ -234,7 +408,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14248/establishment-of-class-e-airspace-crown-point-in",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "002823f0782d",
@@ -255,7 +429,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14245/montana-regulatory-program",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "9ea2685aac73",
@@ -276,7 +450,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14244/montana-regulatory-program",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "264ea2e52f87",
@@ -298,7 +472,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14240/references-to-electronic-filing-systems-in-rules-of-practice-in-filings-pursuant-to-the-protocol",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "d5967b69bf7b",
@@ -317,7 +491,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14224/safety-zone-cuyahoga-river-cleveland-oh",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "f5a3aefe93d1",
@@ -338,7 +512,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14207/safety-zones-recurring-events-in-captain-of-the-port-duluth-zone",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "315ca8961643",
@@ -360,7 +534,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14205/amendment-of-class-d-airspace-and-removal-of-class-e4-airspace-over-nashua-nh",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "d3a7b7bb2060",
@@ -381,7 +555,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14204/lake-ontario-national-marine-sanctuary-delay-of-effective-date",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "d417fcb8f6c2",
@@ -402,7 +576,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h240?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T21:32:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "92505bc1a9f9",
@@ -609,28 +783,6 @@
     "url": "https://nitter.net/BernieSanders/status/2077048767149216153#m",
     "published_iso": "2026-07-14T15:13:10+00:00",
     "time_ago": "1d ago"
-  },
-  {
-    "id": "2dd98b1cfa69",
-    "politician": "Rep. Mike Johnson",
-    "initials": "MJ",
-    "role": "Speaker of the House",
-    "color": {
-      "bg": "#2a1a1a",
-      "fg": "#fbbf24"
-    },
-    "severity": "critical",
-    "content": "Article  \n \n \n \n One Year Later: Democrats Tout Tax Cuts They Voted Against \n \n One year after President Trump signed the Working Families Tax Cuts into law, hardworking American families across the nation are paying lower\u00a0taxes and keeping more of what they earn \u2013 outcomes the",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/SpeakerJohnson/status/2076730395526107634#m",
-    "published_iso": "2026-07-13T18:08:04+00:00",
-    "time_ago": "2d ago"
   },
   {
     "id": "952fefad8490",
@@ -935,7 +1087,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/the-senate-page-program/",
     "published_iso": "2026-06-03T21:41:29+00:00",
-    "time_ago": "41d ago"
+    "time_ago": "42d ago"
   },
   {
     "id": "072d30de1b17",
