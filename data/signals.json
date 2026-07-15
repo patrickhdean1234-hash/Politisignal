@@ -1,27 +1,6 @@
 [
   {
-    "id": "daa1a361f8a6",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Farr Meryl Kennedy exercised options for 525 shares of Origin Bancorp, Inc. (OBK) \u00b7 Jul 15 ($88,264 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "OBK"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1857896/000185789626000004/0001857896-26-000004-index.htm",
-    "published_iso": "2026-07-15T19:12:14+00:00",
-    "time_ago": "just now"
-  },
-  {
-    "id": "8194ff5d7834",
+    "id": "a97542cfde43",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,19 +9,61 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Garascia Jessica A. received 4,807 shares of Aar Corp (AIR) \u00b7 Jul 15",
+    "content": "Chen Ying Cenly received 2,800,000 shares of Chronoscale Holdings Corp (CHRN) \u00b7 Jul 15",
     "tags": [],
     "tickers": [
-      "AIR"
+      "CHRN"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1806647/000000175026000080/0000001750-26-000080-index.htm",
-    "published_iso": "2026-07-15T19:05:13+00:00",
-    "time_ago": "7m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2132614/000149315226033359/0001493152-26-033359-index.htm",
+    "published_iso": "2026-07-15T20:15:31+00:00",
+    "time_ago": "3m ago"
   },
   {
-    "id": "43999cbf08bd",
+    "id": "150501929f3b",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ceesay Abraham sold 5,481 shares of Rapport Therapeutics, Inc. (RAPP) \u00b7 $39.72/share \u00b7 $217,715 total \u00b7 Jul 15 ($328,437 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "RAPP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2012593/000119312526304786/0001193125-26-304786-index.htm",
+    "published_iso": "2026-07-15T20:15:03+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "69464b12a714",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Boromisa Jeffrey M sold 25,000 shares of Wolverine World Wide Inc /De/ (WWW) \u00b7 $18.14/share \u00b7 $453,500 total \u00b7 Jul 15",
+    "tags": [],
+    "tickers": [
+      "WWW"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1185940/000162828026048333/0001628280-26-048333-index.htm",
+    "published_iso": "2026-07-15T20:14:13+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "3c5b5e4936aa",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -50,17 +71,90 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "low",
-    "content": "Trump rips New York, Hochul over data center freeze. President Trump bashed New York Governor Kathy Hochul (D) over the state's first-ever statewide freeze on new \"hyperscale data centers,\" calling it a \"terrible decision.\" Trump, in a lengthy post on Truth Social Wednesday, alleged Hochul decided to enact the first-in",
+    "severity": "critical",
+    "content": "Democratic opposition over Trump tariffs complicates Russian sanctions push. A trio of Democrats are raising alarm that a bipartisan sanctions bill targeting Russian President Vladimir Putin\u2019s war against Ukraine gives President Trump unacceptable tariff authorities. Rep. Gregory Meeks (D-N.Y.), the ranking member of t",
     "tags": [
+      "Trade",
+      "Regulation",
+      "Taxes",
+      "Sanctions"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/senate/5970400-democrats-oppose-russia-sanctions-act/",
+    "published_iso": "2026-07-15T19:55:05+00:00",
+    "time_ago": "24m ago"
+  },
+  {
+    "id": "1a4f9653cbce",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Live updates: Blanche tells confirmation hearing Trump isn't eligible for third term. The Senate is holding confirmation hearings to examine the nominations of Todd Blanche as attorney general and Jay Clayton as director of national intelligence. Senators have grilled Blanche on the Jeffrey Epstein files, President Tru",
+    "tags": [
+      "Defense",
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/5970028-trump-bash-hochul-ny-data-center-freeze/",
-    "published_iso": "2026-07-15T18:29:15+00:00",
-    "time_ago": "43m ago"
+    "url": "https://thehill.com/homenews/administration/5968257-live-updates-trump-iran-todd-blanche-jay-clayton-hearings/",
+    "published_iso": "2026-07-15T19:28:00+00:00",
+    "time_ago": "51m ago"
+  },
+  {
+    "id": "4f420e12b490",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Chipotle to open first restaurant in Mexico: What's on the menu?. On Thursday, Chipotle hopes to do what at least one other U.S-based Mexican chain has failed at \u2013 open a successful location in Mexico",
+    "tags": [
+      "Semiconductors",
+      "Taxes"
+    ],
+    "tickers": [
+      "CMG"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/5970020-chipotle-to-open-first-restaurant-in-mexico-whats-on-the-menu/",
+    "published_iso": "2026-07-15T19:26:03+00:00",
+    "time_ago": "53m ago"
+  },
+  {
+    "id": "72606479d124",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "Motion to Invoke Cloture: Jeffrey T. Kuntz to be U.S. District Judge for the Southern District of Florida: Jeffrey T. Kuntz, of Florida, to be United States District Judge for the Southern District of Florida. Vote: Cloture Motion Agreed to 51/46",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s196?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-07-15T15:50:00+00:00",
+    "time_ago": "4h ago"
   },
   {
     "id": "3888cea11b3e",
@@ -87,35 +181,6 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2077392465984671805#m",
     "published_iso": "2026-07-15T13:58:54+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "88995eae97ff",
-    "politician": "Sen. Rand Paul",
-    "initials": "RP",
-    "role": "Senate Foreign Relations Committee",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fbbf24"
-    },
-    "severity": "critical",
-    "content": "Graham Tariff bill could increase taxes (tariffs) a half a trillion dollars! \u00a0(Bill allows 100% tariff on top five purchasers of Russian oil: \u00a0China, India, Turkey, Slovakia, & Hungary \u2014 approx. $500 billion dollars.) \n \nConstitution forbids delegating the taxing authority to the Executive. \u00a0 \n \nConstitution commands t",
-    "tags": [
-      "Trade",
-      "China",
-      "Energy",
-      "Regulation"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/RandPaul/status/2077377167013384672#m",
-    "published_iso": "2026-07-15T12:58:07+00:00",
     "time_ago": "6h ago"
   },
   {
@@ -143,7 +208,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14248/establishment-of-class-e-airspace-crown-point-in",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "002823f0782d",
@@ -164,7 +229,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14245/montana-regulatory-program",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "9ea2685aac73",
@@ -185,7 +250,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14244/montana-regulatory-program",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "264ea2e52f87",
@@ -207,7 +272,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14240/references-to-electronic-filing-systems-in-rules-of-practice-in-filings-pursuant-to-the-protocol",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "d5967b69bf7b",
@@ -226,7 +291,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14224/safety-zone-cuyahoga-river-cleveland-oh",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "f5a3aefe93d1",
@@ -247,7 +312,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14207/safety-zones-recurring-events-in-captain-of-the-port-duluth-zone",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "315ca8961643",
@@ -269,7 +334,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14205/amendment-of-class-d-airspace-and-removal-of-class-e4-airspace-over-nashua-nh",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "d3a7b7bb2060",
@@ -290,7 +355,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14204/lake-ontario-national-marine-sanctuary-delay-of-effective-date",
     "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "d417fcb8f6c2",
@@ -311,7 +376,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h240?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T21:32:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "92505bc1a9f9",
@@ -332,7 +397,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h239?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T21:25:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "bb8e93f58680",
@@ -351,7 +416,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h238?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-14T21:17:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "d2c2b9df1036",
@@ -376,7 +441,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/07/white-house-launches-gold-eagle-initiative-for-unprecedented-cybersecurity-vulnerability-coordination/",
     "published_iso": "2026-07-14T19:50:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "bbd034846708",
@@ -517,25 +582,6 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2077048767149216153#m",
     "published_iso": "2026-07-14T15:13:10+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "db3324644f1c",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.R. 8897: Improving Travel for American Families Act. Vote: Passed 398/12",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h235?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-07-13T23:02:00+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -841,36 +887,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/news/pelosi-update/more-perfect-union",
     "published_iso": "2026-06-18T19:41:05+00:00",
-    "time_ago": "26d ago"
-  },
-  {
-    "id": "37bfe4923312",
-    "politician": "Sen. Cynthia Lummis",
-    "initials": "CL",
-    "role": "Senate Banking Subcommittee (Crypto)",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#c4b5fd"
-    },
-    "severity": "critical",
-    "content": "Lummis Leads Colleagues in Urging Treasury to Preserve State Authority Under GENIUS Act. Washington D.C. \u2014&#160;Senate Banking Subcommittee on Digital Assets Chair Cynthia Lummis (R-WY) led Senators Kirsten Gillibrand (D-NY), Bill Hagerty (R-TN), Angela Alsobrooks (D-MD), Kevin Cramer (R-ND), Catherine Cortez Masto (D-",
-    "tags": [
-      "Crypto",
-      "Banking",
-      "Defense",
-      "Regulation"
-    ],
-    "tickers": [
-      "BTC",
-      "ETH",
-      "COIN",
-      "XRP"
-    ],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "https://www.lummis.senate.gov/press-releases/lummis-leads-colleagues-in-urging-treasury-to-preserve-state-authority-under-genius-act/",
-    "published_iso": "2026-06-16T19:13:07+00:00",
-    "time_ago": "28d ago"
+    "time_ago": "27d ago"
   },
   {
     "id": "ddb58e0107d1",
@@ -1096,7 +1113,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-announces-2026-service-academy-nominations/",
     "published_iso": "2026-02-18T19:38:51+00:00",
-    "time_ago": "146d ago"
+    "time_ago": "147d ago"
   },
   {
     "id": "00f579ee8f55",
