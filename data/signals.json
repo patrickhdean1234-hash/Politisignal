@@ -1,5 +1,74 @@
 [
   {
+    "id": "1fc9c8a1c81f",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Kim, Warren press Vought over changes to CFPB complaint portal. Sens. Andy Kim (D-N.J.) and Elizabeth Warren (D-Mass.) pressed the Consumer Financial Protection Bureau (CFPB) on Wednesday over the agency\u2019s recent changes to its complaint portal, raising concerns that the move discourages consumers from seeking help. In",
+    "tags": [
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/5971189-andy-kim-elizabeth-warren-cfpb-portal-updates/",
+    "published_iso": "2026-07-16T12:29:44+00:00",
+    "time_ago": "16m ago"
+  },
+  {
+    "id": "e241275f2859",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Debbi Nir sold 82,190 shares of Global-E Online Ltd. (GLBE) \u00b7 $39.27/share \u00b7 $3,227,815 total \u00b7 Jul 16",
+    "tags": [],
+    "tickers": [
+      "GLBE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1964141/000119312526305442/0001193125-26-305442-index.htm",
+    "published_iso": "2026-07-16T12:15:48+00:00",
+    "time_ago": "30m ago"
+  },
+  {
+    "id": "55279e09b463",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Trump administration imposing 25 percent tariff on some imports from Brazil. The Trump administration is imposing 25 percent tariffs on certain goods imported from Brazil, after an investigation concluded the South American country employed unfair trade practices. The office of U.S. Trade Representative Jamieson Greer ",
+    "tags": [
+      "Trade"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/5971153-trump-administration-jamieson-greer-brazil-tariffs/",
+    "published_iso": "2026-07-16T11:48:49+00:00",
+    "time_ago": "57m ago"
+  },
+  {
     "id": "d167886471f0",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
@@ -18,7 +87,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1998544/000199854426000004/0001998544-26-000004-index.htm",
     "published_iso": "2026-07-16T10:52:50+00:00",
-    "time_ago": "9m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "0dd5c9095495",
@@ -39,7 +108,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1968268/000196826826000005/0001968268-26-000005-index.htm",
     "published_iso": "2026-07-16T10:41:37+00:00",
-    "time_ago": "20m ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "067099f64c6d",
@@ -60,88 +129,84 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1968269/000196826926000002/0001968269-26-000002-index.htm",
     "published_iso": "2026-07-16T10:28:49+00:00",
-    "time_ago": "33m ago"
+    "time_ago": "2h ago"
   },
   {
-    "id": "56fdc0457b62",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Casale Mark sold 23,900 shares of Essent Group Ltd. (ESNT) \u00b7 $65.07/share \u00b7 $1,555,173 total \u00b7 Jul 16 ($6,688,709 across all blocks)",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [
-      "ESNT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1448893/000118856726000011/0001188567-26-000011-index.htm",
-    "published_iso": "2026-07-16T10:17:05+00:00",
-    "time_ago": "45m ago"
-  },
-  {
-    "id": "00e101682b02",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Yang Donghao exercised options for 9,072 shares of Xpeng Inc. (XPNGF) \u00b7 Jul 16",
-    "tags": [],
-    "tickers": [
-      "XPNGF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1810997/000119312526305365/0001193125-26-305365-index.htm",
-    "published_iso": "2026-07-16T10:15:03+00:00",
-    "time_ago": "47m ago"
-  },
-  {
-    "id": "3293cb9b410c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Zhuge Yue exercised options for 3,000 shares of New Oriental Education & Technology Group Inc. (NWOEF) \u00b7 Jul 16 ($41,425 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "NWOEF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2038003/000203800326000003/0002038003-26-000003-index.htm",
-    "published_iso": "2026-07-16T10:11:56+00:00",
-    "time_ago": "50m ago"
-  },
-  {
-    "id": "462ffa79c6f6",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "47a756fb6b9e",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
     "color": {
       "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Amendment of Class D Airspace and Class E Airspace Over New Bedford, MA. This action amends Class D and Class E airspace over New Bedford, MA. This action adds a 0.7 mile long, 3.6-mile-wide extension to the northwest side of the existing Class D airspace to properly contain current Instrument Flight Rules (IFR) operat",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14391/amendment-of-class-d-airspace-and-class-e-airspace-over-new-bedford-ma",
+    "published_iso": "2026-07-16T04:00:00+00:00",
+    "time_ago": "8h ago"
+  },
+  {
+    "id": "24e2f0dd4869",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
     },
     "severity": "high",
-    "content": "Why fully reopening Strait of Hormuz is such a challenge. President Trump\u2019s return to a U.S. military blockade on Iranian ports this week marked another dead end in his bid to fully reopen the Strait of Hormuz. The restart of the blockade \u2014 which first began in mid-April and held until last month when a tenuous deal to",
+    "content": "New Source Performance Standards Review for Stationary Combustion Turbines and Stationary Gas Turbines; Correction. The U.S. Environmental Protection Agency (EPA) is making corrections to the New Source Performance Standards Review for Stationary Combustion Turbines and Stationary Gas Turbines final rule (&quot;Final N",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14371/new-source-performance-standards-review-for-stationary-combustion-turbines-and-stationary-gas",
+    "published_iso": "2026-07-16T04:00:00+00:00",
+    "time_ago": "8h ago"
+  },
+  {
+    "id": "1a81259efb2f",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Fisheries of the Northeastern United States; Summer Flounder Fishery; Quota Transfer From North Carolina to Virginia. NMFS announces that the State of North Carolina is transferring a portion of its 2026 commercial summer flounder quota to the Commonwealth of Virginia. This adjustment to the 2026 fishing year quota is ",
+    "tags": [],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14369/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-north",
+    "published_iso": "2026-07-16T04:00:00+00:00",
+    "time_ago": "8h ago"
+  },
+  {
+    "id": "eaff71da289b",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Privacy Act of 1974; Implementation. The Department of Defense (Department or DoD) is issuing a final rule to amend its regulations to exempt portions of DoD-0024, &quot;Catch a Serial Offender (CATCH) Program Records,&quot; system of records from certain provisions of the Privacy Act of 1974. Specifically, the rule ex",
     "tags": [
       "Defense",
-      "Taxes",
-      "Sanctions"
+      "Regulation"
     ],
     "tickers": [
       "LMT",
@@ -149,11 +214,97 @@
       "NOC",
       "GD"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/defense/5970655-trump-iran-blockade-hormuz/",
-    "published_iso": "2026-07-16T10:00:00+00:00",
-    "time_ago": "1h ago"
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14368/privacy-act-of-1974-implementation",
+    "published_iso": "2026-07-16T04:00:00+00:00",
+    "time_ago": "8h ago"
+  },
+  {
+    "id": "7b391eae68b5",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; Harpoon Category Quota Transfer. NMFS is transferring 6.4 metric tons (mt) of Atlantic bluefin tuna (BFT) quota from the Reserve category to the Harpoon category resulting in an adjusted Harpoon category quota 65.6 mt and a Reserve category quota of 1 ",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14366/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-harpoon-category-quota-transfer",
+    "published_iso": "2026-07-16T04:00:00+00:00",
+    "time_ago": "8h ago"
+  },
+  {
+    "id": "a5a840669b52",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Financial Assistance Regulations-Conflict of Interest and Conflict of Commitment Policy Requirements. The Department of Energy (DOE or Department) is amending its Financial Assistance Regulations to establish conflict of interest and conflict of commitment policies and requirements for non-Federal entities applying for",
+    "tags": [
+      "Energy",
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14333/financial-assistance-regulations-conflict-of-interest-and-conflict-of-commitment-policy-requirements",
+    "published_iso": "2026-07-16T04:00:00+00:00",
+    "time_ago": "8h ago"
+  },
+  {
+    "id": "ed263376c552",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Approval and Promulgation of State Plan (Negative Declaration) for Designated Facilities and Pollutants; Nebraska; Commercial and Industrial Solid Waste Incineration Units. The Environmental Protection Agency (EPA) is taking direct final action to accept a negative declaration submitted by the Nebraska Department of Wa",
+    "tags": [
+      "Energy",
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14330/approval-and-promulgation-of-state-plan-negative-declaration-for-designated-facilities-and",
+    "published_iso": "2026-07-16T04:00:00+00:00",
+    "time_ago": "8h ago"
+  },
+  {
+    "id": "3ef62c053fe9",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "critical",
+    "content": "Air Plan Approval; Pennsylvania; Interim Final Determination To Stay and Defer Sanctions Related to Reasonably Available Control Technology Requirements (RACT) for Volatile Organic Compounds (VOC) Control Technique Guidelines (CTG) Under the 2008 Ozone National Ambient Air Quality Standards (NAAQS). The Environmental P",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14326/air-plan-approval-pennsylvania-interim-final-determination-to-stay-and-defer-sanctions-related-to",
+    "published_iso": "2026-07-16T04:00:00+00:00",
+    "time_ago": "8h ago"
   },
   {
     "id": "96e20495a851",
@@ -177,7 +328,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ustr-section-301-action-brazils-unreasonable-acts-policies-and-practices",
     "published_iso": "2026-07-16T02:48:26+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "94942f528a80",
@@ -204,7 +355,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mqptfjwtjs2t",
     "published_iso": "2026-07-15T23:04:04.075000+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "5febbdf03223",
@@ -223,7 +374,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h247?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-15T21:11:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "32d8f3357f00",
@@ -242,7 +393,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h246?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-15T20:58:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "e327b4596155",
@@ -263,7 +414,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-birthday-of-saint-frances-xavier-cabrini/",
     "published_iso": "2026-07-15T20:50:29+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "dc71b2243884",
@@ -282,7 +433,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h245?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-15T20:50:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "86517ff21d4c",
@@ -301,7 +452,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h244?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-15T20:46:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "33c52517c5b5",
@@ -320,7 +471,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h243?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-15T20:43:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "e4b08d4d5284",
@@ -339,7 +490,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h242?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-15T20:38:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "43a8434a531e",
@@ -358,7 +509,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h241?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-15T20:32:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "e9fff092e4cc",
@@ -379,7 +530,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/live-updates/2026/07/15/world-cup-2026/diplomatic-view-from-d-c-00999880",
     "published_iso": "2026-07-15T20:20:51+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "30815ff24f77",
@@ -407,7 +558,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/WarMachineRR/status/2077486060704301557#m",
     "published_iso": "2026-07-15T20:10:49+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "7fb400d0dfd6",
@@ -426,7 +577,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s197?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-15T18:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "3888cea11b3e",
@@ -453,181 +604,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2077392465984671805#m",
     "published_iso": "2026-07-15T13:58:54+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "82fb49ce448b",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Establishment of Class E Airspace; Crown Point, IN. This action establishes Class E airspace at Franciscan Health Crown Point Hospital Heliport, Crown Point, IN. This action supports new instrument procedures and instrument flight rule (IFR) operations",
-    "tags": [
-      "Healthcare",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14248/establishment-of-class-e-airspace-crown-point-in",
-    "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "002823f0782d",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "critical",
-    "content": "Montana Regulatory Program. We, the Office of Surface Mining Reclamation and Enforcement (OSM), are approving an amendment to the Montana regulatory program under the Surface Mining Control and Reclamation Act of 1977 (SMCRA). Montana submitted this proposed amendment to OSM on its own initiative in response to a State",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14245/montana-regulatory-program",
-    "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "9ea2685aac73",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "critical",
-    "content": "Montana Regulatory Program. The Office of Surface Mining Reclamation and Enforcement (OSM), is approving an amendment to the Montana regulatory program under the Surface Mining Control and Reclamation Act of 1977 (SMCRA). Montana submitted this proposed amendment to OSM on its own initiative in response to a State law ",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14244/montana-regulatory-program",
-    "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "264ea2e52f87",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "References to Electronic Filing Systems in Rules of Practice in Filings Pursuant to the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks. The United States Patent and Trademark Office (USPTO or Office) issues this final rule to effectuate a nomenclature change by substituting",
-    "tags": [
-      "Trade",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14240/references-to-electronic-filing-systems-in-rules-of-practice-in-filings-pursuant-to-the-protocol",
-    "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "d5967b69bf7b",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Safety Zone; Cuyahoga River, Cleveland, OH. The Coast Guard is establishing a temporary safety zone for navigable waters on the Cuyahoga River. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with a large paddling regatta marine event on July 18, 202",
-    "tags": [],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14224/safety-zone-cuyahoga-river-cleveland-oh",
-    "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "f5a3aefe93d1",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "critical",
-    "content": "Safety Zones; Recurring Events in Captain of the Port Duluth Zone. The Coast Guard is revising existing regulations for recurring safety zones in the Captain of the Port Duluth Zone. These changes will allow for limited geographic flexibility in the location of recurring safety zones for certain annual marine events. T",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14207/safety-zones-recurring-events-in-captain-of-the-port-duluth-zone",
-    "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "315ca8961643",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Amendment of Class D Airspace and Removal of Class E4 Airspace Over Nashua, NH. This action amends Class D airspace and removes Class E airspace over Nashua, NH. This action removes Class E airspace extending upward from the surface for Boire Field Airport, Nashua, NH. That airspace is no longer necessary to contain in",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14205/amendment-of-class-d-airspace-and-removal-of-class-e4-airspace-over-nashua-nh",
-    "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "d3a7b7bb2060",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Lake Ontario National Marine Sanctuary; Delay of Effective Date. The National Oceanic and Atmospheric Administration (NOAA) designated the Lake Ontario National Marine Sanctuary (LONMS) on June 6, 2024, and the final rule became effective on July 22, 2024. However, as discussed in the final rule, the effective date for",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14204/lake-ontario-national-marine-sanctuary-delay-of-effective-date",
-    "published_iso": "2026-07-15T04:00:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "d2c2b9df1036",
