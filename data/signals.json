@@ -1,5 +1,110 @@
 [
   {
+    "id": "cecb70605fd9",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Faust Megan sold 1,000 shares of Amkor Technology, Inc. (AMKR) \u00b7 $69.91/share \u00b7 $69,910 total \u00b7 Jul 16",
+    "tags": [],
+    "tickers": [
+      "AMKR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1684564/000162828026048476/0001628280-26-048476-index.htm",
+    "published_iso": "2026-07-16T20:36:46+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "074b59c1164f",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Gamblin Huan sold 30,000 shares of W&T Offshore Inc (WTI) \u00b7 $3.55/share \u00b7 $106,500 total \u00b7 Jul 16",
+    "tags": [],
+    "tickers": [
+      "WTI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2057630/000110465926084272/0001104659-26-084272-index.htm",
+    "published_iso": "2026-07-16T20:36:20+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "dbbf1dc67b41",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Boulet Virginia sold 60,000 shares of W&T Offshore Inc (WTI) \u00b7 $3.54/share \u00b7 $212,400 total \u00b7 Jul 16",
+    "tags": [],
+    "tickers": [
+      "WTI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1288403/000110465926084270/0001104659-26-084270-index.htm",
+    "published_iso": "2026-07-16T20:34:44+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "e94be87b4496",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Chin Jit Kee received 578 shares of Stag Industrial, Inc. (STAG) \u00b7 $38.89/share \u00b7 $22,478 total \u00b7 Jul 16",
+    "tags": [],
+    "tickers": [
+      "STAG"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1798435/000179843526000008/0001798435-26-000008-index.htm",
+    "published_iso": "2026-07-16T20:33:57+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "99b6cbf29bf7",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Tesla driver in fatal Texas crash overrode driver assistance system: NTSB. A Tesla driver in a fatal Texas crash overrode the car\u2019s driver assistance system, the National Transportation Safety Board (NTSB) said Wednesday. The NTSB said in its preliminary findings that in mid-June, a 2025 Tesla Model 3 driven by a 44-ye",
+    "tags": [],
+    "tickers": [
+      "TSLA"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/5972631-tesla-fsd-crash-texas/",
+    "published_iso": "2026-07-16T19:54:20+00:00",
+    "time_ago": "43m ago"
+  },
+  {
     "id": "4bc615798d8f",
     "politician": "The Hill",
     "initials": "TH",
@@ -9,7 +114,7 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Watch live: Trump gives primetime address with focus on elections. President Trump is set to give a primetime address to the nation Thursday evening from the White House. Trump has teased that the \u201cvery big speech\u201d will touch on voting machines and election integrity among other topics. White House press secretary Karo",
+    "content": "Watch live: Trump gives primetime address with focus on elections. President Trump is set to give a primetime address to the nation Thursday from the White House. Trump has teased that the \u201cvery big speech\u201d will touch on voting machines and election integrity among other topics. White House press secretary Karoline Lea",
     "tags": [
       "Taxes"
     ],
@@ -18,7 +123,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/video-clips/5972215-watch-live-donald-trump-primetime-address-election-integrity-midterms/",
     "published_iso": "2026-07-16T19:30:18+00:00",
-    "time_ago": "17m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "04f1df59ae20",
@@ -40,35 +145,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/senate/5972513-tillis-lambasts-vought-doge/",
     "published_iso": "2026-07-16T19:15:34+00:00",
-    "time_ago": "32m ago"
-  },
-  {
-    "id": "4a8925d4db28",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "US military unleashes strikes on Iran for sixth consecutive day. The U.S. military began conducting another wave of airstrikes against Iran on Thursday, marking the sixth consecutive day Washington has launched attacks aimed at degrading Tehran\u2019s military capabilities.  The strikes, which began at 2 p.m. EDT, according",
-    "tags": [
-      "Defense",
-      "Taxes",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/defense/5972472-us-military-iran-airstrikes/",
-    "published_iso": "2026-07-16T19:03:15+00:00",
-    "time_ago": "44m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "a4aca09d9767",
@@ -94,31 +171,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2077829871284490530#m",
     "published_iso": "2026-07-16T18:57:00+00:00",
-    "time_ago": "50m ago"
-  },
-  {
-    "id": "7725156c70fd",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "FDA approves first daily pill to drastically lower cholesterol levels. Federal regulators approved a first-of-its-kind cholesterol medication from Merck that rivals the effectiveness of powerful drugs already on the market.  The Food and Drug Administration (FDA) greenlighted the once-daily pill called Lipfendra, which",
-    "tags": [
-      "Healthcare",
-      "Taxes"
-    ],
-    "tickers": [
-      "MRK"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/healthcare/5972394-fda-cholesterol-pill-lipfendra/",
-    "published_iso": "2026-07-16T18:56:50+00:00",
-    "time_ago": "51m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "2bd82c7a8ca3",
@@ -166,7 +219,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
     "published_iso": "2026-07-16T18:00:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "985f8abd32ac",
@@ -189,7 +242,54 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2077814100948861233#m",
     "published_iso": "2026-07-16T17:54:20+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "21e8ee291daf",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "Motion to Proceed on S.J.Res. 198: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Centers for Medicare & Medicaid Services of the Department of Health and Human Services relating to \u201cMed. Vote: Motion to Proceed Rejected 46/50",
+    "tags": [
+      "Healthcare",
+      "Regulation"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s199?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-07-16T17:25:00+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "9785d411bd03",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "Motion to Invoke Cloture: Kara Marie Westercamp to be a Judge of the U.S. Court of International Trade: Kara Marie Westercamp, of Virginia, to be a Judge of the United States Court of International Trade. Vote: Cloture Motion Agreed to 49/48",
+    "tags": [
+      "Trade"
+    ],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s198?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-07-16T15:44:00+00:00",
+    "time_ago": "4h ago"
   },
   {
     "id": "9473d92dfd17",
@@ -208,7 +308,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h249?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-16T15:15:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "bcb8b8a6c731",
@@ -234,7 +334,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260716a.htm",
     "published_iso": "2026-07-16T15:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "6e900b534196",
@@ -255,7 +355,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h248?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-16T14:50:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "47a756fb6b9e",
@@ -277,7 +377,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14391/amendment-of-class-d-airspace-and-class-e-airspace-over-new-bedford-ma",
     "published_iso": "2026-07-16T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "24e2f0dd4869",
@@ -298,7 +398,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14371/new-source-performance-standards-review-for-stationary-combustion-turbines-and-stationary-gas",
     "published_iso": "2026-07-16T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "1a81259efb2f",
@@ -317,7 +417,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14369/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-north",
     "published_iso": "2026-07-16T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "eaff71da289b",
@@ -344,7 +444,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14368/privacy-act-of-1974-implementation",
     "published_iso": "2026-07-16T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "7b391eae68b5",
@@ -365,7 +465,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14366/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-harpoon-category-quota-transfer",
     "published_iso": "2026-07-16T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "a5a840669b52",
@@ -387,7 +487,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14333/financial-assistance-regulations-conflict-of-interest-and-conflict-of-commitment-policy-requirements",
     "published_iso": "2026-07-16T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "ed263376c552",
@@ -409,7 +509,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14330/approval-and-promulgation-of-state-plan-negative-declaration-for-designated-facilities-and",
     "published_iso": "2026-07-16T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "3ef62c053fe9",
@@ -430,7 +530,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14326/air-plan-approval-pennsylvania-interim-final-determination-to-stay-and-defer-sanctions-related-to",
     "published_iso": "2026-07-16T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "96e20495a851",
@@ -454,7 +554,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ustr-section-301-action-brazils-unreasonable-acts-policies-and-practices",
     "published_iso": "2026-07-16T02:48:26+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "5febbdf03223",
@@ -473,7 +573,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h247?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-15T21:11:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "32d8f3357f00",
@@ -492,7 +592,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h246?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-15T20:58:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "e327b4596155",
@@ -513,7 +613,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-birthday-of-saint-frances-xavier-cabrini/",
     "published_iso": "2026-07-15T20:50:29+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "6f4e6d1ee7cf",
@@ -532,7 +632,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h245?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-15T20:50:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "faa318cdafb9",
@@ -561,51 +661,6 @@
     "time_ago": "23h ago"
   },
   {
-    "id": "68fe8e1b21b7",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.Amdt. 235 (Massie) to H.R. 8595: To prohibit funds appropriated by the Act from being used for Israel, and accordingly reduces the Foreign Military Financing Program account by $3,300,000,000.. Vote: Failed 104/314",
-    "tags": [
-      "Defense"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h243?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-07-15T20:43:00+00:00",
-    "time_ago": "23h ago"
-  },
-  {
-    "id": "267fcece5283",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.Amdt. 234 (Fine) to H.R. 8595: To strike the $139,575,000 for the Global Environment Facility.. Vote: Failed 178/247",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h242?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-07-15T20:38:00+00:00",
-    "time_ago": "23h ago"
-  },
-  {
     "id": "e9fff092e4cc",
     "politician": "Politico",
     "initials": "PO",
@@ -624,7 +679,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/live-updates/2026/07/15/world-cup-2026/diplomatic-view-from-d-c-00999880",
     "published_iso": "2026-07-15T20:20:51+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "3888cea11b3e",
@@ -676,7 +731,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/07/white-house-launches-gold-eagle-initiative-for-unprecedented-cybersecurity-vulnerability-coordination/",
     "published_iso": "2026-07-14T19:50:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "bbd034846708",
