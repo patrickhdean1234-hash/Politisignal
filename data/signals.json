@@ -1,6 +1,6 @@
 [
   {
-    "id": "1fc9c8a1c81f",
+    "id": "f0a12a502812",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -8,128 +8,42 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Kim, Warren press Vought over changes to CFPB complaint portal. Sens. Andy Kim (D-N.J.) and Elizabeth Warren (D-Mass.) pressed the Consumer Financial Protection Bureau (CFPB) on Wednesday over the agency\u2019s recent changes to its complaint portal, raising concerns that the move discourages consumers from seeking help. In",
+    "severity": "high",
+    "content": "Taiwan chipmaker planning to spend another $100B on US manufacturing expansion. Taiwan Semiconductor Manufacturing Company (TSMC) plans to spend another $100 billion in the U.S. to build more chip facilities, the company announced Thursday. The chipmaker's investment will be directed toward constructing several more se",
     "tags": [
-      "Defense",
+      "Semiconductors",
+      "Regulation"
+    ],
+    "tickers": [
+      "TSM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/5971554-tsmc-chip-plant-expansion/",
+    "published_iso": "2026-07-16T14:18:19+00:00",
+    "time_ago": "30m ago"
+  },
+  {
+    "id": "76d8c8b17bec",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "low",
+    "content": "Vance: Reaction to Michelle Obama insult at White House UFC event 'totally disproportionate'. Vice President Vance on Wednesday called the reaction to the offensive comment made about former first lady Michelle Obama at the UFC Freedom 250 event on the White House's South Lawn \"totally disproportionate.\" The vice presi",
+    "tags": [
+      "Regulation",
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/business/5971189-andy-kim-elizabeth-warren-cfpb-portal-updates/",
-    "published_iso": "2026-07-16T12:29:44+00:00",
-    "time_ago": "16m ago"
-  },
-  {
-    "id": "e241275f2859",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Debbi Nir sold 82,190 shares of Global-E Online Ltd. (GLBE) \u00b7 $39.27/share \u00b7 $3,227,815 total \u00b7 Jul 16",
-    "tags": [],
-    "tickers": [
-      "GLBE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1964141/000119312526305442/0001193125-26-305442-index.htm",
-    "published_iso": "2026-07-16T12:15:48+00:00",
-    "time_ago": "30m ago"
-  },
-  {
-    "id": "55279e09b463",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Trump administration imposing 25 percent tariff on some imports from Brazil. The Trump administration is imposing 25 percent tariffs on certain goods imported from Brazil, after an investigation concluded the South American country employed unfair trade practices. The office of U.S. Trade Representative Jamieson Greer ",
-    "tags": [
-      "Trade"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/5971153-trump-administration-jamieson-greer-brazil-tariffs/",
-    "published_iso": "2026-07-16T11:48:49+00:00",
-    "time_ago": "57m ago"
-  },
-  {
-    "id": "d167886471f0",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Zhou Chenggang exercised options for 72,000 shares of New Oriental Education & Technology Group Inc. (NWOEF) \u00b7 Jul 16 ($1,622,125 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "NWOEF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1998544/000199854426000004/0001998544-26-000004-index.htm",
-    "published_iso": "2026-07-16T10:52:50+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "0dd5c9095495",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Yang Zhihui exercised options for 100,000 shares of New Oriental Education & Technology Group Inc. (NWOEF) \u00b7 Jul 16 ($2,263,918 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "NWOEF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1968268/000196826826000005/0001968268-26-000005-index.htm",
-    "published_iso": "2026-07-16T10:41:37+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "067099f64c6d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Yu Michael Minhong exercised options for 150,000 shares of New Oriental Education & Technology Group Inc. (NWOEF) \u00b7 Jul 16 ($3,409,352 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "NWOEF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1968269/000196826926000002/0001968269-26-000002-index.htm",
-    "published_iso": "2026-07-16T10:28:49+00:00",
-    "time_ago": "2h ago"
+    "url": "https://thehill.com/homenews/administration/5971275-vance-dismisses-michelle-obama-ufc-remark/",
+    "published_iso": "2026-07-16T13:48:39+00:00",
+    "time_ago": "59m ago"
   },
   {
     "id": "47a756fb6b9e",
@@ -151,7 +65,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14391/amendment-of-class-d-airspace-and-class-e-airspace-over-new-bedford-ma",
     "published_iso": "2026-07-16T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "24e2f0dd4869",
@@ -172,7 +86,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14371/new-source-performance-standards-review-for-stationary-combustion-turbines-and-stationary-gas",
     "published_iso": "2026-07-16T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "1a81259efb2f",
@@ -191,7 +105,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14369/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-north",
     "published_iso": "2026-07-16T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "eaff71da289b",
@@ -218,7 +132,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14368/privacy-act-of-1974-implementation",
     "published_iso": "2026-07-16T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "7b391eae68b5",
@@ -239,7 +153,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14366/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-harpoon-category-quota-transfer",
     "published_iso": "2026-07-16T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "a5a840669b52",
@@ -261,7 +175,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14333/financial-assistance-regulations-conflict-of-interest-and-conflict-of-commitment-policy-requirements",
     "published_iso": "2026-07-16T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "ed263376c552",
@@ -283,7 +197,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14330/approval-and-promulgation-of-state-plan-negative-declaration-for-designated-facilities-and",
     "published_iso": "2026-07-16T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "3ef62c053fe9",
@@ -304,7 +218,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14326/air-plan-approval-pennsylvania-interim-final-determination-to-stay-and-defer-sanctions-related-to",
     "published_iso": "2026-07-16T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "96e20495a851",
@@ -328,7 +242,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ustr-section-301-action-brazils-unreasonable-acts-policies-and-practices",
     "published_iso": "2026-07-16T02:48:26+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "94942f528a80",
@@ -355,7 +269,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mqptfjwtjs2t",
     "published_iso": "2026-07-15T23:04:04.075000+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "5febbdf03223",
@@ -374,7 +288,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h247?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-15T21:11:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "32d8f3357f00",
@@ -393,7 +307,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h246?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-15T20:58:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "e327b4596155",
@@ -414,7 +328,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-birthday-of-saint-frances-xavier-cabrini/",
     "published_iso": "2026-07-15T20:50:29+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "dc71b2243884",
@@ -433,7 +347,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h245?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-15T20:50:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "86517ff21d4c",
@@ -452,7 +366,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h244?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-15T20:46:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "33c52517c5b5",
@@ -471,7 +385,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h243?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-15T20:43:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "e4b08d4d5284",
@@ -490,7 +404,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h242?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-15T20:38:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "43a8434a531e",
@@ -509,7 +423,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h241?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-15T20:32:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "e9fff092e4cc",
@@ -530,7 +444,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/live-updates/2026/07/15/world-cup-2026/diplomatic-view-from-d-c-00999880",
     "published_iso": "2026-07-15T20:20:51+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "30815ff24f77",
@@ -558,7 +472,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/WarMachineRR/status/2077486060704301557#m",
     "published_iso": "2026-07-15T20:10:49+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "7fb400d0dfd6",
@@ -577,7 +491,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s197?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-15T18:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "3888cea11b3e",
@@ -604,7 +518,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2077392465984671805#m",
     "published_iso": "2026-07-15T13:58:54+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "d2c2b9df1036",
@@ -927,7 +841,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm",
     "published_iso": "2026-06-30T14:00:00+00:00",
-    "time_ago": "15d ago"
+    "time_ago": "16d ago"
   },
   {
     "id": "53362cadd01e",
@@ -952,7 +866,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mp76tbiwqc2c",
     "published_iso": "2026-06-26T14:48:08.974000+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "d7e6bf88263a",
@@ -1068,7 +982,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "71d ago"
+    "time_ago": "72d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1090,7 +1004,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "79d ago"
+    "time_ago": "80d ago"
   },
   {
     "id": "0047e3ab5b67",
@@ -1136,7 +1050,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "107d ago"
+    "time_ago": "108d ago"
   },
   {
     "id": "432e035b915b",
@@ -1220,7 +1134,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "152d ago"
+    "time_ago": "153d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1239,7 +1153,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "152d ago"
+    "time_ago": "153d ago"
   },
   {
     "id": "c3776ad92a42",
