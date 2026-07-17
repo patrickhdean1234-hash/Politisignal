@@ -1,6 +1,6 @@
 [
   {
-    "id": "df04ce27df86",
+    "id": "6d75a70af5c4",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,21 +9,40 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Jones Jeffrey D acquired/disposed 190,590 shares of Cohu Inc (COHU) \u00b7 Jul 16 ($0 across all blocks)",
+    "content": "Uren Lesley sold 2,000 shares of Korn Ferry (KFY) \u00b7 $78.75/share \u00b7 $157,500 total \u00b7 Jul 16",
+    "tags": [],
+    "tickers": [
+      "KFY"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2056595/000119312526306534/0001193125-26-306534-index.htm",
+    "published_iso": "2026-07-17T00:32:03+00:00",
+    "time_ago": "36m ago"
+  },
+  {
+    "id": "4bc615798d8f",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Watch live: Trump gives primetime address with focus on elections. President Trump is set to give a primetime address to the nation Thursday from the White House. Trump has teased that the \u201cvery big speech\u201d will touch on voting machines and election integrity among other topics. White House press secretary Karoline Lea",
     "tags": [
-      "Insider Trade"
+      "Taxes"
     ],
-    "tickers": [
-      "COHU"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1416572/000143774926023736/0001437749-26-023736-index.htm",
-    "published_iso": "2026-07-16T23:30:13+00:00",
-    "time_ago": "6m ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/video-clips/5972215-watch-live-donald-trump-primetime-address-election-integrity-midterms/",
+    "published_iso": "2026-07-17T00:30:00+00:00",
+    "time_ago": "38m ago"
   },
   {
-    "id": "e55cd7577702",
+    "id": "88f718ea6465",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -32,19 +51,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Younes Steven J received 1,576 shares of Lamb Weston Holdings, Inc. (LW) \u00b7 Jul 16 ($21,762 across all blocks)",
+    "content": "Oneill Francis James sold 83,119 shares of Accelerant Holdings (ARX) \u00b7 $12.84/share \u00b7 $1,067,639 total \u00b7 Jul 16 ($2,119,690 across all blocks)",
     "tags": [],
     "tickers": [
-      "LW"
+      "ARX"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1904829/000190482926000004/0001904829-26-000004-index.htm",
-    "published_iso": "2026-07-16T23:16:57+00:00",
-    "time_ago": "19m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2008632/000162828026048550/0001628280-26-048550-index.htm",
+    "published_iso": "2026-07-17T00:27:29+00:00",
+    "time_ago": "41m ago"
   },
   {
-    "id": "09480f5b6415",
+    "id": "00b933c02a38",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -53,19 +72,21 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Smith Michael Jared received 3,942 shares of Lamb Weston Holdings, Inc. (LW) \u00b7 Jul 16 ($104,392 across all blocks)",
-    "tags": [],
+    "content": "Benton Ryan A withheld (tax) 19,824 shares of Enovix Corp (ENVX) \u00b7 $5.06/share \u00b7 $100,309 total \u00b7 Jul 16",
+    "tags": [
+      "Taxes"
+    ],
     "tickers": [
-      "LW"
+      "ENVX"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1712056/000171205626000004/0001712056-26-000004-index.htm",
-    "published_iso": "2026-07-16T23:15:56+00:00",
-    "time_ago": "20m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1828318/000156460626000011/0001564606-26-000011-index.htm",
+    "published_iso": "2026-07-17T00:21:30+00:00",
+    "time_ago": "47m ago"
   },
   {
-    "id": "fa58aa8b08f3",
+    "id": "c55e5a881245",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -74,19 +95,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Schroeder Marc received 2,417 shares of Lamb Weston Holdings, Inc. (LW) \u00b7 Jul 16 ($62,961 across all blocks)",
+    "content": "Thad Trent received 108 shares of Lumentum Holdings Inc. (LITE) \u00b7 Jul 16",
     "tags": [],
     "tickers": [
-      "LW"
+      "LITE"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1975231/000197523126000006/0001975231-26-000006-index.htm",
-    "published_iso": "2026-07-16T23:15:04+00:00",
-    "time_ago": "21m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1633978/000160799026000001/0001607990-26-000001-index.htm",
+    "published_iso": "2026-07-17T00:19:37+00:00",
+    "time_ago": "49m ago"
   },
   {
-    "id": "dd0d269fffa3",
+    "id": "14a0f1fa2151",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -95,19 +116,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Jones Gregory W received 209 shares of Lamb Weston Holdings, Inc. (LW) \u00b7 Jul 16 ($2,836 across all blocks)",
+    "content": "Wilson Andrew sold 1,800 shares of Electronic Arts Inc. (EA) \u00b7 $206.55/share \u00b7 $371,791 total \u00b7 Jul 16 ($1,035,037 across all blocks)",
     "tags": [],
     "tickers": [
-      "LW"
+      "EA"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1877286/000187728626000002/0001877286-26-000002-index.htm",
-    "published_iso": "2026-07-16T23:14:05+00:00",
-    "time_ago": "22m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1545193/000071251526000122/0000712515-26-000122-index.htm",
+    "published_iso": "2026-07-17T00:19:21+00:00",
+    "time_ago": "49m ago"
   },
   {
-    "id": "971cb772f0cf",
+    "id": "643403129543",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -116,19 +137,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Bechtolsheim Andreas sold 26,765 shares of Arista Networks, Inc. (ANET) \u00b7 $176.18/share \u00b7 $4,715,396 total \u00b7 Jul 16 ($54,231,399 across all blocks)",
+    "content": "Small Ian received 108 shares of Lumentum Holdings Inc. (LITE) \u00b7 Jul 16",
     "tags": [],
     "tickers": [
-      "ANET"
+      "LITE"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653226000164/0001596532-26-000164-index.htm",
-    "published_iso": "2026-07-16T23:13:35+00:00",
-    "time_ago": "23m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1714910/000171491026000003/0001714910-26-000003-index.htm",
+    "published_iso": "2026-07-17T00:18:19+00:00",
+    "time_ago": "50m ago"
   },
   {
-    "id": "067c9df370a8",
+    "id": "fa4194226782",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -137,16 +158,58 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Crowley Michael Christopher received 378 shares of Lamb Weston Holdings, Inc. (LW) \u00b7 Jul 16 ($5,254 across all blocks)",
+    "content": "Kleinerman Christian sold 2,500 shares of Snowflake Inc. (SNOW) \u00b7 $275.00/share \u00b7 $687,500 total \u00b7 Jul 16",
     "tags": [],
     "tickers": [
-      "LW"
+      "SNOW"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2052319/000205231926000004/0002052319-26-000004-index.htm",
-    "published_iso": "2026-07-16T23:09:44+00:00",
-    "time_ago": "27m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1979088/000197908826000014/0001979088-26-000014-index.htm",
+    "published_iso": "2026-07-17T00:18:18+00:00",
+    "time_ago": "50m ago"
+  },
+  {
+    "id": "3fabfac08f54",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Rothberg Jonathan M sold 815,632 shares of Butterfly Network, Inc. (BFLY) \u00b7 $7.72/share \u00b7 $6,294,885 total \u00b7 Jul 16 ($29,368,632 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "BFLY"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1804176/000110465926084347/0001104659-26-084347-index.htm",
+    "published_iso": "2026-07-17T00:18:00+00:00",
+    "time_ago": "50m ago"
+  },
+  {
+    "id": "ab64d608542c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Dageville Benoit sold 50,000 shares of Snowflake Inc. (SNOW) \u00b7 $276.53/share \u00b7 $13,826,500 total \u00b7 Jul 16 ($13,826,500 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "SNOW"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1821737/000182173726000009/0001821737-26-000009-index.htm",
+    "published_iso": "2026-07-17T00:17:50+00:00",
+    "time_ago": "50m ago"
   },
   {
     "id": "a77dd9b7545d",
@@ -173,7 +236,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/newsletters/business-economy/5973153-truth-social-to-launch-wall-street-api/",
     "published_iso": "2026-07-16T22:41:52+00:00",
-    "time_ago": "55m ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "18bc210175b3",
@@ -201,7 +264,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/newsletters/defense-national-security/5973065-us-military-boards-oil-tanker-in-gulf-of-oman/",
     "published_iso": "2026-07-16T22:29:20+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "524b7331e29a",
@@ -226,34 +289,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/policy/healthcare/5973044-trump-revives-public-charge-rule/",
     "published_iso": "2026-07-16T22:28:49+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "f216638a6f23",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Wall Street traders can soon pay for early looks at Truth Social posts. President Trump\u2019s social media platform announced plans Thursday to sell Wall Street firms early access to its \u201cmost market-moving\u201d posts. Trump Media &#38; Technology Group (TMTG), the parent company of Truth Social, said it would launch \"Truth AP",
-    "tags": [
-      "Trade",
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/5972998-trump-media-technology-group-launch-truth-api/",
-    "published_iso": "2026-07-16T22:25:26+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "a4aca09d9767",
@@ -279,7 +315,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2077829871284490530#m",
     "published_iso": "2026-07-16T18:57:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "2bd82c7a8ca3",
@@ -306,7 +342,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2077825464916218312#m",
     "published_iso": "2026-07-16T18:39:29+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "cfac33502ddb",
@@ -327,7 +363,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
     "published_iso": "2026-07-16T18:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "21e8ee291daf",
@@ -353,7 +389,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s199?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-16T17:25:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "9785d411bd03",
@@ -374,7 +410,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s198?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-16T15:44:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "9473d92dfd17",
@@ -393,7 +429,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h249?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-16T15:15:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "bcb8b8a6c731",
@@ -419,7 +455,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260716a.htm",
     "published_iso": "2026-07-16T15:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "6e900b534196",
@@ -440,7 +476,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h248?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-16T14:50:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "47a756fb6b9e",
@@ -462,7 +498,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14391/amendment-of-class-d-airspace-and-class-e-airspace-over-new-bedford-ma",
     "published_iso": "2026-07-16T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "24e2f0dd4869",
@@ -483,7 +519,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14371/new-source-performance-standards-review-for-stationary-combustion-turbines-and-stationary-gas",
     "published_iso": "2026-07-16T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "1a81259efb2f",
@@ -502,7 +538,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14369/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-north",
     "published_iso": "2026-07-16T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "eaff71da289b",
@@ -529,7 +565,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14368/privacy-act-of-1974-implementation",
     "published_iso": "2026-07-16T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "7b391eae68b5",
@@ -550,7 +586,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14366/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-harpoon-category-quota-transfer",
     "published_iso": "2026-07-16T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "a5a840669b52",
@@ -572,7 +608,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14333/financial-assistance-regulations-conflict-of-interest-and-conflict-of-commitment-policy-requirements",
     "published_iso": "2026-07-16T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "ed263376c552",
@@ -594,7 +630,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14330/approval-and-promulgation-of-state-plan-negative-declaration-for-designated-facilities-and",
     "published_iso": "2026-07-16T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "3ef62c053fe9",
@@ -615,7 +651,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14326/air-plan-approval-pennsylvania-interim-final-determination-to-stay-and-defer-sanctions-related-to",
     "published_iso": "2026-07-16T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "96e20495a851",
@@ -639,7 +675,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ustr-section-301-action-brazils-unreasonable-acts-policies-and-practices",
     "published_iso": "2026-07-16T02:48:26+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "5febbdf03223",
@@ -677,27 +713,6 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h246?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-15T20:58:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "e327b4596155",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "Presidential Message on the Birthday of Saint Frances Xavier Cabrini. Today, we celebrate the birthday of Saint Frances Xavier Cabrini\u2014a woman of boundless faith and limitless charity, a towering Italian American hero, and the first American citizen ever proclaimed a saint by the Catholic Church. From a young age in No",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-birthday-of-saint-frances-xavier-cabrini/",
-    "published_iso": "2026-07-15T20:50:29+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -792,54 +807,6 @@
     "url": "https://nitter.net/BernieSanders/status/2077392465984671805#m",
     "published_iso": "2026-07-15T13:58:54+00:00",
     "time_ago": "1d ago"
-  },
-  {
-    "id": "d2c2b9df1036",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "White House Launches Gold Eagle Initiative for Unprecedented Cybersecurity Vulnerability Coordination. President Trump\u2019s bold vision to secure and accelerate American artificial intelligence (AI) innovation is being actioned through the creation of \u201cGOLD EAGLE,\u201d a clearinghouse that enables unprecedented cybersecurity ",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
-    ],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/releases/2026/07/white-house-launches-gold-eagle-initiative-for-unprecedented-cybersecurity-vulnerability-coordination/",
-    "published_iso": "2026-07-14T19:50:00+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "bbd034846708",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "Nominations and Withdrawals Sent to the Senate. NOMINATIONS SENT TO THE SENATE: Maria D&#8217;Avanzo, of New York, to be Inspector General, General Services Administration. David Slade, of Florida, to be First Vice President of the Export-Import Bank of the United States for a term expiring January\u00a020, 2029. Timothy We",
-    "tags": [
-      "Trade",
-      "Banking",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-and-withdrawals-sent-to-the-senate-e958/",
-    "published_iso": "2026-07-14T19:12:59+00:00",
-    "time_ago": "2d ago"
   },
   {
     "id": "a8933978907e",
