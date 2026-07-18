@@ -1,6 +1,6 @@
 [
   {
-    "id": "93b16bbb2ece",
+    "id": "5556e6c27985",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,21 +9,40 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Seifert Thomas J withheld (tax) 2,943 shares of Cloudflare, Inc. (NET) \u00b7 $281.75/share \u00b7 $829,190 total \u00b7 Jul 17 ($3,598,385 across all blocks)",
-    "tags": [
-      "Taxes"
-    ],
+    "content": "Moore Alexander D. sold 11,800 shares of Palantir Technologies Inc. (PLTR) \u00b7 $133.75/share \u00b7 $1,578,256 total \u00b7 Jul 17 ($2,144,770 across all blocks)",
+    "tags": [],
     "tickers": [
-      "NET"
+      "PLTR"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1477333/000147328926000018/0001473289-26-000018-index.htm",
-    "published_iso": "2026-07-17T23:01:56+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/1823952/000182395226000018/0001823952-26-000018-index.htm",
+    "published_iso": "2026-07-18T00:03:46+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "289934fb8eab",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Whalen Amanda sold 14,000 shares of Klaviyo, Inc. (KVYO) \u00b7 $17.75/share \u00b7 $248,500 total \u00b7 Jul 17",
+    "tags": [],
+    "tickers": [
+      "KVYO"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1991131/000147083126000720/0001470831-26-000720-index.htm",
+    "published_iso": "2026-07-18T00:01:17+00:00",
     "time_ago": "3m ago"
   },
   {
-    "id": "f968ded9b1cf",
+    "id": "b5c91d722fa2",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -32,42 +51,50 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Bhatt Elizabeth exercised options for 4,000 shares of Septerna, Inc. (SEPN) \u00b7 $6.81/share \u00b7 $27,240 total \u00b7 Jul 17 ($163,214 across all blocks)",
-    "tags": [],
+    "content": "Aa&D Holdings, Lp acquired/disposed 11,456,787 shares of Applied Aerospace & Defense, Inc. (AADX) \u00b7 Jul 17",
+    "tags": [
+      "Defense",
+      "Insider Trade"
+    ],
     "tickers": [
-      "SEPN"
+      "AADX"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1984086/000119312526308073/0001193125-26-308073-index.htm",
-    "published_iso": "2026-07-17T23:00:45+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/2133740/000119312526308090/0001193125-26-308090-index.htm",
+    "published_iso": "2026-07-18T00:00:03+00:00",
     "time_ago": "4m ago"
   },
   {
-    "id": "23975f8d2982",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "479af167d10a",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Allen Scott R. withheld (tax) 663 shares of Micron Technology Inc (MU) \u00b7 $983.12/share \u00b7 $651,809 total \u00b7 Jul 17 ($896,605 across all blocks)",
+    "severity": "high",
+    "content": "AIPAC halts fundraising for endorsed House Democrats who opposed Israel aid. The American Israel Public Affairs Committee (AIPAC) has suspended campaign fundraising efforts for more than two dozen House Democrats who voted to cut off billions of dollars in U.S. military aid to Israel earlier this week. More than 100 Ho",
     "tags": [
+      "Defense",
+      "Regulation",
       "Taxes"
     ],
     "tickers": [
-      "MU"
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1652149/000165214926000004/0001652149-26-000004-index.htm",
-    "published_iso": "2026-07-17T22:57:15+00:00",
-    "time_ago": "8m ago"
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/5975746-aipac-halts-democratic-donations/",
+    "published_iso": "2026-07-17T23:59:23+00:00",
+    "time_ago": "5m ago"
   },
   {
-    "id": "28ac74ed0031",
+    "id": "3be592c9c9a2",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -76,102 +103,81 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Johnson Tim Donald withheld (tax) 47,217 shares of Health In Tech, Inc. (HIT) \u00b7 $1.04/share \u00b7 $49,106 total \u00b7 Jul 17",
+    "content": "Miller Brian received 1,431 shares of Inseego Corp. (INSG) \u00b7 Jul 17",
+    "tags": [],
+    "tickers": [
+      "INSG"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1749976/000095014226002125/0000950142-26-002125-index.htm",
+    "published_iso": "2026-07-17T23:52:14+00:00",
+    "time_ago": "12m ago"
+  },
+  {
+    "id": "14ec3082add8",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Sinha Harsh exercised options for 105,240 shares of Wise Group Plc (WSE) \u00b7 Jul 17 ($541,419 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "WSE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2131391/000213139126000004/0002131391-26-000004-index.htm",
+    "published_iso": "2026-07-17T23:50:07+00:00",
+    "time_ago": "14m ago"
+  },
+  {
+    "id": "4a4301115161",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Peiris Nilan exercised options for 105,240 shares of Wise Group Plc (WSE) \u00b7 Jul 17 ($749,249 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "WSE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2131390/000213139026000004/0002131390-26-000004-index.htm",
+    "published_iso": "2026-07-17T23:50:05+00:00",
+    "time_ago": "14m ago"
+  },
+  {
+    "id": "ebf43a57b90c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Xue Bing sold 875 shares of Alpha & Omega Semiconductor Ltd (AOSL) \u00b7 $33.99/share \u00b7 $29,741 total \u00b7 Jul 17",
     "tags": [
-      "Taxes"
+      "Semiconductors"
     ],
     "tickers": [
-      "HIT"
+      "AOSL"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2019505/000121390026079324/0001213900-26-079324-index.htm",
-    "published_iso": "2026-07-17T22:52:31+00:00",
-    "time_ago": "13m ago"
-  },
-  {
-    "id": "c61d44042bc4",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Qian Linlin withheld (tax) 28,725 shares of Health In Tech, Inc. (HIT) \u00b7 $1.04/share \u00b7 $29,874 total \u00b7 Jul 17",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "HIT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2019505/000121390026079323/0001213900-26-079323-index.htm",
-    "published_iso": "2026-07-17T22:52:17+00:00",
-    "time_ago": "13m ago"
-  },
-  {
-    "id": "13d4a8a9b4a2",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Derechin Adam M received 7,243 shares of Cohen & Steers Quality Income Realty Fund Inc (RQI-RI) \u00b7 $12.15/share \u00b7 $88,002 total \u00b7 Jul 17",
-    "tags": [],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1181440/000119312526308068/0001193125-26-308068-index.htm",
-    "published_iso": "2026-07-17T22:45:10+00:00",
-    "time_ago": "20m ago"
-  },
-  {
-    "id": "46fa69e7ac21",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Wilson James N sold 1,079 shares of Corcept Therapeutics Inc (CORT) \u00b7 $86.78/share \u00b7 $93,633 total \u00b7 Jul 17 ($882,986 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CORT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1236387/000119312526308061/0001193125-26-308061-index.htm",
-    "published_iso": "2026-07-17T22:38:28+00:00",
-    "time_ago": "27m ago"
-  },
-  {
-    "id": "3a80a3924547",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Oey Peter Henry sold 50,000 shares of Grab Holdings Ltd (GRABW) \u00b7 $3.83/share \u00b7 $191,495 total \u00b7 Jul 17",
-    "tags": [],
-    "tickers": [
-      "GRABW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1976718/000197671826000009/0001976718-26-000009-index.htm",
-    "published_iso": "2026-07-17T22:37:03+00:00",
-    "time_ago": "28m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1787488/000162828026048730/0001628280-26-048730-index.htm",
+    "published_iso": "2026-07-17T23:38:36+00:00",
+    "time_ago": "26m ago"
   },
   {
     "id": "251ed3192428",
@@ -193,7 +199,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/newsletters/technology/5975555-sacks-warns-us-risks-losing-ai-edge-after-new-chinese-model-launch/",
     "published_iso": "2026-07-17T21:50:43+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "b7af034cc47a",
@@ -215,30 +221,8 @@
     ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "https://nitter.net/BernieSanders/status/2078230204405703071#m",
+    "url": "http://nt.vern.cc/BernieSanders/status/2078230204405703071#m",
     "published_iso": "2026-07-17T21:27:47+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "7eaf35a98883",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Sacks argues US is 'tying itself in knots' over AI after release of new Chinese model. Former White House AI and cryptocurrency czar David Sacks argued Friday that the U.S. is \"tying itself in knots\" over AI and risking its competitive edge, following the release of a new Chinese model. Kimi K3, a new model from the Ch",
-    "tags": [
-      "China",
-      "Crypto"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/5975303-david-sacks-us-artificial-intelligence-kimi-k3-moonshot-ai/",
-    "published_iso": "2026-07-17T20:41:19+00:00",
     "time_ago": "2h ago"
   },
   {
@@ -262,7 +246,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2078213650389602629#m",
     "published_iso": "2026-07-17T20:22:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "ca840d369e14",
@@ -291,7 +275,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2078200791773442256#m",
     "published_iso": "2026-07-17T19:30:54+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "c26c403d495b",
@@ -314,7 +298,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2078132057985659348#m",
     "published_iso": "2026-07-17T14:57:47+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "80b43a56295b",
@@ -333,7 +317,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14511/airworthiness-directives-diamond-aircraft-industries-gmbh",
     "published_iso": "2026-07-17T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "81d2ebfb19b7",
@@ -355,7 +339,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14509/margin-requirements-for-uncleared-swaps-for-swap-dealers-and-major-swap-participants",
     "published_iso": "2026-07-17T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "39be4ba0811d",
@@ -376,7 +360,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14501/safety-zones-annual-events-in-the-captain-of-the-port-eastern-great-lakes-zone",
     "published_iso": "2026-07-17T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "d1f42e04cd8a",
@@ -397,7 +381,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14500/special-local-regulation-cayuga-lake-ithaca-ny",
     "published_iso": "2026-07-17T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "d03d3f918281",
@@ -418,7 +402,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14492/endangered-and-threatened-wildlife-and-plants-reclassification-of-the-razorback-sucker-from",
     "published_iso": "2026-07-17T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "6fa37504fb12",
@@ -437,7 +421,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14481/airworthiness-directives-bell-textron-canada-limited-helicopters",
     "published_iso": "2026-07-17T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "e87b6db5132e",
@@ -460,7 +444,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14478/airworthiness-directives-general-electric-company-engines",
     "published_iso": "2026-07-17T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "9fc25b707a3f",
@@ -489,7 +473,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14461/implementing-voluntary-agreements-under-the-defense-production-act",
     "published_iso": "2026-07-17T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "cfac33502ddb",
