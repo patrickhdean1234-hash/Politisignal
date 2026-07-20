@@ -1,5 +1,137 @@
 [
   {
+    "id": "ad29f04e5028",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Huang Jack Jiajia bought 186,840 shares of 51Talk Online Education Group (COE) \u00b7 $17.19/share \u00b7 $3,211,780 total \u00b7 Jul 20 ($8,685,853 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "COE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2029760/000110465926084902/0001104659-26-084902-index.htm",
+    "published_iso": "2026-07-20T12:17:10+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "29bdcce8a06e",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Livingston Iii Homer John bought 26,343 shares of Fuelcell Energy Inc (FCELB) \u00b7 $18.79/share \u00b7 $494,967 total \u00b7 Jul 20",
+    "tags": [
+      "Energy"
+    ],
+    "tickers": [
+      "FCELB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2140145/000089706926001523/0000897069-26-001523-index.htm",
+    "published_iso": "2026-07-20T12:03:08+00:00",
+    "time_ago": "15m ago"
+  },
+  {
+    "id": "a46815ce9eda",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Harned Timothy Heydenreich received 29,412 shares of Vuzix Corp (VUZI) \u00b7 Jul 20",
+    "tags": [],
+    "tickers": [
+      "VUZI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1709813/000110465926084892/0001104659-26-084892-index.htm",
+    "published_iso": "2026-07-20T12:03:01+00:00",
+    "time_ago": "15m ago"
+  },
+  {
+    "id": "baa82b80906a",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Nearhos Barry R received 170 shares of Mercury Systems Inc (MRCY) \u00b7 Jul 20",
+    "tags": [],
+    "tickers": [
+      "MRCY"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1671237/000104952126000034/0001049521-26-000034-index.htm",
+    "published_iso": "2026-07-20T11:22:16+00:00",
+    "time_ago": "56m ago"
+  },
+  {
+    "id": "a3b298a338bc",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Tick Lyle withheld (tax) 542 shares of Bjs Restaurants Inc (BJRI) \u00b7 $43.04/share \u00b7 $23,328 total \u00b7 Jul 20",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "BJRI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2037188/000119312526308311/0001193125-26-308311-index.htm",
+    "published_iso": "2026-07-20T10:53:54+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "7df21ab42cc5",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Law Man San bought 54,275 shares of Solai Ltd (SLAI) \u00b7 $3.57/share \u00b7 $194,006 total \u00b7 Jul 20",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [
+      "SLAI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1803336/000110465926084845/0001104659-26-084845-index.htm",
+    "published_iso": "2026-07-20T10:51:24+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "1d527e8dd244",
     "politician": "Federal Register",
     "initials": "FR",
@@ -18,7 +150,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14598/drawbridge-operation-regulation-newark-bay-between-the-city-of-newark-and-city-of-bayonne-nj",
     "published_iso": "2026-07-20T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "79b830d579c7",
@@ -37,7 +169,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14592/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-harpoon-category",
     "published_iso": "2026-07-20T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "e2dd4e8256df",
@@ -58,7 +190,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14584/safety-zones-delaware-river-dredging-marcus-hook-pa",
     "published_iso": "2026-07-20T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "5ea1ff47aba9",
@@ -79,7 +211,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14578/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-texas",
     "published_iso": "2026-07-20T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "98a49f1fa105",
@@ -101,7 +233,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14573/food-standards-of-identity-modernization-pasteurized-orange-juice",
     "published_iso": "2026-07-20T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "dd04f0d7fbae",
@@ -123,7 +255,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14553/2026-quarterly-listings-first-quarter-safety-zones-security-zones-and-special-local-regulations",
     "published_iso": "2026-07-20T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "f0f939fda57b",
@@ -142,7 +274,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14551/pacific-halibut-fisheries-of-the-west-coast-inseason-action-for-the-2026-area-2a-pacific-halibut",
     "published_iso": "2026-07-20T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "b2f78724bad1",
@@ -163,7 +295,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14550/endangered-and-threatened-wildlife-and-plants-reclassification-of-the-hawaiian-stilt-kukuluaeo-or",
     "published_iso": "2026-07-20T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "db2b9439ceb8",
@@ -185,28 +317,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/los-angeles-olympics-legacy-climate-transit-01004649",
     "published_iso": "2026-07-20T01:07:00+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "608e6ab3aaae",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Usha Vance gives birth to a baby boy. Second lady Usha Vance delivered a baby boy on Sunday morning, marking the first time a sitting second lady has been pregnant or given birth in 156 years. \u201cWe are excited to announce that our baby boy, Alec Neel Vance, was born this morning. Usha and the baby are happy and healthy,",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5977294-usha-vance-baby-boy-born/",
-    "published_iso": "2026-07-19T23:09:12+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "d937de9f4629",
@@ -235,7 +346,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/american-farmers-loggers-and-industry-leaders-applaud-president-trumps-bold-tariff-action-regarding",
     "published_iso": "2026-07-19T20:23:57+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "6e5e5298f4e1",
@@ -282,50 +393,6 @@
     "url": "https://nitter.net/PatrickMcHenry/status/2078478053945053615#m",
     "published_iso": "2026-07-18T13:52:38+00:00",
     "time_ago": "1d ago"
-  },
-  {
-    "id": "ba0d106e0dda",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Donato Leslie E exercised options for 2,685 shares of Keenova Therapeutics Plc \u00b7 Jul 17 ($0 across all blocks)",
-    "tags": [
-      "Defense"
-    ],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1784795/000110465926084773/0001104659-26-084773-index.htm",
-    "published_iso": "2026-07-18T01:54:20+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "3e049eb3744c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Jaffe Jennifer Anne withheld (tax) 903 shares of Bjs Restaurants Inc (BJRI) \u00b7 $60.60/share \u00b7 $54,722 total \u00b7 Jul 17",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "BJRI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2070626/000119312526308143/0001193125-26-308143-index.htm",
-    "published_iso": "2026-07-18T01:52:06+00:00",
-    "time_ago": "2d ago"
   },
   {
     "id": "cfac33502ddb",
