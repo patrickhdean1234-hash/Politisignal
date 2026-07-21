@@ -1,5 +1,125 @@
 [
   {
+    "id": "3fbf24789c03",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Carney blasts new Trump tariffs: 'Direct violation' of trade deal. Canadian Prime Minister Mark Carney spoke out Monday after the Trump administration announced a new 50 percent tariff on a range of exports from the U.S.'s northern neighbor. President Trump signed three orders in total, accusing the country of \u201cdiscrim",
+    "tags": [
+      "Trade",
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/international/5979864-mark-carney-donald-trump-tariffs-canadian-wildfires/",
+    "published_iso": "2026-07-21T12:01:03+00:00",
+    "time_ago": "45m ago"
+  },
+  {
+    "id": "59fca90652d7",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Filius Bart bought 150,000 shares of Proqr Therapeutics N.V. (PRQR) \u00b7 $1.72/share \u00b7 $257,925 total \u00b7 Jul 21",
+    "tags": [],
+    "tickers": [
+      "PRQR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2115417/000110465926085234/0001104659-26-085234-index.htm",
+    "published_iso": "2026-07-21T12:00:17+00:00",
+    "time_ago": "46m ago"
+  },
+  {
+    "id": "3b0a4a3a4841",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Brookfield Corp /On/ acquired/disposed 107,584 shares of Brookfield Real Estate Income Trust Inc. (STT) \u00b7 $10.37/share \u00b7 $1,115,112 total \u00b7 Jul 21",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "STT"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1921485/000119312526309566/0001193125-26-309566-index.htm",
+    "published_iso": "2026-07-21T12:00:03+00:00",
+    "time_ago": "46m ago"
+  },
+  {
+    "id": "f165bacc1d3c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Lin Frank Hurst exercised options for 72,720 shares of 51Talk Online Education Group (COE) \u00b7 Jul 21",
+    "tags": [],
+    "tickers": [
+      "COE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2002613/000110465926085228/0001104659-26-085228-index.htm",
+    "published_iso": "2026-07-21T11:33:10+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "a2aeef098ca2",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Clarity Act gives law enforcement the tools it needs for decentralized finance. Last month, a major U.S.-based digital asset company's compliance team discovered that more than $200 million in stablecoins were en route to North Korea. They had eight hours and the technical ability to freeze the transaction, yet reporte",
+    "tags": [
+      "Crypto",
+      "Regulation"
+    ],
+    "tickers": [
+      "BTC",
+      "ETH",
+      "COIN",
+      "XRP"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/finance/5978689-montana-ag-crypto-regulation/",
+    "published_iso": "2026-07-21T11:30:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "b9cbb50780c4",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
@@ -20,7 +140,30 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/2091894/000121390026079806/0001213900-26-079806-index.htm",
     "published_iso": "2026-07-21T11:11:30+00:00",
-    "time_ago": "5m ago"
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "c7c6bfdac841",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "MAHA voters feel betrayed \u2014 Republicans proceed at their own risk. The Centers for Disease Control and Prevention may have handed Republican leaders a political grenade with the pin pulled. On June 1, the agency awarded Pfizer contracts worth roughly $1.24 billion for COVID-19 vaccines for the remainder of fiscal 2026 ",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [
+      "PFE"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/healthcare/5978536-cdc-awarded-pfizer-vaccine-contract/",
+    "published_iso": "2026-07-21T11:00:00+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "284a37bec0d3",
@@ -44,78 +187,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/2114025/000104617926000453/0001046179-26-000453-index.htm",
     "published_iso": "2026-07-21T10:44:32+00:00",
-    "time_ago": "32m ago"
-  },
-  {
-    "id": "fc68f9608f85",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Zou Tao sold 26,000 shares of Kingsoft Cloud Holdings Ltd (KCLHF) \u00b7 $0.65/share \u00b7 $16,793 total \u00b7 Jul 21 ($191,331 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "KCLHF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1979090/000110465926085199/0001104659-26-085199-index.htm",
-    "published_iso": "2026-07-21T10:14:27+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "1dc963a5198a",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "GOP faces new alarm over Iran as ceasefire implodes. The intensifying military conflict with Iran and its impact on gas prices is sparking fresh alarm among GOP lawmakers, who are urging President Trump to find a way to reopen the Strait of Hormuz as soon as possible to avoid an angry backlash from voters. Oil prices h",
-    "tags": [
-      "Energy",
-      "Defense",
-      "Regulation",
-      "Sanctions"
-    ],
-    "tickers": [
-      "XOM",
-      "CVX",
-      "COP",
-      "OXY"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5979426-gop-urges-trump-open-strait/",
-    "published_iso": "2026-07-21T10:00:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "331baae03761",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "GOP seeks to avoid, for once, the shutdown trap. House GOP leaders are racing to pass a stopgap funding measure, seeking to avoid the kind of government shutdown that has brought them pain in the past. The stopgap measure would fund the government from Oct. 1 through Dec. 4, buying lawmakers time to complete the annual",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5979250-congressional-shutdown-avoidance-strategy/",
-    "published_iso": "2026-07-21T10:00:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "37857ea8bad0",
@@ -137,7 +209,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14710/order-sunsetting-certain-large-trader-reporting-requirements-for-physical-commodity-swaps",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "c8fafe2adfbc",
@@ -158,7 +230,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14709/patient-protection-and-affordable-care-act-hhs-notice-of-benefit-and-payment-parameters-for-2027-and",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "36a972d3761f",
@@ -179,7 +251,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14701/general-technical-organizational-conforming-and-correcting-amendments-to-the-federal-motor-carrier",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "5162d6704090",
@@ -200,7 +272,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14698/uscis-immigration-fees-and-related-procedures-required-by-hr1-reconciliation-bill-correction",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "1a81259efb2f",
@@ -219,7 +291,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14697/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-north",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "641e4d00148f",
@@ -238,7 +310,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14673/review-of-the-commissions-assessment-and-collection-of-regulatory-fees-for-fiscal-year-2025",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "14349a193032",
@@ -257,7 +329,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14671/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-cod-by-catcherprocessors-using-trawl",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "b4518022c302",
@@ -278,53 +350,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14648/special-local-regulations-marine-events-within-the-captain-of-the-port-charleston",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "ceea179b6d1e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Tomasello Vickie disposed of 9,070 shares of Northfield Bancorp, Inc. (NFBK) \u00b7 Jul 20 ($0 across all blocks)",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [
-      "NFBK"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1990830/000149322526000088/0001493225-26-000088-index.htm",
-    "published_iso": "2026-07-21T01:36:35+00:00",
-    "time_ago": "9h ago"
-  },
-  {
-    "id": "a44e791e77fa",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Patafio Frank P. disposed of 267,362 shares of Northfield Bancorp, Inc. (NFBK) \u00b7 Jul 20",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [
-      "NFBK"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1586204/000149322526000087/0001493225-26-000087-index.htm",
-    "published_iso": "2026-07-21T01:36:29+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "fcc064fe3a8e",
@@ -349,7 +375,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2079354838656131521#m",
     "published_iso": "2026-07-20T23:56:40+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "71a6e711265e",
@@ -370,7 +396,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h251?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-20T23:09:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "851c236fdcd5",
@@ -389,7 +415,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h250?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-20T23:02:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "40885a092863",
@@ -408,7 +434,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s200?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-20T21:30:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "dcc8ce13255f",
@@ -435,7 +461,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/07/imposing-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/",
     "published_iso": "2026-07-20T21:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "c8d845b61c67",
@@ -463,7 +489,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-imposes-additional-tariffs-on-canada/",
     "published_iso": "2026-07-20T21:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "555d7f3dd315",
@@ -485,7 +511,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "d5c2038a67f4",
@@ -509,7 +535,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-issues-statement-president-trump-imposing-section-338-tariffs-canada",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "de6fa078b8d5",
@@ -534,7 +560,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mr46dhyjrc2r",
     "published_iso": "2026-07-20T20:51:42.946000+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "00574dc3c125",
@@ -556,7 +582,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-launches-the-reading-room-a-public-archive-of-the-committees-ongoing-covid-19-origins-investigations/",
     "published_iso": "2026-07-20T20:42:12+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "46c3d5b5417b",
@@ -580,7 +606,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-joins-daily-new-york-times-ana-swanson-0",
     "published_iso": "2026-07-20T20:34:43+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "885e584c926b",
@@ -607,7 +633,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-americas-defense-supply-chains-and-ensures-domestic-acquisition-of-critical-materials/",
     "published_iso": "2026-07-20T19:38:30+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "6cb50176f8e9",
@@ -626,7 +652,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mr3u34xljk2h",
     "published_iso": "2026-07-20T17:48:05.527000+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "db2b9439ceb8",
