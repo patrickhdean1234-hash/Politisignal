@@ -1,6 +1,6 @@
 [
   {
-    "id": "75b76349fcaf",
+    "id": "0bbce68dac9f",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,79 +9,128 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Keough Kelli sold 10,954 shares of Sofi Technologies, Inc. (SOFI) \u00b7 $17.19/share \u00b7 $188,290 total \u00b7 Jul 21",
-    "tags": [],
-    "tickers": [
-      "SOFI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2032458/000203245826000022/0002032458-26-000022-index.htm",
-    "published_iso": "2026-07-21T22:29:17+00:00",
-    "time_ago": "3m ago"
-  },
-  {
-    "id": "71ba9353b36d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Imran Talat bought 35,000 shares of Rani Therapeutics Holdings, Inc. (RANI) \u00b7 $0.72/share \u00b7 $25,193 total \u00b7 Jul 21",
-    "tags": [],
-    "tickers": [
-      "RANI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1869579/000186957926000007/0001869579-26-000007-index.htm",
-    "published_iso": "2026-07-21T22:29:00+00:00",
-    "time_ago": "3m ago"
-  },
-  {
-    "id": "5727b4e52e70",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Sutherland Vanessa Allen sold 563 shares of Phillips 66 (PSX) \u00b7 $211.01/share \u00b7 $118,798 total \u00b7 Jul 21 ($7,435,346,884 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "PSX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1772603/000153470126000026/0001534701-26-000026-index.htm",
-    "published_iso": "2026-07-21T22:25:33+00:00",
-    "time_ago": "6m ago"
-  },
-  {
-    "id": "82ac4f44d92b",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "WASHINGTON, DC \u2013 Today, Assistant to the President and Director of the White House Office of Science and Technology Policy (OSTP) Michael Kratsios published a new report to President Trump that charts a bold course to revitalize American research and development (R&#38;D). The report, entitled Science: A New Golden Age",
+    "content": "Kamfar Ramin acquired/disposed 1,935 shares of Bluerock Private Real Estate Fund (BPRE) \u00b7 $12.93/share \u00b7 $25,020 total \u00b7 Jul 21",
     "tags": [
-      "Taxes"
+      "Insider Trade"
     ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/releases/2026/07/45470/",
-    "published_iso": "2026-07-21T22:22:17+00:00",
+    "tickers": [
+      "BPRE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551047/000139834426012441/0001398344-26-012441-index.htm",
+    "published_iso": "2026-07-21T23:33:11+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "6dd8e71ddb0e",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Peters calls Hegseth a 'failure' at hearing. Democratic Sen. Gary Peters (Mich.) on Tuesday said Defense Secretary Pete Hegseth was a \u201cfailure\u201d and lacked the leadership necessary to win the Iran war.\u00a0 \u201cSecretary Haig said, despite your failure to win this war, you are back now before Congress asking for almost $70 bil",
+    "tags": [
+      "Defense",
+      "Regulation",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/senate/5982164-peters-calls-hegseth-failure/",
+    "published_iso": "2026-07-21T23:25:27+00:00",
     "time_ago": "9m ago"
+  },
+  {
+    "id": "90e5f6f28f1d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Harari Eliyahou Et Al bought 61,068 shares of Capsovision, Inc (CV) \u00b7 $6.73/share \u00b7 $410,988 total \u00b7 Jul 21",
+    "tags": [],
+    "tickers": [
+      "CV"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1378325/000100916526000006/0001009165-26-000006-index.htm",
+    "published_iso": "2026-07-21T23:04:11+00:00",
+    "time_ago": "30m ago"
+  },
+  {
+    "id": "7dc11896f079",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Beatty Jonathan S sold 2,000 shares of Schwab Charles Corp (SCHW-PJ) \u00b7 $104.21/share \u00b7 $208,411 total \u00b7 Jul 21",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2028977/000202897726000015/0002028977-26-000015-index.htm",
+    "published_iso": "2026-07-21T22:54:33+00:00",
+    "time_ago": "40m ago"
+  },
+  {
+    "id": "076d2d2e1b79",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hamill Anna exercised options for 66,188 shares of Laird Superfood, Inc. (LSF) \u00b7 Jul 21",
+    "tags": [],
+    "tickers": [
+      "LSF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1935704/000143774926024017/0001437749-26-024017-index.htm",
+    "published_iso": "2026-07-21T22:53:14+00:00",
+    "time_ago": "41m ago"
+  },
+  {
+    "id": "a2cc31f3251d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Duca Maurice J sold 748 shares of Appfolio Inc (APPF) \u00b7 $180.59/share \u00b7 $135,081 total \u00b7 Jul 21 ($2,303,645 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "APPF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1433195/000093833326000005/0000938333-26-000005-index.htm",
+    "published_iso": "2026-07-21T22:48:16+00:00",
+    "time_ago": "46m ago"
   },
   {
     "id": "e3b0e46a9d9a",
@@ -105,36 +154,8 @@
     ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "https://nitter.net/BernieSanders/status/2079693374806790631#m",
+    "url": "http://nt.vern.cc/BernieSanders/status/2079693374806790631#m",
     "published_iso": "2026-07-21T22:21:54+00:00",
-    "time_ago": "9m ago"
-  },
-  {
-    "id": "4e0279f6cfa4",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Massie says money for farmers in Iran war supplemental is 'ironic'. Rep. Thomas Massie (R-Ky.) called Congress' move to ask for more than $11 billion for the Agriculture Department (USDA) as part of supplemental funding for the Iran war \u201cironic\u201d on Tuesday. \u201cWhat\u2019s ironic about that is the\u2026 bailout for the farmers was ",
-    "tags": [
-      "Agriculture",
-      "Regulation",
-      "Sanctions"
-    ],
-    "tickers": [
-      "CORN",
-      "SOYB",
-      "DE",
-      "LMT"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5981858-massie-calls-iran-war-farm-supplemental-ironic/",
-    "published_iso": "2026-07-21T21:22:47+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -156,7 +177,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-sent-to-the-senate-60e9/",
     "published_iso": "2026-07-21T19:58:17+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "ee94faf7cc2f",
@@ -184,7 +205,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h254?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-21T18:39:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "c87632bb9927",
@@ -203,7 +224,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2079633049977794712#m",
     "published_iso": "2026-07-21T18:22:11+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "28db07070865",
@@ -224,7 +245,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h253?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-21T18:11:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "6d20ebbaaad7",
@@ -243,7 +264,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h252?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-21T18:03:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "d2fedbaf0f99",
@@ -265,7 +286,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/07/president-trumps-working-families-tax-cuts-ignite-manufacturing-renaissance-across-all-50-states/",
     "published_iso": "2026-07-21T17:49:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "c34b57fe8cd0",
@@ -290,9 +311,9 @@
     ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "https://nitter.net/BernieSanders/status/2079619070165475450#m",
+    "url": "http://nt.vern.cc/BernieSanders/status/2079619070165475450#m",
     "published_iso": "2026-07-21T17:26:38+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "85943500f318",
@@ -314,7 +335,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-announces-trade-deal-with-jordan/",
     "published_iso": "2026-07-21T15:56:03+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "a470ce124dce",
@@ -338,7 +359,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/road-colorado-and-utah-ambassador-greer-highlights-how-tariffs-are-delivering-american-ranchers",
     "published_iso": "2026-07-21T14:20:25+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "f70c324ed34b",
@@ -361,7 +382,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenLummis/status/2079553227683713314#m",
     "published_iso": "2026-07-21T13:05:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "24a030af14c0",
@@ -386,7 +407,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/NEWSMAX/status/2079548194233667874#m",
     "published_iso": "2026-07-21T12:45:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "37857ea8bad0",
@@ -408,7 +429,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14710/order-sunsetting-certain-large-trader-reporting-requirements-for-physical-commodity-swaps",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "c8fafe2adfbc",
@@ -429,7 +450,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14709/patient-protection-and-affordable-care-act-hhs-notice-of-benefit-and-payment-parameters-for-2027-and",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "36a972d3761f",
@@ -450,7 +471,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14701/general-technical-organizational-conforming-and-correcting-amendments-to-the-federal-motor-carrier",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "5162d6704090",
@@ -471,7 +492,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14698/uscis-immigration-fees-and-related-procedures-required-by-hr1-reconciliation-bill-correction",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "1a81259efb2f",
@@ -490,7 +511,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14697/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-north",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "641e4d00148f",
@@ -509,7 +530,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14673/review-of-the-commissions-assessment-and-collection-of-regulatory-fees-for-fiscal-year-2025",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "14349a193032",
@@ -528,7 +549,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14671/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-cod-by-catcherprocessors-using-trawl",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "b4518022c302",
@@ -549,7 +570,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14648/special-local-regulations-marine-events-within-the-captain-of-the-port-charleston",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "71a6e711265e",
@@ -570,7 +591,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h251?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-20T23:09:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "851c236fdcd5",
@@ -589,7 +610,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h250?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-20T23:02:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "40885a092863",
