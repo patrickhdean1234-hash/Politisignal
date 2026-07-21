@@ -1,6 +1,48 @@
 [
   {
-    "id": "d8e30c409f50",
+    "id": "295f91444ba1",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Shachar Erez sold 78,800 shares of Riskified Ltd. (RSKD) \u00b7 $5.11/share \u00b7 $402,826 total \u00b7 Jul 21 ($443,864 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "RSKD"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1851112/000160109926000041/0001601099-26-000041-index.htm",
+    "published_iso": "2026-07-21T20:17:16+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "7a2a5c0cab38",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Sennett Marjorie exercised options for 1,219 shares of Visteon Corp (VC) \u00b7 Jul 21",
+    "tags": [],
+    "tickers": [
+      "VC"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1616123/000161612326000012/0001616123-26-000012-index.htm",
+    "published_iso": "2026-07-21T20:15:50+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "5da23a401fc2",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -8,19 +50,102 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "high",
-    "content": "House overcomes key hurdle on reconciliation framework, CR and other measures. Speaker Mike Johnson (R-La.) cleared the first major hurdle of his packed legislative agenda Tuesday, when House Republicans passed a rule setting up floor debate and final votes on a slate of high-profile Republican priorities before lawmak",
+    "severity": "critical",
+    "content": "White House agrees to ethics provision in crypto bill. The White House has agreed to an ethics provision in a cryptocurrency regulation bill amid a final push to pass the legislation in the Senate. It's unclear what exactly is in the provision of the Clarity Act that has secured the backing of the Trump administration ",
     "tags": [
-      "Defense",
-      "Regulation",
-      "Taxes"
+      "Crypto",
+      "Regulation"
     ],
-    "tickers": [],
+    "tickers": [
+      "BTC",
+      "ETH",
+      "COIN"
+    ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/5981031-gop-ndaa-cr-reconciliation-rule/",
-    "published_iso": "2026-07-21T18:42:30+00:00",
-    "time_ago": "14m ago"
+    "url": "https://thehill.com/policy/technology/5981574-white-house-crypto-clarity-act-ethics-provision/",
+    "published_iso": "2026-07-21T19:46:47+00:00",
+    "time_ago": "31m ago"
+  },
+  {
+    "id": "e034f5a79409",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Collins slams Hegseth\u2019s removal of senior military officers. Sen. Susan Collins (R-Maine), the chair of the Senate Appropriations Committee, slammed Defense Secretary Pete Hegseth on Tuesday for the removal of more than two dozen senior military officers since taking the helm at the Pentagon.  \u201cI find this deeply troub",
+    "tags": [
+      "Defense"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/defense/5981496-collins-slams-hegseth-military-firings/",
+    "published_iso": "2026-07-21T19:15:07+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "2f9dc7a1822d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Live updates: Hegseth, Caine testify in Senate; Trump says Iran hasn't 'seen anything yet'. President Trump met with Lebanese President Joseph Aoun on Tuesday, the first time a Lebanese head of state has made a White House visit since 2009. Trump lauded the Lebanese nation and its people as he opened his meeting in the",
+    "tags": [
+      "Taxes",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5979578-live-updates-trump-iran-hegseth-caine/",
+    "published_iso": "2026-07-21T19:14:45+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "ee94faf7cc2f",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "H.Res. 1438: Providing for consideration of the bill (H.R. 8800) to authorize appropriations for fiscal year 2027 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to. Vote: Passed 214/211",
+    "tags": [
+      "Energy",
+      "Defense",
+      "Regulation"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h254?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-07-21T18:39:00+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "c87632bb9927",
@@ -37,38 +162,49 @@
     "tickers": [],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "https://nitter.net/SenWarren/status/2079633049977794712#m",
+    "url": "http://nt.vern.cc/SenWarren/status/2079633049977794712#m",
     "published_iso": "2026-07-21T18:22:11+00:00",
-    "time_ago": "34m ago"
+    "time_ago": "1h ago"
   },
   {
-    "id": "b6c459bd690a",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "28db07070865",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
     },
-    "severity": "medium",
-    "content": "Watch live: Hegseth, Caine testify before Senate on Iran supplemental funding. Defense Secretary Pete Hegseth and Joint Chiefs of Staff Chair Dan Caine will testify before the Senate Appropriations Committee on Tuesday afternoon on the White House's $87.6 billion supplemental funding request. The Trump administration's",
+    "severity": "high",
+    "content": "On Ordering the Previous Question: H.Res. 1438: Providing for consideration of the bill (H.R. 8800) to authorize appropriations for fiscal \u2026. Vote: Passed 213/209",
     "tags": [
-      "Agriculture",
-      "Defense",
-      "Regulation",
-      "Sanctions"
+      "Regulation"
     ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/video-clips/5981033-watch-live-pete-hegseth-dan-caine-brooke-rollins-supplemental-iran-funding/",
-    "published_iso": "2026-07-21T18:05:12+00:00",
-    "time_ago": "51m ago"
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h253?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-07-21T18:11:00+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "6d20ebbaaad7",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "H.R. 1118: Value Over Cost Act of 2025. Vote: Passed 421/1",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h252?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-07-21T18:03:00+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "d2fedbaf0f99",
@@ -90,7 +226,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/07/president-trumps-working-families-tax-cuts-ignite-manufacturing-renaissance-across-all-50-states/",
     "published_iso": "2026-07-21T17:49:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "c34b57fe8cd0",
@@ -117,7 +253,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2079619070165475450#m",
     "published_iso": "2026-07-21T17:26:38+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "85943500f318",
@@ -139,7 +275,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-announces-trade-deal-with-jordan/",
     "published_iso": "2026-07-21T15:56:03+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "a470ce124dce",
@@ -163,7 +299,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/road-colorado-and-utah-ambassador-greer-highlights-how-tariffs-are-delivering-american-ranchers",
     "published_iso": "2026-07-21T14:20:25+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "f70c324ed34b",
@@ -186,7 +322,32 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenLummis/status/2079553227683713314#m",
     "published_iso": "2026-07-21T13:05:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
+  },
+  {
+    "id": "24a030af14c0",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "high",
+    "content": "\u201cThe Right Squad\u201d weighs in on Sen. Rand Paul\u2019s push for a bill aimed at barring federal funds for welfare benefits\u2014including Social Security, Medicaid, food stamps, and housing vouchers\u2014from going to refugees, asylees, and noncitizens without legal status. \n \n Video",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/NEWSMAX/status/2079548194233667874#m",
+    "published_iso": "2026-07-21T12:45:00+00:00",
+    "time_ago": "7h ago"
   },
   {
     "id": "37857ea8bad0",
@@ -208,7 +369,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14710/order-sunsetting-certain-large-trader-reporting-requirements-for-physical-commodity-swaps",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "c8fafe2adfbc",
@@ -229,7 +390,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14709/patient-protection-and-affordable-care-act-hhs-notice-of-benefit-and-payment-parameters-for-2027-and",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "36a972d3761f",
@@ -250,7 +411,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14701/general-technical-organizational-conforming-and-correcting-amendments-to-the-federal-motor-carrier",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "5162d6704090",
@@ -271,7 +432,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14698/uscis-immigration-fees-and-related-procedures-required-by-hr1-reconciliation-bill-correction",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "1a81259efb2f",
@@ -290,7 +451,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14697/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-north",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "641e4d00148f",
@@ -309,7 +470,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14673/review-of-the-commissions-assessment-and-collection-of-regulatory-fees-for-fiscal-year-2025",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "14349a193032",
@@ -328,7 +489,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14671/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-cod-by-catcherprocessors-using-trawl",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "b4518022c302",
@@ -349,32 +510,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14648/special-local-regulations-marine-events-within-the-captain-of-the-port-charleston",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "14h ago"
-  },
-  {
-    "id": "fcc064fe3a8e",
-    "politician": "Sen. Rand Paul",
-    "initials": "RP",
-    "role": "Senate Foreign Relations Committee",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fbbf24"
-    },
-    "severity": "critical",
-    "content": "Want to tackle rising inflation? AUDIT THE FED. \n \nWant transparency in our financial system? AUDIT THE FED. \n \nWant big banks to be accountable to everyday Americans? AUDIT THE FED.",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/RandPaul/status/2079354838656131521#m",
-    "published_iso": "2026-07-20T23:56:40+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "71a6e711265e",
@@ -395,7 +531,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h251?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-20T23:09:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "851c236fdcd5",
@@ -414,7 +550,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h250?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-20T23:02:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "40885a092863",
@@ -433,7 +569,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s200?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-20T21:30:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "dcc8ce13255f",
@@ -460,35 +596,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/07/imposing-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/",
     "published_iso": "2026-07-20T21:00:00+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "c8d845b61c67",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "Fact Sheet: President Donald J. Trump Imposes Additional Tariffs on Canada. DEFENDING AMERICAN WORKERS AND ENSURING FAIR TRADE:&#160;Today, President Donald J. Trump signed three Proclamations pursuant to Section 338 of the Tariff Act of 1930 to impose additional 50% tariffs on certain goods of Canada in response to Ca",
-    "tags": [
-      "Trade",
-      "Defense",
-      "Taxes"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-imposes-additional-tariffs-on-canada/",
-    "published_iso": "2026-07-20T21:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "555d7f3dd315",
@@ -510,7 +618,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "d5c2038a67f4",
@@ -534,7 +642,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-issues-statement-president-trump-imposing-section-338-tariffs-canada",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "de6fa078b8d5",
@@ -559,7 +667,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mr46dhyjrc2r",
     "published_iso": "2026-07-20T20:51:42.946000+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "00574dc3c125",
@@ -581,7 +689,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-launches-the-reading-room-a-public-archive-of-the-committees-ongoing-covid-19-origins-investigations/",
     "published_iso": "2026-07-20T20:42:12+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "46c3d5b5417b",
@@ -605,29 +713,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-joins-daily-new-york-times-ana-swanson-0",
     "published_iso": "2026-07-20T20:34:43+00:00",
-    "time_ago": "22h ago"
-  },
-  {
-    "id": "db2b9439ceb8",
-    "politician": "Politico",
-    "initials": "PO",
-    "role": "Political News",
-    "color": {
-      "bg": "#1a0a0a",
-      "fg": "#fca5a5"
-    },
-    "severity": "medium",
-    "content": "LA\u2019s next mega-event test: The coming climate Olympics. City leaders are spending billions to make the next great global sporting event held in America \u2014 the 2028 Olympics \u2014 a story of climate and environment policy progress",
-    "tags": [
-      "Energy",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "politico",
-    "platform": "Politico",
-    "url": "https://www.politico.com/live-updates/2026/07/19/world-cup-2026/los-angeles-olympics-legacy-climate-transit-01004649",
-    "published_iso": "2026-07-20T01:07:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "d937de9f4629",
@@ -750,25 +836,6 @@
     "time_ago": "5d ago"
   },
   {
-    "id": "9473d92dfd17",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On Motion to Recommit: H.R. 9237: Take Care of America\u2019s Veterans Act. Vote: Failed 210/211",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h249?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-07-16T15:15:00+00:00",
-    "time_ago": "5d ago"
-  },
-  {
     "id": "bcb8b8a6c731",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -792,46 +859,6 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260716a.htm",
     "published_iso": "2026-07-16T15:00:00+00:00",
-    "time_ago": "5d ago"
-  },
-  {
-    "id": "6e900b534196",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.R. 5362: To name the Department of Veterans Affairs multispecialty clinic in Marietta, Georgia, as the \u201cColonel Michael H. Boyce Department of Veterans Affairs Multispecialty Clinic\u201d.. Vote: Passed 418/0",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h248?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-07-16T14:50:00+00:00",
-    "time_ago": "5d ago"
-  },
-  {
-    "id": "5febbdf03223",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "critical",
-    "content": "H.R. 8595: National Security, Department of State, and Related Programs Appropriations Act, 2027. Vote: Passed 217/209",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h247?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-07-15T21:11:00+00:00",
     "time_ago": "5d ago"
   },
   {
@@ -877,7 +904,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
     "published_iso": "2026-07-09T19:00:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "374047f602cb",
@@ -948,7 +975,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm",
     "published_iso": "2026-07-07T19:00:00+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "f6fb9773511f",
@@ -1014,7 +1041,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/news/pelosi-update/more-perfect-union",
     "published_iso": "2026-06-18T19:41:05+00:00",
-    "time_ago": "32d ago"
+    "time_ago": "33d ago"
   },
   {
     "id": "ddb58e0107d1",
@@ -1196,7 +1223,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "117d ago"
+    "time_ago": "118d ago"
   },
   {
     "id": "00f579ee8f55",
