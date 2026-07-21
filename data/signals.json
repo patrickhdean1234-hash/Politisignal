@@ -1,6 +1,75 @@
 [
   {
-    "id": "da7fe4d86fd7",
+    "id": "683ee3977b25",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Gomide De Faria Mariano sold 4,808 shares of Vtex (VTEX) \u00b7 $4.22/share \u00b7 $20,290 total \u00b7 Jul 21",
+    "tags": [],
+    "tickers": [
+      "VTEX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1968909/000119312526309968/0001193125-26-309968-index.htm",
+    "published_iso": "2026-07-21T17:40:36+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "c0ae78f3c09a",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Do Carmo Thomaz Junior Geraldo sold 4,808 shares of Vtex (VTEX) \u00b7 $4.22/share \u00b7 $20,290 total \u00b7 Jul 21",
+    "tags": [],
+    "tickers": [
+      "VTEX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1968696/000119312526309964/0001193125-26-309964-index.htm",
+    "published_iso": "2026-07-21T17:37:47+00:00",
+    "time_ago": "6m ago"
+  },
+  {
+    "id": "c34b57fe8cd0",
+    "politician": "Sen. Bernie Sanders",
+    "initials": "BS",
+    "role": "Senate HELP Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#818cf8"
+    },
+    "severity": "medium",
+    "content": "Here\u2019s how Trump's \"Big Beautiful Bill\" works: \n  \nThe richest 1% get $1 trillion in tax breaks. \n  \nWorking families get $1.1 trillion in cuts to SNAP, Medicaid and other healthcare programs. \n  \nTens of thousands will go hungry so the wealthy can get another tax break. Shameful.",
+    "tags": [
+      "Healthcare",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/BernieSanders/status/2079619070165475450#m",
+    "published_iso": "2026-07-21T17:26:38+00:00",
+    "time_ago": "16m ago"
+  },
+  {
+    "id": "3d036389180d",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -8,42 +77,42 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "critical",
-    "content": "Live updates: Trump hosts Lebanese president amid Iran conflict escalation. President Trump is holding a bilateral meeting with Lebanese President Joseph Aoun on Tuesday morning, the first time a Lebanese head of state has made a White House visit since 2009. Trump lauded the Lebanese nation and its people as he opened",
+    "severity": "high",
+    "content": "Trump admin freezes over $1B in Medicaid funds for Minnesota, California. The Trump administration is pausing more than $1 billion in Medicaid payments to California and Minnesota over alleged fraud concerns, officials announced Tuesday.  Tuesday marked the second time Trump targeted the two states' Democratic governor",
     "tags": [
-      "Taxes",
-      "Sanctions"
+      "Regulation"
     ],
     "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
+      "UNH",
+      "HCA",
+      "CVS"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5979578-live-updates-trump-iran-hegseth-caine/",
-    "published_iso": "2026-07-21T15:26:36+00:00",
+    "url": "https://thehill.com/policy/healthcare/5981015-trump-pauses-california-minnesota-medicaid/",
+    "published_iso": "2026-07-21T17:00:12+00:00",
     "time_ago": "43m ago"
   },
   {
-    "id": "22e4ac786baa",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "85943500f318",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
     },
     "severity": "critical",
-    "content": "Thune on Trump\u2019s Canada tariffs: 'I\u2019m not a huge fan of tariffs'. Senate Majority Leader John Thune (R-S.D.) told reporters Tuesday that he wants to know more about President Trump\u2019s rationale for slapping additional 50-percent tariffs on Canada, adding that he\u2019s \u201cnot a huge fan of tariffs.\u201d \"Just finding out about tha",
+    "content": "Fact Sheet: President Donald J. Trump Announces Trade Deal with Jordan. DELIVERING ON RECIPROCAL TRADE:&#160;Today, President Donald J. Trump announced a landmark trade deal with Jordan.&#160; Key terms of the Agreement with Jordan include: THE PROSPEROUS PATH FORWARD:&#160;Today\u2019s announcement reinforces America\u2019s str",
     "tags": [
-      "Trade"
+      "Trade",
+      "Taxes"
     ],
     "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5980591-thune-trump-canada-tariffs/",
-    "published_iso": "2026-07-21T15:04:24+00:00",
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-announces-trade-deal-with-jordan/",
+    "published_iso": "2026-07-21T15:56:03+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -68,7 +137,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/road-colorado-and-utah-ambassador-greer-highlights-how-tariffs-are-delivering-american-ranchers",
     "published_iso": "2026-07-21T14:20:25+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "f70c324ed34b",
@@ -91,7 +160,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenLummis/status/2079553227683713314#m",
     "published_iso": "2026-07-21T13:05:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "37857ea8bad0",
@@ -113,7 +182,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14710/order-sunsetting-certain-large-trader-reporting-requirements-for-physical-commodity-swaps",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "c8fafe2adfbc",
@@ -134,7 +203,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14709/patient-protection-and-affordable-care-act-hhs-notice-of-benefit-and-payment-parameters-for-2027-and",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "36a972d3761f",
@@ -155,7 +224,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14701/general-technical-organizational-conforming-and-correcting-amendments-to-the-federal-motor-carrier",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "5162d6704090",
@@ -176,7 +245,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14698/uscis-immigration-fees-and-related-procedures-required-by-hr1-reconciliation-bill-correction",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "1a81259efb2f",
@@ -195,7 +264,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14697/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-north",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "641e4d00148f",
@@ -214,7 +283,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14673/review-of-the-commissions-assessment-and-collection-of-regulatory-fees-for-fiscal-year-2025",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "14349a193032",
@@ -233,7 +302,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14671/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-cod-by-catcherprocessors-using-trawl",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "b4518022c302",
@@ -254,7 +323,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14648/special-local-regulations-marine-events-within-the-captain-of-the-port-charleston",
     "published_iso": "2026-07-21T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "fcc064fe3a8e",
@@ -279,7 +348,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2079354838656131521#m",
     "published_iso": "2026-07-20T23:56:40+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "71a6e711265e",
@@ -300,7 +369,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h251?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-20T23:09:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "851c236fdcd5",
@@ -319,7 +388,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h250?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-20T23:02:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "40885a092863",
@@ -338,7 +407,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s200?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-20T21:30:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "dcc8ce13255f",
@@ -365,7 +434,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/07/imposing-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/",
     "published_iso": "2026-07-20T21:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "c8d845b61c67",
@@ -393,7 +462,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-imposes-additional-tariffs-on-canada/",
     "published_iso": "2026-07-20T21:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "555d7f3dd315",
@@ -415,7 +484,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "d5c2038a67f4",
@@ -439,7 +508,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-issues-statement-president-trump-imposing-section-338-tariffs-canada",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "de6fa078b8d5",
@@ -464,7 +533,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mr46dhyjrc2r",
     "published_iso": "2026-07-20T20:51:42.946000+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "00574dc3c125",
@@ -486,7 +555,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-launches-the-reading-room-a-public-archive-of-the-committees-ongoing-covid-19-origins-investigations/",
     "published_iso": "2026-07-20T20:42:12+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "46c3d5b5417b",
@@ -510,53 +579,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-joins-daily-new-york-times-ana-swanson-0",
     "published_iso": "2026-07-20T20:34:43+00:00",
-    "time_ago": "19h ago"
-  },
-  {
-    "id": "885e584c926b",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "Fact Sheet: President Donald J. Trump Secures America\u2019s Defense Supply Chains and Ensures Domestic Acquisition of Critical Materials. SECURING AMERICA\u2019S DEFENSE SUPPLY CHAINS:&#160;Today, President Donald J. Trump signed an Executive Order to secure America\u2019s defense supply chains for the cutting-edge equipment that al",
-    "tags": [
-      "Defense",
-      "Taxes"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-americas-defense-supply-chains-and-ensures-domestic-acquisition-of-critical-materials/",
-    "published_iso": "2026-07-20T19:38:30+00:00",
-    "time_ago": "20h ago"
-  },
-  {
-    "id": "6cb50176f8e9",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "high",
-    "content": "BREAKING: A judge just granted a temporary restraining order against the Paramount-Warner Bros. merger.\n\nThis means that the merger is officially PAUSED. \n\nThat's a WIN thanks to the state attorneys general who stood up and pushed back. \n\nLet's keep up the fight.",
-    "tags": [],
-    "tickers": [],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mr3u34xljk2h",
-    "published_iso": "2026-07-20T17:48:05.527000+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "db2b9439ceb8",
@@ -677,7 +700,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s199?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-16T17:25:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "9785d411bd03",
@@ -1213,7 +1236,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "179d ago"
+    "time_ago": "180d ago"
   },
   {
     "id": "d3ca74df7f0f",
