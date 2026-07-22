@@ -1,6 +1,29 @@
 [
   {
-    "id": "0d8bfc3d7f43",
+    "id": "5c7383ad0ab1",
+    "politician": "Sen. Cynthia Lummis",
+    "initials": "CL",
+    "role": "Senate Banking Subcommittee (Crypto)",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#c4b5fd"
+    },
+    "severity": "critical",
+    "content": "Terra\u2019s collapse wiped out roughly $40 billion, and much of what remained got swallowed by the bankruptcy process itself. The Clarity Act doesn\u2019t just draw a line between reserve-backed assets and algorithmic experiments. It makes sure that when something fails, customer assets aren\u2019t creditors\u2019 first course.",
+    "tags": [
+      "Banking",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SenLummis/status/2079900767511789681#m",
+    "published_iso": "2026-07-22T12:06:00+00:00",
+    "time_ago": "53m ago"
+  },
+  {
+    "id": "d8cf47952524",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -8,114 +31,43 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "high",
-    "content": "Hegseth hearing shows tough fight ahead for Iran war supplemental. In today's issue: \u25aa Hegseth, Caine push Iran war funding \u25aa House passes stopgap spending bill \u25aa What\u2019s to blame for wildfire smoke? \u25aa Zelensky replaces top commander Defense Secretary Pete Hegseth\u2019s appearance before lawmakers Tuesday to push for additi",
+    "severity": "medium",
+    "content": "Microsoft set to invest $60M in Energy Department\u2019s Genesis Mission. Microsoft is set to invest $60 million into the Department of Energy\u2019s (DOE) Genesis Mission, which focuses on accelerating scientific discovery and technological leadership through artificial intelligence (AI). The company\u2019s investment will put $40 m",
     "tags": [
-      "Defense",
-      "Regulation",
-      "Sanctions"
+      "Energy"
     ],
     "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
+      "MSFT"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/morning-report/5982642-pete-hegseth-donald-trump-iran-war-funding-uphill-battle/",
-    "published_iso": "2026-07-22T11:07:55+00:00",
-    "time_ago": "20m ago"
+    "url": "https://thehill.com/policy/technology/5982443-microsoft-funds-genesis-mission-ai/",
+    "published_iso": "2026-07-22T12:00:00+00:00",
+    "time_ago": "59m ago"
   },
   {
-    "id": "284a37bec0d3",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "7438ee71fae0",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Lin Shyue-Shyh bought 1,000 shares of Taiwan Semiconductor Manufacturing Co Ltd (TSMWF) \u00b7 $72.65/share \u00b7 $72,650 total \u00b7 Jul 22 ($146,780 across all blocks)",
-    "tags": [
-      "Semiconductors"
-    ],
-    "tickers": [
-      "TSMWF",
-      "TSM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2114025/000104617926000455/0001046179-26-000455-index.htm",
-    "published_iso": "2026-07-22T10:17:07+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "0a76acc979b3",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Liu Chang bought 9,287 shares of 17 Education & Technology Group Inc. (YQ) \u00b7 $2.17/share \u00b7 $20,149 total \u00b7 Jul 22",
+    "content": "OpenAI says its technology hacked another company in 'unprecedented' event. OpenAI said Tuesday that one of its artificial intelligence systems hacked into another AI company\u2019s servers on its own during internal testing, in what the ChatGPT maker described as an \u201cunprecedented cyber incident.\u201d \u201cWe had a significant sec",
     "tags": [],
     "tickers": [
-      "YQ"
+      "MSFT"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1843196/000119312526311236/0001193125-26-311236-index.htm",
-    "published_iso": "2026-07-22T10:08:45+00:00",
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/5982665-openai-sam-altman-cyberhack-ai-hugging-face-system/",
+    "published_iso": "2026-07-22T11:53:08+00:00",
     "time_ago": "1h ago"
   },
   {
-    "id": "bdb2bbcb8eb1",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Ye Gang sold 9,200 shares of Sea Ltd (SE) \u00b7 $105.92/share \u00b7 $974,464 total \u00b7 Jul 22 ($4,257,243 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "SE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1729171/000119312526311234/0001193125-26-311234-index.htm",
-    "published_iso": "2026-07-22T10:06:02+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "6ebf5be57567",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Wang Yanjun sold 574 shares of Sea Ltd (SE) \u00b7 $105.75/share \u00b7 $60,700 total \u00b7 Jul 22 ($255,273 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "SE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2113214/000119312526311232/0001193125-26-311232-index.htm",
-    "published_iso": "2026-07-22T10:05:42+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "99dbfd5536d7",
+    "id": "67b7f462a9f4",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -124,38 +76,17 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Republicans balk at cost-raising potential of new tariffs on Canada. Republicans aren\u2019t eager to throw their weight behind Trump\u2019s new tariffs on Canada, with some saying it\u2019s a classic Trumpian negotiating tactic \u2014 but still worrying the proposed import taxes could bring everyday costs up at a politically crucial time",
+    "content": "A dormant court just woke up, and due process is on trial. A 30-year-old sleeping statute just woke up. How carefully it is used in this first case will tell us whether it becomes a serious national security tool or a cautionary tale about reaching for an untested law to solve a political problem",
     "tags": [
-      "Trade",
+      "Regulation",
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5982247-trump-canada-tariffs-republican-senators/",
-    "published_iso": "2026-07-22T10:00:00+00:00",
+    "url": "https://thehill.com/opinion/national-security/5979193-untested-terrorism-statute-hearing/",
+    "published_iso": "2026-07-22T11:30:00+00:00",
     "time_ago": "1h ago"
-  },
-  {
-    "id": "e321a5ad10fc",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Anthropic pours another $20 million into AI safety group. Anthropic will pour another $20 million into Public First Action, the nonprofit organization advocating for safeguards on artificial intelligence. The contribution, announced by the company Wednesday, brings the Claude-maker's total funds given to the group to $",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/5982007-anthropic-pours-millions-midterms/",
-    "published_iso": "2026-07-22T09:00:00+00:00",
-    "time_ago": "2h ago"
   },
   {
     "id": "0b6c28b88dd8",
@@ -176,7 +107,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/22/2026-14822/revocation-of-obsolete-rules-regarding-infant-bouncer-seats-and-stationary-activity-centers",
     "published_iso": "2026-07-22T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "50b48cabd28b",
@@ -197,7 +128,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/22/2026-14794/special-local-regulation-san-pedro-bay-ca",
     "published_iso": "2026-07-22T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "da11fdbfb9b6",
@@ -218,7 +149,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/22/2026-14790/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery",
     "published_iso": "2026-07-22T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "4d8783c53823",
@@ -240,7 +171,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/22/2026-14753/updates-to-agents-designated-to-accept-legal-process",
     "published_iso": "2026-07-22T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "befc64da8f37",
@@ -259,7 +190,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h272?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-22T02:13:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "5bff2cfab438",
@@ -278,7 +209,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h271?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-22T02:05:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "c59348e62bb3",
@@ -297,7 +228,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h270?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-22T01:59:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "18cc043d2295",
@@ -316,7 +247,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h269?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-22T01:51:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "bd5a89a47256",
@@ -335,7 +266,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h268?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-22T01:48:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "2a1d90c5ed5a",
@@ -354,7 +285,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h267?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-22T01:46:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "cd56170fbea5",
@@ -373,7 +304,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h266?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-22T01:43:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "6ba307f36b78",
@@ -392,7 +323,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h265?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-22T01:40:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "feca72b6756a",
@@ -421,33 +352,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2079730424931135763#m",
     "published_iso": "2026-07-22T00:49:07+00:00",
-    "time_ago": "10h ago"
-  },
-  {
-    "id": "e3b0e46a9d9a",
-    "politician": "Sen. Bernie Sanders",
-    "initials": "BS",
-    "role": "Senate HELP Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#818cf8"
-    },
-    "severity": "high",
-    "content": "Trump is withholding $1 billion in Medicaid funds from California and Minnesota. \n \nThe same man who made $2 billion off the presidency and passed $1 trillion in tax cuts for the 1% is now taking away health care from thousands of poor children. \n \nYou can\u2019t make this up.",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/BernieSanders/status/2079693374806790631#m",
-    "published_iso": "2026-07-21T22:21:54+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "ab7171d65ab2",
@@ -468,7 +373,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-sent-to-the-senate-60e9/",
     "published_iso": "2026-07-21T19:58:17+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "c87632bb9927",
@@ -487,7 +392,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2079633049977794712#m",
     "published_iso": "2026-07-21T18:22:11+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "d2fedbaf0f99",
@@ -509,34 +414,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/07/president-trumps-working-families-tax-cuts-ignite-manufacturing-renaissance-across-all-50-states/",
     "published_iso": "2026-07-21T17:49:00+00:00",
-    "time_ago": "17h ago"
-  },
-  {
-    "id": "c34b57fe8cd0",
-    "politician": "Sen. Bernie Sanders",
-    "initials": "BS",
-    "role": "Senate HELP Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#818cf8"
-    },
-    "severity": "medium",
-    "content": "Here\u2019s how Trump's \"Big Beautiful Bill\" works: \n  \nThe richest 1% get $1 trillion in tax breaks. \n  \nWorking families get $1.1 trillion in cuts to SNAP, Medicaid and other healthcare programs. \n  \nTens of thousands will go hungry so the wealthy can get another tax break. Shameful.",
-    "tags": [
-      "Healthcare",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/BernieSanders/status/2079619070165475450#m",
-    "published_iso": "2026-07-21T17:26:38+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "85943500f318",
@@ -558,7 +436,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-announces-trade-deal-with-jordan/",
     "published_iso": "2026-07-21T15:56:03+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "a470ce124dce",
@@ -582,7 +460,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/road-colorado-and-utah-ambassador-greer-highlights-how-tariffs-are-delivering-american-ranchers",
     "published_iso": "2026-07-21T14:20:25+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "37857ea8bad0",
@@ -814,29 +692,6 @@
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/american-farmers-loggers-and-industry-leaders-applaud-president-trumps-bold-tariff-action-regarding",
     "published_iso": "2026-07-19T20:23:57+00:00",
     "time_ago": "2d ago"
-  },
-  {
-    "id": "a911872ff396",
-    "politician": "Rep. Patrick McHenry",
-    "initials": "PM",
-    "role": "House Financial Services Committee",
-    "color": {
-      "bg": "#2d1e5f",
-      "fg": "#c084fc"
-    },
-    "severity": "critical",
-    "content": "The years of work put into sound policy have created impact in the first year since enactment. Lots more to come! \n \n \n Financial Services GOP (@FinancialCmte) \n \n One year ago today, the GENIUS Act was signed into law, delivering the first comprehensive federal framework for payment stablecoins and marking a historic ",
-    "tags": [
-      "Crypto",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/PatrickMcHenry/status/2078478053945053615#m",
-    "published_iso": "2026-07-18T13:52:38+00:00",
-    "time_ago": "3d ago"
   },
   {
     "id": "cfac33502ddb",
