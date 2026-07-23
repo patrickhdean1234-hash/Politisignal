@@ -1,6 +1,6 @@
 [
   {
-    "id": "a70f0d1809e7",
+    "id": "0e5e490f0481",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -8,65 +8,45 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "medium",
-    "content": "Huang Jack Jiajia bought 178,800 shares of 51Talk Online Education Group (COE) \u00b7 $17.23/share \u00b7 $3,080,724 total \u00b7 Jul 23 ($10,490,558 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "COE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2029760/000202976026000001/0002029760-26-000001-index.htm",
-    "published_iso": "2026-07-23T11:19:52+00:00",
-    "time_ago": "9m ago"
-  },
-  {
-    "id": "36b2b8ecefc3",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Richards David Z Jr received 343 shares of Citizens Financial Services Inc (CZFS) \u00b7 Jul 23",
-    "tags": [],
-    "tickers": [
-      "CZFS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1234118/000073942126000068/0000739421-26-000068-index.htm",
-    "published_iso": "2026-07-23T11:19:04+00:00",
-    "time_ago": "9m ago"
-  },
-  {
-    "id": "b72fda7ba436",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Tien Bor-Zen bought 1,000 shares of Taiwan Semiconductor Manufacturing Co Ltd (TSMWF) \u00b7 $74.13/share \u00b7 $74,130 total \u00b7 Jul 23 ($301,350 across all blocks)",
+    "severity": "critical",
+    "content": "Travis Thomas L sold 6,500 shares of Bank7 Corp. (BSVN) \u00b7 $48.01/share \u00b7 $312,068 total \u00b7 Jul 23",
     "tags": [
-      "Semiconductors"
+      "Banking"
     ],
     "tickers": [
-      "TSMWF",
-      "TSM"
+      "BSVN"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2114023/000104617926000457/0001046179-26-000457-index.htm",
-    "published_iso": "2026-07-23T10:16:09+00:00",
-    "time_ago": "1h ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1752359/000174612926000034/0001746129-26-000034-index.htm",
+    "published_iso": "2026-07-23T13:03:02+00:00",
+    "time_ago": "just now"
   },
   {
-    "id": "fbb9b398d342",
+    "id": "fbc28a4ca20c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Estes Jason E exercised options for 1,250 shares of Bank7 Corp. (BSVN) \u00b7 $14.31/share \u00b7 $17,888 total \u00b7 Jul 23 ($265,556 across all blocks)",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "BSVN"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1752262/000174612926000032/0001746129-26-000032-index.htm",
+    "published_iso": "2026-07-23T13:01:25+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "d5e0fc19d6b3",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -74,16 +54,77 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Scalise embraces House GOP\u2019s elder statesman role amid leadership shake-up speculation. House Majority Leader Steve Scalise (R-La.) has reached his peak elder statesman era in President Trump\u2019s second term. The No. 2 House Republican has harnessed policymaking lessons from Trump\u2019s rocky first-term trifecta, providing i",
+    "severity": "critical",
+    "content": "To end the wars in Ukraine and Iran, starve Russia's gas pumps. Sanctioning Russia\u2019s gasoline imports could lead to peace in Ukraine \u2014 and Iran",
     "tags": [
-      "Taxes"
+      "Trade",
+      "Sanctions"
     ],
-    "tickers": [],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/5984168-steve-scalise-trump-gop-leadership/",
-    "published_iso": "2026-07-23T10:00:00+00:00",
+    "url": "https://thehill.com/opinion/international/5983456-sanction-russia-energy-imports/",
+    "published_iso": "2026-07-23T12:30:00+00:00",
+    "time_ago": "33m ago"
+  },
+  {
+    "id": "8bf63a302a83",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "critical",
+    "content": "Democratic lawmakers propose bank funded by China tariffs to boost US manufacturing | House of Representatives | The Guardian  theguardian.com/us-news/2026\u2026  \n \n Link  \n \n \n \n Democratic lawmakers propose bank funded by China tariffs to boost US manufacturing \n \n Exclusive: Ro Khanna says \u2018reindustrialization\u2019 effort w",
+    "tags": [
+      "Trade",
+      "China",
+      "Banking",
+      "Regulation"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/RoKhanna/status/2080267530149499188#m",
+    "published_iso": "2026-07-23T12:23:23+00:00",
+    "time_ago": "40m ago"
+  },
+  {
+    "id": "d6956cfe852c",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Houthis say 2 Saudi oil tankers attacked in Red Sea. Houthi rebels in Yemen said Thursday they struck a pair of Saudi Arabian oil tankers in the Red Sea, the first known attack since the group announced a blockade of Saudi ships attempting to go through the Bab el-Mandeb Strait earlier this week.\u00a0 The Houthis said they",
+    "tags": [
+      "Energy",
+      "Taxes"
+    ],
+    "tickers": [
+      "XOM",
+      "CVX",
+      "COP",
+      "OXY"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/international/5985088-yemen-houthis-red-sea-oil-tankers-saudi-arabia-iran-war/",
+    "published_iso": "2026-07-23T11:54:12+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -112,7 +153,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14943/international-traffic-in-arms-regulations-usml-category-i-firearm-suppressors",
     "published_iso": "2026-07-23T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "1e818752ef4e",
@@ -134,7 +175,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14942/implementation-of-ear-export-controls-on-silencers-mufflers-and-sound-suppressors-and-other-firearms",
     "published_iso": "2026-07-23T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "5bb03d5cfd60",
@@ -155,7 +196,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14934/removal-of-obsolete-or-unnecessary-requirements",
     "published_iso": "2026-07-23T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "2ab17a63c74a",
@@ -177,7 +218,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14910/revocation-of-the-color-additive-listing-for-use-of-orange-b-on-casings-or-surfaces-of-frankfurters",
     "published_iso": "2026-07-23T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "bab948bf8ad6",
@@ -196,7 +237,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14895/safety-zone-lake-st-clair-new-baltimore-mi",
     "published_iso": "2026-07-23T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "3226a1eeaa7c",
@@ -215,7 +256,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14894/safety-zone-lake-erie-avon-lake-oh",
     "published_iso": "2026-07-23T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "29a0e2017476",
@@ -236,7 +277,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14893/rescinding-guidelines-for-eliminating-discrimination-and-denial-of-services-on-the-basis-of-race",
     "published_iso": "2026-07-23T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "59efebbeb249",
@@ -255,7 +296,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s206?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-22T21:34:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "662ddb57c585",
@@ -281,7 +322,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2080037920925241521#m",
     "published_iso": "2026-07-22T21:11:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "41efa51b6d30",
@@ -307,7 +348,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/Jim_Jordan/status/2080036783937503234#m",
     "published_iso": "2026-07-22T21:06:29+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "46437919aedc",
@@ -326,7 +367,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h281?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-22T20:57:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "8ca3fd6786f3",
@@ -345,7 +386,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h280?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-22T20:51:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "d70cfd8da34a",
@@ -364,7 +405,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h279?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-22T20:43:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "cba0dff83e38",
@@ -392,7 +433,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2080030667317117053#m",
     "published_iso": "2026-07-22T20:42:10+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "f8b3b8314f35",
@@ -418,7 +459,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h278?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-22T20:37:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "864d0b68c766",
@@ -444,7 +485,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h277?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-22T20:31:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "2ce280f99baa",
@@ -468,7 +509,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/GunnelsWarren/status/2080026639488946493#m",
     "published_iso": "2026-07-22T20:26:10+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "5d84d4259771",
@@ -487,7 +528,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h276?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-22T20:22:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "6d2d0ff6b845",
@@ -506,7 +547,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h275?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-22T20:19:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "de38f5381391",
@@ -527,7 +568,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "b00a45c1c912",
@@ -553,7 +594,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mrav6c23r22a",
     "published_iso": "2026-07-22T17:51:03.949000+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "98b90fd8352a",
@@ -582,7 +623,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-releases-updated-clarity-act-text/",
     "published_iso": "2026-07-22T16:49:25+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -604,7 +645,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "e3b0e46a9d9a",
@@ -866,6 +907,29 @@
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/american-farmers-loggers-and-industry-leaders-applaud-president-trumps-bold-tariff-action-regarding",
     "published_iso": "2026-07-19T20:23:57+00:00",
     "time_ago": "3d ago"
+  },
+  {
+    "id": "a911872ff396",
+    "politician": "Rep. Patrick McHenry",
+    "initials": "PM",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#2d1e5f",
+      "fg": "#c084fc"
+    },
+    "severity": "critical",
+    "content": "The years of work put into sound policy have created impact in the first year since enactment. Lots more to come! \n \n \n Financial Services GOP (@FinancialCmte) \n \n One year ago today, the GENIUS Act was signed into law, delivering the first comprehensive federal framework for payment stablecoins and marking a historic ",
+    "tags": [
+      "Crypto",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/PatrickMcHenry/status/2078478053945053615#m",
+    "published_iso": "2026-07-18T13:52:38+00:00",
+    "time_ago": "4d ago"
   },
   {
     "id": "cfac33502ddb",
