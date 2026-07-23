@@ -1,24 +1,47 @@
 [
   {
-    "id": "9de87f6608b2",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "80cd7e1d0220",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
     },
-    "severity": "medium",
-    "content": "Homicide levels trending lowest in more than a century: Research. The U.S. is on track to reach a new historic low in the annual homicide rate in 2026, according to a new report released on Thursday.  The rate of reported homicides in the first half of 2026 was 18 percent lower than it was during the same period in 202",
-    "tags": [
-      "Taxes"
-    ],
+    "severity": "high",
+    "content": "H.R. 8884: Removing Barriers to Work for Disabled Americans Act. Vote: Passed 232/188",
+    "tags": [],
     "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/state-watch/5985887-ccj-report-crime-trends-2026/",
-    "published_iso": "2026-07-23T15:06:13+00:00",
-    "time_ago": "14m ago"
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h283?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-07-23T14:32:00+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "0a6e300d2b4f",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "critical",
+    "content": "H.Con.Res. 89: Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.. Vote: Passed 214/208",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h282?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-07-23T14:24:00+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "62192a2930d0",
@@ -41,7 +64,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ustr-announces-fiscal-year-2027-wto-tariff-rate-quota-allocations-raw-cane-sugar-refined-sugar-and",
     "published_iso": "2026-07-23T14:23:41+00:00",
-    "time_ago": "56m ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "0a5554bfc17b",
@@ -65,7 +88,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenLummis/status/2080278894997807159#m",
     "published_iso": "2026-07-23T13:08:32+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "8bf63a302a83",
@@ -94,7 +117,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2080267530149499188#m",
     "published_iso": "2026-07-23T12:23:23+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "af706b3091e3",
@@ -122,7 +145,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14943/international-traffic-in-arms-regulations-usml-category-i-firearm-suppressors",
     "published_iso": "2026-07-23T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "1e818752ef4e",
@@ -144,7 +167,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14942/implementation-of-ear-export-controls-on-silencers-mufflers-and-sound-suppressors-and-other-firearms",
     "published_iso": "2026-07-23T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "5bb03d5cfd60",
@@ -165,7 +188,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14934/removal-of-obsolete-or-unnecessary-requirements",
     "published_iso": "2026-07-23T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "2ab17a63c74a",
@@ -187,7 +210,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14910/revocation-of-the-color-additive-listing-for-use-of-orange-b-on-casings-or-surfaces-of-frankfurters",
     "published_iso": "2026-07-23T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "bab948bf8ad6",
@@ -206,7 +229,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14895/safety-zone-lake-st-clair-new-baltimore-mi",
     "published_iso": "2026-07-23T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "3226a1eeaa7c",
@@ -225,7 +248,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14894/safety-zone-lake-erie-avon-lake-oh",
     "published_iso": "2026-07-23T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "29a0e2017476",
@@ -246,7 +269,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14893/rescinding-guidelines-for-eliminating-discrimination-and-denial-of-services-on-the-basis-of-race",
     "published_iso": "2026-07-23T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "59efebbeb249",
@@ -265,7 +288,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s206?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-22T21:34:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "662ddb57c585",
@@ -291,7 +314,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2080037920925241521#m",
     "published_iso": "2026-07-22T21:11:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "41efa51b6d30",
@@ -317,7 +340,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/Jim_Jordan/status/2080036783937503234#m",
     "published_iso": "2026-07-22T21:06:29+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "46437919aedc",
@@ -336,7 +359,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h281?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-22T20:57:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "8ca3fd6786f3",
@@ -355,7 +378,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h280?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-22T20:51:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "d70cfd8da34a",
@@ -374,7 +397,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h279?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-22T20:43:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "cba0dff83e38",
@@ -402,7 +425,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2080030667317117053#m",
     "published_iso": "2026-07-22T20:42:10+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "f8b3b8314f35",
@@ -428,7 +451,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h278?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-22T20:37:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "864d0b68c766",
@@ -454,69 +477,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h277?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-22T20:31:00+00:00",
-    "time_ago": "18h ago"
-  },
-  {
-    "id": "2ce280f99baa",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "The problem isn't the single mom getting $6 a day in food stamps. \n \nThe problem is Jeff Bezos, worth $269 billion, more than doubled his wealth since 2020 while paying wages so low the number of Amazon workers on food stamps &amp; Medicaid nearly tripled. \n \nBezos is the welfare queen.",
-    "tags": [
-      "Big Tech",
-      "Regulation"
-    ],
-    "tickers": [
-      "AMZN"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/GunnelsWarren/status/2080026639488946493#m",
-    "published_iso": "2026-07-22T20:26:10+00:00",
-    "time_ago": "18h ago"
-  },
-  {
-    "id": "5d84d4259771",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On Agreeing to the Amendment: Amendment 25 to H R 8800. Vote: Failed 175/254",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h276?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-07-22T20:22:00+00:00",
-    "time_ago": "18h ago"
-  },
-  {
-    "id": "6d2d0ff6b845",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On Agreeing to the Amendment: Amendment 20 to H R 8800. Vote: Agreed to 232/199",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h275?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-07-22T20:19:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "de38f5381391",
@@ -537,7 +498,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "b00a45c1c912",
@@ -563,7 +524,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mrav6c23r22a",
     "published_iso": "2026-07-22T17:51:03.949000+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "98b90fd8352a",
@@ -592,7 +553,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-releases-updated-clarity-act-text/",
     "published_iso": "2026-07-22T16:49:25+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -705,7 +666,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-announces-trade-deal-with-jordan/",
     "published_iso": "2026-07-21T15:56:03+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "a470ce124dce",
@@ -822,30 +783,6 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-launches-the-reading-room-a-public-archive-of-the-committees-ongoing-covid-19-origins-investigations/",
     "published_iso": "2026-07-20T20:42:12+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "46c3d5b5417b",
-    "politician": "U.S. Trade Rep.",
-    "initials": "USTR",
-    "role": "Office of the U.S. Trade Representative",
-    "color": {
-      "bg": "#1a0a1a",
-      "fg": "#d8b4fe"
-    },
-    "severity": "critical",
-    "content": "Ambassador Greer Joins The Daily with The New York Times\u2019 Ana Swanson. Ambassador Greer Joins The Daily with The New York Times\u2019 Ana Swanson \n  pbrouillette  \n  Mon, 07/20/2026 - 16:34 \n \n\n               WASHINGTON  \u2014 This week, Ambassador Jamieson Greer joined  The Daily  podcast with  The New York Times  reporter Ana",
-    "tags": [
-      "Trade",
-      "China",
-      "Agriculture",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "ustr",
-    "platform": "USTR",
-    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ambassador-greer-joins-daily-new-york-times-ana-swanson-0",
-    "published_iso": "2026-07-20T20:34:43+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -1146,7 +1083,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-the-legalizing-premium-health-care-act/",
     "published_iso": "2026-05-20T15:26:37+00:00",
-    "time_ago": "63d ago"
+    "time_ago": "64d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -1167,7 +1104,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "72d ago"
+    "time_ago": "73d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1343,6 +1280,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "218d ago"
+    "time_ago": "219d ago"
   }
 ]
