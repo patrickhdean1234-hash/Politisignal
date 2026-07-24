@@ -1,32 +1,27 @@
 [
   {
-    "id": "bd532524b75e",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "4695aa186d9d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
     },
-    "severity": "critical",
-    "content": "The hidden strategy behind Trump's latest Canada tariffs. The administration has quietly changed the legal and political theory of the U.S.-Canada trade war",
-    "tags": [
-      "Trade"
-    ],
+    "severity": "medium",
+    "content": "Cramer Grant received 2,678,571 shares of Bravo Multinational Inc. (BRVO) \u00b7 $0.03/share \u00b7 $90,000 total \u00b7 Jul 24",
+    "tags": [],
     "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
+      "BRVO"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/international/5986823-us-canada-trade-war-discrimination/",
-    "published_iso": "2026-07-24T15:00:00+00:00",
-    "time_ago": "56m ago"
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1980062/000109181826000090/0001091818-26-000090-index.htm",
+    "published_iso": "2026-07-24T17:21:03+00:00",
+    "time_ago": "6m ago"
   },
   {
-    "id": "44b0bc69a709",
+    "id": "d8daf330fc1b",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -35,15 +30,46 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Musk on his involvement in politics: 'I got carried away'. Tech mogul Elon Musk reflected on his brief venture into politics in a new interview released Thursday, suggesting he \"got carried away.\" \"I think I got a little too involved in politics,\" the Tesla and SpaceX CEO told The Economist. \"I got carried away frankly",
-    "tags": [],
+    "content": "Romania shoots down unidentified drone breaching its airspace. A Romanian fighter jet shot down a drone that entered the country\u2019s airspace Friday, marking the first time the NATO state has done so. The drone was detected through a radar surveillance system while it was traveling 20 km east of Sulina, a town bordering ",
+    "tags": [
+      "Defense",
+      "Taxes",
+      "Sanctions"
+    ],
     "tickers": [
-      "TSLA"
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/5988248-doge-initiative-shut-down/",
-    "published_iso": "2026-07-24T14:22:36+00:00",
+    "url": "https://thehill.com/policy/international/5988592-romanian-army-investigates-iran-design-drone/",
+    "published_iso": "2026-07-24T16:36:18+00:00",
+    "time_ago": "51m ago"
+  },
+  {
+    "id": "83174120ef9d",
+    "politician": "Sen. Bernie Sanders",
+    "initials": "BS",
+    "role": "Senate HELP Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#818cf8"
+    },
+    "severity": "medium",
+    "content": "The number of Amazon workers relying on food stamps and Medicaid nearly TRIPLED between 2020 and 2025. \n \nJeff Bezos is worth $257 billion and has a $500 million yacht. \n \nHe can afford to pay his workers a living wage.",
+    "tags": [
+      "Big Tech",
+      "Regulation"
+    ],
+    "tickers": [
+      "AMZN"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/BernieSanders/status/2080691033772319017#m",
+    "published_iso": "2026-07-24T16:26:14+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -65,7 +91,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15062/amendment-of-class-d-airspace-and-class-e-airspace-over-westfield-ma",
     "published_iso": "2026-07-24T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "ff63cf7e6748",
@@ -91,7 +117,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15027/loan-performance-categories-and-financial-reporting",
     "published_iso": "2026-07-24T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "e99530b1a57c",
@@ -110,7 +136,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15025/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary",
     "published_iso": "2026-07-24T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "e839f5675446",
@@ -131,7 +157,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15019/rescinding-portions-of-the-department-of-education-title-vi-regulations-to-align-with-the-statutory",
     "published_iso": "2026-07-24T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "603ec0bec5a4",
@@ -152,7 +178,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15009/final-waivers-and-extensions-of-the-project-periods-with-funding-for-the-native-american-career-and",
     "published_iso": "2026-07-24T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "e4e0ad7ee13a",
@@ -174,7 +200,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15008/revising-qualified-domestic-trust-regulations-under-section-2056a-to-update-outdated-references-and",
     "published_iso": "2026-07-24T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "38de3b9be964",
@@ -193,7 +219,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15006/airworthiness-directives-textron-aviation-inc-airplanes",
     "published_iso": "2026-07-24T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "20ba80d8a81c",
@@ -212,7 +238,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15005/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-ocean-perch-in-the-west-yakutat-district",
     "published_iso": "2026-07-24T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "c72af97df8e5",
@@ -231,7 +257,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/video/2026/07/23/rob-bonta-on-blocking-the-paramount-merger-cnn-concerns-and-trumps-doj-2123052",
     "published_iso": "2026-07-24T03:59:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "cd25a25e08d7",
@@ -254,7 +280,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/fact-sheets/2026/july/fact-sheet-ustr-section-301-action-response-failure-60-economies-ban-imports-produced-forced-labor",
     "published_iso": "2026-07-23T20:08:17+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "1bd1105eb121",
@@ -277,7 +303,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2080379379029299385#m",
     "published_iso": "2026-07-23T19:47:50+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "5174f8ae4985",
@@ -301,7 +327,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2080379377766793460#m",
     "published_iso": "2026-07-23T19:47:49+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "62895d7943e3",
@@ -323,7 +349,26 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ustr-takes-action-forced-labor-section-301-investigations",
     "published_iso": "2026-07-23T19:38:36+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
+  },
+  {
+    "id": "f5ac4efd58e3",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On the Nomination PN999-5: Antonio M. Pozos, of Pennsylvania, to be United States District Judge for the Eastern District of Pennsylvania. Vote: Nomination Confirmed 49/44",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s209?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-07-23T17:50:00+00:00",
+    "time_ago": "23h ago"
   },
   {
     "id": "6e187954d9ee",
@@ -352,7 +397,89 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
+  },
+  {
+    "id": "c54f398f1a33",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On the Nomination PN999-6: Daniel Mack Traynor, of North Dakota, to be United States Circuit Judge for the Eighth Circuit. Vote: Nomination Confirmed 48/47",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s208?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-07-23T16:32:00+00:00",
+    "time_ago": "1d ago"
+  },
+  {
+    "id": "d7424b16be7a",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On the Motion to Discharge S.J.Res. 180. Vote: Motion to Discharge Rejected 47/49",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s207?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-07-23T15:51:00+00:00",
+    "time_ago": "1d ago"
+  },
+  {
+    "id": "80cd7e1d0220",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "H.R. 8884: Removing Barriers to Work for Disabled Americans Act. Vote: Passed 232/188",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h283?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-07-23T14:32:00+00:00",
+    "time_ago": "1d ago"
+  },
+  {
+    "id": "0a6e300d2b4f",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "critical",
+    "content": "H.Con.Res. 89: Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.. Vote: Passed 214/208",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h282?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-07-23T14:24:00+00:00",
+    "time_ago": "1d ago"
   },
   {
     "id": "62192a2930d0",
@@ -375,6 +502,63 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/july/ustr-announces-fiscal-year-2027-wto-tariff-rate-quota-allocations-raw-cane-sugar-refined-sugar-and",
     "published_iso": "2026-07-23T14:23:41+00:00",
+    "time_ago": "1d ago"
+  },
+  {
+    "id": "59efebbeb249",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "Motion to Invoke Cloture: Daniel Mack Traynor to be U.S. Circuit Judge for the Eighth Circuit: Daniel Mack Traynor, of North Dakota, to be United States Circuit Judge for the Eighth Circuit. Vote: Cloture Motion Agreed to 51/46",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s206?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-07-22T21:34:00+00:00",
+    "time_ago": "1d ago"
+  },
+  {
+    "id": "46437919aedc",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "H.Con.Res. 113: Establishing the congressional budget for the United States Government for fiscal year 2027 and setting forth the appropriate budgetary levels for fiscal years 2028 through 2036.. Vote: Passed 216/214",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h281?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-07-22T20:57:00+00:00",
+    "time_ago": "1d ago"
+  },
+  {
+    "id": "8ca3fd6786f3",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "H.R. 7008: Stop Insider Trading Act. Vote: Passed 232/198",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h280?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-07-22T20:51:00+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -453,7 +637,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-releases-updated-clarity-act-text/",
     "published_iso": "2026-07-22T16:49:25+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -1039,7 +1223,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "182d ago"
+    "time_ago": "183d ago"
   },
   {
     "id": "d3ca74df7f0f",
