@@ -1,6 +1,6 @@
 [
   {
-    "id": "9bbe0bae3360",
+    "id": "367dfaf09710",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,62 +9,79 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Pursell A Wade exercised options for 16,917 shares of Sm Energy Co (SM) \u00b7 Jul 24 ($193,218 across all blocks)",
-    "tags": [
-      "Energy"
-    ],
-    "tickers": [
-      "SM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1041812/000089353826000114/0000893538-26-000114-index.htm",
-    "published_iso": "2026-07-24T20:19:48+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "52acb9239c4c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Lebeck James Barker exercised options for 7,520 shares of Sm Energy Co (SM) \u00b7 Jul 24 ($85,895 across all blocks)",
-    "tags": [
-      "Energy"
-    ],
-    "tickers": [
-      "SM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1963802/000089353826000113/0000893538-26-000113-index.htm",
-    "published_iso": "2026-07-24T20:19:42+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "14d5d816c5e2",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Lee James Ci exercised options for 1,237 shares of Seagate Technology Holdings Plc (STX) \u00b7 Jul 24 ($490,741 across all blocks)",
+    "content": "Eisen Anthony Mathew sold 6,000 shares of Block, Inc. (BSQKZ) \u00b7 $79.10/share \u00b7 $474,600 total \u00b7 Jul 24 ($1,400,700 across all blocks)",
     "tags": [],
     "tickers": [
-      "STX"
+      "BSQKZ"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1773423/000113778926000150/0001137789-26-000150-index.htm",
-    "published_iso": "2026-07-24T20:18:35+00:00",
-    "time_ago": "3m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1933928/000162828026049647/0001628280-26-049647-index.htm",
+    "published_iso": "2026-07-24T21:26:31+00:00",
+    "time_ago": "7m ago"
+  },
+  {
+    "id": "e399c81eb4b6",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Dulac Edward J Iii sold 8,111 shares of Intellia Therapeutics, Inc. (NTLA) \u00b7 $11.25/share \u00b7 $91,249 total \u00b7 Jul 24",
+    "tags": [],
+    "tickers": [
+      "NTLA"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1821530/000119312526316279/0001193125-26-316279-index.htm",
+    "published_iso": "2026-07-24T21:26:12+00:00",
+    "time_ago": "7m ago"
+  },
+  {
+    "id": "bca04205551a",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Carney: Canada ready to respond if new Trump tariffs enacted. Canada\u2019s Prime Minister Mark Carney said Thursday during a press conference that Canada is prepared to respond to President Trump\u2019s threat of 50 percent tariffs on Canadian goods if intensified negotiations for a comprehensive trade agreement fall through. \u201c",
+    "tags": [
+      "Trade"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/international/5989460-carney-canada-ready-to-respond-trump-tariffs/",
+    "published_iso": "2026-07-24T21:06:44+00:00",
+    "time_ago": "26m ago"
+  },
+  {
+    "id": "8da245032eeb",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Paramount agrees to hold off on Warner Bros. merger. Paramount said on Friday that it has agreed to delay the company\u2019s $111 billion acquisition of Warner Bros. Discovery amid a pending lawsuit from twelve state attorneys general to block this merger. The company and the attorneys general said in a court filing that bo",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/media/5989450-paramount-warner-merger-delayed/",
+    "published_iso": "2026-07-24T20:58:35+00:00",
+    "time_ago": "34m ago"
   },
   {
     "id": "6d927f3b963e",
@@ -84,51 +101,8 @@
     "tickers": [],
     "source": "whitehouse",
     "platform": "White House",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/restoring-trust-in-the-smithsonian-institution/",
-    "published_iso": "2026-07-24T20:09:51+00:00",
-    "time_ago": "12m ago"
-  },
-  {
-    "id": "8ffec3b77d43",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "low",
-    "content": "Watch live: Trump takes center stage at White House Correspondents' dinner. President Trump on Friday evening will deliver remarks at the do-over White House Correspondents' Association (WHCA) dinner, three months after the first event was disrupted by a gunman looking to target Trump and his administration officials. ",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/video-clips/5988934-watch-live-donald-trump-speech-white-house-correspondents-dinner/",
-    "published_iso": "2026-07-24T20:00:00+00:00",
-    "time_ago": "21m ago"
-  },
-  {
-    "id": "74eec00d3bc8",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Trump\u2019s new tariffs hit with lawsuit. President Trump\u2019s new tariffs were hit with a legal challenge Friday from two small businesses who are represented by part of the legal team that toppled Trump\u2019s earlier tariffs at the Supreme Court.\u00a0 The new surcharge, between 10 percent and 12.5 percent on goods imported from 60 ",
-    "tags": [
-      "Trade",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/5989133-businesses-challenge-trump-tariffs/",
-    "published_iso": "2026-07-24T19:19:11+00:00",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/restoring-trust-in-the-smithsonian-institution-e061/",
+    "published_iso": "2026-07-24T20:19:11+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -150,29 +124,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-restores-trust-in-the-smithsonian-institution/",
     "published_iso": "2026-07-24T19:11:24+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "a980ae1dc4da",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Live updates: Trump's new tariffs set to take effect; DNC panel picks SC to kick off 2028 primaries. A panel of the Democratic National Committee (DNC) on Friday chose South Carolina to lead the 2028 primary calendar. Nevada came in second, and New Hampshire, which had long served as the first-in-the-nation primary sta",
-    "tags": [
-      "Trade",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5986971-live-updates-trump-iran-tariffs-white-house-correspondents-dinner/",
-    "published_iso": "2026-07-24T18:56:38+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "06382d3ebedd",
@@ -193,7 +145,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/07/24/democrats-dnc-2028-calendar-south-carolina-01011481",
     "published_iso": "2026-07-24T17:26:40+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "83174120ef9d",
@@ -217,7 +169,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2080691033772319017#m",
     "published_iso": "2026-07-24T16:26:14+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "fc79c8e574e5",
@@ -238,7 +190,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15062/amendment-of-class-d-airspace-and-class-e-airspace-over-westfield-ma",
     "published_iso": "2026-07-24T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "ff63cf7e6748",
@@ -264,7 +216,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15027/loan-performance-categories-and-financial-reporting",
     "published_iso": "2026-07-24T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "e99530b1a57c",
@@ -283,7 +235,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15025/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary",
     "published_iso": "2026-07-24T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "e839f5675446",
@@ -304,7 +256,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15019/rescinding-portions-of-the-department-of-education-title-vi-regulations-to-align-with-the-statutory",
     "published_iso": "2026-07-24T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "603ec0bec5a4",
@@ -325,7 +277,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15009/final-waivers-and-extensions-of-the-project-periods-with-funding-for-the-native-american-career-and",
     "published_iso": "2026-07-24T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "e4e0ad7ee13a",
@@ -347,7 +299,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15008/revising-qualified-domestic-trust-regulations-under-section-2056a-to-update-outdated-references-and",
     "published_iso": "2026-07-24T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "38de3b9be964",
@@ -366,7 +318,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15006/airworthiness-directives-textron-aviation-inc-airplanes",
     "published_iso": "2026-07-24T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "20ba80d8a81c",
@@ -385,7 +337,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/24/2026-15005/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-ocean-perch-in-the-west-yakutat-district",
     "published_iso": "2026-07-24T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "c72af97df8e5",
@@ -404,7 +356,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/video/2026/07/23/rob-bonta-on-blocking-the-paramount-merger-cnn-concerns-and-trumps-doj-2123052",
     "published_iso": "2026-07-24T03:59:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "cd25a25e08d7",
@@ -664,7 +616,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h281?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-22T20:57:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "8ca3fd6786f3",
@@ -683,7 +635,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h280?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-22T20:51:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "de38f5381391",
@@ -798,7 +750,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "de6fa078b8d5",
@@ -823,7 +775,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mr46dhyjrc2r",
     "published_iso": "2026-07-20T20:51:42.946000+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "00574dc3c125",
@@ -845,7 +797,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-launches-the-reading-room-a-public-archive-of-the-committees-ongoing-covid-19-origins-investigations/",
     "published_iso": "2026-07-20T20:42:12+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "a911872ff396",
@@ -1050,7 +1002,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/usembassyve/status/2073873845241413988#m",
     "published_iso": "2026-07-05T20:57:10+00:00",
-    "time_ago": "18d ago"
+    "time_ago": "19d ago"
   },
   {
     "id": "659d472bb278",
