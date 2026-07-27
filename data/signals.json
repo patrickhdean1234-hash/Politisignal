@@ -1,5 +1,66 @@
 [
   {
+    "id": "1e57164b1766",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Lamb Jason D exercised derivative for 50,000 shares of Lgl Group Inc (LGL) \u00b7 $6.90/share \u00b7 $345,000 total \u00b7 Jul 27",
+    "tags": [],
+    "tickers": [
+      "LGL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2107035/000143774926024530/0001437749-26-024530-index.htm",
+    "published_iso": "2026-07-27T20:55:25+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "7a63abb3c065",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Huvane Patrick exercised derivative for 8,621 shares of Lgl Group Inc (LGL) \u00b7 $6.90/share \u00b7 $59,485 total \u00b7 Jul 27 ($66,385 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "LGL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1568399/000143774926024529/0001437749-26-024529-index.htm",
+    "published_iso": "2026-07-27T20:55:15+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "c3369dd77c4a",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "DOJ asks Supreme Court to restore Trump's mail-in voting executive order. The Justice Department asked the Supreme Court on Monday to lift a judge\u2019s block on President Trump\u2019s executive order that seeks to restrict mail-in voting, calling the halt premature.\u00a0 Solicitor General D. John Sauer said the courts have no powe",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/5992732-supreme-court-mail-in-voting-trump-justice-department/",
+    "published_iso": "2026-07-27T20:05:36+00:00",
+    "time_ago": "51m ago"
+  },
+  {
     "id": "d561278aac4b",
     "politician": "The Hill",
     "initials": "TH",
@@ -18,34 +79,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/administration/5991366-trump-pulls-iran-strikes/",
     "published_iso": "2026-07-27T19:37:13+00:00",
-    "time_ago": "13m ago"
-  },
-  {
-    "id": "9a22286eb550",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "All senators invited to Zelensky meeting as Congress weighs Russia sanctions bill. All 100 senators have been invited to a meeting with Ukrainian President Volodymyr Zelensky Tuesday evening at 6 p.m. in the U.S. Capitol, multiple sources confirmed to The Hill. The meeting was originally reported by Punchbowl News. The",
-    "tags": [
-      "Defense",
-      "Regulation",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5992588-all-senators-to-meet-with-zelensky-as-congress-weighs-russia-sanctions-bill/",
-    "published_iso": "2026-07-27T19:10:10+00:00",
-    "time_ago": "40m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "f008866a19f1",
@@ -71,7 +105,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mrnhg6o7vk2n",
     "published_iso": "2026-07-27T17:49:33.062000+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "dedcbfcd725a",
@@ -97,7 +131,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2081794891718267340#m",
     "published_iso": "2026-07-27T17:32:34+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "0c1e9b550c5b",
@@ -118,7 +152,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/07/first-lady-melania-trump-announces-opening-of-christmas-volunteer-performer-applications-be30/",
     "published_iso": "2026-07-27T13:04:29+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "91f2e1be9ec4",
@@ -140,7 +174,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15123/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security",
     "published_iso": "2026-07-27T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "985b0815d826",
@@ -161,7 +195,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15112/updating-website-and-contact-information-and-authorizations-for-payments-for-legal-services",
     "published_iso": "2026-07-27T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "2599850e20ec",
@@ -182,7 +216,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15093/pacific-halibut-fisheries-of-the-west-coast-2026-catch-sharing-plan-inseason-action",
     "published_iso": "2026-07-27T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "0df001f7bf5e",
@@ -207,7 +241,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15075/medical-devices-general-hospital-and-personal-use-devices-classification-of-the-active-noise",
     "published_iso": "2026-07-27T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "0d31a5ecbb31",
@@ -228,33 +262,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15074/medical-devices-gastroenterology-urology-devices-classification-of-the-non-medicated-topical",
     "published_iso": "2026-07-27T04:00:00+00:00",
-    "time_ago": "15h ago"
-  },
-  {
-    "id": "05119c75fe57",
-    "politician": "Sen. Cynthia Lummis",
-    "initials": "CL",
-    "role": "Senate Banking Subcommittee (Crypto)",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#c4b5fd"
-    },
-    "severity": "critical",
-    "content": "North Korea's Lazarus Group and other bad actors thrive on gaps in our financial rules. The Clarity Act gives Treasury new sanctions authority and a safe harbor for companies to freeze suspicious transactions before the money moves.",
-    "tags": [
-      "Regulation",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/SenLummis/status/2081463313045815759#m",
-    "published_iso": "2026-07-26T19:35:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "9525866ba959",
@@ -305,7 +313,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2081107458638967016#m",
     "published_iso": "2026-07-25T20:00:57+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "ee26b67a91aa",
@@ -380,7 +388,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/07/restoring-trust-in-the-smithsonian-institution-e061/",
     "published_iso": "2026-07-24T20:19:11+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "0ab5c7d98783",
@@ -530,7 +538,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/fact-sheets/2026/july/fact-sheet-ustr-section-301-action-response-failure-60-economies-ban-imports-produced-forced-labor",
     "published_iso": "2026-07-23T20:08:17+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "62895d7943e3",
@@ -762,7 +770,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h280?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-22T20:51:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "de38f5381391",
@@ -856,7 +864,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "de6fa078b8d5",
@@ -881,7 +889,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mr46dhyjrc2r",
     "published_iso": "2026-07-20T20:51:42.946000+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "00574dc3c125",
@@ -903,7 +911,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-launches-the-reading-room-a-public-archive-of-the-committees-ongoing-covid-19-origins-investigations/",
     "published_iso": "2026-07-20T20:42:12+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "a911872ff396",
