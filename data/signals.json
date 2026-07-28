@@ -1,6 +1,30 @@
 [
   {
-    "id": "1bbb18ba5ded",
+    "id": "c205e84cd2e7",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Boeing takes $280 million hit on troubled Air Force One program. Boeing\u2019s contract to replace two aging Air Force One planes, a program that is now four years behind schedule, lost the defense contractor $280 million in the second quarter of 2026, according to its latest earnings report released on Tuesday. The company",
+    "tags": [
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [
+      "BA"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/5995418-boeing-airforce-one-program-losses/",
+    "published_iso": "2026-07-28T22:12:17+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "8e2eef4372c8",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,21 +33,43 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Butcher Samantha withheld (tax) 62,753 shares of Abacus Global Management, Inc. (ABXL) \u00b7 $11.86/share \u00b7 $744,251 total \u00b7 Jul 28",
+    "content": "Saba Capital Management, L.P. sold 46,387 shares of Blackrock Esg Capital Allocation Term Trust (ECAT) \u00b7 $15.13/share \u00b7 $701,835 total \u00b7 Jul 28 ($2,998,480 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "ECAT",
+      "BLK"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1864843/000151028126000250/0001510281-26-000250-index.htm",
+    "published_iso": "2026-07-28T22:00:10+00:00",
+    "time_ago": "16m ago"
+  },
+  {
+    "id": "7df992901933",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hirsberg Josh sold 12,777 shares of Boyd Gaming Corp (BYD) \u00b7 $89.76/share \u00b7 $1,146,864 total \u00b7 Jul 28",
     "tags": [
       "Taxes"
     ],
     "tickers": [
-      "ABXL"
+      "BYD"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2130442/000162828026050232/0001628280-26-050232-index.htm",
-    "published_iso": "2026-07-28T21:06:09+00:00",
-    "time_ago": "4m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1421390/000090655326000064/0000906553-26-000064-index.htm",
+    "published_iso": "2026-07-28T21:59:06+00:00",
+    "time_ago": "17m ago"
   },
   {
-    "id": "a77acdbd3fce",
+    "id": "eef31ea4d978",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -32,35 +78,35 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "O Brien Raymond V Iii bought 20,000 shares of Cvb Financial Corp (CVBF) \u00b7 $22.77/share \u00b7 $455,300 total \u00b7 Jul 28",
-    "tags": [],
-    "tickers": [
-      "CVBF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1558716/000035464726000110/0000354647-26-000110-index.htm",
-    "published_iso": "2026-07-28T21:05:55+00:00",
-    "time_ago": "4m ago"
-  },
-  {
-    "id": "b72614d4a894",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Noble Environmental Investments, Llc bought 1,274,194 shares of 5C Lending Partners Corp. \u00b7 $24.29/share \u00b7 $30,950,172 total \u00b7 Jul 28",
+    "content": "Bavin Tom bought 10,191 shares of Crestline Lending Solutions, Llc \u00b7 $19.63/share \u00b7 $200,046 total \u00b7 Jul 28",
     "tags": [],
     "tickers": [],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1998387/000119312526321223/0001193125-26-321223-index.htm",
-    "published_iso": "2026-07-28T21:05:43+00:00",
-    "time_ago": "4m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2093017/000162828026050262/0001628280-26-050262-index.htm",
+    "published_iso": "2026-07-28T21:53:06+00:00",
+    "time_ago": "23m ago"
+  },
+  {
+    "id": "2ec12eafc3e9",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Live results: Georgia holds special election for late David Scott's House seat. Voters in Georgia's 13th Congressional District are at the polls Tuesday for a special election to fill late Rep. David Scott's (D) seat. Scott passed away in April at age 80, leaving the seat in the blue stronghold open for the first time ",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/5983412-live-results-georgia-house-special-election-david-scott/",
+    "published_iso": "2026-07-28T21:00:00+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "270ecc1950c4",
@@ -72,7 +118,7 @@
       "fg": "#fbbf24"
     },
     "severity": "medium",
-    "content": "The Working Families Tax Cuts bill created Trump Accounts \u2014 to help set up America's kids up for long term financial success. \n \n7 MILLION American families have already signed up! \n \nHave you? Learn more here:  trumpaccounts.gov  \n \n Link  \n \n \n \n The American Dream Starts Now \n \n Trump Accounts provide eligible Ameri",
+    "content": "The Working Families Tax Cuts bill created Trump Accounts \u2014 to help set up America's kids up for long term financial success. \n \n7 MILLION American families have already signed up! \n \nHave you? Learn more here:  trumpaccounts.gov  \n \n \n \n The White House (@WhiteHouse) \n \n 7 MILLION American families have already signed",
     "tags": [
       "Regulation",
       "Taxes"
@@ -80,9 +126,9 @@
     "tickers": [],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "https://nitter.net/SpeakerJohnson/status/2082179704870613187#m",
+    "url": "http://nt.vern.cc/SpeakerJohnson/status/2082179704870613187#m",
     "published_iso": "2026-07-28T19:01:41+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "ad98a83c1e0e",
@@ -108,7 +154,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenLummis/status/2082157372663902672#m",
     "published_iso": "2026-07-28T17:32:56+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "5b33af17e2a8",
@@ -134,7 +180,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-45th-anniversary-of-the-martyrdom-of-father-stanley-rother/",
     "published_iso": "2026-07-28T04:30:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "fbdd48a73561",
@@ -157,7 +203,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15239/airworthiness-directives-the-boeing-company-airplanes",
     "published_iso": "2026-07-28T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "d70a68ee2928",
@@ -182,7 +228,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15230/civil-penalties-adjustment-for-2026",
     "published_iso": "2026-07-28T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "bf7ef2711da0",
@@ -204,7 +250,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15213/risk-informed-technology-inclusive-regulatory-framework-for-advanced-reactors-correction",
     "published_iso": "2026-07-28T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "ee7117bd7caa",
@@ -225,7 +271,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15212/2026-quarterly-listings-second-quarter-safety-zones-security-zones-and-special-local-regulations",
     "published_iso": "2026-07-28T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "6bf9d11e0148",
@@ -247,7 +293,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15210/rescission-of-outdated-veterans-choice-program-regulations",
     "published_iso": "2026-07-28T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "5ea1ff47aba9",
@@ -269,7 +315,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15206/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-us",
     "published_iso": "2026-07-28T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "37d96f75dbc3",
@@ -290,7 +336,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15192/perchloroethylene-pce-and-carbon-tetrachloride-ctc-regulation-under-the-toxic-substances-control-act",
     "published_iso": "2026-07-28T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "25d85353cdcf",
@@ -313,7 +359,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15191/epyrifenacil-pesticide-tolerances-correction",
     "published_iso": "2026-07-28T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "45a39b3c5dc1",
@@ -332,7 +378,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s210?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-27T21:30:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "f008866a19f1",
@@ -592,7 +638,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s206?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-22T21:34:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "46437919aedc",
@@ -773,7 +819,7 @@
     "tickers": [],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "http://nt.vern.cc/PatrickMcHenry/status/2078478053945053615#m",
+    "url": "https://nitter.net/PatrickMcHenry/status/2078478053945053615#m",
     "published_iso": "2026-07-18T13:52:38+00:00",
     "time_ago": "10d ago"
   },
@@ -1005,7 +1051,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/the-senate-page-program/",
     "published_iso": "2026-06-03T21:41:29+00:00",
-    "time_ago": "54d ago"
+    "time_ago": "55d ago"
   },
   {
     "id": "79faa09fe8f6",
