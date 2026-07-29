@@ -1,24 +1,31 @@
 [
   {
-    "id": "2b15f14ad3f4",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "149dafd375e2",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Sobelman David converted 162,163 shares of Generation Income Properties, Inc. (GIPRW) \u00b7 Jul 29",
-    "tags": [],
-    "tickers": [
-      "GIPRW"
+    "severity": "critical",
+    "content": "Trump makes new demands for Russia, Iran sanctions bill named for Graham. President Trump on Wednesday issued a new demand for lawmakers to amend a Russia sanctions bill and grant him authorities to tariff Iran, likely complicating the legislation's path forward as it heads to a vote in the House. Democrats, while larg",
+    "tags": [
+      "Trade",
+      "Regulation",
+      "Sanctions"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1804360/000089706926001562/0000897069-26-001562-index.htm",
-    "published_iso": "2026-07-29T20:26:28+00:00",
-    "time_ago": "2m ago"
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/international/5997977-trump-demands-iran-tariff-power/",
+    "published_iso": "2026-07-29T20:30:30+00:00",
+    "time_ago": "56m ago"
   },
   {
     "id": "ad63be51aaf7",
@@ -40,7 +47,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-birthday-of-alexis-de-tocqueville/",
     "published_iso": "2026-07-29T19:44:12+00:00",
-    "time_ago": "44m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "cc27b840391e",
@@ -61,7 +68,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2082546878349029434#m",
     "published_iso": "2026-07-29T19:20:42+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "db557d195d6c",
@@ -80,7 +87,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2082546879384940942#m",
     "published_iso": "2026-07-29T19:20:42+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "489537ec4221",
@@ -101,7 +108,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mrsnbn5y4c2u",
     "published_iso": "2026-07-29T19:17:41.629000+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "d8260a72eff0",
@@ -127,7 +134,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2082532191926452564#m",
     "published_iso": "2026-07-29T18:22:20+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "dcd00aa841df",
@@ -153,7 +160,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
     "published_iso": "2026-07-29T18:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "26e39b1a4e92",
@@ -175,36 +182,11 @@
       "GS",
       "XLF"
     ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mrsedooyz22c",
-    "published_iso": "2026-07-29T16:37:46.668000+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "250e08d11864",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "fortune.com/2026/07/27/iran-\u2026  \n \n Link  \n \n \n \n Trump can\u2019t stop shooting himself in the foot, as the stage looks set once again for Warsh to... \n \n \u201cAfter months of upside inflation surprises, patience is wearing thin,\u201d writes EY-Parthenon\u2019s Gregory Daco. \n  fortune.com",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
-    ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "https://nitter.net/SenWarren/status/2082504391538393580#m",
+    "url": "https://nitter.net/SenWarren/status/2082504390015946887#m",
     "published_iso": "2026-07-29T16:31:52+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "da5918328451",
@@ -231,7 +213,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2082492966409588993#m",
     "published_iso": "2026-07-29T15:46:28+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "cf5e89f15f02",
@@ -250,7 +232,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/C1-2026-13124/allocation-of-assets-in-single-employer-plans-interest-assumptions-for-valuing-benefits",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "466fb1faaea1",
@@ -269,7 +251,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15308/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "089c0ed644e4",
@@ -290,7 +272,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15303/medical-devices-radiology-devices-classification-of-the-phase-changing-fiducial-marker-for-radiation",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "cbe99a9eb90d",
@@ -309,7 +291,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15300/safety-zone-lake-ontario-olcott-ny",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "7051c674ecec",
@@ -330,7 +312,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15299/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-florida-keys-mole-skink",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "12b96e6a4729",
@@ -351,7 +333,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15298/endangered-and-threatened-wildlife-and-plants-revised-designation-of-critical-habitat-for-the",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "1d6f30a860c2",
@@ -377,7 +359,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15284/highly-erodible-land-and-wetland-conservation",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "45892c4a859b",
@@ -396,7 +378,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s212?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-28T23:14:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "b3d2bb1abf9b",
@@ -415,7 +397,33 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s211?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-28T22:21:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
+  },
+  {
+    "id": "ad98a83c1e0e",
+    "politician": "Sen. Cynthia Lummis",
+    "initials": "CL",
+    "role": "Senate Banking Subcommittee (Crypto)",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#c4b5fd"
+    },
+    "severity": "critical",
+    "content": "The Big Bank Lobby is trying to say that all of Wall Street is opposed to the Clarity Act. That's completely false.  \n \nSupporting: \n\u2705BlackRock \n\u2705Goldman Sachs \n\u2705Fidelity \n\u2705Franklin Templeton \n\u2705SoFi \n coindesk.com/policy/2026/07/\u2026  \n \n Link  \n \n \n \n Here&apos;s which Wall Street giants have backed the Clarity Act \n \n B",
+    "tags": [
+      "Crypto",
+      "Banking",
+      "Regulation"
+    ],
+    "tickers": [
+      "GS",
+      "BLK"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SenLummis/status/2082157372663902672#m",
+    "published_iso": "2026-07-28T17:32:56+00:00",
+    "time_ago": "1d ago"
   },
   {
     "id": "5b33af17e2a8",
@@ -771,7 +779,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "00574dc3c125",
@@ -793,7 +801,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-launches-the-reading-room-a-public-archive-of-the-committees-ongoing-covid-19-origins-investigations/",
     "published_iso": "2026-07-20T20:42:12+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "a911872ff396",
@@ -998,7 +1006,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/usembassyve/status/2073873845241413988#m",
     "published_iso": "2026-07-05T20:57:10+00:00",
-    "time_ago": "23d ago"
+    "time_ago": "24d ago"
   },
   {
     "id": "ddb58e0107d1",
