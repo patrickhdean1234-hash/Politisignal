@@ -1,31 +1,80 @@
 [
   {
-    "id": "9d2af4e37ee8",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "b53b7a5fbb8f",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Trump administration ending Medicare premium subsidy program. The Trump administration on Tuesday said it would move to end a Biden-era Medicare premium subsidy program, alleging it benefitted insurance companies more than enrollees.  As a result, Medicare Part D subsidies will expire at the end of the year and no long",
+    "content": "Reilly Carlonda R. received 4,772 shares of Kennametal Inc (KMT) \u00b7 Jul 29 ($0 across all blocks)",
     "tags": [
-      "Healthcare"
+      "Big Tech"
     ],
     "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
+      "KMT"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/healthcare/5996677-part-d-subsidies-expiring-2027/",
-    "published_iso": "2026-07-29T15:13:48+00:00",
-    "time_ago": "10m ago"
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1753234/000175323426000006/0001753234-26-000006-index.htm",
+    "published_iso": "2026-07-29T16:41:26+00:00",
+    "time_ago": "4m ago"
   },
   {
-    "id": "63728c96598f",
+    "id": "26e39b1a4e92",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Families deserve lower interest rates and lower costs, but Donald Trump is standing in the way.",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mrsedooyz22c",
+    "published_iso": "2026-07-29T16:37:46.668000+00:00",
+    "time_ago": "7m ago"
+  },
+  {
+    "id": "250e08d11864",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "fortune.com/2026/07/27/iran-\u2026  \n \n Link  \n \n \n \n Trump can\u2019t stop shooting himself in the foot, as the stage looks set once again for Warsh to... \n \n \u201cAfter months of upside inflation surprises, patience is wearing thin,\u201d writes EY-Parthenon\u2019s Gregory Daco. \n  fortune.com",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "GLD",
+      "TLT",
+      "SPY"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SenWarren/status/2082504391538393580#m",
+    "published_iso": "2026-07-29T16:31:52+00:00",
+    "time_ago": "13m ago"
+  },
+  {
+    "id": "da5918328451",
     "politician": "Rep. Ro Khanna",
     "initials": "RK",
     "role": "House Armed Services Committee",
@@ -34,17 +83,43 @@
       "fg": "#86efac"
     },
     "severity": "critical",
-    "content": "In Allentown, I spoke with Mack Truck Workers from UAW of Local 677 in Lehigh Valley. \n \nMack is moving jobs to Mexico, where up to 49% of workers could lose their jobs.  \n \nWe must end taxpayer subsidized federal contracts to MAC to stop them from moving and tax offshoring. We need to close the loopholes in USMCA that",
+    "content": "American families are paying $3500 more a year because of Trump\u2019s war in Iran, his blanket tariffs, and his tax breaks for the wealthy. \n \nWe need Democrats back in power. \n \n Video",
     "tags": [
       "Trade",
-      "Taxes"
+      "Taxes",
+      "Sanctions"
     ],
-    "tickers": [],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "https://nitter.net/RoKhanna/status/2082476616853188880#m",
-    "published_iso": "2026-07-29T14:41:30+00:00",
-    "time_ago": "42m ago"
+    "url": "https://nitter.net/RoKhanna/status/2082492966409588993#m",
+    "published_iso": "2026-07-29T15:46:28+00:00",
+    "time_ago": "59m ago"
+  },
+  {
+    "id": "8e49855f8e74",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Thune warns there aren\u2019t 50 votes to advance budget resolution after Trump demands action. Senate Majority Leader John Thune (R-S.D.) warned Wednesday he does not currently see 50 Republican votes for advancing a budget resolution, after President Trump renewed his call for the Senate to advance a budget framework to f",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/senate/5996967-thune-gop-budget-resolution-votes-trump/",
+    "published_iso": "2026-07-29T15:32:19+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "cf5e89f15f02",
@@ -63,7 +138,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/C1-2026-13124/allocation-of-assets-in-single-employer-plans-interest-assumptions-for-valuing-benefits",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "466fb1faaea1",
@@ -82,7 +157,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15308/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "089c0ed644e4",
@@ -103,7 +178,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15303/medical-devices-radiology-devices-classification-of-the-phase-changing-fiducial-marker-for-radiation",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "cbe99a9eb90d",
@@ -122,7 +197,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15300/safety-zone-lake-ontario-olcott-ny",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "7051c674ecec",
@@ -143,7 +218,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15299/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-florida-keys-mole-skink",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "12b96e6a4729",
@@ -164,7 +239,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15298/endangered-and-threatened-wildlife-and-plants-revised-designation-of-critical-habitat-for-the",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "1d6f30a860c2",
@@ -190,7 +265,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15284/highly-erodible-land-and-wetland-conservation",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "45892c4a859b",
@@ -209,7 +284,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s212?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-28T23:14:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "b3d2bb1abf9b",
@@ -228,7 +303,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s211?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-28T22:21:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "270ecc1950c4",
@@ -250,7 +325,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2082179704870613187#m",
     "published_iso": "2026-07-28T19:01:41+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "ad98a83c1e0e",
@@ -276,7 +351,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenLummis/status/2082157372663902672#m",
     "published_iso": "2026-07-28T17:32:56+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "5b33af17e2a8",
@@ -432,27 +507,6 @@
     "time_ago": "4d ago"
   },
   {
-    "id": "2f630eb765da",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "high",
-    "content": "WHAT THEY ARE SAYING: President Trump Unites Industry and State Leaders to Protect American Ratepayers. At the EPA Headquarters on Thursday, President Trump convened utilities, data center developers, and state leaders to announce a major expansion of his administration\u2019s historic&#160;Ratepayer Protection Pledge&#160;",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/releases/2026/07/what-they-are-saying-president-trump-unites-industry-and-state-leaders-to-protect-american-ratepayers/",
-    "published_iso": "2026-07-24T16:30:00+00:00",
-    "time_ago": "4d ago"
-  },
-  {
     "id": "f5ac4efd58e3",
     "politician": "GovTrack",
     "initials": "GT",
@@ -498,7 +552,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "c54f398f1a33",
@@ -517,7 +571,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s208?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-23T16:32:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "d7424b16be7a",
@@ -536,7 +590,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s207?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-23T15:51:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "80cd7e1d0220",
@@ -970,7 +1024,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "78d ago"
+    "time_ago": "79d ago"
   },
   {
     "id": "d69f39ae1ab0",
