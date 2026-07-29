@@ -1,6 +1,88 @@
 [
   {
-    "id": "992c6f190dd6",
+    "id": "cc27b840391e",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "Donald Trump is right about this: \n \nEliminate the debt limit\u2014its only real function is to threaten an economic crisis. \n \nI'm ready to work with both Democratic and Republican Senators to immediately scrap the debt ceiling and protect the economy.",
+    "tags": [
+      "Defense"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SenWarren/status/2082546878349029434#m",
+    "published_iso": "2026-07-29T19:20:42+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "db557d195d6c",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Here's my NYT op-ed from last summer with the full case to eliminate the debt limit: \n \n nytimes.com/2025/06/12/opini\u2026  \n \n Link  \n \n \n \n Opinion | Elizabeth Warren: Trump Is Right About This One Thing (Published 2025) \n \n The debt ceiling is a political cudgel that serves no economic function. It\u2019s time to abolish it.",
+    "tags": [],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SenWarren/status/2082546879384940942#m",
+    "published_iso": "2026-07-29T19:20:42+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "284c5b7944b6",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Sukhtian Faisal Ghiath bought 95,398 shares of Outlook Therapeutics, Inc. (OTLK) \u00b7 $1.05/share \u00b7 $99,996 total \u00b7 Jul 29",
+    "tags": [],
+    "tickers": [
+      "OTLK"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1716033/000164998926000008/0001649989-26-000008-index.htm",
+    "published_iso": "2026-07-29T19:19:37+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "489537ec4221",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "Donald Trump is right about this:\n\nEliminate the debt limit\u2014its only real function is to threaten an economic crisis.\n\nI'm ready to work with both Democratic and Republican Senators to immediately scrap the debt ceiling and protect the economy.",
+    "tags": [
+      "Defense"
+    ],
+    "tickers": [],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mrsnbn5y4c2u",
+    "published_iso": "2026-07-29T19:17:41.629000+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "4ff89bb05ea8",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,17 +91,125 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Hong holds strong double-digit lead in Wisconsin Democratic governor's primary: Poll. Democratic socialist Francesca Hong holds a comfortable double-digit lead in the Democratic primary for Wisconsin governor less than two weeks out from the contest, according to a new poll.  A Marquette University Law School poll\u00a0rele",
+    "content": "Senate Democrats press Meta on AI safeguards for 'at-risk users'. Two Democrats on the Senate Special Committee on Aging sent a letter to tech giant Meta asking what safeguards the company has in place to protect \u201cat-risk users,\u201d while AI scams are on the rise across the United States. In the letter, Sens. Kirsten Gill",
     "tags": [
-      "Regulation",
+      "Big Tech",
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/5997331-hong-wisconsin-democratic-governor-primary-poll/",
-    "published_iso": "2026-07-29T17:21:10+00:00",
-    "time_ago": "38m ago"
+    "url": "https://thehill.com/policy/technology/5997499-senators-ask-meta-ai-safeguards/",
+    "published_iso": "2026-07-29T18:51:01+00:00",
+    "time_ago": "33m ago"
+  },
+  {
+    "id": "bbcd66884f6f",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Watch live: Warsh gives remarks as Fed holds interest rates steady. Federal Reserve Chair Kevin Warsh will give remarks Wednesday afternoon after the nation's central bank decided to hold interest rates steady for the fifth time amid uncertainty around energy prices as a result of the Iran war. The Federal Open Market ",
+    "tags": [
+      "Energy",
+      "Banking",
+      "Sanctions"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/video-clips/5997122-watch-live-federal-reserve-kevin-warsh-interest-rates/",
+    "published_iso": "2026-07-29T18:22:45+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "d8260a72eff0",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "I stood on the picket line with frontline healthcare workers from Mount Nittany Medical Center to fight for a fair contract in which wages keep up with inflation.  \n \nIt is cruel that the hospital has taken away workers' health insurance to punish them for striking. \n \n Video",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS",
+      "GLD"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/RoKhanna/status/2082532191926452564#m",
+    "published_iso": "2026-07-29T18:22:20+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "71e53e0e7fbe",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Fed holds interest rates as new Iran tensions raise inflation risks. The Federal Reserve held interest rates steady for a fifth straight time Wednesday amid mounting pressure on the bank to stay ahead of another war-driven energy price shock. In a 9-3 decision, the Federal Open Market Committee (FOMC) maintained its ba",
+    "tags": [
+      "Energy",
+      "Banking",
+      "Sanctions"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/5995449-fed-holds-interest-rates-steady/",
+    "published_iso": "2026-07-29T18:02:56+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "dcd00aa841df",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "Federal Reserve issues FOMC statement. Federal Reserve issues FOMC statement",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+    "published_iso": "2026-07-29T18:00:00+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "26e39b1a4e92",
@@ -45,28 +235,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mrsedooyz22c",
     "published_iso": "2026-07-29T16:37:46.668000+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "88068f615613",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Paul says Senate panel to vote on holding Fauci in contempt. Sen. Rand Paul (R-Ky.), the chair of the Senate Homeland Security and Governmental Affairs Committee, said Wednesday he would push to hold Dr. Anthony Fauci in contempt of Congress after the former head of the U.S. COVID-19 pandemic response invoked his Fifth",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5997184-paul-plans-contempt-vote-fauci/",
-    "published_iso": "2026-07-29T16:32:56+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "250e08d11864",
@@ -91,7 +260,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2082504391538393580#m",
     "published_iso": "2026-07-29T16:31:52+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "da5918328451",
@@ -118,7 +287,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2082492966409588993#m",
     "published_iso": "2026-07-29T15:46:28+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "cf5e89f15f02",
@@ -137,7 +306,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/C1-2026-13124/allocation-of-assets-in-single-employer-plans-interest-assumptions-for-valuing-benefits",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "466fb1faaea1",
@@ -156,7 +325,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15308/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "089c0ed644e4",
@@ -177,7 +346,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15303/medical-devices-radiology-devices-classification-of-the-phase-changing-fiducial-marker-for-radiation",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "cbe99a9eb90d",
@@ -196,7 +365,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15300/safety-zone-lake-ontario-olcott-ny",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "7051c674ecec",
@@ -217,7 +386,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15299/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-florida-keys-mole-skink",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "12b96e6a4729",
@@ -238,7 +407,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15298/endangered-and-threatened-wildlife-and-plants-revised-designation-of-critical-habitat-for-the",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "1d6f30a860c2",
@@ -264,7 +433,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15284/highly-erodible-land-and-wetland-conservation",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "45892c4a859b",
@@ -283,7 +452,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s212?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-28T23:14:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "b3d2bb1abf9b",
@@ -302,7 +471,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s211?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-28T22:21:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "270ecc1950c4",
@@ -324,7 +493,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2082179704870613187#m",
     "published_iso": "2026-07-28T19:01:41+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "ad98a83c1e0e",
@@ -482,7 +651,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-restores-trust-in-the-smithsonian-institution/",
     "published_iso": "2026-07-24T19:11:24+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "06382d3ebedd",
@@ -654,7 +823,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "98b90fd8352a",
@@ -793,7 +962,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
     "published_iso": "2026-07-16T18:00:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "bcb8b8a6c731",
@@ -838,7 +1007,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
     "published_iso": "2026-07-14T18:00:00+00:00",
-    "time_ago": "14d ago"
+    "time_ago": "15d ago"
   },
   {
     "id": "14224f4fd608",
@@ -864,7 +1033,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
     "published_iso": "2026-07-09T19:00:00+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "374047f602cb",
@@ -909,7 +1078,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
     "published_iso": "2026-07-08T18:00:00+00:00",
-    "time_ago": "20d ago"
+    "time_ago": "21d ago"
   },
   {
     "id": "417f0c14ac5b",
@@ -935,7 +1104,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm",
     "published_iso": "2026-07-07T19:00:00+00:00",
-    "time_ago": "21d ago"
+    "time_ago": "22d ago"
   },
   {
     "id": "f6fb9773511f",
@@ -955,32 +1124,6 @@
     "url": "https://nitter.net/usembassyve/status/2073873845241413988#m",
     "published_iso": "2026-07-05T20:57:10+00:00",
     "time_ago": "23d ago"
-  },
-  {
-    "id": "659d472bb278",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board issues enforcement action with Small Business Bank and announces termination enforcement actions with BNP Paribas S.A., BNP Paribas USA, Inc., BNP Paribas Securities Corp., and Community Bankshares, Inc.. Federal Reserve Board issues enforcement action with Small Business Bank and announces termin",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260702a.htm",
-    "published_iso": "2026-07-02T15:00:00+00:00",
-    "time_ago": "27d ago"
   },
   {
     "id": "ddb58e0107d1",
@@ -1114,7 +1257,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "125d ago"
+    "time_ago": "126d ago"
   },
   {
     "id": "00f579ee8f55",
