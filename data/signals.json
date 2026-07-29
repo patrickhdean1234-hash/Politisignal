@@ -1,48 +1,6 @@
 [
   {
-    "id": "9abefa572fc6",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Baskies Arnold M exercised options for 6,000 shares of Anixa Biosciences Inc (ANIX) \u00b7 $3.13/share \u00b7 $18,780 total \u00b7 Jul 29 ($37,561 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "ANIX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1683567/000149315226035122/0001493152-26-035122-index.htm",
-    "published_iso": "2026-07-29T13:14:58+00:00",
-    "time_ago": "5m ago"
-  },
-  {
-    "id": "e564d6a7ccb5",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Boyle David P gifted 1,752 shares of Burke & Herbert Financial Services Corp. (BHRB) \u00b7 Jul 29",
-    "tags": [],
-    "tickers": [
-      "BHRB"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1964333/000120272226000010/0001202722-26-000010-index.htm",
-    "published_iso": "2026-07-29T13:08:22+00:00",
-    "time_ago": "12m ago"
-  },
-  {
-    "id": "06403bb2938f",
+    "id": "9d2af4e37ee8",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -51,16 +9,42 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Watch live: Fauci faces Senate heat on COVID, released diary entries. Dr. Anthony Fauci, the former chief White House medical adviser, will testify Wednesday morning before the Senate Homeland Security Committee on gain of function research, bringing the debate about the origins of the COVID pandemic back into the spot",
+    "content": "Trump administration ending Medicare premium subsidy program. The Trump administration on Tuesday said it would move to end a Biden-era Medicare premium subsidy program, alleging it benefitted insurance companies more than enrollees.  As a result, Medicare Part D subsidies will expire at the end of the year and no long",
     "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/healthcare/5996677-part-d-subsidies-expiring-2027/",
+    "published_iso": "2026-07-29T15:13:48+00:00",
+    "time_ago": "10m ago"
+  },
+  {
+    "id": "63728c96598f",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "critical",
+    "content": "In Allentown, I spoke with Mack Truck Workers from UAW of Local 677 in Lehigh Valley. \n \nMack is moving jobs to Mexico, where up to 49% of workers could lose their jobs.  \n \nWe must end taxpayer subsidized federal contracts to MAC to stop them from moving and tax offshoring. We need to close the loopholes in USMCA that",
+    "tags": [
+      "Trade",
       "Taxes"
     ],
     "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/video-clips/5995976-watch-live-anthony-fauci-rand-paul-covid-19-lab-research-diary-entries/",
-    "published_iso": "2026-07-29T11:55:45+00:00",
-    "time_ago": "1h ago"
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/RoKhanna/status/2082476616853188880#m",
+    "published_iso": "2026-07-29T14:41:30+00:00",
+    "time_ago": "42m ago"
   },
   {
     "id": "cf5e89f15f02",
@@ -79,7 +63,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/C1-2026-13124/allocation-of-assets-in-single-employer-plans-interest-assumptions-for-valuing-benefits",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "466fb1faaea1",
@@ -98,7 +82,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15308/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "089c0ed644e4",
@@ -119,7 +103,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15303/medical-devices-radiology-devices-classification-of-the-phase-changing-fiducial-marker-for-radiation",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "cbe99a9eb90d",
@@ -138,7 +122,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15300/safety-zone-lake-ontario-olcott-ny",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "7051c674ecec",
@@ -159,7 +143,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15299/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-florida-keys-mole-skink",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "12b96e6a4729",
@@ -180,7 +164,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15298/endangered-and-threatened-wildlife-and-plants-revised-designation-of-critical-habitat-for-the",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "1d6f30a860c2",
@@ -206,7 +190,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15284/highly-erodible-land-and-wetland-conservation",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "45892c4a859b",
@@ -225,7 +209,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s212?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-28T23:14:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "b3d2bb1abf9b",
@@ -244,7 +228,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s211?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-28T22:21:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "270ecc1950c4",
@@ -266,7 +250,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2082179704870613187#m",
     "published_iso": "2026-07-28T19:01:41+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "ad98a83c1e0e",
@@ -292,7 +276,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenLummis/status/2082157372663902672#m",
     "published_iso": "2026-07-28T17:32:56+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "5b33af17e2a8",
@@ -448,6 +432,27 @@
     "time_ago": "4d ago"
   },
   {
+    "id": "2f630eb765da",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "high",
+    "content": "WHAT THEY ARE SAYING: President Trump Unites Industry and State Leaders to Protect American Ratepayers. At the EPA Headquarters on Thursday, President Trump convened utilities, data center developers, and state leaders to announce a major expansion of his administration\u2019s historic&#160;Ratepayer Protection Pledge&#160;",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/07/what-they-are-saying-president-trump-unites-industry-and-state-leaders-to-protect-american-ratepayers/",
+    "published_iso": "2026-07-24T16:30:00+00:00",
+    "time_ago": "4d ago"
+  },
+  {
     "id": "f5ac4efd58e3",
     "politician": "GovTrack",
     "initials": "GT",
@@ -550,7 +555,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h283?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-23T14:32:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "0a6e300d2b4f",
@@ -575,7 +580,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h282?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-23T14:24:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "de38f5381391",
@@ -672,31 +677,6 @@
     "time_ago": "8d ago"
   },
   {
-    "id": "de6fa078b8d5",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Five things House Democrats are going to do once we have the majority:\n\nMedicare for All\nA living wage\nStronger union protections\u00a0\n$10 a day childcare\nEnd aid to Israel",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/khanna.house.gov/post/3mr46dhyjrc2r",
-    "published_iso": "2026-07-20T20:51:42.946000+00:00",
-    "time_ago": "8d ago"
-  },
-  {
     "id": "00574dc3c125",
     "politician": "Sen. Rand Paul",
     "initials": "RP",
@@ -739,7 +719,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/PatrickMcHenry/status/2078478053945053615#m",
     "published_iso": "2026-07-18T13:52:38+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "cfac33502ddb",
@@ -786,7 +766,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260716a.htm",
     "published_iso": "2026-07-16T15:00:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "a8933978907e",
@@ -857,7 +837,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260709a.htm",
     "published_iso": "2026-07-09T15:00:00+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "dc169391dc18",
@@ -947,7 +927,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260702a.htm",
     "published_iso": "2026-07-02T15:00:00+00:00",
-    "time_ago": "26d ago"
+    "time_ago": "27d ago"
   },
   {
     "id": "ddb58e0107d1",
@@ -1016,7 +996,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "84d ago"
+    "time_ago": "85d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1038,7 +1018,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "92d ago"
+    "time_ago": "93d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1062,7 +1042,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "120d ago"
+    "time_ago": "121d ago"
   },
   {
     "id": "432e035b915b",
@@ -1102,7 +1082,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "165d ago"
+    "time_ago": "166d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1121,7 +1101,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "165d ago"
+    "time_ago": "166d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1166,6 +1146,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "224d ago"
+    "time_ago": "225d ago"
   }
 ]
