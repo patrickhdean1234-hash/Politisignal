@@ -1,6 +1,6 @@
 [
   {
-    "id": "55e750569271",
+    "id": "9abefa572fc6",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,40 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Kainan Noga bought 33,000 shares of Nano-X Imaging Ltd. (NNOX) \u00b7 $0.90/share \u00b7 $29,700 total \u00b7 Jul 29",
+    "content": "Baskies Arnold M exercised options for 6,000 shares of Anixa Biosciences Inc (ANIX) \u00b7 $3.13/share \u00b7 $18,780 total \u00b7 Jul 29 ($37,561 across all blocks)",
     "tags": [],
     "tickers": [
-      "NNOX"
+      "ANIX"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2049063/000121390026082533/0001213900-26-082533-index.htm",
-    "published_iso": "2026-07-29T11:35:41+00:00",
-    "time_ago": "just now"
+    "url": "https://www.sec.gov/Archives/edgar/data/1683567/000149315226035122/0001493152-26-035122-index.htm",
+    "published_iso": "2026-07-29T13:14:58+00:00",
+    "time_ago": "5m ago"
   },
   {
-    "id": "4959c506b71f",
+    "id": "e564d6a7ccb5",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Boyle David P gifted 1,752 shares of Burke & Herbert Financial Services Corp. (BHRB) \u00b7 Jul 29",
+    "tags": [],
+    "tickers": [
+      "BHRB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1964333/000120272226000010/0001202722-26-000010-index.htm",
+    "published_iso": "2026-07-29T13:08:22+00:00",
+    "time_ago": "12m ago"
+  },
+  {
+    "id": "06403bb2938f",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -29,93 +50,16 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "critical",
-    "content": "Fauci hearing thrusts COVID fights back into spotlight. In today's issue: \u25aa COVID-19 tensions in Senate spotlight \u25aa Iran launches \u2018surprise attack\u2019 \u25aa Graham sanctions bill advances \u25aa ICE targeting Haitian, Syrian migrants The COVID-19 pandemic will return to center stage Wednesday as the man whose briefings dominated d",
-    "tags": [
-      "Regulation",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/morning-report/5995955-anthony-fauci-hearing-rand-paul-covid-19-fight/",
-    "published_iso": "2026-07-29T11:12:00+00:00",
-    "time_ago": "24m ago"
-  },
-  {
-    "id": "614d87861b56",
-    "politician": "Sen. Rand Paul",
-    "initials": "RP",
-    "role": "Senate Foreign Relations Committee",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fbbf24"
-    },
     "severity": "medium",
-    "content": "Don\u2019t forget to tune in TODAY at 8:30AM Eastern.  piped.video/live/KCZGHKO6N3Y\u2026  \n \n Link  \n \n \n \n LIVE: Senate Homeland Security and Governmental Affairs Hearing on... \n \n Watch RSBN LIVE for complete coverage of the committee hearing on t... \n  youtube.com",
+    "content": "Watch live: Fauci faces Senate heat on COVID, released diary entries. Dr. Anthony Fauci, the former chief White House medical adviser, will testify Wednesday morning before the Senate Homeland Security Committee on gain of function research, bringing the debate about the origins of the COVID pandemic back into the spot",
     "tags": [
       "Taxes"
     ],
-    "tickers": [
-      "GOOGL"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/RandPaul/status/2082423395623289321#m",
-    "published_iso": "2026-07-29T11:10:01+00:00",
-    "time_ago": "25m ago"
-  },
-  {
-    "id": "60811fa4c083",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "L1 Capital Pty Ltd sold 232,817 shares of Anteris Technologies Global Corp. (AVR) \u00b7 $8.19/share \u00b7 $1,906,771 total \u00b7 Jul 29 ($3,595,405 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "AVR"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2011514/000181764626000014/0001817646-26-000014-index.htm",
-    "published_iso": "2026-07-29T10:40:54+00:00",
-    "time_ago": "55m ago"
-  },
-  {
-    "id": "98b266060f5c",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Pentagon, under Trump, Hegseth, draws curtain tighter around Iran War. The Pentagon is drawing wide-ranging scrutiny over its increasing opacity about the mounting toll from the Iran war.  From reclassifying the deaths and injuries of service members and not disclosing how many targets were hit during recent airstrikes",
-    "tags": [
-      "Defense",
-      "Taxes",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/defense/5995444-pentagon-scrutiny-iran-war-transparency/",
-    "published_iso": "2026-07-29T10:00:00+00:00",
+    "url": "https://thehill.com/video-clips/5995976-watch-live-anthony-fauci-rand-paul-covid-19-lab-research-diary-entries/",
+    "published_iso": "2026-07-29T11:55:45+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -135,7 +79,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/C1-2026-13124/allocation-of-assets-in-single-employer-plans-interest-assumptions-for-valuing-benefits",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "466fb1faaea1",
@@ -154,7 +98,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15308/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "089c0ed644e4",
@@ -175,7 +119,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15303/medical-devices-radiology-devices-classification-of-the-phase-changing-fiducial-marker-for-radiation",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "cbe99a9eb90d",
@@ -194,7 +138,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15300/safety-zone-lake-ontario-olcott-ny",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "7051c674ecec",
@@ -215,7 +159,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15299/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-florida-keys-mole-skink",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "12b96e6a4729",
@@ -236,7 +180,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15298/endangered-and-threatened-wildlife-and-plants-revised-designation-of-critical-habitat-for-the",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "1d6f30a860c2",
@@ -262,7 +206,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15284/highly-erodible-land-and-wetland-conservation",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "45892c4a859b",
@@ -281,7 +225,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s212?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-28T23:14:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "b3d2bb1abf9b",
@@ -300,7 +244,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s211?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-28T22:21:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "270ecc1950c4",
@@ -322,7 +266,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2082179704870613187#m",
     "published_iso": "2026-07-28T19:01:41+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "ad98a83c1e0e",
@@ -348,7 +292,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenLummis/status/2082157372663902672#m",
     "published_iso": "2026-07-28T17:32:56+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "5b33af17e2a8",
@@ -437,7 +381,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/07/first-lady-melania-trump-announces-opening-of-christmas-volunteer-performer-applications-be30/",
     "published_iso": "2026-07-27T13:04:29+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "6d927f3b963e",
@@ -703,7 +647,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "555d7f3dd315",
