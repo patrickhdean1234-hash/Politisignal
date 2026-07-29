@@ -1,5 +1,48 @@
 [
   {
+    "id": "2b15f14ad3f4",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Sobelman David converted 162,163 shares of Generation Income Properties, Inc. (GIPRW) \u00b7 Jul 29",
+    "tags": [],
+    "tickers": [
+      "GIPRW"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1804360/000089706926001562/0000897069-26-001562-index.htm",
+    "published_iso": "2026-07-29T20:26:28+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "ad63be51aaf7",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "Presidential Message on the Birthday of Alexis de Tocqueville. Today, our Nation honors the life, legacy, and enduring wisdom of Alexis de Tocqueville\u2014a great witness to the promise of our young Republic and one of the most brilliant political minds in the history of the world. In May of 1831, French magistrate Alexis ",
+    "tags": [
+      "Energy",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-birthday-of-alexis-de-tocqueville/",
+    "published_iso": "2026-07-29T19:44:12+00:00",
+    "time_ago": "44m ago"
+  },
+  {
     "id": "cc27b840391e",
     "politician": "Sen. Elizabeth Warren",
     "initials": "EW",
@@ -18,7 +61,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2082546878349029434#m",
     "published_iso": "2026-07-29T19:20:42+00:00",
-    "time_ago": "2m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "db557d195d6c",
@@ -37,28 +80,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2082546879384940942#m",
     "published_iso": "2026-07-29T19:20:42+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "284c5b7944b6",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Sukhtian Faisal Ghiath bought 95,398 shares of Outlook Therapeutics, Inc. (OTLK) \u00b7 $1.05/share \u00b7 $99,996 total \u00b7 Jul 29",
-    "tags": [],
-    "tickers": [
-      "OTLK"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1716033/000164998926000008/0001649989-26-000008-index.htm",
-    "published_iso": "2026-07-29T19:19:37+00:00",
-    "time_ago": "4m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "489537ec4221",
@@ -79,56 +101,6 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mrsnbn5y4c2u",
     "published_iso": "2026-07-29T19:17:41.629000+00:00",
-    "time_ago": "5m ago"
-  },
-  {
-    "id": "4ff89bb05ea8",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Senate Democrats press Meta on AI safeguards for 'at-risk users'. Two Democrats on the Senate Special Committee on Aging sent a letter to tech giant Meta asking what safeguards the company has in place to protect \u201cat-risk users,\u201d while AI scams are on the rise across the United States. In the letter, Sens. Kirsten Gill",
-    "tags": [
-      "Big Tech",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/5997499-senators-ask-meta-ai-safeguards/",
-    "published_iso": "2026-07-29T18:51:01+00:00",
-    "time_ago": "33m ago"
-  },
-  {
-    "id": "bbcd66884f6f",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Watch live: Warsh gives remarks as Fed holds interest rates steady. Federal Reserve Chair Kevin Warsh will give remarks Wednesday afternoon after the nation's central bank decided to hold interest rates steady for the fifth time amid uncertainty around energy prices as a result of the Iran war. The Federal Open Market ",
-    "tags": [
-      "Energy",
-      "Banking",
-      "Sanctions"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/video-clips/5997122-watch-live-federal-reserve-kevin-warsh-interest-rates/",
-    "published_iso": "2026-07-29T18:22:45+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -155,35 +127,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2082532191926452564#m",
     "published_iso": "2026-07-29T18:22:20+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "71e53e0e7fbe",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Fed holds interest rates as new Iran tensions raise inflation risks. The Federal Reserve held interest rates steady for a fifth straight time Wednesday amid mounting pressure on the bank to stay ahead of another war-driven energy price shock. In a 9-3 decision, the Federal Open Market Committee (FOMC) maintained its ba",
-    "tags": [
-      "Energy",
-      "Banking",
-      "Sanctions"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/5995449-fed-holds-interest-rates-steady/",
-    "published_iso": "2026-07-29T18:02:56+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "dcd00aa841df",
@@ -209,7 +153,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
     "published_iso": "2026-07-29T18:00:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "26e39b1a4e92",
@@ -235,7 +179,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mrsedooyz22c",
     "published_iso": "2026-07-29T16:37:46.668000+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "250e08d11864",
@@ -260,7 +204,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2082504391538393580#m",
     "published_iso": "2026-07-29T16:31:52+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "da5918328451",
@@ -287,7 +231,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2082492966409588993#m",
     "published_iso": "2026-07-29T15:46:28+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "cf5e89f15f02",
@@ -306,7 +250,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/C1-2026-13124/allocation-of-assets-in-single-employer-plans-interest-assumptions-for-valuing-benefits",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "466fb1faaea1",
@@ -325,7 +269,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15308/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "089c0ed644e4",
@@ -346,7 +290,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15303/medical-devices-radiology-devices-classification-of-the-phase-changing-fiducial-marker-for-radiation",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "cbe99a9eb90d",
@@ -365,7 +309,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15300/safety-zone-lake-ontario-olcott-ny",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "7051c674ecec",
@@ -386,7 +330,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15299/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-florida-keys-mole-skink",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "12b96e6a4729",
@@ -407,7 +351,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15298/endangered-and-threatened-wildlife-and-plants-revised-designation-of-critical-habitat-for-the",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "1d6f30a860c2",
@@ -433,7 +377,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15284/highly-erodible-land-and-wetland-conservation",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "45892c4a859b",
@@ -452,7 +396,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s212?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-28T23:14:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "b3d2bb1abf9b",
@@ -471,55 +415,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s211?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-28T22:21:00+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "270ecc1950c4",
-    "politician": "Rep. Mike Johnson",
-    "initials": "MJ",
-    "role": "Speaker of the House",
-    "color": {
-      "bg": "#2a1a1a",
-      "fg": "#fbbf24"
-    },
-    "severity": "medium",
-    "content": "The Working Families Tax Cuts bill created Trump Accounts \u2014 to help set up America's kids up for long term financial success. \n \n7 MILLION American families have already signed up! \n \nHave you? Learn more here:  trumpaccounts.gov  \n \n Link  \n \n \n \n The American Dream Starts Now \n \n Trump Accounts provide eligible Ameri",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/SpeakerJohnson/status/2082179704870613187#m",
-    "published_iso": "2026-07-28T19:01:41+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "ad98a83c1e0e",
-    "politician": "Sen. Cynthia Lummis",
-    "initials": "CL",
-    "role": "Senate Banking Subcommittee (Crypto)",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#c4b5fd"
-    },
-    "severity": "critical",
-    "content": "The Big Bank Lobby is trying to say that all of Wall Street is opposed to the Clarity Act. That's completely false.  \n \nSupporting: \n\u2705BlackRock \n\u2705Goldman Sachs \n\u2705Fidelity \n\u2705Franklin Templeton \n\u2705SoFi \n coindesk.com/policy/2026/07/\u2026  \n \n Link  \n \n \n \n Here&apos;s which Wall Street giants have backed the Clarity Act \n \n B",
-    "tags": [
-      "Crypto",
-      "Banking",
-      "Regulation"
-    ],
-    "tickers": [
-      "GS",
-      "BLK"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/SenLummis/status/2082157372663902672#m",
-    "published_iso": "2026-07-28T17:32:56+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "5b33af17e2a8",
@@ -630,27 +526,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/07/restoring-trust-in-the-smithsonian-institution-e061/",
     "published_iso": "2026-07-24T20:19:11+00:00",
-    "time_ago": "4d ago"
-  },
-  {
-    "id": "0ab5c7d98783",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "Fact Sheet: President Donald J. Trump Restores Trust in the Smithsonian Institution. RESTORING TRUST IN THE SMITHSONIAN: Today, President Donald J. Trump signed an Executive Order to reestablish confidence in the Smithsonian Institution. As illustrated by the Domestic Policy Council\u2019s report, Saving America&#8217;s Sto",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-restores-trust-in-the-smithsonian-institution/",
-    "published_iso": "2026-07-24T19:11:24+00:00",
     "time_ago": "5d ago"
   },
   {
