@@ -1,27 +1,6 @@
 [
   {
-    "id": "15c6bdfa6c2c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Kemper John W exercised options for 10,289 shares of Commerce Bancshares Inc /Mo/ (CBSH) \u00b7 $36.44/share \u00b7 $374,929 total \u00b7 Jul 30 ($2,617,085 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CBSH"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1505250/000002235626000185/0000022356-26-000185-index.htm",
-    "published_iso": "2026-07-30T19:47:28+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "39a4a5849b94",
+    "id": "16e1a51d673d",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,16 +9,96 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Terzis Georgios received 328,407 shares of Cosmos Health Inc. (COSM) \u00b7 $0.18/share \u00b7 $60,000 total \u00b7 Jul 30",
+    "content": "Zender Christopher exercised options for 758 shares of Ollie'S Bargain Outlet Holdings, Inc. (OLLI) \u00b7 Jul 30 ($24,123 across all blocks)",
     "tags": [],
     "tickers": [
-      "COSM"
+      "OLLI"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1835415/000147793226004614/0001477932-26-004614-index.htm",
-    "published_iso": "2026-07-30T19:45:19+00:00",
-    "time_ago": "4m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1639300/000121390026083385/0001213900-26-083385-index.htm",
+    "published_iso": "2026-07-30T20:50:11+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "d7ea80164e05",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "Fact Sheet: President Donald J. Trump Delegates Defense Production Act Authority with Respect to Recoverable Critical Minerals and Materials That Are Essential to Our National Defense. SECURING AMERICA\u2019S SUPPLY CHAINS:&#160;Today, President Donald J. Trump signed a Presidential Determination delegating authority under ",
+    "tags": [
+      "Trade",
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-delegates-defense-production-act-authority-with-respect-to-recoverable-critical-minerals-and-materials-that-are-essential-to-our-national-defense/",
+    "published_iso": "2026-07-30T20:34:56+00:00",
+    "time_ago": "16m ago"
+  },
+  {
+    "id": "624260fb8cb6",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Lockheed Martin wins $58.6B contract to produce Patriot interceptors. The Army has awarded Lockheed Martin a seven-year contract worth up to $58.6 billion to churn out Patriot interceptor missiles in an effort to replenish quickly diminishing U.S. munitions stockpiles.  The deal, announced Wednesday, converts a previou",
+    "tags": [
+      "Defense",
+      "Regulation"
+    ],
+    "tickers": [
+      "LMT"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/defense/6000739-lockheed-martin-contract-patriot-interceptor-missiles-stockpile/",
+    "published_iso": "2026-07-30T20:24:07+00:00",
+    "time_ago": "27m ago"
+  },
+  {
+    "id": "28f5af83518c",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Markets whipsaw as Trump, Fed face new inflation risks. Financial markets are uneasy as President Trump and Federal Reserve Chair Kevin Warsh face rising inflation risks driven by the war in Iran.  Stocks and bond yields have whipsawed amid uncertainty over how the Fed will tackle higher energy prices and their impact ",
+    "tags": [
+      "Energy",
+      "Banking",
+      "Sanctions"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/6000693-fed-holds-rates-iran-war/",
+    "published_iso": "2026-07-30T20:11:10+00:00",
+    "time_ago": "40m ago"
   },
   {
     "id": "b693c620457f",
@@ -58,7 +117,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s217?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-30T17:46:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "2920ea766514",
@@ -80,7 +139,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mruultkwus2t",
     "published_iso": "2026-07-30T16:33:54.862000+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "27d9989a58b7",
@@ -106,7 +165,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mruulp3ovc2t",
     "published_iso": "2026-07-30T16:33:54.861000+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "c99d309f4b0a",
@@ -125,7 +184,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s216?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-30T16:28:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "5ed63879ee14",
@@ -146,7 +205,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2082862366853599396#m",
     "published_iso": "2026-07-30T16:14:20+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "b88abec6c525",
@@ -167,7 +226,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s215?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-30T15:30:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "d1faa9166adb",
@@ -194,7 +253,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
     "published_iso": "2026-07-30T15:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "8c663930da07",
@@ -220,7 +279,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
     "published_iso": "2026-07-30T15:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "00028add06d9",
@@ -246,7 +305,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/07/first-lady-melania-trump-facilitates-her-fifth-ukrainerussia-family-reunification/",
     "published_iso": "2026-07-30T11:04:08+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "ccd0fd0d4b3a",
@@ -265,7 +324,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15467/airworthiness-directives-pilatus-aircraft-ltd-airplanes",
     "published_iso": "2026-07-30T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "8f32b614c7be",
@@ -284,7 +343,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15466/airworthiness-directives-stemme-gmbh-gliders",
     "published_iso": "2026-07-30T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "120dd56799e2",
@@ -303,7 +362,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15455/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-07-30T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "af934afb162a",
@@ -328,7 +387,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15446/medicare-program-updates-to-the-master-list-of-items-potentially-subject-to-face-to-face-encounter",
     "published_iso": "2026-07-30T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "803a45d0b431",
@@ -349,7 +408,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15434/procedures-for-submission-and-consideration-of-petitions-for-rulemaking",
     "published_iso": "2026-07-30T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "6d7395539eb4",
@@ -371,7 +430,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15420/duty-collection-for-domestic-mail-arriving-from-certain-insular-possessions-and-territories",
     "published_iso": "2026-07-30T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "2ed0c598e892",
@@ -390,7 +449,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15412/airworthiness-directives-mhi-rj-aviation-ulc-type-certificate-previously-held-by-bombardier-inc",
     "published_iso": "2026-07-30T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "85e2ec4b7959",
@@ -409,7 +468,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15411/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c",
     "published_iso": "2026-07-30T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "3611e7cd535c",
@@ -432,7 +491,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2082641981436559788#m",
     "published_iso": "2026-07-30T01:38:36+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "8c72613cb3ad",
@@ -454,7 +513,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2082627493266178497#m",
     "published_iso": "2026-07-30T00:41:02+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "eb0f75af6894",
@@ -473,7 +532,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s214?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-29T22:54:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "0a55ac1a5950",
@@ -492,7 +551,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s213?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-29T21:58:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "ad63be51aaf7",
@@ -579,58 +638,6 @@
     "url": "https://www.govtrack.us/congress/votes/119-2026/s211?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-28T22:21:00+00:00",
     "time_ago": "1d ago"
-  },
-  {
-    "id": "ad98a83c1e0e",
-    "politician": "Sen. Cynthia Lummis",
-    "initials": "CL",
-    "role": "Senate Banking Subcommittee (Crypto)",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#c4b5fd"
-    },
-    "severity": "critical",
-    "content": "The Big Bank Lobby is trying to say that all of Wall Street is opposed to the Clarity Act. That's completely false.  \n \nSupporting: \n\u2705BlackRock \n\u2705Goldman Sachs \n\u2705Fidelity \n\u2705Franklin Templeton \n\u2705SoFi \n coindesk.com/policy/2026/07/\u2026  \n \n Link  \n \n \n \n Here&apos;s which Wall Street giants have backed the Clarity Act \n \n B",
-    "tags": [
-      "Crypto",
-      "Banking",
-      "Regulation"
-    ],
-    "tickers": [
-      "GS",
-      "BLK"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/SenLummis/status/2082157372663902672#m",
-    "published_iso": "2026-07-28T17:32:56+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "5b33af17e2a8",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "Presidential Message on the 45th Anniversary of the Martyrdom of Father Stanley Rother. Today, Melania and I join with American Catholics and people of faith all across the world in honoring the towering legacy of Father Stanley Rother\u2014an Oklahoma farm boy, the first American-born martyr beatified by the Catholic Churc",
-    "tags": [
-      "Agriculture",
-      "Taxes"
-    ],
-    "tickers": [
-      "CORN",
-      "SOYB",
-      "DE"
-    ],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-45th-anniversary-of-the-martyrdom-of-father-stanley-rother/",
-    "published_iso": "2026-07-28T04:30:00+00:00",
-    "time_ago": "2d ago"
   },
   {
     "id": "45a39b3c5dc1",
@@ -794,7 +801,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-launches-the-reading-room-a-public-archive-of-the-committees-ongoing-covid-19-origins-investigations/",
     "published_iso": "2026-07-20T20:42:12+00:00",
-    "time_ago": "9d ago"
+    "time_ago": "10d ago"
   },
   {
     "id": "a911872ff396",
