@@ -1,5 +1,117 @@
 [
   {
+    "id": "00028add06d9",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "First Lady Melania Trump Facilitates Her Fifth Ukraine\u2013Russia Family Reunification. First Lady Melania Trump has helped reunite a fifth group of Ukrainian and Russian children with their loved ones, continuing her humanitarian work on behalf of those affected by the war. A total of five children were reunited today. Th",
+    "tags": [
+      "Taxes",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/07/first-lady-melania-trump-facilitates-her-fifth-ukrainerussia-family-reunification/",
+    "published_iso": "2026-07-30T11:04:08+00:00",
+    "time_ago": "19m ago"
+  },
+  {
+    "id": "3d84f0e4facb",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Huang Jack Jiajia bought 185,880 shares of 51Talk Online Education Group (COE) \u00b7 $16.26/share \u00b7 $3,022,409 total \u00b7 Jul 30 ($10,681,309 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "COE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2029760/000202976026000004/0002029760-26-000004-index.htm",
+    "published_iso": "2026-07-30T10:57:37+00:00",
+    "time_ago": "26m ago"
+  },
+  {
+    "id": "5a9a46a6a048",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Zhou Yuan acquired/disposed 371,436 shares of Zhihu Inc. (ZHIHF) \u00b7 Jul 30 ($0 across all blocks)",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "ZHIHF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1906031/000110465926088431/0001104659-26-088431-index.htm",
+    "published_iso": "2026-07-30T10:39:10+00:00",
+    "time_ago": "44m ago"
+  },
+  {
+    "id": "07e1db0f37ca",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ye Gang sold 4,350 shares of Sea Ltd (SE) \u00b7 $103.52/share \u00b7 $450,312 total \u00b7 Jul 30 ($4,263,469 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "SE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1729171/000119312526324798/0001193125-26-324798-index.htm",
+    "published_iso": "2026-07-30T10:09:52+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "a411a143d1a6",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Generation Z wants significant change in government. Good morning, and welcome to the first edition of The Feed.  We are three Generation Z editors at The Hill working to understand the ins and outs of our generation\u2019s politics. Each week, we\u2019ll try to give readers a glimpse into Gen Z politics, from the media Gen Z co",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/blogs/in-the-know/5998023-gen-z-government-changes-ai-hesitant-newsom-galloway/",
+    "published_iso": "2026-07-30T10:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "ccd0fd0d4b3a",
     "politician": "Federal Register",
     "initials": "FR",
@@ -16,7 +128,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15467/airworthiness-directives-pilatus-aircraft-ltd-airplanes",
     "published_iso": "2026-07-30T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "8f32b614c7be",
@@ -35,7 +147,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15466/airworthiness-directives-stemme-gmbh-gliders",
     "published_iso": "2026-07-30T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "120dd56799e2",
@@ -54,7 +166,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15455/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-07-30T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "af934afb162a",
@@ -79,7 +191,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15446/medicare-program-updates-to-the-master-list-of-items-potentially-subject-to-face-to-face-encounter",
     "published_iso": "2026-07-30T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "803a45d0b431",
@@ -100,7 +212,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15434/procedures-for-submission-and-consideration-of-petitions-for-rulemaking",
     "published_iso": "2026-07-30T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "6d7395539eb4",
@@ -122,7 +234,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15420/duty-collection-for-domestic-mail-arriving-from-certain-insular-possessions-and-territories",
     "published_iso": "2026-07-30T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "2ed0c598e892",
@@ -141,7 +253,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15412/airworthiness-directives-mhi-rj-aviation-ulc-type-certificate-previously-held-by-bombardier-inc",
     "published_iso": "2026-07-30T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "85e2ec4b7959",
@@ -160,50 +272,6 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15411/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c",
     "published_iso": "2026-07-30T04:00:00+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "a4c58cec4efb",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Banks, Kim introduce stuttering legislation with backing of former NBA player. Sens. Jim Banks (R-Ind.) and Andy Kim (D-N.J.) on Wednesday introduced legislation that attempts to improve identification and treatment for children who stutter, with an assist from former NBA player Michael Kidd-Gilchrist. The legislation,",
-    "tags": [
-      "Healthcare",
-      "Banking",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/5998455-banks-kim-introduce-kidds-stuttering-act/",
-    "published_iso": "2026-07-30T03:36:21+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "0683a2ba4f9f",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Trump says SCOTUS ruling on tariffs and birthright citizenship costing country 'trillions and trillions of dollars'. President Trump on Wednesday claimed the Supreme Court striking down his emergency tariffs and executive order restricting birthright citizenship cost the country \u201ctrillions and trillions\u201d of dollars. Tr",
-    "tags": [
-      "Trade"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/5998515-trump-supreme-court-tariffs/",
-    "published_iso": "2026-07-30T02:02:24+00:00",
     "time_ago": "7h ago"
   },
   {
@@ -227,205 +295,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2082641981436559788#m",
     "published_iso": "2026-07-30T01:38:36+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "16e26f5cecb6",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Sheena Jonathan sold 288 shares of Natera, Inc. (NTRA) \u00b7 $260.49/share \u00b7 $75,021 total \u00b7 Jul 29 ($123,549 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "NTRA"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1646649/000164664926000025/0001646649-26-000025-index.htm",
-    "published_iso": "2026-07-30T01:35:16+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "58b21bb8525e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Rabinowitz Matthew sold 1,718 shares of Natera, Inc. (NTRA) \u00b7 $260.49/share \u00b7 $447,523 total \u00b7 Jul 29",
-    "tags": [],
-    "tickers": [
-      "NTRA"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1646382/000164638226000014/0001646382-26-000014-index.htm",
-    "published_iso": "2026-07-30T01:35:14+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "921177dca6c6",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Rabinowitz Daniel sold 884 shares of Natera, Inc. (NTRA) \u00b7 $260.49/share \u00b7 $230,274 total \u00b7 Jul 29 ($485,106 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "NTRA"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1857843/000185784326000021/0001857843-26-000021-index.htm",
-    "published_iso": "2026-07-30T01:35:13+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "7a5124f3755a",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Moshkevich Solomon sold 1,010 shares of Natera, Inc. (NTRA) \u00b7 $260.49/share \u00b7 $263,096 total \u00b7 Jul 29 ($568,997 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "NTRA"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2010019/000201001926000021/0002010019-26-000021-index.htm",
-    "published_iso": "2026-07-30T01:35:11+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "6d3b485c91f6",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Fesko John sold 782 shares of Natera, Inc. (NTRA) \u00b7 $260.49/share \u00b7 $203,704 total \u00b7 Jul 29 ($440,243 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "NTRA"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2010135/000201013526000016/0002010135-26-000016-index.htm",
-    "published_iso": "2026-07-30T01:35:09+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "a35c325ec601",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Chapman Steven Leonard sold 2,190 shares of Natera, Inc. (NTRA) \u00b7 $260.49/share \u00b7 $570,475 total \u00b7 Jul 29 ($1,480,047 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "NTRA"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1711968/000171196826000018/0001711968-26-000018-index.htm",
-    "published_iso": "2026-07-30T01:35:07+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "dc9b945c7e21",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Brophy Michael Burkes sold 782 shares of Natera, Inc. (NTRA) \u00b7 $260.49/share \u00b7 $203,704 total \u00b7 Jul 29 ($1,282,634 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "NTRA"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1697362/000169736226000014/0001697362-26-000014-index.htm",
-    "published_iso": "2026-07-30T01:35:06+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "269a8f609bb2",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "De Cock Paul F withheld (tax) 1,565 shares of Mohawk Industries Inc (MHK) \u00b7 $117.14/share \u00b7 $183,324 total \u00b7 Jul 29",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "MHK"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1759234/000175923426000008/0001759234-26-000008-index.htm",
-    "published_iso": "2026-07-30T01:22:17+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "bf2ea75c80d3",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "US military launches strikes on Iran in retaliation for attacks on US base in Jordan. The U.S. military began conducting airstrikes against Iran late Wednesday in retaliation for the Iranian Revolutionary Guard Corps (IRGC) attacking a U.S. base in Jordan the day before.  The U.S. forces began firing at 8 p.m., accordi",
-    "tags": [
-      "Defense",
-      "Taxes",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/defense/5998457-us-military-strikes-iran-retaliation-for-attacks-us-base-jordan/",
-    "published_iso": "2026-07-30T00:44:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "8c72613cb3ad",
@@ -447,7 +317,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2082627493266178497#m",
     "published_iso": "2026-07-30T00:41:02+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "eb0f75af6894",
@@ -466,7 +336,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s214?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-29T22:54:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "0a55ac1a5950",
@@ -485,7 +355,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s213?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-29T21:58:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "ad63be51aaf7",
@@ -507,7 +377,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-birthday-of-alexis-de-tocqueville/",
     "published_iso": "2026-07-29T19:44:12+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "dcd00aa841df",
@@ -533,7 +403,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
     "published_iso": "2026-07-29T18:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "45892c4a859b",
@@ -664,49 +534,6 @@
     "url": "https://www.whitehouse.gov/briefings-statements/2026/07/first-lady-melania-trump-announces-opening-of-christmas-volunteer-performer-applications-be30/",
     "published_iso": "2026-07-27T13:04:29+00:00",
     "time_ago": "2d ago"
-  },
-  {
-    "id": "6d927f3b963e",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "Restoring Trust in the Smithsonian Institution. By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1. \u00a0Policy.\u00a0On March 27, 2025, I issued Executive Order 14253 (Restoring Truth and Sanity to American History). \u00a0Pursuant to that ord",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/07/restoring-trust-in-the-smithsonian-institution-e061/",
-    "published_iso": "2026-07-24T20:19:11+00:00",
-    "time_ago": "5d ago"
-  },
-  {
-    "id": "06382d3ebedd",
-    "politician": "Politico",
-    "initials": "PO",
-    "role": "Political News",
-    "color": {
-      "bg": "#1a0a0a",
-      "fg": "#fca5a5"
-    },
-    "severity": "medium",
-    "content": "Dems pick South Carolina to lead 2028 primary calendar. The state edged Nevada to be first, marking a major shift from past primary schedules",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "politico",
-    "platform": "Politico",
-    "url": "https://www.politico.com/news/2026/07/24/democrats-dnc-2028-calendar-south-carolina-01011481",
-    "published_iso": "2026-07-24T17:26:40+00:00",
-    "time_ago": "5d ago"
   },
   {
     "id": "f5ac4efd58e3",
