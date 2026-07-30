@@ -1,6 +1,73 @@
 [
   {
-    "id": "dd2500436da4",
+    "id": "a4c58cec4efb",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Banks, Kim introduce stuttering legislation with backing of former NBA player. Sens. Jim Banks (R-Ind.) and Andy Kim (D-N.J.) on Wednesday introduced legislation that attempts to improve identification and treatment for children who stutter, with an assist from former NBA player Michael Kidd-Gilchrist. The legislation,",
+    "tags": [
+      "Healthcare",
+      "Banking",
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/senate/5998455-banks-kim-introduce-kidds-stuttering-act/",
+    "published_iso": "2026-07-30T03:36:21+00:00",
+    "time_ago": "32m ago"
+  },
+  {
+    "id": "0683a2ba4f9f",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Trump says SCOTUS ruling on tariffs and birthright citizenship costing country 'trillions and trillions of dollars'. President Trump on Wednesday claimed the Supreme Court striking down his emergency tariffs and executive order restricting birthright citizenship cost the country \u201ctrillions and trillions\u201d of dollars. Tr",
+    "tags": [
+      "Trade"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/5998515-trump-supreme-court-tariffs/",
+    "published_iso": "2026-07-30T02:02:24+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "3611e7cd535c",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Rural voters in Meadville, Pennsylvania are worried about being able to afford a home. They\u2019re demanding answers on how to protect jobs from getting replaced with AI. Their hospitals are losing funding while medical bills are piling up. Their elementary schools are closing. \n \nA 21st century New Deal for our time- for ",
+    "tags": [
+      "Healthcare",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/RoKhanna/status/2082641981436559788#m",
+    "published_iso": "2026-07-30T01:38:36+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "16e26f5cecb6",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,17 +76,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Bettinger Walter W exercised options for 192,488 shares of Schwab Charles Corp (SCHW-PJ) \u00b7 $52.05/share \u00b7 $10,019,000 total \u00b7 Jul 29 ($44,654,802 across all blocks)",
+    "content": "Sheena Jonathan sold 288 shares of Natera, Inc. (NTRA) \u00b7 $260.49/share \u00b7 $75,021 total \u00b7 Jul 29 ($123,549 across all blocks)",
     "tags": [],
-    "tickers": [],
+    "tickers": [
+      "NTRA"
+    ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1296479/000129647926000009/0001296479-26-000009-index.htm",
-    "published_iso": "2026-07-30T00:57:35+00:00",
-    "time_ago": "1m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1646649/000164664926000025/0001646649-26-000025-index.htm",
+    "published_iso": "2026-07-30T01:35:16+00:00",
+    "time_ago": "2h ago"
   },
   {
-    "id": "afd747a8a8ec",
+    "id": "58b21bb8525e",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -27,20 +96,20 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "critical",
-    "content": "Chan May K. exercised options for 1,448 shares of Cathay General Bancorp (CATY) \u00b7 Jul 29 ($29,216 across all blocks)",
+    "severity": "medium",
+    "content": "Rabinowitz Matthew sold 1,718 shares of Natera, Inc. (NTRA) \u00b7 $260.49/share \u00b7 $447,523 total \u00b7 Jul 29",
     "tags": [],
     "tickers": [
-      "CATY"
+      "NTRA"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1963555/000143774926024924/0001437749-26-024924-index.htm",
-    "published_iso": "2026-07-30T00:52:52+00:00",
-    "time_ago": "6m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1646382/000164638226000014/0001646382-26-000014-index.htm",
+    "published_iso": "2026-07-30T01:35:14+00:00",
+    "time_ago": "2h ago"
   },
   {
-    "id": "4bc2be4303a8",
+    "id": "921177dca6c6",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -48,17 +117,124 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "critical",
-    "content": "Lo Thomas M. exercised options for 2,896 shares of Cathay General Bancorp (CATY) \u00b7 Jul 29 ($58,431 across all blocks)",
+    "severity": "medium",
+    "content": "Rabinowitz Daniel sold 884 shares of Natera, Inc. (NTRA) \u00b7 $260.49/share \u00b7 $230,274 total \u00b7 Jul 29 ($485,106 across all blocks)",
     "tags": [],
     "tickers": [
-      "CATY"
+      "NTRA"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2009474/000143774926024923/0001437749-26-024923-index.htm",
-    "published_iso": "2026-07-30T00:52:15+00:00",
-    "time_ago": "6m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1857843/000185784326000021/0001857843-26-000021-index.htm",
+    "published_iso": "2026-07-30T01:35:13+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "7a5124f3755a",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Moshkevich Solomon sold 1,010 shares of Natera, Inc. (NTRA) \u00b7 $260.49/share \u00b7 $263,096 total \u00b7 Jul 29 ($568,997 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "NTRA"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2010019/000201001926000021/0002010019-26-000021-index.htm",
+    "published_iso": "2026-07-30T01:35:11+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "6d3b485c91f6",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Fesko John sold 782 shares of Natera, Inc. (NTRA) \u00b7 $260.49/share \u00b7 $203,704 total \u00b7 Jul 29 ($440,243 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "NTRA"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2010135/000201013526000016/0002010135-26-000016-index.htm",
+    "published_iso": "2026-07-30T01:35:09+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "a35c325ec601",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Chapman Steven Leonard sold 2,190 shares of Natera, Inc. (NTRA) \u00b7 $260.49/share \u00b7 $570,475 total \u00b7 Jul 29 ($1,480,047 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "NTRA"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1711968/000171196826000018/0001711968-26-000018-index.htm",
+    "published_iso": "2026-07-30T01:35:07+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "dc9b945c7e21",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Brophy Michael Burkes sold 782 shares of Natera, Inc. (NTRA) \u00b7 $260.49/share \u00b7 $203,704 total \u00b7 Jul 29 ($1,282,634 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "NTRA"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1697362/000169736226000014/0001697362-26-000014-index.htm",
+    "published_iso": "2026-07-30T01:35:06+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "269a8f609bb2",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "De Cock Paul F withheld (tax) 1,565 shares of Mohawk Industries Inc (MHK) \u00b7 $117.14/share \u00b7 $183,324 total \u00b7 Jul 29",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "MHK"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1759234/000175923426000008/0001759234-26-000008-index.htm",
+    "published_iso": "2026-07-30T01:22:17+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "bf2ea75c80d3",
@@ -86,7 +262,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/policy/defense/5998457-us-military-strikes-iran-retaliation-for-attacks-us-base-jordan/",
     "published_iso": "2026-07-30T00:44:00+00:00",
-    "time_ago": "15m ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "8c72613cb3ad",
@@ -108,89 +284,45 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2082627493266178497#m",
     "published_iso": "2026-07-30T00:41:02+00:00",
-    "time_ago": "17m ago"
+    "time_ago": "3h ago"
   },
   {
-    "id": "33e2f514af2e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "eb0f75af6894",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
     },
-    "severity": "medium",
-    "content": "Greenblatt David A. received 225 shares of Cavco Industries, Inc. (CVCO) \u00b7 Jul 29",
-    "tags": [],
-    "tickers": [
-      "CVCO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1448344/000162828026050728/0001628280-26-050728-index.htm",
-    "published_iso": "2026-07-30T00:22:18+00:00",
-    "time_ago": "36m ago"
-  },
-  {
-    "id": "112bbead7b0d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Murtagh Nigel J exercised options for 32,947 shares of Schwab Charles Corp (SCHW-PJ) \u00b7 $46.81/share \u00b7 $1,542,249 total \u00b7 Jul 29 ($4,969,086 across all blocks)",
+    "severity": "high",
+    "content": "Motion to Invoke Cloture: S. Res. 817. Vote: Cloture Motion Agreed to 50/45",
     "tags": [],
     "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1649599/000164959926000012/0001649599-26-000012-index.htm",
-    "published_iso": "2026-07-30T00:20:32+00:00",
-    "time_ago": "38m ago"
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s214?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-07-29T22:54:00+00:00",
+    "time_ago": "5h ago"
   },
   {
-    "id": "6f4586bc39db",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "0a55ac1a5950",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
     },
-    "severity": "medium",
-    "content": "Daniels Lisa Lynn received 225 shares of Cavco Industries, Inc. (CVCO) \u00b7 Jul 29",
+    "severity": "high",
+    "content": "Motion to Proceed on H.R. 5334: SEED Act. Vote: Motion to Proceed Agreed to 84/12",
     "tags": [],
-    "tickers": [
-      "CVCO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2092406/000162828026050726/0001628280-26-050726-index.htm",
-    "published_iso": "2026-07-30T00:19:57+00:00",
-    "time_ago": "39m ago"
-  },
-  {
-    "id": "f9b305aca523",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Sze Julia received 225 shares of Cavco Industries, Inc. (CVCO) \u00b7 Jul 29",
-    "tags": [],
-    "tickers": [
-      "CVCO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1777906/000162828026050723/0001628280-26-050723-index.htm",
-    "published_iso": "2026-07-30T00:19:11+00:00",
-    "time_ago": "39m ago"
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s213?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-07-29T21:58:00+00:00",
+    "time_ago": "6h ago"
   },
   {
     "id": "ad63be51aaf7",
@@ -212,33 +344,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-birthday-of-alexis-de-tocqueville/",
     "published_iso": "2026-07-29T19:44:12+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "d8260a72eff0",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "I stood on the picket line with frontline healthcare workers from Mount Nittany Medical Center to fight for a fair contract in which wages keep up with inflation.  \n \nIt is cruel that the hospital has taken away workers' health insurance to punish them for striking. \n \n Video",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS",
-      "GLD"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/RoKhanna/status/2082532191926452564#m",
-    "published_iso": "2026-07-29T18:22:20+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "dcd00aa841df",
@@ -264,7 +370,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
     "published_iso": "2026-07-29T18:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "cf5e89f15f02",
@@ -283,7 +389,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/C1-2026-13124/allocation-of-assets-in-single-employer-plans-interest-assumptions-for-valuing-benefits",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "466fb1faaea1",
@@ -302,7 +408,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15308/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "089c0ed644e4",
@@ -323,7 +429,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15303/medical-devices-radiology-devices-classification-of-the-phase-changing-fiducial-marker-for-radiation",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "cbe99a9eb90d",
@@ -342,7 +448,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15300/safety-zone-lake-ontario-olcott-ny",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "7051c674ecec",
@@ -363,7 +469,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15299/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-florida-keys-mole-skink",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "12b96e6a4729",
@@ -384,7 +490,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15298/endangered-and-threatened-wildlife-and-plants-revised-designation-of-critical-habitat-for-the",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "1d6f30a860c2",
@@ -410,7 +516,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15284/highly-erodible-land-and-wetland-conservation",
     "published_iso": "2026-07-29T04:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "45892c4a859b",
@@ -460,7 +566,7 @@
       "fg": "#c4b5fd"
     },
     "severity": "critical",
-    "content": "The Big Bank Lobby is trying to say that all of Wall Street is opposed to the Clarity Act. That's completely false.  \n \nSupporting: \n\u2705BlackRock \n\u2705Goldman Sachs \n\u2705Fidelity \n\u2705Franklin Templeton \n\u2705SoFi \n coindesk.com/policy/2026/07/\u2026  \n \n Link  \n \n Here&apos;s which Wall Street giants have backed the Clarity Act \n \n Black",
+    "content": "The Big Bank Lobby is trying to say that all of Wall Street is opposed to the Clarity Act. That's completely false.  \n \nSupporting: \n\u2705BlackRock \n\u2705Goldman Sachs \n\u2705Fidelity \n\u2705Franklin Templeton \n\u2705SoFi \n coindesk.com/policy/2026/07/\u2026  \n \n Link  \n \n \n \n Here&apos;s which Wall Street giants have backed the Clarity Act \n \n B",
     "tags": [
       "Crypto",
       "Banking",
@@ -523,7 +629,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15239/airworthiness-directives-the-boeing-company-airplanes",
     "published_iso": "2026-07-28T04:00:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "45a39b3c5dc1",
@@ -692,50 +798,6 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s207?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-23T15:51:00+00:00",
-    "time_ago": "6d ago"
-  },
-  {
-    "id": "80cd7e1d0220",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.R. 8884: Removing Barriers to Work for Disabled Americans Act. Vote: Passed 232/188",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h283?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-07-23T14:32:00+00:00",
-    "time_ago": "6d ago"
-  },
-  {
-    "id": "0a6e300d2b4f",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "critical",
-    "content": "H.Con.Res. 89: Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.. Vote: Passed 214/208",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h282?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-07-23T14:24:00+00:00",
     "time_ago": "6d ago"
   },
   {
