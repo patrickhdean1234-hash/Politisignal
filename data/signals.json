@@ -1,6 +1,6 @@
 [
   {
-    "id": "ccd49e61a45b",
+    "id": "2dd12c4122fb",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,81 +9,109 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Kaplan Robert Ira received 28,125 shares of Eagle Nuclear Energy Corp. (NUCLW) \u00b7 Jul 30",
-    "tags": [
-      "Energy"
-    ],
+    "content": "Schneider Paul J. gifted 3,665 shares of Schneider National, Inc. (SNDR) \u00b7 Jul 30",
+    "tags": [],
     "tickers": [
-      "NUCLW"
+      "SNDR"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2089283/000182578026000001/0001825780-26-000001-index.htm",
-    "published_iso": "2026-07-30T12:53:42+00:00",
-    "time_ago": "7m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1701588/000170158826000005/0001701588-26-000005-index.htm",
+    "published_iso": "2026-07-30T15:09:43+00:00",
+    "time_ago": "9m ago"
   },
   {
-    "id": "feb1396cfdb6",
+    "id": "b01a10beea74",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Siokas Grigorios bought 766,284 shares of Cosmos Health Inc. (COSM) \u00b7 $0.18/share \u00b7 $140,000 total \u00b7 Jul 30",
+    "tags": [],
+    "tickers": [
+      "COSM"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1660125/000147793226004606/0001477932-26-004606-index.htm",
+    "published_iso": "2026-07-30T15:09:21+00:00",
+    "time_ago": "9m ago"
+  },
+  {
+    "id": "d1faa9166adb",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
     },
     "severity": "critical",
-    "content": "Abernethy James S sold 1,000 shares of Peoples Bancorp Of North Carolina Inc (PEBK) \u00b7 $42.89/share \u00b7 $42,890 total \u00b7 Jul 30 ($64,475 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "PEBK"
+    "content": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank. Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
+    "tags": [
+      "Banking",
+      "Taxes"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1244172/000165495426006986/0001654954-26-006986-index.htm",
-    "published_iso": "2026-07-30T12:45:19+00:00",
-    "time_ago": "15m ago"
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
+    "published_iso": "2026-07-30T15:00:00+00:00",
+    "time_ago": "18m ago"
   },
   {
-    "id": "005a630f3014",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "8c663930da07",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
     },
-    "severity": "medium",
-    "content": "Morris Susan bought 20,277 shares of Albertsons Companies, Inc. (ACI) \u00b7 $11.46/share \u00b7 $232,273 total \u00b7 Jul 30 ($449,938 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "ACI"
+    "severity": "critical",
+    "content": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank. Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+    "tags": [
+      "Banking"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1797812/000162828026050831/0001628280-26-050831-index.htm",
-    "published_iso": "2026-07-30T12:32:47+00:00",
-    "time_ago": "28m ago"
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
+    "published_iso": "2026-07-30T15:00:00+00:00",
+    "time_ago": "18m ago"
   },
   {
-    "id": "15b6a4ff350f",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "4863b207623c",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Parrow Shane Edward received 312,500 shares of International Tower Hill Mines Ltd (THM) \u00b7 Jul 30",
+    "severity": "critical",
+    "content": "Welcome to America's nuclear golden age. In May 2025, President Trump issued\u00a0four executive orders\u00a0that broke with the status quo",
     "tags": [],
-    "tickers": [
-      "THM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2147958/000112329226001026/0001123292-26-001026-index.htm",
-    "published_iso": "2026-07-30T12:28:15+00:00",
-    "time_ago": "32m ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/energy-environment/5997402-trump-administration-nuclear-renaissance/",
+    "published_iso": "2026-07-30T14:30:00+00:00",
+    "time_ago": "48m ago"
   },
   {
     "id": "00028add06d9",
@@ -109,7 +137,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/07/first-lady-melania-trump-facilitates-her-fifth-ukrainerussia-family-reunification/",
     "published_iso": "2026-07-30T11:04:08+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "ccd0fd0d4b3a",
@@ -128,7 +156,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15467/airworthiness-directives-pilatus-aircraft-ltd-airplanes",
     "published_iso": "2026-07-30T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "8f32b614c7be",
@@ -147,7 +175,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15466/airworthiness-directives-stemme-gmbh-gliders",
     "published_iso": "2026-07-30T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "120dd56799e2",
@@ -166,7 +194,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15455/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-07-30T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "af934afb162a",
@@ -191,7 +219,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15446/medicare-program-updates-to-the-master-list-of-items-potentially-subject-to-face-to-face-encounter",
     "published_iso": "2026-07-30T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "803a45d0b431",
@@ -212,7 +240,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15434/procedures-for-submission-and-consideration-of-petitions-for-rulemaking",
     "published_iso": "2026-07-30T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "6d7395539eb4",
@@ -234,7 +262,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15420/duty-collection-for-domestic-mail-arriving-from-certain-insular-possessions-and-territories",
     "published_iso": "2026-07-30T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "2ed0c598e892",
@@ -253,7 +281,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15412/airworthiness-directives-mhi-rj-aviation-ulc-type-certificate-previously-held-by-bombardier-inc",
     "published_iso": "2026-07-30T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "85e2ec4b7959",
@@ -272,7 +300,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15411/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c",
     "published_iso": "2026-07-30T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "3611e7cd535c",
@@ -295,7 +323,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2082641981436559788#m",
     "published_iso": "2026-07-30T01:38:36+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "8c72613cb3ad",
@@ -317,7 +345,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2082627493266178497#m",
     "published_iso": "2026-07-30T00:41:02+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "eb0f75af6894",
@@ -336,7 +364,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s214?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-29T22:54:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "0a55ac1a5950",
@@ -355,7 +383,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s213?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-29T21:58:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "ad63be51aaf7",
@@ -377,7 +405,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-birthday-of-alexis-de-tocqueville/",
     "published_iso": "2026-07-29T19:44:12+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "dcd00aa841df",
@@ -403,7 +431,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
     "published_iso": "2026-07-29T18:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "45892c4a859b",
@@ -512,27 +540,6 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s210?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-27T21:30:00+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "0c1e9b550c5b",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "high",
-    "content": "First Lady Melania Trump Announces Opening of Christmas Volunteer & Performer Applications. Christmas planning is underway at the White House, and President Donald J. Trump and First Lady Melania Trump are excited to continue the cherished tradition of welcoming volunteers to help celebrate the holiday season at the Pe",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/briefings-statements/2026/07/first-lady-melania-trump-announces-opening-of-christmas-volunteer-performer-applications-be30/",
-    "published_iso": "2026-07-27T13:04:29+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -758,7 +765,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/PatrickMcHenry/status/2078478053945053615#m",
     "published_iso": "2026-07-18T13:52:38+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "cfac33502ddb",
@@ -805,7 +812,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260716a.htm",
     "published_iso": "2026-07-16T15:00:00+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "a8933978907e",
@@ -876,52 +883,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260709a.htm",
     "published_iso": "2026-07-09T15:00:00+00:00",
-    "time_ago": "20d ago"
-  },
-  {
-    "id": "dc169391dc18",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "Minutes of the Federal Open Market Committee, June 16-17, 2026. Minutes of the Federal Open Market Committee, June 16-17, 2026",
-    "tags": [],
-    "tickers": [],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
-    "published_iso": "2026-07-08T18:00:00+00:00",
     "time_ago": "21d ago"
-  },
-  {
-    "id": "417f0c14ac5b",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs. Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm",
-    "published_iso": "2026-07-07T19:00:00+00:00",
-    "time_ago": "22d ago"
   },
   {
     "id": "f6fb9773511f",
@@ -1009,7 +971,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "85d ago"
+    "time_ago": "86d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1031,7 +993,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "93d ago"
+    "time_ago": "94d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1055,7 +1017,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "121d ago"
+    "time_ago": "122d ago"
   },
   {
     "id": "432e035b915b",
@@ -1095,7 +1057,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "166d ago"
+    "time_ago": "167d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1114,7 +1076,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "166d ago"
+    "time_ago": "167d ago"
   },
   {
     "id": "c3776ad92a42",
