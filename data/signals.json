@@ -1,150 +1,78 @@
 [
   {
-    "id": "9c4d38413a2c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "377144253cbd",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Tomlin Jean exercised options for 8,426 shares of Capri Holdings Ltd (CPRI) \u00b7 Jul 31 ($62,703 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CPRI"
+    "severity": "critical",
+    "content": "Real estate has no place in US synagogues \u2014 especially when it's Palestinian land. What is a synagogue when\u00a0it's\u00a0not serving as a place of worship,\u00a0a house of\u00a0study, or a community center?\u00a0 One answer comes from American supporters of the Israeli government\u2019s expansionist policies. For them, a synagogue is a legitimate",
+    "tags": [
+      "Banking"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1572713/000095014226002225/0000950142-26-002225-index.htm",
-    "published_iso": "2026-07-31T13:16:56+00:00",
-    "time_ago": "1m ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/civil-rights/5995385-synagogues-real-estate/",
+    "published_iso": "2026-07-31T15:00:00+00:00",
+    "time_ago": "32m ago"
   },
   {
-    "id": "b48ad298f24e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "75401d5d3d31",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
     },
-    "severity": "medium",
-    "content": "Thompson Jane A. exercised options for 8,426 shares of Capri Holdings Ltd (CPRI) \u00b7 Jul 31 ($62,703 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CPRI"
+    "severity": "critical",
+    "content": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"\u2014bank executives, board members and major shareholders who could potentially influence a bank's lending decisions. Federal Reserve Board requests comment on a proposal to modernize its rule gov",
+    "tags": [
+      "Banking",
+      "Regulation"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1632443/000095014226002224/0000950142-26-002224-index.htm",
-    "published_iso": "2026-07-31T13:16:14+00:00",
-    "time_ago": "2m ago"
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
+    "published_iso": "2026-07-31T14:00:00+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "04fb2dd72182",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "ce52161a0822",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
     },
-    "severity": "medium",
-    "content": "Reitman Stephen F exercised options for 8,426 shares of Capri Holdings Ltd (CPRI) \u00b7 Jul 31 ($71,108 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CPRI"
+    "severity": "critical",
+    "content": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations. Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
+    "tags": [
+      "Banking",
+      "Regulation"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1530721/000095014226002223/0000950142-26-002223-index.htm",
-    "published_iso": "2026-07-31T13:15:31+00:00",
-    "time_ago": "3m ago"
-  },
-  {
-    "id": "ef33ff0b50ae",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Madhavan Mahesh exercised options for 8,426 shares of Capri Holdings Ltd (CPRI) \u00b7 Jul 31",
-    "tags": [],
     "tickers": [
-      "CPRI"
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1968588/000095014226002222/0000950142-26-002222-index.htm",
-    "published_iso": "2026-07-31T13:14:44+00:00",
-    "time_ago": "3m ago"
-  },
-  {
-    "id": "1f458da33e44",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Gibbons Judy exercised options for 8,426 shares of Capri Holdings Ltd (CPRI) \u00b7 Jul 31 ($62,703 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CPRI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1570548/000095014226002221/0000950142-26-002221-index.htm",
-    "published_iso": "2026-07-31T13:14:09+00:00",
-    "time_ago": "4m ago"
-  },
-  {
-    "id": "fe6a1136b3c4",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Freestone Robin Anthony David exercised options for 8,426 shares of Capri Holdings Ltd (CPRI) \u00b7 Jul 31 ($62,703 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CPRI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1688854/000095014226002220/0000950142-26-002220-index.htm",
-    "published_iso": "2026-07-31T13:13:32+00:00",
-    "time_ago": "5m ago"
-  },
-  {
-    "id": "f1709794c056",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Crouther Marilyn C exercised options for 8,426 shares of Capri Holdings Ltd (CPRI) \u00b7 Jul 31",
-    "tags": [],
-    "tickers": [
-      "CPRI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1822789/000095014226002219/0000950142-26-002219-index.htm",
-    "published_iso": "2026-07-31T13:12:53+00:00",
-    "time_ago": "5m ago"
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
+    "published_iso": "2026-07-31T14:00:00+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "484e130e308c",
@@ -163,7 +91,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15603/amendment-of-united-states-area-navigation-routes-rnav-t-285-and-t-286-in-the-vicinity-of-thedford",
     "published_iso": "2026-07-31T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "6cec01c920a2",
@@ -182,7 +110,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15601/modernization-of-the-nations-alerting-systems-protecting-the-nations-communications-systems-from",
     "published_iso": "2026-07-31T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "ce399ba5f3cf",
@@ -201,7 +129,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15599/amendment-of-united-states-area-navigation-route-t-388-in-the-vicinity-of-kodiak-alaska",
     "published_iso": "2026-07-31T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "5fd1756f7b4a",
@@ -222,7 +150,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15598/upper-c-band-398-42-ghz-expanding-flexible-use-of-the-37-to-42-ghz-band",
     "published_iso": "2026-07-31T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "85ead6ec4d08",
@@ -243,7 +171,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15597/flsa-claims-and-compliance",
     "published_iso": "2026-07-31T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "0c14aa00a32f",
@@ -264,7 +192,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15589/procedures-for-settling-claims",
     "published_iso": "2026-07-31T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "d50b79be706e",
@@ -290,7 +218,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15588/medicare-program-fy-2027-inpatient-psychiatric-facilities-prospective-payment-system-rate-update",
     "published_iso": "2026-07-31T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "87e422ff2a91",
@@ -311,7 +239,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15586/removal-of-references-to-the-uniform-guidelines-on-employee-selection-procedures-in-federal",
     "published_iso": "2026-07-31T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "db12cb4a8557",
@@ -336,9 +264,9 @@
     ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "http://nt.vern.cc/SpeakerJohnson/status/2082960054609698960#m",
+    "url": "https://nitter.net/SpeakerJohnson/status/2082960054609698960#m",
     "published_iso": "2026-07-30T22:42:31+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "1310772a8a4f",
@@ -365,7 +293,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/AOC/status/2082934237976539645#m",
     "published_iso": "2026-07-30T20:59:56+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "d7ea80164e05",
@@ -393,7 +321,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-delegates-defense-production-act-authority-with-respect-to-recoverable-critical-minerals-and-materials-that-are-essential-to-our-national-defense/",
     "published_iso": "2026-07-30T20:34:56+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "b693c620457f",
@@ -412,7 +340,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s217?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-30T17:46:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "2920ea766514",
@@ -434,7 +362,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mruultkwus2t",
     "published_iso": "2026-07-30T16:33:54.862000+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "27d9989a58b7",
@@ -460,7 +388,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mruulp3ovc2t",
     "published_iso": "2026-07-30T16:33:54.861000+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "c99d309f4b0a",
@@ -479,7 +407,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s216?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-30T16:28:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "5ed63879ee14",
@@ -498,9 +426,9 @@
     "tickers": [],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "http://nt.vern.cc/SpeakerJohnson/status/2082862366853599396#m",
+    "url": "https://nitter.net/SpeakerJohnson/status/2082862366853599396#m",
     "published_iso": "2026-07-30T16:14:20+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "b88abec6c525",
@@ -521,7 +449,33 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s215?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-30T15:30:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
+  },
+  {
+    "id": "8c663930da07",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank. Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
+    "published_iso": "2026-07-30T15:00:00+00:00",
+    "time_ago": "1d ago"
   },
   {
     "id": "d1faa9166adb",
@@ -548,33 +502,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
     "published_iso": "2026-07-30T15:00:00+00:00",
-    "time_ago": "22h ago"
-  },
-  {
-    "id": "8c663930da07",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank. Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
-    "published_iso": "2026-07-30T15:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "00028add06d9",
@@ -614,12 +542,13 @@
     "severity": "low",
     "content": "Republicans delivered historic wins for everyday Americans through the Working Families Tax Cuts \u2014 with provisions like No Tax on Tips, No Tax on Overtime, and huge relief in taxes on Social Security. \n \nIt\u2019s SHAMEFUL that many Democrat-led states REFUSE to let Americans keep more of their hard-earned money, just becau",
     "tags": [
+      "Regulation",
       "Taxes"
     ],
     "tickers": [],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "http://nt.vern.cc/SpeakerJohnson/status/2082627493266178497#m",
+    "url": "https://nitter.net/SpeakerJohnson/status/2082627493266178497#m",
     "published_iso": "2026-07-30T00:41:02+00:00",
     "time_ago": "1d ago"
   },
@@ -932,7 +861,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/PatrickMcHenry/status/2078478053945053615#m",
     "published_iso": "2026-07-18T13:52:38+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "cfac33502ddb",
@@ -979,7 +908,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260716a.htm",
     "published_iso": "2026-07-16T15:00:00+00:00",
-    "time_ago": "14d ago"
+    "time_ago": "15d ago"
   },
   {
     "id": "a8933978907e",
@@ -999,58 +928,6 @@
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
     "published_iso": "2026-07-14T18:00:00+00:00",
     "time_ago": "16d ago"
-  },
-  {
-    "id": "14224f4fd608",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy. Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
-    "published_iso": "2026-07-09T19:00:00+00:00",
-    "time_ago": "21d ago"
-  },
-  {
-    "id": "374047f602cb",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board issues enforcement action with TS Banking Group, Inc. and TS Contrarian Bancshares, Inc.. Federal Reserve Board issues enforcement action with TS Banking Group, Inc. and TS Contrarian Bancshares, Inc",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260709a.htm",
-    "published_iso": "2026-07-09T15:00:00+00:00",
-    "time_ago": "21d ago"
   },
   {
     "id": "f6fb9773511f",
@@ -1138,7 +1015,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "86d ago"
+    "time_ago": "87d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1160,7 +1037,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "94d ago"
+    "time_ago": "95d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1184,7 +1061,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "122d ago"
+    "time_ago": "123d ago"
   },
   {
     "id": "432e035b915b",
@@ -1224,7 +1101,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "167d ago"
+    "time_ago": "168d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1243,7 +1120,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "167d ago"
+    "time_ago": "168d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1288,6 +1165,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "226d ago"
+    "time_ago": "227d ago"
   }
 ]
