@@ -1,5 +1,120 @@
 [
   {
+    "id": "64804aba5480",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hippel James exercised options for 62,068 shares of Bio-Techne Corp (TECH) \u00b7 $47.60/share \u00b7 $2,954,437 total \u00b7 Jul 31 ($6,629,696 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "TECH"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1603594/000091419026000108/0000914190-26-000108-index.htm",
+    "published_iso": "2026-07-31T21:18:45+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "38f5494696bd",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ra Capital Healthcare Fund Lp bought 20,824 shares of Artiva Biotherapeutics, Inc. (ARTV) \u00b7 $9.99/share \u00b7 $208,032 total \u00b7 Jul 31 ($455,726 across all blocks)",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "ARTV"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1883840/000123191926000817/0001231919-26-000817-index.htm",
+    "published_iso": "2026-07-31T21:13:03+00:00",
+    "time_ago": "6m ago"
+  },
+  {
+    "id": "699b111bd13b",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Trump appeals ruling finding he colluded with DOJ in $10B IRS suit. The Trump administration on Friday appealed a ruling from a federal judge in Florida who found the president effectively colluded with his own government in bringing a $10 billion suit against the Internal Revenue Service. That suit, which the Justice ",
+    "tags": [
+      "Defense",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6003015-trump-appeals-irs-lawsuit-ruling/",
+    "published_iso": "2026-07-31T20:37:23+00:00",
+    "time_ago": "42m ago"
+  },
+  {
+    "id": "c333fb96b49b",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Live updates: Trump laments Blanche caught in fight over IRS deal, says Iran didn't cause Minnesota cyberattack. President Trump and his Cabinet are gathered at Camp David for their 13th Cabinet meeting of his second term. Among the new faces at the table are Jay Clayton, incoming director of national intelligence, and",
+    "tags": [
+      "Agriculture",
+      "Taxes",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6001555-live-updates-trump-cabinet-camp-david-iran/",
+    "published_iso": "2026-07-31T20:21:32+00:00",
+    "time_ago": "57m ago"
+  },
+  {
+    "id": "4e97025b6df6",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "medium",
+    "content": "President Trump Hosts Historic Cabinet Meeting at Camp David. President Donald J. Trump convened his Cabinet today for the first live, televised Cabinet meeting at Camp David in American history. The session showcased the Trump Administration\u2019s rapid progress in restoring American strength, security, prosperity, and co",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/07/president-trump-hosts-historic-cabinet-meeting-at-camp-david/",
+    "published_iso": "2026-07-31T19:55:19+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "75401d5d3d31",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -24,7 +139,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
     "published_iso": "2026-07-31T14:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "ce52161a0822",
@@ -51,7 +166,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
     "published_iso": "2026-07-31T14:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "484e130e308c",
@@ -70,7 +185,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15603/amendment-of-united-states-area-navigation-routes-rnav-t-285-and-t-286-in-the-vicinity-of-thedford",
     "published_iso": "2026-07-31T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "6cec01c920a2",
@@ -89,7 +204,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15601/modernization-of-the-nations-alerting-systems-protecting-the-nations-communications-systems-from",
     "published_iso": "2026-07-31T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "ce399ba5f3cf",
@@ -108,7 +223,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15599/amendment-of-united-states-area-navigation-route-t-388-in-the-vicinity-of-kodiak-alaska",
     "published_iso": "2026-07-31T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "5fd1756f7b4a",
@@ -129,7 +244,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15598/upper-c-band-398-42-ghz-expanding-flexible-use-of-the-37-to-42-ghz-band",
     "published_iso": "2026-07-31T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "85ead6ec4d08",
@@ -150,7 +265,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15597/flsa-claims-and-compliance",
     "published_iso": "2026-07-31T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "0c14aa00a32f",
@@ -171,7 +286,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15589/procedures-for-settling-claims",
     "published_iso": "2026-07-31T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "d50b79be706e",
@@ -197,7 +312,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15588/medicare-program-fy-2027-inpatient-psychiatric-facilities-prospective-payment-system-rate-update",
     "published_iso": "2026-07-31T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "87e422ff2a91",
@@ -218,7 +333,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15586/removal-of-references-to-the-uniform-guidelines-on-employee-selection-procedures-in-federal",
     "published_iso": "2026-07-31T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "db12cb4a8557",
@@ -245,7 +360,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2082960054609698960#m",
     "published_iso": "2026-07-30T22:42:31+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "1310772a8a4f",
@@ -272,7 +387,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/AOC/status/2082934237976539645#m",
     "published_iso": "2026-07-30T20:59:56+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "d7ea80164e05",
@@ -300,7 +415,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-delegates-defense-production-act-authority-with-respect-to-recoverable-critical-minerals-and-materials-that-are-essential-to-our-national-defense/",
     "published_iso": "2026-07-30T20:34:56+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "b693c620457f",
@@ -548,28 +663,6 @@
     "time_ago": "1d ago"
   },
   {
-    "id": "ad63be51aaf7",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "Presidential Message on the Birthday of Alexis de Tocqueville. Today, our Nation honors the life, legacy, and enduring wisdom of Alexis de Tocqueville\u2014a great witness to the promise of our young Republic and one of the most brilliant political minds in the history of the world. In May of 1831, French magistrate Alexis ",
-    "tags": [
-      "Energy",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-birthday-of-alexis-de-tocqueville/",
-    "published_iso": "2026-07-29T19:44:12+00:00",
-    "time_ago": "2d ago"
-  },
-  {
     "id": "dcd00aa841df",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -773,7 +866,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "00574dc3c125",
@@ -795,7 +888,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-launches-the-reading-room-a-public-archive-of-the-committees-ongoing-covid-19-origins-investigations/",
     "published_iso": "2026-07-20T20:42:12+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "a911872ff396",
@@ -903,7 +996,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/usembassyve/status/2073873845241413988#m",
     "published_iso": "2026-07-05T20:57:10+00:00",
-    "time_ago": "25d ago"
+    "time_ago": "26d ago"
   },
   {
     "id": "ddb58e0107d1",
