@@ -1,48 +1,6 @@
 [
   {
-    "id": "11a1f37acf2c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Stilwell Joseph bought 4,692 shares of Peoples Financial Corp /Ms/ (PFBX) \u00b7 $22.25/share \u00b7 $104,392 total \u00b7 Aug 3 ($949,094 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "PFBX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1573720/000111330326000053/0001113303-26-000053-index.htm",
-    "published_iso": "2026-08-03T14:03:03+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "17b188d7bf9b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Kendall Laura C exercised options for 10,000 shares of Hometrust Bancshares, Inc. (HTB) \u00b7 $24.95/share \u00b7 $249,500 total \u00b7 Aug 3 ($760,848 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "HTB"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1538263/000153826326000098/0001538263-26-000098-index.htm",
-    "published_iso": "2026-08-03T14:02:18+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "6e274d0f0d3f",
+    "id": "5b8d0b8b0d33",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -50,22 +8,48 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "high",
-    "content": "Live updates: Deal to end part of Trump's IRS settlement clears Blanche's confirmation path. The Senate Judiciary Committee is expected to vote Tuesday on acting Attorney General Todd Blanche's nomination, a path smoothed on Sunday by a deal reached with Sen. John Cornyn (R-Texas). \u201cSen. Cornyn has reached an agreement",
+    "severity": "critical",
+    "content": "Watch live: Trump signs executive order. President Trump on Monday afternoon is scheduled to sign an executive order at the White House. The event comes after Sen. John Cornyn (R-Texas) reached a deal with the Justice Department to end the $1.8 billion \u201canti-weaponization\u201d fund for Trump\u2019s allies, paving the way for Co",
     "tags": [
       "Agriculture",
       "Defense",
-      "Taxes"
+      "Regulation"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6005157-live-updates-trump-iran-senate-blanche-cornyn/",
-    "published_iso": "2026-08-03T13:09:58+00:00",
-    "time_ago": "54m ago"
+    "url": "https://thehill.com/video-clips/6005068-watch-live-trump-signs-executive-order/",
+    "published_iso": "2026-08-03T16:30:00+00:00",
+    "time_ago": "6m ago"
   },
   {
-    "id": "6f8000adcd73",
+    "id": "9f1a303e0bab",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "I\u2019m proud to support my friend,  @AishaforMI , for Congress in Michigan\u2019s 11th District. I endorsed her enthusiastically. \n \nAisha will fight to lower the cost of living, guarantee Medicare for All, abolish ICE, oppose AI Data Centers in residential Michigan and ensure our taxpayer dollars are invested in education, he",
+    "tags": [
+      "Healthcare",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/RoKhanna/status/2084312084138152299#m",
+    "published_iso": "2026-08-03T16:15:00+00:00",
+    "time_ago": "21m ago"
+  },
+  {
+    "id": "52c54ce058c0",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -73,18 +57,21 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Former Rep. Kay Granger dies at 83. Lawmakers are mourning the death of former Rep. Kay Granger (R-Texas), who died on Sunday at the age of 83 years old.  Granger, the first GOP woman to chair the House Appropriations Committee, was well respected within the Republican Party. She previously served as vice chairwoman of",
+    "severity": "critical",
+    "content": "Trump administration sued for banning gender transition treatments in federal health plans. An arm of the Human Rights Campaign launched a class-action lawsuit on Monday challenging the Trump administration\u2019s gender-affirming care coverage ban in federal workers\u2019 health insurance plans.  The lawsuit claims the ban viol",
     "tags": [
-      "Regulation",
-      "Taxes"
+      "Regulation"
     ],
-    "tickers": [],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/6005128-former-us-rep-kay-granger-dies-at-83/",
-    "published_iso": "2026-08-03T12:33:51+00:00",
-    "time_ago": "1h ago"
+    "url": "https://thehill.com/regulation/court-battles/6005931-hrcf-trump-administration-gender-affirming-care-health-insurance/",
+    "published_iso": "2026-08-03T16:11:15+00:00",
+    "time_ago": "25m ago"
   },
   {
     "id": "6052a13aca7c",
@@ -111,7 +98,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2084233041736524108#m",
     "published_iso": "2026-08-03T11:00:54+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "eeef21b347ae",
@@ -132,7 +119,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15726/visas-visa-bond-program",
     "published_iso": "2026-08-03T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "82781edd4e0c",
@@ -153,7 +140,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15720/rescinding-portions-of-department-of-the-treasury-title-vi-regulations-to-conform-more-closely-with",
     "published_iso": "2026-08-03T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "892bad06d9d8",
@@ -179,7 +166,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15686/medicare-program-fy-2027-hospice-wage-index-and-payment-rate-update-and-hospice-quality-reporting",
     "published_iso": "2026-08-03T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "76b5051d19cc",
@@ -200,7 +187,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15681/reducing-bureaucracy-and-burden-in-family-violence-and-prevention-services",
     "published_iso": "2026-08-03T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "9a27af7fcc3d",
@@ -219,7 +206,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15680/amendment-of-very-high-frequency-omnidirectional-range-federal-airways-v-108-in-the-vicinity-of",
     "published_iso": "2026-08-03T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "80accf384a8b",
@@ -238,7 +225,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15675/establishment-of-united-states-area-navigation-route-t-581-in-the-vicinity-of-missoula-montana",
     "published_iso": "2026-08-03T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "2ad902607672",
@@ -259,7 +246,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15666/reduction-in-force-appeals",
     "published_iso": "2026-08-03T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "22d2bdcc29de",
@@ -280,7 +267,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15665/reduction-in-force",
     "published_iso": "2026-08-03T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "4e97025b6df6",
@@ -451,7 +438,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mruultkwus2t",
     "published_iso": "2026-07-30T16:33:54.862000+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "27d9989a58b7",
@@ -477,7 +464,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mruulp3ovc2t",
     "published_iso": "2026-07-30T16:33:54.861000+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "c99d309f4b0a",
@@ -496,7 +483,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s216?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-30T16:28:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "b88abec6c525",
@@ -517,7 +504,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s215?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-30T15:30:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "8c663930da07",
@@ -543,7 +530,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
     "published_iso": "2026-07-30T15:00:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "d1faa9166adb",
@@ -570,7 +557,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
     "published_iso": "2026-07-30T15:00:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "00028add06d9",
@@ -746,7 +733,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "de38f5381391",
@@ -932,7 +919,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260716a.htm",
     "published_iso": "2026-07-16T15:00:00+00:00",
-    "time_ago": "17d ago"
+    "time_ago": "18d ago"
   },
   {
     "id": "a8933978907e",
@@ -1013,7 +1000,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "83d ago"
+    "time_ago": "84d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1039,7 +1026,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "89d ago"
+    "time_ago": "90d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1061,7 +1048,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "97d ago"
+    "time_ago": "98d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1125,7 +1112,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "170d ago"
+    "time_ago": "171d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1144,7 +1131,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "170d ago"
+    "time_ago": "171d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1189,6 +1176,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "229d ago"
+    "time_ago": "230d ago"
   }
 ]
