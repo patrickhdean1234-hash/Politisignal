@@ -1,6 +1,6 @@
 [
   {
-    "id": "8a92c93b8d55",
+    "id": "11a1f37acf2c",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Avidan Guy bought 2,000 shares of Radware Ltd (RDWR) \u00b7 $25.21/share \u00b7 $50,420 total \u00b7 Aug 3",
+    "content": "Stilwell Joseph bought 4,692 shares of Peoples Financial Corp /Ms/ (PFBX) \u00b7 $22.25/share \u00b7 $104,392 total \u00b7 Aug 3 ($949,094 across all blocks)",
     "tags": [],
     "tickers": [
-      "RDWR"
+      "PFBX"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1406569/000197640826000682/0001976408-26-000682-index.htm",
-    "published_iso": "2026-08-03T11:21:09+00:00",
-    "time_ago": "26m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1573720/000111330326000053/0001113303-26-000053-index.htm",
+    "published_iso": "2026-08-03T14:03:03+00:00",
+    "time_ago": "1m ago"
   },
   {
-    "id": "c23c23c0fb33",
+    "id": "17b188d7bf9b",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -29,38 +29,62 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "medium",
-    "content": "Carrel Michael H gifted 700 shares of Atricure, Inc. (ATRC) \u00b7 Aug 3 ($0 across all blocks)",
+    "severity": "critical",
+    "content": "Kendall Laura C exercised options for 10,000 shares of Hometrust Bancshares, Inc. (HTB) \u00b7 $24.95/share \u00b7 $249,500 total \u00b7 Aug 3 ($760,848 across all blocks)",
     "tags": [],
     "tickers": [
-      "ATRC"
+      "HTB"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1323885/000123058426000008/0001230584-26-000008-index.htm",
-    "published_iso": "2026-08-03T11:18:20+00:00",
-    "time_ago": "29m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1538263/000153826326000098/0001538263-26-000098-index.htm",
+    "published_iso": "2026-08-03T14:02:18+00:00",
+    "time_ago": "2m ago"
   },
   {
-    "id": "4803dc421b62",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "6e274d0f0d3f",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Live updates: Deal to end part of Trump's IRS settlement clears Blanche's confirmation path. The Senate Judiciary Committee is expected to vote Tuesday on acting Attorney General Todd Blanche's nomination, a path smoothed on Sunday by a deal reached with Sen. John Cornyn (R-Texas). \u201cSen. Cornyn has reached an agreement",
+    "tags": [
+      "Agriculture",
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6005157-live-updates-trump-iran-senate-blanche-cornyn/",
+    "published_iso": "2026-08-03T13:09:58+00:00",
+    "time_ago": "54m ago"
+  },
+  {
+    "id": "6f8000adcd73",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Reskos Nikolaos sold 5,000 shares of Star Bulk Carriers Corp. (SBLK) \u00b7 $28.99/share \u00b7 $144,950 total \u00b7 Aug 3",
-    "tags": [],
-    "tickers": [
-      "SBLK"
+    "content": "Former Rep. Kay Granger dies at 83. Lawmakers are mourning the death of former Rep. Kay Granger (R-Texas), who died on Sunday at the age of 83 years old.  Granger, the first GOP woman to chair the House Appropriations Committee, was well respected within the Republican Party. She previously served as vice chairwoman of",
+    "tags": [
+      "Regulation",
+      "Taxes"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1969292/000196929226000007/0001969292-26-000007-index.htm",
-    "published_iso": "2026-08-03T11:08:56+00:00",
-    "time_ago": "38m ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/house/6005128-former-us-rep-kay-granger-dies-at-83/",
+    "published_iso": "2026-08-03T12:33:51+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "6052a13aca7c",
@@ -87,47 +111,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2084233041736524108#m",
     "published_iso": "2026-08-03T11:00:54+00:00",
-    "time_ago": "46m ago"
-  },
-  {
-    "id": "02de66d405d5",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Moreno David bought 2,475 shares of Ftai Aviation Ltd. (FTAIM) \u00b7 $201.27/share \u00b7 $498,143 total \u00b7 Aug 3",
-    "tags": [],
-    "tickers": [
-      "FTAIM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2060958/000159036426000078/0001590364-26-000078-index.htm",
-    "published_iso": "2026-08-03T11:00:30+00:00",
-    "time_ago": "47m ago"
-  },
-  {
-    "id": "495ec474ee63",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "FIFA\u00a0backs off\u00a0World Cup private equity pitch\u00a0after\u00a0global fury: 5 things to know. FIFA pulled back late last week on an effort to cash in on the popularity of the World Cup by selling it to private equity as part of a broader investment strategy, a move that had sparked an international controversy and threatened the ",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/keeping-score/6002849-fifa-world-cup-private-equity/",
-    "published_iso": "2026-08-03T10:00:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "eeef21b347ae",
@@ -148,7 +132,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15726/visas-visa-bond-program",
     "published_iso": "2026-08-03T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "82781edd4e0c",
@@ -169,7 +153,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15720/rescinding-portions-of-department-of-the-treasury-title-vi-regulations-to-conform-more-closely-with",
     "published_iso": "2026-08-03T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "892bad06d9d8",
@@ -195,7 +179,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15686/medicare-program-fy-2027-hospice-wage-index-and-payment-rate-update-and-hospice-quality-reporting",
     "published_iso": "2026-08-03T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "76b5051d19cc",
@@ -216,7 +200,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15681/reducing-bureaucracy-and-burden-in-family-violence-and-prevention-services",
     "published_iso": "2026-08-03T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "9a27af7fcc3d",
@@ -235,7 +219,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15680/amendment-of-very-high-frequency-omnidirectional-range-federal-airways-v-108-in-the-vicinity-of",
     "published_iso": "2026-08-03T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "80accf384a8b",
@@ -254,7 +238,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15675/establishment-of-united-states-area-navigation-route-t-581-in-the-vicinity-of-missoula-montana",
     "published_iso": "2026-08-03T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "2ad902607672",
@@ -275,7 +259,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15666/reduction-in-force-appeals",
     "published_iso": "2026-08-03T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "22d2bdcc29de",
@@ -296,7 +280,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15665/reduction-in-force",
     "published_iso": "2026-08-03T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "4e97025b6df6",
@@ -344,7 +328,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
     "published_iso": "2026-07-31T14:00:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "ce52161a0822",
@@ -371,7 +355,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
     "published_iso": "2026-07-31T14:00:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "1310772a8a4f",
@@ -834,7 +818,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "555d7f3dd315",
@@ -901,7 +885,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/PatrickMcHenry/status/2078478053945053615#m",
     "published_iso": "2026-07-18T13:52:38+00:00",
-    "time_ago": "15d ago"
+    "time_ago": "16d ago"
   },
   {
     "id": "cfac33502ddb",
@@ -1101,7 +1085,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "125d ago"
+    "time_ago": "126d ago"
   },
   {
     "id": "432e035b915b",
