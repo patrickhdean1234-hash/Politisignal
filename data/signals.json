@@ -1,6 +1,27 @@
 [
   {
-    "id": "5b8d0b8b0d33",
+    "id": "9fdc1deb0938",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "39 percent approve of Trump performance on immigration: Survey. A new poll shows that more Americans do not approve of President Trump's handling of immigration, a core issue on his political agenda. The Associated Press-NORC Center for Public Affairs Research\u00a0found that 39 percent of respondents approve of his handlin",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6005968-trump-immigration-poll-disapproval/",
+    "published_iso": "2026-08-03T18:09:02+00:00",
+    "time_ago": "14m ago"
+  },
+  {
+    "id": "5c0293d4b04f",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,18 +30,76 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Watch live: Trump signs executive order. President Trump on Monday afternoon is scheduled to sign an executive order at the White House. The event comes after Sen. John Cornyn (R-Texas) reached a deal with the Justice Department to end the $1.8 billion \u201canti-weaponization\u201d fund for Trump\u2019s allies, paving the way for Co",
+    "content": "Live updates: Cornyn backs Blanche's confirmation; Trump establishes military families commission. President Trump said Monday that talks with Iran \"are going along.\" Earlier Monday, Iran pushed back on the claim that it was negotiating on the Strait of Hormuz and ending the war. Trump reiterated that after signing an ",
     "tags": [
       "Agriculture",
       "Defense",
-      "Regulation"
+      "Sanctions"
     ],
-    "tickers": [],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/video-clips/6005068-watch-live-trump-signs-executive-order/",
-    "published_iso": "2026-08-03T16:30:00+00:00",
-    "time_ago": "6m ago"
+    "url": "https://thehill.com/homenews/administration/6005157-live-updates-trump-iran-senate-blanche-cornyn/",
+    "published_iso": "2026-08-03T18:02:09+00:00",
+    "time_ago": "20m ago"
+  },
+  {
+    "id": "04ba0828c382",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Hegseth's wife to head commission helping military spouses and families. President Trump signed an executive order on Monday to form a new commission focused on improving the lives of military spouses and families and addressing the challenges they encounter.\u00a0 The new commission, called the President's Military Spouse ",
+    "tags": [
+      "Defense"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/defense/6006186-trump-signs-military-spouse-commission/",
+    "published_iso": "2026-08-03T17:58:45+00:00",
+    "time_ago": "24m ago"
+  },
+  {
+    "id": "9c9bd9ea7bec",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "critical",
+    "content": "The Trump Administration is sending billions to Amazon, Apple, Walmart, and other big corporations to refund them for Trump\u2019s tariffs. \n \nAmerican households were estimated to lose over $1,000 to tariff price hikes. \n \nHere's an idea: refund working families before big business. \n \n \n Bloomberg (@business) \n \n Amazon s",
+    "tags": [
+      "Big Tech",
+      "Trade",
+      "Regulation"
+    ],
+    "tickers": [
+      "AAPL",
+      "AMZN",
+      "WMT"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/RoKhanna/status/2084331860566364314#m",
+    "published_iso": "2026-08-03T17:33:35+00:00",
+    "time_ago": "49m ago"
   },
   {
     "id": "9f1a303e0bab",
@@ -46,59 +125,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2084312084138152299#m",
     "published_iso": "2026-08-03T16:15:00+00:00",
-    "time_ago": "21m ago"
-  },
-  {
-    "id": "52c54ce058c0",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Trump administration sued for banning gender transition treatments in federal health plans. An arm of the Human Rights Campaign launched a class-action lawsuit on Monday challenging the Trump administration\u2019s gender-affirming care coverage ban in federal workers\u2019 health insurance plans.  The lawsuit claims the ban viol",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/regulation/court-battles/6005931-hrcf-trump-administration-gender-affirming-care-health-insurance/",
-    "published_iso": "2026-08-03T16:11:15+00:00",
-    "time_ago": "25m ago"
-  },
-  {
-    "id": "6052a13aca7c",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Instead of having DC think tanks tell deindustrialized communities hollowed out by bad trade deals and Wall Street what  they should now do, how about we ask them what they want and need? \n \n \n John DeBartola (@JohnDeBartola) \n \n US Congressman Ro Khanna visited Johnstown and spoke to Jason Lammertin of Solid Platforms",
-    "tags": [
-      "Trade",
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/RoKhanna/status/2084233041736524108#m",
-    "published_iso": "2026-08-03T11:00:54+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "eeef21b347ae",
@@ -119,7 +146,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15726/visas-visa-bond-program",
     "published_iso": "2026-08-03T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "82781edd4e0c",
@@ -140,7 +167,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15720/rescinding-portions-of-department-of-the-treasury-title-vi-regulations-to-conform-more-closely-with",
     "published_iso": "2026-08-03T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "892bad06d9d8",
@@ -166,7 +193,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15686/medicare-program-fy-2027-hospice-wage-index-and-payment-rate-update-and-hospice-quality-reporting",
     "published_iso": "2026-08-03T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "76b5051d19cc",
@@ -187,7 +214,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15681/reducing-bureaucracy-and-burden-in-family-violence-and-prevention-services",
     "published_iso": "2026-08-03T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "9a27af7fcc3d",
@@ -206,7 +233,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15680/amendment-of-very-high-frequency-omnidirectional-range-federal-airways-v-108-in-the-vicinity-of",
     "published_iso": "2026-08-03T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "80accf384a8b",
@@ -225,7 +252,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15675/establishment-of-united-states-area-navigation-route-t-581-in-the-vicinity-of-missoula-montana",
     "published_iso": "2026-08-03T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "2ad902607672",
@@ -246,7 +273,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15666/reduction-in-force-appeals",
     "published_iso": "2026-08-03T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "22d2bdcc29de",
@@ -267,7 +294,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15665/reduction-in-force",
     "published_iso": "2026-08-03T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "4e97025b6df6",
@@ -416,7 +443,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s217?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-30T17:46:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "2920ea766514",
@@ -647,7 +674,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
     "published_iso": "2026-07-29T18:00:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "45892c4a859b",
@@ -783,7 +810,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-releases-updated-clarity-act-text/",
     "published_iso": "2026-07-22T16:49:25+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -893,7 +920,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
     "published_iso": "2026-07-16T18:00:00+00:00",
-    "time_ago": "17d ago"
+    "time_ago": "18d ago"
   },
   {
     "id": "bcb8b8a6c731",
@@ -938,7 +965,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
     "published_iso": "2026-07-14T18:00:00+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "f6fb9773511f",
@@ -1157,7 +1184,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "192d ago"
+    "time_ago": "193d ago"
   },
   {
     "id": "d3ca74df7f0f",
