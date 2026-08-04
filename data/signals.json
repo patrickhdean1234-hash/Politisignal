@@ -1,27 +1,34 @@
 [
   {
-    "id": "50063011a058",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "b7d37af92239",
+    "politician": "Sen. Bernie Sanders",
+    "initials": "BS",
+    "role": "Senate HELP Committee",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#1e2a4a",
+      "fg": "#818cf8"
     },
     "severity": "medium",
-    "content": "Odonnell Francis E Jr received 50,000 shares of Inhibitor Therapeutics, Inc. (INTI) \u00b7 Aug 4",
-    "tags": [],
-    "tickers": [
-      "INTI"
+    "content": "Will Lawrence is leading the fight against Big Tech Oligarchs and their data centers. He'll stand up to the billionaire class, fight for Medicare for All and represent working families' needs. \n \nLet\u2019s do all we can to elect Will to Michigan's 7th congressional district today. \n \n Video",
+    "tags": [
+      "Big Tech",
+      "Healthcare",
+      "Regulation"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1066040/000149315226035950/0001493152-26-035950-index.htm",
-    "published_iso": "2026-08-04T15:55:47+00:00",
-    "time_ago": "1m ago"
+    "tickers": [
+      "AMZN",
+      "GOOGL",
+      "AAPL",
+      "META"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/BernieSanders/status/2084694822791544883#m",
+    "published_iso": "2026-08-04T17:35:52+00:00",
+    "time_ago": "10m ago"
   },
   {
-    "id": "8eaa36738531",
+    "id": "9130cd1c17db",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -29,23 +36,45 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Max Miller says Trump warned of 'tough' road ahead in phone call. President Trump told Ohio Rep. Max Miller (R) during a phone call that he will face a tough reelection cycle due to the domestic abuse allegations against the lawmaker. Miller told The Wall Street Journal that Trump told him on Monday his prospects for w",
+    "severity": "high",
+    "content": "Grisham files restraining order against Max Miller. Former White House Communications Director during President Trump\u2019s first term Stephanie Grisham filed a restraining order against Rep. Max Miller (R-Ohio), following allegations of abuse from his ex-wife. Grisham\u2019s counsel Mark S. Zaid announced on social platform X ",
     "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/house/6008305-stephanie-grisham-max-miller-lawsuit/",
+    "published_iso": "2026-08-04T16:57:24+00:00",
+    "time_ago": "49m ago"
+  },
+  {
+    "id": "07b40d2b3199",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Appeals court blocks Trump from rescinding green bank funds. In a reversal, a federal appeals court has once again blocked the Trump administration from rescinding billions in climate funds issued under the Biden administration\u2019s signature Inflation Reduction Act (IRA). The D.C. Circuit Court of Appeals reinstated part",
+    "tags": [
+      "Energy",
       "Banking",
       "Regulation"
     ],
     "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
+      "GLD",
+      "TLT",
+      "SPY"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6008042-trump-warns-max-miller-reelection/",
-    "published_iso": "2026-08-04T15:21:09+00:00",
-    "time_ago": "35m ago"
+    "url": "https://thehill.com/policy/energy-environment/6008344-trump-epa-biden-green-energy-funds/",
+    "published_iso": "2026-08-04T16:54:17+00:00",
+    "time_ago": "52m ago"
   },
   {
     "id": "28a89630f8f4",
@@ -70,7 +99,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3msbbrgv3ts26",
     "published_iso": "2026-08-04T15:01:43.091000+00:00",
-    "time_ago": "54m ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "5f2715b4477f",
@@ -91,7 +120,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2084644483665154417#m",
     "published_iso": "2026-08-04T14:15:50+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "e2e9e31cac61",
@@ -113,7 +142,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15835/accessible-lavatories-on-single-aisle-aircraft-and-ensuring-safe-accommodations-for-air-travelers",
     "published_iso": "2026-08-04T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "fb2ee544b18e",
@@ -139,7 +168,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15833/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and",
     "published_iso": "2026-08-04T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "1903ec281b2f",
@@ -158,7 +187,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15825/airworthiness-directives-diamond-aircraft-industries-inc-airplanes",
     "published_iso": "2026-08-04T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "5492a0ab82da",
@@ -180,7 +209,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15823/hazardous-materials-reducing-burdens-on-domestic-companies-using-battery-powered-equipment-in-trades",
     "published_iso": "2026-08-04T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "aea0c3347a11",
@@ -201,7 +230,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15820/hazardous-materials-adoption-of-department-of-transportation-special-permit-21478",
     "published_iso": "2026-08-04T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "bcd0e98349d4",
@@ -222,7 +251,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15819/hazardous-materials-adoption-of-department-of-transportation-special-permit-14175",
     "published_iso": "2026-08-04T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "1892accc85c8",
@@ -243,7 +272,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15818/hazardous-materials-adoption-of-department-of-transportation-special-permit-21379",
     "published_iso": "2026-08-04T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "d00dc599ec48",
@@ -265,7 +294,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15817/hazardous-materials-adoption-of-department-of-transportation-special-permit-21287",
     "published_iso": "2026-08-04T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "52d0edb4a4e3",
@@ -284,7 +313,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s218?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-03T21:32:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "e181526bf420",
@@ -309,7 +338,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2084383508236026182#m",
     "published_iso": "2026-08-03T20:58:48+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "2e0132bbd9a5",
@@ -321,7 +350,7 @@
       "fg": "#e2e8f0"
     },
     "severity": "critical",
-    "content": "Fact Sheet: President Donald J. Trump Establishes the President\u2019s Military Spouse Commission. STRENGTHENING MILITARY READINESS:&#160;Today, President Donald J. Trump signed an Executive Order establishing the Military Spouse Commission to strengthen military readiness by improving the quality of life for military spous",
+    "content": "Fact Sheet: President Donald J. Trump Establishes the President\u2019s Military Spouse Commission. STRENGTHENING MILITARY READINESS:\u00a0Today, President Donald J. Trump signed an Executive Order establishing the Military Spouse Commission to strengthen military readiness by improving the quality of life for military spouses an",
     "tags": [
       "Defense",
       "Taxes"
@@ -336,7 +365,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-establishes-the-presidents-military-spouse-commission/",
     "published_iso": "2026-08-03T18:55:57+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "9c9bd9ea7bec",
@@ -363,7 +392,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2084331860566364314#m",
     "published_iso": "2026-08-03T17:33:35+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "4e97025b6df6",
@@ -512,7 +541,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s217?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-30T17:46:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "2920ea766514",
@@ -534,7 +563,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mruultkwus2t",
     "published_iso": "2026-07-30T16:33:54.862000+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "27d9989a58b7",
@@ -560,7 +589,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mruulp3ovc2t",
     "published_iso": "2026-07-30T16:33:54.861000+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "c99d309f4b0a",
@@ -579,7 +608,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s216?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-30T16:28:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "b88abec6c525",
@@ -784,7 +813,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "de38f5381391",
@@ -834,7 +863,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-releases-updated-clarity-act-text/",
     "published_iso": "2026-07-22T16:49:25+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -1185,7 +1214,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "193d ago"
+    "time_ago": "194d ago"
   },
   {
     "id": "d3ca74df7f0f",
