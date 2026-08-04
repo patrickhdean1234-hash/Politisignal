@@ -1,5 +1,168 @@
 [
   {
+    "id": "d1342c667273",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Soccio Phillip sold 1,800 shares of Blackrock Municipal 2030 Target Term Trust (BTT) \u00b7 $22.48/share \u00b7 $40,464 total \u00b7 Aug 4",
+    "tags": [],
+    "tickers": [
+      "BTT",
+      "BLK"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1528437/000119312526333006/0001193125-26-333006-index.htm",
+    "published_iso": "2026-08-04T20:43:18+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "f0803fde3e57",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hawaux Andre J bought 3,150 shares of Tractor Supply Co /De/ (TSCO) \u00b7 $31.83/share \u00b7 $100,264 total \u00b7 Aug 4",
+    "tags": [],
+    "tickers": [
+      "TSCO"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1327043/000132704326000006/0001327043-26-000006-index.htm",
+    "published_iso": "2026-08-04T20:42:55+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "2727e7338653",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ginn Richard exercised options for 126,577 shares of Tenon Medical, Inc. (TNONW) \u00b7 Aug 4 ($8,872 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "TNONW"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1896876/000121390026085231/0001213900-26-085231-index.htm",
+    "published_iso": "2026-08-04T20:42:36+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "5eca3d912c0c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Foster Steven M exercised options for 140,936 shares of Tenon Medical, Inc. (TNONW) \u00b7 Aug 4 ($8,274 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "TNONW"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1897435/000121390026085230/0001213900-26-085230-index.htm",
+    "published_iso": "2026-08-04T20:42:06+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "63e88990093a",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.. Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
+    "published_iso": "2026-08-04T20:30:00+00:00",
+    "time_ago": "13m ago"
+  },
+  {
+    "id": "20080fd47dd8",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.. Federal Reserve Board announces approval of the application by FS Bancorp, Inc",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm",
+    "published_iso": "2026-08-04T20:30:00+00:00",
+    "time_ago": "13m ago"
+  },
+  {
+    "id": "0d330c4dedb5",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.. Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
+    "published_iso": "2026-08-04T20:30:00+00:00",
+    "time_ago": "13m ago"
+  },
+  {
     "id": "a87196662fca",
     "politician": "The Hill",
     "initials": "TH",
@@ -19,28 +182,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/senate/6008642-democrats-demand-transparency-ai-policy/",
     "published_iso": "2026-08-04T18:35:53+00:00",
-    "time_ago": "36m ago"
-  },
-  {
-    "id": "53c5d63aa9af",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Why cyclospora can be deadly for some people. Michigan health officials reported what appear to be the first deaths in connection with the ongoing cyclospora outbreak on Monday",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/healthcare/6008551-why-cyclospora-can-be-deadly-for-some-people/",
-    "published_iso": "2026-08-04T18:27:02+00:00",
-    "time_ago": "45m ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "b7d37af92239",
@@ -68,7 +210,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2084694822791544883#m",
     "published_iso": "2026-08-04T17:35:52+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "28a89630f8f4",
@@ -93,7 +235,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3msbbrgv3ts26",
     "published_iso": "2026-08-04T15:01:43.091000+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "5f2715b4477f",
@@ -114,7 +256,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2084644483665154417#m",
     "published_iso": "2026-08-04T14:15:50+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "e2e9e31cac61",
@@ -136,7 +278,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15835/accessible-lavatories-on-single-aisle-aircraft-and-ensuring-safe-accommodations-for-air-travelers",
     "published_iso": "2026-08-04T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "fb2ee544b18e",
@@ -162,7 +304,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15833/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and",
     "published_iso": "2026-08-04T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "1903ec281b2f",
@@ -181,7 +323,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15825/airworthiness-directives-diamond-aircraft-industries-inc-airplanes",
     "published_iso": "2026-08-04T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "5492a0ab82da",
@@ -203,7 +345,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15823/hazardous-materials-reducing-burdens-on-domestic-companies-using-battery-powered-equipment-in-trades",
     "published_iso": "2026-08-04T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "aea0c3347a11",
@@ -224,7 +366,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15820/hazardous-materials-adoption-of-department-of-transportation-special-permit-21478",
     "published_iso": "2026-08-04T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "bcd0e98349d4",
@@ -245,7 +387,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15819/hazardous-materials-adoption-of-department-of-transportation-special-permit-14175",
     "published_iso": "2026-08-04T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "1892accc85c8",
@@ -266,7 +408,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15818/hazardous-materials-adoption-of-department-of-transportation-special-permit-21379",
     "published_iso": "2026-08-04T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "d00dc599ec48",
@@ -288,7 +430,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15817/hazardous-materials-adoption-of-department-of-transportation-special-permit-21287",
     "published_iso": "2026-08-04T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "52d0edb4a4e3",
@@ -307,7 +449,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s218?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-03T21:32:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "e181526bf420",
@@ -332,7 +474,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2084383508236026182#m",
     "published_iso": "2026-08-03T20:58:48+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "2e0132bbd9a5",
@@ -407,7 +549,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/07/president-trump-hosts-historic-cabinet-meeting-at-camp-david/",
     "published_iso": "2026-07-31T19:55:19+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "75401d5d3d31",
@@ -516,7 +658,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-delegates-defense-production-act-authority-with-respect-to-recoverable-critical-minerals-and-materials-that-are-essential-to-our-national-defense/",
     "published_iso": "2026-07-30T20:34:56+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "b693c620457f",
@@ -626,32 +768,6 @@
     "time_ago": "5d ago"
   },
   {
-    "id": "8c663930da07",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank. Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
-    "published_iso": "2026-07-30T15:00:00+00:00",
-    "time_ago": "5d ago"
-  },
-  {
     "id": "d1faa9166adb",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -675,6 +791,32 @@
     "source": "fed_reserve",
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
+    "published_iso": "2026-07-30T15:00:00+00:00",
+    "time_ago": "5d ago"
+  },
+  {
+    "id": "8c663930da07",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank. Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
     "published_iso": "2026-07-30T15:00:00+00:00",
     "time_ago": "5d ago"
   },
@@ -923,73 +1065,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-launches-the-reading-room-a-public-archive-of-the-committees-ongoing-covid-19-origins-investigations/",
     "published_iso": "2026-07-20T20:42:12+00:00",
-    "time_ago": "14d ago"
-  },
-  {
-    "id": "cfac33502ddb",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Agencies issue joint statement on handling of highly sensitive information during bank examinations. Agencies issue joint statement on handling of highly sensitive information during bank examinations",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
-    "published_iso": "2026-07-16T18:00:00+00:00",
-    "time_ago": "19d ago"
-  },
-  {
-    "id": "bcb8b8a6c731",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board issues enforcement action with former chief lending officer of Heritage State Bank. Federal Reserve Board issues enforcement action with former chief lending officer of Heritage State Bank",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260716a.htm",
-    "published_iso": "2026-07-16T15:00:00+00:00",
-    "time_ago": "19d ago"
-  },
-  {
-    "id": "a8933978907e",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026. Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
-    "tags": [],
-    "tickers": [],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
-    "published_iso": "2026-07-14T18:00:00+00:00",
-    "time_ago": "21d ago"
+    "time_ago": "15d ago"
   },
   {
     "id": "f6fb9773511f",
