@@ -1,6 +1,6 @@
 [
   {
-    "id": "176609a2ab5d",
+    "id": "50063011a058",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,82 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Mcnamara Kevin J exercised options for 2,001 shares of Chemed Corp (CHE) \u00b7 $445.35/share \u00b7 $891,145 total \u00b7 Aug 4 ($12,449,780 across all blocks)",
+    "content": "Odonnell Francis E Jr received 50,000 shares of Inhibitor Therapeutics, Inc. (INTI) \u00b7 Aug 4",
     "tags": [],
     "tickers": [
-      "CHE"
+      "INTI"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1207137/000119312526331690/0001193125-26-331690-index.htm",
-    "published_iso": "2026-08-04T13:24:21+00:00",
-    "time_ago": "4m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1066040/000149315226035950/0001493152-26-035950-index.htm",
+    "published_iso": "2026-08-04T15:55:47+00:00",
+    "time_ago": "1m ago"
   },
   {
-    "id": "d617c6a124f9",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Linker John R bought 7,500 shares of Columbus Mckinnon Corp (CMCO) \u00b7 $19.67/share \u00b7 $147,525 total \u00b7 Aug 4",
-    "tags": [],
-    "tickers": [
-      "CMCO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1692728/000162828026052202/0001628280-26-052202-index.htm",
-    "published_iso": "2026-08-04T13:24:15+00:00",
-    "time_ago": "4m ago"
-  },
-  {
-    "id": "f26502e9cc46",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Raymond Christie sold 15,000 shares of Kohls Corp (KSS) \u00b7 $20.00/share \u00b7 $300,000 total \u00b7 Aug 4",
-    "tags": [],
-    "tickers": [
-      "KSS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1942745/000088563926000142/0000885639-26-000142-index.htm",
-    "published_iso": "2026-08-04T13:23:01+00:00",
-    "time_ago": "6m ago"
-  },
-  {
-    "id": "a2de8a8e74e7",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Kent Jennifer J. sold 22,942 shares of Kohls Corp (KSS) \u00b7 $20.00/share \u00b7 $458,840 total \u00b7 Aug 4",
-    "tags": [],
-    "tickers": [
-      "KSS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1595040/000088563926000140/0000885639-26-000140-index.htm",
-    "published_iso": "2026-08-04T13:14:16+00:00",
-    "time_ago": "14m ago"
-  },
-  {
-    "id": "6e3272a762ca",
+    "id": "8eaa36738531",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -92,47 +29,68 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "high",
-    "content": "Watch live: Senate convenes Medicaid hearing as work requirements face scrutiny. Health experts on Tuesday morning will testify before the Senate Budget Committee on Medicaid, just months after the Trump administration issued a new rule requiring states to implement work requirements before approving residents for the ",
+    "severity": "medium",
+    "content": "Max Miller says Trump warned of 'tough' road ahead in phone call. President Trump told Ohio Rep. Max Miller (R) during a phone call that he will face a tough reelection cycle due to the domestic abuse allegations against the lawmaker. Miller told The Wall Street Journal that Trump told him on Monday his prospects for w",
     "tags": [
+      "Banking",
       "Regulation"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6008042-trump-warns-max-miller-reelection/",
+    "published_iso": "2026-08-04T15:21:09+00:00",
+    "time_ago": "35m ago"
+  },
+  {
+    "id": "28a89630f8f4",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "While you get kicked off your health insurance, Trump is bragging that his tax cuts helped his buddy buy a private jet.",
+    "tags": [
+      "Taxes"
     ],
     "tickers": [
       "UNH",
       "HCA",
       "CVS"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/video-clips/6007248-watch-live-senate-budget-hearing-medicaid-work-requirements/",
-    "published_iso": "2026-08-04T12:56:04+00:00",
-    "time_ago": "33m ago"
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3msbbrgv3ts26",
+    "published_iso": "2026-08-04T15:01:43.091000+00:00",
+    "time_ago": "54m ago"
   },
   {
-    "id": "74b7b93b30e0",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "5f2715b4477f",
+    "politician": "Rep. Mike Johnson",
+    "initials": "MJ",
+    "role": "Speaker of the House",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#2a1a1a",
+      "fg": "#fbbf24"
     },
-    "severity": "critical",
-    "content": "Trump\u2019s tariffs are his biggest policy failure. President Trump's tariff policies have faced criticism for failing to reduce the trade deficit, hurting U.S. businesses, and providing insufficient revenue to offset the federal deficit",
+    "severity": "medium",
+    "content": "Manufacturing is BOOMING thanks to  @POTUS  and Republicans' Working Families Tax Cuts. \n \nMore American jobs. \nMore investments in American businesses. \nMore money in the pockets of Americans. \n \n \n Rapid Response 47 (@RapidResponse47) \n \n CNBC: \"On manufacturing \u2014 comes in much better than expected, 55.6%. That would",
     "tags": [
-      "Trade",
       "Taxes"
     ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/finance/6006905-us-trade-deficit-tariffs/",
-    "published_iso": "2026-08-04T12:00:00+00:00",
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SpeakerJohnson/status/2084644483665154417#m",
+    "published_iso": "2026-08-04T14:15:50+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -155,7 +113,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15835/accessible-lavatories-on-single-aisle-aircraft-and-ensuring-safe-accommodations-for-air-travelers",
     "published_iso": "2026-08-04T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "fb2ee544b18e",
@@ -181,7 +139,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15833/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and",
     "published_iso": "2026-08-04T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "1903ec281b2f",
@@ -200,7 +158,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15825/airworthiness-directives-diamond-aircraft-industries-inc-airplanes",
     "published_iso": "2026-08-04T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "5492a0ab82da",
@@ -222,7 +180,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15823/hazardous-materials-reducing-burdens-on-domestic-companies-using-battery-powered-equipment-in-trades",
     "published_iso": "2026-08-04T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "aea0c3347a11",
@@ -243,7 +201,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15820/hazardous-materials-adoption-of-department-of-transportation-special-permit-21478",
     "published_iso": "2026-08-04T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "bcd0e98349d4",
@@ -264,7 +222,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15819/hazardous-materials-adoption-of-department-of-transportation-special-permit-14175",
     "published_iso": "2026-08-04T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "1892accc85c8",
@@ -285,7 +243,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15818/hazardous-materials-adoption-of-department-of-transportation-special-permit-21379",
     "published_iso": "2026-08-04T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "d00dc599ec48",
@@ -307,7 +265,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15817/hazardous-materials-adoption-of-department-of-transportation-special-permit-21287",
     "published_iso": "2026-08-04T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "52d0edb4a4e3",
@@ -326,7 +284,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s218?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-03T21:32:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "e181526bf420",
@@ -351,7 +309,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2084383508236026182#m",
     "published_iso": "2026-08-03T20:58:48+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "2e0132bbd9a5",
@@ -378,7 +336,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-establishes-the-presidents-military-spouse-commission/",
     "published_iso": "2026-08-03T18:55:57+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "9c9bd9ea7bec",
@@ -405,7 +363,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2084331860566364314#m",
     "published_iso": "2026-08-03T17:33:35+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "4e97025b6df6",
@@ -453,7 +411,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
     "published_iso": "2026-07-31T14:00:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "ce52161a0822",
@@ -480,7 +438,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
     "published_iso": "2026-07-31T14:00:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "1310772a8a4f",
@@ -642,7 +600,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s215?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-30T15:30:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "8c663930da07",
@@ -668,7 +626,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
     "published_iso": "2026-07-30T15:00:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "d1faa9166adb",
@@ -695,7 +653,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
     "published_iso": "2026-07-30T15:00:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "eb0f75af6894",
@@ -989,7 +947,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260716a.htm",
     "published_iso": "2026-07-16T15:00:00+00:00",
-    "time_ago": "18d ago"
+    "time_ago": "19d ago"
   },
   {
     "id": "a8933978907e",
@@ -1070,7 +1028,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "84d ago"
+    "time_ago": "85d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1096,7 +1054,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "90d ago"
+    "time_ago": "91d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1118,7 +1076,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "98d ago"
+    "time_ago": "99d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1142,7 +1100,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "126d ago"
+    "time_ago": "127d ago"
   },
   {
     "id": "432e035b915b",
@@ -1182,7 +1140,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "171d ago"
+    "time_ago": "172d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1201,7 +1159,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "171d ago"
+    "time_ago": "172d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1246,6 +1204,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "230d ago"
+    "time_ago": "231d ago"
   }
 ]
