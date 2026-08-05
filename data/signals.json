@@ -1,27 +1,92 @@
 [
   {
-    "id": "ae551e34b01b",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "5e4ea33e5e38",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
     },
-    "severity": "high",
-    "content": "Senate confirms Erica Schwartz as new CDC leader. The Centers for Disease Control and Prevention (CDC) will soon have a new official director for the first time in nearly a year, after the Senate on Wednesday voted to confirm Dr. Erica Schwartz.\u00a0 Schwartz was confirmed on a mostly party-line 51-44 vote. Sen. Tim Kaine ",
-    "tags": [
-      "Taxes"
+    "severity": "medium",
+    "content": "Nonko Eugene sold 3,282 shares of Mediaalpha, Inc. (MAX) \u00b7 $12.54/share \u00b7 $41,157 total \u00b7 Aug 5 ($402,239 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "MAX"
     ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/healthcare/6011847-senate-confirms-dr-erica-schwartz-cdc/",
-    "published_iso": "2026-08-05T19:12:14+00:00",
-    "time_ago": "48m ago"
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1830016/000181838326000206/0001818383-26-000206-index.htm",
+    "published_iso": "2026-08-05T21:19:46+00:00",
+    "time_ago": "1m ago"
   },
   {
-    "id": "58dad0a1d120",
+    "id": "a8b66c243c8d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Yi Steven sold 72,000 shares of Mediaalpha, Inc. (MAX) \u00b7 $12.64/share \u00b7 $909,994 total \u00b7 Aug 5",
+    "tags": [],
+    "tickers": [
+      "MAX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1829946/000181838326000205/0001818383-26-000205-index.htm",
+    "published_iso": "2026-08-05T21:19:40+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "12a58843a19d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Nigro Edward Michael bought 9,200 shares of Gbank Financial Holdings Inc. (GBFH) \u00b7 $21.51/share \u00b7 $197,852 total \u00b7 Aug 5",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "GBFH"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2058650/000119312526335505/0001193125-26-335505-index.htm",
+    "published_iso": "2026-08-05T21:18:55+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "8ea3a4261a64",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Llewellyn Lindsay Catherine sold 36,214 shares of Lyft, Inc. (LYFT) \u00b7 $16.14/share \u00b7 $584,440 total \u00b7 Aug 5",
+    "tags": [],
+    "tickers": [
+      "LYFT"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2034826/000203482626000008/0002034826-26-000008-index.htm",
+    "published_iso": "2026-08-05T21:18:10+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "677fb19b647e",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -30,18 +95,44 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "The risks of many diseases are linked to birth order, study finds. The study didn\u2019t include uninsured families or those on Medicaid, which means the data may be skewed",
-    "tags": [],
+    "content": "Americans more concerned about cost of living, inflation than Iran war: Poll. Americans are more concerned about the cost of living and inflation than they are about the Iran war, a new poll found. A Marquette University Law School poll released Wednesday shows 35 percent of American adults consider the cost of living ",
+    "tags": [
+      "Trade",
+      "Regulation",
+      "Sanctions"
+    ],
     "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
+      "LMT",
+      "RTX",
+      "XOM",
+      "GLD"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/healthcare/6010758-risk-disease-disorders-linked-birth-order-study/",
-    "published_iso": "2026-08-05T19:07:10+00:00",
-    "time_ago": "53m ago"
+    "url": "https://thehill.com/business/6012178-inflation-cost-living-marquette-poll/",
+    "published_iso": "2026-08-05T20:26:44+00:00",
+    "time_ago": "54m ago"
+  },
+  {
+    "id": "ba6ca0055e99",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "UK's new foreign minister ignores questions about calling Trump \u2018racist\u2019. U.K. Foreign Secretary Ed Miliband ignored questions from reporters about his past criticisms of President Trump ahead of a meeting with Secretary of State Marco Rubio in Washington. After Trump\u2019s first election victory in 2016, Britain\u2019s new top",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6012174-miliband-rubio-washington-meeting/",
+    "published_iso": "2026-08-05T20:24:16+00:00",
+    "time_ago": "56m ago"
   },
   {
     "id": "3f9ae59ebf9a",
@@ -63,7 +154,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2085061676370428371#m",
     "published_iso": "2026-08-05T17:53:36+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "daaf36ebf7c7",
@@ -90,7 +181,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-and-republicans-deliver-big-wins-for-the-silver-state/",
     "published_iso": "2026-08-05T15:53:47+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "bdfe837ec446",
@@ -109,7 +200,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s219?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-05T15:40:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "1a1d646c1e56",
@@ -130,7 +221,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/AOC/status/2085006319220625569#m",
     "published_iso": "2026-08-05T14:13:38+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "f5a660a6003f",
@@ -152,7 +243,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15920/micro-tracers-inc-response-to-objections-and-requests-for-a-public-hearing",
     "published_iso": "2026-08-05T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "b48fb0ee3aa0",
@@ -171,7 +262,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15912/amendment-of-united-states-area-navigation-route-q-10-and-revocation-of-alaska-area-navigation",
     "published_iso": "2026-08-05T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "5ddd04c4e3d2",
@@ -192,7 +283,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15886/fisheries-of-the-caribbean-gulf-of-america-and-south-atlantic-reef-fish-fishery-in-the-gulf-of",
     "published_iso": "2026-08-05T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "79b830d579c7",
@@ -211,7 +302,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15878/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-angling-category",
     "published_iso": "2026-08-05T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "045d445a6d73",
@@ -230,7 +321,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15855/safety-zones-recurring-safety-zones-in-captain-of-the-port-northern-great-lakes",
     "published_iso": "2026-08-05T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "027cdf22b7c2",
@@ -252,7 +343,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15853/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures",
     "published_iso": "2026-08-05T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "497841ad42f7",
@@ -280,7 +371,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/lindsayfraser0/status/2084808258917712264#m",
     "published_iso": "2026-08-05T01:06:37+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "2fc0821e45c6",
@@ -301,7 +392,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/manufacturing-jobs-flock-to-the-u-s-thanks-to-president-trumps-america-first-economic-agenda/",
     "published_iso": "2026-08-04T21:33:29+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "63e88990093a",
@@ -327,7 +418,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
     "published_iso": "2026-08-04T20:30:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "20080fd47dd8",
@@ -353,7 +444,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm",
     "published_iso": "2026-08-04T20:30:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "0d330c4dedb5",
@@ -379,7 +470,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
     "published_iso": "2026-08-04T20:30:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "b7d37af92239",
@@ -494,7 +585,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2084383508236026182#m",
     "published_iso": "2026-08-03T20:58:48+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "2e0132bbd9a5",
@@ -602,7 +693,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/AOC/status/2082934237976539645#m",
     "published_iso": "2026-07-30T20:59:56+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "b693c620457f",
@@ -968,7 +1059,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "15d ago"
+    "time_ago": "16d ago"
   },
   {
     "id": "00574dc3c125",
@@ -990,7 +1081,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-launches-the-reading-room-a-public-archive-of-the-committees-ongoing-covid-19-origins-investigations/",
     "published_iso": "2026-07-20T20:42:12+00:00",
-    "time_ago": "15d ago"
+    "time_ago": "16d ago"
   },
   {
     "id": "f6fb9773511f",
@@ -1009,7 +1100,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/usembassyve/status/2073873845241413988#m",
     "published_iso": "2026-07-05T20:57:10+00:00",
-    "time_ago": "30d ago"
+    "time_ago": "31d ago"
   },
   {
     "id": "ddb58e0107d1",
