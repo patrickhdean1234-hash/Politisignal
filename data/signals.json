@@ -1,5 +1,136 @@
 [
   {
+    "id": "6f0a08a30590",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Wilkinson Peter J sold 82 shares of Labcorp Holdings Inc. (LH) \u00b7 $309.22/share \u00b7 $25,356 total \u00b7 Aug 5 ($719,084 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "LH"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1398138/000092014826000172/0000920148-26-000172-index.htm",
+    "published_iso": "2026-08-05T15:17:41+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "4aaee21e1d1a",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Davies Philip D exercised options for 3,072 shares of Vicor Corp (VICR) \u00b7 $41.61/share \u00b7 $127,826 total \u00b7 Aug 5 ($778,134 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "VICR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1512868/000119312526334255/0001193125-26-334255-index.htm",
+    "published_iso": "2026-08-05T15:13:51+00:00",
+    "time_ago": "9m ago"
+  },
+  {
+    "id": "0d7de06e3900",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "China targets US firms, drone exports ahead of Xi visit. China\u2019s Commerce Ministry announced a new slate of sanctions against the United States and some of its firms on Wednesday in response to a recent moves by two U.S. agencies that targeted China, over a month before Chinese President Xi Jinping is scheduled to visi",
+    "tags": [
+      "Trade",
+      "China",
+      "Sanctions"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/international/6010655-china-sanctions-us-firms/",
+    "published_iso": "2026-08-05T14:53:38+00:00",
+    "time_ago": "29m ago"
+  },
+  {
+    "id": "1882d8a77877",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Armed man arrested at golf course in California after scoping out security before Trump visit. An armed man was arrested at a golf course in California after scoping out security days before a President Trump was set to visit the Golden State, according to the Department of Justice (DOJ). First Assistant U.S. Attorney ",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/national-security/6010186-trump-national-california-armed-man-arrested/",
+    "published_iso": "2026-08-05T14:24:00+00:00",
+    "time_ago": "59m ago"
+  },
+  {
+    "id": "cda14114b64d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "FAA investigating Trump helicopter safety incident. The Federal Aviation Administration (FAA) is investigating a Tuesday afternoon incident involving Marine One, the helicopter reserved for President Trump\u2019s expedited travel in the beltway.\u00a0 The president was flying out from the White House on Tuesday afternoon under n",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6010394-faa-trump-marine-one-investigation/",
+    "published_iso": "2026-08-05T14:19:54+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "1a1d646c1e56",
+    "politician": "Rep. Alexandria Ocasio-Cortez",
+    "initials": "AOC",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#93c5fd"
+    },
+    "severity": "high",
+    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/AOC/status/2085006319220625569#m",
+    "published_iso": "2026-08-05T14:13:38+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "f5a660a6003f",
     "politician": "Federal Register",
     "initials": "FR",
@@ -19,7 +150,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15920/micro-tracers-inc-response-to-objections-and-requests-for-a-public-hearing",
     "published_iso": "2026-08-05T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "b48fb0ee3aa0",
@@ -38,7 +169,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15912/amendment-of-united-states-area-navigation-route-q-10-and-revocation-of-alaska-area-navigation",
     "published_iso": "2026-08-05T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "5ddd04c4e3d2",
@@ -59,7 +190,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15886/fisheries-of-the-caribbean-gulf-of-america-and-south-atlantic-reef-fish-fishery-in-the-gulf-of",
     "published_iso": "2026-08-05T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "79b830d579c7",
@@ -78,7 +209,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15878/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-angling-category",
     "published_iso": "2026-08-05T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "045d445a6d73",
@@ -97,7 +228,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15855/safety-zones-recurring-safety-zones-in-captain-of-the-port-northern-great-lakes",
     "published_iso": "2026-08-05T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "027cdf22b7c2",
@@ -119,7 +250,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15853/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures",
     "published_iso": "2026-08-05T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "5e67b19c90c5",
@@ -144,7 +275,35 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2084817781263057031#m",
     "published_iso": "2026-08-05T01:44:27+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "13h ago"
+  },
+  {
+    "id": "497841ad42f7",
+    "politician": "Sen. Cynthia Lummis",
+    "initials": "CL",
+    "role": "Senate Banking Subcommittee (Crypto)",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#c4b5fd"
+    },
+    "severity": "critical",
+    "content": "1/ Today\u2019s  @WSJ  editorial makes the case for the Clarity Act\u2019s core framework. But it gets two of the most carefully negotiated provisions wrong: stablecoin rewards and DeFi. The Clarity Act neither authorizes bank deposits by another name nor exempts financial intermediaries simply because they use blockchain techno",
+    "tags": [
+      "Crypto",
+      "Banking",
+      "Regulation"
+    ],
+    "tickers": [
+      "BTC",
+      "ETH",
+      "COIN",
+      "XRP"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/lindsayfraser0/status/2084808258917712264#m",
+    "published_iso": "2026-08-05T01:06:37+00:00",
+    "time_ago": "14h ago"
   },
   {
     "id": "2fc0821e45c6",
@@ -165,7 +324,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/manufacturing-jobs-flock-to-the-u-s-thanks-to-president-trumps-america-first-economic-agenda/",
     "published_iso": "2026-08-04T21:33:29+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "63e88990093a",
@@ -191,7 +350,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
     "published_iso": "2026-08-04T20:30:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "20080fd47dd8",
@@ -217,7 +376,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm",
     "published_iso": "2026-08-04T20:30:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "0d330c4dedb5",
@@ -243,7 +402,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
     "published_iso": "2026-08-04T20:30:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "b7d37af92239",
@@ -271,7 +430,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2084694822791544883#m",
     "published_iso": "2026-08-04T17:35:52+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "28a89630f8f4",
@@ -296,7 +455,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3msbbrgv3ts26",
     "published_iso": "2026-08-04T15:01:43.091000+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "5f2715b4477f",
@@ -317,7 +476,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2084644483665154417#m",
     "published_iso": "2026-08-04T14:15:50+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "e2e9e31cac61",
@@ -458,7 +617,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
     "published_iso": "2026-07-31T14:00:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "ce52161a0822",
@@ -485,7 +644,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
     "published_iso": "2026-07-31T14:00:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "1310772a8a4f",
@@ -646,7 +805,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
     "published_iso": "2026-07-30T15:00:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "8c663930da07",
@@ -672,7 +831,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
     "published_iso": "2026-07-30T15:00:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "eb0f75af6894",
@@ -1007,7 +1166,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "91d ago"
+    "time_ago": "92d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1029,7 +1188,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "99d ago"
+    "time_ago": "100d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1053,7 +1212,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "127d ago"
+    "time_ago": "128d ago"
   },
   {
     "id": "432e035b915b",
@@ -1093,7 +1252,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "172d ago"
+    "time_ago": "173d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1112,7 +1271,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "172d ago"
+    "time_ago": "173d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1157,6 +1316,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "231d ago"
+    "time_ago": "232d ago"
   }
 ]
