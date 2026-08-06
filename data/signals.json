@@ -1,6 +1,6 @@
 [
   {
-    "id": "be9f03262e8d",
+    "id": "bfb985e46c2d",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,61 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Vincent Brad A sold 4,015 shares of Bok Financial Corp (BOKF) \u00b7 $145.42/share \u00b7 $583,861 total \u00b7 Aug 6",
+    "content": "Winkleblack Arthur B exercised options for 13,200 shares of Church & Dwight Co Inc /De/ (CHD) \u00b7 $50.28/share \u00b7 $663,696 total \u00b7 Aug 6 ($2,021,006 across all blocks)",
     "tags": [],
     "tickers": [
-      "BOKF"
+      "CHD"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1880990/000188099026000005/0001880990-26-000005-index.htm",
-    "published_iso": "2026-08-06T13:16:31+00:00",
-    "time_ago": "7m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1199100/000031392726000292/0000313927-26-000292-index.htm",
+    "published_iso": "2026-08-06T15:35:11+00:00",
+    "time_ago": "3m ago"
   },
   {
-    "id": "45f0b599f26b",
+    "id": "39b2434ffbc5",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Damico Jennifer B. sold 3,278 shares of Pfizer Inc (PFE) \u00b7 $25.40/share \u00b7 $83,261 total \u00b7 Aug 6",
+    "tags": [],
+    "tickers": [
+      "PFE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1805617/000122520826007004/0001225208-26-007004-index.htm",
+    "published_iso": "2026-08-06T15:26:56+00:00",
+    "time_ago": "11m ago"
+  },
+  {
+    "id": "31d5bd245b7d",
+    "politician": "Rep. Mike Johnson",
+    "initials": "MJ",
+    "role": "Speaker of the House",
+    "color": {
+      "bg": "#2a1a1a",
+      "fg": "#fbbf24"
+    },
+    "severity": "critical",
+    "content": "Democrats DID NOT AND DO NOT want you to keep more of your own hard-earned money. \n \nEvery Democrat voted AGAINST the Working Families Tax Cuts. \u2b07\ufe0f",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SpeakerJohnson/status/2085385104558330365#m",
+    "published_iso": "2026-08-06T15:18:48+00:00",
+    "time_ago": "19m ago"
+  },
+  {
+    "id": "be4d33d9b963",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -29,17 +71,62 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "high",
-    "content": "Live updates: Rand Paul sets up Senate panel's contempt vote on Fauci. The Senate Homeland Security and Governmental Affairs Committee\u00a0is set to vote Thursday on a resolution to hold former top health official Dr.\u00a0Anthony Fauci in contempt of Congress,\u00a0a week\u00a0after\u00a0he pleaded the Fifth Amendment in\u00a0refusing\u00a0to answer q",
+    "severity": "critical",
+    "content": "Appeals court upholds Florida ban on children at drag shows. A federal appeals court on Tuesday upheld a Florida law banning children from attending drag shows, ruling the state can enforce the measure after a lower court blocked its enforcement on First Amendment grounds. In a 8-5 ruling, the full U.S. Court of Appeal",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/state-watch/6013851-desantis-wins-drag-show-ruling/",
+    "published_iso": "2026-08-06T15:03:53+00:00",
+    "time_ago": "34m ago"
+  },
+  {
+    "id": "4c80effbdeb8",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Kudlow tells Senate Republican that 'polls are lousy'. Fox Business host Larry Kudlow, who served as National Economic Council director during President Trump\u2019s first term, scolded Sen. Tommy Tuberville (R-Ala.) during an interview Wednesday about the lack of big Republican accomplishments this year, warning \u201cpolls are",
     "tags": [
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6012733-live-updates-senate-paul-fauci-trump-iran-tennessee-primary/",
-    "published_iso": "2026-08-06T12:23:47+00:00",
-    "time_ago": "1h ago"
+    "url": "https://thehill.com/homenews/6013824-kudlow-tuberville-gop-poll-numbers/",
+    "published_iso": "2026-08-06T14:53:39+00:00",
+    "time_ago": "45m ago"
+  },
+  {
+    "id": "f90a4455ff60",
+    "politician": "Rep. Mike Johnson",
+    "initials": "MJ",
+    "role": "Speaker of the House",
+    "color": {
+      "bg": "#2a1a1a",
+      "fg": "#fbbf24"
+    },
+    "severity": "medium",
+    "content": "Thanks to the Working Families Tax Cuts, American manufacturing is thriving again!  \n \nIt was a pleasure to join  @SecScottBessent  and  @RepCiscomani  at the  @PepsiCo  facility in Casa Grande, AZ to see how Republicans\u2019 pro-growth agenda is driving America\u2019s industrial renaissance.",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "PEP"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SpeakerJohnson/status/2085354792176525457#m",
+    "published_iso": "2026-08-06T13:18:21+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "6e113e8c2835",
@@ -63,7 +150,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16078/dpas-directive-allocation-order-and-additional-requirements-for-recoverable-critical-minerals-and",
     "published_iso": "2026-08-06T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "f0f939fda57b",
@@ -82,7 +169,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16077/pacific-halibut-fisheries-of-the-west-coast-inseason-action-for-the-2026-area-2a-pacific-halibut",
     "published_iso": "2026-08-06T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "1882e21cf1ee",
@@ -103,7 +190,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16066/investment-company-governance-technical-amendments",
     "published_iso": "2026-08-06T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "66e4a57ebd9e",
@@ -124,7 +211,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16049/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery",
     "published_iso": "2026-08-06T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "48c06d2d21c9",
@@ -143,7 +230,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16047/airworthiness-directives-airbus-helicopters",
     "published_iso": "2026-08-06T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "6fa37504fb12",
@@ -162,7 +249,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16043/airworthiness-directives-bell-textron-canada-limited-helicopters",
     "published_iso": "2026-08-06T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "44165aa47921",
@@ -183,7 +270,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16035/limits-on-loans-to-other-credit-unions",
     "published_iso": "2026-08-06T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "868ca8a11312",
@@ -204,7 +291,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16031/chartering-and-field-of-membership-for-federal-credit-unions-interpretive-ruling-and-policy",
     "published_iso": "2026-08-06T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "1693982cc45d",
@@ -225,7 +312,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s222?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-05T20:47:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "d4d08d176234",
@@ -244,7 +331,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s221?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-05T19:05:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "8612e9964e23",
@@ -263,7 +350,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s220?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-05T18:15:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "daaf36ebf7c7",
@@ -290,7 +377,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-and-republicans-deliver-big-wins-for-the-silver-state/",
     "published_iso": "2026-08-05T15:53:47+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "bdfe837ec446",
@@ -309,7 +396,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s219?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-05T15:40:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "1a1d646c1e56",
@@ -330,7 +417,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/AOC/status/2085006319220625569#m",
     "published_iso": "2026-08-05T14:13:38+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "497841ad42f7",
@@ -583,7 +670,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
     "published_iso": "2026-07-31T14:00:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "ce52161a0822",
@@ -610,7 +697,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
     "published_iso": "2026-07-31T14:00:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "1310772a8a4f",
@@ -744,7 +831,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s215?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-30T15:30:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "d1faa9166adb",
@@ -771,7 +858,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
     "published_iso": "2026-07-30T15:00:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "8c663930da07",
@@ -797,7 +884,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
     "published_iso": "2026-07-30T15:00:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "dcd00aa841df",
@@ -1056,7 +1143,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "92d ago"
+    "time_ago": "93d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1078,7 +1165,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "100d ago"
+    "time_ago": "101d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1102,7 +1189,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "128d ago"
+    "time_ago": "129d ago"
   },
   {
     "id": "432e035b915b",
@@ -1142,7 +1229,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "173d ago"
+    "time_ago": "174d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1161,7 +1248,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "173d ago"
+    "time_ago": "174d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1206,6 +1293,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "232d ago"
+    "time_ago": "233d ago"
   }
 ]
