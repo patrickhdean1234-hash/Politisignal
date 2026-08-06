@@ -1,118 +1,28 @@
 [
   {
-    "id": "16fde8b1cb34",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "5b1fe0cc16ca",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Spencer Darien sold 30,000 shares of Ouster, Inc. (OUST) \u00b7 $45.00/share \u00b7 $1,350,000 total \u00b7 Aug 5",
-    "tags": [],
-    "tickers": [
-      "OUST"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1816581/000119312526336102/0001193125-26-336102-index.htm",
-    "published_iso": "2026-08-06T00:53:55+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "78c04b614379",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Atay Oguzhan exercised options for 20,000 shares of Billiontoone, Inc. (BLLN) \u00b7 $2.80/share \u00b7 $56,000 total \u00b7 Aug 5 ($6,258,960 across all blocks)",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [
-      "BLLN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2088549/000207084926000052/0002070849-26-000052-index.htm",
-    "published_iso": "2026-08-06T00:52:51+00:00",
-    "time_ago": "3m ago"
-  },
-  {
-    "id": "25c9f7a5e202",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Ashish Arora sold 60,000 shares of Cricut, Inc. (CRCT) \u00b7 $4.77/share \u00b7 $286,392 total \u00b7 Aug 5 ($938,672 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CRCT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1851564/000185156426000030/0001851564-26-000030-index.htm",
-    "published_iso": "2026-08-06T00:50:40+00:00",
-    "time_ago": "5m ago"
-  },
-  {
-    "id": "d24d6f1ded37",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Stevens Christopher James received 73,313 shares of Rocket Pharmaceuticals, Inc. (RCKTW) \u00b7 Aug 5",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "RCKTW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2079768/000114036126031473/0001140361-26-031473-index.htm",
-    "published_iso": "2026-08-06T00:49:40+00:00",
-    "time_ago": "6m ago"
-  },
-  {
-    "id": "2a5f127227b2",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Southwell David P acquired/disposed 150,000 shares of Rocket Pharmaceuticals, Inc. (RCKTW) \u00b7 Aug 5",
+    "severity": "high",
+    "content": "Multistate cyclospora outbreak expands to 15 states. The Food and Drug Administration on Wednesday expanded its investigation into a Cyclospora outbreak linked to recalled iceberg lettuce, after the first two deaths associated with the outbreak were confirmed. The outbreak, which was first identified in July among peop",
     "tags": [
       "Healthcare",
-      "Insider Trade"
+      "Taxes"
     ],
-    "tickers": [
-      "RCKTW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1281895/000114036126031471/0001140361-26-031471-index.htm",
-    "published_iso": "2026-08-06T00:45:46+00:00",
-    "time_ago": "10m ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/healthcare/6012753-fda-cyclospora-lettuce-outbreak/",
+    "published_iso": "2026-08-06T02:43:40+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "3dbd88abbf18",
+    "id": "36de925c717d",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -121,19 +31,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Levine Jeremy S. received 27,840 shares of Stubhub Holdings, Inc. (STUB) \u00b7 Aug 5",
+    "content": "Kissinger Thomas F exercised options for 24,400 shares of Marcus Corp (MCS) \u00b7 $27.00/share \u00b7 $658,800 total \u00b7 Aug 5 ($5,627,943 across all blocks)",
     "tags": [],
     "tickers": [
-      "STUB"
+      "MCS"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1534341/000119312526336090/0001193125-26-336090-index.htm",
-    "published_iso": "2026-08-06T00:43:55+00:00",
-    "time_ago": "12m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1183315/000089706926001585/0000897069-26-001585-index.htm",
+    "published_iso": "2026-08-06T01:58:30+00:00",
+    "time_ago": "2h ago"
   },
   {
-    "id": "95b9ad09f9f1",
+    "id": "ba88b3df7753",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -142,16 +52,100 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Hamill Anna exercised options for 17,900 shares of Laird Superfood, Inc. (LSF) \u00b7 $1.53/share \u00b7 $27,387 total \u00b7 Aug 5",
+    "content": "Drucker Mann Lindsay sold 11,473 shares of Oddity Tech Ltd (ODD) \u00b7 $15.10/share \u00b7 $173,242 total \u00b7 Aug 5",
     "tags": [],
     "tickers": [
-      "LSF"
+      "ODD"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1935704/000143774926026014/0001437749-26-026014-index.htm",
-    "published_iso": "2026-08-06T00:43:24+00:00",
-    "time_ago": "13m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2008127/000110465926091457/0001104659-26-091457-index.htm",
+    "published_iso": "2026-08-06T01:57:17+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "66d8e58028e5",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Allan David Robert Malcolm sold 81,879 shares of Virtuix Holdings Inc. (VTIX) \u00b7 $1.47/share \u00b7 $120,362 total \u00b7 Aug 5 ($193,254 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "VTIX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2105210/000121390026085874/0001213900-26-085874-index.htm",
+    "published_iso": "2026-08-06T01:45:57+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "bc0f900679ad",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Burnett Patrick sold 955 shares of Arcutis Biotherapeutics, Inc. (ARQT) \u00b7 $26.12/share \u00b7 $24,942 total \u00b7 Aug 5",
+    "tags": [],
+    "tickers": [
+      "ARQT"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1787306/000162828026053755/0001628280-26-053755-index.htm",
+    "published_iso": "2026-08-06T01:42:23+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "b1331ef1925c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Matsuda Masaru sold 1,230 shares of Arcutis Biotherapeutics, Inc. (ARQT) \u00b7 $26.12/share \u00b7 $32,124 total \u00b7 Aug 5",
+    "tags": [],
+    "tickers": [
+      "ARQT"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1798679/000162828026053754/0001628280-26-053754-index.htm",
+    "published_iso": "2026-08-06T01:42:17+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "931f13059629",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Watanabe Todd sold 4,375 shares of Arcutis Biotherapeutics, Inc. (ARQT) \u00b7 $26.12/share \u00b7 $114,261 total \u00b7 Aug 5",
+    "tags": [],
+    "tickers": [
+      "ARQT"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1801061/000162828026053753/0001628280-26-053753-index.htm",
+    "published_iso": "2026-08-06T01:42:11+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "97f63aaf39dc",
@@ -177,29 +171,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/6012568-hemp-fight-trips-up-spending-bill/",
     "published_iso": "2026-08-05T23:27:19+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "65da53773c62",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Trump's nuclear-powered battleships cost $275B: CBO report. President Trump\u2019s new class of battleships, which are envisioned to anchor the U.S. Navy\u2019s \u201cGolden Fleet,\u201d are expected to cost around $275 billion to build, according to a government report released Wednesday.\u00a0 The first of 15 ships, the USS Defiant, is proje",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/defense/6012597-trump-golden-fleet-battleships-cbo-cost/",
-    "published_iso": "2026-08-05T22:53:51+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "1693982cc45d",
@@ -220,7 +192,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s222?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-05T20:47:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "d4d08d176234",
@@ -239,7 +211,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s221?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-05T19:05:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "8612e9964e23",
@@ -258,7 +230,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s220?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-05T18:15:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "3f9ae59ebf9a",
@@ -280,7 +252,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2085061676370428371#m",
     "published_iso": "2026-08-05T17:53:36+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "daaf36ebf7c7",
@@ -307,7 +279,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-and-republicans-deliver-big-wins-for-the-silver-state/",
     "published_iso": "2026-08-05T15:53:47+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "bdfe837ec446",
@@ -326,7 +298,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s219?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-05T15:40:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "1a1d646c1e56",
@@ -347,7 +319,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/AOC/status/2085006319220625569#m",
     "published_iso": "2026-08-05T14:13:38+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "f5a660a6003f",
@@ -369,7 +341,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15920/micro-tracers-inc-response-to-objections-and-requests-for-a-public-hearing",
     "published_iso": "2026-08-05T04:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "b48fb0ee3aa0",
@@ -388,7 +360,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15912/amendment-of-united-states-area-navigation-route-q-10-and-revocation-of-alaska-area-navigation",
     "published_iso": "2026-08-05T04:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "5ddd04c4e3d2",
@@ -409,7 +381,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15886/fisheries-of-the-caribbean-gulf-of-america-and-south-atlantic-reef-fish-fishery-in-the-gulf-of",
     "published_iso": "2026-08-05T04:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "79b830d579c7",
@@ -428,7 +400,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15878/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-angling-category",
     "published_iso": "2026-08-05T04:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "045d445a6d73",
@@ -447,7 +419,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15855/safety-zones-recurring-safety-zones-in-captain-of-the-port-northern-great-lakes",
     "published_iso": "2026-08-05T04:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "027cdf22b7c2",
@@ -469,7 +441,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15853/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures",
     "published_iso": "2026-08-05T04:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "497841ad42f7",
@@ -497,7 +469,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/lindsayfraser0/status/2084808258917712264#m",
     "published_iso": "2026-08-05T01:06:37+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "2fc0821e45c6",
@@ -646,7 +618,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15835/accessible-lavatories-on-single-aisle-aircraft-and-ensuring-safe-accommodations-for-air-travelers",
     "published_iso": "2026-08-04T04:00:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "52d0edb4a4e3",
