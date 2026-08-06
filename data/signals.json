@@ -1,6 +1,27 @@
 [
   {
-    "id": "a9bfc63f3313",
+    "id": "be9f03262e8d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Vincent Brad A sold 4,015 shares of Bok Financial Corp (BOKF) \u00b7 $145.42/share \u00b7 $583,861 total \u00b7 Aug 6",
+    "tags": [],
+    "tickers": [
+      "BOKF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1880990/000188099026000005/0001880990-26-000005-index.htm",
+    "published_iso": "2026-08-06T13:16:31+00:00",
+    "time_ago": "7m ago"
+  },
+  {
+    "id": "45f0b599f26b",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,68 +30,15 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Moreno's Social Security tax hike would hurt working families, businesses. Sen. Bernie Moreno (R-Ohio) has joined Sen. Elizabeth Warren (D-Mass.) in proposing to eliminate the Social Security payroll tax cap. This would impose the 12.4 percent tax on all wages and self-employment income, on top of the graduated income ",
+    "content": "Live updates: Rand Paul sets up Senate panel's contempt vote on Fauci. The Senate Homeland Security and Governmental Affairs Committee\u00a0is set to vote Thursday on a resolution to hold former top health official Dr.\u00a0Anthony Fauci in contempt of Congress,\u00a0a week\u00a0after\u00a0he pleaded the Fifth Amendment in\u00a0refusing\u00a0to answer q",
     "tags": [
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/finance/5972181-moreno-warren-social-security-tax/",
-    "published_iso": "2026-08-06T11:30:00+00:00",
-    "time_ago": "19m ago"
-  },
-  {
-    "id": "a7d7840d4bf4",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "This winter, Putin will feed even more of Russia's youth into the meat grinder. Russian President Vladimir Putin is a cornered man. Ukraine, especially through its deep-strike drones and ballistic missiles, is bringing Putin's special military operation home to the city confines of Moscow and Saint Petersburg.\u00a0 As of t",
-    "tags": [
-      "Big Tech",
-      "Agriculture",
-      "Defense",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/national-security/6010176-putin-meat-grinder-war/",
-    "published_iso": "2026-08-06T11:00:00+00:00",
-    "time_ago": "49m ago"
-  },
-  {
-    "id": "92204e0d8ce5",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "FDA approves first mRNA flu vaccine. The Food and Drug Administration (FDA) late Wednesday approved the nation's first mRNA flu vaccine, manufactured by drugmaker Moderna.\u00a0 The agency approved the shot for two separate age groups; people age 50 to 64, and for 65 years and older. Moderna said it will conduct a postmarke",
-    "tags": [
-      "Healthcare",
-      "Taxes"
-    ],
-    "tickers": [
-      "MRNA"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/healthcare/6012939-fda-approves-modernas-mrna-flu-vaccine/",
-    "published_iso": "2026-08-06T10:39:56+00:00",
+    "url": "https://thehill.com/homenews/administration/6012733-live-updates-senate-paul-fauci-trump-iran-tennessee-primary/",
+    "published_iso": "2026-08-06T12:23:47+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -95,7 +63,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16078/dpas-directive-allocation-order-and-additional-requirements-for-recoverable-critical-minerals-and",
     "published_iso": "2026-08-06T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "f0f939fda57b",
@@ -114,7 +82,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16077/pacific-halibut-fisheries-of-the-west-coast-inseason-action-for-the-2026-area-2a-pacific-halibut",
     "published_iso": "2026-08-06T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "1882e21cf1ee",
@@ -135,7 +103,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16066/investment-company-governance-technical-amendments",
     "published_iso": "2026-08-06T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "66e4a57ebd9e",
@@ -156,7 +124,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16049/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery",
     "published_iso": "2026-08-06T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "48c06d2d21c9",
@@ -175,7 +143,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16047/airworthiness-directives-airbus-helicopters",
     "published_iso": "2026-08-06T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "6fa37504fb12",
@@ -194,7 +162,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16043/airworthiness-directives-bell-textron-canada-limited-helicopters",
     "published_iso": "2026-08-06T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "44165aa47921",
@@ -215,7 +183,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16035/limits-on-loans-to-other-credit-unions",
     "published_iso": "2026-08-06T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "868ca8a11312",
@@ -236,7 +204,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16031/chartering-and-field-of-membership-for-federal-credit-unions-interpretive-ruling-and-policy",
     "published_iso": "2026-08-06T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "1693982cc45d",
@@ -257,7 +225,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s222?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-05T20:47:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "d4d08d176234",
@@ -276,7 +244,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s221?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-05T19:05:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "8612e9964e23",
@@ -295,7 +263,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s220?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-05T18:15:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "daaf36ebf7c7",
@@ -322,7 +290,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-and-republicans-deliver-big-wins-for-the-silver-state/",
     "published_iso": "2026-08-05T15:53:47+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "bdfe837ec446",
@@ -341,7 +309,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s219?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-05T15:40:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "1a1d646c1e56",
@@ -362,7 +330,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/AOC/status/2085006319220625569#m",
     "published_iso": "2026-08-05T14:13:38+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "497841ad42f7",
@@ -956,7 +924,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "14d ago"
+    "time_ago": "15d ago"
   },
   {
     "id": "555d7f3dd315",
