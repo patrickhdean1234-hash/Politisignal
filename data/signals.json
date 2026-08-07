@@ -1,6 +1,6 @@
 [
   {
-    "id": "e614c8bf7808",
+    "id": "b1873f9aaa4f",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,16 +9,96 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Archer Timothy exercised options for 30,000 shares of Lam Research Corp (LRCX) \u00b7 $30.03/share \u00b7 $900,990 total \u00b7 Aug 7 ($9,900,990 across all blocks)",
+    "content": "Ginegaw Lorrie Beth sold 615 shares of Middlesex Water Co (MSEXP) \u00b7 $57.61/share \u00b7 $35,430 total \u00b7 Aug 7",
     "tags": [],
     "tickers": [
-      "LRCX"
+      "MSEXP"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1343600/000134360026000011/0001343600-26-000011-index.htm",
-    "published_iso": "2026-08-07T17:24:30+00:00",
-    "time_ago": "1m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1559630/000162828026054754/0001628280-26-054754-index.htm",
+    "published_iso": "2026-08-07T18:01:00+00:00",
+    "time_ago": "9m ago"
+  },
+  {
+    "id": "5e5bf2f43cfe",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Dr. Oz urges senators to reject Budd hemp amendment. Dr. Mehmet Oz, the administrator of the Centers for Medicare and Medicaid Services (CMS), is urging senators to not support an amendment that would allow a federal ban on most hemp-derived products to take effect in November. In a Friday letter, Oz noted he had \u201cgrav",
+    "tags": [
+      "Healthcare",
+      "Defense"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/healthcare/6017301-mehmet-oz-ted-budd-hemp-amendment-spending-bill/",
+    "published_iso": "2026-08-07T17:42:27+00:00",
+    "time_ago": "28m ago"
+  },
+  {
+    "id": "b409b2481386",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Senate overwhelmingly passes Russia sanctions bill. The Senate on Friday passed a long-sought bipartisan bill that would impose harsher sanctions on Russia and the top five buyers of Russian oil, along with extending existing sanctions on Iran.  The measure was a major legislative goal of the late Sen. Lindsey Graham (",
+    "tags": [
+      "Energy",
+      "Regulation",
+      "Sanctions"
+    ],
+    "tickers": [
+      "XOM",
+      "CVX",
+      "COP",
+      "OXY"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/senate/6012606-senate-russia-iran-sanctions/",
+    "published_iso": "2026-08-07T17:36:36+00:00",
+    "time_ago": "34m ago"
+  },
+  {
+    "id": "8fead2dac058",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Live updates: Cassidy will back Blanche's nomination; Senate passes Russia sanctions bill. The Senate overwhelmingly passed a bill that will allow for new sanctions on Russia. The legislation, named for its champion, the late Sen. Lindsey Graham (R-S.C.), passed 86-11. Sen. Bill Cassidy (R-La.) said Friday morning in a",
+    "tags": [
+      "Regulation",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/6015981-live-updates-trump-iran-senate-todd-blanche/",
+    "published_iso": "2026-08-07T17:36:03+00:00",
+    "time_ago": "34m ago"
   },
   {
     "id": "8048144c7e04",
@@ -42,28 +122,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/business/6017218-amazon-new-york-mamdani-e-bikes/",
     "published_iso": "2026-08-07T17:19:32+00:00",
-    "time_ago": "6m ago"
-  },
-  {
-    "id": "0ff317026b21",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Goldberg Leonard R received 7,992 shares of Greenlight Capital Re, Ltd. (GLRE) \u00b7 Aug 7",
-    "tags": [],
-    "tickers": [
-      "GLRE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1400411/000138561326000100/0001385613-26-000100-index.htm",
-    "published_iso": "2026-08-07T17:09:49+00:00",
-    "time_ago": "16m ago"
+    "time_ago": "51m ago"
   },
   {
     "id": "33cc439613c9",
@@ -86,7 +145,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3msj23hywnk2r",
     "published_iso": "2026-08-07T17:05:27.782000+00:00",
-    "time_ago": "20m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "0cc8043a87eb",
@@ -111,7 +170,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2085773299624055081#m",
     "published_iso": "2026-08-07T17:01:21+00:00",
-    "time_ago": "24m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "219cdbf4c31a",
@@ -132,7 +191,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/opinion/campaign/6015834-el-sayed-democrats-win-michigan/",
     "published_iso": "2026-08-07T17:00:00+00:00",
-    "time_ago": "26m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "7946e48d9417",
@@ -155,28 +214,34 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2085772080369340688#m",
     "published_iso": "2026-08-07T16:56:30+00:00",
-    "time_ago": "29m ago"
+    "time_ago": "1h ago"
   },
   {
-    "id": "53a5912e5ef7",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "baf26d52584e",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
     },
-    "severity": "medium",
-    "content": "Buc-ee's responds as beaver logo battle gains national attention. As the lawsuit between Buc-ee's and Beaver Mini Mart continues, the former is speaking out for the first time",
+    "severity": "critical",
+    "content": "Senator Rand Paul Offers Amendment to Strip Half-Trillion-Dollar Tax Increase from Russia Sanctions Bill. The post  Senator Rand Paul Offers Amendment to Strip Half-Trillion-Dollar Tax Increase from Russia Sanctions Bill  appeared first on  Senator Rand Paul",
     "tags": [
+      "Defense",
       "Regulation",
-      "Taxes"
+      "Taxes",
+      "Sanctions"
     ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/6017079-buc-ees-beaver-logo-lawsuit-ohio/",
-    "published_iso": "2026-08-07T16:23:16+00:00",
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
+    "published_iso": "2026-08-07T16:35:23+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -221,7 +286,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/08/nominations-sent-to-the-senate-e61c/",
     "published_iso": "2026-08-07T15:09:20+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "94ad23e2cf6f",
@@ -246,7 +311,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2085744382259429839#m",
     "published_iso": "2026-08-07T15:06:26+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "b37e6da93d25",
@@ -320,7 +385,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/CBSNews/status/2085712566190322021#m",
     "published_iso": "2026-08-07T13:00:01+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "2599850e20ec",
@@ -341,7 +406,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16181/pacific-halibut-fisheries-of-the-west-coast-2026-catch-sharing-plan-inseason-action-correction",
     "published_iso": "2026-08-07T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "0e390cb26b46",
@@ -362,7 +427,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16164/special-local-regulations-annual-les-cheneaux-islands-antique-wooden-boat-show-marquette-bay-hessel",
     "published_iso": "2026-08-07T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "cc0660e85051",
@@ -383,7 +448,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16159/revocation-of-class-e-airspace-lake-geneva-wi",
     "published_iso": "2026-08-07T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "42ad894e5554",
@@ -405,7 +470,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16158/amendment-of-class-d-and-class-e-airspace-chicagorockford-il",
     "published_iso": "2026-08-07T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "c25ba11646ac",
@@ -424,7 +489,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16156/fisheries-of-the-exclusive-economic-zone-off-alaska-reapportionment-of-halibut-prohibited-species",
     "published_iso": "2026-08-07T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "4cecb29df11c",
@@ -443,7 +508,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16155/safety-zones-annual-events-in-the-captain-of-the-port-detroit-zone",
     "published_iso": "2026-08-07T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "f9b57fc1dee9",
@@ -464,7 +529,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16136/ohio-regulatory-program",
     "published_iso": "2026-08-07T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "bc7ddb7162af",
@@ -483,7 +548,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16133/auction-of-fm-broadcasting-construction-permits-scheduled-for-february-2-2027-notice-and-filing",
     "published_iso": "2026-08-07T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "ac80097b24f2",
@@ -526,7 +591,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/08/continuing-to-protect-the-meaning-and-value-of-american-citizenship/",
     "published_iso": "2026-08-06T21:08:24+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "82bcf00e25bc",
@@ -549,7 +614,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-polysilicon-and-its-derivatives/",
     "published_iso": "2026-08-06T21:04:59+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "06da54176ef2",
@@ -578,7 +643,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-polysilicon-and-its-derivatives-into-the-united-states/",
     "published_iso": "2026-08-06T21:03:35+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "5750eb956fcb",
@@ -605,7 +670,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/08/national-purple-heart-day-2026/",
     "published_iso": "2026-08-06T20:54:24+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "c548898c39b2",
@@ -632,7 +697,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/private-sector-answers-president-trumps-call-to-lower-prices-for-american-families/",
     "published_iso": "2026-08-06T19:59:11+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "31d5bd245b7d",
@@ -731,6 +796,27 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s219?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-05T15:40:00+00:00",
+    "time_ago": "2d ago"
+  },
+  {
+    "id": "1a1d646c1e56",
+    "politician": "Rep. Alexandria Ocasio-Cortez",
+    "initials": "AOC",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#93c5fd"
+    },
+    "severity": "high",
+    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/AOC/status/2085006319220625569#m",
+    "published_iso": "2026-08-05T14:13:38+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -907,7 +993,7 @@
     ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "http://nt.vern.cc/AOC/status/2082934237976539645#m",
+    "url": "https://nitter.net/AOC/status/2082934237976539645#m",
     "published_iso": "2026-07-30T20:59:56+00:00",
     "time_ago": "7d ago"
   },
@@ -928,7 +1014,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s217?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-30T17:46:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "c99d309f4b0a",
@@ -1047,7 +1133,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
     "published_iso": "2026-07-29T18:00:00+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -1212,28 +1298,6 @@
     "url": "https://nitter.net/usembassyve/status/2073873845241413988#m",
     "published_iso": "2026-07-05T20:57:10+00:00",
     "time_ago": "32d ago"
-  },
-  {
-    "id": "ddb58e0107d1",
-    "politician": "Sen. Rand Paul",
-    "initials": "RP",
-    "role": "Senate Foreign Relations Committee",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fbbf24"
-    },
-    "severity": "low",
-    "content": "The Senate Page Program. The post  The Senate Page Program  appeared first on  Senator Rand Paul",
-    "tags": [
-      "Defense",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "https://www.paul.senate.gov/the-senate-page-program/",
-    "published_iso": "2026-06-03T21:41:29+00:00",
-    "time_ago": "64d ago"
   },
   {
     "id": "79faa09fe8f6",
