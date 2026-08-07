@@ -1,6 +1,6 @@
 [
   {
-    "id": "c254875645ef",
+    "id": "fddabbefdb7e",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -8,20 +8,20 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "medium",
-    "content": "Schmid Christian Mathias gifted 330,000 shares of Schmid Group N.V. (SHMDW) \u00b7 $4.26/share \u00b7 $1,405,800 total \u00b7 Aug 7",
+    "severity": "critical",
+    "content": "Nielsen Raymond A sold 1,800 shares of Dime Commercial Bancshares, Inc. /Ny/ (DCBG) \u00b7 $41.73/share \u00b7 $75,113 total \u00b7 Aug 7",
     "tags": [],
     "tickers": [
-      "SHMDW"
+      "DCBG"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2125050/000212505026000006/0002125050-26-000006-index.htm",
-    "published_iso": "2026-08-07T12:03:04+00:00",
-    "time_ago": "23m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1194348/000119434826000004/0001194348-26-000004-index.htm",
+    "published_iso": "2026-08-07T13:39:39+00:00",
+    "time_ago": "8m ago"
   },
   {
-    "id": "1ef8a2cad799",
+    "id": "f59e67fe6fed",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,63 +30,38 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Pankaj Rajesh sold 1,500 shares of Interdigital, Inc. (IDCC) \u00b7 $324.88/share \u00b7 $487,320 total \u00b7 Aug 7",
+    "content": "Sterneck Robin Peppe sold 3,403 shares of Epr Properties (EPR-PG) \u00b7 $61.54/share \u00b7 $209,412 total \u00b7 Aug 7",
     "tags": [],
-    "tickers": [
-      "IDCC"
-    ],
+    "tickers": [],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1936535/000162828026054590/0001628280-26-054590-index.htm",
-    "published_iso": "2026-08-07T12:02:16+00:00",
-    "time_ago": "23m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1586823/000104545026000045/0001045450-26-000045-index.htm",
+    "published_iso": "2026-08-07T13:34:26+00:00",
+    "time_ago": "13m ago"
   },
   {
-    "id": "ec7e4187b7ae",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "ac718a454388",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Olson Dustin withheld (tax) 11,149 shares of Purecycle Technologies, Inc. (PCTTW) \u00b7 $6.87/share \u00b7 $76,594 total \u00b7 Aug 7",
+    "content": "HHS should protect payments to clinical trial participants. The HHS Office of Inspector General is seeking public comment on whether to protect payments to clinical trial participants, a move supported by research showing that compensating individuals\u2014including those who use drugs\u2014is essential for developing effective ",
     "tags": [
-      "Taxes"
+      "Healthcare"
     ],
-    "tickers": [
-      "PCTTW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1847079/000184707926000011/0001847079-26-000011-index.htm",
-    "published_iso": "2026-08-07T11:58:34+00:00",
-    "time_ago": "27m ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/healthcare/6010067-protecting-clinical-trial-payments/",
+    "published_iso": "2026-08-07T13:00:00+00:00",
+    "time_ago": "48m ago"
   },
   {
-    "id": "80cbe95eaea4",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Friel Lisa A. exercised options for 5,005 shares of Westlake Chemical Partners Lp (WLKP) \u00b7 Aug 7 ($53,418 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "WLKP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1974882/000119312526339181/0001193125-26-339181-index.htm",
-    "published_iso": "2026-08-07T11:35:35+00:00",
-    "time_ago": "50m ago"
-  },
-  {
-    "id": "c49fc4cb87ad",
+    "id": "13cee6bcfffd",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -95,18 +70,35 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Our current housing crisis began in 2008 \u2014 and it never ended. Inflation did not create America's housing crisis. It only exposed it",
+    "content": "US loses 23K jobs in July, unemployment dips slightly. The U.S. economy lost 23,000 jobs in July, and the unemployment rate dipped slightly to 4.1 percent, according to new data released Friday by the Bureau of Labor Statistics (BLS).  Economists had expected American employers to add 83,000 jobs and the jobless rate t",
     "tags": [],
-    "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
-    ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/finance/5972259-post-2008-housing-production-shortage/",
-    "published_iso": "2026-08-07T11:30:00+00:00",
-    "time_ago": "56m ago"
+    "url": "https://thehill.com/business/6015291-us-jobs-23k-losses-bls-report-july/",
+    "published_iso": "2026-08-07T12:48:52+00:00",
+    "time_ago": "59m ago"
+  },
+  {
+    "id": "1627fdd9ad3f",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Section 301 tariffs are meant to be a scalpel, not a sledgehammer. Congress designed Section 301 as targeted economic diplomacy",
+    "tags": [
+      "Trade"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/international/6014609-section-301-tariff-lawsuit/",
+    "published_iso": "2026-08-07T12:30:00+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "2599850e20ec",
@@ -127,7 +119,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16181/pacific-halibut-fisheries-of-the-west-coast-2026-catch-sharing-plan-inseason-action-correction",
     "published_iso": "2026-08-07T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "0e390cb26b46",
@@ -148,7 +140,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16164/special-local-regulations-annual-les-cheneaux-islands-antique-wooden-boat-show-marquette-bay-hessel",
     "published_iso": "2026-08-07T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "cc0660e85051",
@@ -169,7 +161,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16159/revocation-of-class-e-airspace-lake-geneva-wi",
     "published_iso": "2026-08-07T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "42ad894e5554",
@@ -191,7 +183,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16158/amendment-of-class-d-and-class-e-airspace-chicagorockford-il",
     "published_iso": "2026-08-07T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "c25ba11646ac",
@@ -210,7 +202,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16156/fisheries-of-the-exclusive-economic-zone-off-alaska-reapportionment-of-halibut-prohibited-species",
     "published_iso": "2026-08-07T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "4cecb29df11c",
@@ -229,7 +221,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16155/safety-zones-annual-events-in-the-captain-of-the-port-detroit-zone",
     "published_iso": "2026-08-07T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "f9b57fc1dee9",
@@ -250,7 +242,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16136/ohio-regulatory-program",
     "published_iso": "2026-08-07T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "bc7ddb7162af",
@@ -269,7 +261,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16133/auction-of-fm-broadcasting-construction-permits-scheduled-for-february-2-2027-notice-and-filing",
     "published_iso": "2026-08-07T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "ac80097b24f2",
@@ -290,7 +282,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-ends-birth-tourism-and-protects-the-meaning-and-value-of-american-citizenship/",
     "published_iso": "2026-08-06T21:11:38+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "73f96486c1a8",
@@ -312,7 +304,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/08/continuing-to-protect-the-meaning-and-value-of-american-citizenship/",
     "published_iso": "2026-08-06T21:08:24+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "82bcf00e25bc",
@@ -335,7 +327,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-polysilicon-and-its-derivatives/",
     "published_iso": "2026-08-06T21:04:59+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "06da54176ef2",
@@ -364,7 +356,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-polysilicon-and-its-derivatives-into-the-united-states/",
     "published_iso": "2026-08-06T21:03:35+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "5750eb956fcb",
@@ -391,7 +383,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/08/national-purple-heart-day-2026/",
     "published_iso": "2026-08-06T20:54:24+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "c548898c39b2",
@@ -418,7 +410,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/private-sector-answers-president-trumps-call-to-lower-prices-for-american-families/",
     "published_iso": "2026-08-06T19:59:11+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "31d5bd245b7d",
@@ -439,7 +431,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2085385104558330365#m",
     "published_iso": "2026-08-06T15:18:48+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "f90a4455ff60",
@@ -462,7 +454,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2085354792176525457#m",
     "published_iso": "2026-08-06T13:18:21+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "1693982cc45d",
@@ -552,7 +544,7 @@
       "fg": "#93c5fd"
     },
     "severity": "high",
-    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
+    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan to g",
     "tags": [
       "Healthcare"
     ],
@@ -1028,7 +1020,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "15d ago"
+    "time_ago": "16d ago"
   },
   {
     "id": "555d7f3dd315",
@@ -1073,6 +1065,29 @@
     "url": "https://www.paul.senate.gov/chairman-paul-launches-the-reading-room-a-public-archive-of-the-committees-ongoing-covid-19-origins-investigations/",
     "published_iso": "2026-07-20T20:42:12+00:00",
     "time_ago": "17d ago"
+  },
+  {
+    "id": "a911872ff396",
+    "politician": "Rep. Patrick McHenry",
+    "initials": "PM",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#2d1e5f",
+      "fg": "#c084fc"
+    },
+    "severity": "critical",
+    "content": "The years of work put into sound policy have created impact in the first year since enactment. Lots more to come! \n \n \n Financial Services GOP (@FinancialCmte) \n \n One year ago today, the GENIUS Act was signed into law, delivering the first comprehensive federal framework for payment stablecoins and marking a historic ",
+    "tags": [
+      "Crypto",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nt.vern.cc/PatrickMcHenry/status/2078478053945053615#m",
+    "published_iso": "2026-07-18T13:52:38+00:00",
+    "time_ago": "19d ago"
   },
   {
     "id": "f6fb9773511f",
