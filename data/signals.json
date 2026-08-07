@@ -1,5 +1,132 @@
 [
   {
+    "id": "5e38b1ac4079",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Terry Chris exercised options for 60,000 shares of Consumer Portfolio Services, Inc. (CPSS) \u00b7 $3.53/share \u00b7 $211,800 total \u00b7 Aug 7 ($466,885 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "CPSS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1244792/000168316826006089/0001683168-26-006089-index.htm",
+    "published_iso": "2026-08-07T16:23:44+00:00",
+    "time_ago": "6m ago"
+  },
+  {
+    "id": "53a5912e5ef7",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Buc-ee's responds as beaver logo battle gains national attention. As the lawsuit between Buc-ee's and Beaver Mini Mart continues, the former is speaking out for the first time",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/6017079-buc-ees-beaver-logo-lawsuit-ohio/",
+    "published_iso": "2026-08-07T16:23:16+00:00",
+    "time_ago": "6m ago"
+  },
+  {
+    "id": "548f4471fe0d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Woss Allison sold 2,511 shares of Weyco Group Inc (WEYS) \u00b7 $43.63/share \u00b7 $109,560 total \u00b7 Aug 7",
+    "tags": [],
+    "tickers": [
+      "WEYS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1691675/000169167526000004/0001691675-26-000004-index.htm",
+    "published_iso": "2026-08-07T16:20:19+00:00",
+    "time_ago": "9m ago"
+  },
+  {
+    "id": "59ccc9f5e5ce",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Anderson Judy sold 2,602 shares of Weyco Group Inc (WEYS) \u00b7 $43.27/share \u00b7 $112,597 total \u00b7 Aug 7",
+    "tags": [],
+    "tickers": [
+      "WEYS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1312596/000131259626000006/0001312596-26-000006-index.htm",
+    "published_iso": "2026-08-07T16:16:34+00:00",
+    "time_ago": "13m ago"
+  },
+  {
+    "id": "9176e0de9850",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "critical",
+    "content": "Congress cannot delegate its power to tax, under Article 1 of the Constitution, to the executive branch. \n \nThis bill hands the president the authority to raise $500 billion through tariffs. That\u2019s not fighting Putin. That\u2019s taxing Americans and calling it foreign policy. \n \n dailycaller.com/2026/08/07/s\u2026  \n \n Link  \n ",
+    "tags": [
+      "Trade",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/RandPaul/status/2085760780859752849#m",
+    "published_iso": "2026-08-07T16:11:36+00:00",
+    "time_ago": "17m ago"
+  },
+  {
+    "id": "13fd890b6f5e",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Time out! A reality check on business aviation's sustainability record. Even with its minimal carbon footprint, the sector has slashed emissions\u00a0by 40\u00a0percent\u00a0in just four decades",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/energy-environment/6013832-time-out-a-reality-check-on-business-aviations-sustainability-record/",
+    "published_iso": "2026-08-07T16:00:00+00:00",
+    "time_ago": "29m ago"
+  },
+  {
     "id": "4793e679c884",
     "politician": "White House",
     "initials": "WH",
@@ -18,7 +145,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/08/nominations-sent-to-the-senate-e61c/",
     "published_iso": "2026-08-07T15:09:20+00:00",
-    "time_ago": "26m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "94ad23e2cf6f",
@@ -43,28 +170,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2085744382259429839#m",
     "published_iso": "2026-08-07T15:06:26+00:00",
-    "time_ago": "29m ago"
-  },
-  {
-    "id": "d892757888d0",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "AI used to create synthetic virus. Scientists have used artificial intelligence (AI) to design complete, functioning viruses with genomes never seen before in nature \u2014 a breakthrough that could open new avenues for fighting drug-resistant bacterial infections. A Stanford University-led research team used generative AI ",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/6016432-artificial-intelligence-synthetic-virus-creation/",
-    "published_iso": "2026-08-07T15:03:41+00:00",
-    "time_ago": "32m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "b37e6da93d25",
@@ -84,9 +190,9 @@
     "tickers": [],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "https://nitter.net/SpeakerJohnson/status/2085733923137470817#m",
+    "url": "http://nt.vern.cc/SpeakerJohnson/status/2085733923137470817#m",
     "published_iso": "2026-08-07T14:24:52+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "5ea00d59e59e",
@@ -111,7 +217,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2085732688682451250#m",
     "published_iso": "2026-08-07T14:19:58+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "30974d89b1df",
@@ -138,7 +244,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/CBSNews/status/2085712566190322021#m",
     "published_iso": "2026-08-07T13:00:01+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "2599850e20ec",
@@ -159,7 +265,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16181/pacific-halibut-fisheries-of-the-west-coast-2026-catch-sharing-plan-inseason-action-correction",
     "published_iso": "2026-08-07T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "0e390cb26b46",
@@ -180,7 +286,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16164/special-local-regulations-annual-les-cheneaux-islands-antique-wooden-boat-show-marquette-bay-hessel",
     "published_iso": "2026-08-07T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "cc0660e85051",
@@ -201,7 +307,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16159/revocation-of-class-e-airspace-lake-geneva-wi",
     "published_iso": "2026-08-07T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "42ad894e5554",
@@ -223,7 +329,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16158/amendment-of-class-d-and-class-e-airspace-chicagorockford-il",
     "published_iso": "2026-08-07T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "c25ba11646ac",
@@ -242,7 +348,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16156/fisheries-of-the-exclusive-economic-zone-off-alaska-reapportionment-of-halibut-prohibited-species",
     "published_iso": "2026-08-07T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "4cecb29df11c",
@@ -261,7 +367,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16155/safety-zones-annual-events-in-the-captain-of-the-port-detroit-zone",
     "published_iso": "2026-08-07T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "f9b57fc1dee9",
@@ -282,7 +388,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16136/ohio-regulatory-program",
     "published_iso": "2026-08-07T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "bc7ddb7162af",
@@ -301,7 +407,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/07/2026-16133/auction-of-fm-broadcasting-construction-permits-scheduled-for-february-2-2027-notice-and-filing",
     "published_iso": "2026-08-07T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "ac80097b24f2",
@@ -322,7 +428,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-ends-birth-tourism-and-protects-the-meaning-and-value-of-american-citizenship/",
     "published_iso": "2026-08-06T21:11:38+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "73f96486c1a8",
@@ -344,7 +450,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/08/continuing-to-protect-the-meaning-and-value-of-american-citizenship/",
     "published_iso": "2026-08-06T21:08:24+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "82bcf00e25bc",
@@ -367,7 +473,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-polysilicon-and-its-derivatives/",
     "published_iso": "2026-08-06T21:04:59+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "06da54176ef2",
@@ -396,7 +502,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-polysilicon-and-its-derivatives-into-the-united-states/",
     "published_iso": "2026-08-06T21:03:35+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "5750eb956fcb",
@@ -423,7 +529,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/08/national-purple-heart-day-2026/",
     "published_iso": "2026-08-06T20:54:24+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "c548898c39b2",
@@ -450,7 +556,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/private-sector-answers-president-trumps-call-to-lower-prices-for-american-families/",
     "published_iso": "2026-08-06T19:59:11+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "31d5bd245b7d",
@@ -469,7 +575,7 @@
     "tickers": [],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "https://nitter.net/SpeakerJohnson/status/2085385104558330365#m",
+    "url": "http://nt.vern.cc/SpeakerJohnson/status/2085385104558330365#m",
     "published_iso": "2026-08-06T15:18:48+00:00",
     "time_ago": "1d ago"
   },
@@ -492,7 +598,7 @@
     ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "https://nitter.net/SpeakerJohnson/status/2085354792176525457#m",
+    "url": "http://nt.vern.cc/SpeakerJohnson/status/2085354792176525457#m",
     "published_iso": "2026-08-06T13:18:21+00:00",
     "time_ago": "1d ago"
   },
@@ -572,27 +678,6 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s219?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-05T15:40:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "1a1d646c1e56",
-    "politician": "Rep. Alexandria Ocasio-Cortez",
-    "initials": "AOC",
-    "role": "House Financial Services Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#93c5fd"
-    },
-    "severity": "high",
-    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/AOC/status/2085006319220625569#m",
-    "published_iso": "2026-08-05T14:13:38+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -671,34 +756,6 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
     "published_iso": "2026-08-04T20:30:00+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "b7d37af92239",
-    "politician": "Sen. Bernie Sanders",
-    "initials": "BS",
-    "role": "Senate HELP Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#818cf8"
-    },
-    "severity": "medium",
-    "content": "Will Lawrence is leading the fight against Big Tech Oligarchs and their data centers. He'll stand up to the billionaire class, fight for Medicare for All and represent working families' needs. \n \nLet\u2019s do all we can to elect Will to Michigan's 7th congressional district today. \n \n Video",
-    "tags": [
-      "Big Tech",
-      "Healthcare",
-      "Regulation"
-    ],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/BernieSanders/status/2084694822791544883#m",
-    "published_iso": "2026-08-04T17:35:52+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -797,7 +854,7 @@
     ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "https://nitter.net/AOC/status/2082934237976539645#m",
+    "url": "http://nt.vern.cc/AOC/status/2082934237976539645#m",
     "published_iso": "2026-07-30T20:59:56+00:00",
     "time_ago": "7d ago"
   },
@@ -821,28 +878,6 @@
     "time_ago": "7d ago"
   },
   {
-    "id": "2920ea766514",
-    "politician": "Rep. Nancy Pelosi",
-    "initials": "NP",
-    "role": "House Democratic Leader",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "As Republicans gut these vital lifelines to give more tax cuts to the rich, our fight to protect the care that millions of Americans rely on has never been more important.",
-    "tags": [
-      "Trade",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/pelosi.house.gov/post/3mruultkwus2t",
-    "published_iso": "2026-07-30T16:33:54.862000+00:00",
-    "time_ago": "7d ago"
-  },
-  {
     "id": "c99d309f4b0a",
     "politician": "GovTrack",
     "initials": "GT",
@@ -859,7 +894,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s216?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-30T16:28:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "b88abec6c525",
@@ -1121,7 +1156,7 @@
     "tickers": [],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "http://nt.vern.cc/usembassyve/status/2073873845241413988#m",
+    "url": "https://nitter.net/usembassyve/status/2073873845241413988#m",
     "published_iso": "2026-07-05T20:57:10+00:00",
     "time_ago": "32d ago"
   },
@@ -1166,7 +1201,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "87d ago"
+    "time_ago": "88d ago"
   },
   {
     "id": "d69f39ae1ab0",
