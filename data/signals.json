@@ -1,6 +1,6 @@
 [
   {
-    "id": "bfb985e46c2d",
+    "id": "3559b66c4846",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,37 +9,256 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Winkleblack Arthur B exercised options for 13,200 shares of Church & Dwight Co Inc /De/ (CHD) \u00b7 $50.28/share \u00b7 $663,696 total \u00b7 Aug 6 ($2,021,006 across all blocks)",
+    "content": "Sciammas Maurice gifted 25,000 shares of Monolithic Power Systems, Inc. (MPWR) \u00b7 Aug 6 ($0 across all blocks)",
     "tags": [],
     "tickers": [
-      "CHD"
+      "MPWR"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1199100/000031392726000292/0000313927-26-000292-index.htm",
-    "published_iso": "2026-08-06T15:35:11+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/1360833/000121465926009744/0001214659-26-009744-index.htm",
+    "published_iso": "2026-08-07T00:31:18+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "e10831d2f6fb",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Gandhi Sameer K sold 203 shares of Crowdstrike Holdings, Inc. (CRWD) \u00b7 $204.37/share \u00b7 $41,487 total \u00b7 Aug 6 ($4,200,998 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "CRWD"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1535527/000120132626000019/0001201326-26-000019-index.htm",
+    "published_iso": "2026-08-07T00:30:09+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "d1e22c77fb60",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Kurtz George sold 160 shares of Crowdstrike Holdings, Inc. (CRWD) \u00b7 $204.07/share \u00b7 $32,651 total \u00b7 Aug 6 ($4,229,968 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "CRWD"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1778564/000177856426000135/0001778564-26-000135-index.htm",
+    "published_iso": "2026-08-07T00:30:06+00:00",
     "time_ago": "3m ago"
   },
   {
-    "id": "39b2434ffbc5",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "aeb198ae86e0",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Damico Jennifer B. sold 3,278 shares of Pfizer Inc (PFE) \u00b7 $25.40/share \u00b7 $83,261 total \u00b7 Aug 6",
-    "tags": [],
-    "tickers": [
-      "PFE"
+    "severity": "high",
+    "content": "Spanberger intervening in proposed NextEra-Dominion merger. Virginia Gov. Abigail Spanberger (D) announced Thursday that she plans to intervene in the merger deal between NextEra Energy and Dominion Energy which, if approved, would create the largest regulated electrical utility in the world. In an op-ed in the Washing",
+    "tags": [
+      "Energy"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1805617/000122520826007004/0001225208-26-007004-index.htm",
-    "published_iso": "2026-08-06T15:26:56+00:00",
-    "time_ago": "11m ago"
+    "tickers": [
+      "NEE"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/state-watch/6015551-spanberger-intervenes-nextera-dominion-merger/",
+    "published_iso": "2026-08-06T23:40:21+00:00",
+    "time_ago": "52m ago"
+  },
+  {
+    "id": "363caeaad596",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "What\u2019s\u00a0next for Fauci?. Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story  What\u2019s next for Fauci?  The Senate Homeland Security and Governmental Affairs Committee voted on party lines to hold Anthony Fauci in contempt of Congress.  \u00a9 Natasha Kaiser The vote came after Fauci invok",
+    "tags": [
+      "Healthcare",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/healthcare/6015532-whats-next-for-fauci/",
+    "published_iso": "2026-08-06T22:47:08+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "ac80097b24f2",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "critical",
+    "content": "Fact Sheet: President Donald J. Trump Ends Birth Tourism and Protects the Meaning and Value of American Citizenship. SAFEGUARDING AMERICAN CITIZENSHIP AND ENDING BIRTH TOURISM:&#160;Today, President Donald J. Trump signed two Executive Orders to continue to protect the meaning and value of American citizenship after&#1",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-ends-birth-tourism-and-protects-the-meaning-and-value-of-american-citizenship/",
+    "published_iso": "2026-08-06T21:11:38+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "73f96486c1a8",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "Continuing to Protect the Meaning and Value of American Citizenship. By the authority vested in me as President by the Constitution and the laws of the United States of America, it&#160;is&#160;hereby ordered: Section 1.\u00a0 Purpose. \u00a0The privilege of United States citizenship remains a priceless and profound gift. \u00a0Since",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/08/continuing-to-protect-the-meaning-and-value-of-american-citizenship/",
+    "published_iso": "2026-08-06T21:08:24+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "82bcf00e25bc",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "critical",
+    "content": "Fact Sheet: President Donald J. Trump Bolsters National Security and Strengthens U.S. Supply Chains by Imposing Tariffs on Polysilicon and its Derivatives. DEFENDING THE AMERICAN INDUSTRIAL BASE:&#160;Today, President Donald J. Trump signed a Proclamation to protect America\u2019s polysilicon industry and supply chain from ",
+    "tags": [
+      "Trade",
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-polysilicon-and-its-derivatives/",
+    "published_iso": "2026-08-06T21:04:59+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "06da54176ef2",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "critical",
+    "content": "Adjusting Imports of Polysilicon and its Derivatives into the United States. BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION 1.&#160; Polysilicon is the base material underpinning the security of America&#8217;s semiconductor and solar-power supply chains.&#160; Yet for decades, America has allowed fore",
+    "tags": [
+      "Trade",
+      "Semiconductors",
+      "Energy",
+      "Taxes"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "AMD",
+      "QCOM"
+    ],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-polysilicon-and-its-derivatives-into-the-united-states/",
+    "published_iso": "2026-08-06T21:03:35+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "5750eb956fcb",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "National Purple Heart Day, 2026. BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION On National Purple Heart Day, we honor the immeasurable sacrifices of every valiant service member wounded or killed in combat in defense of our Nation and we reaffirm our eternal gratitude for their unrivaled heroism. Firs",
+    "tags": [
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/08/national-purple-heart-day-2026/",
+    "published_iso": "2026-08-06T20:54:24+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "c548898c39b2",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "Private Sector Answers President Trump\u2019s Call to Lower Prices for American Families. President Donald J. Trump inherited an economy battered by years of inflation that crushed working families. Through bold action to restore American energy dominance, slash red tape, and secure fair trade, the Trump Administration is q",
+    "tags": [
+      "Trade",
+      "Energy",
+      "Taxes"
+    ],
+    "tickers": [
+      "GLD",
+      "TLT",
+      "SPY"
+    ],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/08/private-sector-answers-president-trumps-call-to-lower-prices-for-american-families/",
+    "published_iso": "2026-08-06T19:59:11+00:00",
+    "time_ago": "4h ago"
   },
   {
     "id": "31d5bd245b7d",
@@ -60,50 +279,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2085385104558330365#m",
     "published_iso": "2026-08-06T15:18:48+00:00",
-    "time_ago": "19m ago"
-  },
-  {
-    "id": "be4d33d9b963",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Appeals court upholds Florida ban on children at drag shows. A federal appeals court on Tuesday upheld a Florida law banning children from attending drag shows, ruling the state can enforce the measure after a lower court blocked its enforcement on First Amendment grounds. In a 8-5 ruling, the full U.S. Court of Appeal",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/state-watch/6013851-desantis-wins-drag-show-ruling/",
-    "published_iso": "2026-08-06T15:03:53+00:00",
-    "time_ago": "34m ago"
-  },
-  {
-    "id": "4c80effbdeb8",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Kudlow tells Senate Republican that 'polls are lousy'. Fox Business host Larry Kudlow, who served as National Economic Council director during President Trump\u2019s first term, scolded Sen. Tommy Tuberville (R-Ala.) during an interview Wednesday about the lack of big Republican accomplishments this year, warning \u201cpolls are",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/6013824-kudlow-tuberville-gop-poll-numbers/",
-    "published_iso": "2026-08-06T14:53:39+00:00",
-    "time_ago": "45m ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "f90a4455ff60",
@@ -126,7 +302,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2085354792176525457#m",
     "published_iso": "2026-08-06T13:18:21+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "6e113e8c2835",
@@ -150,7 +326,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16078/dpas-directive-allocation-order-and-additional-requirements-for-recoverable-critical-minerals-and",
     "published_iso": "2026-08-06T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "f0f939fda57b",
@@ -169,7 +345,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16077/pacific-halibut-fisheries-of-the-west-coast-inseason-action-for-the-2026-area-2a-pacific-halibut",
     "published_iso": "2026-08-06T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "1882e21cf1ee",
@@ -190,7 +366,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16066/investment-company-governance-technical-amendments",
     "published_iso": "2026-08-06T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "66e4a57ebd9e",
@@ -211,7 +387,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16049/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery",
     "published_iso": "2026-08-06T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "48c06d2d21c9",
@@ -230,7 +406,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16047/airworthiness-directives-airbus-helicopters",
     "published_iso": "2026-08-06T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "6fa37504fb12",
@@ -249,7 +425,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16043/airworthiness-directives-bell-textron-canada-limited-helicopters",
     "published_iso": "2026-08-06T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "44165aa47921",
@@ -270,7 +446,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16035/limits-on-loans-to-other-credit-unions",
     "published_iso": "2026-08-06T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "868ca8a11312",
@@ -291,7 +467,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16031/chartering-and-field-of-membership-for-federal-credit-unions-interpretive-ruling-and-policy",
     "published_iso": "2026-08-06T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "1693982cc45d",
@@ -312,7 +488,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s222?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-05T20:47:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "d4d08d176234",
@@ -331,7 +507,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s221?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-05T19:05:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "8612e9964e23",
@@ -350,34 +526,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s220?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-05T18:15:00+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "daaf36ebf7c7",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "President Trump and Republicans Deliver Big Wins for the Silver State. From the largest tax cut for working families in American history to the most secure border on record, Nevada is winning again under President Donald J. Trump and Republican leadership. Since returning to office, President Trump has cut taxes, drive",
-    "tags": [
-      "Energy",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
-    ],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-and-republicans-deliver-big-wins-for-the-silver-state/",
-    "published_iso": "2026-08-05T15:53:47+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "bdfe837ec446",
@@ -396,7 +545,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s219?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-05T15:40:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "1a1d646c1e56",
@@ -417,55 +566,6 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/AOC/status/2085006319220625569#m",
     "published_iso": "2026-08-05T14:13:38+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "497841ad42f7",
-    "politician": "Sen. Cynthia Lummis",
-    "initials": "CL",
-    "role": "Senate Banking Subcommittee (Crypto)",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#c4b5fd"
-    },
-    "severity": "critical",
-    "content": "1/ Today\u2019s  @WSJ  editorial makes the case for the Clarity Act\u2019s core framework. But it gets two of the most carefully negotiated provisions wrong: stablecoin rewards and DeFi. The Clarity Act neither authorizes bank deposits by another name nor exempts financial intermediaries simply because they use blockchain techno",
-    "tags": [
-      "Crypto",
-      "Banking",
-      "Regulation"
-    ],
-    "tickers": [
-      "BTC",
-      "ETH",
-      "COIN",
-      "XRP"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/lindsayfraser0/status/2084808258917712264#m",
-    "published_iso": "2026-08-05T01:06:37+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "2fc0821e45c6",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "Manufacturing Jobs Flock to the U.S. Thanks to President Trump\u2019s America First Economic Agenda. With President Trump\u2019s economic agenda taking effect, the United States is seeing an economic revival across our manufacturing industry. July saw the strongest expansion in domestic manufacturing activity in more than four y",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/releases/2026/08/manufacturing-jobs-flock-to-the-u-s-thanks-to-president-trumps-america-first-economic-agenda/",
-    "published_iso": "2026-08-04T21:33:29+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -492,7 +592,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
     "published_iso": "2026-08-04T20:30:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "20080fd47dd8",
@@ -518,7 +618,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm",
     "published_iso": "2026-08-04T20:30:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "0d330c4dedb5",
@@ -544,7 +644,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
     "published_iso": "2026-08-04T20:30:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "b7d37af92239",
@@ -572,7 +672,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2084694822791544883#m",
     "published_iso": "2026-08-04T17:35:52+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "52d0edb4a4e3",
@@ -591,59 +691,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s218?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-03T21:32:00+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "e181526bf420",
-    "politician": "Sen. Bernie Sanders",
-    "initials": "BS",
-    "role": "Senate HELP Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#818cf8"
-    },
-    "severity": "high",
-    "content": "Donavan McKinney is running for Congress in Michigan's 13th district. \n \nDonavan comes from the working class and fights for the working class. \n \nHe wants Medicare for All, a livable minimum wage and affordable housing. \n \nTomorrow\u2019s Election Day. Let's get out the vote for Donavan. \n \n Video",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/BernieSanders/status/2084383508236026182#m",
-    "published_iso": "2026-08-03T20:58:48+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "2e0132bbd9a5",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "Fact Sheet: President Donald J. Trump Establishes the President\u2019s Military Spouse Commission. STRENGTHENING MILITARY READINESS:\u00a0Today, President Donald J. Trump signed an Executive Order establishing the Military Spouse Commission to strengthen military readiness by improving the quality of life for military spouses an",
-    "tags": [
-      "Defense",
-      "Taxes"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-establishes-the-presidents-military-spouse-commission/",
-    "published_iso": "2026-08-03T18:55:57+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "75401d5d3d31",
@@ -724,7 +772,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/AOC/status/2082934237976539645#m",
     "published_iso": "2026-07-30T20:59:56+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "b693c620457f",
@@ -743,7 +791,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s217?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-30T17:46:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "2920ea766514",
@@ -765,33 +813,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mruultkwus2t",
     "published_iso": "2026-07-30T16:33:54.862000+00:00",
-    "time_ago": "6d ago"
-  },
-  {
-    "id": "27d9989a58b7",
-    "politician": "Rep. Nancy Pelosi",
-    "initials": "NP",
-    "role": "House Democratic Leader",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "61 years ago, President Johnson signed Medicare and Medicaid into law\u2014providing millions of vulnerable Americans with a pillar of health and economic security.\u00a0\n\nHe did so in Independence, Missouri, alongside President Truman, who championed the initiative during his time in office.",
-    "tags": [
-      "Healthcare",
-      "Regulation"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/pelosi.house.gov/post/3mruulp3ovc2t",
-    "published_iso": "2026-07-30T16:33:54.861000+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "c99d309f4b0a",
@@ -810,7 +832,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s216?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-07-30T16:28:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "b88abec6c525",
@@ -910,7 +932,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
     "published_iso": "2026-07-29T18:00:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -939,7 +961,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "de38f5381391",
@@ -960,7 +982,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "14d ago"
+    "time_ago": "15d ago"
   },
   {
     "id": "98b90fd8352a",
@@ -989,7 +1011,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-releases-updated-clarity-act-text/",
     "published_iso": "2026-07-22T16:49:25+00:00",
-    "time_ago": "14d ago"
+    "time_ago": "15d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -1033,7 +1055,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "16d ago"
+    "time_ago": "17d ago"
   },
   {
     "id": "00574dc3c125",
@@ -1055,7 +1077,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-launches-the-reading-room-a-public-archive-of-the-committees-ongoing-covid-19-origins-investigations/",
     "published_iso": "2026-07-20T20:42:12+00:00",
-    "time_ago": "16d ago"
+    "time_ago": "17d ago"
   },
   {
     "id": "f6fb9773511f",
@@ -1074,7 +1096,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/usembassyve/status/2073873845241413988#m",
     "published_iso": "2026-07-05T20:57:10+00:00",
-    "time_ago": "31d ago"
+    "time_ago": "32d ago"
   },
   {
     "id": "ddb58e0107d1",
@@ -1096,7 +1118,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/the-senate-page-program/",
     "published_iso": "2026-06-03T21:41:29+00:00",
-    "time_ago": "63d ago"
+    "time_ago": "64d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -1117,7 +1139,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "86d ago"
+    "time_ago": "87d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1208,7 +1230,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "133d ago"
+    "time_ago": "134d ago"
   },
   {
     "id": "00f579ee8f55",
@@ -1274,7 +1296,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "195d ago"
+    "time_ago": "196d ago"
   },
   {
     "id": "d3ca74df7f0f",
