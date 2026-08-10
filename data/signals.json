@@ -1,6 +1,6 @@
 [
   {
-    "id": "996f6fdc311a",
+    "id": "573b28357de1",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Rayhill Brian exercised options for 30,000 shares of Consumer Portfolio Services, Inc. (CPSS) \u00b7 $3.53/share \u00b7 $105,900 total \u00b7 Aug 10 ($211,802 across all blocks)",
+    "content": "Hakim Anat sold 5,000 shares of Eli Lilly & Co (LLY) \u00b7 $1,190.00/share \u00b7 $5,950,000 total \u00b7 Aug 10",
     "tags": [],
     "tickers": [
-      "CPSS"
+      "LLY"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1378986/000168316826006156/0001683168-26-006156-index.htm",
-    "published_iso": "2026-08-10T19:30:22+00:00",
-    "time_ago": "6m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1685556/000168555626000006/0001685556-26-000006-index.htm",
+    "published_iso": "2026-08-10T20:19:22+00:00",
+    "time_ago": "2m ago"
   },
   {
-    "id": "31e7be5085b7",
+    "id": "40d41a767f94",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,16 +30,85 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Scully William P bought 34,000 shares of Prothena Corp Public Ltd Co (PRTA) \u00b7 $8.62/share \u00b7 $293,053 total \u00b7 Aug 10 ($323,220 across all blocks)",
+    "content": "Rodriguez Patrick received 1,503 shares of Phibro Animal Health Corp (PAHC) \u00b7 Aug 10",
     "tags": [],
     "tickers": [
-      "PRTA"
+      "PAHC"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1559053/000104546326000010/0001045463-26-000010-index.htm",
-    "published_iso": "2026-08-10T19:24:31+00:00",
-    "time_ago": "12m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2106109/000110465926093397/0001104659-26-093397-index.htm",
+    "published_iso": "2026-08-10T20:19:01+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "5203ac86d663",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Yeboah-Amankwah Safroadu bought 11,841 shares of Mobileye Global Inc. (MBLY) \u00b7 $8.46/share \u00b7 $100,175 total \u00b7 Aug 10",
+    "tags": [],
+    "tickers": [
+      "MBLY"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1928582/000095010326012124/0000950103-26-012124-index.htm",
+    "published_iso": "2026-08-10T20:19:00+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "d710673e3baa",
+    "politician": "Sen. Cynthia Lummis",
+    "initials": "CL",
+    "role": "Senate Banking Subcommittee (Crypto)",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#c4b5fd"
+    },
+    "severity": "critical",
+    "content": "Some community banks are suggesting stablecoins are driving deposit flight. The data says otherwise: BofA shows household deposits rising across income groups this year, and the FDIC reports domestic deposits grew for a seventh straight quarter. Community banks actually outperformed the industry, posting 5% deposit gro",
+    "tags": [
+      "Crypto",
+      "Banking",
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SenLummis/status/2086903602598256890#m",
+    "published_iso": "2026-08-10T19:52:46+00:00",
+    "time_ago": "24m ago"
+  },
+  {
+    "id": "ab1cb7b51211",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "critical",
+    "content": "Fact Sheet: President Donald J. Trump Delivers Gold Standard Childhood Vaccine Recommendations for Americans. DELIVERING GOLD STANDARD CHILDHOOD VACCINE RECOMMENDATIONS:&#160;Today, President Donald J. Trump signed an Executive Order to recognize Gold Standard Childhood Vaccine Recommendations that maximize parental ch",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "GLD",
+      "TLT",
+      "SPY"
+    ],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-delivers-gold-standard-childhood-vaccine-recommendations-for-americans/",
+    "published_iso": "2026-08-10T19:44:46+00:00",
+    "time_ago": "36m ago"
   },
   {
     "id": "4404b74493d4",
@@ -51,14 +120,14 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Live updates: Trump signs executive order on vaccines. President Trump signed an executive order on Monday afternoon focusing on \"more vaccine flexibility and research.\" Health and Human Services Secretary Robert F. Kennedy Jr. and National Institutes of Health Director Dr. Jay Bhattacharya joined him in the Oval Offic",
+    "content": "Live updates: Trump signs executive order on vaccines. President Trump signed an executive order Monday afternoon focusing on \"more vaccine flexibility and research.\" Health and Human Services Secretary Robert F. Kennedy Jr. and National Institutes of Health Director Dr. Jay Bhattacharya joined him in the Oval Office. ",
     "tags": [],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/administration/6019407-trump-swears-in-todd-blanche/",
     "published_iso": "2026-08-10T19:20:09+00:00",
-    "time_ago": "17m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "0aaccd83c08b",
@@ -84,33 +153,6 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/administration/6020808-norad-intercepts-aircraft-bedminster-trump/",
     "published_iso": "2026-08-10T18:03:47+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "ab5c7b045507",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "US emergency oil reserve falls below 300M barrels for first time since 1980s. The U.S.\u2019s emergency oil reserve has fallen below 300 million barrels of oil for the first time since it was being filled decades ago. New Energy Department\u00a0data\u00a0shows that the Strategic Petroleum Reserve (SPR) contained 298.7 million barrels",
-    "tags": [
-      "Energy",
-      "Taxes"
-    ],
-    "tickers": [
-      "XOM",
-      "CVX",
-      "COP",
-      "OXY"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/energy-environment/6020738-spr-drops-below-300m-barrels/",
-    "published_iso": "2026-08-10T17:07:32+00:00",
     "time_ago": "2h ago"
   },
   {
@@ -132,7 +174,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16269/backup-withholding-on-third-party-network-transactions",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "2968017ebb63",
@@ -153,7 +195,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16256/safety-zone-lake-st-clair-grosse-pointe-farms-mi",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "d5d10aa3205f",
@@ -174,7 +216,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16254/safety-zones-annual-events-in-the-captain-of-the-port-eastern-great-lakes-zone-marine-events-within",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "ad2323a2ee35",
@@ -195,7 +237,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16252/immigration-bonds-technical-amendment",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "adb4d21da714",
@@ -216,7 +258,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16251/jurisdiction-determinations",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "05a70f11ccec",
@@ -237,7 +279,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16250/determining-disability",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "7303bae1213d",
@@ -256,7 +298,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16249/amendment-of-united-states-area-navigation-route-t-373-in-the-vicinity-of-king-salmon-alaska",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "619a86ad3ba9",
@@ -277,7 +319,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16231/9-11-response-and-biometric-entry-exit-fee-for-h-1b-and-l-1-visas",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "23ab41708c5b",
@@ -572,29 +614,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/08/continuing-to-protect-the-meaning-and-value-of-american-citizenship/",
     "published_iso": "2026-08-06T21:08:24+00:00",
-    "time_ago": "3d ago"
-  },
-  {
-    "id": "82bcf00e25bc",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "Fact Sheet: President Donald J. Trump Bolsters National Security and Strengthens U.S. Supply Chains by Imposing Tariffs on Polysilicon and its Derivatives. DEFENDING THE AMERICAN INDUSTRIAL BASE:&#160;Today, President Donald J. Trump signed a Proclamation to protect America\u2019s polysilicon industry and supply chain from ",
-    "tags": [
-      "Trade",
-      "Defense",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-polysilicon-and-its-derivatives/",
-    "published_iso": "2026-08-06T21:04:59+00:00",
     "time_ago": "3d ago"
   },
   {
