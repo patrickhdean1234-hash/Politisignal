@@ -1,29 +1,6 @@
 [
   {
-    "id": "74956fc19323",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Masino Julie D. withheld (tax) 688 shares of Cracker Barrel Old Country Store, Inc (CBRL) \u00b7 $57.79/share \u00b7 $39,760 total \u00b7 Aug 10",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "CBRL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1880224/000188022426000002/0001880224-26-000002-index.htm",
-    "published_iso": "2026-08-10T15:31:10+00:00",
-    "time_ago": "19m ago"
-  },
-  {
-    "id": "cf1adeff4f7a",
+    "id": "58d66be9fe62",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -32,16 +9,42 @@
       "fg": "#bbf7d0"
     },
     "severity": "low",
-    "content": "White House, Trump campaign remove Taylor Swift songs from posts. The White House and President Trump\u2019s campaign team have removed music from Taylor Swift from their online videos. A TikTok clip of Trump and first lady Melania Trump posted six days ago with Swift\u2019s song \u201cAugust\" is now silent.\u00a0The caption still reads, ",
+    "content": "Zuckerberg argues most common AI concerns overblown. Meta CEO Mark Zuckerberg published a Monday blog post on the company\u2019s website touting artificial superintelligence for its accessibility, personalized features and ability to serve as an economic power tool amid concerns about humans\u2019 dwindling control over large la",
     "tags": [
-      "Taxes"
+      "Big Tech",
+      "Energy"
     ],
-    "tickers": [],
+    "tickers": [
+      "META"
+    ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6020123-white-house-silences-swift-audio/",
-    "published_iso": "2026-08-10T14:18:44+00:00",
-    "time_ago": "1h ago"
+    "url": "https://thehill.com/policy/technology/6020402-zuckerberg-defends-ai-future/",
+    "published_iso": "2026-08-10T16:31:30+00:00",
+    "time_ago": "7m ago"
+  },
+  {
+    "id": "a56d7af25f50",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Sanders asks AI giants to pause development, warning of congressional intervention. Sen. Bernie Sanders (I-Vt.) is pressing the leaders of OpenAI, Anthropic and Meta to pause development of artificial intelligence in the wake of recent hacking incidents, warning Congress will intervene if needed. In a letter sent Monda",
+    "tags": [
+      "Big Tech"
+    ],
+    "tickers": [
+      "MSFT"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/6020192-sanders-presses-ai-leaders-pause/",
+    "published_iso": "2026-08-10T16:07:01+00:00",
+    "time_ago": "32m ago"
   },
   {
     "id": "fc0b28832496",
@@ -62,7 +65,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16269/backup-withholding-on-third-party-network-transactions",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "2968017ebb63",
@@ -83,7 +86,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16256/safety-zone-lake-st-clair-grosse-pointe-farms-mi",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "d5d10aa3205f",
@@ -104,7 +107,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16254/safety-zones-annual-events-in-the-captain-of-the-port-eastern-great-lakes-zone-marine-events-within",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "ad2323a2ee35",
@@ -125,7 +128,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16252/immigration-bonds-technical-amendment",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "adb4d21da714",
@@ -146,7 +149,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16251/jurisdiction-determinations",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "05a70f11ccec",
@@ -167,7 +170,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16250/determining-disability",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "7303bae1213d",
@@ -186,7 +189,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16249/amendment-of-united-states-area-navigation-route-t-373-in-the-vicinity-of-king-salmon-alaska",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "619a86ad3ba9",
@@ -207,7 +210,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16231/9-11-response-and-biometric-entry-exit-fee-for-h-1b-and-l-1-visas",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "23ab41708c5b",
@@ -328,32 +331,6 @@
     "time_ago": "2d ago"
   },
   {
-    "id": "401793036f2f",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "NEW: Apple reportedly got $2.2 BILLION back in tariff refunds. Amazon got $600 MILLION. \n  \nWhat's their plan to give YOU your money back? \n \n \n CBS News (@CBSNews) \n \n Sen. Elizabeth Warren is pressing companies entitled to refunds for illegal U.S. tariffs to return the money they are recouping directly to consumers. ",
-    "tags": [
-      "Big Tech",
-      "Trade",
-      "Regulation"
-    ],
-    "tickers": [
-      "AAPL",
-      "AMZN"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/SenWarren/status/2085880463982281196#m",
-    "published_iso": "2026-08-08T00:07:11+00:00",
-    "time_ago": "2d ago"
-  },
-  {
     "id": "e0959b575c74",
     "politician": "GovTrack",
     "initials": "GT",
@@ -464,7 +441,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "4793e679c884",
@@ -841,7 +818,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "17d ago"
+    "time_ago": "18d ago"
   },
   {
     "id": "de38f5381391",
