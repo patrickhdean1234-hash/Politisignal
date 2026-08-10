@@ -1,6 +1,6 @@
 [
   {
-    "id": "ea416a9685f2",
+    "id": "94bc20b17b9d",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,16 +9,86 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Norris John W Iii gifted 8,988 shares of Lennox International Inc (LII) \u00b7 Aug 10",
-    "tags": [],
+    "content": "Wingo Robert R. withheld (tax) 8,226 shares of Williams Companies, Inc. (WMB) \u00b7 $71.76/share \u00b7 $590,298 total \u00b7 Aug 10",
+    "tags": [
+      "Taxes"
+    ],
     "tickers": [
-      "LII"
+      "WMB"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1139032/000106920226000089/0001069202-26-000089-index.htm",
-    "published_iso": "2026-08-10T17:26:54+00:00",
-    "time_ago": "7m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1627301/000162730126000003/0001627301-26-000003-index.htm",
+    "published_iso": "2026-08-10T18:35:33+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "c283415a5f9f",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Judkins Brian C exercised options for 6,786 shares of Chemed Corp (CHE) \u00b7 $445.35/share \u00b7 $3,022,145 total \u00b7 Aug 10 ($6,248,932 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "CHE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1823398/000119312526342087/0001193125-26-342087-index.htm",
+    "published_iso": "2026-08-10T18:29:29+00:00",
+    "time_ago": "8m ago"
+  },
+  {
+    "id": "689da7022c6c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Sengstack Gregg C exercised options for 18,000 shares of Franklin Electric Co Inc (FELE) \u00b7 $43.00/share \u00b7 $774,000 total \u00b7 Aug 10 ($2,018,779 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "FELE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1189242/000118924226000039/0001189242-26-000039-index.htm",
+    "published_iso": "2026-08-10T18:25:45+00:00",
+    "time_ago": "11m ago"
+  },
+  {
+    "id": "b0ba2e787f8d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Two aircraft intercepted while Trump watched New Jersey golf tournament. The North American Aerospace \u200bDefense Command (NORAD) on Sunday said it intercepted two aircraft over Bedminster, N.J., where President Trump watched the LIV Golf Bedminster tournament at his New Jersey golf course. According to NORAD in a stateme",
+    "tags": [
+      "Defense"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6020808-norad-intercepts-aircraft-bedminster-trump/",
+    "published_iso": "2026-08-10T18:03:47+00:00",
+    "time_ago": "33m ago"
   },
   {
     "id": "ab5c7b045507",
@@ -30,7 +100,7 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "US emergency oil reserve falls below 300M barrels for first time since 1980s. The U.S.\u2019s emergency oil reserve has fallen below 300 million barrels of oil for the first time since it was being filled decades ago. New Energy Department data shows that the Strategic Petroleum Reserve (SPR) contained 298.7 million barrels",
+    "content": "US emergency oil reserve falls below 300M barrels for first time since 1980s. The U.S.\u2019s emergency oil reserve has fallen below 300 million barrels of oil for the first time since it was being filled decades ago. New Energy Department\u00a0data\u00a0shows that the Strategic Petroleum Reserve (SPR) contained 298.7 million barrels",
     "tags": [
       "Energy",
       "Taxes"
@@ -45,30 +115,6 @@
     "platform": "The Hill",
     "url": "https://thehill.com/policy/energy-environment/6020738-spr-drops-below-300m-barrels/",
     "published_iso": "2026-08-10T17:07:32+00:00",
-    "time_ago": "26m ago"
-  },
-  {
-    "id": "58d66be9fe62",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "low",
-    "content": "Zuckerberg argues most common AI concerns overblown. Meta CEO Mark Zuckerberg published a Monday blog post on the company\u2019s website touting artificial superintelligence for its accessibility, personalized features and ability to serve as an economic power tool amid concerns about humans\u2019 dwindling control over large la",
-    "tags": [
-      "Big Tech",
-      "Energy"
-    ],
-    "tickers": [
-      "META"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/6020402-zuckerberg-defends-ai-future/",
-    "published_iso": "2026-08-10T16:31:30+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -90,7 +136,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16269/backup-withholding-on-third-party-network-transactions",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "2968017ebb63",
@@ -111,7 +157,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16256/safety-zone-lake-st-clair-grosse-pointe-farms-mi",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "d5d10aa3205f",
@@ -132,7 +178,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16254/safety-zones-annual-events-in-the-captain-of-the-port-eastern-great-lakes-zone-marine-events-within",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "ad2323a2ee35",
@@ -153,7 +199,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16252/immigration-bonds-technical-amendment",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "adb4d21da714",
@@ -174,7 +220,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16251/jurisdiction-determinations",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "05a70f11ccec",
@@ -195,7 +241,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16250/determining-disability",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "7303bae1213d",
@@ -214,7 +260,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16249/amendment-of-united-states-area-navigation-route-t-373-in-the-vicinity-of-king-salmon-alaska",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "619a86ad3ba9",
@@ -235,7 +281,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16231/9-11-response-and-biometric-entry-exit-fee-for-h-1b-and-l-1-visas",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "23ab41708c5b",
@@ -372,7 +418,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s226?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-07T18:14:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "26032c90ad86",
@@ -393,7 +439,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/icymi-statement-from-president-donald-j-trump/",
     "published_iso": "2026-08-07T18:04:10+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "15c78cc7f8dd",
@@ -553,35 +599,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-polysilicon-and-its-derivatives/",
     "published_iso": "2026-08-06T21:04:59+00:00",
-    "time_ago": "3d ago"
-  },
-  {
-    "id": "06da54176ef2",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "Adjusting Imports of Polysilicon and its Derivatives into the United States. BY THE PRESIDENT OF THE UNITED STATES OF AMERICA A PROCLAMATION 1.&#160; Polysilicon is the base material underpinning the security of America&#8217;s semiconductor and solar-power supply chains.&#160; Yet for decades, America has allowed fore",
-    "tags": [
-      "Trade",
-      "Semiconductors",
-      "Energy",
-      "Taxes"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "AMD",
-      "QCOM"
-    ],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-polysilicon-and-its-derivatives-into-the-united-states/",
-    "published_iso": "2026-08-06T21:03:35+00:00",
     "time_ago": "3d ago"
   },
   {
@@ -814,7 +831,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
     "published_iso": "2026-07-29T18:00:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "6e187954d9ee",
