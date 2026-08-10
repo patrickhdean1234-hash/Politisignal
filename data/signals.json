@@ -1,5 +1,53 @@
 [
   {
+    "id": "ea416a9685f2",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Norris John W Iii gifted 8,988 shares of Lennox International Inc (LII) \u00b7 Aug 10",
+    "tags": [],
+    "tickers": [
+      "LII"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1139032/000106920226000089/0001069202-26-000089-index.htm",
+    "published_iso": "2026-08-10T17:26:54+00:00",
+    "time_ago": "7m ago"
+  },
+  {
+    "id": "ab5c7b045507",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "US emergency oil reserve falls below 300M barrels for first time since 1980s. The U.S.\u2019s emergency oil reserve has fallen below 300 million barrels of oil for the first time since it was being filled decades ago. New Energy Department data shows that the Strategic Petroleum Reserve (SPR) contained 298.7 million barrels",
+    "tags": [
+      "Energy",
+      "Taxes"
+    ],
+    "tickers": [
+      "XOM",
+      "CVX",
+      "COP",
+      "OXY"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/energy-environment/6020738-spr-drops-below-300m-barrels/",
+    "published_iso": "2026-08-10T17:07:32+00:00",
+    "time_ago": "26m ago"
+  },
+  {
     "id": "58d66be9fe62",
     "politician": "The Hill",
     "initials": "TH",
@@ -21,30 +69,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/policy/technology/6020402-zuckerberg-defends-ai-future/",
     "published_iso": "2026-08-10T16:31:30+00:00",
-    "time_ago": "7m ago"
-  },
-  {
-    "id": "a56d7af25f50",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Sanders asks AI giants to pause development, warning of congressional intervention. Sen. Bernie Sanders (I-Vt.) is pressing the leaders of OpenAI, Anthropic and Meta to pause development of artificial intelligence in the wake of recent hacking incidents, warning Congress will intervene if needed. In a letter sent Monda",
-    "tags": [
-      "Big Tech"
-    ],
-    "tickers": [
-      "MSFT"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/6020192-sanders-presses-ai-leaders-pause/",
-    "published_iso": "2026-08-10T16:07:01+00:00",
-    "time_ago": "32m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "fc0b28832496",
@@ -65,7 +90,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16269/backup-withholding-on-third-party-network-transactions",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "2968017ebb63",
@@ -86,7 +111,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16256/safety-zone-lake-st-clair-grosse-pointe-farms-mi",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "d5d10aa3205f",
@@ -107,7 +132,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16254/safety-zones-annual-events-in-the-captain-of-the-port-eastern-great-lakes-zone-marine-events-within",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "ad2323a2ee35",
@@ -128,7 +153,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16252/immigration-bonds-technical-amendment",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "adb4d21da714",
@@ -149,7 +174,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16251/jurisdiction-determinations",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "05a70f11ccec",
@@ -170,7 +195,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16250/determining-disability",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "7303bae1213d",
@@ -189,7 +214,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16249/amendment-of-united-states-area-navigation-route-t-373-in-the-vicinity-of-king-salmon-alaska",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "619a86ad3ba9",
@@ -210,7 +235,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16231/9-11-response-and-biometric-entry-exit-fee-for-h-1b-and-l-1-visas",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "23ab41708c5b",
@@ -387,7 +412,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s225?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-07T17:23:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "ef7d3b12d4ec",
@@ -413,7 +438,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s224?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-07T16:43:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "baf26d52584e",
@@ -868,7 +893,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-releases-updated-clarity-act-text/",
     "published_iso": "2026-07-22T16:49:25+00:00",
-    "time_ago": "18d ago"
+    "time_ago": "19d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -1131,7 +1156,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "199d ago"
+    "time_ago": "200d ago"
   },
   {
     "id": "d3ca74df7f0f",
