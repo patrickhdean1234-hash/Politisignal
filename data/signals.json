@@ -1,6 +1,6 @@
 [
   {
-    "id": "94bc20b17b9d",
+    "id": "996f6fdc311a",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,42 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Wingo Robert R. withheld (tax) 8,226 shares of Williams Companies, Inc. (WMB) \u00b7 $71.76/share \u00b7 $590,298 total \u00b7 Aug 10",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "WMB"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1627301/000162730126000003/0001627301-26-000003-index.htm",
-    "published_iso": "2026-08-10T18:35:33+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "c283415a5f9f",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Judkins Brian C exercised options for 6,786 shares of Chemed Corp (CHE) \u00b7 $445.35/share \u00b7 $3,022,145 total \u00b7 Aug 10 ($6,248,932 across all blocks)",
+    "content": "Rayhill Brian exercised options for 30,000 shares of Consumer Portfolio Services, Inc. (CPSS) \u00b7 $3.53/share \u00b7 $105,900 total \u00b7 Aug 10 ($211,802 across all blocks)",
     "tags": [],
     "tickers": [
-      "CHE"
+      "CPSS"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1823398/000119312526342087/0001193125-26-342087-index.htm",
-    "published_iso": "2026-08-10T18:29:29+00:00",
-    "time_ago": "8m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1378986/000168316826006156/0001683168-26-006156-index.htm",
+    "published_iso": "2026-08-10T19:30:22+00:00",
+    "time_ago": "6m ago"
   },
   {
-    "id": "689da7022c6c",
+    "id": "31e7be5085b7",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -53,19 +30,38 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Sengstack Gregg C exercised options for 18,000 shares of Franklin Electric Co Inc (FELE) \u00b7 $43.00/share \u00b7 $774,000 total \u00b7 Aug 10 ($2,018,779 across all blocks)",
+    "content": "Scully William P bought 34,000 shares of Prothena Corp Public Ltd Co (PRTA) \u00b7 $8.62/share \u00b7 $293,053 total \u00b7 Aug 10 ($323,220 across all blocks)",
     "tags": [],
     "tickers": [
-      "FELE"
+      "PRTA"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1189242/000118924226000039/0001189242-26-000039-index.htm",
-    "published_iso": "2026-08-10T18:25:45+00:00",
-    "time_ago": "11m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1559053/000104546326000010/0001045463-26-000010-index.htm",
+    "published_iso": "2026-08-10T19:24:31+00:00",
+    "time_ago": "12m ago"
   },
   {
-    "id": "b0ba2e787f8d",
+    "id": "4404b74493d4",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Live updates: Trump signs executive order on vaccines. President Trump signed an executive order on Monday afternoon focusing on \"more vaccine flexibility and research.\" Health and Human Services Secretary Robert F. Kennedy Jr. and National Institutes of Health Director Dr. Jay Bhattacharya joined him in the Oval Offic",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6019407-trump-swears-in-todd-blanche/",
+    "published_iso": "2026-08-10T19:20:09+00:00",
+    "time_ago": "17m ago"
+  },
+  {
+    "id": "0aaccd83c08b",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -74,7 +70,7 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Two aircraft intercepted while Trump watched New Jersey golf tournament. The North American Aerospace \u200bDefense Command (NORAD) on Sunday said it intercepted two aircraft over Bedminster, N.J., where President Trump watched the LIV Golf Bedminster tournament at his New Jersey golf course. According to NORAD in a stateme",
+    "content": "2 aircraft intercepted while Trump watched New Jersey golf tournament. The North American Aerospace \u200bDefense Command (NORAD) said Sunday it intercepted two aircraft over Bedminster, N.J., where President Trump watched the LIV Golf Bedminster tournament at his New Jersey golf course. According to a statement from NORAD,",
     "tags": [
       "Defense"
     ],
@@ -88,7 +84,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/administration/6020808-norad-intercepts-aircraft-bedminster-trump/",
     "published_iso": "2026-08-10T18:03:47+00:00",
-    "time_ago": "33m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "ab5c7b045507",
@@ -115,7 +111,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/policy/energy-environment/6020738-spr-drops-below-300m-barrels/",
     "published_iso": "2026-08-10T17:07:32+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "fc0b28832496",
@@ -136,7 +132,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16269/backup-withholding-on-third-party-network-transactions",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "2968017ebb63",
@@ -157,7 +153,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16256/safety-zone-lake-st-clair-grosse-pointe-farms-mi",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "d5d10aa3205f",
@@ -178,7 +174,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16254/safety-zones-annual-events-in-the-captain-of-the-port-eastern-great-lakes-zone-marine-events-within",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "ad2323a2ee35",
@@ -199,7 +195,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16252/immigration-bonds-technical-amendment",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "adb4d21da714",
@@ -220,7 +216,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16251/jurisdiction-determinations",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "05a70f11ccec",
@@ -241,7 +237,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16250/determining-disability",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "7303bae1213d",
@@ -260,7 +256,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16249/amendment-of-united-states-area-navigation-route-t-373-in-the-vicinity-of-king-salmon-alaska",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "619a86ad3ba9",
@@ -281,7 +277,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16231/9-11-response-and-biometric-entry-exit-fee-for-h-1b-and-l-1-visas",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "23ab41708c5b",
@@ -881,7 +877,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "18d ago"
+    "time_ago": "19d ago"
   },
   {
     "id": "98b90fd8352a",
@@ -1107,7 +1103,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "137d ago"
+    "time_ago": "138d ago"
   },
   {
     "id": "00f579ee8f55",
