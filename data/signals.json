@@ -1,5 +1,24 @@
 [
   {
+    "id": "0b708ce4fad2",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "American Medical Association criticizes Trump executive order on childhood vaccine schedule. The president of the American Medical Association on Monday said President Trump\u2019s new recommendations on childhood immunizations put \u201cchildren\u2019s health at risk,\u201d joining the chorus of medical experts criticizing the executive ",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/healthcare/6021625-ama-warns-childhood-immunization-risks/",
+    "published_iso": "2026-08-11T02:54:02+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "4eb2a9e964f9",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
@@ -18,7 +37,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/2148810/000121716026000067/0001217160-26-000067-index.htm",
     "published_iso": "2026-08-11T01:49:48+00:00",
-    "time_ago": "58m ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "5653731a2b75",
@@ -39,7 +58,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1653653/000119312526343081/0001193125-26-343081-index.htm",
     "published_iso": "2026-08-11T01:41:04+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "88060aecd4a4",
@@ -60,7 +79,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1671584/000119312526343080/0001193125-26-343080-index.htm",
     "published_iso": "2026-08-11T01:39:05+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "9ce769dea39a",
@@ -81,7 +100,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1679967/000119312526343079/0001193125-26-343079-index.htm",
     "published_iso": "2026-08-11T01:38:03+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "caa37b05fe46",
@@ -102,7 +121,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1671584/000119312526343077/0001193125-26-343077-index.htm",
     "published_iso": "2026-08-11T01:37:03+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "96e80865c03d",
@@ -123,7 +142,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1864406/000119312526343076/0001193125-26-343076-index.htm",
     "published_iso": "2026-08-11T01:36:04+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "da3e4aaa650a",
@@ -146,7 +165,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1892128/000089534526000353/0000895345-26-000353-index.htm",
     "published_iso": "2026-08-11T01:35:36+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "43988f5fa9d2",
@@ -167,28 +186,6 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1760345/000119312526343073/0001193125-26-343073-index.htm",
     "published_iso": "2026-08-11T01:35:04+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "7bf2dd753643",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "Donald Trump lifted sanctions against Israeli settlers who are seizing homes in the West Bank.\n\nNow, the violence is worse, and even more Palestinians\u2014and four Americans\u2014have been killed by settlers and security forces.\n\nThis is deeply wrong. These families deserve justice.",
-    "tags": [
-      "Banking",
-      "Sanctions"
-    ],
-    "tickers": [],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3msrc2iu7ls2c",
-    "published_iso": "2026-08-10T23:49:22.963000+00:00",
     "time_ago": "2h ago"
   },
   {
@@ -211,7 +208,29 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2086963041124708539#m",
     "published_iso": "2026-08-10T23:48:57+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "7bf2dd753643",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "Donald Trump lifted sanctions against Israeli settlers who are seizing homes in the West Bank. \n \nNow, the violence is worse, and even more Palestinians\u2014and four Americans\u2014have been killed by settlers and security forces. \n \nThis is deeply wrong. These families deserve justice.",
+    "tags": [
+      "Banking",
+      "Sanctions"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SenWarren/status/2086963019960180843#m",
+    "published_iso": "2026-08-10T23:48:52+00:00",
+    "time_ago": "4h ago"
   },
   {
     "id": "3cc0cb7e6ff7",
@@ -230,26 +249,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/policy/healthcare/6021511-aap-blasts-trump-vaccine-directive/",
     "published_iso": "2026-08-10T23:03:48+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "83ba9eb3aea0",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "What to know about Trump's vaccine executive order. President Trump signed an executive order Monday advancing \"Make America Healthy Again\" vaccine priorities, issuing recommendations to split up combined vaccines and to reduce the\u00a0number of childhood immunizations.\u00a0 \"Effective immediately, my administration is recogni",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/healthcare/6021466-trump-signs-vaccine-order/",
-    "published_iso": "2026-08-10T22:40:28+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "d710673e3baa",
@@ -272,7 +272,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenLummis/status/2086903602598256890#m",
     "published_iso": "2026-08-10T19:52:46+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "ab1cb7b51211",
@@ -297,7 +297,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-delivers-gold-standard-childhood-vaccine-recommendations-for-americans/",
     "published_iso": "2026-08-10T19:44:46+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "fc0b28832496",
@@ -318,7 +318,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16269/backup-withholding-on-third-party-network-transactions",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "2968017ebb63",
@@ -339,7 +339,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16256/safety-zone-lake-st-clair-grosse-pointe-farms-mi",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "d5d10aa3205f",
@@ -360,7 +360,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16254/safety-zones-annual-events-in-the-captain-of-the-port-eastern-great-lakes-zone-marine-events-within",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "ad2323a2ee35",
@@ -381,7 +381,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16252/immigration-bonds-technical-amendment",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "adb4d21da714",
@@ -402,7 +402,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16251/jurisdiction-determinations",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "05a70f11ccec",
@@ -423,7 +423,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16250/determining-disability",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "7303bae1213d",
@@ -442,7 +442,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16249/amendment-of-united-states-area-navigation-route-t-373-in-the-vicinity-of-king-salmon-alaska",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "619a86ad3ba9",
@@ -463,7 +463,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16231/9-11-response-and-biometric-entry-exit-fee-for-h-1b-and-l-1-visas",
     "published_iso": "2026-08-10T04:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "23ab41708c5b",
@@ -1154,32 +1154,6 @@
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
     "time_ago": "91d ago"
-  },
-  {
-    "id": "d69f39ae1ab0",
-    "politician": "Sen. Bernie Sanders",
-    "initials": "BS",
-    "role": "Senate HELP Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#818cf8"
-    },
-    "severity": "high",
-    "content": "Big Oil is making a $30 million windfall profit every HOUR by using the Iran War as an excuse to rip off commuters at the gas pump.\n\nThis year, Exxon will be spending $20 billion of its profits on stock buybacks.\n\nWe must end the Iran War and pass a windfall profits tax \u2014 NOW!",
-    "tags": [
-      "Energy",
-      "Regulation",
-      "Taxes",
-      "Sanctions"
-    ],
-    "tickers": [
-      "XOM"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
-    "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "97d ago"
   },
   {
     "id": "4893d4c85a5a",
