@@ -1,24 +1,28 @@
 [
   {
-    "id": "1c7062b7129b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "66b8c86fb820",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
     },
-    "severity": "medium",
-    "content": "Sporck Alistair N sold 1,000 shares of Aehr Test Systems (AEHR) \u00b7 $108.49/share \u00b7 $108,490 total \u00b7 Aug 11",
-    "tags": [],
-    "tickers": [
-      "AEHR"
+    "severity": "critical",
+    "content": "June 28: Belgium\u2019s diamond industry gifted Trump an 18-karat gold ring encrusted with 321 diamonds and 75 gemstones.\n \nJuly 24: European diamonds got their exemption from Trump\u2019s tariffs.\n \nI'm investigating what looks like cartoonish corruption.",
+    "tags": [
+      "Trade"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1939261/000104047026000241/0001040470-26-000241-index.htm",
-    "published_iso": "2026-08-11T18:18:56+00:00",
-    "time_ago": "7m ago"
+    "tickers": [
+      "GLD",
+      "TLT",
+      "SPY"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mste4ak3q22h",
+    "published_iso": "2026-08-11T19:31:28.311000+00:00",
+    "time_ago": "2m ago"
   },
   {
     "id": "b164a19197c1",
@@ -40,7 +44,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/icymi-violent-crime-keeps-falling-in-biggest-u-s-cities/",
     "published_iso": "2026-08-11T17:38:27+00:00",
-    "time_ago": "48m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "84a7d887a583",
@@ -61,7 +65,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2087188171691896968#m",
     "published_iso": "2026-08-11T14:43:32+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "0580b9a51528",
@@ -82,7 +86,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16374/nrc-modernization-rulemaking-procedure-federal-advisory-committee-act-alignment-access-and-security",
     "published_iso": "2026-08-11T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "7c7d1b37c95f",
@@ -103,7 +107,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16370/reforms-to-13-cfr-124103-to-remove-sbas-8a-programs-rebuttable-presumption-of-social-disadvantage",
     "published_iso": "2026-08-11T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "f1c2bcaf99b4",
@@ -124,7 +128,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16365/geographic-targeting-order-imposing-recordkeeping-and-reporting-requirements-on-certain-financial",
     "published_iso": "2026-08-11T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "a097c58adab8",
@@ -146,7 +150,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16359/danger-zone-pacific-ocean-at-marine-corps-base-hawaii-kaneohe-bay-island-of-oahu-hawaii",
     "published_iso": "2026-08-11T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "86696819c874",
@@ -167,7 +171,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16354/special-local-regulation-great-lakes-annual-marine-events-cuyahoga-river-cleveland-oh",
     "published_iso": "2026-08-11T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "e597d5c62e7a",
@@ -186,7 +190,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16341/safety-zone-lake-michigan-chicago-il",
     "published_iso": "2026-08-11T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "4e29ad8f41bb",
@@ -208,7 +212,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16337/cancellation-of-obsolete-navigation-and-vessel-inspection-circular",
     "published_iso": "2026-08-11T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "21a5707bbd81",
@@ -227,29 +231,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16336/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pollock-in-the-bering-sea-and",
     "published_iso": "2026-08-11T04:00:00+00:00",
-    "time_ago": "14h ago"
-  },
-  {
-    "id": "7bf2dd753643",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "Donald Trump lifted sanctions against Israeli settlers who are seizing homes in the West Bank.\n\nNow, the violence is worse, and even more Palestinians\u2014and four Americans\u2014have been killed by settlers and security forces.\n\nThis is deeply wrong. These families deserve justice.",
-    "tags": [
-      "Banking",
-      "Sanctions"
-    ],
-    "tickers": [],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3msrc2iu7ls2c",
-    "published_iso": "2026-08-10T23:49:22.963000+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "3719cd4305c7",
@@ -271,7 +253,29 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2086963041124708539#m",
     "published_iso": "2026-08-10T23:48:57+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
+  },
+  {
+    "id": "7bf2dd753643",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "Donald Trump lifted sanctions against Israeli settlers who are seizing homes in the West Bank. \n \nNow, the violence is worse, and even more Palestinians\u2014and four Americans\u2014have been killed by settlers and security forces. \n \nThis is deeply wrong. These families deserve justice.",
+    "tags": [
+      "Banking",
+      "Sanctions"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SenWarren/status/2086963019960180843#m",
+    "published_iso": "2026-08-10T23:48:52+00:00",
+    "time_ago": "19h ago"
   },
   {
     "id": "d710673e3baa",
@@ -292,9 +296,9 @@
     "tickers": [],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "http://nt.vern.cc/SenLummis/status/2086903602598256890#m",
+    "url": "https://nitter.net/SenLummis/status/2086903602598256890#m",
     "published_iso": "2026-08-10T19:52:46+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "ab1cb7b51211",
@@ -319,7 +323,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-delivers-gold-standard-childhood-vaccine-recommendations-for-americans/",
     "published_iso": "2026-08-10T19:44:46+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "23ab41708c5b",
@@ -806,6 +810,178 @@
     "time_ago": "13d ago"
   },
   {
+    "id": "85d448cee2af",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Sams Louise S received 105,263 shares of Loop Industries, Inc. (LOOP) \u00b7 Jul 24",
+    "tags": [],
+    "tickers": [
+      "LOOP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1796961/000143774926024451/0001437749-26-024451-index.htm",
+    "published_iso": "2026-07-25T01:51:18+00:00",
+    "time_ago": "17d ago"
+  },
+  {
+    "id": "eb5143f39793",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Auguste Laurent received 105,263 shares of Loop Industries, Inc. (LOOP) \u00b7 Jul 24",
+    "tags": [],
+    "tickers": [
+      "LOOP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2029554/000143774926024449/0001437749-26-024449-index.htm",
+    "published_iso": "2026-07-25T01:49:20+00:00",
+    "time_ago": "17d ago"
+  },
+  {
+    "id": "1537d0899c9d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Stubina Jay Howard received 105,263 shares of Loop Industries, Inc. (LOOP) \u00b7 Jul 24",
+    "tags": [],
+    "tickers": [
+      "LOOP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1706802/000143774926024447/0001437749-26-024447-index.htm",
+    "published_iso": "2026-07-25T01:46:30+00:00",
+    "time_ago": "17d ago"
+  },
+  {
+    "id": "369103008a06",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hasiba Adam received 4,815 shares of Onespaworld Holdings Ltd (OSW) \u00b7 Jul 24",
+    "tags": [],
+    "tickers": [
+      "OSW"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1814687/000119312526316589/0001193125-26-316589-index.htm",
+    "published_iso": "2026-07-25T01:45:03+00:00",
+    "time_ago": "17d ago"
+  },
+  {
+    "id": "017eb727e3c5",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Sellyn Laurence G. received 140,350 shares of Loop Industries, Inc. (LOOP) \u00b7 Jul 24",
+    "tags": [],
+    "tickers": [
+      "LOOP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1737294/000143774926024445/0001437749-26-024445-index.htm",
+    "published_iso": "2026-07-25T01:44:04+00:00",
+    "time_ago": "17d ago"
+  },
+  {
+    "id": "33f79dd16b03",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Singh Harmit J converted 17,425 shares of Levi Strauss & Co (LEVI) \u00b7 Jul 24 ($16,319,779 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "LEVI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1472176/000199937126015876/0001999371-26-015876-index.htm",
+    "published_iso": "2026-07-25T01:42:41+00:00",
+    "time_ago": "17d ago"
+  },
+  {
+    "id": "e0a6e1e2b0b4",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Selwyn Joffe withheld (tax) 20,303 shares of Motorcar Parts Of America Inc (MPAA) \u00b7 $15.30/share \u00b7 $310,636 total \u00b7 Jul 24 ($405,022 across all blocks)",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "MPAA"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1160863/000114036126029655/0001140361-26-029655-index.htm",
+    "published_iso": "2026-07-25T01:18:21+00:00",
+    "time_ago": "17d ago"
+  },
+  {
+    "id": "67da5e555095",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Shah Kamlesh withheld (tax) 1,599 shares of Motorcar Parts Of America Inc (MPAA) \u00b7 $15.30/share \u00b7 $24,465 total \u00b7 Jul 24 ($42,044 across all blocks)",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "MPAA"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1794944/000114036126029654/0001140361-26-029654-index.htm",
+    "published_iso": "2026-07-25T01:18:20+00:00",
+    "time_ago": "17d ago"
+  },
+  {
     "id": "6e187954d9ee",
     "politician": "Sen. Rand Paul",
     "initials": "RP",
@@ -853,7 +1029,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "98b90fd8352a",
@@ -1079,7 +1255,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "138d ago"
+    "time_ago": "139d ago"
   },
   {
     "id": "00f579ee8f55",
