@@ -1,5 +1,95 @@
 [
   {
+    "id": "228a08b6dd0a",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Thau Daniel Mark bought 350 shares of Blue Bird Corp (BLBD) \u00b7 $64.37/share \u00b7 $22,530 total \u00b7 Aug 13",
+    "tags": [],
+    "tickers": [
+      "BLBD"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2047774/000204777426000007/0002047774-26-000007-index.htm",
+    "published_iso": "2026-08-13T15:57:01+00:00",
+    "time_ago": "8m ago"
+  },
+  {
+    "id": "6c4e8e7f810e",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Consumers want to watch movies at Home. No lawsuit will change that.. An associate professor of business law argues that the decline of theatrical exhibition is driven by poor industry practices and consumer preference for streaming rather than the potential Paramount Skydance acquisition of Warner Brothers",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/6026613-antitrust-case-hollywood-consolidation/",
+    "published_iso": "2026-08-13T15:30:00+00:00",
+    "time_ago": "35m ago"
+  },
+  {
+    "id": "89e59e4a18f5",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Ro Khanna: \u201cBranding is not an agenda. We need to say we\u2019re gonna tax billionaire wealth, we\u2019re gonna have free healthcare with Medicare for All, free childcare, we\u2019re going to increase the living wage, we\u2019re gonna increase union density by linking federal contracts to that, we\u2019re going to stop the foreign wars\u201d \n \n Vi",
+    "tags": [
+      "Healthcare",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/MarcoFoster_/status/2087924178502435191#m",
+    "published_iso": "2026-08-13T15:28:10+00:00",
+    "time_ago": "37m ago"
+  },
+  {
+    "id": "4dc655aa0c0b",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "The SEC investigation no founder sees coming. The first lesson I learned from this process: You can cooperate with a regulator and never realize you are the one in its sights",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/finance/6025762-founder-guide-regulatory-investigations/",
+    "published_iso": "2026-08-13T15:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "1b45165ad867",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -23,114 +113,6 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
     "published_iso": "2026-08-13T15:00:00+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "3ed8552150c8",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Geva-Dvash Orit sold 415 shares of Camtek Ltd (CAMT) \u00b7 $174.06/share \u00b7 $72,236 total \u00b7 Aug 13",
-    "tags": [],
-    "tickers": [
-      "CAMT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1973444/000197640826000731/0001976408-26-000731-index.htm",
-    "published_iso": "2026-08-13T14:56:18+00:00",
-    "time_ago": "6m ago"
-  },
-  {
-    "id": "f63271631e6f",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Rainbolt David E sold 8,506 shares of Bancfirst Corp /Ok/ (BANFP) \u00b7 $115.00/share \u00b7 $978,190 total \u00b7 Aug 13",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "BANFP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1042873/000076049826000054/0000760498-26-000054-index.htm",
-    "published_iso": "2026-08-13T14:54:12+00:00",
-    "time_ago": "8m ago"
-  },
-  {
-    "id": "a0d5ca262c09",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Bardeen William withheld (tax) 485 shares of New York Times Co (NYT) \u00b7 $63.54/share \u00b7 $30,817 total \u00b7 Aug 13",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "NYT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1980790/000198079026000012/0001980790-26-000012-index.htm",
-    "published_iso": "2026-08-13T14:53:19+00:00",
-    "time_ago": "9m ago"
-  },
-  {
-    "id": "cb39b2e7f318",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Crowley on whether win halted progressive movement: 'Absolutely not'. Wisconsin Democratic gubernatorial nominee David Crowley denied Wednesday he dealt the progressive movement a setback by beating democratic socialist Francesca Hong in this week\u2019s Democratic primary. When host Kaitlan Collins asked Crowley whether it",
-    "tags": [
-      "Banking",
-      "Defense"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/6026881-crowley-denies-progressive-setback/",
-    "published_iso": "2026-08-13T14:11:52+00:00",
-    "time_ago": "50m ago"
-  },
-  {
-    "id": "a558536fe72e",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Trump is dismantling public health, one executive order at a time. this is merely another example of The Trump administration supplanting\u00a0scientific community\u00a0and expert consensus to the detriment of our nation's health",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/healthcare/6025602-trump-childhood-vaccination-executive-order/",
-    "published_iso": "2026-08-13T14:00:00+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -150,7 +132,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2087872424427573392#m",
     "published_iso": "2026-08-13T12:02:31+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "0149d60ca842",
@@ -171,7 +153,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/the-great-transshipment-scam/",
     "published_iso": "2026-08-13T09:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "c63e9789ceff",
@@ -190,7 +172,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16537/fisheries-off-west-coast-states-modification-of-the-west-coast-salmon-fisheries-inseason-action",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "3869e16366a3",
@@ -209,7 +191,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16515/air-plan-approval-missouri-clean-data-determination-for-the-2015-8-hour-ozone-standard-for-the",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "7b7e3be669c2",
@@ -228,7 +210,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16514/air-plan-approval-illinois-clean-data-determination-for-the-illinois-portion-of-the-st-louis-area",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "5bb61be5738f",
@@ -250,7 +232,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16512/airworthiness-directives-brp-rotax-gmbh-and-co-kg-formerly-brp-powertrain-gmbh-and-co-kg-and",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "81e9e12a2911",
@@ -269,7 +251,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16511/determination-of-attainment-by-the-attainment-date-1997-ozone-standards-california-coachella-valley",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "2afc15358559",
@@ -288,7 +270,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16510/determination-of-attainment-by-the-attainment-date-and-clean-data-determination-for-the-2012-annual",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "1f09f53515f7",
@@ -314,7 +296,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16508/medicaid-program-prohibition-on-federal-medicaid-and-childrens-health-insurance-program-funding-for",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "48c06d2d21c9",
@@ -333,7 +315,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16507/airworthiness-directives-airbus-helicopters",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "f04a2f6807a5",
@@ -874,27 +856,6 @@
     "time_ago": "20d ago"
   },
   {
-    "id": "de38f5381391",
-    "politician": "U.S. Treasury",
-    "initials": "TRS",
-    "role": "Treasury Dept. \u2014 Sanctions, Debt & Economic Policy",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "3. Can Foreign Capital Count as Private Financing for Purposes of SSBCI Rules? [7/22/2026]. 3. Can Foreign Capital Count as Private Financing for Purposes of SSBCI Rules? [7/22/2026] \n  Wesley.Presber\u2026  \n  Wed, 07/22/2026 - 14:38 \n \n\n   \n     FAQ Question \n               3. Can Foreign Capital Count as Private Financin",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "treasury",
-    "platform": "U.S. Treasury",
-    "url": "https://home.treasury.gov/node/985766",
-    "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "21d ago"
-  },
-  {
     "id": "98b90fd8352a",
     "politician": "Sen. Cynthia Lummis",
     "initials": "CL",
@@ -990,27 +951,6 @@
     "time_ago": "23d ago"
   },
   {
-    "id": "79faa09fe8f6",
-    "politician": "U.S. Treasury",
-    "initials": "TRS",
-    "role": "Treasury Dept. \u2014 Sanctions, Debt & Economic Policy",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#4ade80"
-    },
-    "severity": "high",
-    "content": "9. How long will Treasury operate the SSBCI TA Grant Program and SBOP? [05/11/2026]. 9. How long will Treasury operate the SSBCI TA Grant Program and SBOP? [05/11/2026] \n  Tiffany.Hyatt@\u2026  \n  Mon, 05/11/2026 - 11:50 \n \n\n   \n     FAQ Question \n               9. How long will Treasury operate the SSBCI TA Grant Program a",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "treasury",
-    "platform": "U.S. Treasury",
-    "url": "https://home.treasury.gov/node/985296",
-    "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "93d ago"
-  },
-  {
     "id": "d69f39ae1ab0",
     "politician": "Sen. Bernie Sanders",
     "initials": "BS",
@@ -1037,111 +977,6 @@
     "time_ago": "100d ago"
   },
   {
-    "id": "4893d4c85a5a",
-    "politician": "U.S. Treasury",
-    "initials": "TRS",
-    "role": "Treasury Dept. \u2014 Sanctions, Debt & Economic Policy",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#4ade80"
-    },
-    "severity": "high",
-    "content": "Vermont \u2013 Capital Program Summary. Vermont \u2013 Capital Program Summary \n  Wesley.Presber\u2026  \n  Mon, 04/27/2026 - 10:45 \n \n\n                 Portfolio Overview  Vermont operates three small business financing programs: one loan participation program (LPP) and two equity/venture capital programs. The Vermont Economic Develo",
-    "tags": [
-      "Energy",
-      "Insider Trade"
-    ],
-    "tickers": [],
-    "source": "treasury",
-    "platform": "U.S. Treasury",
-    "url": "https://home.treasury.gov/node/985161",
-    "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "108d ago"
-  },
-  {
-    "id": "e66d09d0037b",
-    "politician": "U.S. Treasury",
-    "initials": "TRS",
-    "role": "Treasury Dept. \u2014 Sanctions, Debt & Economic Policy",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "Treasury Accepting Whistleblower Tips on Fraud, Money Laundering, Sanctions Violations. Treasury Accepting Whistleblower Tips on Fraud, Money Laundering, Sanctions Violations \n\n              February 13, 2026 \n \n        Wesley.Presber\u2026  \n  Mon, 03/30/2026 - 09:52 \n \n\n              WASHINGTON\u2014The U.S. Department of the ",
-    "tags": [
-      "Banking",
-      "Regulation",
-      "Taxes",
-      "Sanctions"
-    ],
-    "tickers": [],
-    "source": "treasury",
-    "platform": "U.S. Treasury",
-    "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
-    "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "136d ago"
-  },
-  {
-    "id": "432e035b915b",
-    "politician": "U.S. Treasury",
-    "initials": "TRS",
-    "role": "Treasury Dept. \u2014 Sanctions, Debt & Economic Policy",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "Careers Homepage Slideshow. Join Treasury \n                 \n             \n             \n                 Read More \n             \n         \n     \n \n \n \n  Michael.Anders\u2026  \n  Wed, 03/25/2026 - 14:58",
-    "tags": [],
-    "tickers": [],
-    "source": "treasury",
-    "platform": "U.S. Treasury",
-    "url": "https://home.treasury.gov/node/984806",
-    "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "140d ago"
-  },
-  {
-    "id": "00f579ee8f55",
-    "politician": "U.S. Treasury",
-    "initials": "TRS",
-    "role": "Treasury Dept. \u2014 Sanctions, Debt & Economic Policy",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "Commonwealth of the Northern Mariana Islands - TA Program Summary. Commonwealth of the Northern Mariana Islands - TA Program Summary \n  Tiffany.Hyatt@\u2026  \n  Fri, 02/13/2026 - 09:26 \n \n\n               SSBCI Technical Assistance (TA) Program Overview  Commonwealth of the Northern Mariana Islands (CNMI), approved for $468,",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [],
-    "source": "treasury",
-    "platform": "U.S. Treasury",
-    "url": "https://home.treasury.gov/node/984591",
-    "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "181d ago"
-  },
-  {
-    "id": "5015a64d82d2",
-    "politician": "U.S. Treasury",
-    "initials": "TRS",
-    "role": "Treasury Dept. \u2014 Sanctions, Debt & Economic Policy",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "Utah - TA Program Summary. Utah - TA Program Summary \n  Tiffany.Hyatt@\u2026  \n  Fri, 02/13/2026 - 09:16 \n \n\n               SSBCI Technical Assistance (TA) Program Overview  Utah has been approved for $1,249,137 in SSBCI Technical Assistance grant funding and implements the program to provide accounting, legal, and financia",
-    "tags": [],
-    "tickers": [],
-    "source": "treasury",
-    "platform": "U.S. Treasury",
-    "url": "https://home.treasury.gov/node/984586",
-    "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "181d ago"
-  },
-  {
     "id": "c3776ad92a42",
     "politician": "Sen. Bernie Sanders",
     "initials": "BS",
@@ -1166,24 +1001,5 @@
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
     "time_ago": "202d ago"
-  },
-  {
-    "id": "d3ca74df7f0f",
-    "politician": "U.S. Treasury",
-    "initials": "TRS",
-    "role": "Treasury Dept. \u2014 Sanctions, Debt & Economic Policy",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "Soboba Band of Luise\u00f1o Indians, California - Tribal Program Summary. Soboba Band of Luise\u00f1o Indians, California - Tribal Program Summary \n  lauren.mccurle\u2026  \n  Tue, 12/16/2025 - 10:23 \n \n\n              SSBCI Capital Program Overview  Soboba Band of Luise\u00f1o Indians, California, approved for up to $733,776, operates a si",
-    "tags": [],
-    "tickers": [],
-    "source": "treasury",
-    "platform": "U.S. Treasury",
-    "url": "https://home.treasury.gov/node/984171",
-    "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "239d ago"
   }
 ]
