@@ -1,6 +1,6 @@
 [
   {
-    "id": "f24e96950079",
+    "id": "3206ad981bf3",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,16 +9,79 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Hansen Tim Truels sold 25,000 shares of Dorian Lpg Ltd. (LPG) \u00b7 $45.04/share \u00b7 $1,126,100 total \u00b7 Aug 13",
+    "content": "Nichols Weston bought 5,222 shares of Korro Bio, Inc. (KRRO) \u00b7 $11.40/share \u00b7 $59,530 total \u00b7 Aug 13 ($78,809 across all blocks)",
     "tags": [],
     "tickers": [
-      "LPG"
+      "KRRO"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1815798/000091957426005033/0000919574-26-005033-index.htm",
-    "published_iso": "2026-08-13T12:04:29+00:00",
-    "time_ago": "24m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1910456/000090266426003434/0000902664-26-003434-index.htm",
+    "published_iso": "2026-08-13T13:54:20+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "20764789c5fa",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Eizenman Liron sold 18,072 shares of Silicom Ltd. (SILC) \u00b7 $48.53/share \u00b7 $877,034 total \u00b7 Aug 13",
+    "tags": [],
+    "tickers": [
+      "SILC"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2110971/000117891326004110/0001178913-26-004110-index.htm",
+    "published_iso": "2026-08-13T13:40:14+00:00",
+    "time_ago": "19m ago"
+  },
+  {
+    "id": "4901cb73274a",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Congress breaks for summer recess with little to show. As Congress enters its August recess, lawmakers are racing to reconcile different continuing appropriations resolutions to prevent a government shutdown before the Oct. 1 fiscal deadline and subsequent midterm elections",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/congress-blog/6025526-house-senate-passing-crs/",
+    "published_iso": "2026-08-13T13:00:00+00:00",
+    "time_ago": "59m ago"
+  },
+  {
+    "id": "aa6543c26c75",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Live updates: DNC meets to finalize 2028 calendar. The Democratic National Committee is expected to vote on the 2028 presidential primary calendar at its summer meeting this week in Austin, Texas. The party is expected to approve a schedule with South Carolina's primary first on Jan. 22, followed by Nevada on Feb. 1. T",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6026537-live-updates-trump-iran-dnc-midterms/",
+    "published_iso": "2026-08-13T12:49:44+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "640146327265",
@@ -37,49 +100,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2087872424427573392#m",
     "published_iso": "2026-08-13T12:02:31+00:00",
-    "time_ago": "26m ago"
-  },
-  {
-    "id": "0c37a3c6d0ed",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Pariaros Symeon sold 1,900 shares of Eurodry Ltd. (EDRY) \u00b7 $39.98/share \u00b7 $75,962 total \u00b7 Aug 13",
-    "tags": [],
-    "tickers": [
-      "EDRY"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2122342/000212234226000005/0002122342-26-000005-index.htm",
-    "published_iso": "2026-08-13T11:37:15+00:00",
-    "time_ago": "52m ago"
-  },
-  {
-    "id": "c8d1d945e4b1",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "CDC has made sure detransitioners are no longer invisible. These patients deserve a medical system that recognizes them, because recognition is the first step to ensuring they get the right care",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/healthcare/5992273-cdc-adds-detransitioner-codes/",
-    "published_iso": "2026-08-13T11:30:00+00:00",
-    "time_ago": "59m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "0149d60ca842",
@@ -100,7 +121,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/the-great-transshipment-scam/",
     "published_iso": "2026-08-13T09:00:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "c63e9789ceff",
@@ -119,7 +140,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16537/fisheries-off-west-coast-states-modification-of-the-west-coast-salmon-fisheries-inseason-action",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "3869e16366a3",
@@ -138,7 +159,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16515/air-plan-approval-missouri-clean-data-determination-for-the-2015-8-hour-ozone-standard-for-the",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "7b7e3be669c2",
@@ -157,7 +178,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16514/air-plan-approval-illinois-clean-data-determination-for-the-illinois-portion-of-the-st-louis-area",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "5bb61be5738f",
@@ -179,7 +200,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16512/airworthiness-directives-brp-rotax-gmbh-and-co-kg-formerly-brp-powertrain-gmbh-and-co-kg-and",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "81e9e12a2911",
@@ -198,7 +219,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16511/determination-of-attainment-by-the-attainment-date-1997-ozone-standards-california-coachella-valley",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "2afc15358559",
@@ -217,7 +238,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16510/determination-of-attainment-by-the-attainment-date-and-clean-data-determination-for-the-2012-annual",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "1f09f53515f7",
@@ -243,7 +264,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16508/medicaid-program-prohibition-on-federal-medicaid-and-childrens-health-insurance-program-funding-for",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "48c06d2d21c9",
@@ -262,7 +283,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16507/airworthiness-directives-airbus-helicopters",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "4b645df34836",
@@ -289,7 +310,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2087644335713968133#m",
     "published_iso": "2026-08-12T20:56:10+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "f04a2f6807a5",
@@ -1062,7 +1083,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "135d ago"
+    "time_ago": "136d ago"
   },
   {
     "id": "432e035b915b",
