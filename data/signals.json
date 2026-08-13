@@ -1,69 +1,99 @@
 [
   {
-    "id": "3206ad981bf3",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "1b45165ad867",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
     },
-    "severity": "medium",
-    "content": "Nichols Weston bought 5,222 shares of Korro Bio, Inc. (KRRO) \u00b7 $11.40/share \u00b7 $59,530 total \u00b7 Aug 13 ($78,809 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "KRRO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1910456/000090266426003434/0000902664-26-003434-index.htm",
-    "published_iso": "2026-08-13T13:54:20+00:00",
-    "time_ago": "5m ago"
-  },
-  {
-    "id": "20764789c5fa",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Eizenman Liron sold 18,072 shares of Silicom Ltd. (SILC) \u00b7 $48.53/share \u00b7 $877,034 total \u00b7 Aug 13",
-    "tags": [],
-    "tickers": [
-      "SILC"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2110971/000117891326004110/0001178913-26-004110-index.htm",
-    "published_iso": "2026-08-13T13:40:14+00:00",
-    "time_ago": "19m ago"
-  },
-  {
-    "id": "4901cb73274a",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Congress breaks for summer recess with little to show. As Congress enters its August recess, lawmakers are racing to reconcile different continuing appropriations resolutions to prevent a government shutdown before the Oct. 1 fiscal deadline and subsequent midterm elections",
+    "severity": "critical",
+    "content": "Federal Reserve Board issues enforcement action with former employee of Regions Bank. Federal Reserve Board issues enforcement action with former employee of Regions Bank",
     "tags": [
-      "Regulation"
+      "Banking"
     ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/congress-blog/6025526-house-senate-passing-crs/",
-    "published_iso": "2026-08-13T13:00:00+00:00",
-    "time_ago": "59m ago"
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
+    "published_iso": "2026-08-13T15:00:00+00:00",
+    "time_ago": "2m ago"
   },
   {
-    "id": "aa6543c26c75",
+    "id": "3ed8552150c8",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Geva-Dvash Orit sold 415 shares of Camtek Ltd (CAMT) \u00b7 $174.06/share \u00b7 $72,236 total \u00b7 Aug 13",
+    "tags": [],
+    "tickers": [
+      "CAMT"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1973444/000197640826000731/0001976408-26-000731-index.htm",
+    "published_iso": "2026-08-13T14:56:18+00:00",
+    "time_ago": "6m ago"
+  },
+  {
+    "id": "f63271631e6f",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Rainbolt David E sold 8,506 shares of Bancfirst Corp /Ok/ (BANFP) \u00b7 $115.00/share \u00b7 $978,190 total \u00b7 Aug 13",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "BANFP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1042873/000076049826000054/0000760498-26-000054-index.htm",
+    "published_iso": "2026-08-13T14:54:12+00:00",
+    "time_ago": "8m ago"
+  },
+  {
+    "id": "a0d5ca262c09",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Bardeen William withheld (tax) 485 shares of New York Times Co (NYT) \u00b7 $63.54/share \u00b7 $30,817 total \u00b7 Aug 13",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "NYT"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1980790/000198079026000012/0001980790-26-000012-index.htm",
+    "published_iso": "2026-08-13T14:53:19+00:00",
+    "time_ago": "9m ago"
+  },
+  {
+    "id": "cb39b2e7f318",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -72,15 +102,35 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Live updates: DNC meets to finalize 2028 calendar. The Democratic National Committee is expected to vote on the 2028 presidential primary calendar at its summer meeting this week in Austin, Texas. The party is expected to approve a schedule with South Carolina's primary first on Jan. 22, followed by Nevada on Feb. 1. T",
+    "content": "Crowley on whether win halted progressive movement: 'Absolutely not'. Wisconsin Democratic gubernatorial nominee David Crowley denied Wednesday he dealt the progressive movement a setback by beating democratic socialist Francesca Hong in this week\u2019s Democratic primary. When host Kaitlan Collins asked Crowley whether it",
     "tags": [
-      "Taxes"
+      "Banking",
+      "Defense"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6026537-live-updates-trump-iran-dnc-midterms/",
-    "published_iso": "2026-08-13T12:49:44+00:00",
+    "url": "https://thehill.com/homenews/campaign/6026881-crowley-denies-progressive-setback/",
+    "published_iso": "2026-08-13T14:11:52+00:00",
+    "time_ago": "50m ago"
+  },
+  {
+    "id": "a558536fe72e",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Trump is dismantling public health, one executive order at a time. this is merely another example of The Trump administration supplanting\u00a0scientific community\u00a0and expert consensus to the detriment of our nation's health",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/healthcare/6025602-trump-childhood-vaccination-executive-order/",
+    "published_iso": "2026-08-13T14:00:00+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -100,7 +150,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2087872424427573392#m",
     "published_iso": "2026-08-13T12:02:31+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "0149d60ca842",
@@ -121,7 +171,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/the-great-transshipment-scam/",
     "published_iso": "2026-08-13T09:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "c63e9789ceff",
@@ -140,7 +190,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16537/fisheries-off-west-coast-states-modification-of-the-west-coast-salmon-fisheries-inseason-action",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "3869e16366a3",
@@ -159,7 +209,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16515/air-plan-approval-missouri-clean-data-determination-for-the-2015-8-hour-ozone-standard-for-the",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "7b7e3be669c2",
@@ -178,7 +228,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16514/air-plan-approval-illinois-clean-data-determination-for-the-illinois-portion-of-the-st-louis-area",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "5bb61be5738f",
@@ -200,7 +250,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16512/airworthiness-directives-brp-rotax-gmbh-and-co-kg-formerly-brp-powertrain-gmbh-and-co-kg-and",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "81e9e12a2911",
@@ -219,7 +269,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16511/determination-of-attainment-by-the-attainment-date-1997-ozone-standards-california-coachella-valley",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "2afc15358559",
@@ -238,7 +288,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16510/determination-of-attainment-by-the-attainment-date-and-clean-data-determination-for-the-2012-annual",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "1f09f53515f7",
@@ -264,7 +314,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16508/medicaid-program-prohibition-on-federal-medicaid-and-childrens-health-insurance-program-funding-for",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "48c06d2d21c9",
@@ -283,34 +333,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16507/airworthiness-directives-airbus-helicopters",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "9h ago"
-  },
-  {
-    "id": "4b645df34836",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "In Johnstown, PA, voters told me Trump is their JFK because he represents change. They also support Medicare for All, no foreign wars, and taxing billionaires. \n \nStatus quo Democrats won\u2019t win back the country. People want America's Next New Deal. \n \n Video",
-    "tags": [
-      "Healthcare",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/RoKhanna/status/2087644335713968133#m",
-    "published_iso": "2026-08-12T20:56:10+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "f04a2f6807a5",
@@ -424,7 +447,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/08/08/rhode-island-governor-bridge-01030024",
     "published_iso": "2026-08-08T14:00:38+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "f9bb1b8a1a24",
@@ -634,7 +657,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/AOC/status/2085006319220625569#m",
     "published_iso": "2026-08-05T14:13:38+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "63e88990093a",
@@ -739,7 +762,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
     "published_iso": "2026-07-31T14:00:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "ce52161a0822",
@@ -766,33 +789,6 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
     "published_iso": "2026-07-31T14:00:00+00:00",
-    "time_ago": "12d ago"
-  },
-  {
-    "id": "d1faa9166adb",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank. Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
-    "tags": [
-      "Banking",
-      "Taxes"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
-    "published_iso": "2026-07-30T15:00:00+00:00",
     "time_ago": "13d ago"
   },
   {
@@ -819,10 +815,10 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
     "published_iso": "2026-07-30T15:00:00+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
-    "id": "dcd00aa841df",
+    "id": "d1faa9166adb",
     "politician": "Federal Reserve",
     "initials": "FED",
     "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
@@ -830,10 +826,11 @@
       "bg": "#0a1a2a",
       "fg": "#60a5fa"
     },
-    "severity": "medium",
-    "content": "Federal Reserve issues FOMC statement. Federal Reserve issues FOMC statement",
+    "severity": "critical",
+    "content": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank. Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
     "tags": [
-      "Banking"
+      "Banking",
+      "Taxes"
     ],
     "tickers": [
       "JPM",
@@ -843,8 +840,8 @@
     ],
     "source": "fed_reserve",
     "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
-    "published_iso": "2026-07-29T18:00:00+00:00",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
+    "published_iso": "2026-07-30T15:00:00+00:00",
     "time_ago": "14d ago"
   },
   {
@@ -1037,7 +1034,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "99d ago"
+    "time_ago": "100d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1059,7 +1056,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "107d ago"
+    "time_ago": "108d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1123,7 +1120,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "180d ago"
+    "time_ago": "181d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1142,7 +1139,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "180d ago"
+    "time_ago": "181d ago"
   },
   {
     "id": "c3776ad92a42",
