@@ -1,5 +1,49 @@
 [
   {
+    "id": "a84fbd282a37",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Foran Joseph Wm bought 10,000 shares of Matador Resources Co (MTDR) \u00b7 $52.16/share \u00b7 $521,600 total \u00b7 Aug 14 ($778,800 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "MTDR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1540655/000154065526000018/0001540655-26-000018-index.htm",
+    "published_iso": "2026-08-14T11:40:44+00:00",
+    "time_ago": "17m ago"
+  },
+  {
+    "id": "d1840d9a73c7",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Currie Jeffrey bought 125,000 shares of Borr Drilling Ltd (BORR) \u00b7 $4.01/share \u00b7 $501,637 total \u00b7 Aug 14",
+    "tags": [
+      "Energy"
+    ],
+    "tickers": [
+      "BORR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2117662/000162828026056928/0001628280-26-056928-index.htm",
+    "published_iso": "2026-08-14T11:37:51+00:00",
+    "time_ago": "20m ago"
+  },
+  {
     "id": "d293dece6041",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
@@ -18,69 +62,6 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1859392/000107950026000008/0001079500-26-000008-index.htm",
     "published_iso": "2026-08-14T10:54:27+00:00",
-    "time_ago": "19m ago"
-  },
-  {
-    "id": "fd9f5f6c98af",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Chuang Hao-Yuan sold 144 shares of Belite Bio, Inc (BLTE) \u00b7 $180.00/share \u00b7 $25,920 total \u00b7 Aug 14 ($66,187 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "BLTE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1992008/000119312526350218/0001193125-26-350218-index.htm",
-    "published_iso": "2026-08-14T10:10:26+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "99eba3c446cc",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Lin Yu-Hsin sold 142 shares of Belite Bio, Inc (BLTE) \u00b7 $180.00/share \u00b7 $25,560 total \u00b7 Aug 14 ($65,827 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "BLTE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1965964/000119312526350217/0001193125-26-350217-index.htm",
-    "published_iso": "2026-08-14T10:10:04+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "790f409c64df",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Anchi Kazuyuki sold 4,000 shares of Sumitomo Mitsui Financial Group, Inc. (SMFNF) \u00b7 $42.47/share \u00b7 $169,880 total \u00b7 Aug 14",
-    "tags": [],
-    "tickers": [
-      "SMFNF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2115918/000095010326012369/0000950103-26-012369-index.htm",
-    "published_iso": "2026-08-14T10:09:03+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -242,35 +223,6 @@
     "time_ago": "7h ago"
   },
   {
-    "id": "eedf80ce49bc",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "White House accuses over 40 countries of helping China avoid US tariffs. The White House accused China of routing billions of dollars of goods through other countries to avoid President Trump\u2019s 2018 tariffs, costing the U.S. billions of dollars in lost revenue, according to a new report released Thursday. The report, t",
-    "tags": [
-      "Trade",
-      "China",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6029126-china-tariff-evasion-white-house-report/",
-    "published_iso": "2026-08-14T01:30:21+00:00",
-    "time_ago": "9h ago"
-  },
-  {
     "id": "12befd372a5a",
     "politician": "Sen. Elizabeth Warren",
     "initials": "EW",
@@ -296,7 +248,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3msyuthd7z22l",
     "published_iso": "2026-08-14T00:14:05.740000+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "a3ca8a6df1de",
@@ -324,7 +276,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenWarren/status/2088056519656882341#m",
     "published_iso": "2026-08-14T00:14:03+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "2a6bbe98ec06",
@@ -370,7 +322,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-drones-and-their-parts-and-components/",
     "published_iso": "2026-08-13T21:22:01+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "22148dfe2982",
@@ -392,7 +344,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base/",
     "published_iso": "2026-08-13T21:21:46+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "7c9b8fba6480",
@@ -421,31 +373,6 @@
     "url": "https://nitter.net/RoKhanna/status/2087992396617601086#m",
     "published_iso": "2026-08-13T19:59:15+00:00",
     "time_ago": "15h ago"
-  },
-  {
-    "id": "74be260fb574",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "I have always said that Medicare for All  allows non-duplicative supplemental insurance. It's not a ceiling but about ensuring high quality, free universal healthcare as a right for all Americans. We can do it when we are producing more wealth than ever before.  @mattyglesias  \n \n \n Richard H Thaler (@R_Thaler) \n \n Thi",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/RoKhanna/status/2087970946141577533#m",
-    "published_iso": "2026-08-13T18:34:00+00:00",
-    "time_ago": "16h ago"
   },
   {
     "id": "8e24186b0ed1",
@@ -494,7 +421,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/08/13/david-crowley-wisconsin-governor-election-strategy-01036209",
     "published_iso": "2026-08-13T17:23:15+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "1b45165ad867",
