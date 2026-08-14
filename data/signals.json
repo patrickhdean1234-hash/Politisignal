@@ -1,6 +1,6 @@
 [
   {
-    "id": "033f2ac90aad",
+    "id": "e06a70c058d7",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,84 +9,46 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Vander Ploeg David sold 2,200 shares of Knight-Swift Transportation Holdings Inc. (KNX) \u00b7 $52.33/share \u00b7 $115,126 total \u00b7 Aug 13",
+    "content": "Boston Omaha Corp sold 360,000 shares of Sky Harbour Group Corp (SKYH-WT) \u00b7 $10.00/share \u00b7 $3,600,000 total \u00b7 Aug 13",
     "tags": [],
-    "tickers": [
-      "KNX"
-    ],
+    "tickers": [],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1492691/000143289426000002/0001432894-26-000002-index.htm",
-    "published_iso": "2026-08-13T23:23:58+00:00",
-    "time_ago": "32m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1823587/000143774926027810/0001437749-26-027810-index.htm",
+    "published_iso": "2026-08-14T01:43:36+00:00",
+    "time_ago": "5m ago"
   },
   {
-    "id": "7282d4d8023a",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "eedf80ce49bc",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Redwood Capital Management, Llc sold 2,413 shares of Office Properties Income Trust (OPI) \u00b7 $19.00/share \u00b7 $45,847 total \u00b7 Aug 13 ($130,347 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "OPI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2142105/000091957426005197/0000919574-26-005197-index.htm",
-    "published_iso": "2026-08-13T23:21:14+00:00",
-    "time_ago": "35m ago"
-  },
-  {
-    "id": "ab0972fb50c5",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Monroe Terilyn J. exercised options for 32,288 shares of Guardant Health, Inc. (GH) \u00b7 $20.14/share \u00b7 $650,280 total \u00b7 Aug 13 ($8,696,382 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "GH"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1652956/000165295626000018/0001652956-26-000018-index.htm",
-    "published_iso": "2026-08-13T23:21:04+00:00",
-    "time_ago": "35m ago"
-  },
-  {
-    "id": "d8c9bec5d630",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Horowitz Raanan received 67,395 shares of Hadron Energy, Inc. (HDRNW) \u00b7 $1.84/share \u00b7 $124,007 total \u00b7 Aug 13",
+    "severity": "critical",
+    "content": "White House accuses over 40 countries of helping China avoid US tariffs. The White House accused China of routing billions of dollars of goods through other countries to avoid President Trump\u2019s 2018 tariffs, costing the U.S. billions of dollars in lost revenue, according to a new report released Thursday. The report, t",
     "tags": [
-      "Energy"
+      "Trade",
+      "China",
+      "Regulation",
+      "Taxes"
     ],
     "tickers": [
-      "HDRNW"
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2023730/000184720226000004/0001847202-26-000004-index.htm",
-    "published_iso": "2026-08-13T23:16:09+00:00",
-    "time_ago": "40m ago"
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6029126-china-tariff-evasion-white-house-report/",
+    "published_iso": "2026-08-14T01:30:21+00:00",
+    "time_ago": "18m ago"
   },
   {
-    "id": "93984d7d8bb9",
+    "id": "2ff0014cd626",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -95,19 +57,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Zaffino Peter sold 200,000 shares of American International Group, Inc. (AIG) \u00b7 $76.47/share \u00b7 $15,294,280 total \u00b7 Aug 13 ($18,098,334 across all blocks)",
+    "content": "Ditrolio Joseph received 35,000 shares of Lifemd, Inc. (LFMDP) \u00b7 Aug 13",
     "tags": [],
     "tickers": [
-      "AIG"
+      "LFMDP"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1428849/000142884926000011/0001428849-26-000011-index.htm",
-    "published_iso": "2026-08-13T23:14:47+00:00",
-    "time_ago": "41m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1721836/000091228226001097/0000912282-26-001097-index.htm",
+    "published_iso": "2026-08-14T01:24:45+00:00",
+    "time_ago": "23m ago"
   },
   {
-    "id": "2c20fb35b838",
+    "id": "183b1b359a11",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -116,19 +78,21 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Archer Edward T. received 3,056 shares of Fabrinet (FN) \u00b7 Aug 13 ($1,715,946 across all blocks)",
-    "tags": [],
+    "content": "Rozakis Jim withheld (tax) 4,041 shares of Cintas Corp (CTAS) \u00b7 $202.71/share \u00b7 $819,151 total \u00b7 Aug 13",
+    "tags": [
+      "Taxes"
+    ],
     "tickers": [
-      "FN"
+      "CTAS"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1785907/000178590726000002/0001785907-26-000002-index.htm",
-    "published_iso": "2026-08-13T23:13:49+00:00",
-    "time_ago": "42m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1977713/000095010326012363/0000950103-26-012363-index.htm",
+    "published_iso": "2026-08-14T01:21:01+00:00",
+    "time_ago": "27m ago"
   },
   {
-    "id": "e5347f90c8dd",
+    "id": "13e11b83b927",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -137,16 +101,163 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Gill Harpal received 6,493 shares of Fabrinet (FN) \u00b7 Aug 13 ($3,645,926 across all blocks)",
+    "content": "Schwartz Todd G. bought 60,000 shares of Oppfi Inc. (OPFI) \u00b7 $7.13/share \u00b7 $427,680 total \u00b7 Aug 13",
     "tags": [],
     "tickers": [
-      "FN"
+      "OPFI"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1494794/000149479426000002/0001494794-26-000002-index.htm",
-    "published_iso": "2026-08-13T23:13:08+00:00",
-    "time_ago": "43m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1873026/000090514826003647/0000905148-26-003647-index.htm",
+    "published_iso": "2026-08-14T01:09:56+00:00",
+    "time_ago": "38m ago"
+  },
+  {
+    "id": "2b28cacec2c9",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Wagner Heidi L exercised options for 7,000 shares of Wave Life Sciences, Inc. (WVE) \u00b7 $5.97/share \u00b7 $41,790 total \u00b7 Aug 13 ($83,860 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "WVE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1655029/000119312526349963/0001193125-26-349963-index.htm",
+    "published_iso": "2026-08-14T01:00:10+00:00",
+    "time_ago": "48m ago"
+  },
+  {
+    "id": "2892dea90d51",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Rawcliffe Adrian sold 12,700 shares of Wave Life Sciences, Inc. (WVE) \u00b7 $5.29/share \u00b7 $67,183 total \u00b7 Aug 13",
+    "tags": [],
+    "tickers": [
+      "WVE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1631574/000119312526349962/0001193125-26-349962-index.htm",
+    "published_iso": "2026-08-14T01:00:08+00:00",
+    "time_ago": "48m ago"
+  },
+  {
+    "id": "7ec76901fa69",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Schwartz faces Trump's vaccine test. Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story  New CDC director faces Trump vaccine test Erica Schwartz was officially sworn in as CDC director on Thursday, and she is already facing her first serious test: President Trump's executive orde",
+    "tags": [
+      "Healthcare",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/healthcare/6029087-schwartz-faces-trumps-vaccine-test/",
+    "published_iso": "2026-08-14T00:17:12+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "12befd372a5a",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "Apple: ~$2.2 billion\nNike: $986 million\nFedEx: ~$800 million\nAmazon: $640 million\nGeneral Motors: $500 million\n\nGiant corporations are raking in millions in tariff refunds and getting even richer.\n\nBut remember: corporations passed tariff costs on to you.\n\nWhere's YOUR refund?",
+    "tags": [
+      "Big Tech",
+      "Trade",
+      "Regulation"
+    ],
+    "tickers": [
+      "AAPL",
+      "AMZN",
+      "NKE",
+      "FDX"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3msyuthd7z22l",
+    "published_iso": "2026-08-14T00:14:05.740000+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "a3ca8a6df1de",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "Apple: ~$2.2 billion \nNike: $986 million \nFedEx: ~$800 million \nAmazon: $640 million \nGeneral Motors: $500 million \n \nGiant corporations are raking in millions in tariff refunds and getting even richer. \n \nBut remember: corporations passed tariff costs on to you. \n \nWhere's YOUR refund? \n \n \n WSJ Business News (@WSJbus",
+    "tags": [
+      "Big Tech",
+      "Trade",
+      "Regulation"
+    ],
+    "tickers": [
+      "AAPL",
+      "AMZN",
+      "NKE",
+      "FDX"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SenWarren/status/2088056519656882341#m",
+    "published_iso": "2026-08-14T00:14:03+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "2a6bbe98ec06",
+    "politician": "Rep. Patrick McHenry",
+    "initials": "PM",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#2d1e5f",
+      "fg": "#c084fc"
+    },
+    "severity": "medium",
+    "content": "Rapid Response 47 (@RapidResponse47) \n \n MADE IN AMERICA: Apple opens Advanced Manufacturing Center in Houston  apple.com/newsroom/2026/08/a\u2026  \n \n Link  \n \n \n \n Apple opens Advanced Manufacturing Center in Houston \n \n Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational ",
+    "tags": [
+      "Big Tech"
+    ],
+    "tickers": [
+      "AAPL"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/PatrickMcHenry/status/2088054962039185506#m",
+    "published_iso": "2026-08-14T00:07:51+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "608189386b87",
@@ -167,28 +278,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/house/6028921-house-commerce-committee-democrat-investigates-airlines/",
     "published_iso": "2026-08-13T22:24:59+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "7de74d437bd3",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Who will replace Leavitt? Top contenders emerge. News of White House press secretary Karoline Leavitt stepping down is still fresh, but political observers are already guessing and taking bets on who could take her place. The press secretary is one of the most front-facing administration officials, and President Trump ",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6028830-karoline-leavitt-press-secretary-successor/",
-    "published_iso": "2026-08-13T22:09:11+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "82bcf00e25bc",
@@ -211,7 +301,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-drones-and-their-parts-and-components/",
     "published_iso": "2026-08-13T21:22:01+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "22148dfe2982",
@@ -233,7 +323,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base/",
     "published_iso": "2026-08-13T21:21:46+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "7c9b8fba6480",
@@ -261,7 +351,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2087992396617601086#m",
     "published_iso": "2026-08-13T19:59:15+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "74be260fb574",
@@ -286,7 +376,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2087970946141577533#m",
     "published_iso": "2026-08-13T18:34:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "8e24186b0ed1",
@@ -313,7 +403,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2087962135548621052#m",
     "published_iso": "2026-08-13T17:59:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "2a198b63364d",
@@ -335,7 +425,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/08/13/david-crowley-wisconsin-governor-election-strategy-01036209",
     "published_iso": "2026-08-13T17:23:15+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "1b45165ad867",
@@ -361,7 +451,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
     "published_iso": "2026-08-13T15:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "0149d60ca842",
@@ -382,7 +472,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/the-great-transshipment-scam/",
     "published_iso": "2026-08-13T09:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "c63e9789ceff",
@@ -401,7 +491,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16537/fisheries-off-west-coast-states-modification-of-the-west-coast-salmon-fisheries-inseason-action",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "3869e16366a3",
@@ -420,7 +510,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16515/air-plan-approval-missouri-clean-data-determination-for-the-2015-8-hour-ozone-standard-for-the",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "7b7e3be669c2",
@@ -439,7 +529,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16514/air-plan-approval-illinois-clean-data-determination-for-the-illinois-portion-of-the-st-louis-area",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "5bb61be5738f",
@@ -461,7 +551,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16512/airworthiness-directives-brp-rotax-gmbh-and-co-kg-formerly-brp-powertrain-gmbh-and-co-kg-and",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "81e9e12a2911",
@@ -480,7 +570,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16511/determination-of-attainment-by-the-attainment-date-1997-ozone-standards-california-coachella-valley",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "2afc15358559",
@@ -499,7 +589,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16510/determination-of-attainment-by-the-attainment-date-and-clean-data-determination-for-the-2012-annual",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "1f09f53515f7",
@@ -525,7 +615,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16508/medicaid-program-prohibition-on-federal-medicaid-and-childrens-health-insurance-program-funding-for",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "48c06d2d21c9",
@@ -544,7 +634,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16507/airworthiness-directives-airbus-helicopters",
     "published_iso": "2026-08-13T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "f9bb1b8a1a24",
