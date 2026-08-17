@@ -1,5 +1,52 @@
 [
   {
+    "id": "d48cb0c7a4e6",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Amit Rafi sold 6,250 shares of Camtek Ltd (CAMT) \u00b7 $170.52/share \u00b7 $1,065,750 total \u00b7 Aug 17",
+    "tags": [],
+    "tickers": [
+      "CAMT"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1135131/000197640826000743/0001976408-26-000743-index.htm",
+    "published_iso": "2026-08-17T11:57:05+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "d5e4ccb301d8",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "The clean energy revolution has a mining problem. Responsible mineral development and strong environmental protections are not competing goals",
+    "tags": [
+      "Energy"
+    ],
+    "tickers": [
+      "XOM",
+      "FSLR",
+      "ENPH",
+      "XLE"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/5979530-critical-minerals-clean-energy-transition/",
+    "published_iso": "2026-08-17T11:30:00+00:00",
+    "time_ago": "29m ago"
+  },
+  {
     "id": "554580ba759c",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
@@ -20,7 +67,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1068671/000162828026057220/0001628280-26-057220-index.htm",
     "published_iso": "2026-08-17T11:24:21+00:00",
-    "time_ago": "16m ago"
+    "time_ago": "34m ago"
   },
   {
     "id": "b8b77ed15959",
@@ -41,7 +88,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1740332/000110465926097540/0001104659-26-097540-index.htm",
     "published_iso": "2026-08-17T11:21:41+00:00",
-    "time_ago": "19m ago"
+    "time_ago": "37m ago"
   },
   {
     "id": "747818b63267",
@@ -64,7 +111,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1715497/000162828026057216/0001628280-26-057216-index.htm",
     "published_iso": "2026-08-17T11:04:28+00:00",
-    "time_ago": "36m ago"
+    "time_ago": "54m ago"
   },
   {
     "id": "2acdce0959a5",
@@ -85,7 +132,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1306837/000010337926000120/0000103379-26-000120-index.htm",
     "published_iso": "2026-08-17T11:02:55+00:00",
-    "time_ago": "38m ago"
+    "time_ago": "56m ago"
   },
   {
     "id": "89c02458aded",
@@ -109,7 +156,7 @@
     "time_ago": "1h ago"
   },
   {
-    "id": "c01d431ec1c0",
+    "id": "6c8b939118b1",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -118,7 +165,7 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Apeiron Investment Group Ltd. bought 150,000 shares of Enhanced Group Inc. (ENHA) \u00b7 $1.97/share \u00b7 $295,620 total \u00b7 Aug 17",
+    "content": "Angermayer Christian bought 150,000 shares of Enhanced Group Inc. (ENHA) \u00b7 $1.97/share \u00b7 $295,620 total \u00b7 Aug 17",
     "tags": [],
     "tickers": [
       "ENHA"
@@ -127,27 +174,6 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/2132854/000119312526353161/0001193125-26-353161-index.htm",
     "published_iso": "2026-08-17T10:10:39+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "5c4e01551ef2",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "An 'insane' job: Election heats up for next UN secretary-general. The United Nations Security Council is set to elect the next secretary-general in the fall, a high-stakes contest for a thankless job. It is the first changing of the guard in 10 years, from the tenure of Portugal's Ant\u00f3nio Guterres. The election is taki",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/international/6030662-un-secretary-general-election-security-council/",
-    "published_iso": "2026-08-17T10:00:00+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -281,7 +307,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2089061739501351028#m",
     "published_iso": "2026-08-16T18:48:26+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "7e212644f901",
@@ -308,7 +334,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mt7qtihdyc2j",
     "published_iso": "2026-08-16T17:51:10.119000+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "d6240ea3821c",
@@ -332,7 +358,7 @@
     ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "https://nitter.net/SpeakerJohnson/status/2089040841578889241#m",
+    "url": "http://nt.vern.cc/SpeakerJohnson/status/2089040841578889241#m",
     "published_iso": "2026-08-16T17:25:23+00:00",
     "time_ago": "18h ago"
   },
@@ -360,7 +386,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2089029771128705500#m",
     "published_iso": "2026-08-16T16:41:24+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "e4e74e6a2f12",
