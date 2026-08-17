@@ -1,6 +1,6 @@
 [
   {
-    "id": "739ca3833bf7",
+    "id": "d209c6da9287",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Cardew Services Ltd sold 326,492 shares of Chime Financial, Inc. (CHYM) \u00b7 $32.14/share \u00b7 $10,495,020 total \u00b7 Aug 17 ($39,814,327 across all blocks)",
+    "content": "Herbold Chris exercised options for 100,000 shares of Plains All American Pipeline Lp (PAAPU) \u00b7 Aug 17 ($1,271,951 across all blocks)",
     "tags": [],
     "tickers": [
-      "CHYM"
+      "PAAPU"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2088581/000119312526354330/0001193125-26-354330-index.htm",
-    "published_iso": "2026-08-17T21:49:08+00:00",
-    "time_ago": "5m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1497929/000107042326000044/0001070423-26-000044-index.htm",
+    "published_iso": "2026-08-17T22:14:56+00:00",
+    "time_ago": "just now"
   },
   {
-    "id": "1943ba4426b3",
+    "id": "e1744374f7fa",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,19 +30,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Shojaei Amir exercised options for 11,250 shares of Harrow, Inc. (HROW) \u00b7 $35.96/share \u00b7 $404,550 total \u00b7 Aug 17 ($854,550 across all blocks)",
+    "content": "Lee Janet exercised options for 729 shares of Synopsys Inc (SNPS) \u00b7 Aug 17 ($134,037 across all blocks)",
     "tags": [],
     "tickers": [
-      "HROW"
+      "SNPS"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2051427/000149315226038807/0001493152-26-038807-index.htm",
-    "published_iso": "2026-08-17T21:47:37+00:00",
-    "time_ago": "6m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1711671/000171167126000020/0001711671-26-000020-index.htm",
+    "published_iso": "2026-08-17T22:14:03+00:00",
+    "time_ago": "1m ago"
   },
   {
-    "id": "299be0d5f3d2",
+    "id": "0ec6064fe516",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -51,21 +51,86 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Caswell Ryan R. disposed of 33,333 shares of Cannae Holdings, Inc. (CNNE) \u00b7 Aug 17 ($204,085 across all blocks)",
+    "content": "Nimbley Thomas J. exercised options for 169,925 shares of Pbf Energy Inc. (PBF) \u00b7 $13.91/share \u00b7 $2,363,657 total \u00b7 Aug 17 ($14,708,198 across all blocks)",
+    "tags": [
+      "Energy"
+    ],
+    "tickers": [
+      "PBF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1563246/000119312526354380/0001193125-26-354380-index.htm",
+    "published_iso": "2026-08-17T22:12:37+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "93ffc86d206e",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Qvt Financial Lp sold 8,539 shares of Okeanis Eco Tankers Corp. (ECO) \u00b7 $65.04/share \u00b7 $555,377 total \u00b7 Aug 17 ($4,659,892 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "ECO"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1964954/000119312526354379/0001193125-26-354379-index.htm",
+    "published_iso": "2026-08-17T22:12:26+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "54933f81b467",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Swanson Al exercised options for 109,165 shares of Plains All American Pipeline Lp (PAAPU) \u00b7 Aug 17 ($1,007,342 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "PAAPU"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1292270/000107042326000042/0001070423-26-000042-index.htm",
+    "published_iso": "2026-08-17T22:12:03+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "f840e1357018",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Gosin Barry M disposed of 3,571,183 shares of Newmark Group, Inc. (NMRK) \u00b7 $15.13/share \u00b7 $54,031,999 total \u00b7 Aug 17",
     "tags": [
       "Insider Trade"
     ],
     "tickers": [
-      "CNNE"
+      "NMRK"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1840522/000170472026000155/0001704720-26-000155-index.htm",
-    "published_iso": "2026-08-17T21:47:33+00:00",
-    "time_ago": "7m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1690680/000143774926028217/0001437749-26-028217-index.htm",
+    "published_iso": "2026-08-17T22:11:57+00:00",
+    "time_ago": "4m ago"
   },
   {
-    "id": "f339cca64e41",
+    "id": "c5c53bd41c73",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -74,19 +139,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Shepard Alan K exercised options for 39,771 shares of Cnx Resources Corp (CNX) \u00b7 Aug 17 ($611,968 across all blocks)",
+    "content": "Bucella Michael C. bought 3,023 shares of Terawulf Inc. (WULF) \u00b7 $16.54/share \u00b7 $49,985 total \u00b7 Aug 17 ($99,950 across all blocks)",
     "tags": [],
     "tickers": [
-      "CNX"
+      "WULF"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1804674/000180467426000003/0001804674-26-000003-index.htm",
-    "published_iso": "2026-08-17T21:47:11+00:00",
-    "time_ago": "7m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1915351/000108330126000170/0001083301-26-000170-index.htm",
+    "published_iso": "2026-08-17T22:11:48+00:00",
+    "time_ago": "4m ago"
   },
   {
-    "id": "ddba282842e4",
+    "id": "3caa7fe358d1",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -95,37 +160,16 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Brazier Mark Christopher received 137,500 shares of Forward Industries, Inc. (FWDI) \u00b7 Aug 17",
+    "content": "Mcgee Richard K. exercised options for 109,165 shares of Plains All American Pipeline Lp (PAAPU) \u00b7 Aug 17 ($1,007,342 across all blocks)",
     "tags": [],
     "tickers": [
-      "FWDI"
+      "PAAPU"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2128905/000168316826006538/0001683168-26-006538-index.htm",
-    "published_iso": "2026-08-17T21:47:05+00:00",
-    "time_ago": "7m ago"
-  },
-  {
-    "id": "53a651a7641d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hall Shannon exercised options for 2,784 shares of Mesa Laboratories Inc /Co/ (MLAB) \u00b7 Aug 17",
-    "tags": [],
-    "tickers": [
-      "MLAB"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1621222/000072400426000088/0000724004-26-000088-index.htm",
-    "published_iso": "2026-08-17T21:46:25+00:00",
-    "time_ago": "8m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1490023/000107042326000040/0001070423-26-000040-index.htm",
+    "published_iso": "2026-08-17T22:10:35+00:00",
+    "time_ago": "5m ago"
   },
   {
     "id": "eca78e30e736",
@@ -178,7 +222,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtcf4y4lwc22",
     "published_iso": "2026-08-17T18:59:42.852000+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "aff4c6826bfb",
@@ -226,7 +270,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-largest-prescription-drug-price-drop-in-over-60-years/",
     "published_iso": "2026-08-17T14:03:07+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "8526121bbd8b",
@@ -252,7 +296,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/08/first-lady-melania-trumps-efforts-prove-successful-in-ukraine-russia/",
     "published_iso": "2026-08-17T13:02:21+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "b2895f072823",
@@ -271,7 +315,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16757/safety-zone-fox-river-green-bay-wi",
     "published_iso": "2026-08-17T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "66c49c99ca5c",
@@ -293,7 +337,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16727/hematology-and-pathology-devices-reclassification-of-in-situ-hybridization-test-systems-for-use-with",
     "published_iso": "2026-08-17T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "a4c708ead41c",
@@ -314,7 +358,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16723/walnuts-grown-in-california-changes-to-administrative-requirements",
     "published_iso": "2026-08-17T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "41f2a1ba393d",
@@ -336,7 +380,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16720/calcium-carbonate-exemption-from-the-requirement-of-a-pesticide-tolerance",
     "published_iso": "2026-08-17T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "0484245bbfb2",
@@ -359,7 +403,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16701/establishment-of-the-columbia-hills-viticultural-area",
     "published_iso": "2026-08-17T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "2d51fd646921",
@@ -525,6 +569,29 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16660/special-local-regulation-chattawake-wakesurfing-event-tennessee-river-chattanooga-tn",
     "published_iso": "2026-08-14T04:00:00+00:00",
+    "time_ago": "3d ago"
+  },
+  {
+    "id": "2a6bbe98ec06",
+    "politician": "Rep. Patrick McHenry",
+    "initials": "PM",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#2d1e5f",
+      "fg": "#c084fc"
+    },
+    "severity": "medium",
+    "content": "Rapid Response 47 (@RapidResponse47) \n \n MADE IN AMERICA: Apple opens Advanced Manufacturing Center in Houston  apple.com/newsroom/2026/08/a\u2026  \n \n Link  \n \n \n \n Apple opens Advanced Manufacturing Center in Houston \n \n Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational ",
+    "tags": [
+      "Big Tech"
+    ],
+    "tickers": [
+      "AAPL"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/PatrickMcHenry/status/2088054962039185506#m",
+    "published_iso": "2026-08-14T00:07:51+00:00",
     "time_ago": "3d ago"
   },
   {
