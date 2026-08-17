@@ -1,5 +1,47 @@
 [
   {
+    "id": "749bd8e87b17",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Wagner Patricia K gifted 2,419 shares of Apogee Enterprises, Inc. (APOG) \u00b7 Aug 17",
+    "tags": [],
+    "tickers": [
+      "APOG"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1663507/000166350726000015/0001663507-26-000015-index.htm",
+    "published_iso": "2026-08-17T17:08:13+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "b25f1218e968",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Trump's South Korea drawdown gets rough reception. \ud83d\udeab Plus: Supreme Court says no to Trump\u2019s Carroll appeal {beacon} &#8202; It\u2019s Monday. It\u2019s the first day of school for some counties across the U.S., so depending on where you\u2019re reading this from, it might feel extra Monday-ish today. Parents, may the force be with yo",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/1230-report/6033413-donald-trump-south-korea-drill-scaleback-uss-lincoln-saga/",
+    "published_iso": "2026-08-17T16:30:00+00:00",
+    "time_ago": "41m ago"
+  },
+  {
     "id": "aff4c6826bfb",
     "politician": "White House",
     "initials": "WH",
@@ -45,7 +87,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-largest-prescription-drug-price-drop-in-over-60-years/",
     "published_iso": "2026-08-17T14:03:07+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "8526121bbd8b",
@@ -71,7 +113,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/08/first-lady-melania-trumps-efforts-prove-successful-in-ukraine-russia/",
     "published_iso": "2026-08-17T13:02:21+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "b2895f072823",
@@ -90,7 +132,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16757/safety-zone-fox-river-green-bay-wi",
     "published_iso": "2026-08-17T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "66c49c99ca5c",
@@ -112,7 +154,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16727/hematology-and-pathology-devices-reclassification-of-in-situ-hybridization-test-systems-for-use-with",
     "published_iso": "2026-08-17T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "a4c708ead41c",
@@ -133,7 +175,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16723/walnuts-grown-in-california-changes-to-administrative-requirements",
     "published_iso": "2026-08-17T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "41f2a1ba393d",
@@ -155,7 +197,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16720/calcium-carbonate-exemption-from-the-requirement-of-a-pesticide-tolerance",
     "published_iso": "2026-08-17T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "0484245bbfb2",
@@ -178,7 +220,32 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16701/establishment-of-the-columbia-hills-viticultural-area",
     "published_iso": "2026-08-17T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
+  },
+  {
+    "id": "36d98718747b",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Those who lost two elections to Trump have no standing to tell the next generation of Democrats that their ideas are too radical. \n \n\u2705Working class over Epstein class. \n\u2705Medicare for All and free childcare. \n\u2705National economic project to create good jobs. \n \nAmerica's next New Deal. \n \n Video",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/RoKhanna/status/2089064947707981884#m",
+    "published_iso": "2026-08-16T19:01:11+00:00",
+    "time_ago": "22h ago"
   },
   {
     "id": "2d51fd646921",
@@ -204,7 +271,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RandPaul/status/2089061739501351028#m",
     "published_iso": "2026-08-16T18:48:26+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "7e212644f901",
@@ -231,7 +298,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mt7qtihdyc2j",
     "published_iso": "2026-08-16T17:51:10.119000+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "d6240ea3821c",
@@ -283,6 +350,56 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/BernieSanders/status/2089029771128705500#m",
     "published_iso": "2026-08-16T16:41:24+00:00",
+    "time_ago": "1d ago"
+  },
+  {
+    "id": "e125dc07c9ef",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "The sharp decline in national income is the central economic issue of our time. It is why we need an ownership economy and Medicare for All. \n \n\u2705 corporations should be incentivized to give employees stock. \n\u2705 small business should be incentivized to give employees a share in profits. \n\u2705 policy should make it easier fo",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/RoKhanna/status/2088951578619265334#m",
+    "published_iso": "2026-08-16T11:30:41+00:00",
+    "time_ago": "1d ago"
+  },
+  {
+    "id": "192367d7dfe9",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Thank you for your incredible leadership on this Pramila! \n \n \n Rep. Pramila Jayapal (@RepJayapal) \n \n An insurance card from birth till death. \n \nThat\u2019s what Medicare for All provides \u2014 no more private insurance premiums, copays, deductibles, or denials of care from greedy companies. No losing your healthcare if you l",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/RoKhanna/status/2088801416265551921#m",
+    "published_iso": "2026-08-16T01:34:00+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -630,6 +747,27 @@
     "time_ago": "10d ago"
   },
   {
+    "id": "1a1d646c1e56",
+    "politician": "Rep. Alexandria Ocasio-Cortez",
+    "initials": "AOC",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#93c5fd"
+    },
+    "severity": "high",
+    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/AOC/status/2085006319220625569#m",
+    "published_iso": "2026-08-05T14:13:38+00:00",
+    "time_ago": "12d ago"
+  },
+  {
     "id": "63e88990093a",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -891,7 +1029,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-releases-updated-clarity-act-text/",
     "published_iso": "2026-07-22T16:49:25+00:00",
-    "time_ago": "25d ago"
+    "time_ago": "26d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -1135,7 +1273,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "206d ago"
+    "time_ago": "207d ago"
   },
   {
     "id": "d3ca74df7f0f",
