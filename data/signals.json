@@ -1,6 +1,6 @@
 [
   {
-    "id": "d037fe105048",
+    "id": "e43296c974c5",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -8,20 +8,22 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "medium",
-    "content": "Kadia Siddhartha bought 7,093 shares of Mesa Laboratories Inc /Co/ (MLAB) \u00b7 $112.80/share \u00b7 $800,090 total \u00b7 Aug 17",
-    "tags": [],
+    "severity": "critical",
+    "content": "Long Donald J Jr gifted 150 shares of Nicolet Bankshares Inc (NIC) \u00b7 Aug 17",
+    "tags": [
+      "Banking"
+    ],
     "tickers": [
-      "MLAB"
+      "NIC"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1573666/000072400426000084/0000724004-26-000084-index.htm",
-    "published_iso": "2026-08-17T15:49:47+00:00",
-    "time_ago": "1m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1243725/000117485026000169/0001174850-26-000169-index.htm",
+    "published_iso": "2026-08-17T16:10:50+00:00",
+    "time_ago": "just now"
   },
   {
-    "id": "68bd91309b52",
+    "id": "77eabef7623c",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,37 +32,37 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Migliaccio Patrick J. sold 3,000 shares of New Jersey Resources Corp (NJR) \u00b7 $55.63/share \u00b7 $166,894 total \u00b7 Aug 17",
+    "content": "Schlachet Amir sold 100,000 shares of Global-E Online Ltd. (GLBE) \u00b7 $42.10/share \u00b7 $4,210,110 total \u00b7 Aug 17",
     "tags": [],
     "tickers": [
-      "NJR"
+      "GLBE"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1658452/000165845226000007/0001658452-26-000007-index.htm",
-    "published_iso": "2026-08-17T15:41:13+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/1964286/000119312526353602/0001193125-26-353602-index.htm",
+    "published_iso": "2026-08-17T16:05:46+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "6527b2718550",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Blachier Olivier exercised options for 2,000 shares of Entegris Inc (ENTG) \u00b7 $80.71/share \u00b7 $161,420 total \u00b7 Aug 17 ($482,740 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "ENTG"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1891661/000189166126000002/0001891661-26-000002-index.htm",
+    "published_iso": "2026-08-17T16:00:40+00:00",
     "time_ago": "10m ago"
-  },
-  {
-    "id": "091345279fdf",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Richards Aleta W. bought 3,000 shares of Matthews International Corp (MATW) \u00b7 $23.06/share \u00b7 $69,180 total \u00b7 Aug 17",
-    "tags": [],
-    "tickers": [
-      "MATW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1966739/000006329626000084/0000063296-26-000084-index.htm",
-    "published_iso": "2026-08-17T15:38:55+00:00",
-    "time_ago": "12m ago"
   },
   {
     "id": "aff4c6826bfb",
@@ -108,7 +110,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-largest-prescription-drug-price-drop-in-over-60-years/",
     "published_iso": "2026-08-17T14:03:07+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "8526121bbd8b",
@@ -134,7 +136,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/08/first-lady-melania-trumps-efforts-prove-successful-in-ukraine-russia/",
     "published_iso": "2026-08-17T13:02:21+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "b2895f072823",
@@ -153,7 +155,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16757/safety-zone-fox-river-green-bay-wi",
     "published_iso": "2026-08-17T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "66c49c99ca5c",
@@ -175,7 +177,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16727/hematology-and-pathology-devices-reclassification-of-in-situ-hybridization-test-systems-for-use-with",
     "published_iso": "2026-08-17T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "a4c708ead41c",
@@ -196,7 +198,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16723/walnuts-grown-in-california-changes-to-administrative-requirements",
     "published_iso": "2026-08-17T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "41f2a1ba393d",
@@ -218,7 +220,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16720/calcium-carbonate-exemption-from-the-requirement-of-a-pesticide-tolerance",
     "published_iso": "2026-08-17T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "0484245bbfb2",
@@ -241,7 +243,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16701/establishment-of-the-columbia-hills-viticultural-area",
     "published_iso": "2026-08-17T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "36d98718747b",
@@ -266,7 +268,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2089064947707981884#m",
     "published_iso": "2026-08-16T19:01:11+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "2d51fd646921",
@@ -319,7 +321,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mt7qtihdyc2j",
     "published_iso": "2026-08-16T17:51:10.119000+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "d6240ea3821c",
@@ -482,6 +484,29 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16660/special-local-regulation-chattawake-wakesurfing-event-tennessee-river-chattanooga-tn",
     "published_iso": "2026-08-14T04:00:00+00:00",
+    "time_ago": "3d ago"
+  },
+  {
+    "id": "2a6bbe98ec06",
+    "politician": "Rep. Patrick McHenry",
+    "initials": "PM",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#2d1e5f",
+      "fg": "#c084fc"
+    },
+    "severity": "medium",
+    "content": "Rapid Response 47 (@RapidResponse47) \n \n MADE IN AMERICA: Apple opens Advanced Manufacturing Center in Houston  apple.com/newsroom/2026/08/a\u2026  \n \n Link  \n \n \n \n Apple opens Advanced Manufacturing Center in Houston \n \n Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational ",
+    "tags": [
+      "Big Tech"
+    ],
+    "tickers": [
+      "AAPL"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/PatrickMcHenry/status/2088054962039185506#m",
+    "published_iso": "2026-08-14T00:07:51+00:00",
     "time_ago": "3d ago"
   },
   {
