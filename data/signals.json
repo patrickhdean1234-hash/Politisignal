@@ -1,24 +1,57 @@
 [
   {
-    "id": "749bd8e87b17",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "71c33fa00703",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
     },
-    "severity": "medium",
-    "content": "Wagner Patricia K gifted 2,419 shares of Apogee Enterprises, Inc. (APOG) \u00b7 Aug 17",
-    "tags": [],
-    "tickers": [
-      "APOG"
+    "severity": "high",
+    "content": "It took a Depression and a world war to unite America behind FDR\u2019s New Deal. Let\u2019s not wait while we see an AI revolution with staggering inequality. \n \nAmerica\u2019s next New Deal: tax the billionaires, Medicare for All, rebuild industry for every community. \n \n Video",
+    "tags": [
+      "Healthcare",
+      "Regulation",
+      "Taxes"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1663507/000166350726000015/0001663507-26-000015-index.htm",
-    "published_iso": "2026-08-17T17:08:13+00:00",
-    "time_ago": "3m ago"
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/RoKhanna/status/2089402566451069060#m",
+    "published_iso": "2026-08-17T17:22:45+00:00",
+    "time_ago": "21m ago"
+  },
+  {
+    "id": "1231976b49aa",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Drugmakers uninterested in Trump's order to split up MMR vaccine. President Trump's executive order recommending that the measles, mumps and rubella (MMR) vaccine be split up across three different appointments is drawing poor reception from the pharmaceutical industry as drugmakers and trade groups say there's no scie",
+    "tags": [
+      "Trade",
+      "Healthcare"
+    ],
+    "tickers": [
+      "LLY",
+      "PFE",
+      "JNJ",
+      "MRK"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/healthcare/6030750-trump-mmr-vaccine-executive-order/",
+    "published_iso": "2026-08-17T17:00:00+00:00",
+    "time_ago": "44m ago"
   },
   {
     "id": "b25f1218e968",
@@ -39,7 +72,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/newsletters/1230-report/6033413-donald-trump-south-korea-drill-scaleback-uss-lincoln-saga/",
     "published_iso": "2026-08-17T16:30:00+00:00",
-    "time_ago": "41m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "aff4c6826bfb",
@@ -60,7 +93,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/icymi-uss-lincoln-performance-for-the-ages/",
     "published_iso": "2026-08-17T14:29:09+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "7f11dd56199b",
@@ -324,7 +357,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2089040841578889241#m",
     "published_iso": "2026-08-16T17:25:23+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "98f6a2efd268",
@@ -375,31 +408,6 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2088951578619265334#m",
     "published_iso": "2026-08-16T11:30:41+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "192367d7dfe9",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Thank you for your incredible leadership on this Pramila! \n \n \n Rep. Pramila Jayapal (@RepJayapal) \n \n An insurance card from birth till death. \n \nThat\u2019s what Medicare for All provides \u2014 no more private insurance premiums, copays, deductibles, or denials of care from greedy companies. No losing your healthcare if you l",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/RoKhanna/status/2088801416265551921#m",
-    "published_iso": "2026-08-16T01:34:00+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -529,7 +537,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/08/13/david-crowley-wisconsin-governor-election-strategy-01036209",
     "published_iso": "2026-08-13T17:23:15+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "1b45165ad867",
@@ -690,7 +698,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s225?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-07T17:23:00+00:00",
-    "time_ago": "9d ago"
+    "time_ago": "10d ago"
   },
   {
     "id": "ef7d3b12d4ec",
