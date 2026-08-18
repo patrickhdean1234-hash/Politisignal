@@ -1,5 +1,26 @@
 [
   {
+    "id": "fb0bd2533f4d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Rochard Pierre bought 15,900 shares of Strive, Inc. (SATA) \u00b7 $12.54/share \u00b7 $199,386 total \u00b7 Aug 18",
+    "tags": [],
+    "tickers": [
+      "SATA"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2086233/000162828026057539/0001628280-26-057539-index.htm",
+    "published_iso": "2026-08-18T11:59:38+00:00",
+    "time_ago": "1m ago"
+  },
+  {
     "id": "c33cd04b582b",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
@@ -18,7 +39,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1973444/000197640826000752/0001976408-26-000752-index.htm",
     "published_iso": "2026-08-18T11:39:18+00:00",
-    "time_ago": "1m ago"
+    "time_ago": "21m ago"
   },
   {
     "id": "13fc364f31ce",
@@ -39,7 +60,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/2148580/000214858026000003/0002148580-26-000003-index.htm",
     "published_iso": "2026-08-18T11:33:44+00:00",
-    "time_ago": "6m ago"
+    "time_ago": "26m ago"
   },
   {
     "id": "5e9eb880e746",
@@ -60,7 +81,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1595761/000110465926098101/0001104659-26-098101-index.htm",
     "published_iso": "2026-08-18T10:41:25+00:00",
-    "time_ago": "58m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "c35a9555b2da",
@@ -81,7 +102,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1899062/000110465926098097/0001104659-26-098097-index.htm",
     "published_iso": "2026-08-18T10:40:42+00:00",
-    "time_ago": "59m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "6d7e1705cc7f",
@@ -126,71 +147,6 @@
     "time_ago": "1h ago"
   },
   {
-    "id": "ffd70cf9967e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Heng Chen Seng sold 19,138 shares of Sea Ltd (SE) \u00b7 $122.26/share \u00b7 $2,339,812 total \u00b7 Aug 18 ($2,446,165 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "SE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1977626/000119312526354675/0001193125-26-354675-index.htm",
-    "published_iso": "2026-08-18T10:19:43+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "21a25184bc3f",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Leverenz Justin Martin exercised options for 164,050 shares of H World Group Ltd (HWLDF) \u00b7 Aug 18",
-    "tags": [],
-    "tickers": [
-      "HWLDF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2108188/000110465926098056/0001104659-26-098056-index.htm",
-    "published_iso": "2026-08-18T10:17:39+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "a0e33be56f88",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Shan Yigang acquired/disposed 316,964 shares of Ke Holdings Inc. (BEKE) \u00b7 Aug 18 ($0 across all blocks)",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [
-      "BEKE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2113852/000119312526354658/0001193125-26-354658-index.htm",
-    "published_iso": "2026-08-18T10:11:37+00:00",
-    "time_ago": "1h ago"
-  },
-  {
     "id": "c4d06e2807a8",
     "politician": "Federal Register",
     "initials": "FR",
@@ -209,7 +165,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16846/establishing-the-national-fraud-enforcement-division",
     "published_iso": "2026-08-18T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "f5165b61dda6",
@@ -230,7 +186,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16828/changes-to-delegations",
     "published_iso": "2026-08-18T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "ad702c337ad2",
@@ -249,7 +205,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16807/safety-zone-lake-michigan-gary-in",
     "published_iso": "2026-08-18T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "38759d929138",
@@ -271,7 +227,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16806/safety-zone-anchor-floating-production-unit-fpu-outer-continental-shelf-facility-green-canyon-block",
     "published_iso": "2026-08-18T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "3507eff961fb",
@@ -292,7 +248,60 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16805/safety-zone-ohio-street-beach-swim-course-lake-michigan-chicago-harbor-chicago-il",
     "published_iso": "2026-08-18T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
+  },
+  {
+    "id": "a4ed7f371a2b",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "As a Congresswoman in one of the most challenging purple districts in the country, I signed on to Medicare 4 All the first week I got there, and cont\u2019d to sign on each term I was there. Not once did I get shit for it from voters, and the Rs never even attacked me for it, which sums up how popular it is.",
+    "tags": [
+      "Healthcare",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nt.vern.cc/wildforcongress/status/2089525042304733494#m",
+    "published_iso": "2026-08-18T01:29:26+00:00",
+    "time_ago": "10h ago"
+  },
+  {
+    "id": "ae0ac4114669",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "critical",
+    "content": "Warren Gunnels should lead the drafting of our 2026 and 2028 platform. This is it. \n \n \n Warren Gunnels (@GunnelsWarren) \n \n This platform wins in a landslide: \n \nMedicare for All. \n \nNot 1 penny for the genocidal government in Israel. \n \nNo more AI data centers. \n \nWealth tax on billionaires. \n \nExpand Social Security",
+    "tags": [
+      "Healthcare",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nt.vern.cc/RoKhanna/status/2089477704307589243#m",
+    "published_iso": "2026-08-17T22:21:19+00:00",
+    "time_ago": "13h ago"
   },
   {
     "id": "e08373ee8350",
@@ -317,7 +326,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtcf4y4lwc22",
     "published_iso": "2026-08-17T18:59:42.852000+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "aff4c6826bfb",
@@ -507,6 +516,81 @@
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mt7qtihdyc2j",
     "published_iso": "2026-08-16T17:51:10.119000+00:00",
     "time_ago": "1d ago"
+  },
+  {
+    "id": "d6240ea3821c",
+    "politician": "Rep. Mike Johnson",
+    "initials": "MJ",
+    "role": "Speaker of the House",
+    "color": {
+      "bg": "#2a1a1a",
+      "fg": "#fbbf24"
+    },
+    "severity": "medium",
+    "content": "Prescription drug prices are now at their LOWEST LEVELS in more than 60 years \u2014 because of  @POTUS  and Republicans working to bring down costs for all Americans. \n \nThis is what delivering real, positive results for the American people looks like. \n \n \n The White House (@WhiteHouse) \n \n Prescription drug prices PLUMME",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "LLY",
+      "PFE",
+      "JNJ",
+      "MRK"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SpeakerJohnson/status/2089040841578889241#m",
+    "published_iso": "2026-08-16T17:25:23+00:00",
+    "time_ago": "1d ago"
+  },
+  {
+    "id": "98f6a2efd268",
+    "politician": "Sen. Bernie Sanders",
+    "initials": "BS",
+    "role": "Senate HELP Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#818cf8"
+    },
+    "severity": "medium",
+    "content": "Our current healthcare system is broken. \n \nProgressives understand healthcare must be a human right, guaranteed to all, not a source of billions in profits for insurance and drug companies. \n \nA recent poll showed 64% of Americans want Medicare for All. They\u2019re right. Let\u2019s do it. \n \n Video",
+    "tags": [
+      "Healthcare",
+      "Regulation"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/BernieSanders/status/2089029771128705500#m",
+    "published_iso": "2026-08-16T16:41:24+00:00",
+    "time_ago": "1d ago"
+  },
+  {
+    "id": "2a6bbe98ec06",
+    "politician": "Rep. Patrick McHenry",
+    "initials": "PM",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#2d1e5f",
+      "fg": "#c084fc"
+    },
+    "severity": "medium",
+    "content": "Rapid Response 47 (@RapidResponse47) \n \n MADE IN AMERICA: Apple opens Advanced Manufacturing Center in Houston  apple.com/newsroom/2026/08/a\u2026  \n \n Link  \n \n \n \n Apple opens Advanced Manufacturing Center in Houston \n \n Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational ",
+    "tags": [
+      "Big Tech"
+    ],
+    "tickers": [
+      "AAPL"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/PatrickMcHenry/status/2088054962039185506#m",
+    "published_iso": "2026-08-14T00:07:51+00:00",
+    "time_ago": "4d ago"
   },
   {
     "id": "82bcf00e25bc",
