@@ -1,6 +1,6 @@
 [
   {
-    "id": "e1e371f9022b",
+    "id": "f548409c1f80",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,16 +9,18 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Gould Gregory A bought 10,000 shares of Aclarion, Inc. (ACONW) \u00b7 $2.45/share \u00b7 $24,500 total \u00b7 Aug 18",
-    "tags": [],
+    "content": "Hixon Dylan bought 27,472 shares of Energy Vault Holdings, Inc. (NRGV) \u00b7 $3.88/share \u00b7 $106,536 total \u00b7 Aug 18",
+    "tags": [
+      "Energy"
+    ],
     "tickers": [
-      "ACONW"
+      "NRGV"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1635077/000168316826006545/0001683168-26-006545-index.htm",
-    "published_iso": "2026-08-18T12:30:03+00:00",
-    "time_ago": "30m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2063923/000206392326000004/0002063923-26-000004-index.htm",
+    "published_iso": "2026-08-18T13:43:48+00:00",
+    "time_ago": "5m ago"
   },
   {
     "id": "c4d06e2807a8",
@@ -125,6 +127,59 @@
     "time_ago": "9h ago"
   },
   {
+    "id": "a4ed7f371a2b",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "As a Congresswoman in one of the most challenging purple districts in the country, I signed on to Medicare 4 All the first week I got there, and cont\u2019d to sign on each term I was there. Not once did I get shit for it from voters, and the Rs never even attacked me for it, which sums up how popular it is.",
+    "tags": [
+      "Healthcare",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/wildforcongress/status/2089525042304733494#m",
+    "published_iso": "2026-08-18T01:29:26+00:00",
+    "time_ago": "12h ago"
+  },
+  {
+    "id": "ae0ac4114669",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "critical",
+    "content": "Warren Gunnels should lead the drafting of our 2026 and 2028 platform. This is it. \n \n \n Warren Gunnels (@GunnelsWarren) \n \n This platform wins in a landslide: \n \nMedicare for All. \n \nNot 1 penny for the genocidal government in Israel. \n \nNo more AI data centers. \n \nWealth tax on billionaires. \n \nExpand Social Security",
+    "tags": [
+      "Healthcare",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/RoKhanna/status/2089477704307589243#m",
+    "published_iso": "2026-08-17T22:21:19+00:00",
+    "time_ago": "15h ago"
+  },
+  {
     "id": "e08373ee8350",
     "politician": "Rep. Ro Khanna",
     "initials": "RK",
@@ -168,7 +223,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/icymi-uss-lincoln-performance-for-the-ages/",
     "published_iso": "2026-08-17T14:29:09+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "7f11dd56199b",
@@ -195,7 +250,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-largest-prescription-drug-price-drop-in-over-60-years/",
     "published_iso": "2026-08-17T14:03:07+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "8526121bbd8b",
@@ -221,7 +276,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/08/first-lady-melania-trumps-efforts-prove-successful-in-ukraine-russia/",
     "published_iso": "2026-08-17T13:02:21+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "b2895f072823",
@@ -360,7 +415,7 @@
     ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "http://nt.vern.cc/SpeakerJohnson/status/2089040841578889241#m",
+    "url": "https://nitter.net/SpeakerJohnson/status/2089040841578889241#m",
     "published_iso": "2026-08-16T17:25:23+00:00",
     "time_ago": "1d ago"
   },
