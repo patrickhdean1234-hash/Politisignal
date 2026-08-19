@@ -1,6 +1,6 @@
 [
   {
-    "id": "ce615d367faa",
+    "id": "a56b8d2db221",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,21 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Hudson Symeria sold 298 shares of Ufp Technologies Inc (UFPT) \u00b7 $319.11/share \u00b7 $95,095 total \u00b7 Aug 19",
-    "tags": [],
+    "content": "Eiben Lawrence Scott sold 17,147 shares of Thirdline Real Estate Income Fund (STT) \u00b7 $8.51/share \u00b7 $145,919 total \u00b7 Aug 19",
+    "tags": [
+      "Regulation"
+    ],
     "tickers": [
-      "UFPT"
+      "STT"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1932366/000208495626000062/0002084956-26-000062-index.htm",
-    "published_iso": "2026-08-19T14:53:38+00:00",
-    "time_ago": "4m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1886784/000139834426014897/0001398344-26-014897-index.htm",
+    "published_iso": "2026-08-19T15:21:13+00:00",
+    "time_ago": "10m ago"
   },
   {
-    "id": "d22911779ffc",
+    "id": "4220fc992a69",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -30,18 +32,36 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Your next Amazon package could come by drone as service expands to nearly 500 cities. It's a \"sixfold increase\" to the service, Amazon says",
-    "tags": [
-      "Big Tech"
-    ],
-    "tickers": [
-      "AMZN"
-    ],
+    "content": "Majority 'more concerned than excited' about increased AI use in daily life: Survey. More Americans are now growing concerned over artificial intelligence use in daily life, according to a recent survey. A new Pew Research survey released Tuesday showed 52 percent of respondents said they are more concerned than excite",
+    "tags": [],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/business/6037749-your-next-amazon-package-could-come-by-drone-as-service-expands-to-nearly-500-cities/",
-    "published_iso": "2026-08-19T14:01:50+00:00",
-    "time_ago": "55m ago"
+    "url": "https://thehill.com/policy/technology/6038294-ai-concerns-job-displacement/",
+    "published_iso": "2026-08-19T15:15:36+00:00",
+    "time_ago": "15m ago"
+  },
+  {
+    "id": "008e92bb4443",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Live updates: Trump delays new tariffs on Canada amid talks; Florida, Wyoming primaries yield upsets. President Trump announced late Tuesday he would pause the 50 percent tariffs on many Canadian goods for three days, saying the U.S. and Canada are finalizing a deal. The tariffs were expected to go into effect at midni",
+    "tags": [
+      "Trade",
+      "Crypto"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6037487-live-updates-trump-crypto-canada-tariffs-primary-elections/",
+    "published_iso": "2026-08-19T15:00:26+00:00",
+    "time_ago": "31m ago"
   },
   {
     "id": "2e882b34e4d7",
@@ -63,7 +83,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16942/food-additives-permitted-in-feed-and-drinking-water-of-animals-chromium-dl-methionine-chelate",
     "published_iso": "2026-08-19T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "027cdf22b7c2",
@@ -85,7 +105,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16888/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures",
     "published_iso": "2026-08-19T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "3329271a21a2",
@@ -106,7 +126,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16870/atlantic-highly-migratory-species-north-atlantic-swordfish-south-atlantic-swordfish-north-atlantic",
     "published_iso": "2026-08-19T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "f436afccee25",
@@ -130,7 +150,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/august/road-iowa-america-first-trade-raising-wages-reshoring-jobs-and-restoring-americas-global",
     "published_iso": "2026-08-18T15:02:03+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "c4d06e2807a8",
@@ -462,7 +482,168 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
     "published_iso": "2026-08-13T15:00:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
+  },
+  {
+    "id": "f9bb1b8a1a24",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "Motion to Invoke Cloture: Motion to Proceed to S. 5271. Vote: Cloture on the Motion to Proceed Rejected 52/46",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s231?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-08-08T08:36:00+00:00",
+    "time_ago": "11d ago"
+  },
+  {
+    "id": "867b611061db",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On the Nomination PN1078: Todd Blanche, of Florida, to be Attorney General. Vote: Nomination Confirmed 50/49",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s230?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-08-08T08:17:00+00:00",
+    "time_ago": "11d ago"
+  },
+  {
+    "id": "4c9ba1bce804",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "Motion to Invoke Cloture: Todd Blanche to be Attorney General: Todd Blanche, of Florida, to be Attorney General. Vote: Cloture Motion Agreed to 50/49",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s229?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-08-08T07:59:00+00:00",
+    "time_ago": "11d ago"
+  },
+  {
+    "id": "5a1177a6532b",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "critical",
+    "content": "H.R. 6500: Continuing Appropriations and Extensions Act, 2027. Vote: Bill Passed 90/6",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s228?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-08-08T07:37:00+00:00",
+    "time_ago": "11d ago"
+  },
+  {
+    "id": "5fc808808493",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On the Motion to Table S.Amdt. 6747 to S.Amdt. 6732 to H.R. 6500 (No short title on file). Vote: Motion to Table Agreed to 61/32",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s227?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-08-08T06:36:00+00:00",
+    "time_ago": "11d ago"
+  },
+  {
+    "id": "e0959b575c74",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "Motion to Invoke Cloture: Collins Amdt. No. 6732 to H.R. 6500. Vote: Cloture Motion Agreed to 91/6",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s226?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-08-07T18:14:00+00:00",
+    "time_ago": "11d ago"
+  },
+  {
+    "id": "15c78cc7f8dd",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On the Nomination PN961-1 and PN937-5 and PN901-1 and PN730-38 and PN962-3 and PN931-6 and PN1022-25 and PN806-5 and PN1022-10 and PN1012 and PN931-5 and PN931-4 and PN937-2 and PN1022-22 and PN962-1 and PN961-4 and PN901-3 and PN806-7 and PN730-23 and PN1022-7 and PN1022-6 and PN961-3 and PN937-9 and PN937-8 and PN937",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s225?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-08-07T17:23:00+00:00",
+    "time_ago": "11d ago"
+  },
+  {
+    "id": "ef7d3b12d4ec",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "critical",
+    "content": "H.R. 5334: Lindsey O. Graham Sanctioning Russia and Iran Act of 2026. Vote: Bill Passed 86/11",
+    "tags": [
+      "Regulation",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s224?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-08-07T16:43:00+00:00",
+    "time_ago": "11d ago"
   },
   {
     "id": "baf26d52584e",
@@ -491,6 +672,27 @@
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
     "time_ago": "11d ago"
+  },
+  {
+    "id": "1a1d646c1e56",
+    "politician": "Rep. Alexandria Ocasio-Cortez",
+    "initials": "AOC",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#93c5fd"
+    },
+    "severity": "high",
+    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/AOC/status/2085006319220625569#m",
+    "published_iso": "2026-08-05T14:13:38+00:00",
+    "time_ago": "14d ago"
   },
   {
     "id": "63e88990093a",
@@ -648,7 +850,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
     "published_iso": "2026-07-30T15:00:00+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "d1faa9166adb",
@@ -675,7 +877,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
     "published_iso": "2026-07-30T15:00:00+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -1017,6 +1219,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "245d ago"
+    "time_ago": "246d ago"
   }
 ]
