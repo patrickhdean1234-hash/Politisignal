@@ -1,6 +1,6 @@
 [
   {
-    "id": "62dcfac6c759",
+    "id": "fb07d4839257",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,40 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Tannenbaum Leonard M bought 12,841 shares of Advanced Flower Capital Inc. (AFCG) \u00b7 $3.48/share \u00b7 $44,687 total \u00b7 Aug 19",
+    "content": "Munro Douglas sold 404 shares of Mercury Systems Inc (MRCY) \u00b7 $109.95/share \u00b7 $44,420 total \u00b7 Aug 19 ($99,431 across all blocks)",
     "tags": [],
     "tickers": [
-      "AFCG"
+      "MRCY"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1822523/000162828026058037/0001628280-26-058037-index.htm",
-    "published_iso": "2026-08-19T22:00:13+00:00",
-    "time_ago": "just now"
-  },
-  {
-    "id": "7c1ae189c925",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Thayer Jonathan W exercised options for 111,111 shares of Venture Global, Inc. (VG) \u00b7 $1.16/share \u00b7 $128,889 total \u00b7 Aug 19 ($3,371,463 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "VG"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2007855/000144876526000013/0001448765-26-000013-index.htm",
-    "published_iso": "2026-08-19T21:59:13+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/2011703/000104952126000054/0001049521-26-000054-index.htm",
+    "published_iso": "2026-08-19T22:31:45+00:00",
     "time_ago": "1m ago"
   },
   {
-    "id": "6f757bf20b09",
+    "id": "ca7f46eac731",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -50,20 +29,20 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "medium",
-    "content": "Readnour Robin Shane sold 16,696 shares of An2 Therapeutics, Inc. (ANTX) \u00b7 $6.01/share \u00b7 $100,313 total \u00b7 Aug 19 ($212,702 across all blocks)",
+    "severity": "critical",
+    "content": "Holmes Ned S sold 387 shares of Prosperity Bancshares Inc (PB) \u00b7 $73.47/share \u00b7 $28,431 total \u00b7 Aug 19 ($81,025 across all blocks)",
     "tags": [],
     "tickers": [
-      "ANTX"
+      "PB"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1914883/000119312526357225/0001193125-26-357225-index.htm",
-    "published_iso": "2026-08-19T21:58:27+00:00",
-    "time_ago": "2m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1136856/000119312526357251/0001193125-26-357251-index.htm",
+    "published_iso": "2026-08-19T22:30:28+00:00",
+    "time_ago": "3m ago"
   },
   {
-    "id": "010ac65c1395",
+    "id": "a07da365140b",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -72,21 +51,63 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Sheth Brian Niranjan bought 17,397 shares of Blend Labs, Inc. (BLND) \u00b7 $1.44/share \u00b7 $25,120 total \u00b7 Aug 19",
+    "content": "Krouse George R Jr sold 300 shares of Sba Communications Corp (SBAC) \u00b7 $182.67/share \u00b7 $54,802 total \u00b7 Aug 19",
+    "tags": [],
+    "tickers": [
+      "SBAC"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1473955/000147395526000008/0001473955-26-000008-index.htm",
+    "published_iso": "2026-08-19T22:30:06+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "a5e0840bf259",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ratner Steven sold 1,084 shares of Mercury Systems Inc (MRCY) \u00b7 $109.95/share \u00b7 $119,187 total \u00b7 Aug 19 ($338,673 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "MRCY"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1995110/000104952126000053/0001049521-26-000053-index.htm",
+    "published_iso": "2026-08-19T22:29:11+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "5919983706c5",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Mendoza Marie sold 1,513 shares of Kratos Defense & Security Solutions, Inc. (KTOS) \u00b7 $64.37/share \u00b7 $97,392 total \u00b7 Aug 19",
     "tags": [
-      "Sanctions"
+      "Defense"
     ],
     "tickers": [
-      "BLND"
+      "KTOS"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2022286/000119312526357222/0001193125-26-357222-index.htm",
-    "published_iso": "2026-08-19T21:55:24+00:00",
-    "time_ago": "5m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1660112/000166011226000010/0001660112-26-000010-index.htm",
+    "published_iso": "2026-08-19T22:28:51+00:00",
+    "time_ago": "4m ago"
   },
   {
-    "id": "cfa57e812130",
+    "id": "c8467c8590a0",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -95,16 +116,100 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Leblanc Leonard J sold 500 shares of Axt Inc (AXTI) \u00b7 $89.59/share \u00b7 $44,795 total \u00b7 Aug 19 ($221,425 across all blocks)",
+    "content": "Adams Jon received 21 shares of Columbus Mckinnon Corp (CMCO) \u00b7 Aug 19 ($0 across all blocks)",
     "tags": [],
     "tickers": [
-      "AXTI"
+      "CMCO"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1244065/000143774926028577/0001437749-26-028577-index.htm",
-    "published_iso": "2026-08-19T21:55:13+00:00",
-    "time_ago": "5m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1875308/000162828026058082/0001628280-26-058082-index.htm",
+    "published_iso": "2026-08-19T22:26:39+00:00",
+    "time_ago": "7m ago"
+  },
+  {
+    "id": "6164ed18e4e8",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ramos Lara Mario Y. received 21 shares of Columbus Mckinnon Corp (CMCO) \u00b7 Aug 19 ($0 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "CMCO"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1747575/000162828026058081/0001628280-26-058081-index.htm",
+    "published_iso": "2026-08-19T22:26:31+00:00",
+    "time_ago": "7m ago"
+  },
+  {
+    "id": "85b5dbfbb88b",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Kupinsky Stuart sold 1,195 shares of Mercury Systems Inc (MRCY) \u00b7 $109.95/share \u00b7 $131,391 total \u00b7 Aug 19 ($262,571 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "MRCY"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1289593/000104952126000052/0001049521-26-000052-index.htm",
+    "published_iso": "2026-08-19T22:26:24+00:00",
+    "time_ago": "7m ago"
+  },
+  {
+    "id": "f5aba924f34a",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Wilson David J. received 171 shares of Columbus Mckinnon Corp (CMCO) \u00b7 Aug 19 ($0 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "CMCO"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1629079/000162828026058080/0001628280-26-058080-index.htm",
+    "published_iso": "2026-08-19T22:26:23+00:00",
+    "time_ago": "7m ago"
+  },
+  {
+    "id": "703cd768e80d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Fitzpatrick Thomas sold 209,233 shares of Iridium Communications Inc. (IRDM) \u00b7 $50.22/share \u00b7 $10,507,681 total \u00b7 Aug 19 ($11,247,944 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "IRDM"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1418819/000112329226001145/0001123292-26-001145-index.htm",
+    "published_iso": "2026-08-19T22:26:19+00:00",
+    "time_ago": "7m ago"
   },
   {
     "id": "d0c7e0959feb",
@@ -132,7 +237,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/president-trumps-trade-agenda-is-rebuilding-the-american-auto-industry/",
     "published_iso": "2026-08-19T21:42:19+00:00",
-    "time_ago": "18m ago"
+    "time_ago": "51m ago"
   },
   {
     "id": "42e233e66ded",
@@ -161,7 +266,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SenLummis/status/2090192079137698063#m",
     "published_iso": "2026-08-19T21:40:00+00:00",
-    "time_ago": "20m ago"
+    "time_ago": "53m ago"
   },
   {
     "id": "f125c9d350b0",
@@ -182,60 +287,6 @@
     "platform": "The Hill",
     "url": "https://thehill.com/business/6039874-us-national-debt-crosses-40-trillion/",
     "published_iso": "2026-08-19T21:23:28+00:00",
-    "time_ago": "37m ago"
-  },
-  {
-    "id": "5d0ba014c276",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "UAE cuts off trade with Iran after missiles land in water. The United Arab Emirates (UAE) announced Tuesday it is cutting off trade with Iran after accusing it of firing two missiles toward the UAE. Afra Al Hameli, director of the UAE's Ministry of Foreign Affairs Strategic Communications Department, stated that \u201cin th",
-    "tags": [
-      "Trade",
-      "Taxes",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/defense/6039738-uae-halts-iran-trade/",
-    "published_iso": "2026-08-19T20:38:57+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "fd06a30ef57c",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Trump plays down bond market fears, pushes interest rate cuts. President Trump downplayed concerns around the bond market and called for lower interest rates during a meeting with cryptocurrency executives at the White House on Wednesday.\u00a0 \u201cNo, I don\u2019t think so,\u201d Trump told reporters, in response to a question about wh",
-    "tags": [
-      "Crypto",
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6039728-trump-calls-lower-rates-bond-market/",
-    "published_iso": "2026-08-19T20:25:44+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -265,7 +316,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/RoKhanna/status/2090167952523809060#m",
     "published_iso": "2026-08-19T20:04:07+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "306d3c437a72",
@@ -285,32 +336,6 @@
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
     "published_iso": "2026-08-19T18:00:00+00:00",
     "time_ago": "4h ago"
-  },
-  {
-    "id": "abd8f5304ec9",
-    "politician": "Rep. Mike Johnson",
-    "initials": "MJ",
-    "role": "Speaker of the House",
-    "color": {
-      "bg": "#2a1a1a",
-      "fg": "#fbbf24"
-    },
-    "severity": "medium",
-    "content": "Great news for the American people!  \n \nThanks to Republicans and  @POTUS , prescription drug prices are DROPPING significantly, making necessary medications AFFORDABLE. \n \nTHIS is what it looks like to deliver real results, and we're just getting started. \n \n \n The White House (@WhiteHouse) \n \n Thanks to the Trump Adm",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "LLY",
-      "PFE",
-      "JNJ",
-      "MRK"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/SpeakerJohnson/status/2090111386202353788#m",
-    "published_iso": "2026-08-19T16:19:21+00:00",
-    "time_ago": "5h ago"
   },
   {
     "id": "2e882b34e4d7",
