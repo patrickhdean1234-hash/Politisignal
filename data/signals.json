@@ -1,48 +1,6 @@
 [
   {
-    "id": "4707ae56627e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Zollinger John J. Iv exercised options for 750 shares of Home Bancorp, Inc. (HBCP) \u00b7 $35.26/share \u00b7 $26,445 total \u00b7 Aug 19 ($80,205 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "HBCP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2031205/000143642526000074/0001436425-26-000074-index.htm",
-    "published_iso": "2026-08-19T13:47:57+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "3cb071bd58c0",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Doane Thomas bought 1,726 shares of Avidia Bancorp, Inc. (AVBC) \u00b7 $22.31/share \u00b7 $38,507 total \u00b7 Aug 19",
-    "tags": [],
-    "tickers": [
-      "AVBC"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2076473/000143774926028474/0001437749-26-028474-index.htm",
-    "published_iso": "2026-08-19T13:44:52+00:00",
-    "time_ago": "5m ago"
-  },
-  {
-    "id": "a65f22cb75ca",
+    "id": "95efd6a4bd66",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -51,16 +9,60 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Lavie Zmira exercised options for 908 shares of Vicor Corp (VICR) \u00b7 $44.07/share \u00b7 $40,016 total \u00b7 Aug 19 ($267,016 across all blocks)",
-    "tags": [],
+    "content": "Gorski Daniel E disposed of 7,213,090 shares of Dytb, Llc (TMRC) \u00b7 Aug 19",
+    "tags": [
+      "Insider Trade"
+    ],
     "tickers": [
-      "VICR"
+      "TMRC"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1939016/000119312526356258/0001193125-26-356258-index.htm",
-    "published_iso": "2026-08-19T13:42:26+00:00",
-    "time_ago": "8m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1445942/000199937126018185/0001999371-26-018185-index.htm",
+    "published_iso": "2026-08-19T14:18:37+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "87098c3d2ace",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Campbell Renee L exercised options for 838 shares of Valmont Industries Inc (VMI) \u00b7 $252.89/share \u00b7 $211,922 total \u00b7 Aug 19 ($513,534 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "VMI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1915814/000191581426000008/0001915814-26-000008-index.htm",
+    "published_iso": "2026-08-19T14:12:31+00:00",
+    "time_ago": "7m ago"
+  },
+  {
+    "id": "f698a75d1ea7",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Taylor John R. sold 1,217 shares of M&T Bank Corp (MTB-PH) \u00b7 $253.84/share \u00b7 $308,923 total \u00b7 Aug 19",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1984138/000162828026057857/0001628280-26-057857-index.htm",
+    "published_iso": "2026-08-19T14:07:12+00:00",
+    "time_ago": "12m ago"
   },
   {
     "id": "e86a486f2d27",
@@ -81,29 +83,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/campaign/6037568-sabatos-crystal-ball-shifts-florida-senate-gop/",
     "published_iso": "2026-08-19T13:28:02+00:00",
-    "time_ago": "22m ago"
-  },
-  {
-    "id": "008e92bb4443",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Live updates: Trump delays new tariffs on Canada amid talks; Florida, Wyoming primaries yield upsets. President Trump announced late Tuesday he would pause the 50 percent tariffs on many Canadian goods for three days, saying the U.S. and Canada are finalizing a deal. The tariffs were expected to go into effect at midni",
-    "tags": [
-      "Trade",
-      "Crypto"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6037487-live-updates-trump-crypto-canada-tariffs-primary-elections/",
-    "published_iso": "2026-08-19T12:54:58+00:00",
-    "time_ago": "55m ago"
+    "time_ago": "51m ago"
   },
   {
     "id": "2e882b34e4d7",
@@ -125,7 +105,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16942/food-additives-permitted-in-feed-and-drinking-water-of-animals-chromium-dl-methionine-chelate",
     "published_iso": "2026-08-19T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "027cdf22b7c2",
@@ -147,7 +127,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16888/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures",
     "published_iso": "2026-08-19T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "3329271a21a2",
@@ -168,7 +148,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16870/atlantic-highly-migratory-species-north-atlantic-swordfish-south-atlantic-swordfish-north-atlantic",
     "published_iso": "2026-08-19T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "f436afccee25",
@@ -192,7 +172,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/august/road-iowa-america-first-trade-raising-wages-reshoring-jobs-and-restoring-americas-global",
     "published_iso": "2026-08-18T15:02:03+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "c4d06e2807a8",
@@ -374,7 +354,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-largest-prescription-drug-price-drop-in-over-60-years/",
     "published_iso": "2026-08-17T14:03:07+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "8526121bbd8b",
@@ -734,7 +714,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/AOC/status/2085006319220625569#m",
     "published_iso": "2026-08-05T14:13:38+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "63e88990093a",
@@ -839,7 +819,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
     "published_iso": "2026-07-31T14:00:00+00:00",
-    "time_ago": "18d ago"
+    "time_ago": "19d ago"
   },
   {
     "id": "ce52161a0822",
@@ -866,7 +846,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
     "published_iso": "2026-07-31T14:00:00+00:00",
-    "time_ago": "18d ago"
+    "time_ago": "19d ago"
   },
   {
     "id": "8c663930da07",
@@ -1111,7 +1091,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "105d ago"
+    "time_ago": "106d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1157,7 +1137,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "141d ago"
+    "time_ago": "142d ago"
   },
   {
     "id": "432e035b915b",
@@ -1216,7 +1196,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "186d ago"
+    "time_ago": "187d ago"
   },
   {
     "id": "c3776ad92a42",
