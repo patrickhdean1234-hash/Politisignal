@@ -1,6 +1,6 @@
 [
   {
-    "id": "679093fd6114",
+    "id": "4707ae56627e",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -8,20 +8,41 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "low",
-    "content": "Japan Post Holdings Co., Ltd. sold 12,690 shares of Aflac Inc (AFL) \u00b7 $121.26/share \u00b7 $1,538,789 total \u00b7 Aug 19 ($1,686,543 across all blocks)",
+    "severity": "critical",
+    "content": "Zollinger John J. Iv exercised options for 750 shares of Home Bancorp, Inc. (HBCP) \u00b7 $35.26/share \u00b7 $26,445 total \u00b7 Aug 19 ($80,205 across all blocks)",
     "tags": [],
     "tickers": [
-      "AFL"
+      "HBCP"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1783464/000110465926098602/0001104659-26-098602-index.htm",
-    "published_iso": "2026-08-19T13:00:12+00:00",
-    "time_ago": "just now"
+    "url": "https://www.sec.gov/Archives/edgar/data/2031205/000143642526000074/0001436425-26-000074-index.htm",
+    "published_iso": "2026-08-19T13:47:57+00:00",
+    "time_ago": "2m ago"
   },
   {
-    "id": "314069e9a386",
+    "id": "3cb071bd58c0",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Doane Thomas bought 1,726 shares of Avidia Bancorp, Inc. (AVBC) \u00b7 $22.31/share \u00b7 $38,507 total \u00b7 Aug 19",
+    "tags": [],
+    "tickers": [
+      "AVBC"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2076473/000143774926028474/0001437749-26-028474-index.htm",
+    "published_iso": "2026-08-19T13:44:52+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "a65f22cb75ca",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,19 +51,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Ng Yah Ling bought 469,987 shares of Cch Holdings Ltd (CCHH) \u00b7 $0.28/share \u00b7 $129,716 total \u00b7 Aug 19",
+    "content": "Lavie Zmira exercised options for 908 shares of Vicor Corp (VICR) \u00b7 $44.07/share \u00b7 $40,016 total \u00b7 Aug 19 ($267,016 across all blocks)",
     "tags": [],
     "tickers": [
-      "CCHH"
+      "VICR"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2126401/000121390026091430/0001213900-26-091430-index.htm",
-    "published_iso": "2026-08-19T12:41:51+00:00",
-    "time_ago": "19m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1939016/000119312526356258/0001193125-26-356258-index.htm",
+    "published_iso": "2026-08-19T13:42:26+00:00",
+    "time_ago": "8m ago"
   },
   {
-    "id": "a1d8f20620c5",
+    "id": "e86a486f2d27",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -51,17 +72,38 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "ICC rips latest US sanctions on senior staff: 'Flagrant attack'. The International Criminal Court (ICC) on Wednesday slammed the U.S. over sanctions targeting senior staff, vowing to continue to seek out justice after what they described as a \"flagrant attack\" on the global tribunal's independence. The sanctions were m",
+    "content": "Sabato Crystal Ball moves Florida Senate race to safely Republican after Nixon win. Election handicapper Sabato\u2019s Crystal Ball shifted the Florida Senate race in favor of Republicans following an unexpected Tuesday win for a democratic socialist in the primary.\u00a0 State Rep. Angie Nixon (D-Fla.) won the Democratic nomina",
     "tags": [
-      "Regulation",
-      "Sanctions"
+      "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/international/6037443-international-criminal-court-responds-state-department-sanctions/",
-    "published_iso": "2026-08-19T12:07:01+00:00",
-    "time_ago": "53m ago"
+    "url": "https://thehill.com/homenews/campaign/6037568-sabatos-crystal-ball-shifts-florida-senate-gop/",
+    "published_iso": "2026-08-19T13:28:02+00:00",
+    "time_ago": "22m ago"
+  },
+  {
+    "id": "008e92bb4443",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Live updates: Trump delays new tariffs on Canada amid talks; Florida, Wyoming primaries yield upsets. President Trump announced late Tuesday he would pause the 50 percent tariffs on many Canadian goods for three days, saying the U.S. and Canada are finalizing a deal. The tariffs were expected to go into effect at midni",
+    "tags": [
+      "Trade",
+      "Crypto"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6037487-live-updates-trump-crypto-canada-tariffs-primary-elections/",
+    "published_iso": "2026-08-19T12:54:58+00:00",
+    "time_ago": "55m ago"
   },
   {
     "id": "2e882b34e4d7",
@@ -150,7 +192,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/august/road-iowa-america-first-trade-raising-wages-reshoring-jobs-and-restoring-americas-global",
     "published_iso": "2026-08-18T15:02:03+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "c4d06e2807a8",
@@ -358,7 +400,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/08/first-lady-melania-trumps-efforts-prove-successful-in-ukraine-russia/",
     "published_iso": "2026-08-17T13:02:21+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "2d51fd646921",
@@ -414,30 +456,27 @@
     "time_ago": "2d ago"
   },
   {
-    "id": "98f6a2efd268",
-    "politician": "Sen. Bernie Sanders",
-    "initials": "BS",
-    "role": "Senate HELP Committee",
+    "id": "2a6bbe98ec06",
+    "politician": "Rep. Patrick McHenry",
+    "initials": "PM",
+    "role": "House Financial Services Committee",
     "color": {
-      "bg": "#1e2a4a",
-      "fg": "#818cf8"
+      "bg": "#2d1e5f",
+      "fg": "#c084fc"
     },
     "severity": "medium",
-    "content": "Our current healthcare system is broken. \n \nProgressives understand healthcare must be a human right, guaranteed to all, not a source of billions in profits for insurance and drug companies. \n \nA recent poll showed 64% of Americans want Medicare for All. They\u2019re right. Let\u2019s do it. \n \n Video",
+    "content": "Rapid Response 47 (@RapidResponse47) \n \n MADE IN AMERICA: Apple opens Advanced Manufacturing Center in Houston  apple.com/newsroom/2026/08/a\u2026  \n \n Link  \n \n \n \n Apple opens Advanced Manufacturing Center in Houston \n \n Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational ",
     "tags": [
-      "Healthcare",
-      "Regulation"
+      "Big Tech"
     ],
     "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
+      "AAPL"
     ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "https://nitter.net/BernieSanders/status/2089029771128705500#m",
-    "published_iso": "2026-08-16T16:41:24+00:00",
-    "time_ago": "2d ago"
+    "url": "https://nitter.net/PatrickMcHenry/status/2088054962039185506#m",
+    "published_iso": "2026-08-14T00:07:51+00:00",
+    "time_ago": "5d ago"
   },
   {
     "id": "2a198b63364d",
