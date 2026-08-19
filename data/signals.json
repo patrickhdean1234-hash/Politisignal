@@ -1,6 +1,27 @@
 [
   {
-    "id": "1802c36529dc",
+    "id": "679093fd6114",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "low",
+    "content": "Japan Post Holdings Co., Ltd. sold 12,690 shares of Aflac Inc (AFL) \u00b7 $121.26/share \u00b7 $1,538,789 total \u00b7 Aug 19 ($1,686,543 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "AFL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1783464/000110465926098602/0001104659-26-098602-index.htm",
+    "published_iso": "2026-08-19T13:00:12+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "314069e9a386",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,61 +30,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Goh Kok E bought 5,220,000 shares of Cch Holdings Ltd (CCHH) \u00b7 $0.28/share \u00b7 $1,440,720 total \u00b7 Aug 19 ($2,785,530 across all blocks)",
+    "content": "Ng Yah Ling bought 469,987 shares of Cch Holdings Ltd (CCHH) \u00b7 $0.28/share \u00b7 $129,716 total \u00b7 Aug 19",
     "tags": [],
     "tickers": [
       "CCHH"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2123450/000121390026091415/0001213900-26-091415-index.htm",
-    "published_iso": "2026-08-19T11:48:00+00:00",
-    "time_ago": "12m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2126401/000121390026091430/0001213900-26-091430-index.htm",
+    "published_iso": "2026-08-19T12:41:51+00:00",
+    "time_ago": "19m ago"
   },
   {
-    "id": "908cb0f1b8f8",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Opaleye Management Inc. bought 11,608 shares of Grace Therapeutics, Inc. (GRCE) \u00b7 $2.09/share \u00b7 $24,206 total \u00b7 Aug 19",
-    "tags": [],
-    "tickers": [
-      "GRCE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1595855/000149315226039124/0001493152-26-039124-index.htm",
-    "published_iso": "2026-08-19T11:44:39+00:00",
-    "time_ago": "15m ago"
-  },
-  {
-    "id": "1a73c0d073bc",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Pariaros Symeon sold 2,700 shares of Eurodry Ltd. (EDRY) \u00b7 $42.00/share \u00b7 $113,400 total \u00b7 Aug 19",
-    "tags": [],
-    "tickers": [
-      "EDRY"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2122342/000212234226000006/0002122342-26-000006-index.htm",
-    "published_iso": "2026-08-19T11:39:11+00:00",
-    "time_ago": "21m ago"
-  },
-  {
-    "id": "8cfef2fe05b5",
+    "id": "a1d8f20620c5",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -72,121 +51,82 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Trump takes double blow in Florida, third in Wyoming. In today's issue: \u25aa Tough night for Trump's candidates \u25aa Canada tariffs paused \u25aa ABC sues FCC over free speech \u25aa Ebola deaths hit record in Congo President Trump suffered a pair of losses in Florida\u2019s primaries and another in Wyoming on Tuesday as three of his endor",
+    "content": "ICC rips latest US sanctions on senior staff: 'Flagrant attack'. The International Criminal Court (ICC) on Wednesday slammed the U.S. over sanctions targeting senior staff, vowing to continue to seek out justice after what they described as a \"flagrant attack\" on the global tribunal's independence. The sanctions were m",
     "tags": [
-      "Trade"
+      "Regulation",
+      "Sanctions"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/morning-report/6037407-donald-trump-florida-wyoming-primary-candidate-losses/",
-    "published_iso": "2026-08-19T11:15:00+00:00",
-    "time_ago": "45m ago"
+    "url": "https://thehill.com/policy/international/6037443-international-criminal-court-responds-state-department-sanctions/",
+    "published_iso": "2026-08-19T12:07:01+00:00",
+    "time_ago": "53m ago"
   },
   {
-    "id": "2b12eab5b047",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "2e882b34e4d7",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
     },
     "severity": "medium",
-    "content": "Urvan Steven F. received 15,000 shares of Outdoor Holding Co (POWWP) \u00b7 Aug 19 ($9,964 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "POWWP"
+    "content": "Food Additives Permitted in Feed and Drinking Water of Animals; Chromium DL-methionine Chelate. The Food and Drug Administration (FDA, we, or the Agency) is amending the regulations for food additives permitted in feed and drinking water of animals to provide for the safe use of chromium DL- methionine chelate as a nut",
+    "tags": [
+      "Healthcare",
+      "Regulation"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1859485/000119312526356132/0001193125-26-356132-index.htm",
-    "published_iso": "2026-08-19T11:14:24+00:00",
-    "time_ago": "45m ago"
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16942/food-additives-permitted-in-feed-and-drinking-water-of-animals-chromium-dl-methionine-chelate",
+    "published_iso": "2026-08-19T04:00:00+00:00",
+    "time_ago": "9h ago"
   },
   {
-    "id": "67c2e842d0bd",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "027cdf22b7c2",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
     },
     "severity": "medium",
-    "content": "Christensen Jordan received 45,000 shares of Outdoor Holding Co (POWWP) \u00b7 $2.24/share \u00b7 $100,800 total \u00b7 Aug 19 ($128,972 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "POWWP"
+    "content": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments. This rule amends, suspends, or removes Standard Instrument Approach Procedures (SIAPs) and associated Takeoff Minimums and Obstacle Departure Procedures for operations at certain airports. These re",
+    "tags": [
+      "Regulation",
+      "Taxes"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2088710/000119312526356109/0001193125-26-356109-index.htm",
-    "published_iso": "2026-08-19T10:49:04+00:00",
-    "time_ago": "1h ago"
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16888/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures",
+    "published_iso": "2026-08-19T04:00:00+00:00",
+    "time_ago": "9h ago"
   },
   {
-    "id": "410354678cbf",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "3329271a21a2",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
     },
-    "severity": "medium",
-    "content": "Beastrom Timothy received 4,509 shares of James Hardie Industries Plc (JHIUF) \u00b7 Aug 19 ($41,993 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "JHIUF"
+    "severity": "high",
+    "content": "Atlantic Highly Migratory Species; North Atlantic Swordfish, South Atlantic Swordfish, North Atlantic Albacore, and Atlantic Bluefin Tuna Quotas. In this final rule, NMFS is implementing binding recommendations of the International Commission for the Conservation of Atlantic Tunas (ICCAT) on quotas for North Atlantic s",
+    "tags": [
+      "Regulation"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2114288/000162828026057830/0001628280-26-057830-index.htm",
-    "published_iso": "2026-08-19T10:43:12+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "69d6cac32b2c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Erter Aaron M received 59,972 shares of James Hardie Industries Plc (JHIUF) \u00b7 Aug 19 ($767,353 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "JHIUF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1713958/000162828026057828/0001628280-26-057828-index.htm",
-    "published_iso": "2026-08-19T10:42:19+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "a3601b541556",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Walker Wayne Remell received 15,000 shares of Outdoor Holding Co (POWWP) \u00b7 Aug 19",
-    "tags": [],
-    "tickers": [
-      "POWWP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1428761/000119312526356101/0001193125-26-356101-index.htm",
-    "published_iso": "2026-08-19T10:42:03+00:00",
-    "time_ago": "1h ago"
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16870/atlantic-highly-migratory-species-north-atlantic-swordfish-south-atlantic-swordfish-north-atlantic",
+    "published_iso": "2026-08-19T04:00:00+00:00",
+    "time_ago": "9h ago"
   },
   {
     "id": "f436afccee25",
@@ -210,7 +150,90 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/august/road-iowa-america-first-trade-raising-wages-reshoring-jobs-and-restoring-americas-global",
     "published_iso": "2026-08-18T15:02:03+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
+  },
+  {
+    "id": "c4d06e2807a8",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "critical",
+    "content": "Establishing the National Fraud Enforcement Division. This rule amends Part 0 of the Department of Justice's (&quot;Department&quot;) organizational regulations in title 28 of the Code of Federal Regulations to establish the National Fraud Enforcement Division (&quot;Fraud Division&quot;) and set forth its authorities",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16846/establishing-the-national-fraud-enforcement-division",
+    "published_iso": "2026-08-18T04:00:00+00:00",
+    "time_ago": "1d ago"
+  },
+  {
+    "id": "f5165b61dda6",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Changes to Delegations. In this final rule, the Board is revising its regulations to clarify certain existing delegations of authority and create certain new delegations for the Board's Chief Counsel and Chief of Passenger Rail and Investigations (COPRI). The Board is also creating a new regulation that codifies and ex",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16828/changes-to-delegations",
+    "published_iso": "2026-08-18T04:00:00+00:00",
+    "time_ago": "1d ago"
+  },
+  {
+    "id": "ad702c337ad2",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Safety Zone; Lake Michigan, Gary, IN. The Coast Guard is establishing a temporary safety zone for navigable waters on Lake Michigan in Gary, IN. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with an over water air show, drone display, and fireworks",
+    "tags": [],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16807/safety-zone-lake-michigan-gary-in",
+    "published_iso": "2026-08-18T04:00:00+00:00",
+    "time_ago": "1d ago"
+  },
+  {
+    "id": "38759d929138",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Safety Zone; ANCHOR Floating Production Unit (FPU) Outer Continental Shelf Facility, Green Canyon Block 763, Gulf of America. The Coast Guard is establishing a safety zone around the ANCHOR Floating Production Unit (FPU), located in Green Canyon Block 763 on the Outer Continental Shelf (OCS) in the Gulf of America. Est",
+    "tags": [
+      "Energy",
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16806/safety-zone-anchor-floating-production-unit-fpu-outer-continental-shelf-facility-green-canyon-block",
+    "published_iso": "2026-08-18T04:00:00+00:00",
+    "time_ago": "1d ago"
   },
   {
     "id": "a4ed7f371a2b",
@@ -415,29 +438,6 @@
     "url": "https://nitter.net/BernieSanders/status/2089029771128705500#m",
     "published_iso": "2026-08-16T16:41:24+00:00",
     "time_ago": "2d ago"
-  },
-  {
-    "id": "2a6bbe98ec06",
-    "politician": "Rep. Patrick McHenry",
-    "initials": "PM",
-    "role": "House Financial Services Committee",
-    "color": {
-      "bg": "#2d1e5f",
-      "fg": "#c084fc"
-    },
-    "severity": "medium",
-    "content": "Rapid Response 47 (@RapidResponse47) \n \n MADE IN AMERICA: Apple opens Advanced Manufacturing Center in Houston  apple.com/newsroom/2026/08/a\u2026  \n \n Link  \n \n \n \n Apple opens Advanced Manufacturing Center in Houston \n \n Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational ",
-    "tags": [
-      "Big Tech"
-    ],
-    "tickers": [
-      "AAPL"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/PatrickMcHenry/status/2088054962039185506#m",
-    "published_iso": "2026-08-14T00:07:51+00:00",
-    "time_ago": "5d ago"
   },
   {
     "id": "2a198b63364d",
@@ -981,7 +981,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "27d ago"
+    "time_ago": "28d ago"
   },
   {
     "id": "555d7f3dd315",
