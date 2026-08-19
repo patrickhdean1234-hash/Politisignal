@@ -1,5 +1,87 @@
 [
   {
+    "id": "9bae77fc55f5",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Matthews William E V sold 4,000 shares of Southstate Bank Corp (SSB) \u00b7 $108.93/share \u00b7 $435,720 total \u00b7 Aug 19",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "SSB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1190221/000119022126000004/0001190221-26-000004-index.htm",
+    "published_iso": "2026-08-19T18:23:57+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "1d03d1d5634c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Malady Kyle sold 1,100 shares of Verizon Communications Inc (VZ) \u00b7 $48.68/share \u00b7 $53,548 total \u00b7 Aug 19",
+    "tags": [],
+    "tickers": [
+      "VZ"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1760581/000176058126000044/0001760581-26-000044-index.htm",
+    "published_iso": "2026-08-19T18:23:18+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "b5105487b27e",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Alfred Michael bought 296,567 shares of Bakkt, Inc. (BKKT-WT) \u00b7 $7.12/share \u00b7 $2,111,557 total \u00b7 Aug 19",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1820302/000162828026057900/0001628280-26-057900-index.htm",
+    "published_iso": "2026-08-19T18:22:08+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "306d3c437a72",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "Minutes of the Federal Open Market Committee, July 28\u201329, 2026. Minutes of the Federal Open Market Committee, July 28\u201329, 2026",
+    "tags": [],
+    "tickers": [],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
+    "published_iso": "2026-08-19T18:00:00+00:00",
+    "time_ago": "24m ago"
+  },
+  {
     "id": "abd8f5304ec9",
     "politician": "Rep. Mike Johnson",
     "initials": "MJ",
@@ -23,7 +105,7 @@
     "platform": "Twitter/X",
     "url": "https://nitter.net/SpeakerJohnson/status/2090111386202353788#m",
     "published_iso": "2026-08-19T16:19:21+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "2e882b34e4d7",
@@ -45,7 +127,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16942/food-additives-permitted-in-feed-and-drinking-water-of-animals-chromium-dl-methionine-chelate",
     "published_iso": "2026-08-19T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "027cdf22b7c2",
@@ -67,7 +149,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16888/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures",
     "published_iso": "2026-08-19T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "3329271a21a2",
@@ -88,7 +170,34 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16870/atlantic-highly-migratory-species-north-atlantic-swordfish-south-atlantic-swordfish-north-atlantic",
     "published_iso": "2026-08-19T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
+  },
+  {
+    "id": "4f900a1f8bdd",
+    "politician": "Rep. Patrick McHenry",
+    "initials": "PM",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#2d1e5f",
+      "fg": "#c084fc"
+    },
+    "severity": "high",
+    "content": "This is a huge step forward for the crypto industry \u2014 one that provides a new path for builders of blockchain tech to raise capital and operate transparently.  \n \nThe window for Congress to influence crypto regulation is closing.  \n \nPass CLARITY or abdicate. \n \n \n Paul Atkins (@SECPaulSAtkins) \n \n With our new proposa",
+    "tags": [
+      "Crypto",
+      "Energy",
+      "Regulation"
+    ],
+    "tickers": [
+      "BTC",
+      "ETH",
+      "COIN"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/milesjennings/status/2089809798824853632#m",
+    "published_iso": "2026-08-18T20:20:57+00:00",
+    "time_ago": "22h ago"
   },
   {
     "id": "f436afccee25",
@@ -294,6 +403,32 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/08/first-lady-melania-trumps-efforts-prove-successful-in-ukraine-russia/",
     "published_iso": "2026-08-17T13:02:21+00:00",
+    "time_ago": "2d ago"
+  },
+  {
+    "id": "2d51fd646921",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "medium",
+    "content": "No government agency wields as much power as the Fed. It\u2019s time for a full audit of the Federal Reserve.",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/RandPaul/status/2089061739501351028#m",
+    "published_iso": "2026-08-16T18:48:26+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -508,7 +643,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s226?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-07T18:14:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "15c78cc7f8dd",
@@ -683,33 +818,6 @@
     "time_ago": "14d ago"
   },
   {
-    "id": "75401d5d3d31",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"\u2014bank executives, board members and major shareholders who could potentially influence a bank's lending decisions. Federal Reserve Board requests comment on a proposal to modernize its rule gov",
-    "tags": [
-      "Banking",
-      "Regulation"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
-    "published_iso": "2026-07-31T14:00:00+00:00",
-    "time_ago": "19d ago"
-  },
-  {
     "id": "ce52161a0822",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -737,6 +845,33 @@
     "time_ago": "19d ago"
   },
   {
+    "id": "75401d5d3d31",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"\u2014bank executives, board members and major shareholders who could potentially influence a bank's lending decisions. Federal Reserve Board requests comment on a proposal to modernize its rule gov",
+    "tags": [
+      "Banking",
+      "Regulation"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
+    "published_iso": "2026-07-31T14:00:00+00:00",
+    "time_ago": "19d ago"
+  },
+  {
     "id": "8c663930da07",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -759,33 +894,6 @@
     "source": "fed_reserve",
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
-    "published_iso": "2026-07-30T15:00:00+00:00",
-    "time_ago": "20d ago"
-  },
-  {
-    "id": "d1faa9166adb",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank. Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
-    "tags": [
-      "Banking",
-      "Taxes"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
     "published_iso": "2026-07-30T15:00:00+00:00",
     "time_ago": "20d ago"
   },
