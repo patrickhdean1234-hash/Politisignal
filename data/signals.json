@@ -1,6 +1,6 @@
 [
   {
-    "id": "b9c33c331aae",
+    "id": "aca3790e2aa8",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,22 +9,22 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Wirth James F acquired/disposed 1,829,268 shares of Innsuites Hospitality Trust (IHT) \u00b7 $3,000,000.00/share \u00b7 $5,487,804,000,000 total \u00b7 Aug 20",
+    "content": "Yuan Lipen bought 1,000 shares of Taiwan Semiconductor Manufacturing Co Ltd (TSMWF) \u00b7 $74.50/share \u00b7 $74,500 total \u00b7 Aug 20 ($174,023 across all blocks)",
     "tags": [
-      "Healthcare",
-      "Insider Trade"
+      "Semiconductors"
     ],
     "tickers": [
-      "IHT"
+      "TSMWF",
+      "TSM"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1055365/000149315226039359/0001493152-26-039359-index.htm",
-    "published_iso": "2026-08-20T10:57:01+00:00",
-    "time_ago": "16m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2114024/000104617926000543/0001046179-26-000543-index.htm",
+    "published_iso": "2026-08-20T11:41:41+00:00",
+    "time_ago": "1m ago"
   },
   {
-    "id": "00d3a48b83c3",
+    "id": "ecad6659f3a9",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -33,16 +33,100 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Jackson Jeremy Peter sold 2,112 shares of Flutter Entertainment Plc (FLUT) \u00b7 $93.32/share \u00b7 $197,085 total \u00b7 Aug 20",
+    "content": "Hollar Jason M. sold 21,407 shares of Cardinal Health Inc (CAH) \u00b7 $234.56/share \u00b7 $5,021,226 total \u00b7 Aug 20 ($29,375,516 across all blocks)",
     "tags": [],
     "tickers": [
-      "FLUT"
+      "CAH"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2012791/000201279126000013/0002012791-26-000013-index.htm",
-    "published_iso": "2026-08-20T10:55:14+00:00",
-    "time_ago": "18m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1687858/000168785826000003/0001687858-26-000003-index.htm",
+    "published_iso": "2026-08-20T11:33:33+00:00",
+    "time_ago": "10m ago"
+  },
+  {
+    "id": "1e6cb3e152d6",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Mason Stephen M sold 3,100 shares of Cardinal Health Inc (CAH) \u00b7 $234.59/share \u00b7 $727,229 total \u00b7 Aug 20 ($8,274,117 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "CAH"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1786065/000178606526000003/0001786065-26-000003-index.htm",
+    "published_iso": "2026-08-20T11:30:36+00:00",
+    "time_ago": "12m ago"
+  },
+  {
+    "id": "0454ba66dc62",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Weitzman Deborah sold 6,665 shares of Cardinal Health Inc (CAH) \u00b7 $235.30/share \u00b7 $1,568,274 total \u00b7 Aug 20 ($1,731,524 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "CAH"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1942639/000194263926000003/0001942639-26-000003-index.htm",
+    "published_iso": "2026-08-20T11:30:12+00:00",
+    "time_ago": "13m ago"
+  },
+  {
+    "id": "ed2739b2165f",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Will Democrats abandon Florida after Nixon win?. In today's issue: \u25aa Democrats face uphill fight in Florida \u25aa Cassidy shares doubts on FDA nominee \u25aa Trump downplays bond market concerns \u25aa Melanoma mRNA vaccine trial success Florida Democrats are warning national party members not to abandon the state in November after ",
+    "tags": [],
+    "tickers": [
+      "GLD",
+      "TLT",
+      "SPY"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/morning-report/6040484-democrats-uphill-battle-florida-angie-nixon-win/",
+    "published_iso": "2026-08-20T11:13:13+00:00",
+    "time_ago": "30m ago"
+  },
+  {
+    "id": "9c444f2d9346",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Pennsylvania State Police helicopter violently collides with plane, pilot dead: FAA. Two people were aboard the PSP aircraft when it collided with a Cessna 150 around 6:50 p.m., a Federal Aviation Administration spokesperson said in a statement",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/state-watch/6040336-pennsylvania-state-police-helicopter-violently-collides-with-plane-pilot-dead-faa/",
+    "published_iso": "2026-08-20T11:00:37+00:00",
+    "time_ago": "42m ago"
   },
   {
     "id": "f92a9823d079",
@@ -62,29 +146,6 @@
     "source": "thehill",
     "platform": "The Hill",
     "url": "https://thehill.com/policy/defense/6040175-army-rotc-academic-standards-memo-debate/",
-    "published_iso": "2026-08-20T10:00:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "f17a00d38470",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Bond markets rattle economy, forcing controversial buyback \u2018Band-Aid\u2019. The U.S. bond market is raising alarm bells for the economy, forcing the Trump administration to take emergency measures to ease the immediate impact on American pocketbooks.  Long-term borrowing costs hit their highest levels across the world on Tu",
-    "tags": [],
-    "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/6040178-bond-market-yields-trump-emergency/",
     "published_iso": "2026-08-20T10:00:00+00:00",
     "time_ago": "1h ago"
   },
@@ -297,7 +358,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/president-trumps-trade-agenda-is-rebuilding-the-american-auto-industry/",
     "published_iso": "2026-08-19T21:42:19+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "306d3c437a72",
@@ -317,6 +378,33 @@
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
     "published_iso": "2026-08-19T18:00:00+00:00",
     "time_ago": "17h ago"
+  },
+  {
+    "id": "4f900a1f8bdd",
+    "politician": "Rep. Patrick McHenry",
+    "initials": "PM",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#2d1e5f",
+      "fg": "#c084fc"
+    },
+    "severity": "high",
+    "content": "This is a huge step forward for the crypto industry \u2014 one that provides a new path for builders of blockchain tech to raise capital and operate transparently.  \n \nThe window for Congress to influence crypto regulation is closing.  \n \nPass CLARITY or abdicate. \n \n \n Paul Atkins (@SECPaulSAtkins) \n \n With our new proposa",
+    "tags": [
+      "Crypto",
+      "Energy",
+      "Regulation"
+    ],
+    "tickers": [
+      "BTC",
+      "ETH",
+      "COIN"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/milesjennings/status/2089809798824853632#m",
+    "published_iso": "2026-08-18T20:20:57+00:00",
+    "time_ago": "1d ago"
   },
   {
     "id": "f436afccee25",
