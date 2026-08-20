@@ -1,6 +1,6 @@
 [
   {
-    "id": "0963b391cdf6",
+    "id": "b9c33c331aae",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,16 +9,40 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Victorio-Aquino Marilyn Azaula sold 2,520 shares of Pldt Inc. (PHTCF) \u00b7 $19.01/share \u00b7 $47,905 total \u00b7 Aug 20 ($242,402 across all blocks)",
-    "tags": [],
+    "content": "Wirth James F acquired/disposed 1,829,268 shares of Innsuites Hospitality Trust (IHT) \u00b7 $3,000,000.00/share \u00b7 $5,487,804,000,000 total \u00b7 Aug 20",
+    "tags": [
+      "Healthcare",
+      "Insider Trade"
+    ],
     "tickers": [
-      "PHTCF"
+      "IHT"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2118721/000119312526357691/0001193125-26-357691-index.htm",
-    "published_iso": "2026-08-20T10:03:42+00:00",
-    "time_ago": "45m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1055365/000149315226039359/0001493152-26-039359-index.htm",
+    "published_iso": "2026-08-20T10:57:01+00:00",
+    "time_ago": "16m ago"
+  },
+  {
+    "id": "00d3a48b83c3",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Jackson Jeremy Peter sold 2,112 shares of Flutter Entertainment Plc (FLUT) \u00b7 $93.32/share \u00b7 $197,085 total \u00b7 Aug 20",
+    "tags": [],
+    "tickers": [
+      "FLUT"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2012791/000201279126000013/0002012791-26-000013-index.htm",
+    "published_iso": "2026-08-20T10:55:14+00:00",
+    "time_ago": "18m ago"
   },
   {
     "id": "f92a9823d079",
@@ -39,7 +63,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/policy/defense/6040175-army-rotc-academic-standards-memo-debate/",
     "published_iso": "2026-08-20T10:00:00+00:00",
-    "time_ago": "49m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "f17a00d38470",
@@ -62,7 +86,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/business/6040178-bond-market-yields-trump-emergency/",
     "published_iso": "2026-08-20T10:00:00+00:00",
-    "time_ago": "49m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "769eeee4b8e7",
@@ -83,7 +107,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17007/special-local-regulation-north-east-north-east-md",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "4bc36baa8387",
@@ -104,7 +128,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17006/final-waiver-and-extension-of-the-project-period-with-funding-for-arts-in-education-national-program",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "66e4a57ebd9e",
@@ -125,7 +149,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17003/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "c4fa9e4961a7",
@@ -144,7 +168,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16990/air-plan-approval-sc-department-name-change",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "38c730c1aa18",
@@ -163,7 +187,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16989/air-plan-approval-arizona-attainment-plan-for-the-hayden-so2-nonattainment-area-for-the-1971-and",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "c00fe7853488",
@@ -184,7 +208,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16988/deletion-from-the-national-priorities-list",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "b301ee2afbcc",
@@ -203,7 +227,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16986/air-plan-approval-wisconsin-moderate-attainment-plan-elements-for-wisconsins-2015-ozone-standard",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "e6500b5dd2a5",
@@ -224,7 +248,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16982/wagner-peyser-act-employment-service-staffing",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "2f699adfd668",
@@ -245,7 +269,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/08/19/michael-cohen-trump-interview-radio-pardon-01043191",
     "published_iso": "2026-08-20T01:58:37+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "d0c7e0959feb",
@@ -276,35 +300,6 @@
     "time_ago": "13h ago"
   },
   {
-    "id": "42e233e66ded",
-    "politician": "Sen. Cynthia Lummis",
-    "initials": "CL",
-    "role": "Senate Banking Subcommittee (Crypto)",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#c4b5fd"
-    },
-    "severity": "medium",
-    "content": "Fact check: True \n \nWe must never go back to the Chokepoint 2.0 era. \n \n \n FOX Business (@FoxBusiness) \n \n WATCH: President Trump slams the Biden administration, saying it launched a \"brutal\" attack on cryptocurrency that nearly handed China a massive advantage in next-generation finance. \n \n\"The radical left tried to ",
-    "tags": [
-      "China",
-      "Crypto",
-      "Defense",
-      "Regulation"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nt.vern.cc/SenLummis/status/2090192079137698063#m",
-    "published_iso": "2026-08-19T21:40:00+00:00",
-    "time_ago": "13h ago"
-  },
-  {
     "id": "306d3c437a72",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -321,34 +316,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
     "published_iso": "2026-08-19T18:00:00+00:00",
-    "time_ago": "16h ago"
-  },
-  {
-    "id": "4f900a1f8bdd",
-    "politician": "Rep. Patrick McHenry",
-    "initials": "PM",
-    "role": "House Financial Services Committee",
-    "color": {
-      "bg": "#2d1e5f",
-      "fg": "#c084fc"
-    },
-    "severity": "high",
-    "content": "This is a huge step forward for the crypto industry \u2014 one that provides a new path for builders of blockchain tech to raise capital and operate transparently.  \n \nThe window for Congress to influence crypto regulation is closing.  \n \nPass CLARITY or abdicate. \n \n \n Paul Atkins (@SECPaulSAtkins) \n \n With our new proposa",
-    "tags": [
-      "Crypto",
-      "Energy",
-      "Regulation"
-    ],
-    "tickers": [
-      "BTC",
-      "ETH",
-      "COIN"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/milesjennings/status/2089809798824853632#m",
-    "published_iso": "2026-08-18T20:20:57+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "f436afccee25",
