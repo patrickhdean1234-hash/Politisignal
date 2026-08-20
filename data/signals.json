@@ -1,5 +1,26 @@
 [
   {
+    "id": "994cb3bc4805",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Amar Michel bought 20,000 shares of Digi Power X Inc. (DGXX) \u00b7 $3.60/share \u00b7 $72,000 total \u00b7 Aug 20",
+    "tags": [],
+    "tickers": [
+      "DGXX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1912453/000121390026091969/0001213900-26-091969-index.htm",
+    "published_iso": "2026-08-20T15:45:00+00:00",
+    "time_ago": "1m ago"
+  },
+  {
     "id": "0559c8e7bc33",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -23,7 +44,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "7m ago"
+    "time_ago": "46m ago"
   },
   {
     "id": "d1faa9166adb",
@@ -49,7 +70,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "7m ago"
+    "time_ago": "46m ago"
   },
   {
     "id": "58a834094d82",
@@ -74,7 +95,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtjgkmjz3k2d",
     "published_iso": "2026-08-20T14:13:52.383000+00:00",
-    "time_ago": "53m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "769eeee4b8e7",
@@ -285,7 +306,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/president-trumps-trade-agenda-is-rebuilding-the-american-auto-industry/",
     "published_iso": "2026-08-19T21:42:19+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "306d3c437a72",
@@ -1116,6 +1137,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "246d ago"
+    "time_ago": "247d ago"
   }
 ]
