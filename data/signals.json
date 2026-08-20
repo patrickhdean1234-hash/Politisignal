@@ -1,24 +1,24 @@
 [
   {
-    "id": "5c39e24b4dfa",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "0152141243c1",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Wolfe Lauren Taylor sold 750,000 shares of Marriott Vacations Worldwide Corp (VAC) \u00b7 $111.49/share \u00b7 $83,617,500 total \u00b7 Aug 20",
-    "tags": [],
-    "tickers": [
-      "VAC"
+    "severity": "high",
+    "content": "Watch live: Trump, first lady headline Fostering Future Together event in Rose Garden. President Trump and first lady Melania Trump are set to make an announcement at the White House Rose Garden on Thursday afternoon related to the administration's Fostering the Future Together initiative. While details surrounding the",
+    "tags": [
+      "Taxes"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1787532/000090266426003590/0000902664-26-003590-index.htm",
-    "published_iso": "2026-08-20T19:03:59+00:00",
-    "time_ago": "1m ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/video-clips/6042062-watch-live-donald-trump-melania-trump-fostering-future-together-rose-garden-indycar/",
+    "published_iso": "2026-08-20T19:00:00+00:00",
+    "time_ago": "39m ago"
   },
   {
     "id": "0559c8e7bc33",
@@ -95,7 +95,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtjgkmjz3k2d",
     "published_iso": "2026-08-20T14:13:52.383000+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "769eeee4b8e7",
@@ -325,6 +325,33 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
     "published_iso": "2026-08-19T18:00:00+00:00",
+    "time_ago": "1d ago"
+  },
+  {
+    "id": "4f900a1f8bdd",
+    "politician": "Rep. Patrick McHenry",
+    "initials": "PM",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#2d1e5f",
+      "fg": "#c084fc"
+    },
+    "severity": "high",
+    "content": "This is a huge step forward for the crypto industry \u2014 one that provides a new path for builders of blockchain tech to raise capital and operate transparently.  \n \nThe window for Congress to influence crypto regulation is closing.  \n \nPass CLARITY or abdicate. \n \n \n Paul Atkins (@SECPaulSAtkins) \n \n With our new proposa",
+    "tags": [
+      "Crypto",
+      "Energy",
+      "Regulation"
+    ],
+    "tickers": [
+      "BTC",
+      "ETH",
+      "COIN"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/milesjennings/status/2089809798824853632#m",
+    "published_iso": "2026-08-18T20:20:57+00:00",
     "time_ago": "1d ago"
   },
   {
