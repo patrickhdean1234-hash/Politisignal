@@ -1,6 +1,6 @@
 [
   {
-    "id": "1ae5cb7fe8fb",
+    "id": "b9168e967721",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Chuong James sold 107 shares of Atlassian Corp (TEAM) \u00b7 $170.05/share \u00b7 $18,195 total \u00b7 Aug 20 ($1,561,377 across all blocks)",
+    "content": "St Denis David exercised options for 60,000 shares of Anteris Technologies Global Corp. (AVR) \u00b7 $5.65/share \u00b7 $339,000 total \u00b7 Aug 20 ($770,790 across all blocks)",
     "tags": [],
     "tickers": [
-      "TEAM"
+      "AVR"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2122855/000212285526000006/0002122855-26-000006-index.htm",
-    "published_iso": "2026-08-20T23:27:39+00:00",
-    "time_ago": "just now"
+    "url": "https://www.sec.gov/Archives/edgar/data/2046779/000114036126033942/0001140361-26-033942-index.htm",
+    "published_iso": "2026-08-20T23:49:05+00:00",
+    "time_ago": "2m ago"
   },
   {
-    "id": "94f4854c799d",
+    "id": "8ee667c29cc4",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,7 +30,95 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Hettrich Kevin withheld (tax) 31,095 shares of Quantumscape Corp (QS) \u00b7 $5.74/share \u00b7 $178,625 total \u00b7 Aug 20",
+    "content": "Jarvis Scot B sold 10,000 shares of Kratos Defense & Security Solutions, Inc. (KTOS) \u00b7 $63.50/share \u00b7 $634,961 total \u00b7 Aug 20",
+    "tags": [
+      "Defense"
+    ],
+    "tickers": [
+      "KTOS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1069258/000101480326000009/0001014803-26-000009-index.htm",
+    "published_iso": "2026-08-20T23:40:39+00:00",
+    "time_ago": "10m ago"
+  },
+  {
+    "id": "9a67b6d063da",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Seidl Randy bought 110,000 shares of Rain Enhancement Technologies Holdco, Inc. (RAINW) \u00b7 $0.95/share \u00b7 $104,225 total \u00b7 Aug 20",
+    "tags": [],
+    "tickers": [
+      "RAINW"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2028293/000121390026092254/0001213900-26-092254-index.htm",
+    "published_iso": "2026-08-20T23:38:04+00:00",
+    "time_ago": "13m ago"
+  },
+  {
+    "id": "2fbaa53ecc45",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Poe Brandon exercised options for 10,634 shares of Biostem Technologies, Inc. (BSEM) \u00b7 Aug 20",
+    "tags": [],
+    "tickers": [
+      "BSEM"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2147189/000214718926000006/0002147189-26-000006-index.htm",
+    "published_iso": "2026-08-20T23:30:05+00:00",
+    "time_ago": "21m ago"
+  },
+  {
+    "id": "45e2b6a1a3e0",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Fortunato Michael A exercised options for 970 shares of Biostem Technologies, Inc. (BSEM) \u00b7 Aug 20",
+    "tags": [
+      "Defense"
+    ],
+    "tickers": [
+      "BSEM"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2147232/000214723226000006/0002147232-26-000006-index.htm",
+    "published_iso": "2026-08-20T23:30:04+00:00",
+    "time_ago": "21m ago"
+  },
+  {
+    "id": "eb36973a6ea0",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Holme Timothy withheld (tax) 34,086 shares of Quantumscape Corp (QS) \u00b7 $5.74/share \u00b7 $195,807 total \u00b7 Aug 20 ($436,916 across all blocks)",
     "tags": [
       "Taxes"
     ],
@@ -39,12 +127,12 @@
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1834025/000183402526000024/0001834025-26-000024-index.htm",
-    "published_iso": "2026-08-20T23:27:35+00:00",
-    "time_ago": "just now"
+    "url": "https://www.sec.gov/Archives/edgar/data/1834249/000183424926000022/0001834249-26-000022-index.htm",
+    "published_iso": "2026-08-20T23:29:29+00:00",
+    "time_ago": "22m ago"
   },
   {
-    "id": "816f302caecf",
+    "id": "d1d73f8a6c87",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -53,146 +141,18 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Sivaram Srinivasan withheld (tax) 81,752 shares of Quantumscape Corp (QS) \u00b7 $5.74/share \u00b7 $469,624 total \u00b7 Aug 20",
+    "content": "Ciesinski David Alan withheld (tax) 2,055 shares of Marzetti Co (MZTI) \u00b7 $116.05/share \u00b7 $238,483 total \u00b7 Aug 20",
     "tags": [
       "Taxes"
     ],
     "tickers": [
-      "QS"
+      "MZTI"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1811414/000158706726000012/0001587067-26-000012-index.htm",
-    "published_iso": "2026-08-20T23:27:11+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "999cd4a1a1da",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Liu Gene sold 1,125 shares of Atlassian Corp (TEAM) \u00b7 $175.00/share \u00b7 $196,875 total \u00b7 Aug 20",
-    "tags": [],
-    "tickers": [
-      "TEAM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1946411/000194641126000007/0001946411-26-000007-index.htm",
-    "published_iso": "2026-08-20T23:27:02+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "9cc22376c4cc",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Fasoli Luca Giovanni withheld (tax) 32,255 shares of Quantumscape Corp (QS) \u00b7 $5.74/share \u00b7 $185,289 total \u00b7 Aug 20",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "QS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2068228/000206822826000010/0002068228-26-000010-index.htm",
-    "published_iso": "2026-08-20T23:26:46+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "a986cc1193f0",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Fitzgerald Scott Michael sold 84,970 shares of Stubhub Holdings, Inc. (STUB) \u00b7 $7.08/share \u00b7 $601,953 total \u00b7 Aug 20",
-    "tags": [],
-    "tickers": [
-      "STUB"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2063059/000162828026058309/0001628280-26-058309-index.htm",
-    "published_iso": "2026-08-20T23:26:44+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "41c94be72543",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "James Constance P. sold 116,644 shares of Stubhub Holdings, Inc. (STUB) \u00b7 $7.06/share \u00b7 $822,958 total \u00b7 Aug 20",
-    "tags": [],
-    "tickers": [
-      "STUB"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1887204/000162828026058307/0001628280-26-058307-index.htm",
-    "published_iso": "2026-08-20T23:25:20+00:00",
-    "time_ago": "3m ago"
-  },
-  {
-    "id": "b86df2287d8c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Oconnell Maureen sold 10,000 shares of Acacia Research Corp (ACTG) \u00b7 $4.60/share \u00b7 $46,000 total \u00b7 Aug 20",
-    "tags": [],
-    "tickers": [
-      "ACTG"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1111318/000111131826000009/0001111318-26-000009-index.htm",
-    "published_iso": "2026-08-20T23:23:11+00:00",
-    "time_ago": "5m ago"
-  },
-  {
-    "id": "991925ba6d09",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hudson Daniel A. gifted 200 shares of Tidewater Inc (TDGMW) \u00b7 Aug 20",
-    "tags": [],
-    "tickers": [
-      "TDGMW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1797578/000179757826000014/0001797578-26-000014-index.htm",
-    "published_iso": "2026-08-20T23:21:41+00:00",
-    "time_ago": "6m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1352525/000122520826007263/0001225208-26-007263-index.htm",
+    "published_iso": "2026-08-20T23:28:36+00:00",
+    "time_ago": "22m ago"
   },
   {
     "id": "305d9e00a271",
@@ -218,27 +178,6 @@
     "platform": "The Hill",
     "url": "https://thehill.com/newsletters/healthcare/6042627-schwartz-recognizes-cdc-strife-in-first-talks-with-staff/",
     "published_iso": "2026-08-20T22:39:18+00:00",
-    "time_ago": "49m ago"
-  },
-  {
-    "id": "4f4c91c50d12",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Turmoil in Treasury bond yields sparks global worries: What to know. U.S. bond yields are rarely a burning issue with the general public. But that\u2019s changed this week as a spike in yields has hit the front pages and TV newscasts. Yields on 30-year U.S. Treasury bonds\u00a0hit their highest point\u00a0in almost two decades on Tue",
-    "tags": [
-      "Energy"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/analysis/6042626-treasury-secretary-bessent-buyback/",
-    "published_iso": "2026-08-20T22:27:09+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -283,7 +222,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/president-trumps-cabinet-champions-america-first-successes-nationwide/",
     "published_iso": "2026-08-20T20:43:03+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "f94dfeb7969d",
@@ -304,7 +243,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/08/2-million-donation-expands-first-lady-melania-trumps-fostering-the-future-initiative-to-indiana-university-and-purdue-university/",
     "published_iso": "2026-08-20T20:41:41+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "f281bf40952f",
