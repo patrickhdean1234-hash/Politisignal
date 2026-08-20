@@ -1,5 +1,157 @@
 [
   {
+    "id": "4b16f665d8e5",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Clark Richard received 2,466,666 shares of Captivision Inc. (CPTAF) \u00b7 Aug 20",
+    "tags": [],
+    "tickers": [
+      "CPTAF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2019968/000121390026092089/0001213900-26-092089-index.htm",
+    "published_iso": "2026-08-20T20:00:31+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "ba3d3f2c728d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Garrabrant Gary R received 22,906,887 shares of Captivision Inc. (CPTAF) \u00b7 Aug 20",
+    "tags": [],
+    "tickers": [
+      "CPTAF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1967478/000121390026092085/0001213900-26-092085-index.htm",
+    "published_iso": "2026-08-20T20:00:28+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "8f23b8f551bf",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Jureller John M received 2,599,998 shares of Captivision Inc. (CPTAF) \u00b7 Aug 20",
+    "tags": [],
+    "tickers": [
+      "CPTAF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1967478/000121390026092087/0001213900-26-092087-index.htm",
+    "published_iso": "2026-08-20T20:00:26+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "bfbb526b3cb0",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hatkoff Craig M received 2,666,664 shares of Captivision Inc. (CPTAF) \u00b7 Aug 20",
+    "tags": [],
+    "tickers": [
+      "CPTAF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1967478/000121390026092086/0001213900-26-092086-index.htm",
+    "published_iso": "2026-08-20T20:00:25+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "40868b9f8c22",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Giwa Hafeez received 2,266,668 shares of Captivision Inc. (CPTAF) \u00b7 Aug 20",
+    "tags": [],
+    "tickers": [
+      "CPTAF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2049553/000121390026092084/0001213900-26-092084-index.htm",
+    "published_iso": "2026-08-20T20:00:23+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "f281bf40952f",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board announces approval of application by National Westminster Bank Plc. Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
+    "published_iso": "2026-08-20T20:00:00+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "8316c4794168",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Trump administration announces new sanctions on Cuba, escalating economic pressure. Secretary of State Marco Rubio on Thursday announced new sanctions against Cuban individuals and entities, part of the Trump administration\u2019s escalating pressure campaign against the communist regime in Havana. The latest sanctions targ",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/international/6042225-rubio-cuba-sanctions/",
+    "published_iso": "2026-08-20T19:38:32+00:00",
+    "time_ago": "23m ago"
+  },
+  {
     "id": "0152141243c1",
     "politician": "The Hill",
     "initials": "TH",
@@ -18,7 +170,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/video-clips/6042062-watch-live-donald-trump-melania-trump-fostering-future-together-rose-garden-indycar/",
     "published_iso": "2026-08-20T19:00:00+00:00",
-    "time_ago": "39m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "0559c8e7bc33",
@@ -44,7 +196,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "d1faa9166adb",
@@ -70,7 +222,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "58a834094d82",
@@ -116,7 +268,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17007/special-local-regulation-north-east-north-east-md",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "4bc36baa8387",
@@ -137,7 +289,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17006/final-waiver-and-extension-of-the-project-period-with-funding-for-arts-in-education-national-program",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "66e4a57ebd9e",
@@ -158,7 +310,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17003/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "c4fa9e4961a7",
@@ -177,7 +329,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16990/air-plan-approval-sc-department-name-change",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "38c730c1aa18",
@@ -196,7 +348,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16989/air-plan-approval-arizona-attainment-plan-for-the-hayden-so2-nonattainment-area-for-the-1971-and",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "c00fe7853488",
@@ -217,7 +369,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16988/deletion-from-the-national-priorities-list",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "b301ee2afbcc",
@@ -236,7 +388,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16986/air-plan-approval-wisconsin-moderate-attainment-plan-elements-for-wisconsins-2015-ozone-standard",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "e6500b5dd2a5",
@@ -257,7 +409,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16982/wagner-peyser-act-employment-service-staffing",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "2f699adfd668",
@@ -278,7 +430,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/08/19/michael-cohen-trump-interview-radio-pardon-01043191",
     "published_iso": "2026-08-20T01:58:37+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "d0c7e0959feb",
@@ -306,7 +458,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/president-trumps-trade-agenda-is-rebuilding-the-american-auto-industry/",
     "published_iso": "2026-08-19T21:42:19+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "306d3c437a72",
@@ -325,33 +477,6 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
     "published_iso": "2026-08-19T18:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "4f900a1f8bdd",
-    "politician": "Rep. Patrick McHenry",
-    "initials": "PM",
-    "role": "House Financial Services Committee",
-    "color": {
-      "bg": "#2d1e5f",
-      "fg": "#c084fc"
-    },
-    "severity": "high",
-    "content": "This is a huge step forward for the crypto industry \u2014 one that provides a new path for builders of blockchain tech to raise capital and operate transparently.  \n \nThe window for Congress to influence crypto regulation is closing.  \n \nPass CLARITY or abdicate. \n \n \n Paul Atkins (@SECPaulSAtkins) \n \n With our new proposa",
-    "tags": [
-      "Crypto",
-      "Energy",
-      "Regulation"
-    ],
-    "tickers": [
-      "BTC",
-      "ETH",
-      "COIN"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/milesjennings/status/2089809798824853632#m",
-    "published_iso": "2026-08-18T20:20:57+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -796,33 +921,6 @@
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
     "published_iso": "2026-08-04T20:30:00+00:00",
     "time_ago": "15d ago"
-  },
-  {
-    "id": "75401d5d3d31",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"\u2014bank executives, board members and major shareholders who could potentially influence a bank's lending decisions. Federal Reserve Board requests comment on a proposal to modernize its rule gov",
-    "tags": [
-      "Banking",
-      "Regulation"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
-    "published_iso": "2026-07-31T14:00:00+00:00",
-    "time_ago": "20d ago"
   },
   {
     "id": "6e187954d9ee",
