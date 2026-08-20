@@ -1,6 +1,6 @@
 [
   {
-    "id": "aca3790e2aa8",
+    "id": "e561845f7f73",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,22 +9,42 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Yuan Lipen bought 1,000 shares of Taiwan Semiconductor Manufacturing Co Ltd (TSMWF) \u00b7 $74.50/share \u00b7 $74,500 total \u00b7 Aug 20 ($174,023 across all blocks)",
+    "content": "Martin Lorraine M exercised options for 6,092 shares of Kennametal Inc (KMT) \u00b7 $31.22/share \u00b7 $190,192 total \u00b7 Aug 20 ($195,999 across all blocks)",
     "tags": [
-      "Semiconductors"
+      "Big Tech"
     ],
     "tickers": [
-      "TSMWF",
-      "TSM"
+      "KMT"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2114024/000104617926000543/0001046179-26-000543-index.htm",
-    "published_iso": "2026-08-20T11:41:41+00:00",
-    "time_ago": "21m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1742926/000174292626000005/0001742926-26-000005-index.htm",
+    "published_iso": "2026-08-20T13:00:46+00:00",
+    "time_ago": "4m ago"
   },
   {
-    "id": "ecad6659f3a9",
+    "id": "93bc46b662f2",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "low",
+    "content": "Japan Post Holdings Co., Ltd. sold 13,610 shares of Aflac Inc (AFL) \u00b7 $121.91/share \u00b7 $1,659,195 total \u00b7 Aug 20 ($1,731,559 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "AFL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1783464/000110465926099029/0001104659-26-099029-index.htm",
+    "published_iso": "2026-08-20T13:00:10+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "b6a986a82904",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -33,16 +53,77 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Hollar Jason M. sold 21,407 shares of Cardinal Health Inc (CAH) \u00b7 $234.56/share \u00b7 $5,021,226 total \u00b7 Aug 20 ($29,375,516 across all blocks)",
+    "content": "Curtis Scott A gifted 1,000 shares of Raymond James Financial Inc (RJF) \u00b7 Aug 20",
     "tags": [],
     "tickers": [
-      "CAH"
+      "RJF"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1687858/000168785826000003/0001687858-26-000003-index.htm",
-    "published_iso": "2026-08-20T11:33:33+00:00",
-    "time_ago": "29m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1601143/000122520826007224/0001225208-26-007224-index.htm",
+    "published_iso": "2026-08-20T12:50:28+00:00",
+    "time_ago": "15m ago"
+  },
+  {
+    "id": "ae25ef26a581",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Grace Elizabeth sold 4,200 shares of Epr Properties (EPR-PG) \u00b7 $60.57/share \u00b7 $254,394 total \u00b7 Aug 20",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1900482/000190048226000003/0001900482-26-000003-index.htm",
+    "published_iso": "2026-08-20T12:33:45+00:00",
+    "time_ago": "32m ago"
+  },
+  {
+    "id": "c8454342a876",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Geygan Jeffrey Richart bought 30,800 shares of Loop Industries, Inc. (LOOP) \u00b7 $0.73/share \u00b7 $22,579 total \u00b7 Aug 20 ($37,466 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "LOOP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1733547/000119312526358148/0001193125-26-358148-index.htm",
+    "published_iso": "2026-08-20T12:30:06+00:00",
+    "time_ago": "35m ago"
+  },
+  {
+    "id": "44b409c6cab9",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "On the Ballot: Bipartisan couples face tough odds. But these pairs make it work. Democratic California Gov. Gavin Newsom and U.S. Ambassador to Greece Kimberly Guilfoyle. Democratic strategist James Carville and GOP consultant Mary Matalin. Former GOP California Gov. Arnold Schwarzenegger and Kennedy scion Maria Shrive",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/on-the-ballot/6038891-on-the-ballot-bipartisan-couples-tough-odds-research/",
+    "published_iso": "2026-08-20T12:00:00+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "1a5f1f9f2ce2",
@@ -69,7 +150,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/opinion/white-house/6036778-what-is-trump-afraid-we-will-see-about-how-the-tariffs-were-formulated/",
     "published_iso": "2026-08-20T11:30:00+00:00",
-    "time_ago": "33m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "ed2739b2165f",
@@ -92,7 +173,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/newsletters/morning-report/6040484-democrats-uphill-battle-florida-angie-nixon-win/",
     "published_iso": "2026-08-20T11:13:13+00:00",
-    "time_ago": "50m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "9c444f2d9346",
@@ -111,27 +192,6 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/state-watch/6040336-pennsylvania-state-police-helicopter-violently-collides-with-plane-pilot-dead-faa/",
     "published_iso": "2026-08-20T11:00:37+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "f92a9823d079",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Army grapples with higher cadet standards after yanking memo. The Army is eyeing new minimum academic standards for college students in the Reserve Officers' Training Corps (ROTC), but not without some internal drama.  The service branch issued fresh standards earlier this month, only to pull them days later amid diffe",
-    "tags": [
-      "Big Tech"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/defense/6040175-army-rotc-academic-standards-memo-debate/",
-    "published_iso": "2026-08-20T10:00:00+00:00",
     "time_ago": "2h ago"
   },
   {
@@ -153,7 +213,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17007/special-local-regulation-north-east-north-east-md",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "4bc36baa8387",
@@ -174,7 +234,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17006/final-waiver-and-extension-of-the-project-period-with-funding-for-arts-in-education-national-program",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "66e4a57ebd9e",
@@ -195,7 +255,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17003/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "c4fa9e4961a7",
@@ -214,7 +274,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16990/air-plan-approval-sc-department-name-change",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "38c730c1aa18",
@@ -233,7 +293,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16989/air-plan-approval-arizona-attainment-plan-for-the-hayden-so2-nonattainment-area-for-the-1971-and",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "c00fe7853488",
@@ -254,7 +314,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16988/deletion-from-the-national-priorities-list",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "b301ee2afbcc",
@@ -273,7 +333,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16986/air-plan-approval-wisconsin-moderate-attainment-plan-elements-for-wisconsins-2015-ozone-standard",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "e6500b5dd2a5",
@@ -294,7 +354,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16982/wagner-peyser-act-employment-service-staffing",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "2f699adfd668",
@@ -315,7 +375,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/08/19/michael-cohen-trump-interview-radio-pardon-01043191",
     "published_iso": "2026-08-20T01:58:37+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "d0c7e0959feb",
@@ -343,7 +403,36 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/president-trumps-trade-agenda-is-rebuilding-the-american-auto-industry/",
     "published_iso": "2026-08-19T21:42:19+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
+  },
+  {
+    "id": "42e233e66ded",
+    "politician": "Sen. Cynthia Lummis",
+    "initials": "CL",
+    "role": "Senate Banking Subcommittee (Crypto)",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#c4b5fd"
+    },
+    "severity": "medium",
+    "content": "Fact check: True \n \nWe must never go back to the Chokepoint 2.0 era. \n \n \n FOX Business (@FoxBusiness) \n \n WATCH: President Trump slams the Biden administration, saying it launched a \"brutal\" attack on cryptocurrency that nearly handed China a massive advantage in next-generation finance. \n \n\"The radical left tried to ",
+    "tags": [
+      "China",
+      "Crypto",
+      "Defense",
+      "Regulation"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/SenLummis/status/2090192079137698063#m",
+    "published_iso": "2026-08-19T21:40:00+00:00",
+    "time_ago": "15h ago"
   },
   {
     "id": "306d3c437a72",
@@ -362,7 +451,34 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
     "published_iso": "2026-08-19T18:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "19h ago"
+  },
+  {
+    "id": "4f900a1f8bdd",
+    "politician": "Rep. Patrick McHenry",
+    "initials": "PM",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#2d1e5f",
+      "fg": "#c084fc"
+    },
+    "severity": "high",
+    "content": "This is a huge step forward for the crypto industry \u2014 one that provides a new path for builders of blockchain tech to raise capital and operate transparently.  \n \nThe window for Congress to influence crypto regulation is closing.  \n \nPass CLARITY or abdicate. \n \n \n Paul Atkins (@SECPaulSAtkins) \n \n With our new proposa",
+    "tags": [
+      "Crypto",
+      "Energy",
+      "Regulation"
+    ],
+    "tickers": [
+      "BTC",
+      "ETH",
+      "COIN"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/milesjennings/status/2089809798824853632#m",
+    "published_iso": "2026-08-18T20:20:57+00:00",
+    "time_ago": "1d ago"
   },
   {
     "id": "f436afccee25",
@@ -485,7 +601,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/08/first-lady-melania-trumps-efforts-prove-successful-in-ukraine-russia/",
     "published_iso": "2026-08-17T13:02:21+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "7e212644f901",
@@ -728,27 +844,6 @@
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
     "time_ago": "12d ago"
-  },
-  {
-    "id": "1a1d646c1e56",
-    "politician": "Rep. Alexandria Ocasio-Cortez",
-    "initials": "AOC",
-    "role": "House Financial Services Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#93c5fd"
-    },
-    "severity": "high",
-    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/AOC/status/2085006319220625569#m",
-    "published_iso": "2026-08-05T14:13:38+00:00",
-    "time_ago": "14d ago"
   },
   {
     "id": "63e88990093a",
@@ -1007,7 +1102,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "28d ago"
+    "time_ago": "29d ago"
   },
   {
     "id": "555d7f3dd315",
