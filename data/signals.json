@@ -1,6 +1,6 @@
 [
   {
-    "id": "afcf453392a6",
+    "id": "3b3982baf631",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,81 +9,16 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Lovechio Joseph A withheld (tax) 638 shares of Gibraltar Industries, Inc. (ROCK) \u00b7 $47.85/share \u00b7 $30,528 total \u00b7 Aug 20",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "ROCK"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1685928/000091256226000149/0000912562-26-000149-index.htm",
-    "published_iso": "2026-08-20T17:09:48+00:00",
-    "time_ago": "9m ago"
-  },
-  {
-    "id": "e7abf920bb15",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Pau Hung To acquired/disposed 100,000 shares of Advanced Biomed Inc. (ADVB) \u00b7 $480,000.00/share \u00b7 $48,000,000,000 total \u00b7 Aug 20 ($84,588,000,000 across all blocks)",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [
-      "ADVB"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2044946/000107997326001162/0001079973-26-001162-index.htm",
-    "published_iso": "2026-08-20T17:00:48+00:00",
-    "time_ago": "18m ago"
-  },
-  {
-    "id": "54f60f86cf53",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Bessent: US can 'grow our way' out of $40 trillion debt. Treasury Secretary Scott Bessent on Thursday said the U.S. can \"grow\" its way out of the $40 trillion national debt, a milestone reached Wednesday. \"Well, I mean, look Sara, there's nothing magic about the $40 trillion number, and we can grow our way out of that,",
+    "content": "Dillon Larry G sold 1,000 shares of C & F Financial Corp (CFFI) \u00b7 $86.00/share \u00b7 $86,000 total \u00b7 Aug 20",
     "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/6041596-scott-bessent-us-economy-40-trillion-debt/",
-    "published_iso": "2026-08-20T16:55:23+00:00",
-    "time_ago": "23m ago"
-  },
-  {
-    "id": "84061eb3ba92",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Texas, Iowa Senate races shift to toss ups: Cook Political Report. The nonpartisan election handicapper Cook Political Report shifted its ratings for both the Texas and Iowa Senate races to \u201ctoss ups\u201d on Thursday as Republicans grapple with a scandal-ridden candidate in the Lone Star State and a shifting political envi",
-    "tags": [
-      "Big Tech"
+    "tickers": [
+      "CFFI"
     ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/6041660-cook-political-report-texas-iowa-senate-races/",
-    "published_iso": "2026-08-20T16:47:00+00:00",
-    "time_ago": "31m ago"
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1200507/000120050726000008/0001200507-26-000008-index.htm",
+    "published_iso": "2026-08-20T17:45:17+00:00",
+    "time_ago": "5m ago"
   },
   {
     "id": "0559c8e7bc33",
@@ -136,6 +71,29 @@
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
     "time_ago": "2h ago"
+  },
+  {
+    "id": "f1cafdfa5eec",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "medium",
+    "content": "Costco will allow Medicare beneficiaries to have access to its bulk discounts on prescriptions. \n \nWith my Health Marketplace for All Act, membership-driven organizations like Costco could challenge the current government-controlled oligopoly in the employer and individual insurance markets. \n \n wsj.com/health/healthca",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "COST"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/RandPaul/status/2090444518629810226#m",
+    "published_iso": "2026-08-20T14:23:06+00:00",
+    "time_ago": "3h ago"
   },
   {
     "id": "58a834094d82",
@@ -371,7 +329,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/president-trumps-trade-agenda-is-rebuilding-the-american-auto-industry/",
     "published_iso": "2026-08-19T21:42:19+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "306d3c437a72",
@@ -701,7 +659,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s225?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-07T17:23:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "ef7d3b12d4ec",
@@ -756,27 +714,6 @@
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
     "time_ago": "13d ago"
-  },
-  {
-    "id": "1a1d646c1e56",
-    "politician": "Rep. Alexandria Ocasio-Cortez",
-    "initials": "AOC",
-    "role": "House Financial Services Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#93c5fd"
-    },
-    "severity": "high",
-    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.net/AOC/status/2085006319220625569#m",
-    "published_iso": "2026-08-05T14:13:38+00:00",
-    "time_ago": "15d ago"
   },
   {
     "id": "63e88990093a",
