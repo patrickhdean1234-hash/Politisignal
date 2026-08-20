@@ -1,6 +1,6 @@
 [
   {
-    "id": "994cb3bc4805",
+    "id": "a5cc82e7c0ad",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,16 +9,103 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Amar Michel bought 20,000 shares of Digi Power X Inc. (DGXX) \u00b7 $3.60/share \u00b7 $72,000 total \u00b7 Aug 20",
+    "content": "Swain William B Jr exercised options for 35,919 shares of Crawford & Co (CRD-B) \u00b7 $9.22/share \u00b7 $331,173 total \u00b7 Aug 20 ($1,364,526 across all blocks)",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1245585/000002547526000072/0000025475-26-000072-index.htm",
+    "published_iso": "2026-08-20T16:09:28+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "9a7218eec27a",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Calisto Isaias Jose sold 650 shares of Karooooo Ltd. (KARO) \u00b7 $63.04/share \u00b7 $40,975 total \u00b7 Aug 20 ($116,293 across all blocks)",
     "tags": [],
     "tickers": [
-      "DGXX"
+      "KARO"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1912453/000121390026091969/0001213900-26-091969-index.htm",
-    "published_iso": "2026-08-20T15:45:00+00:00",
-    "time_ago": "1m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1858403/000121390026091973/0001213900-26-091973-index.htm",
+    "published_iso": "2026-08-20T16:03:31+00:00",
+    "time_ago": "11m ago"
+  },
+  {
+    "id": "cc7404eeff79",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Democrats press Warsh to release reported conversations with Trump. A group of Democrats are calling for Federal Reserve Chair Kevin Warsh to publicly disclose his communications with President Trump, citing recent reporting they say raises \u201csincere doubts\u201d about the central bank\u2019s independence from the White House und",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/senate/6041502-democrats-pressure-kevin-warsh-donald-trump-federal-reserve-conversations/",
+    "published_iso": "2026-08-20T15:55:46+00:00",
+    "time_ago": "19m ago"
+  },
+  {
+    "id": "807801497ff8",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Fraser Andrew exercised options for 6,657 shares of Civeo Corp (CVEO) \u00b7 Aug 20 ($225,939 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "CVEO"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2033633/000203363326000005/0002033633-26-000005-index.htm",
+    "published_iso": "2026-08-20T15:53:59+00:00",
+    "time_ago": "21m ago"
+  },
+  {
+    "id": "91b81b23efb1",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Walker James E received 7,574 shares of Starwood Real Estate Income Trust, Inc. (SWDR) \u00b7 Aug 20",
+    "tags": [],
+    "tickers": [
+      "SWDR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1774351/000119312526358760/0001193125-26-358760-index.htm",
+    "published_iso": "2026-08-20T15:53:07+00:00",
+    "time_ago": "22m ago"
   },
   {
     "id": "0559c8e7bc33",
@@ -44,7 +131,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "46m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "d1faa9166adb",
@@ -70,7 +157,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "46m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "58a834094d82",
@@ -95,7 +182,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtjgkmjz3k2d",
     "published_iso": "2026-08-20T14:13:52.383000+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "769eeee4b8e7",
@@ -116,7 +203,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17007/special-local-regulation-north-east-north-east-md",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "4bc36baa8387",
@@ -137,7 +224,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17006/final-waiver-and-extension-of-the-project-period-with-funding-for-arts-in-education-national-program",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "66e4a57ebd9e",
@@ -158,7 +245,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17003/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "c4fa9e4961a7",
@@ -177,7 +264,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16990/air-plan-approval-sc-department-name-change",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "38c730c1aa18",
@@ -196,7 +283,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16989/air-plan-approval-arizona-attainment-plan-for-the-hayden-so2-nonattainment-area-for-the-1971-and",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "c00fe7853488",
@@ -217,7 +304,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16988/deletion-from-the-national-priorities-list",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "b301ee2afbcc",
@@ -236,7 +323,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16986/air-plan-approval-wisconsin-moderate-attainment-plan-elements-for-wisconsins-2015-ozone-standard",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "e6500b5dd2a5",
@@ -257,7 +344,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16982/wagner-peyser-act-employment-service-staffing",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "2f699adfd668",
@@ -278,7 +365,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/08/19/michael-cohen-trump-interview-radio-pardon-01043191",
     "published_iso": "2026-08-20T01:58:37+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "d0c7e0959feb",
@@ -325,7 +412,34 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
     "published_iso": "2026-08-19T18:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
+  },
+  {
+    "id": "4f900a1f8bdd",
+    "politician": "Rep. Patrick McHenry",
+    "initials": "PM",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#2d1e5f",
+      "fg": "#c084fc"
+    },
+    "severity": "high",
+    "content": "This is a huge step forward for the crypto industry \u2014 one that provides a new path for builders of blockchain tech to raise capital and operate transparently.  \n \nThe window for Congress to influence crypto regulation is closing.  \n \nPass CLARITY or abdicate. \n \n \n Paul Atkins (@SECPaulSAtkins) \n \n With our new proposa",
+    "tags": [
+      "Crypto",
+      "Energy",
+      "Regulation"
+    ],
+    "tickers": [
+      "BTC",
+      "ETH",
+      "COIN"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/milesjennings/status/2089809798824853632#m",
+    "published_iso": "2026-08-18T20:20:57+00:00",
+    "time_ago": "1d ago"
   },
   {
     "id": "f436afccee25",
@@ -961,7 +1075,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "100d ago"
+    "time_ago": "101d ago"
   },
   {
     "id": "d69f39ae1ab0",
