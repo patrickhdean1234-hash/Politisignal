@@ -1,6 +1,6 @@
 [
   {
-    "id": "c6f53041294b",
+    "id": "afcf453392a6",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,82 +9,44 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Voss Capital, Lp sold 9,277 shares of Flywire Corp (FLYW) \u00b7 $18.24/share \u00b7 $169,183 total \u00b7 Aug 20 ($1,929,283 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "FLYW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1969435/000206075726000051/0002060757-26-000051-index.htm",
-    "published_iso": "2026-08-20T16:44:42+00:00",
-    "time_ago": "8m ago"
-  },
-  {
-    "id": "990aeb3357d7",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Manulife (Singapore) Pte. Ltd. sold 3,067,398 shares of John Hancock Ga Senior Loan Trust \u00b7 $16.30/share \u00b7 $50,000,120 total \u00b7 Aug 20",
-    "tags": [],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1837478/000183747826000017/0001837478-26-000017-index.htm",
-    "published_iso": "2026-08-20T16:41:14+00:00",
-    "time_ago": "12m ago"
-  },
-  {
-    "id": "900fa9b8556d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Collins Michelle T exercised options for 6,279 shares of Deluxe Corp (DLX) \u00b7 Aug 20",
-    "tags": [],
-    "tickers": [
-      "DLX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2047429/000204742926000012/0002047429-26-000012-index.htm",
-    "published_iso": "2026-08-20T16:33:23+00:00",
-    "time_ago": "20m ago"
-  },
-  {
-    "id": "4d742c5bf5da",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Morais Diane E. bought 46 shares of First Citizens Bancshares Inc /De/ (FCNCN) \u00b7 $2,168.13/share \u00b7 $99,734 total \u00b7 Aug 20 ($108,405 across all blocks)",
+    "content": "Lovechio Joseph A withheld (tax) 638 shares of Gibraltar Industries, Inc. (ROCK) \u00b7 $47.85/share \u00b7 $30,528 total \u00b7 Aug 20",
     "tags": [
       "Taxes"
     ],
     "tickers": [
-      "FCNCN"
+      "ROCK"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1637730/000119312526358811/0001193125-26-358811-index.htm",
-    "published_iso": "2026-08-20T16:33:20+00:00",
-    "time_ago": "20m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1685928/000091256226000149/0000912562-26-000149-index.htm",
+    "published_iso": "2026-08-20T17:09:48+00:00",
+    "time_ago": "9m ago"
   },
   {
-    "id": "cc7404eeff79",
+    "id": "e7abf920bb15",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Pau Hung To acquired/disposed 100,000 shares of Advanced Biomed Inc. (ADVB) \u00b7 $480,000.00/share \u00b7 $48,000,000,000 total \u00b7 Aug 20 ($84,588,000,000 across all blocks)",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "ADVB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2044946/000107997326001162/0001079973-26-001162-index.htm",
+    "published_iso": "2026-08-20T17:00:48+00:00",
+    "time_ago": "18m ago"
+  },
+  {
+    "id": "54f60f86cf53",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -92,22 +54,36 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "critical",
-    "content": "Democrats press Warsh to release reported conversations with Trump. A group of Democrats called for Federal Reserve Chair Kevin Warsh to publicly disclose his communications with President Trump, citing recent reporting they said raises \u201csincere doubts\u201d about the central bank\u2019s independence from the White House under h",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
+    "severity": "medium",
+    "content": "Bessent: US can 'grow our way' out of $40 trillion debt. Treasury Secretary Scott Bessent on Thursday said the U.S. can \"grow\" its way out of the $40 trillion national debt, a milestone reached Wednesday. \"Well, I mean, look Sara, there's nothing magic about the $40 trillion number, and we can grow our way out of that,",
+    "tags": [],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/6041502-democrats-pressure-kevin-warsh-donald-trump-federal-reserve-conversations/",
-    "published_iso": "2026-08-20T15:55:46+00:00",
-    "time_ago": "57m ago"
+    "url": "https://thehill.com/business/6041596-scott-bessent-us-economy-40-trillion-debt/",
+    "published_iso": "2026-08-20T16:55:23+00:00",
+    "time_ago": "23m ago"
+  },
+  {
+    "id": "84061eb3ba92",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Texas, Iowa Senate races shift to toss ups: Cook Political Report. The nonpartisan election handicapper Cook Political Report shifted its ratings for both the Texas and Iowa Senate races to \u201ctoss ups\u201d on Thursday as Republicans grapple with a scandal-ridden candidate in the Lone Star State and a shifting political envi",
+    "tags": [
+      "Big Tech"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/6041660-cook-political-report-texas-iowa-senate-races/",
+    "published_iso": "2026-08-20T16:47:00+00:00",
+    "time_ago": "31m ago"
   },
   {
     "id": "0559c8e7bc33",
@@ -133,7 +109,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "d1faa9166adb",
@@ -159,7 +135,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "58a834094d82",
@@ -184,7 +160,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtjgkmjz3k2d",
     "published_iso": "2026-08-20T14:13:52.383000+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "769eeee4b8e7",
@@ -205,7 +181,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17007/special-local-regulation-north-east-north-east-md",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "4bc36baa8387",
@@ -226,7 +202,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17006/final-waiver-and-extension-of-the-project-period-with-funding-for-arts-in-education-national-program",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "66e4a57ebd9e",
@@ -247,7 +223,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17003/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "c4fa9e4961a7",
@@ -266,7 +242,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16990/air-plan-approval-sc-department-name-change",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "38c730c1aa18",
@@ -285,7 +261,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16989/air-plan-approval-arizona-attainment-plan-for-the-hayden-so2-nonattainment-area-for-the-1971-and",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "c00fe7853488",
@@ -306,7 +282,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16988/deletion-from-the-national-priorities-list",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "b301ee2afbcc",
@@ -325,7 +301,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16986/air-plan-approval-wisconsin-moderate-attainment-plan-elements-for-wisconsins-2015-ozone-standard",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "e6500b5dd2a5",
@@ -346,7 +322,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/20/2026-16982/wagner-peyser-act-employment-service-staffing",
     "published_iso": "2026-08-20T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "2f699adfd668",
@@ -367,7 +343,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/08/19/michael-cohen-trump-interview-radio-pardon-01043191",
     "published_iso": "2026-08-20T01:58:37+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "d0c7e0959feb",
@@ -414,7 +390,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
     "published_iso": "2026-08-19T18:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "f436afccee25",
@@ -780,6 +756,27 @@
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
     "time_ago": "13d ago"
+  },
+  {
+    "id": "1a1d646c1e56",
+    "politician": "Rep. Alexandria Ocasio-Cortez",
+    "initials": "AOC",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#93c5fd"
+    },
+    "severity": "high",
+    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.net/AOC/status/2085006319220625569#m",
+    "published_iso": "2026-08-05T14:13:38+00:00",
+    "time_ago": "15d ago"
   },
   {
     "id": "63e88990093a",
@@ -1207,7 +1204,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "209d ago"
+    "time_ago": "210d ago"
   },
   {
     "id": "d3ca74df7f0f",
