@@ -1,6 +1,6 @@
 [
   {
-    "id": "5943d1908733",
+    "id": "5eb581f7a017",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,17 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Ulbrich Christian sold 2,000 shares of Jones Lang Lasalle Inc (JLL) \u00b7 $386.99/share \u00b7 $773,980 total \u00b7 Aug 21",
+    "content": "John Hancock Stable Value Fund Collective Investment Trust bought 301,659 shares of Manulife Private Credit Plus Fund \u00b7 $19.89/share \u00b7 $6,000,000 total \u00b7 Aug 21",
     "tags": [],
-    "tickers": [
-      "JLL"
-    ],
+    "tickers": [],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1452692/000103797626000164/0001037976-26-000164-index.htm",
-    "published_iso": "2026-08-21T18:23:53+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/2055606/000205560626000004/0002055606-26-000004-index.htm",
+    "published_iso": "2026-08-21T19:05:32+00:00",
     "time_ago": "just now"
   },
   {
-    "id": "494276f7a03e",
+    "id": "19161ecac104",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,19 +28,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Purushothaman Balaji received 4,787 shares of Procter & Gamble Co (PG) \u00b7 Aug 21",
+    "content": "Quinton Keith bought 5,000 shares of Eaton Vance Enhanced Equity Income Fund Ii (EOS) \u00b7 $21.39/share \u00b7 $106,950 total \u00b7 Aug 21",
     "tags": [],
     "tickers": [
-      "PG"
+      "EOS"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1957262/000008042426000141/0000080424-26-000141-index.htm",
-    "published_iso": "2026-08-21T18:21:49+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/1754991/000122520826007270/0001225208-26-007270-index.htm",
+    "published_iso": "2026-08-21T19:02:28+00:00",
     "time_ago": "3m ago"
   },
   {
-    "id": "5abec3f5377c",
+    "id": "7f1c4b4ec131",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -51,40 +49,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Yan Christine Y received 812 shares of Modine Manufacturing Co (MOD) \u00b7 Aug 21",
+    "content": "Quinton Keith sold 10,300 shares of Eaton Vance Floating-Rate Income Trust (EFT) \u00b7 $10.70/share \u00b7 $110,210 total \u00b7 Aug 21",
     "tags": [],
     "tickers": [
-      "MOD"
+      "EFT"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1607095/000160709526000002/0001607095-26-000002-index.htm",
-    "published_iso": "2026-08-21T18:19:32+00:00",
-    "time_ago": "5m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1754991/000122520826007269/0001225208-26-007269-index.htm",
+    "published_iso": "2026-08-21T19:01:27+00:00",
+    "time_ago": "4m ago"
   },
   {
-    "id": "f1295672a5cf",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Wilson David J. received 812 shares of Modine Manufacturing Co (MOD) \u00b7 Aug 21",
-    "tags": [],
-    "tickers": [
-      "MOD"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1629079/000162907926000002/0001629079-26-000002-index.htm",
-    "published_iso": "2026-08-21T18:18:55+00:00",
-    "time_ago": "5m ago"
-  },
-  {
-    "id": "9daf1b2e396a",
+    "id": "391d4aa8a419",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -93,16 +70,19 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Trump\u2019s move to pause beef tariffs risks blowback. \ud83d\ude0e Plus: South Carolina gets a dose of Trump {beacon} &#8202; It\u2019s Friday. Against all odds and several hundred emails, we\u2019ve made it. &#8202; In today's issue: Beef tariffs get a timeout Bessent weighs America\u2019s debt Trump goes all in for Graham IndyCar zooms into DC P",
+    "content": "Here's how Walmart is using $2.9B in tariff refunds. Walmart says it's doubling down on lower prices with its $2.9 billion tariff refund",
     "tags": [
-      "Trade"
+      "Trade",
+      "Regulation"
     ],
-    "tickers": [],
+    "tickers": [
+      "WMT"
+    ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/1230-report/6043718-donald-trump-beef-tariff-pause-blowback/",
-    "published_iso": "2026-08-21T16:40:00+00:00",
-    "time_ago": "1h ago"
+    "url": "https://thehill.com/business/6042474-walmart-tariff-refund-lowering-prices/",
+    "published_iso": "2026-08-21T18:34:58+00:00",
+    "time_ago": "31m ago"
   },
   {
     "id": "91d40345ed03",
@@ -127,28 +107,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtm4eksz2k2d",
     "published_iso": "2026-08-21T15:49:31.050000+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "2eac773b8157",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Massie, Greene slam Trump's move to lower beef prices. Two Republicans pushed back on the Trump administration\u2019s Friday decision to temporarily lift certain tariffs on imported ground beef in an effort to bring down prices for American consumers ahead of the midterm elections.\u00a0 President Trump announced in a Truth Soci",
-    "tags": [
-      "Trade"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/6043594-massie-greene-slam-beef-deal/",
-    "published_iso": "2026-08-21T15:43:21+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "2ff2c62beb62",
@@ -169,7 +128,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17148/fisheries-of-the-northeastern-united-states-mackerel-squid-and-butterfish-2026-illex-squid-quota",
     "published_iso": "2026-08-21T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "3dd9bb66a81c",
@@ -194,7 +153,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17146/inflation-adjustment-for-eoir-obbba-fees-fiscal-year-2027",
     "published_iso": "2026-08-21T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "455cccb606e0",
@@ -215,7 +174,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17145/environmental-protection-regulations-for-domestic-licensing-and-related-regulatory-functions",
     "published_iso": "2026-08-21T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "5832daf773c3",
@@ -234,7 +193,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17131/security-zone-ohio-river-cincinnati-oh",
     "published_iso": "2026-08-21T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "1a81259efb2f",
@@ -253,7 +212,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17129/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-north",
     "published_iso": "2026-08-21T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "638be4cfe52f",
@@ -272,7 +231,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17120/fisheries-of-the-south-atlantic-2026-commercial-closure-of-red-snapper-in-the-south-atlantic",
     "published_iso": "2026-08-21T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "c2a16643f00c",
@@ -293,7 +252,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17116/modifications-to-the-regulations-implementing-the-vietnam-era-veterans-readjustment-assistance-act",
     "published_iso": "2026-08-21T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "35d1e8690137",
@@ -315,7 +274,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/08/national-security-presidential-memorandum-nspm-17/",
     "published_iso": "2026-08-20T20:54:58+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "2fdc12a473ec",
@@ -337,7 +296,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/president-trumps-cabinet-champions-america-first-successes-nationwide/",
     "published_iso": "2026-08-20T20:43:03+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "f94dfeb7969d",
@@ -358,7 +317,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/08/2-million-donation-expands-first-lady-melania-trumps-fostering-the-future-initiative-to-indiana-university-and-purdue-university/",
     "published_iso": "2026-08-20T20:41:41+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "f281bf40952f",
@@ -384,7 +343,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
     "published_iso": "2026-08-20T20:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "0559c8e7bc33",
@@ -578,7 +537,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtcf4y4lwc22",
     "published_iso": "2026-08-17T18:59:42.852000+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "7e212644f901",
@@ -795,6 +754,34 @@
     "time_ago": "14d ago"
   },
   {
+    "id": "baf26d52584e",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "critical",
+    "content": "Senator Rand Paul Offers Amendment to Strip Half-Trillion-Dollar Tax Increase from Russia Sanctions Bill. The post  Senator Rand Paul Offers Amendment to Strip Half-Trillion-Dollar Tax Increase from Russia Sanctions Bill  appeared first on  Senator Rand Paul",
+    "tags": [
+      "Defense",
+      "Regulation",
+      "Taxes",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
+    "published_iso": "2026-08-07T16:35:23+00:00",
+    "time_ago": "14d ago"
+  },
+  {
     "id": "63e88990093a",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -873,6 +860,35 @@
     "time_ago": "16d ago"
   },
   {
+    "id": "6e187954d9ee",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "critical",
+    "content": "Dr. Rand Paul\u2019s Legislation to Lower Drug Prices Unanimously Advances Out of Committee. The post  Dr. Rand Paul\u2019s Legislation to Lower Drug Prices Unanimously Advances Out of Committee  appeared first on  Senator Rand Paul",
+    "tags": [
+      "Healthcare",
+      "Defense",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "LLY",
+      "PFE",
+      "JNJ",
+      "MRK"
+    ],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
+    "published_iso": "2026-07-23T16:35:29+00:00",
+    "time_ago": "29d ago"
+  },
+  {
     "id": "de38f5381391",
     "politician": "U.S. Treasury",
     "initials": "TRS",
@@ -891,7 +907,102 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "29d ago"
+    "time_ago": "30d ago"
+  },
+  {
+    "id": "98b90fd8352a",
+    "politician": "Sen. Cynthia Lummis",
+    "initials": "CL",
+    "role": "Senate Banking Subcommittee (Crypto)",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#c4b5fd"
+    },
+    "severity": "critical",
+    "content": "Lummis Releases Updated Clarity Act Text. Washington, D.C.\u2014&#160;Today, Senate Banking Digital Assets Subcommittee Chair Cynthia Lummis (R-WY) released updated text for the&#160;Digital Asset Market Clarity Act&#160;(H.R. 3633), which reflects the merged work products of the Banking and Agriculture Committees.&#160; \u201cT",
+    "tags": [
+      "Crypto",
+      "Agriculture",
+      "Banking",
+      "Defense"
+    ],
+    "tickers": [
+      "BTC",
+      "ETH",
+      "COIN",
+      "XRP"
+    ],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "https://www.lummis.senate.gov/press-releases/lummis-releases-updated-clarity-act-text/",
+    "published_iso": "2026-07-22T16:49:25+00:00",
+    "time_ago": "30d ago"
+  },
+  {
+    "id": "eb1d45f105fb",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "low",
+    "content": "The post    appeared first on  Senator Rand Paul",
+    "tags": [
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "https://www.paul.senate.gov/266583-2/",
+    "published_iso": "2026-07-22T12:28:35+00:00",
+    "time_ago": "30d ago"
+  },
+  {
+    "id": "555d7f3dd315",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "low",
+    "content": "Chairman Paul Releases Documents Showing CBP Prepared to Question and Search Peter Daszak \u2014 Until the FBI Stepped In. The post  Chairman Paul Releases Documents Showing CBP Prepared to Question and Search Peter Daszak \u2014 Until the FBI Stepped In  appeared first on  Senator Rand Paul",
+    "tags": [
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
+    "published_iso": "2026-07-20T20:53:36+00:00",
+    "time_ago": "31d ago"
+  },
+  {
+    "id": "00574dc3c125",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "medium",
+    "content": "Chairman Paul Launches \u201cThe Reading Room,\u201d a Public Archive of the Committee\u2019s Ongoing COVID-19 Origins Investigations. The post  Chairman Paul Launches &#8220;The Reading Room,&#8221; a Public Archive of the Committee&#8217;s Ongoing COVID-19 Origins Investigations  appeared first on  Senator Rand Paul",
+    "tags": [
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "https://www.paul.senate.gov/chairman-paul-launches-the-reading-room-a-public-archive-of-the-committees-ongoing-covid-19-origins-investigations/",
+    "published_iso": "2026-07-20T20:42:12+00:00",
+    "time_ago": "31d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -1003,7 +1114,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "148d ago"
+    "time_ago": "149d ago"
   },
   {
     "id": "00f579ee8f55",
@@ -1044,6 +1155,32 @@
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
     "time_ago": "189d ago"
+  },
+  {
+    "id": "c3776ad92a42",
+    "politician": "Sen. Bernie Sanders",
+    "initials": "BS",
+    "role": "Senate HELP Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#818cf8"
+    },
+    "severity": "critical",
+    "content": "ADVISORY: Sanders to Hold Town Meeting on Vermont Health Care Crisis with UVM Health CEO. BURLINGTON, Vt., Jan. 22 \u2013 Sen. Bernie Sanders (I-Vt.) will hold a town meeting with University of Vermont (UVM) Health CEO Dr. Stephen Leffler on Friday, January 23 at 7:00 p.m. to discuss Vermont\u2019s health care crisis. Vermonters",
+    "tags": [
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
+    "published_iso": "2026-01-22T17:09:24+00:00",
+    "time_ago": "211d ago"
   },
   {
     "id": "d3ca74df7f0f",
