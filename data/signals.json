@@ -1,64 +1,25 @@
 [
   {
-    "id": "5eb581f7a017",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "5b2ffefe69a8",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "John Hancock Stable Value Fund Collective Investment Trust bought 301,659 shares of Manulife Private Credit Plus Fund \u00b7 $19.89/share \u00b7 $6,000,000 total \u00b7 Aug 21",
-    "tags": [],
+    "severity": "critical",
+    "content": "Live updates: Trump lifts beef import tariffs, heads to South Carolina to rally for Graham. President Trump on Friday sought to ease price pressure on beef prices by temporarily lifting the tariffs on imported beef. The move drew swift and sharp rebukes from some lawmakers and ranchers. Trump is set to hit the campaign",
+    "tags": [
+      "Trade",
+      "Regulation"
+    ],
     "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2055606/000205560626000004/0002055606-26-000004-index.htm",
-    "published_iso": "2026-08-21T19:05:32+00:00",
-    "time_ago": "just now"
-  },
-  {
-    "id": "19161ecac104",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Quinton Keith bought 5,000 shares of Eaton Vance Enhanced Equity Income Fund Ii (EOS) \u00b7 $21.39/share \u00b7 $106,950 total \u00b7 Aug 21",
-    "tags": [],
-    "tickers": [
-      "EOS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1754991/000122520826007270/0001225208-26-007270-index.htm",
-    "published_iso": "2026-08-21T19:02:28+00:00",
-    "time_ago": "3m ago"
-  },
-  {
-    "id": "7f1c4b4ec131",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Quinton Keith sold 10,300 shares of Eaton Vance Floating-Rate Income Trust (EFT) \u00b7 $10.70/share \u00b7 $110,210 total \u00b7 Aug 21",
-    "tags": [],
-    "tickers": [
-      "EFT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1754991/000122520826007269/0001225208-26-007269-index.htm",
-    "published_iso": "2026-08-21T19:01:27+00:00",
-    "time_ago": "4m ago"
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6042837-live-updates-trump-graham-south-carolina-national-debt-white-house-ballroom/",
+    "published_iso": "2026-08-21T19:10:20+00:00",
+    "time_ago": "23m ago"
   },
   {
     "id": "391d4aa8a419",
@@ -82,7 +43,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/business/6042474-walmart-tariff-refund-lowering-prices/",
     "published_iso": "2026-08-21T18:34:58+00:00",
-    "time_ago": "31m ago"
+    "time_ago": "59m ago"
   },
   {
     "id": "91d40345ed03",
