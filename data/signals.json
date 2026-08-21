@@ -1,6 +1,6 @@
 [
   {
-    "id": "d2065b8dd5e2",
+    "id": "9214e2da6af0",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,79 +9,42 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Donegal Mutual Insurance Co bought 9,700 shares of Donegal Group Inc (DGICB) \u00b7 $18.61/share \u00b7 $180,522 total \u00b7 Aug 21 ($363,655 across all blocks)",
+    "content": "Tameron David sold 4,321 shares of Bkv Corp (BKV) \u00b7 $26.56/share \u00b7 $114,766 total \u00b7 Aug 21",
     "tags": [],
     "tickers": [
-      "DGICB"
+      "BKV"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/935596/000093559626000018/0000935596-26-000018-index.htm",
-    "published_iso": "2026-08-21T13:23:15+00:00",
-    "time_ago": "5m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1954214/000162828026058337/0001628280-26-058337-index.htm",
+    "published_iso": "2026-08-21T14:06:24+00:00",
+    "time_ago": "1m ago"
   },
   {
-    "id": "21cd898c3df1",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "6e881d153eb4",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Brown Bruce bought 30,000 shares of Innventure, Inc. (INVLW) \u00b7 $1.51/share \u00b7 $45,399 total \u00b7 Aug 21",
-    "tags": [],
+    "severity": "critical",
+    "content": "The hemp loophole has become a national intoxicant market. An op-ed argues that while recent federal legislation aims to correct the 2018 farm bill's loophole regarding intoxicating hemp products, states must maintain authority to regulate the burgeoning market to prevent it from becoming politically entrenched",
+    "tags": [
+      "Agriculture",
+      "Regulation"
+    ],
     "tickers": [
-      "INVLW"
+      "CORN",
+      "SOYB",
+      "DE"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2001557/000200155726000156/0002001557-26-000156-index.htm",
-    "published_iso": "2026-08-21T13:22:52+00:00",
-    "time_ago": "6m ago"
-  },
-  {
-    "id": "8cfe712fd68c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Morse Laurence C disposed of 8,025 shares of Webster Financial Corp (WBS-PG) \u00b7 Aug 21 ($0 across all blocks)",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1275668/000127566826000004/0001275668-26-000004-index.htm",
-    "published_iso": "2026-08-21T13:22:03+00:00",
-    "time_ago": "6m ago"
-  },
-  {
-    "id": "74115e985698",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Krynick Benjamin L. disposed of 20,183 shares of Webster Financial Corp (WBS-PG) \u00b7 Aug 21",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2009786/000200978626000010/0002009786-26-000010-index.htm",
-    "published_iso": "2026-08-21T13:18:49+00:00",
-    "time_ago": "10m ago"
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/healthcare/6042789-states-fight-hemp-loophole/",
+    "published_iso": "2026-08-21T13:30:00+00:00",
+    "time_ago": "37m ago"
   },
   {
     "id": "858cb976317c",
@@ -106,33 +69,6 @@
     "platform": "The Hill",
     "url": "https://thehill.com/policy/international/6043090-iran-reaction-us-sanctions-trump-administration-war/",
     "published_iso": "2026-08-21T12:38:00+00:00",
-    "time_ago": "51m ago"
-  },
-  {
-    "id": "f9eca6fe6505",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "8 killed in plane crash at remote Alaska radar site: US military. Eight people were killed after the charter airplane they were traveling on crashed in Alaska on Thursday afternoon, according to the Federal Aviation Administration (FAA).\u00a0 The crash occurred near the Cape Newenham Long Range Radar Site Airport, a U.S. A",
-    "tags": [
-      "Defense",
-      "Taxes"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/state-watch/6043055-plane-crash-alaska-8-killed/",
-    "published_iso": "2026-08-21T11:47:08+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -154,7 +90,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17148/fisheries-of-the-northeastern-united-states-mackerel-squid-and-butterfish-2026-illex-squid-quota",
     "published_iso": "2026-08-21T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "3dd9bb66a81c",
@@ -179,7 +115,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17146/inflation-adjustment-for-eoir-obbba-fees-fiscal-year-2027",
     "published_iso": "2026-08-21T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "455cccb606e0",
@@ -200,7 +136,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17145/environmental-protection-regulations-for-domestic-licensing-and-related-regulatory-functions",
     "published_iso": "2026-08-21T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "5832daf773c3",
@@ -219,7 +155,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17131/security-zone-ohio-river-cincinnati-oh",
     "published_iso": "2026-08-21T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "1a81259efb2f",
@@ -238,7 +174,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17129/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-north",
     "published_iso": "2026-08-21T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "638be4cfe52f",
@@ -257,7 +193,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17120/fisheries-of-the-south-atlantic-2026-commercial-closure-of-red-snapper-in-the-south-atlantic",
     "published_iso": "2026-08-21T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "c2a16643f00c",
@@ -278,7 +214,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17116/modifications-to-the-regulations-implementing-the-vietnam-era-veterans-readjustment-assistance-act",
     "published_iso": "2026-08-21T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "35d1e8690137",
@@ -300,7 +236,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/08/national-security-presidential-memorandum-nspm-17/",
     "published_iso": "2026-08-20T20:54:58+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "2fdc12a473ec",
@@ -322,7 +258,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/president-trumps-cabinet-champions-america-first-successes-nationwide/",
     "published_iso": "2026-08-20T20:43:03+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "f94dfeb7969d",
@@ -343,7 +279,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/08/2-million-donation-expands-first-lady-melania-trumps-fostering-the-future-initiative-to-indiana-university-and-purdue-university/",
     "published_iso": "2026-08-20T20:41:41+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "f281bf40952f",
@@ -369,7 +305,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
     "published_iso": "2026-08-20T20:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "0559c8e7bc33",
@@ -395,7 +331,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "d1faa9166adb",
@@ -421,7 +357,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "58a834094d82",
@@ -1121,7 +1057,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "143d ago"
+    "time_ago": "144d ago"
   },
   {
     "id": "432e035b915b",
