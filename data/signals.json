@@ -1,6 +1,6 @@
 [
   {
-    "id": "23224c5d0448",
+    "id": "a49ff84d84fe",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,43 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Pietracci Bruno exercised options for 41,365 shares of Coca Cola Co (KO) \u00b7 $61.34/share \u00b7 $2,537,329 total \u00b7 Aug 24 ($16,872,640 across all blocks)",
+    "content": "Gigler Arthur Jacob received 323,000 shares of Track Group, Inc. (TRCK) \u00b7 Aug 24",
     "tags": [],
     "tickers": [
-      "KO"
+      "TRCK"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1962117/000002134426000167/0000021344-26-000167-index.htm",
-    "published_iso": "2026-08-24T16:04:00+00:00",
-    "time_ago": "2m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2048260/000204826026000002/0002048260-26-000002-index.htm",
+    "published_iso": "2026-08-24T16:42:58+00:00",
+    "time_ago": "9m ago"
   },
   {
-    "id": "9dbdefc27c08",
+    "id": "5a66a6a985a7",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "New York supermarkets sue over Mamdani's municipal grocery stores. A group of grocers in New York City filed two separate lawsuits on Monday against Mayor Zohran Mamdani\u2019s administration following the proposal of municipal grocery stores across the Big Apple. Plaintiffs united under the Multicultural Business Coalition",
+    "tags": [
+      "Big Tech",
+      "Regulation"
+    ],
+    "tickers": [
+      "AAPL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/state-watch/6046875-nyc-grocers-sue-mamdani-administration/",
+    "published_iso": "2026-08-24T16:32:19+00:00",
+    "time_ago": "20m ago"
+  },
+  {
+    "id": "8b6bb555116f",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -30,20 +54,16 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Trump threatens 50 percent New Year's Day tariffs on more Canadian goods. President Trump hit back at Canadian Prime Minister Mark Carney on Monday, threatening to hit imported cars, trucks, auto parts and steel with 50 percent tariffs. The new tariffs would take effect on Jan. 1. \u201cCanada has been ripping off the Unite",
+    "content": "Shapiro on Canada tariffs: Trump chooses 'chaos and cruelty'. Pennsylvania Gov. Josh Shapiro (D) on Sunday slammed the new tariffs on Canada from the Trump administration, claiming that President Trump \u201cis destroying the relationship with one of our country\u2019s strongest allies.\u201d \u201cSince Day One, Donald Trump has chosen c",
     "tags": [
       "Trade"
     ],
-    "tickers": [
-      "X",
-      "AA",
-      "NUE"
-    ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6046764-canada-tariffs-donald-trump-mark-carney-steel-cars/",
-    "published_iso": "2026-08-24T14:37:46+00:00",
-    "time_ago": "1h ago"
+    "url": "https://thehill.com/business/6046949-shapiro-slams-trump-canada-tariffs/",
+    "published_iso": "2026-08-24T16:10:07+00:00",
+    "time_ago": "42m ago"
   },
   {
     "id": "e32dd7ea1f29",
@@ -751,7 +771,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s224?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-07T16:43:00+00:00",
-    "time_ago": "16d ago"
+    "time_ago": "17d ago"
   },
   {
     "id": "baf26d52584e",
@@ -779,7 +799,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "16d ago"
+    "time_ago": "17d ago"
   },
   {
     "id": "63e88990093a",
@@ -886,7 +906,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "31d ago"
+    "time_ago": "32d ago"
   },
   {
     "id": "de38f5381391",
@@ -936,7 +956,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-releases-updated-clarity-act-text/",
     "published_iso": "2026-07-22T16:49:25+00:00",
-    "time_ago": "32d ago"
+    "time_ago": "33d ago"
   },
   {
     "id": "eb1d45f105fb",
