@@ -1,44 +1,60 @@
 [
   {
-    "id": "d4756e3068c4",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "32e3241e3874",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Canada's opposition leader demands Carney reconvene Parliament after US trade talks collapse. Canadian opposition leader Pierre Poilievre pressed his country\u2019s prime minister, Mark Carney, to reconvene the Canadian Parliament amid trade tensions with the U.S. \u201cAs Canadians are vulnerable to an escalating trade war with",
-    "tags": [
-      "Trade",
-      "Energy"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/international/6047179-poilievre-urges-carney-reconvene-parliament/",
-    "published_iso": "2026-08-24T17:34:24+00:00",
-    "time_ago": "44m ago"
-  },
-  {
-    "id": "8159b6d94bad",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Vance defends Canada trade war in visit to Maine; Collins skips rally. BREWER, Maine \u2014 Vice President Vance rallied Republicans in Maine on Monday, defending the escalating trade war with Canada that has drawn criticism from Sen. Susan Collins (R), who skipped the event.  Collins previously said she was already \u201cschedu",
+    "content": "Gama Paul sold 3,396 shares of Procter & Gamble Co (PG) \u00b7 $143.79/share \u00b7 $488,311 total \u00b7 Aug 24",
+    "tags": [],
+    "tickers": [
+      "PG"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2110932/000008042426000148/0000080424-26-000148-index.htm",
+    "published_iso": "2026-08-24T19:04:10+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "703dfaf15b80",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Reeves Donald L. Iii sold 247 shares of Itron, Inc. (ITRI) \u00b7 $98.87/share \u00b7 $24,421 total \u00b7 Aug 24",
+    "tags": [],
+    "tickers": [
+      "ITRI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1571605/000078057126000196/0000780571-26-000196-index.htm",
+    "published_iso": "2026-08-24T19:01:16+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "9895be9a916d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "What to know about US-Canada trade war impacts. The burgeoning trade war between the U.S. and Canada will impact a slew of products that businesses in both countries import from one another.\u00a0 After trade talks between Trump administration officials and their Canadian counterparts broke down late last week, President Tr",
     "tags": [
-      "Trade"
+      "Trade",
+      "Regulation"
     ],
     "tickers": [
       "NVDA",
@@ -48,31 +64,9 @@
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6047160-vance-defends-canada-tariffs-maine-collins-skips/",
-    "published_iso": "2026-08-24T17:27:40+00:00",
-    "time_ago": "51m ago"
-  },
-  {
-    "id": "eeb8becf4d09",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Oklahoma GOP gubernatorial candidate: Trump's 'wrong' on tariffs, beef imports. Oklahoma Attorney General Gentner Drummond, a candidate in Tuesday\u2019s GOP runoff for governor, said on Sunday that President Trump is \u201cwrong\u201d on tariffs and his beef import plan. \u201cI think Oklahoma and I are supportive of President Trump and ",
-    "tags": [
-      "Trade",
-      "Defense"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/6047107-drummond-critiques-trump-beef-tariffs/",
-    "published_iso": "2026-08-24T17:21:32+00:00",
-    "time_ago": "57m ago"
+    "url": "https://thehill.com/business/6047338-us-canada-trade-war-escalates/",
+    "published_iso": "2026-08-24T18:47:08+00:00",
+    "time_ago": "18m ago"
   },
   {
     "id": "0cfb086777f6",
@@ -95,58 +89,6 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mttsut32nk2j",
     "published_iso": "2026-08-24T17:20:57.062000+00:00",
-    "time_ago": "57m ago"
-  },
-  {
-    "id": "79c82abb2282",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Live updates: Bessent teases new Iran sanctions, saying appeasement no longer works. Treasury Secretary Scott Bessent announced a maximum pressure campaign of sanctions against Iran on Monday, dubbing it \"Operation Outcast.\" He said sanctions would be announced imminently as the Trump administration ramped up its press",
-    "tags": [
-      "China",
-      "Taxes",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6046040-live-updates-donald-trump-scott-bessent-iran-war-sanctions-tariffs/",
-    "published_iso": "2026-08-24T17:20:38+00:00",
-    "time_ago": "58m ago"
-  },
-  {
-    "id": "e8f62bd0d5eb",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Watch live: Bessent unveils 'economic D-day' sanctions on Iran. Treasury Secretary Scott Bessent on Monday afternoon will unveil new sanctions on Iran, escalating the Trump administration's pressure on the Islamic Republic to negotiate a deal to end the conflict and fully reopen the Strait of Hormuz. President Trump wa",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/video-clips/6046874-watch-live-scott-bessent-sanctions-iran-war/",
-    "published_iso": "2026-08-24T16:52:10+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -168,7 +110,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-champions-educational-freedom-putting-students-and-parents-first/",
     "published_iso": "2026-08-24T16:41:15+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "e32dd7ea1f29",
@@ -196,7 +138,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17231/revisions-to-the-entity-list",
     "published_iso": "2026-08-24T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "5dabb40c6b31",
@@ -218,7 +160,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17230/removal-from-the-entity-list",
     "published_iso": "2026-08-24T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "2dfd15c0e941",
@@ -239,7 +181,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17228/coastal-migratory-pelagic-resources-of-the-gulf-and-atlantic-region-commercial-closure-for-atlantic",
     "published_iso": "2026-08-24T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "d39229fbf263",
@@ -258,7 +200,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17217/safety-zone-tv-denise-foss-on-1254223-honolulu-hi",
     "published_iso": "2026-08-24T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "44890ee4991a",
@@ -279,7 +221,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17198/gulf-islands-national-seashore-personal-watercraft",
     "published_iso": "2026-08-24T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "3d01d9fb4fef",
@@ -636,7 +578,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtcf4y4lwc22",
     "published_iso": "2026-08-17T18:59:42.852000+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "7e212644f901",
@@ -1006,7 +948,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "32d ago"
+    "time_ago": "33d ago"
   },
   {
     "id": "98b90fd8352a",
@@ -1213,7 +1155,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "151d ago"
+    "time_ago": "152d ago"
   },
   {
     "id": "00f579ee8f55",
