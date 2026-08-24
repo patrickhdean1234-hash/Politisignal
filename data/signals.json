@@ -1,6 +1,6 @@
 [
   {
-    "id": "d5fa6b3713d9",
+    "id": "8cc9db745211",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,18 +9,105 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Sardano Joseph C bought 20,000 shares of Sensus Healthcare, Inc. (SRTS) \u00b7 $3.02/share \u00b7 $60,486 total \u00b7 Aug 24",
-    "tags": [
-      "Healthcare"
-    ],
+    "content": "Buckley Sean Jack sold 4,280 shares of Roblox Corp (RBLX) \u00b7 $37.81/share \u00b7 $161,847 total \u00b7 Aug 24 ($212,900 across all blocks)",
+    "tags": [],
     "tickers": [
-      "SRTS"
+      "RBLX"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1494891/000130011126000002/0001300111-26-000002-index.htm",
-    "published_iso": "2026-08-24T20:00:10+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/2122649/000131509826000174/0001315098-26-000174-index.htm",
+    "published_iso": "2026-08-24T20:39:53+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "549d13fb3ce5",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Shaffer Mark E. received 328 shares of Merchants Bancorp (MBINL) \u00b7 $53.50/share \u00b7 $17,548 total \u00b7 Aug 24",
+    "tags": [],
+    "tickers": [
+      "MBINL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2135516/000213551626000004/0002135516-26-000004-index.htm",
+    "published_iso": "2026-08-24T20:39:44+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "3ebfb9032ccc",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Sellers Anne E. received 328 shares of Merchants Bancorp (MBINL) \u00b7 $53.50/share \u00b7 $17,548 total \u00b7 Aug 24",
+    "tags": [],
+    "tickers": [
+      "MBINL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1719301/000171930126000004/0001719301-26-000004-index.htm",
+    "published_iso": "2026-08-24T20:39:28+00:00",
     "time_ago": "1m ago"
+  },
+  {
+    "id": "26d656824c32",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Rawlings Amy Marie sold 3,885 shares of Roblox Corp (RBLX) \u00b7 $37.81/share \u00b7 $146,896 total \u00b7 Aug 24 ($192,143 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "RBLX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1875017/000131509826000173/0001315098-26-000173-index.htm",
+    "published_iso": "2026-08-24T20:39:11+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "ea3a37cdabd5",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Raskin: 'Trump's idiotic trade war killing American businesses'. Rep. Jamie Raskin (D-Md.) on Sunday went after President Trump for his recent tariffs on Canada. \u201cStop Trump\u2019s idiotic trade war killing American businesses. Let peaceful commerce among the nations prevail. And hands off Canada, America\u2019s #1 trading partn",
+    "tags": [
+      "Trade"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/house/6047644-raskin-criticizes-trump-canada-tariffs/",
+    "published_iso": "2026-08-24T20:02:32+00:00",
+    "time_ago": "38m ago"
   },
   {
     "id": "054f3dcd00b6",
@@ -48,49 +135,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/policy/defense/6047529-us-military-drug-boat-strike/",
     "published_iso": "2026-08-24T19:17:45+00:00",
-    "time_ago": "43m ago"
-  },
-  {
-    "id": "5bd83e8e0e35",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Paramount, California attorney general scrap meeting over merger legal battle. Officials at Paramount and California Attorney General Rob Bonta's (D) office canceled a meeting set for Monday as tensions hold between the two sides over a planned mega-merger the media conglomerate is pursing with Warner Bros. Discovery. ",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/media/6047436-california-attorney-general-rob-bonta-paramount-meeting-cancelled-warner-bros-discovery-merger/",
-    "published_iso": "2026-08-24T19:06:32+00:00",
-    "time_ago": "55m ago"
-  },
-  {
-    "id": "0cfb086777f6",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "If Jensen Huang has time to attend a $1 million-a-head dinner at Mar-a-Lago and fly across the world to meet with President Xi Jinping, he can find time to testify in front of Congress about reports that NVIDIA technology is powering Russia\u2019s war machine.",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [
-      "NVDA"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mttsut32nk2j",
-    "published_iso": "2026-08-24T17:20:57.062000+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "ee63da311890",
@@ -819,7 +864,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
     "published_iso": "2026-08-04T20:30:00+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "20080fd47dd8",
@@ -845,7 +890,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm",
     "published_iso": "2026-08-04T20:30:00+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "0d330c4dedb5",
@@ -871,7 +916,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
     "published_iso": "2026-08-04T20:30:00+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "6e187954d9ee",
