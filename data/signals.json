@@ -1,6 +1,6 @@
 [
   {
-    "id": "22f4f8713086",
+    "id": "04afa7f7228c",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,35 +9,63 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Mcnamara Kevin J sold 2,000 shares of Chemed Corp (CHE) \u00b7 $541.16/share \u00b7 $1,082,320 total \u00b7 Aug 24",
+    "content": "Patrick Justin K sold 212 shares of Itron, Inc. (ITRI) \u00b7 $97.83/share \u00b7 $20,739 total \u00b7 Aug 24",
     "tags": [],
     "tickers": [
-      "CHE"
+      "ITRI"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1207137/000119312526362133/0001193125-26-362133-index.htm",
-    "published_iso": "2026-08-24T13:49:31+00:00",
-    "time_ago": "16m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1802633/000078057126000184/0000780571-26-000184-index.htm",
+    "published_iso": "2026-08-24T14:51:26+00:00",
+    "time_ago": "3m ago"
   },
   {
-    "id": "0b0c0840f827",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "ead7347a1bf8",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Saba Capital Management, L.P. bought 1,547 shares of Ellsworth Growth & Income Fund Ltd (ECF-PA) \u00b7 $12.52/share \u00b7 $19,368 total \u00b7 Aug 24 ($91,316 across all blocks)",
-    "tags": [],
+    "severity": "low",
+    "content": "Trump planning visit to Ireland for tournament at his golf course. President Trump will reportedly head to Ireland next month to attend the Irish Open at his golf course in Doonbeg.  Trump will be in Ireland on Sept. 12 and 13, the final two days of the tournament, a White House official told The Associated Press. The ",
+    "tags": [
+      "Taxes"
+    ],
     "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1510281/000151028126000277/0001510281-26-000277-index.htm",
-    "published_iso": "2026-08-24T13:42:38+00:00",
-    "time_ago": "23m ago"
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6046496-trump-ireland-golf-tournament/",
+    "published_iso": "2026-08-24T14:02:32+00:00",
+    "time_ago": "52m ago"
+  },
+  {
+    "id": "86430d3f7585",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "low",
+    "content": "25 Years after 9/11, Bin Laden has achieved one of his major goals. A Marine veteran argues that twenty-five years of post-9/11 military spending and global counterterrorism efforts have failed to defeat terrorism and instead fulfilled Osama bin Laden's goal of crippling the American economy",
+    "tags": [
+      "Defense"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/national-security/6045928-war-on-terror-cost-analysis/",
+    "published_iso": "2026-08-24T14:00:00+00:00",
+    "time_ago": "55m ago"
   },
   {
     "id": "9af381b29a42",
@@ -49,7 +77,7 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Editor's call: US-Canada trade war erupts; Trump faces beef backlash; Graham's final SC push. Join The Hill's editors for a rundown of a wild few days in economic news, as trade talks with Canada rapidly turn into a tit-for-tat tariff war and President Trump's plan to import discounted beef draws a fierce backlash from",
+    "content": "Editor's call: US-Canada trade war erupts; Trump faces beef backlash; Graham's final South Carolina push. Join The Hill's editors for a rundown of a wild few days in economic news, as trade talks with Canada rapidly turn into a tit-for-tat tariff war and President Trump's plan to import discounted beef draws fierce bac",
     "tags": [
       "Trade"
     ],
@@ -84,31 +112,6 @@
     "platform": "The Hill",
     "url": "https://thehill.com/opinion/civil-rights/6044413-debate-jewish-religion-race/",
     "published_iso": "2026-08-24T13:00:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "dc5136174846",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Live updates: Trump administration ramps up Iran pressure as \u2018economic D-Day\u2019 arrives. The Trump administration is ramping up its pressure campaign against Iran on Monday, with Treasury Secretary Scott Bessent set to unveil new sanctions in what has been dubbed an \u201ceconomic D-Day.\" The operation is aimed at crippling T",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6046040-live-updates-donald-trump-scott-bessent-iran-war-sanctions-tariffs/",
-    "published_iso": "2026-08-24T12:33:48+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -507,7 +510,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtjgkmjz3k2d",
     "published_iso": "2026-08-20T14:13:52.383000+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "d0c7e0959feb",
@@ -1115,7 +1118,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "110d ago"
+    "time_ago": "111d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1137,7 +1140,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "118d ago"
+    "time_ago": "119d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1201,7 +1204,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "191d ago"
+    "time_ago": "192d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1220,7 +1223,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "191d ago"
+    "time_ago": "192d ago"
   },
   {
     "id": "c3776ad92a42",
