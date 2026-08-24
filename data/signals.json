@@ -18,7 +18,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/2121606/000119312526361711/0001193125-26-361711-index.htm",
     "published_iso": "2026-08-24T10:04:00+00:00",
-    "time_ago": "1m ago"
+    "time_ago": "45m ago"
   },
   {
     "id": "a610b032c440",
@@ -39,7 +39,36 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1621346/000162134626000006/0001621346-26-000006-index.htm",
     "published_iso": "2026-08-24T10:01:51+00:00",
-    "time_ago": "3m ago"
+    "time_ago": "47m ago"
+  },
+  {
+    "id": "fa62b3c47049",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Trump's 'economic D-Day' on Iran puts China in the crosshairs. President Trump\u2019s announcement of a major economic warfare campaign against Iran also has the effect of putting China in the crosshairs, the Islamic republic\u2019s largest trading partner and primary purchaser of its oil exports. Trump\u2019s threats to go after any",
+    "tags": [
+      "Trade",
+      "China",
+      "Energy",
+      "Banking"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6044341-trump-iran-economic-warfare-china/",
+    "published_iso": "2026-08-24T10:00:00+00:00",
+    "time_ago": "49m ago"
   },
   {
     "id": "e32dd7ea1f29",
@@ -153,32 +182,6 @@
     "time_ago": "6h ago"
   },
   {
-    "id": "fbd008a9fa41",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Zeldin warns against banning data centers in US, citing China. Lee Zeldin, administrator of the Environmental Protection Agency (EPA), on Sunday warned against banning data centers, citing implications for the U.S. in the artificial intelligence\u00a0race to outpace China.\u00a0 \u201cThere's been a push from some states where they'r",
-    "tags": [
-      "China"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/energy-environment/6045971-zeldin-warns-against-data-center-bans/",
-    "published_iso": "2026-08-23T21:26:14+00:00",
-    "time_ago": "12h ago"
-  },
-  {
     "id": "ff3750f785b5",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
@@ -200,7 +203,7 @@
     "time_ago": "2d ago"
   },
   {
-    "id": "f097f8cdf6d7",
+    "id": "4c6cc7a7057e",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -209,7 +212,7 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Francisco Partners Gp Iv Management Ltd converted 4,995,903 shares of Goodrx Holdings, Inc. (GDRX) \u00b7 Aug 21 ($4,201,230 across all blocks)",
+    "content": "Francisco Partners Gp Iv, L.P. converted 4,995,903 shares of Goodrx Holdings, Inc. (GDRX) \u00b7 Aug 21 ($4,201,230 across all blocks)",
     "tags": [],
     "tickers": [
       "GDRX"
@@ -266,6 +269,31 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-and-republicans-deliver-for-south-carolina-families/",
     "published_iso": "2026-08-21T20:00:54+00:00",
+    "time_ago": "2d ago"
+  },
+  {
+    "id": "91d40345ed03",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Medicare for All could save $1 trillion a year and 114,000 lives.\n\nCongress must pass Medicare for All and finally guarantee health care as a right for every American.",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/khanna.house.gov/post/3mtm4eksz2k2d",
+    "published_iso": "2026-08-21T15:49:31.050000+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -458,6 +486,31 @@
     "time_ago": "3d ago"
   },
   {
+    "id": "58a834094d82",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "A new Yale analysis found Medicare for All would cover every American AND save more than $1 trillion a year, cutting national health care spending by 20%.\n\nIt would also mean better pay for doctors, nurses, and healthcare providers. \n\nMedicare for All saves money and lives.",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/khanna.house.gov/post/3mtjgkmjz3k2d",
+    "published_iso": "2026-08-20T14:13:52.383000+00:00",
+    "time_ago": "3d ago"
+  },
+  {
     "id": "d0c7e0959feb",
     "politician": "White House",
     "initials": "WH",
@@ -527,6 +580,31 @@
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/august/road-iowa-america-first-trade-raising-wages-reshoring-jobs-and-restoring-americas-global",
     "published_iso": "2026-08-18T15:02:03+00:00",
     "time_ago": "5d ago"
+  },
+  {
+    "id": "e08373ee8350",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "If Obama had to offer cash to VP Biden when his son Beau was dying of cancer, what does that say about our society? Medicare for All is about human dignity and equality.",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/khanna.house.gov/post/3mtcf4y4lwc22",
+    "published_iso": "2026-08-17T18:59:42.852000+00:00",
+    "time_ago": "6d ago"
   },
   {
     "id": "7e212644f901",
