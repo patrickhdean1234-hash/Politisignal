@@ -1,45 +1,50 @@
 [
   {
-    "id": "32e3241e3874",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "054f3dcd00b6",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Gama Paul sold 3,396 shares of Procter & Gamble Co (PG) \u00b7 $143.79/share \u00b7 $488,311 total \u00b7 Aug 24",
-    "tags": [],
-    "tickers": [
-      "PG"
+    "severity": "high",
+    "content": "US military launches first known drug boat strike in months, killing 2 \u2018narco-terrorists\u2019. The U.S. military launched its first known alleged drug boat strike in two months off the coast of Latin America on Sunday, killing two \u201cnarco-terrorists\u201d in the eastern Pacific.\u00a0 The U.S. Southern Command (Southcom) said early M",
+    "tags": [
+      "Healthcare",
+      "Defense",
+      "Taxes"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2110932/000008042426000148/0000080424-26-000148-index.htm",
-    "published_iso": "2026-08-24T19:04:10+00:00",
-    "time_ago": "1m ago"
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/defense/6047529-us-military-drug-boat-strike/",
+    "published_iso": "2026-08-24T19:17:45+00:00",
+    "time_ago": "22m ago"
   },
   {
-    "id": "703dfaf15b80",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "5bd83e8e0e35",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Reeves Donald L. Iii sold 247 shares of Itron, Inc. (ITRI) \u00b7 $98.87/share \u00b7 $24,421 total \u00b7 Aug 24",
+    "content": "Paramount, California attorney general scrap meeting over merger legal battle. Officials at Paramount and California Attorney General Rob Bonta's (D) office canceled a meeting set for Monday as tensions hold between the two sides over a planned mega-merger the media conglomerate is pursing with Warner Bros. Discovery. ",
     "tags": [],
-    "tickers": [
-      "ITRI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1571605/000078057126000196/0000780571-26-000196-index.htm",
-    "published_iso": "2026-08-24T19:01:16+00:00",
-    "time_ago": "4m ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/media/6047436-california-attorney-general-rob-bonta-paramount-meeting-cancelled-warner-bros-discovery-merger/",
+    "published_iso": "2026-08-24T19:06:32+00:00",
+    "time_ago": "33m ago"
   },
   {
     "id": "9895be9a916d",
@@ -66,7 +71,28 @@
     "platform": "The Hill",
     "url": "https://thehill.com/business/6047338-us-canada-trade-war-escalates/",
     "published_iso": "2026-08-24T18:47:08+00:00",
-    "time_ago": "18m ago"
+    "time_ago": "52m ago"
+  },
+  {
+    "id": "a1f2ba08b663",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Azar Samak L sold 335 shares of Globalfoundries Inc. (GFS) \u00b7 $48.38/share \u00b7 $16,207 total \u00b7 Aug 24",
+    "tags": [],
+    "tickers": [
+      "GFS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2112079/000170904826000221/0001709048-26-000221-index.htm",
+    "published_iso": "2026-08-24T17:37:30+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "0cfb086777f6",
@@ -89,7 +115,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mttsut32nk2j",
     "published_iso": "2026-08-24T17:20:57.062000+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "ee63da311890",
@@ -482,34 +508,6 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtjgkmjz3k2d",
     "published_iso": "2026-08-20T14:13:52.383000+00:00",
-    "time_ago": "4d ago"
-  },
-  {
-    "id": "d0c7e0959feb",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "high",
-    "content": "President Trump\u2019s Trade Agenda Is Rebuilding the American Auto Industry. Ford Motor Company announced it will reshore production of its Lincoln models to the United States \u2014 phasing out imports from China and creating thousands of new American jobs. This is the latest proof that President Donald J. Trump\u2019s America Firs",
-    "tags": [
-      "Trade",
-      "China",
-      "Taxes"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/releases/2026/08/president-trumps-trade-agenda-is-rebuilding-the-american-auto-industry/",
-    "published_iso": "2026-08-19T21:42:19+00:00",
     "time_ago": "4d ago"
   },
   {
