@@ -1,6 +1,6 @@
 [
   {
-    "id": "a49ff84d84fe",
+    "id": "c2d7e0d8b397",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -8,17 +8,63 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "medium",
-    "content": "Gigler Arthur Jacob received 323,000 shares of Track Group, Inc. (TRCK) \u00b7 Aug 24",
+    "severity": "critical",
+    "content": "Hurley Michael L. sold 4,000 shares of Magnolia Bancorp, Inc. (MGNO) \u00b7 $13.71/share \u00b7 $54,840 total \u00b7 Aug 24",
     "tags": [],
     "tickers": [
-      "TRCK"
+      "MGNO"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2048260/000204826026000002/0002048260-26-000002-index.htm",
-    "published_iso": "2026-08-24T16:42:58+00:00",
-    "time_ago": "9m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2046134/000143774926028787/0001437749-26-028787-index.htm",
+    "published_iso": "2026-08-24T17:13:23+00:00",
+    "time_ago": "6m ago"
+  },
+  {
+    "id": "e8f62bd0d5eb",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Watch live: Bessent unveils 'economic D-day' sanctions on Iran. Treasury Secretary Scott Bessent on Monday afternoon will unveil new sanctions on Iran, escalating the Trump administration's pressure on the Islamic Republic to negotiate a deal to end the conflict and fully reopen the Strait of Hormuz. President Trump wa",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/video-clips/6046874-watch-live-scott-bessent-sanctions-iran-war/",
+    "published_iso": "2026-08-24T16:52:10+00:00",
+    "time_ago": "28m ago"
+  },
+  {
+    "id": "ee63da311890",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "President Trump Champions Educational Freedom \u2014 Putting Students and Parents First. Today, President Donald J. Trump welcomes students, parents, and education advocates to the White House to celebrate the start of a new school year. Under President Trump\u2019s and Secretary of Education Linda McMahon\u2019s leadership, this Adm",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-champions-educational-freedom-putting-students-and-parents-first/",
+    "published_iso": "2026-08-24T16:41:15+00:00",
+    "time_ago": "38m ago"
   },
   {
     "id": "5a66a6a985a7",
@@ -42,7 +88,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/state-watch/6046875-nyc-grocers-sue-mamdani-administration/",
     "published_iso": "2026-08-24T16:32:19+00:00",
-    "time_ago": "20m ago"
+    "time_ago": "47m ago"
   },
   {
     "id": "8b6bb555116f",
@@ -63,7 +109,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/business/6046949-shapiro-slams-trump-canada-tariffs/",
     "published_iso": "2026-08-24T16:10:07+00:00",
-    "time_ago": "42m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "e32dd7ea1f29",
@@ -91,7 +137,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17231/revisions-to-the-entity-list",
     "published_iso": "2026-08-24T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "5dabb40c6b31",
@@ -113,7 +159,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17230/removal-from-the-entity-list",
     "published_iso": "2026-08-24T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "2dfd15c0e941",
@@ -134,7 +180,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17228/coastal-migratory-pelagic-resources-of-the-gulf-and-atlantic-region-commercial-closure-for-atlantic",
     "published_iso": "2026-08-24T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "d39229fbf263",
@@ -153,7 +199,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17217/safety-zone-tv-denise-foss-on-1254223-honolulu-hi",
     "published_iso": "2026-08-24T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "44890ee4991a",
@@ -174,7 +220,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17198/gulf-islands-national-seashore-personal-watercraft",
     "published_iso": "2026-08-24T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "6752731b1c84",
@@ -1200,7 +1246,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "213d ago"
+    "time_ago": "214d ago"
   },
   {
     "id": "d3ca74df7f0f",
