@@ -1,5 +1,73 @@
 [
   {
+    "id": "cfd83162be19",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Edvardsen Svenn Magne sold 341,007 shares of Dht Holdings, Inc. (DHT) \u00b7 $20.29/share \u00b7 $6,919,032 total \u00b7 Aug 24",
+    "tags": [],
+    "tickers": [
+      "DHT"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1994108/000133128426000016/0001331284-26-000016-index.htm",
+    "published_iso": "2026-08-24T12:02:20+00:00",
+    "time_ago": "13m ago"
+  },
+  {
+    "id": "682a00a2c290",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Reingold Anton exercised options for 22,072 shares of Gdev Inc. (GDEVW) \u00b7 Aug 24 ($43,420 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "GDEVW"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2117387/000110465926099945/0001104659-26-099945-index.htm",
+    "published_iso": "2026-08-24T11:47:40+00:00",
+    "time_ago": "28m ago"
+  },
+  {
+    "id": "cf7f75eaebd3",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Congress must now do its part on Medicare fraud. Vice President JD Vance urged Congress to codify recent healthcare fraud enforcement successes into permanent law to prevent future administrations from undoing the current administration's progress",
+    "tags": [
+      "Healthcare",
+      "Regulation"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/healthcare/6046016-preventing-medicare-fraud-through-statutory-law/",
+    "published_iso": "2026-08-24T11:30:00+00:00",
+    "time_ago": "46m ago"
+  },
+  {
     "id": "02fffeafdbb9",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
@@ -18,7 +86,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1851666/000185166626000004/0001851666-26-000004-index.htm",
     "published_iso": "2026-08-24T11:20:07+00:00",
-    "time_ago": "25m ago"
+    "time_ago": "55m ago"
   },
   {
     "id": "729824dce9d5",
@@ -39,7 +107,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/2103955/000197640826000761/0001976408-26-000761-index.htm",
     "published_iso": "2026-08-24T11:19:11+00:00",
-    "time_ago": "26m ago"
+    "time_ago": "56m ago"
   },
   {
     "id": "dcf9e98464f9",
@@ -66,7 +134,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/newsletters/morning-report/6046357-trump-tariff-war-canada-anger/",
     "published_iso": "2026-08-24T11:15:00+00:00",
-    "time_ago": "31m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "31a3c2b4b1c5",
@@ -87,7 +155,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1745936/000114519726000172/0001145197-26-000172-index.htm",
     "published_iso": "2026-08-24T11:08:38+00:00",
-    "time_ago": "37m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "b8ea66c3c37d",
@@ -108,28 +176,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/2121606/000119312526361711/0001193125-26-361711-index.htm",
     "published_iso": "2026-08-24T10:04:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "a610b032c440",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Estrada Ingrid A sold 2,000 shares of Keysight Technologies, Inc. (KEYS) \u00b7 $314.66/share \u00b7 $629,320 total \u00b7 Aug 24",
-    "tags": [],
-    "tickers": [
-      "KEYS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1621346/000162134626000006/0001621346-26-000006-index.htm",
-    "published_iso": "2026-08-24T10:01:51+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "fa62b3c47049",
@@ -158,118 +205,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/administration/6044341-trump-iran-economic-warfare-china/",
     "published_iso": "2026-08-24T10:00:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "e32dd7ea1f29",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Revisions to the Entity List. In this rule, the Bureau of Industry and Security (BIS) revises the Export Administration Regulations (EAR) by removing two addresses associated with Arrow Electronics (Hong Kong) Co., Ltd. from the Entity List under the destination of China, People's Republic of (China). This determinatio",
-    "tags": [
-      "Trade",
-      "China",
-      "Regulation"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17231/revisions-to-the-entity-list",
-    "published_iso": "2026-08-24T04:00:00+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "5dabb40c6b31",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Removal From the Entity List. In this rule, the Bureau of Industry and Security (BIS) amends the Export Administration Regulations (EAR) by removing one entity from the Entity List under the destination of Turkey",
-    "tags": [
-      "Trade",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17230/removal-from-the-entity-list",
-    "published_iso": "2026-08-24T04:00:00+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "2dfd15c0e941",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Coastal Migratory Pelagic Resources of the Gulf and Atlantic Region; Commercial Closure for Atlantic Spanish Mackerel in the Northern Zone. NMFS implements an accountability measure (AM) for the commercial harvest of the Atlantic migratory group of Spanish mackerel in the northern zone of the Atlantic exclusive economi",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17228/coastal-migratory-pelagic-resources-of-the-gulf-and-atlantic-region-commercial-closure-for-atlantic",
-    "published_iso": "2026-08-24T04:00:00+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "d39229fbf263",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Safety Zone; T/V DENISE FOSS (O.N. 1254223), Honolulu, HI. The Coast Guard is establishing a temporary safety zone for navigable waters within a 500-yard radius of the T/V DENISE FOSS (O.N. 1254223) and its tow, FOSS 3612 (O.N. 1255436). The moving safety zone is needed to protect personnel, vessels, and the marine env",
-    "tags": [],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17217/safety-zone-tv-denise-foss-on-1254223-honolulu-hi",
-    "published_iso": "2026-08-24T04:00:00+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "44890ee4991a",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Gulf Islands National Seashore; Personal Watercraft. The National Park Service revises special regulations governing the use of personal watercraft at Gulf Islands National Seashore. This rule reduces the distance of flat wake speed zones from certain shorelines and codifies existing closures at West Petit Bois Island ",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17198/gulf-islands-national-seashore-personal-watercraft",
-    "published_iso": "2026-08-24T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "6752731b1c84",
@@ -343,52 +279,6 @@
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtm4eksz2k2d",
     "published_iso": "2026-08-21T15:49:31.050000+00:00",
     "time_ago": "2d ago"
-  },
-  {
-    "id": "2ff2c62beb62",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Fisheries of the Northeastern United States; Mackerel, Squid, and Butterfish; 2026 Illex Squid Quota Harvested. NMFS is closing the directed Illex squid fishery in Federal waters based on a projection that 96 percent of the 2026 domestic annual harvest (DAH) will be harvested. This closure is effective 0001 hour (hr) l",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17148/fisheries-of-the-northeastern-united-states-mackerel-squid-and-butterfish-2026-illex-squid-quota",
-    "published_iso": "2026-08-21T04:00:00+00:00",
-    "time_ago": "3d ago"
-  },
-  {
-    "id": "3dd9bb66a81c",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Inflation Adjustment for EOIR OBBBA Fees; Fiscal Year 2027. The Department of Justice (&quot;Department&quot;) is making inflationary adjustments to immigration-related fees for filings with the Executive Office for Immigration Review (&quot;EOIR&quot;) as required by the One Big Beautiful Bill Act for Fiscal Year (&qu",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
-    ],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17146/inflation-adjustment-for-eoir-obbba-fees-fiscal-year-2027",
-    "published_iso": "2026-08-21T04:00:00+00:00",
-    "time_ago": "3d ago"
   },
   {
     "id": "35d1e8690137",
