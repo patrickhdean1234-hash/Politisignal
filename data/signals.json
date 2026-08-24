@@ -1,6 +1,6 @@
 [
   {
-    "id": "04afa7f7228c",
+    "id": "2740a6369762",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,16 +9,83 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Patrick Justin K sold 212 shares of Itron, Inc. (ITRI) \u00b7 $97.83/share \u00b7 $20,739 total \u00b7 Aug 24",
+    "content": "Pariaros Symeon sold 2,676 shares of Eurodry Ltd. (EDRY) \u00b7 $45.80/share \u00b7 $122,561 total \u00b7 Aug 24",
     "tags": [],
     "tickers": [
-      "ITRI"
+      "EDRY"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1802633/000078057126000184/0000780571-26-000184-index.htm",
-    "published_iso": "2026-08-24T14:51:26+00:00",
-    "time_ago": "3m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2122342/000212234226000007/0002122342-26-000007-index.htm",
+    "published_iso": "2026-08-24T15:32:53+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "6222f2b37a17",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Tizzoni Alejandro Horacio bought 1,850 shares of Bladex, Inc. (BLX) \u00b7 $53.00/share \u00b7 $98,050 total \u00b7 Aug 24",
+    "tags": [],
+    "tickers": [
+      "BLX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2121835/000089054126000009/0000890541-26-000009-index.htm",
+    "published_iso": "2026-08-24T15:24:02+00:00",
+    "time_ago": "10m ago"
+  },
+  {
+    "id": "4be211564332",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Lindeman Oeyvind sold 7,500 shares of Navigator Holdings Ltd. (NVGS) \u00b7 $21.68/share \u00b7 $162,600 total \u00b7 Aug 24",
+    "tags": [],
+    "tickers": [
+      "NVGS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2118157/000119312526362485/0001193125-26-362485-index.htm",
+    "published_iso": "2026-08-24T15:19:59+00:00",
+    "time_ago": "14m ago"
+  },
+  {
+    "id": "9dbdefc27c08",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Trump threatens 50 percent New Year's Day tariffs on more Canadian goods. President Trump hit back at Canadian Prime Minister Mark Carney on Monday, threatening to hit imported cars, trucks, auto parts and steel with 50 percent tariffs. The new tariffs would take effect on Jan. 1. \u201cCanada has been ripping off the Unite",
+    "tags": [
+      "Trade"
+    ],
+    "tickers": [
+      "X",
+      "AA",
+      "NUE"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6046764-canada-tariffs-donald-trump-mark-carney-steel-cars/",
+    "published_iso": "2026-08-24T14:37:46+00:00",
+    "time_ago": "56m ago"
   },
   {
     "id": "ead7347a1bf8",
@@ -39,79 +106,6 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/administration/6046496-trump-ireland-golf-tournament/",
     "published_iso": "2026-08-24T14:02:32+00:00",
-    "time_ago": "52m ago"
-  },
-  {
-    "id": "86430d3f7585",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "low",
-    "content": "25 Years after 9/11, Bin Laden has achieved one of his major goals. A Marine veteran argues that twenty-five years of post-9/11 military spending and global counterterrorism efforts have failed to defeat terrorism and instead fulfilled Osama bin Laden's goal of crippling the American economy",
-    "tags": [
-      "Defense"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/national-security/6045928-war-on-terror-cost-analysis/",
-    "published_iso": "2026-08-24T14:00:00+00:00",
-    "time_ago": "55m ago"
-  },
-  {
-    "id": "9af381b29a42",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Editor's call: US-Canada trade war erupts; Trump faces beef backlash; Graham's final South Carolina push. Join The Hill's editors for a rundown of a wild few days in economic news, as trade talks with Canada rapidly turn into a tit-for-tat tariff war and President Trump's plan to import discounted beef draws fierce bac",
-    "tags": [
-      "Trade"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/editors-call/6046390-us-canada-tariff-war-trump-beef-iran-sanctions-darline-graham-south-carolina-discussion/",
-    "published_iso": "2026-08-24T13:05:20+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "bc74a9c070b4",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "What does it mean to be Jewish\u00a0in\u00a0a time of rising antisemitism?. The state of California is poised to become the first in the nation\u00a0to recognize\u00a0being Jewish as an ethnic and racial, not just a religious,\u00a0identity",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/civil-rights/6044413-debate-jewish-religion-race/",
-    "published_iso": "2026-08-24T13:00:00+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -140,7 +134,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17231/revisions-to-the-entity-list",
     "published_iso": "2026-08-24T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "5dabb40c6b31",
@@ -162,7 +156,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17230/removal-from-the-entity-list",
     "published_iso": "2026-08-24T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "2dfd15c0e941",
@@ -183,7 +177,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17228/coastal-migratory-pelagic-resources-of-the-gulf-and-atlantic-region-commercial-closure-for-atlantic",
     "published_iso": "2026-08-24T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "d39229fbf263",
@@ -202,7 +196,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17217/safety-zone-tv-denise-foss-on-1254223-honolulu-hi",
     "published_iso": "2026-08-24T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "44890ee4991a",
@@ -223,7 +217,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17198/gulf-islands-national-seashore-personal-watercraft",
     "published_iso": "2026-08-24T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "6752731b1c84",
@@ -459,7 +453,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "d1faa9166adb",
@@ -485,7 +479,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "58a834094d82",
@@ -581,7 +575,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/august/road-iowa-america-first-trade-raising-wages-reshoring-jobs-and-restoring-americas-global",
     "published_iso": "2026-08-18T15:02:03+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "e08373ee8350",
@@ -659,7 +653,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
     "published_iso": "2026-08-13T15:00:00+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "f9bb1b8a1a24",
@@ -1268,6 +1262,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "250d ago"
+    "time_ago": "251d ago"
   }
 ]
