@@ -1,6 +1,6 @@
 [
   {
-    "id": "d09a2be458b6",
+    "id": "18cd81420d80",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -8,20 +8,22 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "medium",
-    "content": "Leblanc Jeff bought 14,000 shares of Greenland Mines Ltd (GRMLW) \u00b7 $9.72/share \u00b7 $136,080 total \u00b7 Aug 25",
-    "tags": [],
+    "severity": "critical",
+    "content": "Zitterow David received 465 shares of Farmers & Merchants Bancorp (FMCB) \u00b7 $1,346.32/share \u00b7 $626,039 total \u00b7 Aug 25",
+    "tags": [
+      "Agriculture"
+    ],
     "tickers": [
-      "GRMLW"
+      "FMCB"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1907223/000121390026093307/0001213900-26-093307-index.htm",
-    "published_iso": "2026-08-25T13:59:22+00:00",
-    "time_ago": "7m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1705784/000121390026093355/0001213900-26-093355-index.htm",
+    "published_iso": "2026-08-25T14:58:46+00:00",
+    "time_ago": "1m ago"
   },
   {
-    "id": "bcc997d5cf1e",
+    "id": "e14ff06be80d",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -29,20 +31,22 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "medium",
-    "content": "Donegal Mutual Insurance Co bought 10,000 shares of Donegal Group Inc (DGICB) \u00b7 $18.68/share \u00b7 $186,757 total \u00b7 Aug 25 ($377,404 across all blocks)",
-    "tags": [],
+    "severity": "critical",
+    "content": "Bennett Thomas A received 212 shares of Farmers & Merchants Bancorp (FMCB) \u00b7 $1,346.32/share \u00b7 $285,420 total \u00b7 Aug 25",
+    "tags": [
+      "Agriculture"
+    ],
     "tickers": [
-      "DGICB"
+      "FMCB"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/935596/000093559626000019/0000935596-26-000019-index.htm",
-    "published_iso": "2026-08-25T13:58:15+00:00",
-    "time_ago": "8m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2043858/000121390026093353/0001213900-26-093353-index.htm",
+    "published_iso": "2026-08-25T14:58:30+00:00",
+    "time_ago": "1m ago"
   },
   {
-    "id": "d1db0dd834c9",
+    "id": "fb59a19c3d7a",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -50,15 +54,130 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "medium",
-    "content": "Bart Andrew John sold 3,305 shares of Crawford & Co (CRD-B) \u00b7 $13.36/share \u00b7 $44,161 total \u00b7 Aug 25",
+    "severity": "critical",
+    "content": "Harper Troy received 275 shares of Farmers & Merchants Bancorp (FMCB) \u00b7 $1,346.32/share \u00b7 $370,238 total \u00b7 Aug 25",
+    "tags": [
+      "Agriculture"
+    ],
+    "tickers": [
+      "FMCB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1722279/000121390026093351/0001213900-26-093351-index.htm",
+    "published_iso": "2026-08-25T14:58:14+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "4437f93418fe",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Misasi J. Ryan received 804 shares of Farmers & Merchants Bancorp (FMCB) \u00b7 $1,346.32/share \u00b7 $1,082,441 total \u00b7 Aug 25 ($2,327,787 across all blocks)",
+    "tags": [
+      "Agriculture"
+    ],
+    "tickers": [
+      "FMCB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1610038/000121390026093350/0001213900-26-093350-index.htm",
+    "published_iso": "2026-08-25T14:57:59+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "921a1dba3824",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Olson Bart R received 804 shares of Farmers & Merchants Bancorp (FMCB) \u00b7 $1,346.32/share \u00b7 $1,082,441 total \u00b7 Aug 25 ($2,327,787 across all blocks)",
+    "tags": [
+      "Agriculture"
+    ],
+    "tickers": [
+      "FMCB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1695102/000121390026093349/0001213900-26-093349-index.htm",
+    "published_iso": "2026-08-25T14:57:43+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "8f803cc80454",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Silva Jehna L received 60 shares of Farmers & Merchants Bancorp (FMCB) \u00b7 $1,346.32/share \u00b7 $80,779 total \u00b7 Aug 25 ($417,359 across all blocks)",
+    "tags": [
+      "Agriculture"
+    ],
+    "tickers": [
+      "FMCB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2141622/000121390026093348/0001213900-26-093348-index.htm",
+    "published_iso": "2026-08-25T14:57:12+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "e61900803a2a",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "James Craig W. received 60 shares of Farmers & Merchants Bancorp (FMCB) \u00b7 $1,346.32/share \u00b7 $80,779 total \u00b7 Aug 25 ($417,359 across all blocks)",
+    "tags": [
+      "Agriculture"
+    ],
+    "tickers": [
+      "FMCB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1756771/000121390026093344/0001213900-26-093344-index.htm",
+    "published_iso": "2026-08-25T14:56:24+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "0fc8ab7411c9",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "DOJ asks judge to lift nationwide block on mail-in voting restrictions. The Justice Department (DOJ) asked a federal judge in Massachusetts late Monday to lift a nationwide block on mail-in voting restrictions ahead of the November midterms. The DOJ wrote in a late-night filing that the Supreme Court\u2019s ruling in a sepa",
     "tags": [],
     "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1815318/000002547526000076/0000025475-26-000076-index.htm",
-    "published_iso": "2026-08-25T13:56:46+00:00",
-    "time_ago": "10m ago"
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/regulation/court-battles/6048768-doj-request-lift-nationwide-block-restrictions-mail-in-ballots/",
+    "published_iso": "2026-08-25T14:16:10+00:00",
+    "time_ago": "43m ago"
   },
   {
     "id": "354d7ba0e13c",
@@ -85,54 +204,6 @@
     "platform": "The Hill",
     "url": "https://thehill.com/policy/international/6048518-china-criticizes-us-iran-sanctions/",
     "published_iso": "2026-08-25T13:54:38+00:00",
-    "time_ago": "12m ago"
-  },
-  {
-    "id": "22bb3418b4f1",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Iran vows retaliation after widened US sanctions. Iran threatened to retaliate after the Trump administration on Monday unveiled a new effort to isolate the Islamic Republic from the global economy and ramp up pressure to bring the nearly six-month-long war to a close and reopen the Strait of Hormuz. Treasury Secretary",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/international/6048535-iran-retaliation-threat-trump-administration-us-sanctions-operation-economic-outcast/",
-    "published_iso": "2026-08-25T13:23:41+00:00",
-    "time_ago": "43m ago"
-  },
-  {
-    "id": "382adc8d487e",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Claim deadline nears for $68 million Google Assistant settlement. There are just days remaining to submit a claim form",
-    "tags": [
-      "Big Tech"
-    ],
-    "tickers": [
-      "GOOGL"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/6048533-claim-deadline-nears-for-68-million-google-assistant-settlement/",
-    "published_iso": "2026-08-25T13:02:45+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -320,7 +391,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-champions-educational-freedom-putting-students-and-parents-first/",
     "published_iso": "2026-08-24T16:41:15+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "3d01d9fb4fef",
@@ -514,7 +585,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtjgkmjz3k2d",
     "published_iso": "2026-08-20T14:13:52.383000+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "306d3c437a72",
@@ -1094,7 +1165,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "111d ago"
+    "time_ago": "112d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1116,7 +1187,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "119d ago"
+    "time_ago": "120d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1180,7 +1251,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "192d ago"
+    "time_ago": "193d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1199,7 +1270,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "192d ago"
+    "time_ago": "193d ago"
   },
   {
     "id": "c3776ad92a42",
