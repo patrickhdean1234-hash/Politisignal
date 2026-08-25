@@ -1,5 +1,45 @@
 [
   {
+    "id": "ce88616fa393",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026. Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+    "tags": [],
+    "tickers": [],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
+    "published_iso": "2026-08-25T18:00:00+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "f187d349e7da",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Zagari Raffaele sold 50,000 shares of Star Bulk Carriers Corp. (SBLK) \u00b7 $30.70/share \u00b7 $1,535,000 total \u00b7 Aug 25",
+    "tags": [],
+    "tickers": [
+      "SBLK"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2005037/000200503726000012/0002005037-26-000012-index.htm",
+    "published_iso": "2026-08-25T17:57:36+00:00",
+    "time_ago": "5m ago"
+  },
+  {
     "id": "b04c07df9fed",
     "politician": "The Hill",
     "initials": "TH",
@@ -23,7 +63,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/house/6049438-dingell-lake-ontario-natalie-harp/",
     "published_iso": "2026-08-25T17:13:41+00:00",
-    "time_ago": "25m ago"
+    "time_ago": "49m ago"
   },
   {
     "id": "4e318ce1ac18",
@@ -63,7 +103,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17354/establishment-of-four-customs-enforcement-areas",
     "published_iso": "2026-08-25T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "293a03e5267c",
@@ -84,7 +124,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17353/final-waiver-and-extension-of-the-project-period-with-funding-elementary-and-secondary-education-act",
     "published_iso": "2026-08-25T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "ab905e5aaace",
@@ -103,7 +143,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17339/amendment-of-restricted-areas-r-2505-r-2524-r-2508-and-r-2515-in-california",
     "published_iso": "2026-08-25T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "97a461f2ea6e",
@@ -124,7 +164,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17338/reduction-in-force-appeals-correction",
     "published_iso": "2026-08-25T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "010e9caa2772",
@@ -145,7 +185,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17337/suitability-action-appeals-correction",
     "published_iso": "2026-08-25T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "775f78be4a70",
@@ -166,7 +206,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17336/streamlining-probationary-and-trial-period-appeals-correction-and-technical-amendment",
     "published_iso": "2026-08-25T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "0d24c1a295bf",
@@ -187,7 +227,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17335/reduction-in-force-correction",
     "published_iso": "2026-08-25T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "4600bf9cadf8",
@@ -208,7 +248,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17334/improving-performance-accountability-and-responsiveness-in-the-civil-service-and-recruitment-and",
     "published_iso": "2026-08-25T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "ee63da311890",
@@ -349,32 +389,6 @@
     "time_ago": "4d ago"
   },
   {
-    "id": "0559c8e7bc33",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch. Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of ",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
-    "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "5d ago"
-  },
-  {
     "id": "d1faa9166adb",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -397,6 +411,32 @@
     "source": "fed_reserve",
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
+    "published_iso": "2026-08-20T15:00:00+00:00",
+    "time_ago": "5d ago"
+  },
+  {
+    "id": "0559c8e7bc33",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch. Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of ",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
     "time_ago": "5d ago"
   },
@@ -442,7 +482,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
     "published_iso": "2026-08-19T18:00:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "f436afccee25",
@@ -518,7 +558,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mt7qtihdyc2j",
     "published_iso": "2026-08-16T17:51:10.119000+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "1b45165ad867",
@@ -784,32 +824,6 @@
     "source": "fed_reserve",
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm",
-    "published_iso": "2026-08-04T20:30:00+00:00",
-    "time_ago": "20d ago"
-  },
-  {
-    "id": "0d330c4dedb5",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.. Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
     "published_iso": "2026-08-04T20:30:00+00:00",
     "time_ago": "20d ago"
   },
