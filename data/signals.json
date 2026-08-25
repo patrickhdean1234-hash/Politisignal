@@ -1,6 +1,6 @@
 [
   {
-    "id": "2ef1b5c32802",
+    "id": "2eed2e446f60",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,16 +9,121 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Wendler Brett David exercised options for 500 shares of Daktronics Inc /Sd/ (DAKT) \u00b7 Aug 25 ($16,188 across all blocks)",
+    "content": "Gedeon Christelle sold 13,344 shares of Canopy Growth Corp (CGC) \u00b7 $1.47/share \u00b7 $19,616 total \u00b7 Aug 25",
     "tags": [],
     "tickers": [
-      "DAKT"
+      "CGC"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2130344/000162828026058947/0001628280-26-058947-index.htm",
-    "published_iso": "2026-08-25T21:10:32+00:00",
-    "time_ago": "just now"
+    "url": "https://www.sec.gov/Archives/edgar/data/1886836/000110465926100926/0001104659-26-100926-index.htm",
+    "published_iso": "2026-08-25T21:41:32+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "4ab1a68a3c72",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Borges David J. exercised options for 5,906 shares of Omeros Corp (OMER) \u00b7 $3.93/share \u00b7 $23,211 total \u00b7 Aug 25 ($244,715 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "OMER"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2005787/000143774926028951/0001437749-26-028951-index.htm",
+    "published_iso": "2026-08-25T21:40:16+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "79a84302d81c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Yacob Ezra Y sold 35,942 shares of Eog Resources Inc (EOG) \u00b7 $152.10/share \u00b7 $5,466,670 total \u00b7 Aug 25",
+    "tags": [],
+    "tickers": [
+      "EOG"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1724997/000082118926000169/0000821189-26-000169-index.htm",
+    "published_iso": "2026-08-25T21:35:14+00:00",
+    "time_ago": "8m ago"
+  },
+  {
+    "id": "30790ee43e27",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "I Squared Capital, Llc sold 6,963 shares of Kinetik Holdings Inc. (KNTK) \u00b7 $55.17/share \u00b7 $384,117 total \u00b7 Aug 25",
+    "tags": [],
+    "tickers": [
+      "KNTK"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2020905/000090514826003910/0000905148-26-003910-index.htm",
+    "published_iso": "2026-08-25T21:32:15+00:00",
+    "time_ago": "11m ago"
+  },
+  {
+    "id": "45c34a76affd",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Farquhar John C.M. sold 27,230 shares of Heartflow, Inc. (HTFL) \u00b7 $50.00/share \u00b7 $1,361,500 total \u00b7 Aug 25",
+    "tags": [],
+    "tickers": [
+      "HTFL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1900415/000146452126000139/0001464521-26-000139-index.htm",
+    "published_iso": "2026-08-25T21:32:10+00:00",
+    "time_ago": "11m ago"
+  },
+  {
+    "id": "5dda378e1a4e",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "GOP election law expert: Many more \u2018low propensity voters in Republican party\u2019 after Trump mail-in voting ruling. Election law attorney Ben Ginsberg on Monday said President Trump\u2019s executive order imposing restrictions on mail-in voting will largely impact Republican voters.  \u201cOne thing is, I think you're going to see",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6050455-trump-mail-voting-order-impacts-gop/",
+    "published_iso": "2026-08-25T21:31:53+00:00",
+    "time_ago": "12m ago"
   },
   {
     "id": "bc4fc380b09a",
@@ -39,35 +144,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/newsletters/business-economy/6050352-canada-to-place-retaliatory-tariffs-on-us-goods/",
     "published_iso": "2026-08-25T20:41:05+00:00",
-    "time_ago": "30m ago"
-  },
-  {
-    "id": "aa7d167cbbcf",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Paramount's Warner Bros. bid barrels toward antitrust trial: What to know. Paramount's bid to acquire fellow entertainment giant Warner Bros. Discovery (WBD) has been mired in controversy and\u00a0drew\u00a0a lawsuit from critics who argue the deal is bad for the movie-making and media business. As David Ellison, the company's t",
-    "tags": [
-      "Antitrust",
-      "Defense",
-      "Regulation"
-    ],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/media/6050281-paramount-warner-bros-merger-antitrust-lawsuit-rob-bonta/",
-    "published_iso": "2026-08-25T20:29:38+00:00",
-    "time_ago": "41m ago"
+    "time_ago": "1h ago"
   },
   {
     "id": "ce88616fa393",
