@@ -1,5 +1,70 @@
 [
   {
+    "id": "60585deeb1ee",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Korman Tyler Paz exercised options for 32,964 shares of Exozymes Inc. (EXOZ) \u00b7 Aug 25",
+    "tags": [],
+    "tickers": [
+      "EXOZ"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2032745/000149315226040116/0001493152-26-040116-index.htm",
+    "published_iso": "2026-08-25T22:57:38+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "e5462ced4c69",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Beard Grant H gifted 9,000 shares of Advanced Energy Industries Inc (AEIS) \u00b7 Aug 25",
+    "tags": [
+      "Energy"
+    ],
+    "tickers": [
+      "AEIS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1173731/000117373126000006/0001173731-26-000006-index.htm",
+    "published_iso": "2026-08-25T22:49:31+00:00",
+    "time_ago": "10m ago"
+  },
+  {
+    "id": "37843a8058f9",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Juran David B. sold 15,000 shares of Bridgewater Bancshares Inc (BWBBP) \u00b7 $21.59/share \u00b7 $323,886 total \u00b7 Aug 25 ($867,316 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "BWBBP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1733121/000173312126000012/0001733121-26-000012-index.htm",
+    "published_iso": "2026-08-25T22:46:14+00:00",
+    "time_ago": "13m ago"
+  },
+  {
     "id": "6d9f78d3bc45",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
@@ -20,7 +85,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1857038/000119312526365490/0001193125-26-365490-index.htm",
     "published_iso": "2026-08-25T22:26:57+00:00",
-    "time_ago": "9m ago"
+    "time_ago": "32m ago"
   },
   {
     "id": "7e696185035a",
@@ -41,133 +106,34 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1751946/000081367226000095/0000813672-26-000095-index.htm",
     "published_iso": "2026-08-25T22:25:50+00:00",
-    "time_ago": "10m ago"
+    "time_ago": "33m ago"
   },
   {
-    "id": "eebc00bb08ae",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "3c3ae8f8dff9",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Feldman Andrew D. gifted 50,000 shares of Cerebras Systems Inc. (CBRS) \u00b7 Aug 25 ($47,338,835 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CBRS"
+    "severity": "high",
+    "content": "Paramount\u2019s bid to acquire Warner Bros. draws controversy. {beacon} Technology Technology &#8202; The Big Story  Paramount's Warner Bros. bid barrels toward antitrust trial Paramount\u2019s bid to acquire fellow entertainment giant Warner Brothers Discovery (WBD) has been mired in controversy and drew a lawsuit from critics",
+    "tags": [
+      "Antitrust",
+      "Regulation"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2039573/000162828026058961/0001628280-26-058961-index.htm",
-    "published_iso": "2026-08-25T22:13:47+00:00",
-    "time_ago": "22m ago"
-  },
-  {
-    "id": "ff2d26314e93",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Shechter Guy bought 3,450 shares of Amtech Systems Inc (ASYS) \u00b7 $14.34/share \u00b7 $49,456 total \u00b7 Aug 25",
-    "tags": [],
     "tickers": [
-      "ASYS"
+      "AMZN",
+      "GOOGL",
+      "AAPL",
+      "META"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2136935/000213693526000004/0002136935-26-000004-index.htm",
-    "published_iso": "2026-08-25T22:13:13+00:00",
-    "time_ago": "23m ago"
-  },
-  {
-    "id": "83aeac10221d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Kidron Nadav exercised derivative for 10,000 shares of Nano Dimension Ltd. (NNDM) \u00b7 $1.50/share \u00b7 $15,000 total \u00b7 Aug 25",
-    "tags": [],
-    "tickers": [
-      "NNDM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1643303/000110465926100937/0001104659-26-100937-index.htm",
-    "published_iso": "2026-08-25T22:08:36+00:00",
-    "time_ago": "28m ago"
-  },
-  {
-    "id": "cda089b2e21a",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Rollins Brad exercised options for 7,000 shares of Usio, Inc. (USIO) \u00b7 $2.81/share \u00b7 $19,670 total \u00b7 Aug 25",
-    "tags": [],
-    "tickers": [
-      "USIO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1706146/000109690626001305/0001096906-26-001305-index.htm",
-    "published_iso": "2026-08-25T22:07:22+00:00",
-    "time_ago": "29m ago"
-  },
-  {
-    "id": "6bded9cb41b5",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Beyer Del La Garza Ernesto R exercised options for 7,000 shares of Usio, Inc. (USIO) \u00b7 $2.81/share \u00b7 $19,670 total \u00b7 Aug 25 ($25,290 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "USIO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1823064/000109690626001304/0001096906-26-001304-index.htm",
-    "published_iso": "2026-08-25T22:05:39+00:00",
-    "time_ago": "31m ago"
-  },
-  {
-    "id": "dde2e24a0f2c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Jhaveri Nirav S. received 300,000 shares of Longeveron Inc. (LGVN) \u00b7 Aug 25",
-    "tags": [],
-    "tickers": [
-      "LGVN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2011481/000121465926010852/0001214659-26-010852-index.htm",
-    "published_iso": "2026-08-25T22:05:06+00:00",
-    "time_ago": "31m ago"
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/technology/6050614-paramounts-warner-bros-bid-barrels-toward-antitrust-trial/",
+    "published_iso": "2026-08-25T22:07:58+00:00",
+    "time_ago": "51m ago"
   },
   {
     "id": "aa6bf7f1f5c2",
@@ -208,6 +174,25 @@
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
     "published_iso": "2026-08-25T18:00:00+00:00",
     "time_ago": "4h ago"
+  },
+  {
+    "id": "4e318ce1ac18",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Hollywood mega mergers hurt everyone except the people at the top.\n\nIf you read one thing about the potential Paramount-Warner Bros. merger, let it be this: \n\nwww.hollywoodreporter.com/business/bus...",
+    "tags": [],
+    "tickers": [],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mtw7diqcks22",
+    "published_iso": "2026-08-25T16:09:13.919000+00:00",
+    "time_ago": "6h ago"
   },
   {
     "id": "ece943e18489",
