@@ -1,5 +1,53 @@
 [
   {
+    "id": "4a5e870fc024",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Manulife Private Credit Plus Fund bought 438,596 shares of John Hancock Marathon Asset-Based Lending Fund (MPC) \u00b7 $20.52/share \u00b7 $9,000,000 total \u00b7 Aug 25",
+    "tags": [],
+    "tickers": [
+      "MPC"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1988855/000198885526000011/0001988855-26-000011-index.htm",
+    "published_iso": "2026-08-25T19:45:16+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "9d52e5edb434",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Minister of Industry of Canada: 'We'll always call it Lake Ontario'. Canadian Minister of Industry M\u00e9lanie Joly rebuffed President Trump's warning to rename Lake Ontario \"Lake America\" on Tuesday amid his trade war with Canada, saying Canadians will \"always call it Lake Ontario.\" \"We're proud of our Great Lakes,\" Joy t",
+    "tags": [
+      "Trade",
+      "Regulation"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/international/6049814-canada-industry-minister-lake-ontario-defense/",
+    "published_iso": "2026-08-25T19:22:20+00:00",
+    "time_ago": "27m ago"
+  },
+  {
     "id": "b499903d3e45",
     "politician": "The Hill",
     "initials": "TH",
@@ -9,7 +57,7 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Agriculture secretary says beef import plan still under discussion. The Trump administration\u2019s plan to temporarily suspend higher tariffs on ground beef imports is still under discussion, Agriculture Secretary Brooke Rollins said on Tuesday.  \u201cI am not privy to talk about that,\u201d Rollins said when asked by reporters out",
+    "content": "Agriculture secretary says beef import plan still under discussion. The Trump administration\u2019s plan to temporarily suspend higher tariffs on ground beef imports is still under discussion, Agriculture Secretary Brooke Rollins said Tuesday.\u00a0 \u201cI am not privy to talk about that,\u201d Rollins said when asked by reporters outsid",
     "tags": [
       "Trade",
       "Agriculture"
@@ -23,53 +71,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/administration/6049883-rollins-discusses-beef-tariffs/",
     "published_iso": "2026-08-25T18:58:32+00:00",
-    "time_ago": "22m ago"
-  },
-  {
-    "id": "3dcbc75fa225",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Larson Leah withheld (tax) 20,518 shares of Madison Air Solutions Corp (MAIR) \u00b7 $26.25/share \u00b7 $538,598 total \u00b7 Aug 25",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "MAIR"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2109765/000162828026058831/0001628280-26-058831-index.htm",
-    "published_iso": "2026-08-25T18:36:02+00:00",
-    "time_ago": "44m ago"
-  },
-  {
-    "id": "2b5b0a3ef33e",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "CIA director makes unannounced visit to Russia. CIA Director John Ratcliffe made an unannounced visit to Moscow on Tuesday for meetings with Russian officials, CBS News reported.\u00a0 Flight trackers spotted a U.S. Air Force Boeing C-17A Globemaster III transport plane flying from Riga, Latvia, to Moscow on Tuesday.\u00a0 The C",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [
-      "BA"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/national-security/6049802-cia-director-ratcliffe-moscow-visit/",
-    "published_iso": "2026-08-25T18:29:56+00:00",
-    "time_ago": "50m ago"
+    "time_ago": "51m ago"
   },
   {
     "id": "ce88616fa393",
