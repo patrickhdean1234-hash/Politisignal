@@ -1,6 +1,6 @@
 [
   {
-    "id": "f696918705ef",
+    "id": "2ef1b5c32802",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,60 +9,37 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Schott Jennifer Kaplan withheld (tax) 665 shares of Sysco Corp (SYY) \u00b7 $83.06/share \u00b7 $55,235 total \u00b7 Aug 25",
-    "tags": [
-      "Taxes"
-    ],
+    "content": "Wendler Brett David exercised options for 500 shares of Daktronics Inc /Sd/ (DAKT) \u00b7 Aug 25 ($16,188 across all blocks)",
+    "tags": [],
     "tickers": [
-      "SYY"
+      "DAKT"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1876104/000187610426000005/0001876104-26-000005-index.htm",
-    "published_iso": "2026-08-25T20:45:25+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/2130344/000162828026058947/0001628280-26-058947-index.htm",
+    "published_iso": "2026-08-25T21:10:32+00:00",
     "time_ago": "just now"
   },
   {
-    "id": "286308440880",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "bc4fc380b09a",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Kurtz George sold 440 shares of Crowdstrike Holdings, Inc. (CRWD) \u00b7 $187.45/share \u00b7 $82,478 total \u00b7 Aug 25 ($3,245,485 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CRWD"
+    "severity": "critical",
+    "content": "Canada to place retaliatory tariffs on US goods. Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  Canada strikes back with retaliatory tariffs Canada announced retaliatory tariffs on hundreds of American products as high as 50 perce",
+    "tags": [
+      "Trade"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1778564/000095010326012856/0000950103-26-012856-index.htm",
-    "published_iso": "2026-08-25T20:44:09+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "57167ebfff1b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Peterson Neil W. sold 7,500 shares of Merit Medical Systems Inc (MMSI) \u00b7 $90.45/share \u00b7 $678,360 total \u00b7 Aug 25",
-    "tags": [],
-    "tickers": [
-      "MMSI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1926221/000192622126000008/0001926221-26-000008-index.htm",
-    "published_iso": "2026-08-25T20:43:39+00:00",
-    "time_ago": "2m ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/business-economy/6050352-canada-to-place-retaliatory-tariffs-on-us-goods/",
+    "published_iso": "2026-08-25T20:41:05+00:00",
+    "time_ago": "30m ago"
   },
   {
     "id": "aa7d167cbbcf",
@@ -74,7 +51,7 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Paramount's Warner Bros. bid barrels toward antitrust trial: What to know. Paramount's bid to acquire fellow entertainment giant Warner Brothers Discovery (WBD) has been mired in controversy and\u00a0drew\u00a0a lawsuit from critics who argue the deal is bad for the movie-making and media business. As David Ellison, the company'",
+    "content": "Paramount's Warner Bros. bid barrels toward antitrust trial: What to know. Paramount's bid to acquire fellow entertainment giant Warner Bros. Discovery (WBD) has been mired in controversy and\u00a0drew\u00a0a lawsuit from critics who argue the deal is bad for the movie-making and media business. As David Ellison, the company's t",
     "tags": [
       "Antitrust",
       "Defense",
@@ -90,7 +67,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/media/6050281-paramount-warner-bros-merger-antitrust-lawsuit-rob-bonta/",
     "published_iso": "2026-08-25T20:29:38+00:00",
-    "time_ago": "16m ago"
+    "time_ago": "41m ago"
   },
   {
     "id": "ce88616fa393",
@@ -109,7 +86,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
     "published_iso": "2026-08-25T18:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "4e318ce1ac18",
@@ -128,7 +105,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mtw7diqcks22",
     "published_iso": "2026-08-25T16:09:13.919000+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "ece943e18489",
@@ -149,7 +126,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17354/establishment-of-four-customs-enforcement-areas",
     "published_iso": "2026-08-25T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "293a03e5267c",
@@ -170,7 +147,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17353/final-waiver-and-extension-of-the-project-period-with-funding-elementary-and-secondary-education-act",
     "published_iso": "2026-08-25T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "ab905e5aaace",
@@ -189,7 +166,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17339/amendment-of-restricted-areas-r-2505-r-2524-r-2508-and-r-2515-in-california",
     "published_iso": "2026-08-25T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "97a461f2ea6e",
@@ -210,7 +187,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17338/reduction-in-force-appeals-correction",
     "published_iso": "2026-08-25T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "010e9caa2772",
@@ -231,7 +208,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17337/suitability-action-appeals-correction",
     "published_iso": "2026-08-25T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "775f78be4a70",
@@ -252,7 +229,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17336/streamlining-probationary-and-trial-period-appeals-correction-and-technical-amendment",
     "published_iso": "2026-08-25T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "0d24c1a295bf",
@@ -273,7 +250,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17335/reduction-in-force-correction",
     "published_iso": "2026-08-25T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "4600bf9cadf8",
@@ -294,7 +271,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17334/improving-performance-accountability-and-responsiveness-in-the-civil-service-and-recruitment-and",
     "published_iso": "2026-08-25T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "ee63da311890",
@@ -362,28 +339,6 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtm4eksz2k2d",
     "published_iso": "2026-08-21T15:49:31.050000+00:00",
-    "time_ago": "4d ago"
-  },
-  {
-    "id": "35d1e8690137",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "The National Space Transportation Policy. MEMORANDUM FOR THE SECRETARY OF STATETHE SECRETARY OF WARTHE SECRETARY OF THE INTERIORTHE SECRETARY OF COMMERCETHE SECRETARY OF TRANSPORTATIONTHE SECRETARY OF ENERGYTHE SECRETARY OF HOMELAND SECURITYTHE DIRECTOR OF THE OFFICE OF MANAGEMENT AND BUDGETTHE DIRECTOR OF NATIONAL INT",
-    "tags": [
-      "Energy",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/08/national-security-presidential-memorandum-nspm-17/",
-    "published_iso": "2026-08-20T20:54:58+00:00",
     "time_ago": "4d ago"
   },
   {
@@ -972,7 +927,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "35d ago"
+    "time_ago": "36d ago"
   },
   {
     "id": "00574dc3c125",
