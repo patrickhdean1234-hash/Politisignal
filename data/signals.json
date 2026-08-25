@@ -1,5 +1,50 @@
 [
   {
+    "id": "3dcbc75fa225",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Larson Leah withheld (tax) 20,518 shares of Madison Air Solutions Corp (MAIR) \u00b7 $26.25/share \u00b7 $538,598 total \u00b7 Aug 25",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "MAIR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2109765/000162828026058831/0001628280-26-058831-index.htm",
+    "published_iso": "2026-08-25T18:36:02+00:00",
+    "time_ago": "15m ago"
+  },
+  {
+    "id": "11e201d3058a",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Florida moves to end certain school vaccination requirements. The state of Florida wants to roll back a requirement that public and private school children receive four vaccines before enrolling.  A proposed rule from the state's Department of Health (DOH) would allow students to attend school and enroll in daycare wit",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/healthcare/6049653-florida-religious-vaccination-exemptions/",
+    "published_iso": "2026-08-25T18:05:37+00:00",
+    "time_ago": "45m ago"
+  },
+  {
     "id": "ce88616fa393",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -16,31 +61,10 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
     "published_iso": "2026-08-25T18:00:00+00:00",
-    "time_ago": "2m ago"
+    "time_ago": "51m ago"
   },
   {
-    "id": "f187d349e7da",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Zagari Raffaele sold 50,000 shares of Star Bulk Carriers Corp. (SBLK) \u00b7 $30.70/share \u00b7 $1,535,000 total \u00b7 Aug 25",
-    "tags": [],
-    "tickers": [
-      "SBLK"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2005037/000200503726000012/0002005037-26-000012-index.htm",
-    "published_iso": "2026-08-25T17:57:36+00:00",
-    "time_ago": "5m ago"
-  },
-  {
-    "id": "b04c07df9fed",
+    "id": "e42de92df7ce",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -49,21 +73,16 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Democrat jabs Trump over Lake Ontario threat: 'Let\u2019s just call it Lake Natalie'. Rep. Debbie Dingell (D-Mich.) on Tuesday took a jab at President Trump over his threat to rename Lake Ontario to Lake America amid his trade war with Canada, saying the U.S. should \"just call it Lake Natalie\" after White House executive as",
+    "content": "Places that have been renamed during Trump's second term. President Trump said renaming Lake Ontario is under \"serious consideration.\" It wouldn't be the first place renamed during his second term",
     "tags": [
-      "Trade"
+      "Taxes"
     ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/6049438-dingell-lake-ontario-natalie-harp/",
-    "published_iso": "2026-08-25T17:13:41+00:00",
-    "time_ago": "49m ago"
+    "url": "https://thehill.com/homenews/6049418-places-that-have-been-renamed-during-trumps-second-term/",
+    "published_iso": "2026-08-25T17:51:43+00:00",
+    "time_ago": "59m ago"
   },
   {
     "id": "4e318ce1ac18",
@@ -82,7 +101,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mtw7diqcks22",
     "published_iso": "2026-08-25T16:09:13.919000+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "ece943e18489",
@@ -338,28 +357,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/08/national-security-presidential-memorandum-nspm-17/",
     "published_iso": "2026-08-20T20:54:58+00:00",
-    "time_ago": "4d ago"
-  },
-  {
-    "id": "2fdc12a473ec",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "President Trump\u2019s Cabinet Champions America First Successes Nationwide. From the heartland to the coasts, members of President Donald J. Trump\u2019s Cabinet are on the ground across the nation to engage with Americans and showcase the Administration\u2019s signature achievements. From energy dominance and infrastructure moderni",
-    "tags": [
-      "Energy",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/releases/2026/08/president-trumps-cabinet-champions-america-first-successes-nationwide/",
-    "published_iso": "2026-08-20T20:43:03+00:00",
     "time_ago": "4d ago"
   },
   {
@@ -700,7 +697,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s226?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-07T18:14:00+00:00",
-    "time_ago": "17d ago"
+    "time_ago": "18d ago"
   },
   {
     "id": "15c78cc7f8dd",
@@ -875,7 +872,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "33d ago"
+    "time_ago": "34d ago"
   },
   {
     "id": "98b90fd8352a",
