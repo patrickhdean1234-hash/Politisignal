@@ -1,5 +1,68 @@
 [
   {
+    "id": "1f1fb256fc1a",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Host-Plus Pty Ltd As Trustee For The Hostplus Pooled Superannuation Trust bought 7,700,119 shares of Ebr Systems, Inc. (EBRCZ) \u00b7 $2.70/share \u00b7 $20,790,321 total \u00b7 Aug 25",
+    "tags": [],
+    "tickers": [
+      "EBRCZ"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2041658/000123191926001062/0001231919-26-001062-index.htm",
+    "published_iso": "2026-08-25T10:36:47+00:00",
+    "time_ago": "16m ago"
+  },
+  {
+    "id": "564fcbd37c87",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ye Gang sold 3,820 shares of Sea Ltd (SE) \u00b7 $116.87/share \u00b7 $446,443 total \u00b7 Aug 25 ($4,673,189 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "SE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1729171/000119312526364067/0001193125-26-364067-index.htm",
+    "published_iso": "2026-08-25T10:17:26+00:00",
+    "time_ago": "35m ago"
+  },
+  {
+    "id": "41ecb804de0d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Wang Yanjun sold 223 shares of Sea Ltd (SE) \u00b7 $116.79/share \u00b7 $26,044 total \u00b7 Aug 25 ($350,502 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "SE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2113214/000119312526364066/0001193125-26-364066-index.htm",
+    "published_iso": "2026-08-25T10:17:07+00:00",
+    "time_ago": "36m ago"
+  },
+  {
     "id": "6799de4cf612",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
@@ -18,7 +81,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1601046/000114261826000005/0001142618-26-000005-index.htm",
     "published_iso": "2026-08-25T10:13:09+00:00",
-    "time_ago": "3m ago"
+    "time_ago": "40m ago"
   },
   {
     "id": "0cfdbec74241",
@@ -39,7 +102,77 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1633999/000119312526364044/0001193125-26-364044-index.htm",
     "published_iso": "2026-08-25T10:01:33+00:00",
-    "time_ago": "15m ago"
+    "time_ago": "51m ago"
+  },
+  {
+    "id": "db135ef8164b",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Trump\u2019s fight with GOP senators over trade intensifies. President Trump is headed for a clash with Senate Republicans over his decision to pause tariffs on beef imports while ratcheting up tariffs on key Canadian goods. Trump\u2019s plan to exempt 300,000 tons of product for ground beef from out-of-quota tariffs to address ",
+    "tags": [
+      "Trade",
+      "Defense"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/senate/6047923-trump-beef-canada-tariffs-gop-senators/",
+    "published_iso": "2026-08-25T10:00:00+00:00",
+    "time_ago": "53m ago"
+  },
+  {
+    "id": "dce74b640515",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "South Carolina runoff pits America First against MAGA. Voters, especially Republican primary voters, don\u2019t tend to make their decisions based on what\u2019s going on overseas.  But with Uncle Sam\u2019s place in the world looking a little unsteady and a doozy of a debate gaffe in a snap election, we suddenly have in today\u2019s Sout",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/6047895-south-carolina-republican-senate-primary-trump-iran-national-security/",
+    "published_iso": "2026-08-25T10:00:00+00:00",
+    "time_ago": "53m ago"
+  },
+  {
+    "id": "f19261261a64",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Trump's tariff war with Canada threatens GOP candidates in border battlegrounds. President Trump\u2019s tariff war with Canada is putting vulnerable GOP candidates in border states in a precarious position about 10 weeks out from the midterms, with economic anxiety already running high.  Trump\u2019s 50 percent tariffs on $20 bi",
+    "tags": [
+      "Trade",
+      "Regulation"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6048069-trump-canada-tariff-impact/",
+    "published_iso": "2026-08-25T10:00:00+00:00",
+    "time_ago": "53m ago"
   },
   {
     "id": "ece943e18489",
@@ -208,67 +341,6 @@
     "time_ago": "6h ago"
   },
   {
-    "id": "932eb6b9107c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Tilzer Brian A received 9 shares of Signet Jewelers Ltd (SIG) \u00b7 Aug 24",
-    "tags": [],
-    "tickers": [
-      "SIG"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1697130/000083298826000219/0000832988-26-000219-index.htm",
-    "published_iso": "2026-08-25T01:44:45+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "c551ce4f21fb",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Cochran Sandra B received 9 shares of Signet Jewelers Ltd (SIG) \u00b7 Aug 24",
-    "tags": [],
-    "tickers": [
-      "SIG"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1056610/000083298826000218/0000832988-26-000218-index.htm",
-    "published_iso": "2026-08-25T01:44:39+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "5330ee35652c",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Jackson calls Supreme Court\u2019s mail-in voting ruling a \u2018Kafkaesque nightmare\u2019. Ketanji Brown Jackson, the Supreme Court\u2019s junior liberal justice, excoriated her colleagues for lifting a block on President Trump\u2019s mail-in voting executive order on Monday, saying it \u201cneedlessly injects chaos\u201d into this year\u2019s elections.  ",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/regulation/court-battles/6048109-justice-jackson-election-chaos-dissent/",
-    "published_iso": "2026-08-24T23:10:40+00:00",
-    "time_ago": "11h ago"
-  },
-  {
     "id": "ee63da311890",
     "politician": "White House",
     "initials": "WH",
@@ -287,7 +359,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-champions-educational-freedom-putting-students-and-parents-first/",
     "published_iso": "2026-08-24T16:41:15+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "3d01d9fb4fef",
