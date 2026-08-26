@@ -1,5 +1,26 @@
 [
   {
+    "id": "95f0aa617718",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Karmiri Stefania sold 350 shares of Eurodry Ltd. (EDRY) \u00b7 $45.35/share \u00b7 $15,872 total \u00b7 Aug 26",
+    "tags": [],
+    "tickers": [
+      "EDRY"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2122338/000212233826000007/0002122338-26-000007-index.htm",
+    "published_iso": "2026-08-26T14:25:36+00:00",
+    "time_ago": "just now"
+  },
+  {
     "id": "a5a51eeae4f3",
     "politician": "Sen. Elizabeth Warren",
     "initials": "EW",
@@ -24,54 +45,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mtyhfea2622n",
     "published_iso": "2026-08-26T13:38:45.712000+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "0fcf4f4f369d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Laws Richard K withheld (tax) 1,558 shares of Wesbanco Inc (WSBCO) \u00b7 $42.21/share \u00b7 $65,763 total \u00b7 Aug 26",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "WSBCO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1621748/000020359626000110/0000203596-26-000110-index.htm",
-    "published_iso": "2026-08-26T13:31:04+00:00",
-    "time_ago": "11m ago"
-  },
-  {
-    "id": "b809342050f3",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Live updates: Trump notches endorsement wins; inflation holds steady. President Trump notched two big wins in Tuesday's elections, with Sen. Darline Graham (S.C.) and former state Sen. Mike Mazzei (Okla.) clinching the GOP nominations in their respective primary runoff races. Trump's super PAC, MAGA Inc., poured over $",
-    "tags": [],
-    "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6051255-live-updates-trump-iran-canada-dolly-parton/",
-    "published_iso": "2026-08-26T13:20:14+00:00",
-    "time_ago": "22m ago"
+    "time_ago": "47m ago"
   },
   {
     "id": "1c1057b9361d",
@@ -92,7 +66,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17445/list-of-approved-spent-fuel-storage-casks-tn-americas-llc-standardized-nuhoms-horizontal-modular",
     "published_iso": "2026-08-26T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "d06a0f85ba20",
@@ -113,7 +87,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17442/critical-position-pay-authority",
     "published_iso": "2026-08-26T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "ff63cf7e6748",
@@ -139,7 +113,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17440/loan-performance-categories-and-financial-reporting",
     "published_iso": "2026-08-26T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "54f946e9c02b",
@@ -161,7 +135,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17437/international-trademark-classification-changes",
     "published_iso": "2026-08-26T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "a6aeaec6ec4c",
@@ -184,7 +158,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17429/schedules-of-controlled-substances-temporary-placement-of-mitragynine-pseudoindoxyl-mgm-15-and",
     "published_iso": "2026-08-26T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "a3ae128b20a6",
@@ -207,7 +181,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17428/telemarketing-sales-rule-fees",
     "published_iso": "2026-08-26T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "22cce63660e8",
@@ -233,7 +207,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17426/iranian-transactions-and-sanctions-regulations",
     "published_iso": "2026-08-26T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "c271ec9578b0",
@@ -255,7 +229,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17400/significant-new-use-rules-on-certain-chemical-substances-24-55e",
     "published_iso": "2026-08-26T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "ce88616fa393",
@@ -274,7 +248,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
     "published_iso": "2026-08-25T18:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "ee63da311890",
@@ -317,6 +291,31 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-and-republicans-deliver-for-south-carolina-families/",
     "published_iso": "2026-08-21T20:00:54+00:00",
+    "time_ago": "4d ago"
+  },
+  {
+    "id": "91d40345ed03",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Medicare for All could save $1 trillion a year and 114,000 lives.\n\nCongress must pass Medicare for All and finally guarantee health care as a right for every American.",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/khanna.house.gov/post/3mtm4eksz2k2d",
+    "published_iso": "2026-08-21T15:49:31.050000+00:00",
     "time_ago": "4d ago"
   },
   {
@@ -398,6 +397,31 @@
     "time_ago": "5d ago"
   },
   {
+    "id": "58a834094d82",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "A new Yale analysis found Medicare for All would cover every American AND save more than $1 trillion a year, cutting national health care spending by 20%.\n\nIt would also mean better pay for doctors, nurses, and healthcare providers. \n\nMedicare for All saves money and lives.",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/khanna.house.gov/post/3mtjgkmjz3k2d",
+    "published_iso": "2026-08-20T14:13:52.383000+00:00",
+    "time_ago": "6d ago"
+  },
+  {
     "id": "306d3c437a72",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -439,6 +463,31 @@
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/august/road-iowa-america-first-trade-raising-wages-reshoring-jobs-and-restoring-americas-global",
     "published_iso": "2026-08-18T15:02:03+00:00",
     "time_ago": "7d ago"
+  },
+  {
+    "id": "e08373ee8350",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "If Obama had to offer cash to VP Biden when his son Beau was dying of cancer, what does that say about our society? Medicare for All is about human dignity and equality.",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/khanna.house.gov/post/3mtcf4y4lwc22",
+    "published_iso": "2026-08-17T18:59:42.852000+00:00",
+    "time_ago": "8d ago"
   },
   {
     "id": "1b45165ad867",
@@ -897,7 +946,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "112d ago"
+    "time_ago": "113d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -943,7 +992,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "148d ago"
+    "time_ago": "149d ago"
   },
   {
     "id": "432e035b915b",
@@ -983,7 +1032,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "193d ago"
+    "time_ago": "194d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1002,7 +1051,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "193d ago"
+    "time_ago": "194d ago"
   },
   {
     "id": "c3776ad92a42",
