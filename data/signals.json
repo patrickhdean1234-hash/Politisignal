@@ -1,92 +1,33 @@
 [
   {
-    "id": "16acc4a17904",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "a5a51eeae4f3",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
     },
-    "severity": "medium",
-    "content": "Rodriguez Adorno Denissa sold 600 shares of Popular, Inc. (BPOPM) \u00b7 $168.79/share \u00b7 $101,272 total \u00b7 Aug 26",
-    "tags": [],
-    "tickers": [
-      "BPOPM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2018503/000119312526365982/0001193125-26-365982-index.htm",
-    "published_iso": "2026-08-26T12:39:41+00:00",
-    "time_ago": "6m ago"
-  },
-  {
-    "id": "10129adca95c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Kersten Geert R bought 100,000 shares of Cel Sci Corp (CVM) \u00b7 $1.38/share \u00b7 $138,000 total \u00b7 Aug 26",
-    "tags": [],
-    "tickers": [
-      "CVM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1236030/000123603026000008/0001236030-26-000008-index.htm",
-    "published_iso": "2026-08-26T12:32:37+00:00",
-    "time_ago": "13m ago"
-  },
-  {
-    "id": "e4cbf32f4bf3",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Rosin Brian J bought 18,000 shares of Prenetics Global Ltd (PRENW) \u00b7 $21.19/share \u00b7 $381,420 total \u00b7 Aug 26 ($497,700 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "PRENW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1876431/000162828026058994/0001628280-26-058994-index.htm",
-    "published_iso": "2026-08-26T12:23:50+00:00",
-    "time_ago": "22m ago"
-  },
-  {
-    "id": "2ceaf50e65e2",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Carroll Anthony bought 24,745 shares of Ftc Solar, Inc. (FTCI) \u00b7 $2.08/share \u00b7 $51,470 total \u00b7 Aug 26",
+    "severity": "critical",
+    "content": "Inflation today is higher than when Trump took office in January 2025, higher than when he launched his chaotic tariffs in April 2025, and higher than when he launched his illegal war in Iran five months ago.\n \nTrump\u2019s decisions are driving up costs and eating into your paycheck.",
     "tags": [
-      "Energy"
+      "Trade",
+      "Sanctions"
     ],
     "tickers": [
-      "FTCI"
+      "LMT",
+      "RTX",
+      "XOM",
+      "GLD"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2100820/000119312526365940/0001193125-26-365940-index.htm",
-    "published_iso": "2026-08-26T12:00:03+00:00",
-    "time_ago": "46m ago"
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mtyhfea2622n",
+    "published_iso": "2026-08-26T13:38:45.712000+00:00",
+    "time_ago": "2m ago"
   },
   {
-    "id": "8bbb8fa37ccd",
+    "id": "0fcf4f4f369d",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -94,20 +35,23 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "medium",
-    "content": "Yochai Nissim sold 7,535 shares of Zim Integrated Shipping Services Ltd. (ZIM) \u00b7 $28.83/share \u00b7 $217,238 total \u00b7 Aug 26",
-    "tags": [],
+    "severity": "critical",
+    "content": "Laws Richard K withheld (tax) 1,558 shares of Wesbanco Inc (WSBCO) \u00b7 $42.21/share \u00b7 $65,763 total \u00b7 Aug 26",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
     "tickers": [
-      "ZIM"
+      "WSBCO"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1966865/000197640826000772/0001976408-26-000772-index.htm",
-    "published_iso": "2026-08-26T11:58:57+00:00",
-    "time_ago": "47m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1621748/000020359626000110/0000203596-26-000110-index.htm",
+    "published_iso": "2026-08-26T13:31:04+00:00",
+    "time_ago": "11m ago"
   },
   {
-    "id": "c7bfb0c2bcae",
+    "id": "b809342050f3",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -115,17 +59,19 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "critical",
-    "content": "Democrats see glimmer of hope in South Carolina after Darline Graham's win. In today's issue: \u25aa Trump racks up wins in GOP runoffs \u25aa Remembering Dolly Parton \u25aa Canada details retaliatory tariffs \u25aa Troubling NFL CTE report Sen. Darline Graham\u2019s (R-S.C.) narrow victory in South Carolina\u2019s Senate primary runoff makes her ",
-    "tags": [
-      "Trade"
+    "severity": "medium",
+    "content": "Live updates: Trump notches endorsement wins; inflation holds steady. President Trump notched two big wins in Tuesday's elections, with Sen. Darline Graham (S.C.) and former state Sen. Mike Mazzei (Okla.) clinching the GOP nominations in their respective primary runoff races. Trump's super PAC, MAGA Inc., poured over $",
+    "tags": [],
+    "tickers": [
+      "GLD",
+      "TLT",
+      "SPY"
     ],
-    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/morning-report/6051145-democrats-hopes-rise-darline-graham-win-south-carolina/",
-    "published_iso": "2026-08-26T11:23:49+00:00",
-    "time_ago": "1h ago"
+    "url": "https://thehill.com/homenews/administration/6051255-live-updates-trump-iran-canada-dolly-parton/",
+    "published_iso": "2026-08-26T13:20:14+00:00",
+    "time_ago": "22m ago"
   },
   {
     "id": "1c1057b9361d",
@@ -146,7 +92,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17445/list-of-approved-spent-fuel-storage-casks-tn-americas-llc-standardized-nuhoms-horizontal-modular",
     "published_iso": "2026-08-26T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "d06a0f85ba20",
@@ -167,7 +113,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17442/critical-position-pay-authority",
     "published_iso": "2026-08-26T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "ff63cf7e6748",
@@ -193,7 +139,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17440/loan-performance-categories-and-financial-reporting",
     "published_iso": "2026-08-26T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "54f946e9c02b",
@@ -215,7 +161,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17437/international-trademark-classification-changes",
     "published_iso": "2026-08-26T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "a6aeaec6ec4c",
@@ -238,7 +184,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17429/schedules-of-controlled-substances-temporary-placement-of-mitragynine-pseudoindoxyl-mgm-15-and",
     "published_iso": "2026-08-26T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "a3ae128b20a6",
@@ -261,7 +207,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17428/telemarketing-sales-rule-fees",
     "published_iso": "2026-08-26T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "22cce63660e8",
@@ -287,7 +233,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17426/iranian-transactions-and-sanctions-regulations",
     "published_iso": "2026-08-26T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "c271ec9578b0",
@@ -309,7 +255,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17400/significant-new-use-rules-on-certain-chemical-substances-24-55e",
     "published_iso": "2026-08-26T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "ce88616fa393",
@@ -328,26 +274,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
     "published_iso": "2026-08-25T18:00:00+00:00",
-    "time_ago": "18h ago"
-  },
-  {
-    "id": "4e318ce1ac18",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "Hollywood mega mergers hurt everyone except the people at the top.\n\nIf you read one thing about the potential Paramount-Warner Bros. merger, let it be this: \n\nwww.hollywoodreporter.com/business/bus...",
-    "tags": [],
-    "tickers": [],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mtw7diqcks22",
-    "published_iso": "2026-08-25T16:09:13.919000+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "ee63da311890",
@@ -390,31 +317,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-and-republicans-deliver-for-south-carolina-families/",
     "published_iso": "2026-08-21T20:00:54+00:00",
-    "time_ago": "4d ago"
-  },
-  {
-    "id": "91d40345ed03",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Medicare for All could save $1 trillion a year and 114,000 lives.\n\nCongress must pass Medicare for All and finally guarantee health care as a right for every American.",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/khanna.house.gov/post/3mtm4eksz2k2d",
-    "published_iso": "2026-08-21T15:49:31.050000+00:00",
     "time_ago": "4d ago"
   },
   {
@@ -496,31 +398,6 @@
     "time_ago": "5d ago"
   },
   {
-    "id": "58a834094d82",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "A new Yale analysis found Medicare for All would cover every American AND save more than $1 trillion a year, cutting national health care spending by 20%.\n\nIt would also mean better pay for doctors, nurses, and healthcare providers. \n\nMedicare for All saves money and lives.",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/khanna.house.gov/post/3mtjgkmjz3k2d",
-    "published_iso": "2026-08-20T14:13:52.383000+00:00",
-    "time_ago": "5d ago"
-  },
-  {
     "id": "306d3c437a72",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -562,31 +439,6 @@
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/august/road-iowa-america-first-trade-raising-wages-reshoring-jobs-and-restoring-americas-global",
     "published_iso": "2026-08-18T15:02:03+00:00",
     "time_ago": "7d ago"
-  },
-  {
-    "id": "e08373ee8350",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "If Obama had to offer cash to VP Biden when his son Beau was dying of cancer, what does that say about our society? Medicare for All is about human dignity and equality.",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/khanna.house.gov/post/3mtcf4y4lwc22",
-    "published_iso": "2026-08-17T18:59:42.852000+00:00",
-    "time_ago": "8d ago"
   },
   {
     "id": "1b45165ad867",
