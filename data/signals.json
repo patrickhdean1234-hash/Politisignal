@@ -1,73 +1,94 @@
 [
   {
-    "id": "b6c09b6bc064",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "ff9506bb02f1",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
     },
-    "severity": "critical",
-    "content": "Former Labor secretary calls Trump's Canada tariffs 'irrational'. Former Labor Secretary Robert Reich on Wednesday called President Trump's 50 percent tariffs on Canadian imports \"irrational.\" Reich warned in an interview with \"Squawk Box\" co-host Andrew Ross Sorkin on CNBC that prices would rise, particularly for hous",
-    "tags": [
-      "Trade"
+    "severity": "medium",
+    "content": "Garateix Ernie J sold 10,000 shares of Heritage Insurance Holdings, Inc. (HRTG) \u00b7 $34.88/share \u00b7 $348,750 total \u00b7 Aug 26",
+    "tags": [],
+    "tickers": [
+      "HRTG"
     ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6052631-reich-calls-trump-tariffs-irrational/",
-    "published_iso": "2026-08-26T17:44:58+00:00",
-    "time_ago": "46m ago"
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1607776/000160777626000016/0001607776-26-000016-index.htm",
+    "published_iso": "2026-08-26T21:00:56+00:00",
+    "time_ago": "1m ago"
   },
   {
-    "id": "6c4737409a24",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "3c59e0436bf3",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hurt Clint sold 1,993 shares of Primeenergy Resources Corp (PNRG) \u00b7 $208.09/share \u00b7 $414,723 total \u00b7 Aug 26 ($2,026,455 across all blocks)",
+    "tags": [
+      "Energy"
+    ],
+    "tickers": [
+      "PNRG"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/947836/000143774926029023/0001437749-26-029023-index.htm",
+    "published_iso": "2026-08-26T21:00:22+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "a0ada05148c0",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
     },
     "severity": "critical",
-    "content": "Judge strikes down Texas law banning some drag performances. A federal judge on Tuesday struck down, for the second time, a Texas law that would have restricted public drag performances in the state. U.S. District Judge David Hittner ruled that the state Senate Bill 12, which was passed in 2023, violated the First Amen",
+    "content": "Fact Sheet: President Donald J. Trump Declares a National Emergency to Secure America\u2019s Bulk-Power System. SECURING AMERICA\u2019S BULK-POWER SYSTEM:&#160;Today,&#160;President Donald J. Trump&#160;signed an Executive Order to protect the security, integrity, and reliability of bulk-power system electric equipment used in t",
     "tags": [
-      "Regulation",
       "Taxes"
     ],
     "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/regulation/court-battles/6052735-texas-drag-law-struck-down/",
-    "published_iso": "2026-08-26T17:25:20+00:00",
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-declares-a-national-emergency-to-secure-americas-bulk-power-system/",
+    "published_iso": "2026-08-26T19:59:27+00:00",
     "time_ago": "1h ago"
   },
   {
-    "id": "a5a51eeae4f3",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
+    "id": "a9cd6f26090e",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
     "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
     },
     "severity": "critical",
-    "content": "Inflation today is higher than when Trump took office in January 2025, higher than when he launched his chaotic tariffs in April 2025, and higher than when he launched his illegal war in Iran five months ago.\n \nTrump\u2019s decisions are driving up costs and eating into your paycheck.",
+    "content": "The skeptics saying Medicare for All would bankrupt America have been proven wrong.\n\nA new Yale study shows that Medicare for All would save $1 trillion and 114,000 lives a year.",
     "tags": [
-      "Trade",
-      "Sanctions"
+      "Healthcare",
+      "Banking"
     ],
     "tickers": [
-      "LMT",
-      "RTX",
-      "XOM",
-      "GLD"
+      "UNH",
+      "HCA",
+      "CVS"
     ],
     "source": "bluesky",
     "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mtyhfea2622n",
-    "published_iso": "2026-08-26T13:38:45.712000+00:00",
-    "time_ago": "4h ago"
+    "url": "https://bsky.app/profile/khanna.house.gov/post/3mtz3qdfn7k2j",
+    "published_iso": "2026-08-26T19:42:48.781000+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "1c1057b9361d",
@@ -88,7 +109,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17445/list-of-approved-spent-fuel-storage-casks-tn-americas-llc-standardized-nuhoms-horizontal-modular",
     "published_iso": "2026-08-26T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "d06a0f85ba20",
@@ -109,7 +130,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17442/critical-position-pay-authority",
     "published_iso": "2026-08-26T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "ff63cf7e6748",
@@ -135,7 +156,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17440/loan-performance-categories-and-financial-reporting",
     "published_iso": "2026-08-26T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "54f946e9c02b",
@@ -157,7 +178,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17437/international-trademark-classification-changes",
     "published_iso": "2026-08-26T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "a6aeaec6ec4c",
@@ -180,7 +201,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17429/schedules-of-controlled-substances-temporary-placement-of-mitragynine-pseudoindoxyl-mgm-15-and",
     "published_iso": "2026-08-26T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "a3ae128b20a6",
@@ -203,7 +224,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17428/telemarketing-sales-rule-fees",
     "published_iso": "2026-08-26T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "22cce63660e8",
@@ -229,7 +250,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17426/iranian-transactions-and-sanctions-regulations",
     "published_iso": "2026-08-26T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "c271ec9578b0",
@@ -251,7 +272,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17400/significant-new-use-rules-on-certain-chemical-substances-24-55e",
     "published_iso": "2026-08-26T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "ce88616fa393",
@@ -271,49 +292,6 @@
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
     "published_iso": "2026-08-25T18:00:00+00:00",
     "time_ago": "1d ago"
-  },
-  {
-    "id": "ee63da311890",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "President Trump Champions Educational Freedom \u2014 Putting Students and Parents First. Today, President Donald J. Trump welcomes students, parents, and education advocates to the White House to celebrate the start of a new school year. Under President Trump\u2019s and Secretary of Education Linda McMahon\u2019s leadership, this Adm",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-champions-educational-freedom-putting-students-and-parents-first/",
-    "published_iso": "2026-08-24T16:41:15+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "3d01d9fb4fef",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "high",
-    "content": "President Trump and Republicans Deliver for South Carolina Families. Today, President Donald J. Trump returns to South Carolina to celebrate the powerful results of America First leadership. Under President Trump and Republicans, South Carolina is thriving: the largest tax cuts for working families in a generation, the",
-    "tags": [
-      "Energy",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-and-republicans-deliver-for-south-carolina-families/",
-    "published_iso": "2026-08-21T20:00:54+00:00",
-    "time_ago": "4d ago"
   },
   {
     "id": "91d40345ed03",
@@ -364,7 +342,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
     "published_iso": "2026-08-20T20:00:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "d1faa9166adb",
@@ -484,31 +462,6 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/august/road-iowa-america-first-trade-raising-wages-reshoring-jobs-and-restoring-americas-global",
     "published_iso": "2026-08-18T15:02:03+00:00",
-    "time_ago": "8d ago"
-  },
-  {
-    "id": "e08373ee8350",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "If Obama had to offer cash to VP Biden when his son Beau was dying of cancer, what does that say about our society? Medicare for All is about human dignity and equality.",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/khanna.house.gov/post/3mtcf4y4lwc22",
-    "published_iso": "2026-08-17T18:59:42.852000+00:00",
     "time_ago": "8d ago"
   },
   {
@@ -750,7 +703,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
     "published_iso": "2026-08-04T20:30:00+00:00",
-    "time_ago": "21d ago"
+    "time_ago": "22d ago"
   },
   {
     "id": "20080fd47dd8",
@@ -776,7 +729,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm",
     "published_iso": "2026-08-04T20:30:00+00:00",
-    "time_ago": "21d ago"
+    "time_ago": "22d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -826,7 +779,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "34d ago"
+    "time_ago": "35d ago"
   },
   {
     "id": "98b90fd8352a",
@@ -899,7 +852,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "36d ago"
+    "time_ago": "37d ago"
   },
   {
     "id": "00574dc3c125",
@@ -921,7 +874,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-launches-the-reading-room-a-public-archive-of-the-committees-ongoing-covid-19-origins-investigations/",
     "published_iso": "2026-07-20T20:42:12+00:00",
-    "time_ago": "36d ago"
+    "time_ago": "37d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -1033,7 +986,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "153d ago"
+    "time_ago": "154d ago"
   },
   {
     "id": "00f579ee8f55",
