@@ -1,6 +1,27 @@
 [
   {
-    "id": "fe33cea180fa",
+    "id": "31158165e03f",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Kiai Parsa bought 41,975 shares of Medifast Inc (MED) \u00b7 $12.26/share \u00b7 $514,748 total \u00b7 Aug 28 ($529,157 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "MED"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1766850/000121390026094862/0001213900-26-094862-index.htm",
+    "published_iso": "2026-08-28T16:47:53+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "33048e34ac7a",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,261 +30,44 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Judge rules Pentagon's supply chain risk designation for Anthropic was illegal. A federal judge in California ruled on Thursday the Pentagon's blacklisting of the artificial intelligence firm Anthropic earlier this year was illegal, violating the First Amendment. In a ruling Thursday evening, Judge Rita Lin said the Tr",
+    "content": "Florida tourism dips as Canadian visitors drop 14 percent. Florida saw about 270,000 fewer Canadian visitors in the first half of 2026 than a year earlier",
     "tags": [
-      "Defense",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/state-watch/6056690-florida-tourism-dips-trump-canada-trade-war/",
+    "published_iso": "2026-08-28T16:34:53+00:00",
+    "time_ago": "18m ago"
+  },
+  {
+    "id": "3cccf4b48a9c",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "low",
+    "content": "Warsh takes ownership of inflation risk. \ud83d\udca7Plus: Another ripple in US-Canada relations {beacon} &#8202; It\u2019s Friday. Leaf your worries behind \u2014 fall is almost here (or so my allergies believe). &#8202; In today's issue: Warsh takes on inflation U.S.-Canada trade war makes waves Six months later, Iran war grinds on Mail-",
+    "tags": [
+      "Trade",
       "Regulation",
-      "Taxes"
+      "Sanctions"
     ],
     "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
+      "XRP"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/6056436-judge-rules-pentagon-anthropic-blacklist-illegal/",
-    "published_iso": "2026-08-28T03:03:39+00:00",
-    "time_ago": "1h ago"
+    "url": "https://thehill.com/newsletters/1230-report/6057534-kevin-warsh-inflation-risks-interest-rates-us-economy-canada-trade-war-midterms/",
+    "published_iso": "2026-08-28T16:32:00+00:00",
+    "time_ago": "21m ago"
   },
   {
-    "id": "47f0eabb5311",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Grand jury: DeSantis admin 'misappropriated' tax dollars in Hope Florida scandal. A Florida grand jury found Gov. Ron DeSantis\u2019s (R-Fla.) administration \u201cmisappropriated\u201d a payment from a Medicaid settlement into the Hope Florida Foundation \u2014 an organization \u201cchampioned\u201d by first lady Casey DeSantis. The grand jury arg",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/state-watch/6056407-grand-jury-desantis-hope-florida-scandal/",
-    "published_iso": "2026-08-28T02:11:22+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "8f05ec30d1ef",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hurlston Michael E. received 7,941 shares of Lumentum Holdings Inc. (LITE) \u00b7 Aug 27 ($525,346 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "LITE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1633978/000157333826000017/0001573338-26-000017-index.htm",
-    "published_iso": "2026-08-28T01:59:06+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "25076379dded",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hurlston Michael E. received 66,764 shares of Lumentum Holdings Inc. (LITE) \u00b7 Aug 27",
-    "tags": [],
-    "tickers": [
-      "LITE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1633978/000157333826000016/0001573338-26-000016-index.htm",
-    "published_iso": "2026-08-28T01:58:29+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "93d5893a4145",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Wupen Yuen received 5,138 shares of Lumentum Holdings Inc. (LITE) \u00b7 Aug 27 ($479,330 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "LITE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1633978/000148955026000007/0001489550-26-000007-index.htm",
-    "published_iso": "2026-08-28T01:57:43+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "9ceeee8672ed",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Retort Vincent sold 360 shares of Lumentum Holdings Inc. (LITE) \u00b7 $842.22/share \u00b7 $303,198 total \u00b7 Aug 27 ($32,963,734 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "LITE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1648256/000164825626000008/0001648256-26-000008-index.htm",
-    "published_iso": "2026-08-28T01:57:09+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "1c6a8437228a",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Kim Jae sold 205 shares of Lumentum Holdings Inc. (LITE) \u00b7 $842.39/share \u00b7 $172,691 total \u00b7 Aug 27 ($10,231,015 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "LITE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1633978/000157046526000007/0001570465-26-000007-index.htm",
-    "published_iso": "2026-08-28T01:56:26+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "4829f8b47168",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Chang Eric received 900 shares of Lumentum Holdings Inc. (LITE) \u00b7 Aug 27",
-    "tags": [],
-    "tickers": [
-      "LITE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1664898/000166489826000005/0001664898-26-000005-index.htm",
-    "published_iso": "2026-08-28T01:55:52+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "31ddfa0145f3",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Ali Wajid received 5,005 shares of Lumentum Holdings Inc. (LITE) \u00b7 Aug 27",
-    "tags": [],
-    "tickers": [
-      "LITE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1633978/000156110026000007/0001561100-26-000007-index.htm",
-    "published_iso": "2026-08-28T01:55:14+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "b204b0ef9a09",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Wupen Yuen received 22,760 shares of Lumentum Holdings Inc. (LITE) \u00b7 Aug 27",
-    "tags": [],
-    "tickers": [
-      "LITE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1633978/000148955026000006/0001489550-26-000006-index.htm",
-    "published_iso": "2026-08-28T01:54:26+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "5f62d9d372fd",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Retort Vincent received 15,174 shares of Lumentum Holdings Inc. (LITE) \u00b7 Aug 27",
-    "tags": [],
-    "tickers": [
-      "LITE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1648256/000164825626000007/0001648256-26-000007-index.htm",
-    "published_iso": "2026-08-28T01:51:03+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "6d325315f423",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Kim Jae received 11,634 shares of Lumentum Holdings Inc. (LITE) \u00b7 Aug 27",
-    "tags": [],
-    "tickers": [
-      "LITE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1633978/000157046526000006/0001570465-26-000006-index.htm",
-    "published_iso": "2026-08-28T01:50:07+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "307a4ad9f00a",
+    "id": "db54cb473ea3",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -272,37 +76,210 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Wisconsin politicians joke about Lake Michigan name change. Wisconsin politicians made jokes out of President Trump\u2019s executive order aiming to rename Lake Ontario, jesting about the renaming of Lake Michigan, another Great Lake. On Thursday, the president put his signature on an executive order formally changing the n",
+    "content": "Live updates: Trump honors Artemis II astronauts at NASA; Warsh hints at potential Fed interest rate hike. President Trump on Friday is visiting the Johnson Space Center in Houston, where he will award Congressional Space Medals of Honor to the astronauts involved in the Artemis II mission. Federal Reserve Chair Kevin ",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6056341-live-updates-trump-warsh-fed-march-washington/",
+    "published_iso": "2026-08-28T16:29:38+00:00",
+    "time_ago": "23m ago"
+  },
+  {
+    "id": "c77e5d46cb97",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Sellers: 'Biden didn't get bullied by Canada'. CNN political commentator Bakari Sellers on Friday said President Trump is being \u201cbullied\u201d by Canada amid an escalating trade war, comparing the current president\u2019s handling of Canada with that of previous administrations. \u201cWe\u2019re getting bullied by Canada,\u201d he said during ",
+    "tags": [
+      "Trade"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/media/6057491-bakari-sellers-trump-canada-trade/",
+    "published_iso": "2026-08-28T15:38:55+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "93f065833920",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Streamlining Export Controls for Drone Exports",
     "tags": [
       "Trade"
     ],
     "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/state-watch/6056355-wisconsin-politicians-mock-lake-michigan-ontario/",
-    "published_iso": "2026-08-28T00:48:55+00:00",
-    "time_ago": "3h ago"
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/08/28/C1-2026-16628/streamlining-export-controls-for-drone-exports",
+    "published_iso": "2026-08-28T04:00:00+00:00",
+    "time_ago": "12h ago"
   },
   {
-    "id": "3c93d26152d7",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "0d6bfe9b0fa0",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
     "color": {
       "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "fg": "#86efac"
     },
-    "severity": "critical",
-    "content": "Dingell plans legislation to void Trump's Lake Ontario renaming. Rep. Debbie Dingell (D-Mich.) plans to introduce a bill Monday that would nullify President Trump's executive order renaming Lake Ontario to \u201cLake America.\u201d The one-page \u201cHands Off Our Great Lakes Act\u201d bill would ensure the executive order \u201cshall have no ",
+    "severity": "medium",
+    "content": "International Traffic in Arms Regulations: Modification of Civil Aircraft To Incorporate Aircraft Survivability Equipment. The Department of State (the Department) amends the International Traffic in Arms Regulations (ITAR) to remove from the U.S. Munitions List (USML) certain aircraft that have been modified to incorp",
+    "tags": [
+      "Trade",
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/08/28/2026-17660/international-traffic-in-arms-regulations-modification-of-civil-aircraft-to-incorporate-aircraft",
+    "published_iso": "2026-08-28T04:00:00+00:00",
+    "time_ago": "12h ago"
+  },
+  {
+    "id": "957c32440a89",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Requests for Arbitration Panels. The Federal Mediation and Conciliation Service (FMCS) is issuing an interim final rule with requests for comments to amend its arbitration services regulations. The interim final rule clarifies the circumstances in which the Office of Arbitration (OA) may decline to issue an arbitration",
     "tags": [
       "Regulation"
     ],
     "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/6056291-debbie-dingell-trump-lake-ontario-act/",
-    "published_iso": "2026-08-27T23:48:46+00:00",
-    "time_ago": "4h ago"
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/08/28/2026-17652/requests-for-arbitration-panels",
+    "published_iso": "2026-08-28T04:00:00+00:00",
+    "time_ago": "12h ago"
+  },
+  {
+    "id": "dca7c8631ec6",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Fisheries of the Exclusive Economic Zone off Alaska; Pacific Ocean Perch in the Central Aleutian District of the Bering Sea and Aleutian Islands Management Area. NMFS is prohibiting directed fishing for Pacific ocean perch in the Central Aleutian district (CAI) of the Bering Sea and Aleutian Islands management area (BS",
+    "tags": [],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/08/28/2026-17650/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-ocean-perch-in-the-central-aleutian",
+    "published_iso": "2026-08-28T04:00:00+00:00",
+    "time_ago": "12h ago"
+  },
+  {
+    "id": "f0f939fda57b",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Pacific Halibut Fisheries of the West Coast; Inseason Action for the 2026 Area 2A Pacific Halibut Directed Commercial Fishery. NMFS announces an inseason action for the 2026 Pacific halibut non-Tribal directed commercial fishery in the International Pacific Halibut Commission's (IPHC) regulatory Area 2A. This action ad",
+    "tags": [],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/08/28/2026-17645/pacific-halibut-fisheries-of-the-west-coast-inseason-action-for-the-2026-area-2a-pacific-halibut",
+    "published_iso": "2026-08-28T04:00:00+00:00",
+    "time_ago": "12h ago"
+  },
+  {
+    "id": "ccd0fd0d4b3a",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "critical",
+    "content": "Airworthiness Directives; Pilatus Aircraft Ltd. Airplanes. The FAA is adopting a new airworthiness directive (AD) for certain Pilatus Aircraft Ltd. (Pilatus) Model PC-12/47E airplanes. This AD was prompted by a report that the emergency exit door could not be opened from inside an airplane. This AD requires modificatio",
+    "tags": [],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/08/28/2026-17639/airworthiness-directives-pilatus-aircraft-ltd-airplanes",
+    "published_iso": "2026-08-28T04:00:00+00:00",
+    "time_ago": "12h ago"
+  },
+  {
+    "id": "eba5e2169fb2",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Vessel and Shipyard Financing, Regulatory Revision. This interim final rule revises MARAD regulations implementing the Vessel and Shipyard Financing Program (Title XI Program or the Program) financial and programmatic requirements. Specifically, MARAD implements statutory changes, updates the vessel project and shipyar",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/08/28/2026-17636/vessel-and-shipyard-financing-regulatory-revision",
+    "published_iso": "2026-08-28T04:00:00+00:00",
+    "time_ago": "12h ago"
+  },
+  {
+    "id": "d4f9648ec192",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "critical",
+    "content": "Safety Zone; Hurricanes, Tropical Storms, and Severe Weather Events in the Sector Mobile Captain of the Port Zone. The Coast Guard is establishing a safety zone in the navigable waters within the Sector Mobile Captain of the Port (COTP) zone, to be enforced in the event of hurricanes, tropical storms, and other severe ",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/08/28/2026-17627/safety-zone-hurricanes-tropical-storms-and-severe-weather-events-in-the-sector-mobile-captain-of-the",
+    "published_iso": "2026-08-28T04:00:00+00:00",
+    "time_ago": "12h ago"
   },
   {
     "id": "da593744d02e",
@@ -324,7 +301,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-american-history-of-the-great-lakes-and-renaming-lake-ontario-as-lake-america-3a36/",
     "published_iso": "2026-08-27T21:00:35+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "61358ba6419a",
@@ -350,178 +327,6 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
     "published_iso": "2026-08-27T15:00:00+00:00",
-    "time_ago": "13h ago"
-  },
-  {
-    "id": "2a0b804a9a39",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "critical",
-    "content": "Airworthiness Directives; The Boeing Company Airplanes. The FAA is adopting a new airworthiness directive (AD) for certain The Boeing Company Model 787-8, 787-9, and 787-10 airplanes. This AD was prompted by a Boeing investigation for manufacturing errors and excessive preload forces at the lower side of body (SOB) spl",
-    "tags": [],
-    "tickers": [
-      "BA"
-    ],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/08/27/2026-17553/airworthiness-directives-the-boeing-company-airplanes",
-    "published_iso": "2026-08-27T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "120dd56799e2",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Airworthiness Directives; Airbus SAS Airplanes. The FAA is adopting a new airworthiness directive (AD) for certain Airbus SAS Model A320-211, -212, -214, -216, -231, -232, and - 233 airplanes; and Model A321-111, -112, -131, -211, -212, -213, -231, and -232 airplanes. This AD was prompted by a fatigue test that identif",
-    "tags": [
-      "Agriculture"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/08/27/2026-17552/airworthiness-directives-airbus-sas-airplanes",
-    "published_iso": "2026-08-27T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "466fb1faaea1",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Airworthiness Directives; Airbus SAS Airplanes. The FAA is superseding Airworthiness Directive (AD) 2024-25- 06, which applied to all Airbus SAS Model A318 and A320 series airplanes; and Model A319-111, -112, -113, -114, -115, -131, -132, - 133, -151N, -153N, and -171N airplanes; and Model A321-111, -112, -131, -211, -",
-    "tags": [],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/08/27/2026-17551/airworthiness-directives-airbus-sas-airplanes",
-    "published_iso": "2026-08-27T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "27a24c5da4f5",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Farmer Bridge Assistance (FBA) Program; Correction. The Commodity Credit Corporation (CCC) announced the Farmer Bridge Assistance (FBA) Program in a final rule on February 23, 2026. This correction amends the definition of &quot;corn&quot; to add blue and red corn, which are eligible commodities for the FBA Program",
-    "tags": [
-      "Agriculture",
-      "Regulation"
-    ],
-    "tickers": [
-      "CORN",
-      "SOYB",
-      "DE"
-    ],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/08/27/2026-17538/farmer-bridge-assistance-fba-program-correction",
-    "published_iso": "2026-08-27T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "20cc3455d805",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "critical",
-    "content": "Schedules of Controlled Substances: Placement of Cipepofol in Schedule IV. On May 29, 2026, the United States Food and Drug Administration (FDA) approved a new drug application for Cypsedo (cipepofol) for induction of general anesthesia in adults undergoing surgery. The Department of Health and Human Services provided ",
-    "tags": [
-      "Healthcare",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/08/27/2026-17536/schedules-of-controlled-substances-placement-of-cipepofol-in-schedule-iv",
-    "published_iso": "2026-08-27T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "a1a6d7947f56",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "critical",
-    "content": "Schedules of Controlled Substances: Temporary Placement of 5,6-Dichloro Brorphine, 5,6-Dichloro Desmethylchlorphine, N-Propionitrile Chlorphine, and Spirochlorphine in Schedule I of the Controlled Substances Act. The Drug Enforcement Administration (DEA) issues this temporary order to schedule 1-(1-(1-(4-bromophenyl)et",
-    "tags": [
-      "Trade",
-      "Healthcare",
-      "Sanctions"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/08/27/2026-17531/schedules-of-controlled-substances-temporary-placement-of-56-dichloro-brorphine-56-dichloro",
-    "published_iso": "2026-08-27T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "6f7002cf6926",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Safety Zone; Aerial Displays, Upper Bay, New York, NY. The Coast Guard is establishing a temporary safety zone for navigable waters of the Upper New York Bay, in the vicinity of Liberty Island and Governors Island. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazard",
-    "tags": [],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/08/27/2026-17522/safety-zone-aerial-displays-upper-bay-new-york-ny",
-    "published_iso": "2026-08-27T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "645d2f93611a",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Tart Cherries Grown in the States of Michigan, et al.; Free and Restricted Percentages for the 2024-2025 Crop Year. This final rule implements a recommendation from the Cherry Industry Administrative Board (Board) to establish free market tonnage percentages (free percentages) and restricted percentages for the 2024- 2",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/08/27/2026-17512/tart-cherries-grown-in-the-states-of-michigan-et-al-free-and-restricted-percentages-for-the",
-    "published_iso": "2026-08-27T04:00:00+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -640,7 +445,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtm4eksz2k2d",
     "published_iso": "2026-08-21T15:49:31.050000+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "f281bf40952f",
@@ -692,7 +497,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "0559c8e7bc33",
@@ -718,7 +523,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "58a834094d82",
@@ -743,7 +548,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtjgkmjz3k2d",
     "published_iso": "2026-08-20T14:13:52.383000+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "306d3c437a72",
@@ -786,7 +591,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/august/road-iowa-america-first-trade-raising-wages-reshoring-jobs-and-restoring-americas-global",
     "published_iso": "2026-08-18T15:02:03+00:00",
-    "time_ago": "9d ago"
+    "time_ago": "10d ago"
   },
   {
     "id": "1b45165ad867",
@@ -812,7 +617,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
     "published_iso": "2026-08-13T15:00:00+00:00",
-    "time_ago": "14d ago"
+    "time_ago": "15d ago"
   },
   {
     "id": "f9bb1b8a1a24",
@@ -831,7 +636,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s231?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-08T08:36:00+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "867b611061db",
@@ -850,7 +655,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s230?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-08T08:17:00+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "4c9ba1bce804",
@@ -869,7 +674,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s229?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-08T07:59:00+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "5a1177a6532b",
@@ -890,7 +695,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s228?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-08T07:37:00+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "5fc808808493",
@@ -909,7 +714,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s227?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-08T06:36:00+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "e0959b575c74",
@@ -973,7 +778,35 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s224?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-07T16:43:00+00:00",
-    "time_ago": "20d ago"
+    "time_ago": "21d ago"
+  },
+  {
+    "id": "baf26d52584e",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "critical",
+    "content": "Senator Rand Paul Offers Amendment to Strip Half-Trillion-Dollar Tax Increase from Russia Sanctions Bill. The post  Senator Rand Paul Offers Amendment to Strip Half-Trillion-Dollar Tax Increase from Russia Sanctions Bill  appeared first on  Senator Rand Paul",
+    "tags": [
+      "Defense",
+      "Regulation",
+      "Taxes",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
+    "published_iso": "2026-08-07T16:35:23+00:00",
+    "time_ago": "21d ago"
   },
   {
     "id": "63e88990093a",
@@ -1002,6 +835,35 @@
     "time_ago": "23d ago"
   },
   {
+    "id": "6e187954d9ee",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "critical",
+    "content": "Dr. Rand Paul\u2019s Legislation to Lower Drug Prices Unanimously Advances Out of Committee. The post  Dr. Rand Paul\u2019s Legislation to Lower Drug Prices Unanimously Advances Out of Committee  appeared first on  Senator Rand Paul",
+    "tags": [
+      "Healthcare",
+      "Defense",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "LLY",
+      "PFE",
+      "JNJ",
+      "MRK"
+    ],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
+    "published_iso": "2026-07-23T16:35:29+00:00",
+    "time_ago": "36d ago"
+  },
+  {
     "id": "de38f5381391",
     "politician": "U.S. Treasury",
     "initials": "TRS",
@@ -1023,6 +885,101 @@
     "time_ago": "36d ago"
   },
   {
+    "id": "98b90fd8352a",
+    "politician": "Sen. Cynthia Lummis",
+    "initials": "CL",
+    "role": "Senate Banking Subcommittee (Crypto)",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#c4b5fd"
+    },
+    "severity": "critical",
+    "content": "Lummis Releases Updated Clarity Act Text. Washington, D.C.\u2014&#160;Today, Senate Banking Digital Assets Subcommittee Chair Cynthia Lummis (R-WY) released updated text for the&#160;Digital Asset Market Clarity Act&#160;(H.R. 3633), which reflects the merged work products of the Banking and Agriculture Committees.&#160; \u201cT",
+    "tags": [
+      "Crypto",
+      "Agriculture",
+      "Banking",
+      "Defense"
+    ],
+    "tickers": [
+      "BTC",
+      "ETH",
+      "COIN",
+      "XRP"
+    ],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "https://www.lummis.senate.gov/press-releases/lummis-releases-updated-clarity-act-text/",
+    "published_iso": "2026-07-22T16:49:25+00:00",
+    "time_ago": "37d ago"
+  },
+  {
+    "id": "eb1d45f105fb",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "low",
+    "content": "The post    appeared first on  Senator Rand Paul",
+    "tags": [
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "https://www.paul.senate.gov/266583-2/",
+    "published_iso": "2026-07-22T12:28:35+00:00",
+    "time_ago": "37d ago"
+  },
+  {
+    "id": "555d7f3dd315",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "low",
+    "content": "Chairman Paul Releases Documents Showing CBP Prepared to Question and Search Peter Daszak \u2014 Until the FBI Stepped In. The post  Chairman Paul Releases Documents Showing CBP Prepared to Question and Search Peter Daszak \u2014 Until the FBI Stepped In  appeared first on  Senator Rand Paul",
+    "tags": [
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
+    "published_iso": "2026-07-20T20:53:36+00:00",
+    "time_ago": "38d ago"
+  },
+  {
+    "id": "00574dc3c125",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "medium",
+    "content": "Chairman Paul Launches \u201cThe Reading Room,\u201d a Public Archive of the Committee\u2019s Ongoing COVID-19 Origins Investigations. The post  Chairman Paul Launches &#8220;The Reading Room,&#8221; a Public Archive of the Committee&#8217;s Ongoing COVID-19 Origins Investigations  appeared first on  Senator Rand Paul",
+    "tags": [
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "https://www.paul.senate.gov/chairman-paul-launches-the-reading-room-a-public-archive-of-the-committees-ongoing-covid-19-origins-investigations/",
+    "published_iso": "2026-07-20T20:42:12+00:00",
+    "time_ago": "38d ago"
+  },
+  {
     "id": "79faa09fe8f6",
     "politician": "U.S. Treasury",
     "initials": "TRS",
@@ -1041,7 +998,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "108d ago"
+    "time_ago": "109d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1067,7 +1024,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "114d ago"
+    "time_ago": "115d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1089,7 +1046,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "122d ago"
+    "time_ago": "123d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1113,7 +1070,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "150d ago"
+    "time_ago": "151d ago"
   },
   {
     "id": "432e035b915b",
@@ -1153,7 +1110,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "195d ago"
+    "time_ago": "196d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1172,7 +1129,33 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "195d ago"
+    "time_ago": "196d ago"
+  },
+  {
+    "id": "c3776ad92a42",
+    "politician": "Sen. Bernie Sanders",
+    "initials": "BS",
+    "role": "Senate HELP Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#818cf8"
+    },
+    "severity": "critical",
+    "content": "ADVISORY: Sanders to Hold Town Meeting on Vermont Health Care Crisis with UVM Health CEO. BURLINGTON, Vt., Jan. 22 \u2013 Sen. Bernie Sanders (I-Vt.) will hold a town meeting with University of Vermont (UVM) Health CEO Dr. Stephen Leffler on Friday, January 23 at 7:00 p.m. to discuss Vermont\u2019s health care crisis. Vermonters",
+    "tags": [
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
+    "published_iso": "2026-01-22T17:09:24+00:00",
+    "time_ago": "217d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1191,6 +1174,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "254d ago"
+    "time_ago": "255d ago"
   }
 ]
