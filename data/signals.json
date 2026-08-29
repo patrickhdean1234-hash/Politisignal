@@ -1,6 +1,6 @@
 [
   {
-    "id": "31158165e03f",
+    "id": "78e7a50400e4",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,150 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Kiai Parsa bought 41,975 shares of Medifast Inc (MED) \u00b7 $12.26/share \u00b7 $514,748 total \u00b7 Aug 28 ($529,157 across all blocks)",
+    "content": "Prager Paul B. sold 137,500 shares of Terawulf Inc. (WULF) \u00b7 $17.06/share \u00b7 $2,345,654 total \u00b7 Aug 28",
     "tags": [],
     "tickers": [
-      "MED"
+      "WULF"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1766850/000121390026094862/0001213900-26-094862-index.htm",
-    "published_iso": "2026-08-28T16:47:53+00:00",
-    "time_ago": "5m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1877255/000108330126000172/0001083301-26-000172-index.htm",
+    "published_iso": "2026-08-29T00:41:04+00:00",
+    "time_ago": "7m ago"
   },
   {
-    "id": "33048e34ac7a",
+    "id": "b26001ab0d85",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Kindler Jeffrey B sold 185,000 shares of Precigen, Inc. (PGEN) \u00b7 $7.44/share \u00b7 $1,376,400 total \u00b7 Aug 28",
+    "tags": [],
+    "tickers": [
+      "PGEN"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1356090/000095010326013201/0000950103-26-013201-index.htm",
+    "published_iso": "2026-08-29T00:39:14+00:00",
+    "time_ago": "8m ago"
+  },
+  {
+    "id": "e767c52a2abf",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Cox Matthew J sold 442 shares of Matson, Inc. (MATX) \u00b7 $225.05/share \u00b7 $99,472 total \u00b7 Aug 28 ($2,235,385 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "MATX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1206911/000122520826007379/0001225208-26-007379-index.htm",
+    "published_iso": "2026-08-29T00:38:42+00:00",
+    "time_ago": "9m ago"
+  },
+  {
+    "id": "658f9784af8c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Lawrence Bryan H. acquired/disposed 1,000,000 shares of Ramaco Resources, Inc. (METCB) \u00b7 Aug 28 ($0 across all blocks)",
+    "tags": [
+      "Regulation",
+      "Insider Trade"
+    ],
+    "tickers": [
+      "METCB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1687187/000114036126034898/0001140361-26-034898-index.htm",
+    "published_iso": "2026-08-29T00:28:02+00:00",
+    "time_ago": "20m ago"
+  },
+  {
+    "id": "1e8eaf8c594c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Leidel Peter A acquired/disposed 1,000,000 shares of Ramaco Resources, Inc. (METCB) \u00b7 Aug 28 ($0 across all blocks)",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "METCB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1687187/000114036126034896/0001140361-26-034896-index.htm",
+    "published_iso": "2026-08-29T00:25:05+00:00",
+    "time_ago": "23m ago"
+  },
+  {
+    "id": "531a71acb4cd",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Tsuchimoto Kim R exercised options for 2,055 shares of Monopar Therapeutics (MNPR) \u00b7 $30.00/share \u00b7 $61,650 total \u00b7 Aug 28 ($545,707 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "MNPR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1645469/000143774926029235/0001437749-26-029235-index.htm",
+    "published_iso": "2026-08-29T00:18:00+00:00",
+    "time_ago": "30m ago"
+  },
+  {
+    "id": "ed79609c5bc2",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Mcveety Kristen J sold 724 shares of Coreweave, Inc. (CRWV) \u00b7 $87.39/share \u00b7 $63,269 total \u00b7 Aug 28 ($184,855 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "CRWV"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2058048/000176962826000414/0001769628-26-000414-index.htm",
+    "published_iso": "2026-08-29T00:06:38+00:00",
+    "time_ago": "41m ago"
+  },
+  {
+    "id": "3026bf916aa6",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -30,93 +161,60 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Florida tourism dips as Canadian visitors drop 14 percent. Florida saw about 270,000 fewer Canadian visitors in the first half of 2026 than a year earlier",
+    "content": "Meta settlement puts pressure on competitors. {beacon} Technology Technology \u200a The Big Story\u00a0 Meta settlement puts pressure on competitors\u00a0 Meta\u2019s settlement with nearly every state in the country is putting some of its biggest competitors on notice as the Instagram and Facebook parent firm tries to steer an industry s",
+    "tags": [
+      "Big Tech"
+    ],
+    "tickers": [
+      "META"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/technology/6058550-meta-settlement-competitors-corner-kids-safety/",
+    "published_iso": "2026-08-28T22:35:16+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "3c2fcef078e9",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "critical",
+    "content": "Fact Sheet: President Donald J. Trump Establishes a Commission to Design the United States Space Academy. BUILDING THE NEXT GENERATION OF AMERICAN SPACE LEADERS:&#160;Today, President Donald J. Trump signed an Executive Order to create a Presidential Commission to begin the process of establishing a new federal academy",
     "tags": [
       "Taxes"
     ],
     "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/state-watch/6056690-florida-tourism-dips-trump-canada-trade-war/",
-    "published_iso": "2026-08-28T16:34:53+00:00",
-    "time_ago": "18m ago"
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-establishes-a-commission-to-design-the-united-states-space-academy/",
+    "published_iso": "2026-08-28T17:49:33+00:00",
+    "time_ago": "6h ago"
   },
   {
-    "id": "3cccf4b48a9c",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "cb0f3f2b95b6",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "low",
-    "content": "Warsh takes ownership of inflation risk. \ud83d\udca7Plus: Another ripple in US-Canada relations {beacon} &#8202; It\u2019s Friday. Leaf your worries behind \u2014 fall is almost here (or so my allergies believe). &#8202; In today's issue: Warsh takes on inflation U.S.-Canada trade war makes waves Six months later, Iran war grinds on Mail-",
-    "tags": [
-      "Trade",
-      "Regulation",
-      "Sanctions"
-    ],
-    "tickers": [
-      "XRP"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/1230-report/6057534-kevin-warsh-inflation-risks-interest-rates-us-economy-canada-trade-war-midterms/",
-    "published_iso": "2026-08-28T16:32:00+00:00",
-    "time_ago": "21m ago"
-  },
-  {
-    "id": "db54cb473ea3",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Live updates: Trump honors Artemis II astronauts at NASA; Warsh hints at potential Fed interest rate hike. President Trump on Friday is visiting the Johnson Space Center in Houston, where he will award Congressional Space Medals of Honor to the astronauts involved in the Artemis II mission. Federal Reserve Chair Kevin ",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6056341-live-updates-trump-warsh-fed-march-washington/",
-    "published_iso": "2026-08-28T16:29:38+00:00",
-    "time_ago": "23m ago"
-  },
-  {
-    "id": "c77e5d46cb97",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
     },
     "severity": "medium",
-    "content": "Sellers: 'Biden didn't get bullied by Canada'. CNN political commentator Bakari Sellers on Friday said President Trump is being \u201cbullied\u201d by Canada amid an escalating trade war, comparing the current president\u2019s handling of Canada with that of previous administrations. \u201cWe\u2019re getting bullied by Canada,\u201d he said during ",
+    "content": "Sad that Bessent thinks his job is exchanging insults instead of explaining his misadventures in financial markets with your money.  \n \nTaxpayers already financed a $20B bailout of Argentina's hedge fund investors.  \n \nLook forward to actual answers to our questions.",
     "tags": [
-      "Trade"
+      "Taxes"
     ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/media/6057491-bakari-sellers-trump-canada-trade/",
-    "published_iso": "2026-08-28T15:38:55+00:00",
-    "time_ago": "1h ago"
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nt.vern.cc/SenWarren/status/2093386454311338433#m",
+    "published_iso": "2026-08-28T17:13:18+00:00",
+    "time_ago": "7h ago"
   },
   {
     "id": "93f065833920",
@@ -137,7 +235,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/28/C1-2026-16628/streamlining-export-controls-for-drone-exports",
     "published_iso": "2026-08-28T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "0d6bfe9b0fa0",
@@ -159,7 +257,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/28/2026-17660/international-traffic-in-arms-regulations-modification-of-civil-aircraft-to-incorporate-aircraft",
     "published_iso": "2026-08-28T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "957c32440a89",
@@ -180,7 +278,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/28/2026-17652/requests-for-arbitration-panels",
     "published_iso": "2026-08-28T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "dca7c8631ec6",
@@ -199,7 +297,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/28/2026-17650/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-ocean-perch-in-the-central-aleutian",
     "published_iso": "2026-08-28T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "f0f939fda57b",
@@ -218,7 +316,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/28/2026-17645/pacific-halibut-fisheries-of-the-west-coast-inseason-action-for-the-2026-area-2a-pacific-halibut",
     "published_iso": "2026-08-28T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "ccd0fd0d4b3a",
@@ -237,7 +335,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/28/2026-17639/airworthiness-directives-pilatus-aircraft-ltd-airplanes",
     "published_iso": "2026-08-28T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "eba5e2169fb2",
@@ -258,7 +356,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/28/2026-17636/vessel-and-shipyard-financing-regulatory-revision",
     "published_iso": "2026-08-28T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "d4f9648ec192",
@@ -279,7 +377,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/28/2026-17627/safety-zone-hurricanes-tropical-storms-and-severe-weather-events-in-the-sector-mobile-captain-of-the",
     "published_iso": "2026-08-28T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "da593744d02e",
@@ -301,7 +399,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-american-history-of-the-great-lakes-and-renaming-lake-ontario-as-lake-america-3a36/",
     "published_iso": "2026-08-27T21:00:35+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "61358ba6419a",
@@ -354,28 +452,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-further-ensures-affordable-beef-for-the-american-consumer/",
     "published_iso": "2026-08-26T21:19:54+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "a0ada05148c0",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "Fact Sheet: President Donald J. Trump Declares a National Emergency to Secure America\u2019s Bulk-Power System. SECURING AMERICA\u2019S BULK-POWER SYSTEM:&#160;Today,&#160;President Donald J. Trump&#160;signed an Executive Order to protect the security, integrity, and reliability of bulk-power system electric equipment used in t",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-declares-a-national-emergency-to-secure-americas-bulk-power-system/",
-    "published_iso": "2026-08-26T19:59:27+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "a9cd6f26090e",
@@ -401,7 +478,30 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtz3qdfn7k2j",
     "published_iso": "2026-08-26T19:42:48.781000+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
+  },
+  {
+    "id": "b205f565f359",
+    "politician": "Sen. Cynthia Lummis",
+    "initials": "CL",
+    "role": "Senate Banking Subcommittee (Crypto)",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#c4b5fd"
+    },
+    "severity": "medium",
+    "content": "Congrats to Conner and Matt, two of my former staffers now doing big things for Bitcoin on the outside! Great choices by  @bitcoinpolicy . \n \n \n Bitcoin Policy Institute (@bitcoinpolicy) \n \n  nt.vern.cc/i/article/209239074510\u2026  \n\n \n \n\u2014   http://nt.vern.cc/bitcoinpolicy/status/2092592898353058278#m",
+    "tags": [
+      "Crypto"
+    ],
+    "tickers": [
+      "BTC"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nt.vern.cc/SenLummis/status/2092625148889211150#m",
+    "published_iso": "2026-08-26T14:48:09+00:00",
+    "time_ago": "2d ago"
   },
   {
     "id": "ce88616fa393",
@@ -420,7 +520,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
     "published_iso": "2026-08-25T18:00:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "91d40345ed03",
@@ -471,7 +571,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
     "published_iso": "2026-08-20T20:00:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "d1faa9166adb",
@@ -567,7 +667,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
     "published_iso": "2026-08-19T18:00:00+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "f436afccee25",
@@ -733,7 +833,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s226?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-07T18:14:00+00:00",
-    "time_ago": "20d ago"
+    "time_ago": "21d ago"
   },
   {
     "id": "15c78cc7f8dd",
@@ -752,7 +852,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s225?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-07T17:23:00+00:00",
-    "time_ago": "20d ago"
+    "time_ago": "21d ago"
   },
   {
     "id": "ef7d3b12d4ec",
@@ -832,7 +932,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
     "published_iso": "2026-08-04T20:30:00+00:00",
-    "time_ago": "23d ago"
+    "time_ago": "24d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -882,7 +982,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "36d ago"
+    "time_ago": "37d ago"
   },
   {
     "id": "98b90fd8352a",
@@ -955,7 +1055,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "38d ago"
+    "time_ago": "39d ago"
   },
   {
     "id": "00574dc3c125",
@@ -977,7 +1077,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-launches-the-reading-room-a-public-archive-of-the-committees-ongoing-covid-19-origins-investigations/",
     "published_iso": "2026-07-20T20:42:12+00:00",
-    "time_ago": "38d ago"
+    "time_ago": "39d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -1089,7 +1189,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "155d ago"
+    "time_ago": "156d ago"
   },
   {
     "id": "00f579ee8f55",
@@ -1155,7 +1255,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "217d ago"
+    "time_ago": "218d ago"
   },
   {
     "id": "d3ca74df7f0f",
