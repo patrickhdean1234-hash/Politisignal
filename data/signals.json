@@ -1,27 +1,29 @@
 [
   {
-    "id": "049d4d58b185",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "4302f3783a96",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Grossman Boaz sold 4,000 shares of Allot Ltd. (ALLT) \u00b7 $7.80/share \u00b7 $31,200 total \u00b7 Aug 31",
-    "tags": [],
-    "tickers": [
-      "ALLT"
+    "content": "Live updates: Supreme Court backs Trump in ballroom suit; House returns with shutdown bill on tap. The Supreme Court backed President Trump's White House ballroom construction, ruling 5-4 Monday afternoon that a preservation group did not have grounds to sue to stop it. Trump in the Oval Office rolled out new prescript",
+    "tags": [
+      "Healthcare",
+      "Regulation",
+      "Sanctions"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2103955/000197640826000790/0001976408-26-000790-index.htm",
-    "published_iso": "2026-08-31T15:21:19+00:00",
-    "time_ago": "3m ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6060538-live-updates-trump-iran-house-spending-cr/",
+    "published_iso": "2026-08-31T20:15:22+00:00",
+    "time_ago": "40m ago"
   },
   {
-    "id": "704fb3aed872",
+    "id": "f28a209b32e2",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -30,17 +32,97 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Can House prevent shutdown; Jewish Democrats divided in Michigan: Live discussion. The House returns from its August recess this week to take up legislation that would fund the government through the beginning of December. It's expected that the stopgap measure will be approved, but will there be last-minute hurdles? I",
+    "content": "House Dems move to block Trump's attempted renaming of Lake Ontario. A trio of House Democrats introduced legislation on Monday to block President Trump from renaming Lake Ontario as \"Lake America\" \u2014 which he signed an executive order to do so last week amid his trade war with Canada. The legislation \u2014 titled the \"Hand",
     "tags": [
-      "Regulation",
+      "Trade",
+      "Regulation"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/house/6061830-trump-lake-ontario-america-canada-trade-war/",
+    "published_iso": "2026-08-31T20:05:07+00:00",
+    "time_ago": "51m ago"
+  },
+  {
+    "id": "950f964f1669",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Trump announces Medicaid drug pricing deals with 9 firms. The Trump administration on Monday announced new Medicaid drug pricing agreements with nine midsize biotechnology and pharmaceutical companies.\u00a0 Every drug \u201cwill be at the lowest prices available anywhere in the world,\u201d President Trump said in the Oval Office, s",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "LLY",
+      "PFE",
+      "JNJ",
+      "MRK"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/healthcare/6061821-trump-medicaid-drug-pricing/",
+    "published_iso": "2026-08-31T20:02:48+00:00",
+    "time_ago": "53m ago"
+  },
+  {
+    "id": "74119777f189",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "high",
+    "content": "Fact Sheet: President Donald J. Trump Announces Deal with Nine Additional Pharmaceutical Manufacturers to Lower Drug Prices for Americans. ADVANCING MOST-FAVORED-NATION (MFN) PRICING:&#160;Today, President Donald J. Trump announced nine new agreements with pharmaceutical manufacturers to lower prescription drug prices ",
+    "tags": [
+      "Healthcare",
+      "Taxes"
+    ],
+    "tickers": [
+      "LLY",
+      "PFE",
+      "JNJ",
+      "MRK"
+    ],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-deal-with-nine-additional-pharmaceutical-manufacturers-to-lower-drug-prices-for-americans/",
+    "published_iso": "2026-08-31T19:14:29+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "2a5a5905a04f",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "Back-to-school shopping costs more this year thanks to Trump\u2019s chaotic tariffs.\n \nNeed notebooks and markers? Expect to spend $118 on supplies for each kid.\n \nAdd clothes, books, and tech? $800+.\n \nTrump calls this \u201cAmerica First\u201d? Give me a break.",
+    "tags": [
+      "Trade",
       "Taxes"
     ],
     "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/editors-call/6060567-house-prevent-shutdown-jewish-democrats-divided-live-discussion/",
-    "published_iso": "2026-08-31T14:09:53+00:00",
-    "time_ago": "1h ago"
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mufi22anm22e",
+    "published_iso": "2026-08-31T17:54:56.488000+00:00",
+    "time_ago": "3h ago"
   },
   {
     "id": "500f86dd621e",
@@ -59,7 +141,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/31/C3-2026-15190/affirmative-asylum-referrals-without-interview",
     "published_iso": "2026-08-31T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "6d5524bda871",
@@ -80,7 +162,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17792/permitting-use-of-computer-based-three-dimensional-simulation-for-periodic-refresher-training-on",
     "published_iso": "2026-08-31T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "978bf98e9fa9",
@@ -101,7 +183,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17791/miscellaneous-amendments-to-fras-accident-reporting-regulations",
     "published_iso": "2026-08-31T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "a3539473cbd4",
@@ -122,7 +204,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17790/retiring-form-fra-f-6180107-and-form-fra-f-6180150",
     "published_iso": "2026-08-31T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "32cb81f51517",
@@ -143,7 +225,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17789/repealing-outdated-railroad-workplace-safety-requirements-and-making-other-improvements",
     "published_iso": "2026-08-31T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "cac5b678575e",
@@ -164,7 +246,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17788/expanding-certain-locomotive-wheel-set-diameter-variations",
     "published_iso": "2026-08-31T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "0dbc1edc63de",
@@ -185,7 +267,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17787/repealing-special-approval-requirement-for-freight-cars-more-than-50-years-old",
     "published_iso": "2026-08-31T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "8e0db8052b15",
@@ -206,49 +288,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17786/enhancing-railroad-discretion-in-sounding-locomotive-horns-at-passenger-stations",
     "published_iso": "2026-08-31T04:00:00+00:00",
-    "time_ago": "11h ago"
-  },
-  {
-    "id": "974b6a00e808",
-    "politician": "Rep. Mike Johnson",
-    "initials": "MJ",
-    "role": "Speaker of the House",
-    "color": {
-      "bg": "#2a1a1a",
-      "fg": "#fbbf24"
-    },
-    "severity": "critical",
-    "content": "The American people gave us a mandate: implement policies to improve their lives, restore common sense and deliver REAL, positive results. \n \nDemocrats REPEATEDLY stood in the way and voted AGAINST: \n \n\u27a1\ufe0fThe Largest Tax Cut in HISTORY \n\u27a1\ufe0fA Secure Border  \n\u27a1\ufe0fNo Tax on Tips \n\u27a1\ufe0fNo Tax on Overtime \n\u27a1\ufe0fLower Crime \n\u27a1\ufe0fElectio",
-    "tags": [
-      "Healthcare",
-      "Banking",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nt.vern.cc/SpeakerJohnson/status/2094180804259668263#m",
-    "published_iso": "2026-08-30T21:49:46+00:00",
-    "time_ago": "17h ago"
-  },
-  {
-    "id": "1565200534ca",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "When a handful of companies control the economy, a handful of CEOs dictate what you watch on TV, which doctor you\u2019re allowed to see, what you eat, whether predators get online access to your kids, and what apartment you can rent.\n\nThat's exactly why we need to block mega-mergers.",
-    "tags": [],
-    "tickers": [],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3muafjbn4t226",
-    "published_iso": "2026-08-29T17:26:27.637000+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "3c2fcef078e9",
@@ -269,7 +309,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-establishes-a-commission-to-design-the-united-states-space-academy/",
     "published_iso": "2026-08-28T17:49:33+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "da593744d02e",
@@ -320,33 +360,6 @@
     "time_ago": "4d ago"
   },
   {
-    "id": "5b403dde2d8d",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "Fact Sheet: President Donald J. Trump Further Ensures Affordable Beef for the American Consumer. ADDRESSING BEEF AFFORDABILITY WITH TARGETED ACTION:&#160;Today, President Donald J. Trump signed a Proclamation to temporarily increase the quantity of lean beef trimmings that are imported with no above-quota tariff to ens",
-    "tags": [
-      "Trade",
-      "Taxes"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-further-ensures-affordable-beef-for-the-american-consumer/",
-    "published_iso": "2026-08-26T21:19:54+00:00",
-    "time_ago": "4d ago"
-  },
-  {
     "id": "a9cd6f26090e",
     "politician": "Rep. Ro Khanna",
     "initials": "RK",
@@ -370,29 +383,6 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtz3qdfn7k2j",
     "published_iso": "2026-08-26T19:42:48.781000+00:00",
-    "time_ago": "4d ago"
-  },
-  {
-    "id": "b205f565f359",
-    "politician": "Sen. Cynthia Lummis",
-    "initials": "CL",
-    "role": "Senate Banking Subcommittee (Crypto)",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#c4b5fd"
-    },
-    "severity": "medium",
-    "content": "Congrats to Conner and Matt, two of my former staffers now doing big things for Bitcoin on the outside! Great choices by  @bitcoinpolicy . \n \n \n Bitcoin Policy Institute (@bitcoinpolicy) \n \n  nt.vern.cc/i/article/209239074510\u2026  \n\n \n \n\u2014   http://nt.vern.cc/bitcoinpolicy/status/2092592898353058278#m",
-    "tags": [
-      "Crypto"
-    ],
-    "tickers": [
-      "BTC"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nt.vern.cc/SenLummis/status/2092625148889211150#m",
-    "published_iso": "2026-08-26T14:48:09+00:00",
     "time_ago": "5d ago"
   },
   {
@@ -412,7 +402,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
     "published_iso": "2026-08-25T18:00:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "91d40345ed03",
@@ -437,7 +427,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtm4eksz2k2d",
     "published_iso": "2026-08-21T15:49:31.050000+00:00",
-    "time_ago": "9d ago"
+    "time_ago": "10d ago"
   },
   {
     "id": "f281bf40952f",
@@ -463,7 +453,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
     "published_iso": "2026-08-20T20:00:00+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "d1faa9166adb",
@@ -559,7 +549,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
     "published_iso": "2026-08-19T18:00:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "f436afccee25",
@@ -725,7 +715,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s226?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-07T18:14:00+00:00",
-    "time_ago": "23d ago"
+    "time_ago": "24d ago"
   },
   {
     "id": "15c78cc7f8dd",
@@ -744,7 +734,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s225?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-07T17:23:00+00:00",
-    "time_ago": "23d ago"
+    "time_ago": "24d ago"
   },
   {
     "id": "ef7d3b12d4ec",
@@ -770,7 +760,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s224?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-07T16:43:00+00:00",
-    "time_ago": "23d ago"
+    "time_ago": "24d ago"
   },
   {
     "id": "baf26d52584e",
@@ -798,7 +788,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "23d ago"
+    "time_ago": "24d ago"
   },
   {
     "id": "63e88990093a",
@@ -824,7 +814,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
     "published_iso": "2026-08-04T20:30:00+00:00",
-    "time_ago": "26d ago"
+    "time_ago": "27d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -853,7 +843,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "38d ago"
+    "time_ago": "39d ago"
   },
   {
     "id": "de38f5381391",
@@ -874,7 +864,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "39d ago"
+    "time_ago": "40d ago"
   },
   {
     "id": "98b90fd8352a",
@@ -903,7 +893,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-releases-updated-clarity-act-text/",
     "published_iso": "2026-07-22T16:49:25+00:00",
-    "time_ago": "39d ago"
+    "time_ago": "40d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -947,7 +937,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "41d ago"
+    "time_ago": "42d ago"
   },
   {
     "id": "00574dc3c125",
@@ -969,7 +959,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-launches-the-reading-room-a-public-archive-of-the-committees-ongoing-covid-19-origins-investigations/",
     "published_iso": "2026-07-20T20:42:12+00:00",
-    "time_ago": "41d ago"
+    "time_ago": "42d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -990,7 +980,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "111d ago"
+    "time_ago": "112d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1081,7 +1071,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "158d ago"
+    "time_ago": "159d ago"
   },
   {
     "id": "00f579ee8f55",
@@ -1147,7 +1137,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "220d ago"
+    "time_ago": "221d ago"
   },
   {
     "id": "d3ca74df7f0f",
