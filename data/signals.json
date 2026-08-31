@@ -1,5 +1,48 @@
 [
   {
+    "id": "049d4d58b185",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Grossman Boaz sold 4,000 shares of Allot Ltd. (ALLT) \u00b7 $7.80/share \u00b7 $31,200 total \u00b7 Aug 31",
+    "tags": [],
+    "tickers": [
+      "ALLT"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2103955/000197640826000790/0001976408-26-000790-index.htm",
+    "published_iso": "2026-08-31T15:21:19+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "704fb3aed872",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Can House prevent shutdown; Jewish Democrats divided in Michigan: Live discussion. The House returns from its August recess this week to take up legislation that would fund the government through the beginning of December. It's expected that the stopgap measure will be approved, but will there be last-minute hurdles? I",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/editors-call/6060567-house-prevent-shutdown-jewish-democrats-divided-live-discussion/",
+    "published_iso": "2026-08-31T14:09:53+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "500f86dd621e",
     "politician": "Federal Register",
     "initials": "FR",
@@ -16,7 +59,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/31/C3-2026-15190/affirmative-asylum-referrals-without-interview",
     "published_iso": "2026-08-31T04:00:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "6d5524bda871",
@@ -37,7 +80,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17792/permitting-use-of-computer-based-three-dimensional-simulation-for-periodic-refresher-training-on",
     "published_iso": "2026-08-31T04:00:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "978bf98e9fa9",
@@ -58,7 +101,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17791/miscellaneous-amendments-to-fras-accident-reporting-regulations",
     "published_iso": "2026-08-31T04:00:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "a3539473cbd4",
@@ -79,7 +122,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17790/retiring-form-fra-f-6180107-and-form-fra-f-6180150",
     "published_iso": "2026-08-31T04:00:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "32cb81f51517",
@@ -100,7 +143,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17789/repealing-outdated-railroad-workplace-safety-requirements-and-making-other-improvements",
     "published_iso": "2026-08-31T04:00:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "cac5b678575e",
@@ -121,7 +164,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17788/expanding-certain-locomotive-wheel-set-diameter-variations",
     "published_iso": "2026-08-31T04:00:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "0dbc1edc63de",
@@ -142,7 +185,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17787/repealing-special-approval-requirement-for-freight-cars-more-than-50-years-old",
     "published_iso": "2026-08-31T04:00:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "8e0db8052b15",
@@ -163,35 +206,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17786/enhancing-railroad-discretion-in-sounding-locomotive-horns-at-passenger-stations",
     "published_iso": "2026-08-31T04:00:00+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "9b126e324860",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "US strikes Iranian rocket launchers in first attack since late July. The U.S. military struck two Iranian rocket launchers on Sunday, marking its first attack on the Middle Eastern country in more than a month, with Iran reportedly retaliating later in the day. American forces struck the two launchers on Larak Island, ",
-    "tags": [
-      "Defense",
-      "Taxes",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/defense/6060116-us-strikes-iranian-rocket-launchers/",
-    "published_iso": "2026-08-30T22:47:24+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "974b6a00e808",
@@ -214,31 +229,6 @@
     "platform": "Twitter/X",
     "url": "http://nt.vern.cc/SpeakerJohnson/status/2094180804259668263#m",
     "published_iso": "2026-08-30T21:49:46+00:00",
-    "time_ago": "9h ago"
-  },
-  {
-    "id": "be2372be68f8",
-    "politician": "Sen. Rand Paul",
-    "initials": "RP",
-    "role": "Senate Foreign Relations Committee",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fbbf24"
-    },
-    "severity": "medium",
-    "content": "American families are struggling to make ends meet while Washington funds welfare for people who broke our immigration laws to get here. \n \nMy End Welfare for Non-Citizens Act ends that by cutting off TANF, Medicaid, and SNAP for illegal immigrants, refugees, and asylees.",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nt.vern.cc/RandPaul/status/2094064596193882493#m",
-    "published_iso": "2026-08-30T14:08:00+00:00",
     "time_ago": "17h ago"
   },
   {
@@ -259,132 +249,6 @@
     "url": "https://bsky.app/profile/warren.senate.gov/post/3muafjbn4t226",
     "published_iso": "2026-08-29T17:26:27.637000+00:00",
     "time_ago": "1d ago"
-  },
-  {
-    "id": "3b6168a601ae",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Handler Richard B received 75,531 shares of Jefferies Financial Group Inc. (JEF) \u00b7 $53.09/share \u00b7 $4,009,941 total \u00b7 Aug 28",
-    "tags": [],
-    "tickers": [
-      "JEF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1211677/000121465926011109/0001214659-26-011109-index.htm",
-    "published_iso": "2026-08-29T01:53:58+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "374ce1652bc0",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Friedman Brian P received 29,016 shares of Jefferies Financial Group Inc. (JEF) \u00b7 $53.09/share \u00b7 $1,540,459 total \u00b7 Aug 28",
-    "tags": [],
-    "tickers": [
-      "JEF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1275002/000121465926011108/0001214659-26-011108-index.htm",
-    "published_iso": "2026-08-29T01:53:12+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "333b851ed8e0",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Larson Matthew Scott received 746 shares of Jefferies Financial Group Inc. (JEF) \u00b7 $53.09/share \u00b7 $39,605 total \u00b7 Aug 28",
-    "tags": [],
-    "tickers": [
-      "JEF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1950875/000121465926011107/0001214659-26-011107-index.htm",
-    "published_iso": "2026-08-29T01:52:12+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "d2eb3cdf162e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Sharp Michael J. received 746 shares of Jefferies Financial Group Inc. (JEF) \u00b7 $53.09/share \u00b7 $39,605 total \u00b7 Aug 28",
-    "tags": [],
-    "tickers": [
-      "JEF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1506427/000121465926011106/0001214659-26-011106-index.htm",
-    "published_iso": "2026-08-29T01:51:40+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "8ca31f6422af",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "O Kane Michael T received 538 shares of Jefferies Financial Group Inc. (JEF) \u00b7 $53.09/share \u00b7 $28,562 total \u00b7 Aug 28",
-    "tags": [],
-    "tickers": [
-      "JEF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1334579/000121465926011103/0001214659-26-011103-index.htm",
-    "published_iso": "2026-08-29T01:49:19+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "485919b570c6",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Beyer Robert D received 501 shares of Jefferies Financial Group Inc. (JEF) \u00b7 $53.09/share \u00b7 $26,598 total \u00b7 Aug 28",
-    "tags": [],
-    "tickers": [
-      "JEF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1188302/000121465926011102/0001214659-26-011102-index.htm",
-    "published_iso": "2026-08-29T01:48:35+00:00",
-    "time_ago": "2d ago"
   },
   {
     "id": "3c2fcef078e9",
@@ -453,7 +317,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
     "published_iso": "2026-08-27T15:00:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "5b403dde2d8d",
@@ -507,6 +371,29 @@
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtz3qdfn7k2j",
     "published_iso": "2026-08-26T19:42:48.781000+00:00",
     "time_ago": "4d ago"
+  },
+  {
+    "id": "b205f565f359",
+    "politician": "Sen. Cynthia Lummis",
+    "initials": "CL",
+    "role": "Senate Banking Subcommittee (Crypto)",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#c4b5fd"
+    },
+    "severity": "medium",
+    "content": "Congrats to Conner and Matt, two of my former staffers now doing big things for Bitcoin on the outside! Great choices by  @bitcoinpolicy . \n \n \n Bitcoin Policy Institute (@bitcoinpolicy) \n \n  nt.vern.cc/i/article/209239074510\u2026  \n\n \n \n\u2014   http://nt.vern.cc/bitcoinpolicy/status/2092592898353058278#m",
+    "tags": [
+      "Crypto"
+    ],
+    "tickers": [
+      "BTC"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nt.vern.cc/SenLummis/status/2092625148889211150#m",
+    "published_iso": "2026-08-26T14:48:09+00:00",
+    "time_ago": "5d ago"
   },
   {
     "id": "ce88616fa393",
@@ -602,7 +489,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "0559c8e7bc33",
@@ -628,7 +515,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "58a834094d82",
@@ -653,7 +540,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtjgkmjz3k2d",
     "published_iso": "2026-08-20T14:13:52.383000+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "306d3c437a72",
@@ -696,7 +583,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/august/road-iowa-america-first-trade-raising-wages-reshoring-jobs-and-restoring-americas-global",
     "published_iso": "2026-08-18T15:02:03+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "1b45165ad867",
@@ -722,7 +609,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
     "published_iso": "2026-08-13T15:00:00+00:00",
-    "time_ago": "17d ago"
+    "time_ago": "18d ago"
   },
   {
     "id": "f9bb1b8a1a24",
@@ -741,7 +628,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s231?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-08T08:36:00+00:00",
-    "time_ago": "22d ago"
+    "time_ago": "23d ago"
   },
   {
     "id": "867b611061db",
@@ -760,7 +647,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s230?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-08T08:17:00+00:00",
-    "time_ago": "22d ago"
+    "time_ago": "23d ago"
   },
   {
     "id": "4c9ba1bce804",
@@ -779,7 +666,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s229?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-08T07:59:00+00:00",
-    "time_ago": "22d ago"
+    "time_ago": "23d ago"
   },
   {
     "id": "5a1177a6532b",
@@ -800,7 +687,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s228?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-08T07:37:00+00:00",
-    "time_ago": "22d ago"
+    "time_ago": "23d ago"
   },
   {
     "id": "5fc808808493",
@@ -1038,7 +925,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "39d ago"
+    "time_ago": "40d ago"
   },
   {
     "id": "555d7f3dd315",
@@ -1129,7 +1016,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "117d ago"
+    "time_ago": "118d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1151,7 +1038,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "125d ago"
+    "time_ago": "126d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1175,7 +1062,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "153d ago"
+    "time_ago": "154d ago"
   },
   {
     "id": "432e035b915b",
@@ -1215,7 +1102,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "198d ago"
+    "time_ago": "199d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1234,7 +1121,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "198d ago"
+    "time_ago": "199d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1279,6 +1166,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "257d ago"
+    "time_ago": "258d ago"
   }
 ]
