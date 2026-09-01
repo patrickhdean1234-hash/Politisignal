@@ -1,6 +1,29 @@
 [
   {
-    "id": "95deb9309f42",
+    "id": "b7ec40557733",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "We cannot go back on Medicaid coverage for people living with HIV. HIV can be a fatal disease if access to comprehensive care and treatment is interrupted or unavailable",
+    "tags": [],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/healthcare/6061758-impact-medicaid-rollback-hiv-patients/",
+    "published_iso": "2026-09-01T14:00:00+00:00",
+    "time_ago": "57m ago"
+  },
+  {
+    "id": "865452ed373a",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,16 +32,69 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Kizner Guy received 1,297 shares of Nova Ltd. (NVMI) \u00b7 Sep 1",
-    "tags": [],
+    "content": "Nipper Robert disposed of 36,676 shares of Ncs Multistage Holdings, Inc. (NCSM) \u00b7 Sep 1 ($0 across all blocks)",
+    "tags": [
+      "Insider Trade"
+    ],
     "tickers": [
-      "NVMI"
+      "NCSM"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2027603/000117891326004365/0001178913-26-004365-index.htm",
-    "published_iso": "2026-09-01T10:13:37+00:00",
-    "time_ago": "1m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1701187/000119312526377744/0001193125-26-377744-index.htm",
+    "published_iso": "2026-09-01T13:54:03+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "cbe5a821d2e8",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Tdk Cashflow Ltd. acquired/disposed 1,900,000 shares of Vertical Data Inc. (VDTA) \u00b7 Sep 1 ($0 across all blocks)",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "VDTA"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2145730/000214573026000003/0002145730-26-000003-index.htm",
+    "published_iso": "2026-09-01T13:52:40+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "c0e675dcd418",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "Scammed some people and need a pardon? A tariff exception? A bank charter? If you\u2019re a billionaire Trump donor, you may be in luck.\n\nBut if you\u2019re an American looking to save for retirement or invest in a company you like \u2014 the Trump Administration wants to keep you in the dark.",
+    "tags": [
+      "Trade",
+      "Banking",
+      "Regulation"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3muhkmjahws26",
+    "published_iso": "2026-09-01T13:46:23.151000+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "121317d73cd2",
@@ -39,7 +115,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17904/national-environmental-policy-act-regulations",
     "published_iso": "2026-09-01T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "1f042e572881",
@@ -60,7 +136,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17903/conformance-of-cost-accounting-standards-to-generally-accepted-accounting-principles-for-cas-407-use",
     "published_iso": "2026-09-01T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "6ab5435ab84a",
@@ -81,7 +157,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17901/increase-of-monetary-thresholds-and-other-matters-related-to-cost-accounting-standards-program",
     "published_iso": "2026-09-01T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "6484fe2f328d",
@@ -103,7 +179,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17895/national-wildlife-refuge-system-2026-2027-station-specific-hunting-and-sport-fishing-regulations",
     "published_iso": "2026-09-01T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "b5098f105367",
@@ -124,7 +200,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17893/fees-for-the-unified-carrier-registration-plan-and-agreement",
     "published_iso": "2026-09-01T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "df9e20689ae4",
@@ -143,7 +219,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17884/free-matter-for-the-blind-and-other-physically-handicapped-persons",
     "published_iso": "2026-09-01T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "3dabfc776033",
@@ -164,7 +240,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17876/charge-complaint-procedures",
     "published_iso": "2026-09-01T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "9c82e8575a9a",
@@ -183,7 +259,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17874/safety-zone-fort-myers-beach-fl",
     "published_iso": "2026-09-01T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "93e67f14042e",
@@ -202,7 +278,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h285?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-31T23:10:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "aa3f81d9452b",
@@ -221,28 +297,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h284?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-31T22:56:00+00:00",
-    "time_ago": "11h ago"
-  },
-  {
-    "id": "e903a71bd3e3",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Vance woos Jewish voters in epicenter of Democratic fight over Israel. Vice President Vance, who has emerged as one of the GOP's fiercest critics of Israel, is seeking to appeal to Jewish voters as both parties grapple with a growing political divide fueled by conflicts in the Middle East. Vance is set to privately add",
-    "tags": [
-      "Big Tech"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/6062198-jd-vance-republican-jewish-coalition-israel-abdul-el-sayed/",
-    "published_iso": "2026-08-31T22:47:46+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "74119777f189",
@@ -269,7 +324,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-deal-with-nine-additional-pharmaceutical-manufacturers-to-lower-drug-prices-for-americans/",
     "published_iso": "2026-08-31T19:14:29+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "3c2fcef078e9",
@@ -826,7 +881,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "40d ago"
+    "time_ago": "41d ago"
   },
   {
     "id": "555d7f3dd315",
@@ -917,7 +972,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "118d ago"
+    "time_ago": "119d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -939,7 +994,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "126d ago"
+    "time_ago": "127d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -963,7 +1018,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "154d ago"
+    "time_ago": "155d ago"
   },
   {
     "id": "432e035b915b",
@@ -1003,7 +1058,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "199d ago"
+    "time_ago": "200d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1022,7 +1077,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "199d ago"
+    "time_ago": "200d ago"
   },
   {
     "id": "c3776ad92a42",
