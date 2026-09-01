@@ -1,6 +1,6 @@
 [
   {
-    "id": "6599da40eee3",
+    "id": "9d7d5cfc1e2a",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,46 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Strojwas Andrzej sold 3,394 shares of Pdf Solutions Inc (PDFS) \u00b7 $44.41/share \u00b7 $150,728 total \u00b7 Sep 1",
-    "tags": [],
+    "content": "Deardorf Caren disposed of 16,300 shares of Crinetics Pharmaceuticals, Inc. (CRNX) \u00b7 $85.00/share \u00b7 $1,385,500 total \u00b7 Sep 1 ($1,889,125 across all blocks)",
+    "tags": [
+      "Healthcare",
+      "Insider Trade"
+    ],
     "tickers": [
-      "PDFS"
+      "CRNX"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1892306/000143774926029384/0001437749-26-029384-index.htm",
-    "published_iso": "2026-09-01T18:09:26+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/1871152/000162828026059901/0001628280-26-059901-index.htm",
+    "published_iso": "2026-09-01T21:00:46+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "84fe7bfac062",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Bedrosian Camille L disposed of 16,300 shares of Crinetics Pharmaceuticals, Inc. (CRNX) \u00b7 $85.00/share \u00b7 $1,385,500 total \u00b7 Sep 1 ($1,889,125 across all blocks)",
+    "tags": [
+      "Healthcare",
+      "Insider Trade"
+    ],
+    "tickers": [
+      "CRNX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1658247/000162828026059900/0001628280-26-059900-index.htm",
+    "published_iso": "2026-09-01T21:00:18+00:00",
     "time_ago": "1m ago"
   },
   {
-    "id": "4a24a5ee2722",
+    "id": "1457f9feca36",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,18 +57,83 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Ferrer Javier D. withheld (tax) 10,486 shares of Popular, Inc. (BPOPM) \u00b7 $168.19/share \u00b7 $1,763,640 total \u00b7 Sep 1",
-    "tags": [
-      "Taxes"
-    ],
+    "content": "Young John Alan bought 2,800 shares of Lucky Strike Entertainment Corp (LUCK) \u00b7 $6.23/share \u00b7 $17,444 total \u00b7 Sep 1 ($633,944 across all blocks)",
+    "tags": [],
     "tickers": [
-      "BPOPM"
+      "LUCK"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1621853/000119312526378147/0001193125-26-378147-index.htm",
-    "published_iso": "2026-09-01T18:08:21+00:00",
-    "time_ago": "2m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1840572/000162828026059899/0001628280-26-059899-index.htm",
+    "published_iso": "2026-09-01T21:00:01+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "4573a9eec2ed",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Mathrani Sandeep bought 9,350 shares of Lucky Strike Entertainment Corp (LUCK) \u00b7 $6.41/share \u00b7 $59,957 total \u00b7 Sep 1",
+    "tags": [],
+    "tickers": [
+      "LUCK"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1840572/000162828026059898/0001628280-26-059898-index.htm",
+    "published_iso": "2026-09-01T20:59:55+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "5290c3d34fa3",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Bond sell-off soars amid inflation, debt fears. Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  Bond sell-off soars amid inflation, debt fears Government bond yields rose in numerous countries on Tuesday, with investors selling off",
+    "tags": [],
+    "tickers": [
+      "GLD",
+      "TLT",
+      "SPY"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/business-economy/6064391-bond-sell-off-soars-amid-inflation-debt-fears/",
+    "published_iso": "2026-09-01T20:22:43+00:00",
+    "time_ago": "38m ago"
+  },
+  {
+    "id": "891080284834",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Tim Cook hands over reins of Apple, but remains Trump whisperer. Apple\u2019s Tim Cook handed over the reins as CEO to John Ternus on Tuesday, but the technology giant won\u2019t be losing his political clout and connections to Washington.  In his new role as executive chair of Apple\u2019s board, Cook will focus on policy, leveragin",
+    "tags": [
+      "Big Tech"
+    ],
+    "tickers": [
+      "AAPL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/6063963-cook-hands-over-apple-ceo-role/",
+    "published_iso": "2026-09-01T19:16:48+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "c0e675dcd418",
@@ -69,7 +161,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3muhkmjahws26",
     "published_iso": "2026-09-01T13:46:23.151000+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "121317d73cd2",
@@ -90,7 +182,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17904/national-environmental-policy-act-regulations",
     "published_iso": "2026-09-01T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "1f042e572881",
@@ -111,7 +203,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17903/conformance-of-cost-accounting-standards-to-generally-accepted-accounting-principles-for-cas-407-use",
     "published_iso": "2026-09-01T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "6ab5435ab84a",
@@ -132,7 +224,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17901/increase-of-monetary-thresholds-and-other-matters-related-to-cost-accounting-standards-program",
     "published_iso": "2026-09-01T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "6484fe2f328d",
@@ -154,7 +246,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17895/national-wildlife-refuge-system-2026-2027-station-specific-hunting-and-sport-fishing-regulations",
     "published_iso": "2026-09-01T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "b5098f105367",
@@ -175,7 +267,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17893/fees-for-the-unified-carrier-registration-plan-and-agreement",
     "published_iso": "2026-09-01T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "df9e20689ae4",
@@ -194,7 +286,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17884/free-matter-for-the-blind-and-other-physically-handicapped-persons",
     "published_iso": "2026-09-01T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "3dabfc776033",
@@ -215,7 +307,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17876/charge-complaint-procedures",
     "published_iso": "2026-09-01T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "9c82e8575a9a",
@@ -234,7 +326,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17874/safety-zone-fort-myers-beach-fl",
     "published_iso": "2026-09-01T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "93e67f14042e",
@@ -253,7 +345,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h285?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-31T23:10:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "aa3f81d9452b",
@@ -272,7 +364,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h284?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-31T22:56:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "74119777f189",
@@ -299,7 +391,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-deal-with-nine-additional-pharmaceutical-manufacturers-to-lower-drug-prices-for-americans/",
     "published_iso": "2026-08-31T19:14:29+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "3c2fcef078e9",
@@ -342,7 +434,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-american-history-of-the-great-lakes-and-renaming-lake-ontario-as-lake-america-3a36/",
     "published_iso": "2026-08-27T21:00:35+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "61358ba6419a",
@@ -394,7 +486,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtz3qdfn7k2j",
     "published_iso": "2026-08-26T19:42:48.781000+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "ce88616fa393",
@@ -464,7 +556,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
     "published_iso": "2026-08-20T20:00:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "d1faa9166adb",
@@ -701,7 +793,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s226?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-07T18:14:00+00:00",
-    "time_ago": "24d ago"
+    "time_ago": "25d ago"
   },
   {
     "id": "baf26d52584e",
@@ -755,7 +847,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
     "published_iso": "2026-08-04T20:30:00+00:00",
-    "time_ago": "27d ago"
+    "time_ago": "28d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -805,7 +897,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "40d ago"
+    "time_ago": "41d ago"
   },
   {
     "id": "98b90fd8352a",
@@ -878,7 +970,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "42d ago"
+    "time_ago": "43d ago"
   },
   {
     "id": "00574dc3c125",
@@ -900,7 +992,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-launches-the-reading-room-a-public-archive-of-the-committees-ongoing-covid-19-origins-investigations/",
     "published_iso": "2026-07-20T20:42:12+00:00",
-    "time_ago": "42d ago"
+    "time_ago": "43d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -1012,7 +1104,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "159d ago"
+    "time_ago": "160d ago"
   },
   {
     "id": "00f579ee8f55",
