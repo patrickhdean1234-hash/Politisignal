@@ -1,56 +1,245 @@
 [
   {
-    "id": "4302f3783a96",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "c98a60811296",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Live updates: Supreme Court backs Trump in ballroom suit; House returns with shutdown bill on tap. The Supreme Court backed President Trump's White House ballroom construction, ruling 5-4 Monday afternoon that a preservation group did not have grounds to sue to stop it. Trump in the Oval Office rolled out new prescript",
-    "tags": [
-      "Healthcare",
-      "Regulation",
-      "Sanctions"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6060538-live-updates-trump-iran-house-spending-cr/",
-    "published_iso": "2026-08-31T20:15:22+00:00",
-    "time_ago": "40m ago"
-  },
-  {
-    "id": "f28a209b32e2",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
     },
     "severity": "critical",
-    "content": "House Dems move to block Trump's attempted renaming of Lake Ontario. A trio of House Democrats introduced legislation on Monday to block President Trump from renaming Lake Ontario as \"Lake America\" \u2014 which he signed an executive order to do so last week amid his trade war with Canada. The legislation \u2014 titled the \"Hand",
+    "content": "Ingram Kimberly Kay exercised options for 500 shares of Bancfirst Corp /Ok/ (BANFP) \u00b7 $110.55/share \u00b7 $55,275 total \u00b7 Aug 31",
     "tags": [
-      "Trade",
-      "Regulation"
+      "Taxes"
     ],
     "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
+      "BANFP"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/6061830-trump-lake-ontario-america-canada-trade-war/",
-    "published_iso": "2026-08-31T20:05:07+00:00",
-    "time_ago": "51m ago"
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2032196/000076049826000055/0000760498-26-000055-index.htm",
+    "published_iso": "2026-09-01T00:19:48+00:00",
+    "time_ago": "2m ago"
   },
   {
-    "id": "950f964f1669",
+    "id": "9eddfc25a357",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Richmond C Bradford bought 753 shares of Bjs Restaurants Inc (BJRI) \u00b7 $63.25/share \u00b7 $47,627 total \u00b7 Aug 31",
+    "tags": [],
+    "tickers": [
+      "BJRI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1334936/000119312526377253/0001193125-26-377253-index.htm",
+    "published_iso": "2026-09-01T00:16:05+00:00",
+    "time_ago": "6m ago"
+  },
+  {
+    "id": "7b544c1a36e7",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Sayad Pierre Sargis received 168 shares of Fennec Pharmaceuticals Inc. (FENC) \u00b7 Aug 31 ($146,160 across all blocks)",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "FENC"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2043395/000204339526000012/0002043395-26-000012-index.htm",
+    "published_iso": "2026-09-01T00:15:24+00:00",
+    "time_ago": "6m ago"
+  },
+  {
+    "id": "3217a34a9b62",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Evans Terry L received 168 shares of Fennec Pharmaceuticals Inc. (FENC) \u00b7 Aug 31",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "FENC"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2043317/000204331726000012/0002043317-26-000012-index.htm",
+    "published_iso": "2026-09-01T00:13:52+00:00",
+    "time_ago": "8m ago"
+  },
+  {
+    "id": "e0ed4525b679",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Cioffi Christiana Marie received 156 shares of Fennec Pharmaceuticals Inc. (FENC) \u00b7 Aug 31",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "FENC"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2043411/000204341126000014/0002043411-26-000014-index.htm",
+    "published_iso": "2026-09-01T00:12:29+00:00",
+    "time_ago": "9m ago"
+  },
+  {
+    "id": "1c574f0b3a31",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hackman Jeffrey S. received 1,159 shares of Fennec Pharmaceuticals Inc. (FENC) \u00b7 Aug 31",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "FENC"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1926254/000192625426000014/0001926254-26-000014-index.htm",
+    "published_iso": "2026-09-01T00:10:33+00:00",
+    "time_ago": "11m ago"
+  },
+  {
+    "id": "dab64598268c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Andrade Robert received 1,703 shares of Fennec Pharmaceuticals Inc. (FENC) \u00b7 Aug 31",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "FENC"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1468308/000146830826000030/0001468308-26-000030-index.htm",
+    "published_iso": "2026-09-01T00:09:14+00:00",
+    "time_ago": "12m ago"
+  },
+  {
+    "id": "99b2c1a18dc4",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Dinu Raluca received 484,221 shares of Qt Imaging Holdings, Inc. (QTIWW) \u00b7 Aug 31",
+    "tags": [],
+    "tickers": [
+      "QTIWW"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1844505/000143057526000007/0001430575-26-000007-index.htm",
+    "published_iso": "2026-09-01T00:08:40+00:00",
+    "time_ago": "13m ago"
+  },
+  {
+    "id": "735d75163d8b",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ofman Joshua J. sold 5,000 shares of Grail, Inc. (GRAL) \u00b7 $85.02/share \u00b7 $425,098 total \u00b7 Aug 31",
+    "tags": [],
+    "tickers": [
+      "GRAL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1822088/000162828026059682/0001628280-26-059682-index.htm",
+    "published_iso": "2026-09-01T00:07:27+00:00",
+    "time_ago": "14m ago"
+  },
+  {
+    "id": "93e67f14042e",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "S. 32: LACA. Vote: Passed 378/10",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h285?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-08-31T23:10:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "aa3f81d9452b",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "S. 307: Prison Staff Safety Enhancement Act. Vote: Passed 376/8",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h284?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-08-31T22:56:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "e903a71bd3e3",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -59,21 +248,42 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Trump announces Medicaid drug pricing deals with 9 firms. The Trump administration on Monday announced new Medicaid drug pricing agreements with nine midsize biotechnology and pharmaceutical companies.\u00a0 Every drug \u201cwill be at the lowest prices available anywhere in the world,\u201d President Trump said in the Oval Office, s",
+    "content": "Vance woos Jewish voters in epicenter of Democratic fight over Israel. Vice President Vance, who has emerged as one of the GOP's fiercest critics of Israel, is seeking to appeal to Jewish voters as both parties grapple with a growing political divide fueled by conflicts in the Middle East. Vance is set to privately add",
     "tags": [
-      "Healthcare"
+      "Big Tech"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/6062198-jd-vance-republican-jewish-coalition-israel-abdul-el-sayed/",
+    "published_iso": "2026-08-31T22:47:46+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "ceaf122e8805",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Trump touts Venezuela deal, but political, logistical hurdles stand between US and oil. President Trump announced last week that the U.S. would team up with a Venezuelan company to pump oil from a large swath of the South American nation's reserves \u2014 but actually getting that petroleum out of the ground could come with",
+    "tags": [
+      "Energy"
     ],
     "tickers": [
-      "LLY",
-      "PFE",
-      "JNJ",
-      "MRK"
+      "XOM",
+      "CVX",
+      "COP",
+      "OXY"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/healthcare/6061821-trump-medicaid-drug-pricing/",
-    "published_iso": "2026-08-31T20:02:48+00:00",
-    "time_ago": "53m ago"
+    "url": "https://thehill.com/policy/energy-environment/6062147-trump-touts-venezuela-deal-but-political-logistical-hurdles-stand-between-us-and-oil/",
+    "published_iso": "2026-08-31T22:13:52+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "74119777f189",
@@ -100,29 +310,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-deal-with-nine-additional-pharmaceutical-manufacturers-to-lower-drug-prices-for-americans/",
     "published_iso": "2026-08-31T19:14:29+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "2a5a5905a04f",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "Back-to-school shopping costs more this year thanks to Trump\u2019s chaotic tariffs.\n \nNeed notebooks and markers? Expect to spend $118 on supplies for each kid.\n \nAdd clothes, books, and tech? $800+.\n \nTrump calls this \u201cAmerica First\u201d? Give me a break.",
-    "tags": [
-      "Trade",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mufi22anm22e",
-    "published_iso": "2026-08-31T17:54:56.488000+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "500f86dd621e",
@@ -141,7 +329,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/31/C3-2026-15190/affirmative-asylum-referrals-without-interview",
     "published_iso": "2026-08-31T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "6d5524bda871",
@@ -162,7 +350,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17792/permitting-use-of-computer-based-three-dimensional-simulation-for-periodic-refresher-training-on",
     "published_iso": "2026-08-31T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "978bf98e9fa9",
@@ -183,7 +371,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17791/miscellaneous-amendments-to-fras-accident-reporting-regulations",
     "published_iso": "2026-08-31T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "a3539473cbd4",
@@ -204,7 +392,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17790/retiring-form-fra-f-6180107-and-form-fra-f-6180150",
     "published_iso": "2026-08-31T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "32cb81f51517",
@@ -225,7 +413,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17789/repealing-outdated-railroad-workplace-safety-requirements-and-making-other-improvements",
     "published_iso": "2026-08-31T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "cac5b678575e",
@@ -246,7 +434,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17788/expanding-certain-locomotive-wheel-set-diameter-variations",
     "published_iso": "2026-08-31T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "0dbc1edc63de",
@@ -267,7 +455,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17787/repealing-special-approval-requirement-for-freight-cars-more-than-50-years-old",
     "published_iso": "2026-08-31T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "8e0db8052b15",
@@ -288,7 +476,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17786/enhancing-railroad-discretion-in-sounding-locomotive-horns-at-passenger-stations",
     "published_iso": "2026-08-31T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "3c2fcef078e9",
@@ -331,7 +519,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-american-history-of-the-great-lakes-and-renaming-lake-ontario-as-lake-america-3a36/",
     "published_iso": "2026-08-27T21:00:35+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "61358ba6419a",
@@ -505,31 +693,6 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "11d ago"
-  },
-  {
-    "id": "58a834094d82",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "A new Yale analysis found Medicare for All would cover every American AND save more than $1 trillion a year, cutting national health care spending by 20%.\n\nIt would also mean better pay for doctors, nurses, and healthcare providers. \n\nMedicare for All saves money and lives.",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/khanna.house.gov/post/3mtjgkmjz3k2d",
-    "published_iso": "2026-08-20T14:13:52.383000+00:00",
     "time_ago": "11d ago"
   },
   {
@@ -715,51 +878,6 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s226?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-07T18:14:00+00:00",
-    "time_ago": "24d ago"
-  },
-  {
-    "id": "15c78cc7f8dd",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On the Nomination PN961-1 and PN937-5 and PN901-1 and PN730-38 and PN962-3 and PN931-6 and PN1022-25 and PN806-5 and PN1022-10 and PN1012 and PN931-5 and PN931-4 and PN937-2 and PN1022-22 and PN962-1 and PN961-4 and PN901-3 and PN806-7 and PN730-23 and PN1022-7 and PN1022-6 and PN961-3 and PN937-9 and PN937-8 and PN937",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s225?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-08-07T17:23:00+00:00",
-    "time_ago": "24d ago"
-  },
-  {
-    "id": "ef7d3b12d4ec",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "critical",
-    "content": "H.R. 5334: Lindsey O. Graham Sanctioning Russia and Iran Act of 2026. Vote: Bill Passed 86/11",
-    "tags": [
-      "Regulation",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s224?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-08-07T16:43:00+00:00",
     "time_ago": "24d ago"
   },
   {
