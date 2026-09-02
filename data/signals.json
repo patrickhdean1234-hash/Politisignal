@@ -1,6 +1,6 @@
 [
   {
-    "id": "2ecaf4479583",
+    "id": "86c4d2513efd",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,61 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Noonan Joseph T sold 918 shares of Watts Water Technologies Inc (WTS) \u00b7 $352.62/share \u00b7 $323,705 total \u00b7 Sep 2 ($1,291,076 across all blocks)",
+    "content": "Marin Horacio Daniel received 542,205 shares of Ypf Sociedad Anonima (YPF) \u00b7 $7,983.00/share \u00b7 $4,328,422,515 total \u00b7 Sep 2 ($5,843,372,391 across all blocks)",
     "tags": [],
     "tickers": [
-      "WTS"
+      "YPF"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1573151/000122520826007520/0001225208-26-007520-index.htm",
-    "published_iso": "2026-09-02T13:51:58+00:00",
-    "time_ago": "9m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2119346/000129281426004420/0001292814-26-004420-index.htm",
+    "published_iso": "2026-09-02T17:48:48+00:00",
+    "time_ago": "1m ago"
   },
   {
-    "id": "b516a2c50ea5",
+    "id": "84b66d5452cb",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Farina Matias Osvaldo received 190,671 shares of Ypf Sociedad Anonima (YPF) \u00b7 $7,983.00/share \u00b7 $1,522,126,593 total \u00b7 Sep 2 ($2,054,872,098 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "YPF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2120924/000129281426004418/0001292814-26-004418-index.htm",
+    "published_iso": "2026-09-02T17:46:36+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "44528eb2fca0",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Berto Carlos Alejandro received 33,105 shares of Ypf Sociedad Anonima (YPF) \u00b7 $7,983.00/share \u00b7 $264,277,215 total \u00b7 Sep 2 ($356,776,236 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "YPF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2119753/000129281426004416/0001292814-26-004416-index.htm",
+    "published_iso": "2026-09-02T17:44:41+00:00",
+    "time_ago": "6m ago"
+  },
+  {
+    "id": "3a57ec151e05",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -29,22 +71,47 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "critical",
-    "content": "Apple Maps changes Lake Ontario name\u00a0after Trump request. Apple on Tuesday changed the name of Lake Ontario on the web version of its Maps app to \"Lake America,\" after President Trump directly contacted the tech giant for an update in accordance with his recent executive order. The company said U.S. users will now find",
+    "severity": "high",
+    "content": "Bessent partly blames Ukraine for 'energy shock' pushing up prices. Treasury Secretary Scott Bessent on Wednesday partially blamed Ukraine for the \"energy shock\" caused by the Iran war and Russia's four-and-a-half-year-long war with the Eastern European country. Bessent appeared on \"Fox &#38; Friends\" with co-host Bria",
     "tags": [
-      "Big Tech"
+      "Trade",
+      "Energy",
+      "Sanctions"
     ],
     "tickers": [
-      "AAPL"
+      "LMT",
+      "RTX",
+      "XOM"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/transportation/6065507-apple-maps-lake-ontario-donald-trump-rename-request/",
-    "published_iso": "2026-09-02T13:38:56+00:00",
-    "time_ago": "22m ago"
+    "url": "https://thehill.com/policy/energy-environment/6066550-bessent-blames-ukraine-energy-shock/",
+    "published_iso": "2026-09-02T17:43:00+00:00",
+    "time_ago": "7m ago"
   },
   {
-    "id": "7e406f318209",
+    "id": "56156084f1f0",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Pro-Trump group releases first general election midterm ad. Securing American Greatness, the nonprofit arm of President Trump\u2019s super PAC MAGA Inc., rolled out its first general election ads on Wednesday, featuring Trump front and center.  The ads are a part of a national ad buy. According to the political intelligence",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/6066844-pro-trump-group-releases-first-general-election-midterm-ad/",
+    "published_iso": "2026-09-02T17:34:36+00:00",
+    "time_ago": "16m ago"
+  },
+  {
+    "id": "2df4682855f9",
     "politician": "Politico",
     "initials": "PO",
     "role": "Political News",
@@ -53,7 +120,7 @@
       "fg": "#fca5a5"
     },
     "severity": "critical",
-    "content": "Susan Collins on Trump, tariffs and her fight for Maine",
+    "content": "Susan Collins on Trump, tariffs and the state of her senate race over Maine lobsters",
     "tags": [
       "Trade"
     ],
@@ -62,7 +129,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/video/2026/09/02/susan-collins-on-trump-tariffs-and-her-fight-for-maine-2156176",
     "published_iso": "2026-09-02T09:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "90f0251c7266",
@@ -89,7 +156,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17979/repeal-of-fossil-fuel-restrictions-for-new-federal-buildings-and-major-renovations-of-federal",
     "published_iso": "2026-09-02T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "7d9a69577071",
@@ -108,7 +175,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17978/safety-zone-bay-bridge-paddle-chesapeake-bay-annapolis-md",
     "published_iso": "2026-09-02T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "d05cea53bd17",
@@ -129,7 +196,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17971/safety-zone-lake-st-clair-grosse-pointe-farms-mi",
     "published_iso": "2026-09-02T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "6847124753ca",
@@ -148,7 +215,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17940/safety-zone-maumee-river-toledo-oh",
     "published_iso": "2026-09-02T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "c0e675dcd418",
@@ -347,28 +414,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-establishes-a-commission-to-design-the-united-states-space-academy/",
     "published_iso": "2026-08-28T17:49:33+00:00",
-    "time_ago": "4d ago"
-  },
-  {
-    "id": "da593744d02e",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "Honoring the American History of the Great Lakes and Renaming Lake Ontario as Lake America. By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section 1.&#160; Purpose and Policy.&#160; As I announced in Executive Order 14172 of January 20,",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-american-history-of-the-great-lakes-and-renaming-lake-ontario-as-lake-america-3a36/",
-    "published_iso": "2026-08-27T21:00:35+00:00",
     "time_ago": "5d ago"
   },
   {
@@ -395,7 +440,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
     "published_iso": "2026-08-27T15:00:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "a9cd6f26090e",
@@ -465,7 +510,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtm4eksz2k2d",
     "published_iso": "2026-08-21T15:49:31.050000+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "f281bf40952f",
@@ -517,7 +562,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "0559c8e7bc33",
@@ -543,7 +588,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "306d3c437a72",
@@ -586,7 +631,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/august/road-iowa-america-first-trade-raising-wages-reshoring-jobs-and-restoring-americas-global",
     "published_iso": "2026-08-18T15:02:03+00:00",
-    "time_ago": "14d ago"
+    "time_ago": "15d ago"
   },
   {
     "id": "1b45165ad867",
@@ -612,7 +657,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
     "published_iso": "2026-08-13T15:00:00+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "f9bb1b8a1a24",
@@ -756,7 +801,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "25d ago"
+    "time_ago": "26d ago"
   },
   {
     "id": "63e88990093a",
@@ -811,7 +856,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "40d ago"
+    "time_ago": "41d ago"
   },
   {
     "id": "de38f5381391",
@@ -861,7 +906,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-releases-updated-clarity-act-text/",
     "published_iso": "2026-07-22T16:49:25+00:00",
-    "time_ago": "41d ago"
+    "time_ago": "42d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -948,7 +993,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "113d ago"
+    "time_ago": "114d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -974,7 +1019,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "119d ago"
+    "time_ago": "120d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -996,7 +1041,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "127d ago"
+    "time_ago": "128d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1060,7 +1105,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "200d ago"
+    "time_ago": "201d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1079,7 +1124,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "200d ago"
+    "time_ago": "201d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1105,7 +1150,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "222d ago"
+    "time_ago": "223d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1124,6 +1169,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "259d ago"
+    "time_ago": "260d ago"
   }
 ]
