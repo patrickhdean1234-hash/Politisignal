@@ -1,6 +1,6 @@
 [
   {
-    "id": "86c4d2513efd",
+    "id": "e1a42cf2995a",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,40 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Marin Horacio Daniel received 542,205 shares of Ypf Sociedad Anonima (YPF) \u00b7 $7,983.00/share \u00b7 $4,328,422,515 total \u00b7 Sep 2 ($5,843,372,391 across all blocks)",
+    "content": "Ropp Ralph Lewis received 218 shares of Entergy Corp /De/ (ETR) \u00b7 Sep 2",
     "tags": [],
     "tickers": [
-      "YPF"
+      "ETR"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2119346/000129281426004420/0001292814-26-004420-index.htm",
-    "published_iso": "2026-09-02T17:48:48+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/2049474/000006598426000311/0000065984-26-000311-index.htm",
+    "published_iso": "2026-09-02T20:08:35+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "6c21ef914b2c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Jenke Wade Michael received 50,000 shares of Universal Electronics Inc (UEIC) \u00b7 Sep 2",
+    "tags": [],
+    "tickers": [
+      "UEIC"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2033151/000010198426000128/0000101984-26-000128-index.htm",
+    "published_iso": "2026-09-02T20:08:12+00:00",
     "time_ago": "1m ago"
   },
   {
-    "id": "84b66d5452cb",
+    "id": "3bd944cf1464",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,40 +51,41 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Farina Matias Osvaldo received 190,671 shares of Ypf Sociedad Anonima (YPF) \u00b7 $7,983.00/share \u00b7 $1,522,126,593 total \u00b7 Sep 2 ($2,054,872,098 across all blocks)",
+    "content": "Mcgrath Timothy J exercised options for 10,000 shares of Pc Connection Inc (CNXN) \u00b7 Sep 2 ($315,075 across all blocks)",
     "tags": [],
     "tickers": [
-      "YPF"
+      "CNXN"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2120924/000129281426004418/0001292814-26-004418-index.htm",
-    "published_iso": "2026-09-02T17:46:36+00:00",
-    "time_ago": "4m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1188266/000118826626000005/0001188266-26-000005-index.htm",
+    "published_iso": "2026-09-02T20:08:11+00:00",
+    "time_ago": "1m ago"
   },
   {
-    "id": "44528eb2fca0",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "02958d4fa222",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Berto Carlos Alejandro received 33,105 shares of Ypf Sociedad Anonima (YPF) \u00b7 $7,983.00/share \u00b7 $264,277,215 total \u00b7 Sep 2 ($356,776,236 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "YPF"
+    "severity": "critical",
+    "content": "House Republicans press Trump trade official over beef imports, Canada. U.S. Trade Representative Jamieson Greer faced questions from Republican lawmakers during a closed-door meting on Wednesday about the Trump administration\u2019s trade stalemate with Canada and its controversial decision to lower beef import tariffs. Gr",
+    "tags": [
+      "Trade",
+      "Regulation"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2119753/000129281426004416/0001292814-26-004416-index.htm",
-    "published_iso": "2026-09-02T17:44:41+00:00",
-    "time_ago": "6m ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/senate/6067256-greer-meet-republican-trade-concerns/",
+    "published_iso": "2026-09-02T19:44:00+00:00",
+    "time_ago": "25m ago"
   },
   {
-    "id": "3a57ec151e05",
+    "id": "b9a7c6a90b51",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -72,25 +94,45 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Bessent partly blames Ukraine for 'energy shock' pushing up prices. Treasury Secretary Scott Bessent on Wednesday partially blamed Ukraine for the \"energy shock\" caused by the Iran war and Russia's four-and-a-half-year-long war with the Eastern European country. Bessent appeared on \"Fox &#38; Friends\" with co-host Bria",
+    "content": "DOJ sues Kansas school district over transgender student policies. The Justice Department (DOJ) announced Monday a \u201cfirst-of-its-kind lawsuit\u201d against a school district in Kansas over transgender student policies.\u00a0 The DOJ\u2019s complaint was filed \u201cto stop it from facilitating the secret \u2018transitioning\u2019 of children\u2019s \u2018gen",
     "tags": [
-      "Trade",
-      "Energy",
-      "Sanctions"
+      "Regulation",
+      "Taxes"
     ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/energy-environment/6066550-bessent-blames-ukraine-energy-shock/",
-    "published_iso": "2026-09-02T17:43:00+00:00",
-    "time_ago": "7m ago"
+    "url": "https://thehill.com/regulation/court-battles/6067092-doj-kansas-school-district-transgender-lawsuit/",
+    "published_iso": "2026-09-02T19:26:14+00:00",
+    "time_ago": "43m ago"
   },
   {
-    "id": "56156084f1f0",
+    "id": "3d26ee863393",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "Belgium\u2019s diamond industry gifted Trump a gold ring encrusted with 321 diamonds and 75 gemstones.\n \nThen \u2014 poof \u2014 a month later, their diamonds got an exemption from Trump's tariffs.\n \nI'm investigating what looks like corruption in plain sight.",
+    "tags": [
+      "Trade"
+    ],
+    "tickers": [
+      "GLD",
+      "TLT",
+      "SPY"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3muknxn2zik2k",
+    "published_iso": "2026-09-02T19:24:16.704000+00:00",
+    "time_ago": "44m ago"
+  },
+  {
+    "id": "3af6ced1ebb2",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -98,17 +140,17 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Pro-Trump group releases first general election midterm ad. Securing American Greatness, the nonprofit arm of President Trump\u2019s super PAC MAGA Inc., rolled out its first general election ads on Wednesday, featuring Trump front and center.  The ads are a part of a national ad buy. According to the political intelligence",
+    "severity": "high",
+    "content": "SEC investigating Daktronics in Kawhi Leonard case. The federal government and the NBA are investigating video display and scoreboard manufacturer Daktronics in connection with a scandal involving the Los Angeles Clippers in which the club allegedly circumvented the league's salary cap to sign star player Kawhi Leonard",
     "tags": [
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/6066844-pro-trump-group-releases-first-general-election-midterm-ad/",
-    "published_iso": "2026-09-02T17:34:36+00:00",
-    "time_ago": "16m ago"
+    "url": "https://thehill.com/policy/sports-gaming/6067088-sec-nba-daktronics-kawhi-leonard-los-angeles-clippers/",
+    "published_iso": "2026-09-02T19:12:52+00:00",
+    "time_ago": "56m ago"
   },
   {
     "id": "2df4682855f9",
@@ -129,7 +171,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/video/2026/09/02/susan-collins-on-trump-tariffs-and-her-fight-for-maine-2156176",
     "published_iso": "2026-09-02T09:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "90f0251c7266",
@@ -156,7 +198,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17979/repeal-of-fossil-fuel-restrictions-for-new-federal-buildings-and-major-renovations-of-federal",
     "published_iso": "2026-09-02T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "7d9a69577071",
@@ -175,7 +217,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17978/safety-zone-bay-bridge-paddle-chesapeake-bay-annapolis-md",
     "published_iso": "2026-09-02T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "d05cea53bd17",
@@ -196,7 +238,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17971/safety-zone-lake-st-clair-grosse-pointe-farms-mi",
     "published_iso": "2026-09-02T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "6847124753ca",
@@ -215,35 +257,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17940/safety-zone-maumee-river-toledo-oh",
     "published_iso": "2026-09-02T04:00:00+00:00",
-    "time_ago": "13h ago"
-  },
-  {
-    "id": "c0e675dcd418",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "Scammed some people and need a pardon? A tariff exception? A bank charter? If you\u2019re a billionaire Trump donor, you may be in luck.\n\nBut if you\u2019re an American looking to save for retirement or invest in a company you like \u2014 the Trump Administration wants to keep you in the dark.",
-    "tags": [
-      "Trade",
-      "Banking",
-      "Regulation"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3muhkmjahws26",
-    "published_iso": "2026-09-01T13:46:23.151000+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "121317d73cd2",
@@ -393,28 +407,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-deal-with-nine-additional-pharmaceutical-manufacturers-to-lower-drug-prices-for-americans/",
     "published_iso": "2026-08-31T19:14:29+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "3c2fcef078e9",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "Fact Sheet: President Donald J. Trump Establishes a Commission to Design the United States Space Academy. BUILDING THE NEXT GENERATION OF AMERICAN SPACE LEADERS:&#160;Today, President Donald J. Trump signed an Executive Order to create a Presidential Commission to begin the process of establishing a new federal academy",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-establishes-a-commission-to-design-the-united-states-space-academy/",
-    "published_iso": "2026-08-28T17:49:33+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "61358ba6419a",
@@ -466,7 +459,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtz3qdfn7k2j",
     "published_iso": "2026-08-26T19:42:48.781000+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "ce88616fa393",
@@ -485,7 +478,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
     "published_iso": "2026-08-25T18:00:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "91d40345ed03",
@@ -536,7 +529,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
     "published_iso": "2026-08-20T20:00:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "d1faa9166adb",
@@ -607,7 +600,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
     "published_iso": "2026-08-19T18:00:00+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "f436afccee25",
@@ -773,7 +766,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s226?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-07T18:14:00+00:00",
-    "time_ago": "25d ago"
+    "time_ago": "26d ago"
   },
   {
     "id": "baf26d52584e",
@@ -877,7 +870,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "41d ago"
+    "time_ago": "42d ago"
   },
   {
     "id": "98b90fd8352a",
@@ -1084,7 +1077,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "160d ago"
+    "time_ago": "161d ago"
   },
   {
     "id": "00f579ee8f55",
