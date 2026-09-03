@@ -1,216 +1,28 @@
 [
   {
-    "id": "054502630e6f",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "f3869172de80",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
     },
-    "severity": "medium",
-    "content": "Baszucki Gregory sold 5,180 shares of Roblox Corp (RBLX) \u00b7 $40.33/share \u00b7 $208,926 total \u00b7 Sep 2 ($674,444 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "RBLX"
+    "severity": "critical",
+    "content": "Congressional Bill H.R. 6500 Signed into Law. On Wednesday, September 2, 2026, the President signed into law: H.R. 6500, the &#8220;Continuing Appropriations and Extensions Act, 2027,&#8221; which includes a short-term continuing resolution that provides fiscal year 2027 appropriations to Federal agencies through Decem",
+    "tags": [
+      "Regulation",
+      "Taxes"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1834990/000131509826000182/0001315098-26-000182-index.htm",
-    "published_iso": "2026-09-02T22:36:19+00:00",
-    "time_ago": "1m ago"
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-h-r-6500-signed-into-law/",
+    "published_iso": "2026-09-03T00:02:19+00:00",
+    "time_ago": "35m ago"
   },
   {
-    "id": "2947d2dfd736",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Smith Gary B sold 2,952 shares of Ciena Corp (CIEN) \u00b7 $362.90/share \u00b7 $1,071,278 total \u00b7 Sep 2",
-    "tags": [],
-    "tickers": [
-      "CIEN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1032553/000103255326000037/0001032553-26-000037-index.htm",
-    "published_iso": "2026-09-02T22:35:55+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "ad473899c9a9",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Rench David received 9,583 shares of Qumulusai, Inc. (QMLS) \u00b7 Sep 2 ($0 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "QMLS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2084026/000189884426000002/0001898844-26-000002-index.htm",
-    "published_iso": "2026-09-02T22:35:36+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "fbb92f0dfdd3",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Carlile Robert Paul exercised options for 4,670 shares of Microvision, Inc. (MVIS) \u00b7 Sep 2",
-    "tags": [],
-    "tickers": [
-      "MVIS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1695923/000149315226041279/0001493152-26-041279-index.htm",
-    "published_iso": "2026-09-02T22:35:17+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "548a6696d861",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Cheng Marvin sold 2,000 shares of Karat Packaging Inc. (KRT) \u00b7 $47.75/share \u00b7 $95,500 total \u00b7 Sep 2",
-    "tags": [],
-    "tickers": [
-      "KRT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1790959/000121390026096829/0001213900-26-096829-index.htm",
-    "published_iso": "2026-09-02T22:35:11+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "5be579543779",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Bone Jane E sold 4,176 shares of Elastic N.V. (ESTC) \u00b7 $93.48/share \u00b7 $390,372 total \u00b7 Sep 2",
-    "tags": [],
-    "tickers": [
-      "ESTC"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1707753/000112329226001218/0001123292-26-001218-index.htm",
-    "published_iso": "2026-09-02T22:34:32+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "4389c65085ef",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Herzog Carolyn sold 10,000 shares of Elastic N.V. (ESTC) \u00b7 $93.67/share \u00b7 $936,700 total \u00b7 Sep 2",
-    "tags": [],
-    "tickers": [
-      "ESTC"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1927549/000112329226001217/0001123292-26-001217-index.htm",
-    "published_iso": "2026-09-02T22:34:02+00:00",
-    "time_ago": "3m ago"
-  },
-  {
-    "id": "646a05d4ae7b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Shavel Lee exercised options for 3,535 shares of Verisk Analytics, Inc. (VRSK) \u00b7 $104.00/share \u00b7 $367,640 total \u00b7 Sep 2 ($1,051,415 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "VRSK"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1521495/000119312526380586/0001193125-26-380586-index.htm",
-    "published_iso": "2026-09-02T22:32:21+00:00",
-    "time_ago": "5m ago"
-  },
-  {
-    "id": "d479822a7604",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Lieber Jonathan I received 2,000 shares of Decoy Therapeutics Inc. (DCOY) \u00b7 Sep 2",
-    "tags": [],
-    "tickers": [
-      "DCOY"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1615219/000119312526380584/0001193125-26-380584-index.htm",
-    "published_iso": "2026-09-02T22:32:13+00:00",
-    "time_ago": "5m ago"
-  },
-  {
-    "id": "5c1d10599b24",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Reinhart James G. exercised options for 166,667 shares of Thredup Inc. (TDUP) \u00b7 Sep 2 ($441,545 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "TDUP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1849447/000162828026060220/0001628280-26-060220-index.htm",
-    "published_iso": "2026-09-02T22:32:06+00:00",
-    "time_ago": "5m ago"
-  },
-  {
-    "id": "8f50ae15eb06",
+    "id": "4e2ac3b760eb",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -218,21 +30,20 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "critical",
-    "content": "White House defends Trump's beef import plan after report on billionaire's influence. The White House defended President Trump\u2019s decision to temporarily suspend higher tariffs on ground beef imports amid a report that a Brazilian billionaire influenced the decision. A White House official told News Nation, \u201cPresident T",
+    "severity": "high",
+    "content": "Vance to give White House's first press briefing in over 40 days. Vice President Vance will host the first White House press briefing since July on Thursday, the White House Press Office announced. \u201cVice President @JDVance will take the podium tomorrow at 1:00 PM,\u201d the press office wrote Wednesday on social platform X.",
     "tags": [
-      "Trade",
-      "Regulation"
+      "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6067644-trump-beef-tariffs-brazil-influence/",
-    "published_iso": "2026-09-02T21:49:53+00:00",
-    "time_ago": "47m ago"
+    "url": "https://thehill.com/homenews/administration/6067880-vance-to-host-white-house-briefing/",
+    "published_iso": "2026-09-02T23:44:46+00:00",
+    "time_ago": "53m ago"
   },
   {
-    "id": "2c9ee22d1af9",
+    "id": "af1ae827616f",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -241,25 +52,237 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "5 things to know from G20 finance summit. Treasury Secretary Scott Bessent hosted economic officials from around the world in Asheville, N.C., this week, seeking to rally support for the Trump administration\u2019s financial agenda regarding Iran and China. During the Group of 20 (G20) finance summit, Bessent touted the Tre",
-    "tags": [
-      "China",
-      "Sanctions"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
+    "content": "Federal judge blocks Trump\u2019s new birthright citizenship order. A federal judge in Maryland on Wednesday blocked an executive order from President Trump that again seeks to restrict birthright citizenship. U.S. District Judge Deborah Boardman granted a preliminary injunction in a case brought by two immigration advocacy",
+    "tags": [],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6067626-bessent-rally-g20-support/",
-    "published_iso": "2026-09-02T21:42:25+00:00",
-    "time_ago": "54m ago"
+    "url": "https://thehill.com/regulation/court-battles/6067819-judge-blocks-trump-birthright-order/",
+    "published_iso": "2026-09-02T23:35:40+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "2efd0f71e6cc",
+    "id": "7662fb3bfd9d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Page Andrew E exercised options for 4,514 shares of Amer Sports, Inc. (AS) \u00b7 Sep 2 ($57,890 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "AS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1988894/000176934726000014/0001769347-26-000014-index.htm",
+    "published_iso": "2026-09-02T23:09:22+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "907e23844ca1",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Rangan Yamini withheld (tax) 2,622 shares of Hubspot Inc (HUBS) \u00b7 $251.11/share \u00b7 $658,410 total \u00b7 Sep 2",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "HUBS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1753409/000119312526380615/0001193125-26-380615-index.htm",
+    "published_iso": "2026-09-02T23:08:06+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "28fff77f8639",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Schubach Sarah Elizabeth sold 1,631 shares of Dropbox, Inc. (DBX) \u00b7 $35.50/share \u00b7 $57,900 total \u00b7 Sep 2 ($57,900 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "DBX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2075704/000207570426000032/0002075704-26-000032-index.htm",
+    "published_iso": "2026-09-02T23:06:45+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "373876952f8f",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Begeman John Arthur exercised options for 19,231 shares of I-80 Gold Corp. (IAUX-WT) \u00b7 Sep 2 ($33,435 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "GLD",
+      "TLT",
+      "SPY"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2048353/000091228226001207/0000912282-26-001207-index.htm",
+    "published_iso": "2026-09-02T23:05:52+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "18fcfd0a4211",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Cappello Joseph sold 10,257 shares of Genelux Corp (GNLX) \u00b7 $2.74/share \u00b7 $28,112 total \u00b7 Sep 2",
+    "tags": [],
+    "tickers": [
+      "GNLX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1939198/000149315226041285/0001493152-26-041285-index.htm",
+    "published_iso": "2026-09-02T23:05:05+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "bd2635f40836",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Zindrick Thomas sold 34,463 shares of Genelux Corp (GNLX) \u00b7 $2.67/share \u00b7 $91,899 total \u00b7 Sep 2",
+    "tags": [],
+    "tickers": [
+      "GNLX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1937573/000149315226041284/0001493152-26-041284-index.htm",
+    "published_iso": "2026-09-02T23:05:04+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "80b2c0208a49",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Yu Yong sold 9,683 shares of Genelux Corp (GNLX) \u00b7 $2.75/share \u00b7 $26,658 total \u00b7 Sep 2",
+    "tags": [],
+    "tickers": [
+      "GNLX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1937482/000149315226041283/0001493152-26-041283-index.htm",
+    "published_iso": "2026-09-02T23:05:02+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "14c7d2461f4f",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Snow Ryan Reid exercised options for 53,541 shares of I-80 Gold Corp. (IAUX-WT) \u00b7 Sep 2",
+    "tags": [],
+    "tickers": [
+      "GLD",
+      "TLT",
+      "SPY"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2048697/000091228226001205/0000912282-26-001205-index.htm",
+    "published_iso": "2026-09-02T23:04:32+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "795edc5d11b0",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Bueker Kathryn withheld (tax) 1,077 shares of Hubspot Inc (HUBS) \u00b7 $251.11/share \u00b7 $270,445 total \u00b7 Sep 2",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "HUBS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1741660/000119312526380612/0001193125-26-380612-index.htm",
+    "published_iso": "2026-09-02T23:04:02+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "f72f949f8b95",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Shah Dharmesh withheld (tax) 578 shares of Hubspot Inc (HUBS) \u00b7 $251.11/share \u00b7 $145,142 total \u00b7 Sep 2",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "HUBS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1620814/000119312526380609/0001193125-26-380609-index.htm",
+    "published_iso": "2026-09-02T23:01:56+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "095f2562dd66",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -267,21 +290,18 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Google avoids ad tech breakup. {beacon} Technology Technology &#8202; The Big Story  Google avoids ad tech breakup A federal judge ruled Wednesday that Google does not have to break up its advertising technology business after finding last year that the search giant held an illegal monopoly over the industry. \u00a9 Beata Z",
+    "severity": "critical",
+    "content": "NBA docks Clippers 5 first round picks, $30M for Kawhi Leonard scandal. The NBA on Wednesday announced sweeping sanctions against the Los Angeles Clippers for what the league said was an intentional effort to circumvent its salary cap by funneling money to star player Kawhi Leonard through endorsement opportunities and",
     "tags": [
-      "Antitrust",
-      "Big Tech",
-      "Regulation"
+      "Taxes",
+      "Sanctions"
     ],
-    "tickers": [
-      "GOOGL"
-    ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/technology/6067634-google-avoids-ad-tech-breakup/",
-    "published_iso": "2026-09-02T21:42:10+00:00",
-    "time_ago": "55m ago"
+    "url": "https://thehill.com/policy/sports-gaming/6067722-nba-clips-salary-cap-sanctions/",
+    "published_iso": "2026-09-02T22:38:17+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "3d26ee863393",
@@ -306,7 +326,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3muknxn2zik2k",
     "published_iso": "2026-09-02T19:24:16.704000+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "2df4682855f9",
@@ -327,7 +347,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/video/2026/09/02/susan-collins-on-trump-tariffs-and-her-fight-for-maine-2156176",
     "published_iso": "2026-09-02T09:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "90f0251c7266",
@@ -354,7 +374,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17979/repeal-of-fossil-fuel-restrictions-for-new-federal-buildings-and-major-renovations-of-federal",
     "published_iso": "2026-09-02T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "7d9a69577071",
@@ -373,7 +393,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17978/safety-zone-bay-bridge-paddle-chesapeake-bay-annapolis-md",
     "published_iso": "2026-09-02T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "d05cea53bd17",
@@ -394,7 +414,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17971/safety-zone-lake-st-clair-grosse-pointe-farms-mi",
     "published_iso": "2026-09-02T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "6847124753ca",
@@ -413,7 +433,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17940/safety-zone-maumee-river-toledo-oh",
     "published_iso": "2026-09-02T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "c07517782c33",
@@ -654,7 +674,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h285?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-08-31T23:10:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "74119777f189",
