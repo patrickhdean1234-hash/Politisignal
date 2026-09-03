@@ -1,6 +1,6 @@
 [
   {
-    "id": "42cbdc73b7a8",
+    "id": "60bdd6fe8467",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,44 +9,63 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Bridge T. Craig withheld (tax) 30,792 shares of Waystar Holding Corp. (WAY) \u00b7 $25.73/share \u00b7 $792,278 total \u00b7 Sep 3",
+    "content": "Guarini Kathryn exercised options for 400 shares of Regeneron Pharmaceuticals, Inc. (REGN) \u00b7 $719.37/share \u00b7 $287,748 total \u00b7 Sep 3 ($627,748 across all blocks)",
     "tags": [
-      "Taxes"
+      "Healthcare"
     ],
     "tickers": [
-      "WAY"
+      "REGN"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1998332/000199833226000008/0001998332-26-000008-index.htm",
-    "published_iso": "2026-09-03T17:16:28+00:00",
-    "time_ago": "3m ago"
-  },
-  {
-    "id": "99e055c07cac",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hawkins Matthew J. withheld (tax) 30,287 shares of Waystar Holding Corp. (WAY) \u00b7 $25.73/share \u00b7 $779,285 total \u00b7 Sep 3 ($3,263,417 across all blocks)",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "WAY"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1998256/000199825626000013/0001998256-26-000013-index.htm",
-    "published_iso": "2026-09-03T17:15:15+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/1992352/000199235226000007/0001992352-26-000007-index.htm",
+    "published_iso": "2026-09-03T20:47:22+00:00",
     "time_ago": "4m ago"
   },
   {
-    "id": "ca9c8141a5bf",
+    "id": "eac21cc5ad83",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Johnson Jennifer L received 6,283 shares of Sysco Corp (SYY) \u00b7 Sep 3",
+    "tags": [],
+    "tickers": [
+      "SYY"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1885927/000188592726000007/0001885927-26-000007-index.htm",
+    "published_iso": "2026-09-03T20:46:42+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "6a39b89d557d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Laas Lihan received 9,029 shares of Drdgold Ltd (DRDGF) \u00b7 Sep 3 ($24,870 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "DRDGF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2119288/000211928826000008/0002119288-26-000008-index.htm",
+    "published_iso": "2026-09-03T20:46:30+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "2a4daca73410",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -55,17 +74,44 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Nick Saban stars in new TV ad advocating for Cruz, Cantwell NCAA bill. Former college football coach Nick Saban is staring in a new advertisement advocating for the Protect College Sports Act, the bipartisan bill that would regulate college sports backed by Sens. Ted Cruz (R-Texas) and Maria Cantwell (D-Wash.) In the a",
+    "content": "Bipartisan insulin price cap introduced in House as lawmakers seek affordability win. Bipartisan House lawmakers, including two battleground Republicans, introduced legislation Thursday to ensure people with private health insurance don\u2019t pay more than $35 a month for insulin.  Lawmakers have discussed the idea of an i",
     "tags": [
-      "Regulation",
-      "Taxes"
+      "Healthcare",
+      "Regulation"
+    ],
+    "tickers": [
+      "LLY",
+      "PFE",
+      "JNJ",
+      "MRK"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/healthcare/6069932-bipartisan-house-introduces-insulin-cap-legislation/",
+    "published_iso": "2026-09-03T19:31:53+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "34d2168f9b8d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Patagonia joins lawsuit against Trump's Utah national monument reduction. The outdoor retailer Patagonia on Wednesday joined a lawsuit against the Trump administration over its executive orders to shrink the sizes of the Bears Ears and Grand Staircase-Escalante national monuments in Utah. Patagonia joined a coalition o",
+    "tags": [
+      "Defense",
+      "Regulation"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/sports-gaming/6069420-nick-saban-college-sports-ncaa-kickoff-weekend/",
-    "published_iso": "2026-09-03T16:59:16+00:00",
-    "time_ago": "20m ago"
+    "url": "https://thehill.com/policy/energy-environment/6069727-patagonia-joins-national-monuments-lawsuit/",
+    "published_iso": "2026-09-03T19:05:18+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "e122e52e32f9",
@@ -84,7 +130,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h295?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-03T14:24:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "5c2c04b0f1cc",
@@ -107,7 +153,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mummq3dgjc2n",
     "published_iso": "2026-09-03T14:07:28.961000+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "65532fd1caa0",
@@ -129,7 +175,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/03/2026-18107/list-of-approved-spent-fuel-storage-casks-holtec-international-hi-storm-floodwind-system-certificate",
     "published_iso": "2026-09-03T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "c331d42d9e2b",
@@ -150,7 +196,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/03/2026-18104/form-pf-reporting-requirements-for-all-filers-and-large-hedge-fund-advisers-further-extension-of",
     "published_iso": "2026-09-03T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "363214f96c46",
@@ -171,7 +217,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/03/2026-18062/special-local-regulation-allegheny-river-mile-markers-0-35-and-ohio-river-mile-marker-0-3-pittsburgh",
     "published_iso": "2026-09-03T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "f3f3f0c1fde0",
@@ -192,7 +238,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/03/2026-18061/determining-the-appropriate-penalty-for-federal-employees-charged-with-misconduct",
     "published_iso": "2026-09-03T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "120dd56799e2",
@@ -211,7 +257,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/03/2026-18055/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-09-03T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "b390222e45d7",
@@ -230,7 +276,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/03/2026-18053/airworthiness-directives-atr-gie-avions-de-transport-rgional-airplanes",
     "published_iso": "2026-09-03T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "f91d968a59f3",
@@ -249,7 +295,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/03/2026-18044/safety-zone-outer-harbor-buffalo-ny",
     "published_iso": "2026-09-03T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "85e99138f7ef",
@@ -272,7 +318,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/09/02/elon-musk-spending-key-races-midterms-01063146",
     "published_iso": "2026-09-03T02:57:19+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "d31698064349",
@@ -300,7 +346,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-secures-the-biggest-oil-deal-in-world-history/",
     "published_iso": "2026-09-03T00:35:13+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "f3869172de80",
@@ -322,7 +368,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-h-r-6500-signed-into-law/",
     "published_iso": "2026-09-03T00:02:19+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "59dd6387d8aa",
@@ -341,7 +387,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h294?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-02T20:49:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "1af19e455337",
@@ -360,7 +406,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h293?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-02T20:34:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "3d26ee863393",
@@ -385,7 +431,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3muknxn2zik2k",
     "published_iso": "2026-09-02T19:24:16.704000+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "2df4682855f9",
@@ -503,7 +549,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h288?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-01T18:20:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "61358ba6419a",
@@ -555,7 +601,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtz3qdfn7k2j",
     "published_iso": "2026-08-26T19:42:48.781000+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "ce88616fa393",
@@ -574,7 +620,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
     "published_iso": "2026-08-25T18:00:00+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "91d40345ed03",
@@ -625,7 +671,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
     "published_iso": "2026-08-20T20:00:00+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "d1faa9166adb",
@@ -696,7 +742,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
     "published_iso": "2026-08-19T18:00:00+00:00",
-    "time_ago": "14d ago"
+    "time_ago": "15d ago"
   },
   {
     "id": "f436afccee25",
@@ -800,7 +846,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
     "published_iso": "2026-08-04T20:30:00+00:00",
-    "time_ago": "29d ago"
+    "time_ago": "30d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -850,7 +896,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "42d ago"
+    "time_ago": "43d ago"
   },
   {
     "id": "98b90fd8352a",
@@ -1057,7 +1103,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "161d ago"
+    "time_ago": "162d ago"
   },
   {
     "id": "00f579ee8f55",
