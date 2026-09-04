@@ -1,152 +1,29 @@
 [
   {
-    "id": "041843fd1280",
+    "id": "7b33479f40a4",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Kim Matthew M. sold 1,400 shares of Southern Co (SOMN) \u00b7 $88.87/share \u00b7 $124,418 total \u00b7 Sep 4",
-    "tags": [],
-    "tickers": [
-      "SOMN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2082705/000119312526383300/0001193125-26-383300-index.htm",
-    "published_iso": "2026-09-04T17:00:03+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "e8653538d1d5",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Sena Peter P Iii sold 4,266 shares of Southern Co (SOMN) \u00b7 $88.59/share \u00b7 $377,925 total \u00b7 Sep 4",
-    "tags": [],
-    "tickers": [
-      "SOMN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2023851/000119312526383301/0001193125-26-383301-index.htm",
-    "published_iso": "2026-09-04T17:00:03+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "010eb1a366ca",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Patrick Justin K sold 7,883 shares of Itron, Inc. (ITRI) \u00b7 $97.36/share \u00b7 $767,489 total \u00b7 Sep 4 ($994,046 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "ITRI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1802633/000078057126000216/0000780571-26-000216-index.htm",
-    "published_iso": "2026-09-04T16:52:59+00:00",
-    "time_ago": "9m ago"
-  },
-  {
-    "id": "eb852868f7b0",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Trump threatens trade war if rates aren't cut after strong jobs report. President Trump called on the Federal Reserve to lower interest rates Friday after the August jobs report came in stronger than expected, threatening to cut off trade with several countries if the central bank doesn\u2019t budge. The Bureau of Labor Sta",
+    "content": "Miller Timothy W withheld (tax) 2,465 shares of Huntington Bancshares Inc /Md/ (HBANP) \u00b7 $17.06/share \u00b7 $42,053 total \u00b7 Sep 4",
     "tags": [
-      "Trade",
-      "Banking"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/6071563-trump-trade-war-fed-interest-rates-august-jobs-report/",
-    "published_iso": "2026-09-04T16:04:46+00:00",
-    "time_ago": "57m ago"
-  },
-  {
-    "id": "da73a247f711",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Trump administration moves to fast-track oil drilling approvals in Alaska. The Trump administration announced Friday it was proposing to fast-track approvals for oil drilling projects in Alaska after a request from a trade group to do so. The Bureau of Land Management (BLM) issued a proposal that would seek to quickly ",
-    "tags": [
-      "Trade",
-      "Energy"
-    ],
-    "tickers": [
-      "XOM",
-      "CVX",
-      "COP",
-      "OXY"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/energy-environment/6071615-blm-proposes-npra-oil-approvals/",
-    "published_iso": "2026-09-04T16:00:23+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "f163308ded08",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Fetterman stood up disabled veterans; scoffed at children's hospital's concerns: Report. Sen. John Fetterman (D-Pa.) reportedly canceled a meeting with three disabled veterans almost a year after he dismissed concerns about funding for a children\u2019s hospital. The Wall Street Journal published a report Wednesday that all",
-    "tags": [
-      "Healthcare",
-      "Banking",
-      "Defense",
       "Taxes"
     ],
     "tickers": [
-      "UNH",
-      "HCA",
-      "CVS",
-      "JPM"
+      "HBANP"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/6071560-fetterman-allegedly-dodged-veterans/",
-    "published_iso": "2026-09-04T15:52:08+00:00",
-    "time_ago": "1h ago"
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2034733/000122520826007684/0001225208-26-007684-index.htm",
+    "published_iso": "2026-09-04T19:16:12+00:00",
+    "time_ago": "6m ago"
   },
   {
-    "id": "cdd881daf301",
+    "id": "e1e903c6cb06",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -155,15 +32,90 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "The 50 percent problem with Trump's Canada tariffs. \u201cUp to 50 percent\u201d does not mean 50 percent whenever the president feels like it",
+    "content": "Watch live: Trump to sign beef-related executive order after easing tariffs. President Trump is set to sign an executive order Friday related to the beef industry, according to the White House. Trump announced last month that the U.S. would pause higher tariffs on ground beef imports for 90 days, allowing up to 300,000",
     "tags": [
       "Trade"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/finance/6069916-legal-challenge-canadian-trade-war/",
-    "published_iso": "2026-09-04T15:30:00+00:00",
+    "url": "https://thehill.com/video-clips/6071809-trump-beef-tariff-executive-order/",
+    "published_iso": "2026-09-04T18:09:10+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "4e14b6a49e9f",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Witkoff, Kushner to visit Russia, Ukraine in effort to jump-start peace talks. Two top U.S. envoys, Steve Witkoff and Jared Kushner, will travel to Russia and Ukraine this weekend in an effort to restart peace negotiations between the two countries, according to multiple reports.  Witkoff and Kushner \u2014 President Trump'",
+    "tags": [
+      "Regulation",
+      "Taxes",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6071900-witkoff-kushner-peace-negotiations/",
+    "published_iso": "2026-09-04T18:00:54+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "47366c40812f",
+    "politician": "Politico",
+    "initials": "PO",
+    "role": "Political News",
+    "color": {
+      "bg": "#1a0a0a",
+      "fg": "#fca5a5"
+    },
+    "severity": "medium",
+    "content": "\u2018Not feasible\u2019: With ballots already in the mail, election officials say it is too late for Trump\u2019s USPS order. While the Trump administration's bid to overhaul mail-in voting remains blocked by the lower courts, North Carolina will be the first state to send ballots on Friday",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "politico",
+    "platform": "Politico",
+    "url": "https://www.politico.com/news/2026/09/04/trump-mail-ballots-order-november-elections-01065234",
+    "published_iso": "2026-09-04T18:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "a639b27204d7",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Live updates: August's strong jobs numbers put rate cut in doubt; judge ready to declare mistrial in Clancy trial. The U.S. economy added 162,000 jobs last month, a stronger-than-expected showing. And now President Trump wants to see interest rates dropped, threatening to cut off trade with several countries if the Fed",
+    "tags": [
+      "Trade",
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6070974-live-updates-trump-mail-ballots-jobs-midterms/",
+    "published_iso": "2026-09-04T17:44:04+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -190,7 +142,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
     "published_iso": "2026-09-04T15:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "f1c2bcaf99b4",
@@ -209,7 +161,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18194/geographic-targeting-order-imposing-recordkeeping-and-reporting-requirements-on-certain-money",
     "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "cb66a1def252",
@@ -230,7 +182,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18166/drawbridge-operation-regulation-savannah-river-clyo-ga",
     "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "80b437ac8649",
@@ -256,7 +208,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18164/driving-efficiency-in-farm-loan-delivery",
     "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "d6ddfbc0e3b0",
@@ -282,7 +234,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18132/renewable-fuel-standard-rfs-program-extension-of-2025-compliance-reporting-deadline",
     "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "3507eff961fb",
@@ -303,7 +255,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18130/safety-zone-ohio-street-beach-swim-course-lake-michigan-chicago-harbor-chicago-il",
     "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "9aea2c4b9b00",
@@ -325,7 +277,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18126/revocation-of-class-e-airspace-point-pleasant-wv",
     "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "cf213b292068",
@@ -344,7 +296,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18123/endangered-and-threatened-wildlife-and-plants-nine-species-not-warranted-for-listing-as-endangered",
     "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "e122e52e32f9",
@@ -593,7 +545,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h288?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-01T18:20:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "61358ba6419a",
@@ -664,7 +616,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
     "published_iso": "2026-08-25T18:00:00+00:00",
-    "time_ago": "9d ago"
+    "time_ago": "10d ago"
   },
   {
     "id": "91d40345ed03",
@@ -786,7 +738,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
     "published_iso": "2026-08-19T18:00:00+00:00",
-    "time_ago": "15d ago"
+    "time_ago": "16d ago"
   },
   {
     "id": "f436afccee25",
@@ -914,7 +866,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "43d ago"
+    "time_ago": "44d ago"
   },
   {
     "id": "98b90fd8352a",
@@ -1121,7 +1073,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "162d ago"
+    "time_ago": "163d ago"
   },
   {
     "id": "00f579ee8f55",
@@ -1187,7 +1139,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "224d ago"
+    "time_ago": "225d ago"
   },
   {
     "id": "d3ca74df7f0f",
