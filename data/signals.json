@@ -1,6 +1,6 @@
 [
   {
-    "id": "ab39a08d9637",
+    "id": "041843fd1280",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Taylor Dian C sold 1,124 shares of Artesian Resources Corp (ARTNB) \u00b7 $36.00/share \u00b7 $40,464 total \u00b7 Sep 4 ($112,684 across all blocks)",
+    "content": "Kim Matthew M. sold 1,400 shares of Southern Co (SOMN) \u00b7 $88.87/share \u00b7 $124,418 total \u00b7 Sep 4",
     "tags": [],
     "tickers": [
-      "ARTNB"
+      "SOMN"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1208428/000086311026000088/0000863110-26-000088-index.htm",
-    "published_iso": "2026-09-04T13:27:37+00:00",
-    "time_ago": "4m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2082705/000119312526383300/0001193125-26-383300-index.htm",
+    "published_iso": "2026-09-04T17:00:03+00:00",
+    "time_ago": "2m ago"
   },
   {
-    "id": "2bb9e9f39888",
+    "id": "e8653538d1d5",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,19 +30,40 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Fontaine Alyssa H exercised options for 802 shares of Tompkins Financial Corp (TMP) \u00b7 $76.90/share \u00b7 $61,674 total \u00b7 Sep 4 ($131,234 across all blocks)",
+    "content": "Sena Peter P Iii sold 4,266 shares of Southern Co (SOMN) \u00b7 $88.59/share \u00b7 $377,925 total \u00b7 Sep 4",
     "tags": [],
     "tickers": [
-      "TMP"
+      "SOMN"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1662747/000100581726000120/0001005817-26-000120-index.htm",
-    "published_iso": "2026-09-04T13:19:31+00:00",
-    "time_ago": "12m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2023851/000119312526383301/0001193125-26-383301-index.htm",
+    "published_iso": "2026-09-04T17:00:03+00:00",
+    "time_ago": "2m ago"
   },
   {
-    "id": "de459ecad1a7",
+    "id": "010eb1a366ca",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Patrick Justin K sold 7,883 shares of Itron, Inc. (ITRI) \u00b7 $97.36/share \u00b7 $767,489 total \u00b7 Sep 4 ($994,046 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "ITRI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1802633/000078057126000216/0000780571-26-000216-index.htm",
+    "published_iso": "2026-09-04T16:52:59+00:00",
+    "time_ago": "9m ago"
+  },
+  {
+    "id": "eb852868f7b0",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -51,17 +72,52 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Live updates: NC set to send out ballots amid mail voting fight; August posts strong jobs numbers. North Carolina is set to begin mailing general election absentee ballots on Friday, even as the Trump administration has moved to restrict voting by mail. The administration is appealing a federal judge\u2019s ruling that stop",
-    "tags": [],
-    "tickers": [],
+    "content": "Trump threatens trade war if rates aren't cut after strong jobs report. President Trump called on the Federal Reserve to lower interest rates Friday after the August jobs report came in stronger than expected, threatening to cut off trade with several countries if the central bank doesn\u2019t budge. The Bureau of Labor Sta",
+    "tags": [
+      "Trade",
+      "Banking"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6070974-live-updates-trump-mail-ballots-jobs-midterms/",
-    "published_iso": "2026-09-04T12:52:18+00:00",
-    "time_ago": "39m ago"
+    "url": "https://thehill.com/business/6071563-trump-trade-war-fed-interest-rates-august-jobs-report/",
+    "published_iso": "2026-09-04T16:04:46+00:00",
+    "time_ago": "57m ago"
   },
   {
-    "id": "97601bbabc02",
+    "id": "da73a247f711",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Trump administration moves to fast-track oil drilling approvals in Alaska. The Trump administration announced Friday it was proposing to fast-track approvals for oil drilling projects in Alaska after a request from a trade group to do so. The Bureau of Land Management (BLM) issued a proposal that would seek to quickly ",
+    "tags": [
+      "Trade",
+      "Energy"
+    ],
+    "tickers": [
+      "XOM",
+      "CVX",
+      "COP",
+      "OXY"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/energy-environment/6071615-blm-proposes-npra-oil-approvals/",
+    "published_iso": "2026-09-04T16:00:23+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "f163308ded08",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -70,16 +126,71 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "US added 162k jobs in August, blowing past expectations. The U.S. economy added 162,000 jobs in August, according to new data released Friday by the Bureau of Labor Statistics (BLS).  The unemployment rate remained unchanged at 4.1 percent. Economists had expected U.S. employers to add 53,000 jobs last month and the jo",
+    "content": "Fetterman stood up disabled veterans; scoffed at children's hospital's concerns: Report. Sen. John Fetterman (D-Pa.) reportedly canceled a meeting with three disabled veterans almost a year after he dismissed concerns about funding for a children\u2019s hospital. The Wall Street Journal published a report Wednesday that all",
     "tags": [
-      "Banking"
+      "Healthcare",
+      "Banking",
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS",
+      "JPM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/senate/6071560-fetterman-allegedly-dodged-veterans/",
+    "published_iso": "2026-09-04T15:52:08+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "cdd881daf301",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "The 50 percent problem with Trump's Canada tariffs. \u201cUp to 50 percent\u201d does not mean 50 percent whenever the president feels like it",
+    "tags": [
+      "Trade"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/business/6069875-august-jobs-data-us-economy-trump-administration/",
-    "published_iso": "2026-09-04T12:45:03+00:00",
-    "time_ago": "47m ago"
+    "url": "https://thehill.com/opinion/finance/6069916-legal-challenge-canadian-trade-war/",
+    "published_iso": "2026-09-04T15:30:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "6cce72db2aa7",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.. Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
+    "published_iso": "2026-09-04T15:00:00+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "f1c2bcaf99b4",
@@ -98,7 +209,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18194/geographic-targeting-order-imposing-recordkeeping-and-reporting-requirements-on-certain-money",
     "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "cb66a1def252",
@@ -119,7 +230,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18166/drawbridge-operation-regulation-savannah-river-clyo-ga",
     "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "80b437ac8649",
@@ -145,7 +256,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18164/driving-efficiency-in-farm-loan-delivery",
     "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "d6ddfbc0e3b0",
@@ -171,7 +282,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18132/renewable-fuel-standard-rfs-program-extension-of-2025-compliance-reporting-deadline",
     "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "3507eff961fb",
@@ -192,7 +303,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18130/safety-zone-ohio-street-beach-swim-course-lake-michigan-chicago-harbor-chicago-il",
     "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "9aea2c4b9b00",
@@ -214,7 +325,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18126/revocation-of-class-e-airspace-point-pleasant-wv",
     "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "cf213b292068",
@@ -233,7 +344,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18123/endangered-and-threatened-wildlife-and-plants-nine-species-not-warranted-for-listing-as-endangered",
     "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "e122e52e32f9",
@@ -252,30 +363,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h295?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-03T14:24:00+00:00",
-    "time_ago": "23h ago"
-  },
-  {
-    "id": "5c2c04b0f1cc",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "low",
-    "content": "Donald Trump is making it more expensive to raise a family. Back-to-school prices are up 11% compared to last year:\n \nNotebooks: +23%\nIndex cards: +22%\nLunchboxes: +27%\nSandwich bread: +22%\nApple juice: +20%\nAnimal crackers: +16%",
-    "tags": [
-      "Big Tech"
-    ],
-    "tickers": [
-      "AAPL"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mummq3dgjc2n",
-    "published_iso": "2026-09-03T14:07:28.961000+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "65532fd1caa0",
@@ -531,7 +619,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
     "published_iso": "2026-08-27T15:00:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "a9cd6f26090e",
@@ -601,7 +689,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtm4eksz2k2d",
     "published_iso": "2026-08-21T15:49:31.050000+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "f281bf40952f",
@@ -630,32 +718,6 @@
     "time_ago": "14d ago"
   },
   {
-    "id": "d1faa9166adb",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank. Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
-    "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "14d ago"
-  },
-  {
     "id": "0559c8e7bc33",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -679,7 +741,33 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "14d ago"
+    "time_ago": "15d ago"
+  },
+  {
+    "id": "d1faa9166adb",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank. Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
+    "published_iso": "2026-08-20T15:00:00+00:00",
+    "time_ago": "15d ago"
   },
   {
     "id": "306d3c437a72",
@@ -722,7 +810,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/august/road-iowa-america-first-trade-raising-wages-reshoring-jobs-and-restoring-americas-global",
     "published_iso": "2026-08-18T15:02:03+00:00",
-    "time_ago": "16d ago"
+    "time_ago": "17d ago"
   },
   {
     "id": "1b45165ad867",
@@ -748,7 +836,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
     "published_iso": "2026-08-13T15:00:00+00:00",
-    "time_ago": "21d ago"
+    "time_ago": "22d ago"
   },
   {
     "id": "baf26d52584e",
@@ -776,33 +864,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "27d ago"
-  },
-  {
-    "id": "63e88990093a",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.. Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
-    "published_iso": "2026-08-04T20:30:00+00:00",
-    "time_ago": "30d ago"
+    "time_ago": "28d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -831,7 +893,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "42d ago"
+    "time_ago": "43d ago"
   },
   {
     "id": "de38f5381391",
@@ -881,7 +943,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-releases-updated-clarity-act-text/",
     "published_iso": "2026-07-22T16:49:25+00:00",
-    "time_ago": "43d ago"
+    "time_ago": "44d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -968,7 +1030,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "115d ago"
+    "time_ago": "116d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -994,7 +1056,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "121d ago"
+    "time_ago": "122d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1016,7 +1078,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "129d ago"
+    "time_ago": "130d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1040,7 +1102,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "157d ago"
+    "time_ago": "158d ago"
   },
   {
     "id": "432e035b915b",
@@ -1080,7 +1142,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "202d ago"
+    "time_ago": "203d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1099,7 +1161,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "202d ago"
+    "time_ago": "203d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1144,6 +1206,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "261d ago"
+    "time_ago": "262d ago"
   }
 ]
