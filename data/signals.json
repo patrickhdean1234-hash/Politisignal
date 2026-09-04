@@ -1,5 +1,87 @@
 [
   {
+    "id": "ab39a08d9637",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Taylor Dian C sold 1,124 shares of Artesian Resources Corp (ARTNB) \u00b7 $36.00/share \u00b7 $40,464 total \u00b7 Sep 4 ($112,684 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "ARTNB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1208428/000086311026000088/0000863110-26-000088-index.htm",
+    "published_iso": "2026-09-04T13:27:37+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "2bb9e9f39888",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Fontaine Alyssa H exercised options for 802 shares of Tompkins Financial Corp (TMP) \u00b7 $76.90/share \u00b7 $61,674 total \u00b7 Sep 4 ($131,234 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "TMP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1662747/000100581726000120/0001005817-26-000120-index.htm",
+    "published_iso": "2026-09-04T13:19:31+00:00",
+    "time_ago": "12m ago"
+  },
+  {
+    "id": "de459ecad1a7",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Live updates: NC set to send out ballots amid mail voting fight; August posts strong jobs numbers. North Carolina is set to begin mailing general election absentee ballots on Friday, even as the Trump administration has moved to restrict voting by mail. The administration is appealing a federal judge\u2019s ruling that stop",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6070974-live-updates-trump-mail-ballots-jobs-midterms/",
+    "published_iso": "2026-09-04T12:52:18+00:00",
+    "time_ago": "39m ago"
+  },
+  {
+    "id": "97601bbabc02",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "US added 162k jobs in August, blowing past expectations. The U.S. economy added 162,000 jobs in August, according to new data released Friday by the Bureau of Labor Statistics (BLS).  The unemployment rate remained unchanged at 4.1 percent. Economists had expected U.S. employers to add 53,000 jobs last month and the jo",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/6069875-august-jobs-data-us-economy-trump-administration/",
+    "published_iso": "2026-09-04T12:45:03+00:00",
+    "time_ago": "47m ago"
+  },
+  {
     "id": "f1c2bcaf99b4",
     "politician": "Federal Register",
     "initials": "FR",
@@ -16,7 +98,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18194/geographic-targeting-order-imposing-recordkeeping-and-reporting-requirements-on-certain-money",
     "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "cb66a1def252",
@@ -37,7 +119,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18166/drawbridge-operation-regulation-savannah-river-clyo-ga",
     "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "80b437ac8649",
@@ -63,7 +145,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18164/driving-efficiency-in-farm-loan-delivery",
     "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "d6ddfbc0e3b0",
@@ -89,7 +171,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18132/renewable-fuel-standard-rfs-program-extension-of-2025-compliance-reporting-deadline",
     "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "3507eff961fb",
@@ -110,7 +192,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18130/safety-zone-ohio-street-beach-swim-course-lake-michigan-chicago-harbor-chicago-il",
     "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "9aea2c4b9b00",
@@ -132,7 +214,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18126/revocation-of-class-e-airspace-point-pleasant-wv",
     "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "cf213b292068",
@@ -151,231 +233,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18123/endangered-and-threatened-wildlife-and-plants-nine-species-not-warranted-for-listing-as-endangered",
     "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "c104a1de6cef",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Powelson Robert F received 5,357 shares of Capstone Energy Plus, Inc. (CEPL) \u00b7 Sep 3",
-    "tags": [
-      "Energy"
-    ],
-    "tickers": [
-      "CEPL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1779542/000100975926000009/0001009759-26-000009-index.htm",
-    "published_iso": "2026-09-04T01:57:26+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "a578febe163a",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Carlson Erik received 601,998 shares of Real Remax Group Inc. (REAX) \u00b7 Sep 3 ($0 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "REAX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2136387/000110465926105169/0001104659-26-105169-index.htm",
-    "published_iso": "2026-09-04T01:55:03+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "d4e4941a6886",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Carlson Erik received 119,556 shares of Real Remax Group Inc. (REAX) \u00b7 Sep 3",
-    "tags": [],
-    "tickers": [
-      "REAX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2136387/000110465926105168/0001104659-26-105168-index.htm",
-    "published_iso": "2026-09-04T01:53:10+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "be5f68abe1d8",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Miller John P. received 5,357 shares of Capstone Energy Plus, Inc. (CEPL) \u00b7 Sep 3",
-    "tags": [
-      "Energy"
-    ],
-    "tickers": [
-      "CEPL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1709137/000100975926000008/0001009759-26-000008-index.htm",
-    "published_iso": "2026-09-04T01:52:58+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "e6791fbc2b57",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Raffaeli C Cathleen received 9,082 shares of Real Remax Group Inc. (REAX) \u00b7 Sep 3 ($0 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "REAX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2136387/000110465926105167/0001104659-26-105167-index.htm",
-    "published_iso": "2026-09-04T01:52:04+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "69e124ae878e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Jenkins Leah R received 4,508 shares of Real Remax Group Inc. (REAX) \u00b7 Sep 3",
-    "tags": [],
-    "tickers": [
-      "REAX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2136387/000110465926105166/0001104659-26-105166-index.htm",
-    "published_iso": "2026-09-04T01:50:56+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "0cf9af9b06fa",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Jenkins Norman K. received 10,079 shares of Real Remax Group Inc. (REAX) \u00b7 Sep 3",
-    "tags": [],
-    "tickers": [
-      "REAX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2136387/000110465926105165/0001104659-26-105165-index.htm",
-    "published_iso": "2026-09-04T01:49:41+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "577066b966f8",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Close Christopher J. received 5,357 shares of Capstone Energy Plus, Inc. (CEPL) \u00b7 Sep 3",
-    "tags": [
-      "Energy"
-    ],
-    "tickers": [
-      "CEPL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1627359/000100975926000007/0001009759-26-000007-index.htm",
-    "published_iso": "2026-09-04T01:49:20+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "ccf89aa93467",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Plump Andrew Stewart sold 116,191 shares of Takeda Pharmaceutical Co Ltd (TKPHF) \u00b7 $18.49/share \u00b7 $2,148,372 total \u00b7 Sep 3",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "TKPHF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1977689/000139506426000335/0001395064-26-000335-index.htm",
-    "published_iso": "2026-09-04T01:49:19+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "dfd92e95f53e",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Pentagon sought to divert NIH funds for defense use, top House Appropriations Democrat says. The Pentagon is attempting to divert billions of dollars from the National Institutes of Health (NIH) to bolster the agency's budget, according to the top Democrat on the House Appropriations Committee.  Rep. Rosa DeLauro (D-Co",
-    "tags": [
-      "Defense",
-      "Regulation"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/6070508-pentagon-nih-diverts-funds-democrats-statement/",
-    "published_iso": "2026-09-03T22:48:08+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "e122e52e32f9",
@@ -394,7 +252,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h295?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-03T14:24:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "5c2c04b0f1cc",
@@ -417,7 +275,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mummq3dgjc2n",
     "published_iso": "2026-09-03T14:07:28.961000+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "65532fd1caa0",
@@ -1045,7 +903,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "43d ago"
+    "time_ago": "44d ago"
   },
   {
     "id": "555d7f3dd315",
