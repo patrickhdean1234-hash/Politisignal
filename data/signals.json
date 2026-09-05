@@ -1,89 +1,263 @@
 [
   {
-    "id": "996236b554c5",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "5475dbf9719b",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
     },
     "severity": "medium",
-    "content": "Engert Oliver bought 2,458 shares of Enovis Corp (ENOV) \u00b7 $20.32/share \u00b7 $49,947 total \u00b7 Sep 4 ($149,971 across all blocks)",
+    "content": "Safety Zone; Laguna Madre, South Padre Island, TX. The Coast Guard is establishing a temporary safety zone for navigable waters on the Laguna Madre. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with an over water fireworks display. Entry of vessel",
     "tags": [],
-    "tickers": [
-      "ENOV"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2105870/000119312526384028/0001193125-26-384028-index.htm",
-    "published_iso": "2026-09-05T01:00:05+00:00",
-    "time_ago": "7m ago"
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18279/safety-zone-laguna-madre-south-padre-island-tx",
+    "published_iso": "2026-09-08T04:00:00+00:00",
+    "time_ago": "just now"
   },
   {
-    "id": "68e0aad8d107",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "49b3db28567e",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
     },
-    "severity": "medium",
-    "content": "Mcdonald Damien bought 13,035 shares of Enovis Corp (ENOV) \u00b7 $19.15/share \u00b7 $249,620 total \u00b7 Sep 4",
-    "tags": [],
-    "tickers": [
-      "ENOV"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1686894/000119312526384027/0001193125-26-384027-index.htm",
-    "published_iso": "2026-09-05T01:00:03+00:00",
-    "time_ago": "7m ago"
-  },
-  {
-    "id": "8030577cbc59",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Bonanni Mark Emilio sold 3,385 shares of Outfront Media Inc. (OUT) \u00b7 $29.82/share \u00b7 $100,941 total \u00b7 Sep 4",
-    "tags": [],
-    "tickers": [
-      "OUT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2075251/000207525126000006/0002075251-26-000006-index.htm",
-    "published_iso": "2026-09-05T00:46:04+00:00",
-    "time_ago": "21m ago"
-  },
-  {
-    "id": "72cbbc153cbc",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Mcandrew Walter Thomas Jr. acquired/disposed 50,550 shares of Erock, Inc. (EROC) \u00b7 Sep 4 ($0 across all blocks)",
+    "severity": "high",
+    "content": "Car Loan Interest Deduction. This document contains final regulations regarding the deduction for certain taxpayers for an amount up to $10,000 of qualified passenger vehicle loan interest. This document also contains final regulations regarding new information reporting requirements for certain persons who, in a trade",
     "tags": [
-      "Insider Trade"
+      "Trade",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18219/car-loan-interest-deduction",
+    "published_iso": "2026-09-08T04:00:00+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "bb2259038709",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "critical",
+    "content": "Clearing Requirement Determination Under Section 2(h) of the Commodity Exchange Act for Interest Rate Swaps To Account for CAD and MXN Interest Rate Benchmark Transitions. The Commodity Futures Trading Commission (Commission or CFTC) is amending its interest rate swap clearing requirement regulations under applicable p",
+    "tags": [
+      "Banking",
+      "Regulation"
     ],
     "tickers": [
-      "EROC"
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18212/clearing-requirement-determination-under-section-2h-of-the-commodity-exchange-act-for-interest-rate",
+    "published_iso": "2026-09-08T04:00:00+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "73361185623f",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Novick Jared received 2,000,000 shares of Wrap Technologies, Inc. (WRAP) \u00b7 Sep 4",
+    "tags": [],
+    "tickers": [
+      "WRAP"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2138568/000149315226041632/0001493152-26-041632-index.htm",
-    "published_iso": "2026-09-05T00:36:49+00:00",
-    "time_ago": "30m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2006392/000149315226041638/0001493152-26-041638-index.htm",
+    "published_iso": "2026-09-05T01:56:31+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "a49d9faa356a",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Cohen Scot received 4,000,000 shares of Wrap Technologies, Inc. (WRAP) \u00b7 Sep 4",
+    "tags": [],
+    "tickers": [
+      "WRAP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1702924/000149315226041637/0001493152-26-041637-index.htm",
+    "published_iso": "2026-09-05T01:55:51+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "19d39369cc76",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Kandiah Gajakarnan Vibushanan sold 498,728 shares of Rackspace Technology, Inc. (RXT) \u00b7 $3.21/share \u00b7 $1,600,917 total \u00b7 Sep 4",
+    "tags": [],
+    "tickers": [
+      "RXT"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1810019/000168471326000003/0001684713-26-000003-index.htm",
+    "published_iso": "2026-09-05T01:55:19+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "0bcd62052de5",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Roberts Brian K withheld (tax) 3,239 shares of Onto Innovation Inc. (ONTO) \u00b7 $254.55/share \u00b7 $824,487 total \u00b7 Sep 4",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "ONTO"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1259094/000125909426000007/0001259094-26-000007-index.htm",
+    "published_iso": "2026-09-05T01:54:08+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "8b6ffad6a28a",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ainscow Donald George sold 23,678 shares of Asp Isotopes Inc. (ASPI) \u00b7 $3.89/share \u00b7 $92,107 total \u00b7 Sep 4",
+    "tags": [],
+    "tickers": [
+      "ASPI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2079961/000147793226005432/0001477932-26-005432-index.htm",
+    "published_iso": "2026-09-05T01:33:05+00:00",
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "8ef12d680b7e",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ainscow Robert sold 25,000 shares of Asp Isotopes Inc. (ASPI) \u00b7 $3.90/share \u00b7 $97,625 total \u00b7 Sep 4",
+    "tags": [],
+    "tickers": [
+      "ASPI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1951275/000147793226005431/0001477932-26-005431-index.htm",
+    "published_iso": "2026-09-05T01:32:21+00:00",
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "3c3c3c6b0d35",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "De Angoitia Alfonso bought 145,490 shares of Liberty Latin America Ltd. (LILAP) \u00b7 $21.00/share \u00b7 $3,055,275 total \u00b7 Sep 4 ($9,978,488 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "LILAP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1724519/000172451926000010/0001724519-26-000010-index.htm",
+    "published_iso": "2026-09-05T01:31:10+00:00",
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "e8a72851ce18",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Mann Paul Elliot sold 83,758 shares of Asp Isotopes Inc. (ASPI) \u00b7 $3.91/share \u00b7 $327,494 total \u00b7 Sep 4 ($999,237 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "ASPI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1921865/000147793226005430/0001477932-26-005430-index.htm",
+    "published_iso": "2026-09-05T01:30:22+00:00",
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "cda91b5b9f50",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Barrow Robert received 40,000 shares of Definium Therapeutics, Inc. (DFTX) \u00b7 Sep 4 ($721,733 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "DFTX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1897557/000119312526384042/0001193125-26-384042-index.htm",
+    "published_iso": "2026-09-05T01:30:03+00:00",
+    "time_ago": "4h ago"
   },
   {
     "id": "e67515811c69",
@@ -110,141 +284,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/6072728-judge-declines-stars-and-stripes-firing-halt/",
     "published_iso": "2026-09-05T00:00:13+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "c8c862ab7eab",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Kurtz George sold 440 shares of Crowdstrike Holdings, Inc. (CRWD) \u00b7 $201.19/share \u00b7 $88,524 total \u00b7 Sep 4 ($4,164,832 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CRWD"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1778564/000177856426000155/0001778564-26-000155-index.htm",
-    "published_iso": "2026-09-05T00:00:06+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "224939762c3f",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hungate Alexander Charles sold 145,349 shares of Grab Holdings Ltd (GRABW) \u00b7 $3.48/share \u00b7 $506,236 total \u00b7 Sep 4",
-    "tags": [],
-    "tickers": [
-      "GRABW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2026373/000202637326000008/0002026373-26-000008-index.htm",
-    "published_iso": "2026-09-04T23:57:38+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "2426022a1fe3",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Wygant Jonathan withheld (tax) 1,361 shares of Veracyte, Inc. (VCYT) \u00b7 $44.88/share \u00b7 $61,082 total \u00b7 Sep 4",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "VCYT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1584145/000158414526000009/0001584145-26-000009-index.htm",
-    "published_iso": "2026-09-04T23:54:24+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "a08f52a01ba8",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Leite John withheld (tax) 3,961 shares of Veracyte, Inc. (VCYT) \u00b7 $44.88/share \u00b7 $177,770 total \u00b7 Sep 4",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "VCYT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1991536/000199153626000011/0001991536-26-000011-index.htm",
-    "published_iso": "2026-09-04T23:54:18+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "2bc63b5b230b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Febbo Phillip G. withheld (tax) 3,639 shares of Veracyte, Inc. (VCYT) \u00b7 $44.88/share \u00b7 $163,318 total \u00b7 Sep 4 ($727,728 across all blocks)",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "VCYT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1649245/000164924526000009/0001649245-26-000009-index.htm",
-    "published_iso": "2026-09-04T23:54:13+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "11e2dd3a80bc",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Chambers Rebecca withheld (tax) 3,603 shares of Veracyte, Inc. (VCYT) \u00b7 $44.88/share \u00b7 $161,703 total \u00b7 Sep 4 ($319,097 across all blocks)",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "VCYT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1823563/000182356326000016/0001823563-26-000016-index.htm",
-    "published_iso": "2026-09-04T23:54:08+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "d8da34156309",
@@ -263,68 +303,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/newsletters/technology/6072688-how-are-ai-chatbots-answering-voting-questions/",
     "published_iso": "2026-09-04T23:00:22+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "49a74024afbd",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Paul Ryan: Current state of politics 'fundamentally unserious'. Former House Speaker Paul Ryan (R-Wis.) blasted the current state of American politics, arguing that both parties have focused on embracing populism rather than serious efforts to rein in the national debt.  \u201cOur politics are just fundamentally unserious r",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/6072553-paul-ryan-blasts-politics-unserious/",
-    "published_iso": "2026-09-04T21:52:30+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "9bbe53be89bb",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "US economy adds 162,000 jobs in August. Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  August jobs report beats expectations The U.S. economy added 162,000 jobs in August, soaring past expectations and raising the prospect that th",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/business-economy/6072471-us-economy-adds-162000-jobs-in-august/",
-    "published_iso": "2026-09-04T21:00:54+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "ae916e91afa5",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Trump offers first comments on Lindsay Clancy case. President Trump responded Friday to a judge\u2019s decision to declare a mistrial in the Lindsay Clancy murder trial, weighing in for the first time on the legal battle that has captured national attention.  \u201cIt\u2019s a shame. It\u2019s a horrible tragedy,\u201d the president said when ",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6072371-trump-lindsay-clancy-trial-comments-mistrial/",
-    "published_iso": "2026-09-04T20:54:22+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "a390629e2744",
@@ -346,7 +325,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/09/supporting-americas-ranchers/",
     "published_iso": "2026-09-04T19:28:18+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "36b423439703",
@@ -368,7 +347,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/09/promoting-fair-competition-in-livestock-markets-and-expanding-market-access-for-american-meat-producers/",
     "published_iso": "2026-09-04T19:23:49+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "86b446634f4f",
@@ -389,7 +368,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-supports-americas-ranchers/",
     "published_iso": "2026-09-04T19:15:35+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "90d4e44d3b0a",
@@ -411,7 +390,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-promotes-fair-competition-in-livestock-markets-and-expands-market-access-for-american-meat-producers/",
     "published_iso": "2026-09-04T19:15:33+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "47366c40812f",
@@ -432,7 +411,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/09/04/trump-mail-ballots-order-november-elections-01065234",
     "published_iso": "2026-09-04T18:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "6cce72db2aa7",
@@ -458,7 +437,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
     "published_iso": "2026-09-04T15:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "f1c2bcaf99b4",
@@ -477,7 +456,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18194/geographic-targeting-order-imposing-recordkeeping-and-reporting-requirements-on-certain-money",
     "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "cb66a1def252",
@@ -498,7 +477,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18166/drawbridge-operation-regulation-savannah-river-clyo-ga",
     "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "80b437ac8649",
@@ -524,7 +503,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18164/driving-efficiency-in-farm-loan-delivery",
     "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "d6ddfbc0e3b0",
@@ -550,7 +529,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18132/renewable-fuel-standard-rfs-program-extension-of-2025-compliance-reporting-deadline",
     "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "3507eff961fb",
@@ -571,48 +550,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18130/safety-zone-ohio-street-beach-swim-course-lake-michigan-chicago-harbor-chicago-il",
     "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "9aea2c4b9b00",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Revocation of Class E Airspace; Point Pleasant, WV. This action revokes the Class E airspace at Point Pleasant, WV. This action is due to the cancellation of the instrument procedures at Mason County Airport, Point Pleasant, WV. This action brings the airspace into compliance with FAA orders and supports instrument fli",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18126/revocation-of-class-e-airspace-point-pleasant-wv",
-    "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "cf213b292068",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "critical",
-    "content": "Endangered and Threatened Wildlife and Plants; Nine Species Not Warranted for Listing as Endangered or Threatened Species. We, the U.S. Fish and Wildlife Service (Service), announce findings that nine species are not warranted for listing as endangered or threatened species under the Endangered Species Act of 1973, as ",
-    "tags": [],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18123/endangered-and-threatened-wildlife-and-plants-nine-species-not-warranted-for-listing-as-endangered",
-    "published_iso": "2026-09-04T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "e122e52e32f9",
@@ -631,28 +569,6 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h295?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-03T14:24:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "65532fd1caa0",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "List of Approved Spent Fuel Storage Casks: Holtec International HI-STORM Flood/Wind System, Certificate of Compliance No. 1032, Amendment No. 10. The U.S. Nuclear Regulatory Commission (NRC) is confirming the effective date of October 6, 2026, for the direct final rule that was published in the Federal Register on July",
-    "tags": [
-      "Energy",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/09/03/2026-18107/list-of-approved-spent-fuel-storage-casks-holtec-international-hi-storm-floodwind-system-certificate",
-    "published_iso": "2026-09-03T04:00:00+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -676,7 +592,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/09/02/elon-musk-spending-key-races-midterms-01063146",
     "published_iso": "2026-09-03T02:57:19+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "d31698064349",
