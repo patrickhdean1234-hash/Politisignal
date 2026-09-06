@@ -69,7 +69,7 @@
     "time_ago": "just now"
   },
   {
-    "id": "35b1ba3424d3",
+    "id": "dee27e2cdb53",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -78,19 +78,45 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "The hidden cost of losing your community bank: disruptive innovation. If policymakers are serious about sustaining American innovation, they should consider what happens downstream of bank mergers",
+    "content": "Live updates: Airplane overruns Miami runway; Energy secretary downplays rising gas prices as US, Iran trade strikes. An Amazon cargo plane ran off a runway at Miami International Airport on Sunday and struck multiple vehicles. It burst into flames and forced the closure of all runways at the airport. Transportation Se",
     "tags": [
-      "Banking"
+      "Big Tech",
+      "Trade",
+      "Energy",
+      "Sanctions"
+    ],
+    "tickers": [
+      "AMZN"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6073694-live-updates-wright-us-iran-strikes/",
+    "published_iso": "2026-09-06T20:23:28+00:00",
+    "time_ago": "8m ago"
+  },
+  {
+    "id": "08cb5b7f8fa5",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Trump: Canada's currency imbalance with US will be 'no longer'. President Trump said Sunday the U.S. dollar to Canadian dollar \u201cimbalance\u201d is \u201cunacceptable,\u201d two days before Canadian tariffs will go into effect on a slew of American goods. \u201cCanada\u2019s (currency) Dollar imbalance with the U.S. is unacceptable,\u201d Trump wrot",
+    "tags": [
+      "Trade"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/finance/6071850-mega-bank-dominance-risks-growth/",
-    "published_iso": "2026-09-06T17:00:00+00:00",
-    "time_ago": "1h ago"
+    "url": "https://thehill.com/homenews/administration/6074097-trump-calls-canada-dollar-imbalance-unacceptable/",
+    "published_iso": "2026-09-06T20:17:45+00:00",
+    "time_ago": "13m ago"
   },
   {
-    "id": "ef1dc18bbd42",
+    "id": "87863cc7c1c5",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -99,16 +125,47 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Don't\u00a0panic about the national debt \u2014 the US has the wealth to handle it. When the debt is framed as a crushing multiple of one year\u2019s income, the conversation narrows to two unappealing options: cut spending or raise taxes on the wages and salaries ordinary Americans live on. Compare the debt to the country\u2019s total we",
+    "content": "Amazon cargo plane sends up billowing cloud of smoke after overrunning runway at Miami airport. The Federal Aviation Administration said the aircraft overran the runway at around 2 p.m. after heading into Florida from San Juan, Puerto Rico",
     "tags": [
-      "Taxes"
+      "Big Tech",
+      "Regulation"
     ],
-    "tickers": [],
+    "tickers": [
+      "AMZN"
+    ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/finance/6067230-measuring-debt-vs-wealth/",
-    "published_iso": "2026-09-06T16:00:00+00:00",
-    "time_ago": "2h ago"
+    "url": "https://thehill.com/policy/transportation/aviation/6074113-amazon-cargo-plane-sends-up-billowing-cloud-of-smoke-after-overrunning-runway-at-miami-airport/",
+    "published_iso": "2026-09-06T19:56:17+00:00",
+    "time_ago": "35m ago"
+  },
+  {
+    "id": "3dff953130fe",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "critical",
+    "content": "Healthcare over warfare. \n \nMedicare for All. \n \nIt's that simple. \n \n \n Bernie Sanders (@BernieSanders) \n \n We Need Medicare for All More Than Ever \n  \nOver and over again, I hear from critics that moving to Medicare for All is just \u201ctoo expensive.\u201d That is demonstrably untrue. \n  \nBut let me tell you what IS too expe",
+    "tags": [
+      "Trade",
+      "Healthcare",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.jaydenha.uk/RoKhanna/status/2096240088220897483#m",
+    "published_iso": "2026-09-05T14:12:37+00:00",
+    "time_ago": "1d ago"
   },
   {
     "id": "73361185623f",
@@ -321,7 +378,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/09/supporting-americas-ranchers/",
     "published_iso": "2026-09-04T19:28:18+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "36b423439703",
@@ -343,7 +400,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/09/promoting-fair-competition-in-livestock-markets-and-expanding-market-access-for-american-meat-producers/",
     "published_iso": "2026-09-04T19:23:49+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "86b446634f4f",
@@ -364,7 +421,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-supports-americas-ranchers/",
     "published_iso": "2026-09-04T19:15:35+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "90d4e44d3b0a",
@@ -386,7 +443,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-promotes-fair-competition-in-livestock-markets-and-expands-market-access-for-american-meat-producers/",
     "published_iso": "2026-09-04T19:15:33+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "47366c40812f",
@@ -750,7 +807,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h288?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-01T18:20:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "61358ba6419a",
@@ -802,7 +859,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mtz3qdfn7k2j",
     "published_iso": "2026-08-26T19:42:48.781000+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "ce88616fa393",
@@ -872,7 +929,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
     "published_iso": "2026-08-20T20:00:00+00:00",
-    "time_ago": "16d ago"
+    "time_ago": "17d ago"
   },
   {
     "id": "0559c8e7bc33",
@@ -1071,7 +1128,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "45d ago"
+    "time_ago": "46d ago"
   },
   {
     "id": "98b90fd8352a",
@@ -1278,7 +1335,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "164d ago"
+    "time_ago": "165d ago"
   },
   {
     "id": "00f579ee8f55",
