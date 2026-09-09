@@ -1,69 +1,6 @@
 [
   {
-    "id": "06d38478780e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "critical",
-    "content": "Mooney Kyle Owen exercised options for 2,400 shares of Midland States Bancorp, Inc. (MSBIP) \u00b7 $28.43/share \u00b7 $68,232 total \u00b7 Sep 9 ($148,224 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "MSBIP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2099337/000146602626000082/0001466026-26-000082-index.htm",
-    "published_iso": "2026-09-09T13:12:48+00:00",
-    "time_ago": "42m ago"
-  },
-  {
-    "id": "4dd0862f98b5",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Maguire Scott Andrew exercised options for 3,772 shares of On Holding Ag (ONON) \u00b7 Sep 9 ($40,919 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "ONON"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2129772/000212977226000006/0002129772-26-000006-index.htm",
-    "published_iso": "2026-09-09T13:12:44+00:00",
-    "time_ago": "42m ago"
-  },
-  {
-    "id": "c1353d87d95f",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Sluis Frank exercised options for 1,684 shares of On Holding Ag (ONON) \u00b7 Sep 9 ($19,059 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "ONON"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2126576/000212657626000006/0002126576-26-000006-index.htm",
-    "published_iso": "2026-09-09T13:12:12+00:00",
-    "time_ago": "43m ago"
-  },
-  {
-    "id": "fb81d2fb3d20",
+    "id": "e1e0a273fe74",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -72,20 +9,40 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Live updates: GOP candidates join Trump at Dallas midterm convention. Administration officials, Republican candidates and party leaders will join President Trump in Dallas on Wednesday for the opening of a two-day Republican National Committee midterm convention. The president will give a keynote speech to close out th",
+    "content": "More Americans skeptical of government information: Survey. A new poll has found that Americans are more skeptical of information released by the federal government, with majorities saying they have little to no trust in the government. The Associated Press-NORC Center for Public Affairs Research and USAFacts survey re",
     "tags": [
-      "Regulation",
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6077751-live-updates-trump-republican-midterm-convention-dallas/",
-    "published_iso": "2026-09-09T13:05:05+00:00",
-    "time_ago": "50m ago"
+    "url": "https://thehill.com/homenews/administration/6079150-americans-skeptical-government-trust/",
+    "published_iso": "2026-09-09T17:02:53+00:00",
+    "time_ago": "25m ago"
   },
   {
-    "id": "223ebf5281eb",
+    "id": "c27f426401f7",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Treasury Department increases maximum buyback to $6B in effort to lower bond yields. The Treasury Department announced Wednesday it will triple the maximum amount of U.S. government debt it can buy back, as part of its effort to tamp down surging bond yields.\u00a0 The Treasury Department will increase its buyback limit fro",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/6079152-treasury-increases-maximum-buyback-to-6-billion-in-effort-to-lower-bond-yields/",
+    "published_iso": "2026-09-09T16:51:52+00:00",
+    "time_ago": "36m ago"
+  },
+  {
+    "id": "085e673a7f14",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -94,22 +51,16 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Oil rises past $100 a barrel after latest Middle East attacks. Oil prices climbed above $100 a barrel Wednesday for the first time since July as renewed fighting in the Middle East raised concerns about further disruptions to global energy supplies. Brent crude, the global benchmark, jumped nearly 3 percent to $100.72 ",
+    "content": "Holder blasts Blanche over planned GOP convention speech: 'Disgraceful'. Former Attorney General Eric Holder on Tuesday slammed the sitting Department of Justice (DOJ) chief over his decision to address attendees at the Republican National Committee\u2019s (RNC) first midterm convention in Dallas, which kicks off Wednesday.",
     "tags": [
-      "Energy",
       "Taxes"
     ],
-    "tickers": [
-      "XOM",
-      "CVX",
-      "COP",
-      "OXY"
-    ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/energy-environment/6078319-oil-prices-surge-middle-east-conflict/",
-    "published_iso": "2026-09-09T12:58:32+00:00",
-    "time_ago": "56m ago"
+    "url": "https://thehill.com/homenews/administration/6079214-eric-holder-todd-blanche-gop-midterm-convention-speech-critique/",
+    "published_iso": "2026-09-09T16:42:23+00:00",
+    "time_ago": "45m ago"
   },
   {
     "id": "20ba80d8a81c",
@@ -128,7 +79,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18391/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-ocean-perch-in-the-western-aleutian",
     "published_iso": "2026-09-09T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "0e66b0a1b19e",
@@ -150,7 +101,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18380/federal-motor-vehicle-safety-standard-no-213a-child-restraint-systems-side-impact-protection-federal",
     "published_iso": "2026-09-09T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "e99530b1a57c",
@@ -169,7 +120,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18369/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary",
     "published_iso": "2026-09-09T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "502dbc65d78c",
@@ -190,7 +141,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18364/drawbridge-operation-regulation-atlantic-intracoastal-waterway-fort-pierce-fl",
     "published_iso": "2026-09-09T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "729e719e7cc5",
@@ -211,7 +162,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18353/government-in-the-sunshine-act-regulations-technical-amendments",
     "published_iso": "2026-09-09T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "1aaddec07339",
@@ -232,7 +183,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18345/registration-of-lawful-permanent-residence-for-children-born-to-foreign-government-employees-in-the",
     "published_iso": "2026-09-09T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "c7f91ac50e1f",
@@ -253,7 +204,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18337/simplified-geographic-preference-procurement-in-child-nutrition-programs",
     "published_iso": "2026-09-09T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "f8032a8983d5",
@@ -272,7 +223,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18334/air-plan-approvals-indiana-prong-4-visibility-for-the-2015-ozone-national-ambient-air-quality",
     "published_iso": "2026-09-09T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "b3faa6813f5a",
@@ -299,7 +250,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-responds-to-canadas-retaliation/",
     "published_iso": "2026-09-09T01:38:43+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "d5b2ccab8fb8",
@@ -325,7 +276,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mv272a2ens27",
     "published_iso": "2026-09-08T23:39:53.404000+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "8984056742f8",
@@ -346,7 +297,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-accelerates-veterans-access-to-benefits-and-employment-opportunities/",
     "published_iso": "2026-09-08T19:02:42+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "47366c40812f",
@@ -393,7 +344,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
     "published_iso": "2026-09-04T15:00:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "e122e52e32f9",
@@ -412,7 +363,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h295?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-03T14:24:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "59dd6387d8aa",
@@ -573,7 +524,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
     "published_iso": "2026-08-27T15:00:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "ce88616fa393",
@@ -644,7 +595,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "d1faa9166adb",
@@ -670,7 +621,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "306d3c437a72",
@@ -713,7 +664,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/august/road-iowa-america-first-trade-raising-wages-reshoring-jobs-and-restoring-americas-global",
     "published_iso": "2026-08-18T15:02:03+00:00",
-    "time_ago": "21d ago"
+    "time_ago": "22d ago"
   },
   {
     "id": "1b45165ad867",
@@ -739,7 +690,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
     "published_iso": "2026-08-13T15:00:00+00:00",
-    "time_ago": "26d ago"
+    "time_ago": "27d ago"
   },
   {
     "id": "baf26d52584e",
@@ -767,7 +718,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "32d ago"
+    "time_ago": "33d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -796,7 +747,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "47d ago"
+    "time_ago": "48d ago"
   },
   {
     "id": "de38f5381391",
@@ -846,7 +797,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-releases-updated-clarity-act-text/",
     "published_iso": "2026-07-22T16:49:25+00:00",
-    "time_ago": "48d ago"
+    "time_ago": "49d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -933,7 +884,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "120d ago"
+    "time_ago": "121d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -959,7 +910,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "126d ago"
+    "time_ago": "127d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -981,7 +932,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "134d ago"
+    "time_ago": "135d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1045,7 +996,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "207d ago"
+    "time_ago": "208d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1064,7 +1015,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "207d ago"
+    "time_ago": "208d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1090,7 +1041,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "229d ago"
+    "time_ago": "230d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1109,6 +1060,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "266d ago"
+    "time_ago": "267d ago"
   }
 ]
