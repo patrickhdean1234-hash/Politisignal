@@ -1,5 +1,117 @@
 [
   {
+    "id": "06d38478780e",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Mooney Kyle Owen exercised options for 2,400 shares of Midland States Bancorp, Inc. (MSBIP) \u00b7 $28.43/share \u00b7 $68,232 total \u00b7 Sep 9 ($148,224 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "MSBIP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2099337/000146602626000082/0001466026-26-000082-index.htm",
+    "published_iso": "2026-09-09T13:12:48+00:00",
+    "time_ago": "42m ago"
+  },
+  {
+    "id": "4dd0862f98b5",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Maguire Scott Andrew exercised options for 3,772 shares of On Holding Ag (ONON) \u00b7 Sep 9 ($40,919 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "ONON"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2129772/000212977226000006/0002129772-26-000006-index.htm",
+    "published_iso": "2026-09-09T13:12:44+00:00",
+    "time_ago": "42m ago"
+  },
+  {
+    "id": "c1353d87d95f",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Sluis Frank exercised options for 1,684 shares of On Holding Ag (ONON) \u00b7 Sep 9 ($19,059 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "ONON"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2126576/000212657626000006/0002126576-26-000006-index.htm",
+    "published_iso": "2026-09-09T13:12:12+00:00",
+    "time_ago": "43m ago"
+  },
+  {
+    "id": "fb81d2fb3d20",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Live updates: GOP candidates join Trump at Dallas midterm convention. Administration officials, Republican candidates and party leaders will join President Trump in Dallas on Wednesday for the opening of a two-day Republican National Committee midterm convention. The president will give a keynote speech to close out th",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6077751-live-updates-trump-republican-midterm-convention-dallas/",
+    "published_iso": "2026-09-09T13:05:05+00:00",
+    "time_ago": "50m ago"
+  },
+  {
+    "id": "223ebf5281eb",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Oil rises past $100 a barrel after latest Middle East attacks. Oil prices climbed above $100 a barrel Wednesday for the first time since July as renewed fighting in the Middle East raised concerns about further disruptions to global energy supplies. Brent crude, the global benchmark, jumped nearly 3 percent to $100.72 ",
+    "tags": [
+      "Energy",
+      "Taxes"
+    ],
+    "tickers": [
+      "XOM",
+      "CVX",
+      "COP",
+      "OXY"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/energy-environment/6078319-oil-prices-surge-middle-east-conflict/",
+    "published_iso": "2026-09-09T12:58:32+00:00",
+    "time_ago": "56m ago"
+  },
+  {
     "id": "20ba80d8a81c",
     "politician": "Federal Register",
     "initials": "FR",
@@ -16,7 +128,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18391/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-ocean-perch-in-the-western-aleutian",
     "published_iso": "2026-09-09T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "0e66b0a1b19e",
@@ -38,7 +150,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18380/federal-motor-vehicle-safety-standard-no-213a-child-restraint-systems-side-impact-protection-federal",
     "published_iso": "2026-09-09T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "e99530b1a57c",
@@ -57,7 +169,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18369/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary",
     "published_iso": "2026-09-09T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "502dbc65d78c",
@@ -78,7 +190,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18364/drawbridge-operation-regulation-atlantic-intracoastal-waterway-fort-pierce-fl",
     "published_iso": "2026-09-09T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "729e719e7cc5",
@@ -99,7 +211,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18353/government-in-the-sunshine-act-regulations-technical-amendments",
     "published_iso": "2026-09-09T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "1aaddec07339",
@@ -120,7 +232,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18345/registration-of-lawful-permanent-residence-for-children-born-to-foreign-government-employees-in-the",
     "published_iso": "2026-09-09T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "c7f91ac50e1f",
@@ -141,7 +253,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18337/simplified-geographic-preference-procurement-in-child-nutrition-programs",
     "published_iso": "2026-09-09T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "f8032a8983d5",
@@ -160,128 +272,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18334/air-plan-approvals-indiana-prong-4-visibility-for-the-2015-ozone-national-ambient-air-quality",
     "published_iso": "2026-09-09T04:00:00+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "d240bced7e4b",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Charlotte food bank receives 270,000 eggs as part of NC Attorney General's settlement with producers. North Carolina Attorney General Jeff Jackson (D) announced Tuesday that a Charlotte food bank received 270,000 eggs as part of his antitrust settlement with three of the country\u2019s largest egg producers. Second Harvest ",
-    "tags": [
-      "Antitrust",
-      "Banking",
-      "Insider Trade"
-    ],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/state-watch/6077962-egg-producers-antitrust-settlement/",
-    "published_iso": "2026-09-09T03:17:39+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "38c17e205b5c",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Trump banning Canada's dairy products, motorcycles and many alcoholic beverages. President Trump on Tuesday signed executive orders to ban the sale of Canadian dairy products, motor vehicles and many alcoholic beverages in the U.S., as the trade war between the two countries continues. The bans take effect on Sept. 29,",
-    "tags": [
-      "Trade",
-      "Regulation",
-      "Insider Trade"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/6077886-trump-bans-canadian-dairy-vehicles/",
-    "published_iso": "2026-09-09T02:25:52+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "a35d7c5de5d7",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Tsao David converted 20,000 shares of Billiontoone, Inc. (BLLN) \u00b7 Sep 8 ($0 across all blocks)",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [
-      "BLLN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2087127/000208712726000009/0002087127-26-000009-index.htm",
-    "published_iso": "2026-09-09T01:55:50+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "4361bedfb18b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Blumer Brendan Francis received 5,877 shares of Bullish (BLSH) \u00b7 Sep 8",
-    "tags": [],
-    "tickers": [
-      "BLSH"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1955357/000119312526385689/0001193125-26-385689-index.htm",
-    "published_iso": "2026-09-09T01:54:20+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "a9960a91e6ef",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Ratner Steven sold 4,000 shares of Mercury Systems Inc (MRCY) \u00b7 $84.51/share \u00b7 $338,030 total \u00b7 Sep 8",
-    "tags": [],
-    "tickers": [
-      "MRCY"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1995110/000104952126000065/0001049521-26-000065-index.htm",
-    "published_iso": "2026-09-09T01:46:54+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "b3faa6813f5a",
@@ -293,7 +284,7 @@
       "fg": "#e2e8f0"
     },
     "severity": "critical",
-    "content": "Fact Sheet: President Donald J. Trump Responds to Canada\u2019s Retaliation. COUNTERING CANADA\u2019S LATEST RETALIATION AGAINST AMERICAN EXPORTS:\u00a0Today, to address Canada\u2019s increased discrimination against U.S. commerce,\u00a0President Trump signed five Proclamations pursuant to Section 338 of the Tariff Act of 1930 to ban certain p",
+    "content": "Fact Sheet: President Donald J. Trump Responds to Canada\u2019s Retaliation. COUNTERING CANADA\u2019S LATEST RETALIATION AGAINST AMERICAN EXPORTS:\u00a0Today, to address Canada\u2019s increased discrimination against U.S. commerce,\u00a0President Donald J. Trump signed five Proclamations pursuant to Section 338 of the Tariff Act of 1930 to ban",
     "tags": [
       "Trade",
       "Taxes"
@@ -308,49 +299,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-responds-to-canadas-retaliation/",
     "published_iso": "2026-09-09T01:38:43+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "2a6411321d43",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Silver Lake Group, L.L.C. sold 76 shares of Dell Technologies Inc. (DELL) \u00b7 $514.07/share \u00b7 $39,069 total \u00b7 Sep 8 ($434,049 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "DELL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1737657/000119312526385666/0001193125-26-385666-index.htm",
-    "published_iso": "2026-09-09T01:32:59+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "e8c1d839996d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Silver Lake Group, L.L.C. exercised options for 1,531 shares of Dell Technologies Inc. (DELL) \u00b7 Sep 8 ($351,765 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "DELL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1737657/000119312526385664/0001193125-26-385664-index.htm",
-    "published_iso": "2026-09-09T01:32:13+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "d5b2ccab8fb8",
@@ -376,7 +325,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mv272a2ens27",
     "published_iso": "2026-09-08T23:39:53.404000+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "8984056742f8",
@@ -397,7 +346,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-accelerates-veterans-access-to-benefits-and-employment-opportunities/",
     "published_iso": "2026-09-08T19:02:42+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "47366c40812f",
@@ -919,7 +868,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "48d ago"
+    "time_ago": "49d ago"
   },
   {
     "id": "555d7f3dd315",
@@ -1056,7 +1005,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "162d ago"
+    "time_ago": "163d ago"
   },
   {
     "id": "432e035b915b",
