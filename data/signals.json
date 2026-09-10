@@ -1,6 +1,6 @@
 [
   {
-    "id": "0525b4c99be4",
+    "id": "949fd5cbfee4",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,21 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Franks Joshua Allen gifted 3,300 shares of E.L.F. Beauty, Inc. (ELF) \u00b7 Sep 9 ($22,000 across all blocks)",
-    "tags": [],
+    "content": "Shuman-Fabbri Natalia withheld (tax) 2,410 shares of Mistras Group, Inc. (MG) \u00b7 $19.42/share \u00b7 $46,802 total \u00b7 Sep 9",
+    "tags": [
+      "Taxes"
+    ],
     "tickers": [
-      "ELF"
+      "MG"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1797370/000161071726000410/0001610717-26-000410-index.htm",
-    "published_iso": "2026-09-09T22:18:30+00:00",
-    "time_ago": "just now"
+    "url": "https://www.sec.gov/Archives/edgar/data/1585776/000143612626000096/0001436126-26-000096-index.htm",
+    "published_iso": "2026-09-10T00:17:50+00:00",
+    "time_ago": "2m ago"
   },
   {
-    "id": "70385eea4839",
+    "id": "f06101798175",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,17 +32,40 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Grube James bought 10,255 shares of Gamestop Corp. (GME-WT) \u00b7 $19.12/share \u00b7 $196,076 total \u00b7 Sep 9",
+    "content": "Kerr Janet sold 3,653 shares of La-Z-Boy Inc (LZB) \u00b7 $31.75/share \u00b7 $115,999 total \u00b7 Sep 9",
     "tags": [],
-    "tickers": [],
+    "tickers": [
+      "LZB"
+    ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1840480/000184048026000002/0001840480-26-000002-index.htm",
-    "published_iso": "2026-09-09T22:17:40+00:00",
-    "time_ago": "1m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1286334/000128633426000005/0001286334-26-000005-index.htm",
+    "published_iso": "2026-09-10T00:06:03+00:00",
+    "time_ago": "14m ago"
   },
   {
-    "id": "65b2b95fa9ea",
+    "id": "7c6a7fc86961",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Kurtz George sold 2,069 shares of Crowdstrike Holdings, Inc. (CRWD) \u00b7 $212.32/share \u00b7 $439,290 total \u00b7 Sep 9 ($4,225,561 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "CRWD"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1778564/000177856426000157/0001778564-26-000157-index.htm",
+    "published_iso": "2026-09-10T00:00:06+00:00",
+    "time_ago": "20m ago"
+  },
+  {
+    "id": "93eafb95ea7b",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -48,187 +73,86 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "high",
-    "content": "Lawmakers sound alarm on AI dangers after Anthropic researchers' warning. Lawmakers from both political parties expressed concern on Wednesday after several current and former researchers at the artificial intelligence company Anthropic issued stark warnings about this developing technology.  Jacob Coxon, a former rese",
+    "severity": "medium",
+    "content": "Apple's foldable phone takes center stage. {beacon} Technology Technology &#8202; The Big Story  Apple unveils foldable phone as Ternus takes stage Apple rolled out its next generation of the iPhone, AirPod and Apple Watch, with the company\u2019s first-ever foldable smartphone taking center stage on Wednesday. \u00a9 AP Photo/J",
     "tags": [
-      "Regulation"
+      "Big Tech",
+      "Taxes"
     ],
-    "tickers": [],
+    "tickers": [
+      "AAPL"
+    ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/6080316-lawmakers-ai-safety-warnings/",
-    "published_iso": "2026-09-09T22:14:11+00:00",
-    "time_ago": "5m ago"
+    "url": "https://thehill.com/newsletters/technology/6080421-apples-foldable-phone-takes-center-stage/",
+    "published_iso": "2026-09-09T23:05:21+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "4edfc62b84d2",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "8360fa99cb31",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
     },
-    "severity": "medium",
-    "content": "Mcgee Susan B exercised options for 12,500 shares of Hive Digital Technologies Ltd. (HIVE) \u00b7 Sep 9",
-    "tags": [],
-    "tickers": [
-      "HIVE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1720424/000106299326004871/0001062993-26-004871-index.htm",
-    "published_iso": "2026-09-09T22:13:34+00:00",
-    "time_ago": "5m ago"
-  },
-  {
-    "id": "982332a06e01",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Fidelity & Guaranty Life Insurance Co sold 126,436 shares of Crescent Capital Bdc, Inc. (CCAP) \u00b7 $10.33/share \u00b7 $1,306,362 total \u00b7 Sep 9 ($2,728,718 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CCAP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1633336/000085424126000007/0000854241-26-000007-index.htm",
-    "published_iso": "2026-09-09T22:08:05+00:00",
-    "time_ago": "11m ago"
-  },
-  {
-    "id": "4f424823ce3f",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Schreiber Jason K sold 21,417 shares of Cim Group, Inc. (CMRF) \u00b7 $5.14/share \u00b7 $110,082 total \u00b7 Sep 9",
-    "tags": [],
-    "tickers": [
-      "CMRF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1923525/000149854726000058/0001498547-26-000058-index.htm",
-    "published_iso": "2026-09-09T22:07:58+00:00",
-    "time_ago": "11m ago"
-  },
-  {
-    "id": "9a4609f3abf7",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Ressler Richard S bought 526,808 shares of Cim Group, Inc. (CMRF) \u00b7 $5.14/share \u00b7 $2,707,794 total \u00b7 Sep 9",
-    "tags": [],
-    "tickers": [
-      "CMRF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1498547/000149854726000057/0001498547-26-000057-index.htm",
-    "published_iso": "2026-09-09T22:07:50+00:00",
-    "time_ago": "11m ago"
-  },
-  {
-    "id": "993a87d7fa4d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Puri Sumeet exercised options for 68,333 shares of Eos Energy Enterprises, Inc. (EOSEW) \u00b7 Sep 9 ($141,110 across all blocks)",
-    "tags": [
-      "Energy"
-    ],
-    "tickers": [
-      "EOSEW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1991521/000162828026061188/0001628280-26-061188-index.htm",
-    "published_iso": "2026-09-09T22:05:04+00:00",
-    "time_ago": "14m ago"
-  },
-  {
-    "id": "fcae05ca9469",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Brisbin Thomas Donald exercised options for 3,439 shares of Willdan Group, Inc. (WLDN) \u00b7 $16.27/share \u00b7 $55,953 total \u00b7 Sep 9 ($359,238 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "WLDN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1395188/000139518826000008/0001395188-26-000008-index.htm",
-    "published_iso": "2026-09-09T22:01:07+00:00",
-    "time_ago": "18m ago"
-  },
-  {
-    "id": "97a6804ab2e8",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Puccio Richard C Jr sold 1,500 shares of Analog Devices Inc (ADI) \u00b7 $363.65/share \u00b7 $545,475 total \u00b7 Sep 9",
-    "tags": [],
-    "tickers": [
-      "ADI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2009110/000200911026000007/0002009110-26-000007-index.htm",
-    "published_iso": "2026-09-09T21:57:24+00:00",
-    "time_ago": "22m ago"
-  },
-  {
-    "id": "d5e9142c7bf0",
-    "politician": "Rep. Mike Johnson",
-    "initials": "MJ",
-    "role": "Speaker of the House",
-    "color": {
-      "bg": "#2a1a1a",
-      "fg": "#fbbf24"
-    },
-    "severity": "critical",
-    "content": "Thanks to the Working Families Tax Cuts, hardworking Americans are keeping MORE of the MONEY they earn. \n \nWhile Republicans cut your taxes and put American workers FIRST, Democrats voted for the LARGEST TAX HIKE in history! \n \n \n The White House (@WhiteHouse) \n \n More money in your pockets. \ud83d\udcb0 \n \n\n\n \n \n\u2014   http://nitte",
+    "severity": "low",
+    "content": "First Lady Melania Trump\u2019s Personal Vision to Preserve America\u2019s Story Through Superior Design. First Lady Melania Trump shared her forward-looking vision on the generational significance of institutional design, declaring that, \u201cThe White House stands as an architectural autobiography of America, embodying the endurin",
     "tags": [
       "Taxes"
     ],
     "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trumps-personal-vision-to-preserve-americas-story-through/",
+    "published_iso": "2026-09-09T22:59:40+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "f375632f2116",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Apple unveils foldable phone as Ternus takes stage: 5 takeaways. Apple rolled out its next generation of the iPhone, AirPod and Apple Watch, with the company\u2019s first-ever foldable smartphone taking center stage on Wednesday. The \"Surprise and Shine\u201d event marked John Ternus\u2019s first public appearance as Apple's new chie",
+    "tags": [
+      "Big Tech",
+      "Taxes"
+    ],
+    "tickers": [
+      "AAPL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/6080164-apple-unveils-foldable-iphone-duo-ternus-debut/",
+    "published_iso": "2026-09-09T22:31:49+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "c3119cc89ac6",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "medium",
+    "content": "On May 7, 2020, the CIA briefed former FDA commissioner and Pfizer board member Scott Gottlieb. The record shows herd immunity was already being discussed at a level far higher than what officials told the public. \n \nTwo months into lockdowns, Americans were being told a different story than the one happening behind cl",
+    "tags": [],
+    "tickers": [
+      "PFE"
+    ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "http://nitter.jaydenha.uk/SpeakerJohnson/status/2097692457123065986#m",
-    "published_iso": "2026-09-09T14:23:49+00:00",
-    "time_ago": "7h ago"
+    "url": "http://nitter.jaydenha.uk/RandPaul/status/2097801217858838958#m",
+    "published_iso": "2026-09-09T21:36:00+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "20ba80d8a81c",
@@ -247,7 +171,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18391/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-ocean-perch-in-the-western-aleutian",
     "published_iso": "2026-09-09T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "0e66b0a1b19e",
@@ -269,7 +193,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18380/federal-motor-vehicle-safety-standard-no-213a-child-restraint-systems-side-impact-protection-federal",
     "published_iso": "2026-09-09T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "e99530b1a57c",
@@ -288,7 +212,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18369/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary",
     "published_iso": "2026-09-09T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "502dbc65d78c",
@@ -309,7 +233,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18364/drawbridge-operation-regulation-atlantic-intracoastal-waterway-fort-pierce-fl",
     "published_iso": "2026-09-09T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "729e719e7cc5",
@@ -330,7 +254,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18353/government-in-the-sunshine-act-regulations-technical-amendments",
     "published_iso": "2026-09-09T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "1aaddec07339",
@@ -351,7 +275,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18345/registration-of-lawful-permanent-residence-for-children-born-to-foreign-government-employees-in-the",
     "published_iso": "2026-09-09T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "c7f91ac50e1f",
@@ -372,7 +296,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18337/simplified-geographic-preference-procurement-in-child-nutrition-programs",
     "published_iso": "2026-09-09T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "f8032a8983d5",
@@ -391,7 +315,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18334/air-plan-approvals-indiana-prong-4-visibility-for-the-2015-ozone-national-ambient-air-quality",
     "published_iso": "2026-09-09T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "b3faa6813f5a",
@@ -418,75 +342,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-responds-to-canadas-retaliation/",
     "published_iso": "2026-09-09T01:38:43+00:00",
-    "time_ago": "20h ago"
-  },
-  {
-    "id": "309489679874",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "What  @Teamsters  Local 25 and  @UNITEHERE26  are striking for is so reasonable. A $10 raise over three years. Inflation is higher than that. They are just trying to keep up. \n \nWhat is the Democratic Party without standing with organized labor? We can\u2019t fix our economy without putting workers first. \n \nProud to stand ",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nitter.jaydenha.uk/RoKhanna/status/2097458651363414414#m",
-    "published_iso": "2026-09-08T22:54:46+00:00",
-    "time_ago": "23h ago"
-  },
-  {
-    "id": "4568ea92d681",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "critical",
-    "content": "The UK has taken an important moral step in imposing sanctions and a trade ban on Israel\u2019s illegal settlements.  \n \nThe next American President must do the same and recognize a Palestinian state. \n \n \n Ed Miliband (@Ed_Miliband) \n \n The UK will stand up for what is right. \n \n Video \n   \n \n\n\n \n \n\u2014   http://nitter.jayden",
-    "tags": [
-      "Trade",
-      "Sanctions"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nitter.jaydenha.uk/RoKhanna/status/2097443704986300919#m",
-    "published_iso": "2026-09-08T21:55:22+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "8984056742f8",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "Fact Sheet: President Donald J. Trump Accelerates Veterans\u2019 Access to Benefits and Employment Opportunities. EXPANDING ACCESS AND CREATING OPPORTUNITY:&#160;Today, President Donald J. Trump signed an Executive Order to modernize data management and data sharing between the Departments of War and Veterans Affairs in ord",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-accelerates-veterans-access-to-benefits-and-employment-opportunities/",
-    "published_iso": "2026-09-08T19:02:42+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "47366c40812f",
@@ -507,32 +363,6 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/09/04/trump-mail-ballots-order-november-elections-01065234",
     "published_iso": "2026-09-04T18:00:00+00:00",
-    "time_ago": "5d ago"
-  },
-  {
-    "id": "6cce72db2aa7",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.. Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
-    "published_iso": "2026-09-04T15:00:00+00:00",
     "time_ago": "5d ago"
   },
   {
@@ -690,148 +520,6 @@
     "time_ago": "8d ago"
   },
   {
-    "id": "61358ba6419a",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico. Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
-    "published_iso": "2026-08-27T15:00:00+00:00",
-    "time_ago": "13d ago"
-  },
-  {
-    "id": "ce88616fa393",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026. Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
-    "tags": [],
-    "tickers": [],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
-    "published_iso": "2026-08-25T18:00:00+00:00",
-    "time_ago": "15d ago"
-  },
-  {
-    "id": "f281bf40952f",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board announces approval of application by National Westminster Bank Plc. Federal Reserve Board announces approval of application by National Westminster Bank Plc",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
-    "published_iso": "2026-08-20T20:00:00+00:00",
-    "time_ago": "20d ago"
-  },
-  {
-    "id": "0559c8e7bc33",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch. Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of ",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
-    "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "20d ago"
-  },
-  {
-    "id": "d1faa9166adb",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank. Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
-    "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "20d ago"
-  },
-  {
-    "id": "306d3c437a72",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "Minutes of the Federal Open Market Committee, July 28\u201329, 2026. Minutes of the Federal Open Market Committee, July 28\u201329, 2026",
-    "tags": [],
-    "tickers": [],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
-    "published_iso": "2026-08-19T18:00:00+00:00",
-    "time_ago": "21d ago"
-  },
-  {
     "id": "f436afccee25",
     "politician": "U.S. Trade Rep.",
     "initials": "USTR",
@@ -854,32 +542,6 @@
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/august/road-iowa-america-first-trade-raising-wages-reshoring-jobs-and-restoring-americas-global",
     "published_iso": "2026-08-18T15:02:03+00:00",
     "time_ago": "22d ago"
-  },
-  {
-    "id": "1b45165ad867",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board issues enforcement action with former employee of Regions Bank. Federal Reserve Board issues enforcement action with former employee of Regions Bank",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
-    "published_iso": "2026-08-13T15:00:00+00:00",
-    "time_ago": "27d ago"
   },
   {
     "id": "baf26d52584e",
@@ -908,27 +570,6 @@
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
     "time_ago": "33d ago"
-  },
-  {
-    "id": "1a1d646c1e56",
-    "politician": "Rep. Alexandria Ocasio-Cortez",
-    "initials": "AOC",
-    "role": "House Financial Services Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#93c5fd"
-    },
-    "severity": "high",
-    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nitter.jaydenha.uk/AOC/status/2085006319220625569#m",
-    "published_iso": "2026-08-05T14:13:38+00:00",
-    "time_ago": "35d ago"
   },
   {
     "id": "6e187954d9ee",
