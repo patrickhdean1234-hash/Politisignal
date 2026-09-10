@@ -1,27 +1,69 @@
 [
   {
-    "id": "53049415c6b4",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "2b4ea0d02a31",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Trump on convention crowd booing Thune: 'No, no. John is working hard'. President Trump on Wednesday told the crowd at the Republican National Committee's (RNC) first midterm convention in Dallas not to boo the absent Senate Majority Leader John Thune (R-S.D.), telling them that \"John is working hard.\" Trump mentioned ",
-    "tags": [
-      "Taxes"
+    "content": "Rutledge Napoleon B Jr sold 111 shares of Mckesson Corp (MCK) \u00b7 $891.45/share \u00b7 $98,951 total \u00b7 Sep 10",
+    "tags": [],
+    "tickers": [
+      "MCK"
     ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/6081006-donald-trump-john-thune-gop-midterm-convention-criticism/",
-    "published_iso": "2026-09-10T12:32:01+00:00",
-    "time_ago": "1h ago"
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1848123/000092765326000249/0000927653-26-000249-index.htm",
+    "published_iso": "2026-09-10T17:13:01+00:00",
+    "time_ago": "just now"
   },
   {
-    "id": "685ff9384dfd",
+    "id": "e614c8bf7808",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Archer Timothy exercised options for 30,000 shares of Lam Research Corp (LRCX) \u00b7 $30.03/share \u00b7 $900,990 total \u00b7 Sep 10 ($10,478,790 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "LRCX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1343600/000134360026000013/0001343600-26-000013-index.htm",
+    "published_iso": "2026-09-10T17:05:21+00:00",
+    "time_ago": "8m ago"
+  },
+  {
+    "id": "d14ea237eeef",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Mayer Bethany sold 9,557 shares of Lam Research Corp (LRCX) \u00b7 $314.74/share \u00b7 $3,007,970 total \u00b7 Sep 10",
+    "tags": [],
+    "tickers": [
+      "LRCX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1405693/000140569326000011/0001405693-26-000011-index.htm",
+    "published_iso": "2026-09-10T17:04:25+00:00",
+    "time_ago": "9m ago"
+  },
+  {
+    "id": "abf0aef18844",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -29,17 +71,62 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Bet on it: The Trumps' ties to prediction markets will become the IRS's problem. The IRS has remained uncharacteristically reticent on the associated tax implications of such transactions",
+    "severity": "critical",
+    "content": "The House must act to cut Putin's Arctic gas lifeline. The bipartisan Lindsey O. Graham Sanctioning Russia and Iran Act passed the Senate, potentially allowing the U.S. government to block the specialized tankers used by Russia to export liquefied natural gas from the Yamal peninsula to Europe",
+    "tags": [
+      "Trade",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/international/6080599-graham-act-yamal-arctic-tankers/",
+    "published_iso": "2026-09-10T16:30:00+00:00",
+    "time_ago": "43m ago"
+  },
+  {
+    "id": "72b88fc1cf70",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "5 things to know about Trump's $5K dividend pledge. President Trump pledged Wednesday to dole out $5,000 dividends to U.S. adults only if Republicans keep their control of Congress after the fall midterm elections, the latest financial promise he has made across his two presidencies. The president announced the propose",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6081142-trump-pledges-five-thousand-dividends/",
+    "published_iso": "2026-09-10T16:25:32+00:00",
+    "time_ago": "48m ago"
+  },
+  {
+    "id": "80e962102784",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "high",
+    "content": "Fact Sheet: President Donald J. Trump Announces the Working Families Obamacare Refunds. RETURNING BIDEN OVERCHARGES TO WORKING FAMILIES:&#160;Today, President Donald J. Trump announced that the federal government will return to the American people hundreds of millions in Obamacare overcharges, collected by the Biden Ad",
     "tags": [
       "Taxes"
     ],
     "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/finance/6078912-irs-silence-polymarket-kalshi/",
-    "published_iso": "2026-09-10T12:30:00+00:00",
-    "time_ago": "1h ago"
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-announces-the-working-families-obamacare-refunds/",
+    "published_iso": "2026-09-10T14:06:53+00:00",
+    "time_ago": "3h ago"
   },
   {
     "id": "b05e88fa47ca",
@@ -60,7 +147,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18492/special-local-regulation-southern-california-annual-marine-events-for-the-san-diego-captain-of-the",
     "published_iso": "2026-09-10T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "b419b459fcc9",
@@ -81,7 +168,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18478/telecommunications-relay-service-ascii-format-requirement",
     "published_iso": "2026-09-10T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "39b48785e739",
@@ -103,7 +190,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18463/special-local-regulations-marine-events-within-the-uscg-east-district-ocean-city-nj",
     "published_iso": "2026-09-10T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "22cce63660e8",
@@ -125,7 +212,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18461/iranian-transactions-and-sanctions-regulations",
     "published_iso": "2026-09-10T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "24f82ada9510",
@@ -147,7 +234,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18437/amendment-of-class-d-and-class-e-airspace-and-establishment-of-class-e-airspace-clovis-nm-and",
     "published_iso": "2026-09-10T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "6f87ebb0a3de",
@@ -168,7 +255,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18433/medical-devices-cardiovascular-devices-classification-of-the-mechanical-deviation-device-for",
     "published_iso": "2026-09-10T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "d727a2f8546e",
@@ -190,7 +277,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18432/medical-devices-cardiovascular-devices-classification-of-the-temperature-regulation-device-for",
     "published_iso": "2026-09-10T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "49ace3cea22a",
@@ -211,7 +298,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18431/medical-devices-cardiovascular-devices-classification-of-the-extravascular-support-for-an",
     "published_iso": "2026-09-10T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "76e81fab5697",
@@ -234,7 +321,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/09/09/dan-mckee-loses-rhode-island-primary-01069983",
     "published_iso": "2026-09-10T00:25:46+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "8360fa99cb31",
@@ -255,7 +342,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trumps-personal-vision-to-preserve-americas-story-through/",
     "published_iso": "2026-09-09T22:59:40+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "b3faa6813f5a",
@@ -308,7 +395,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
     "published_iso": "2026-09-04T15:00:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "e122e52e32f9",
@@ -327,7 +414,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h295?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-03T14:24:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "59dd6387d8aa",
@@ -488,7 +575,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
     "published_iso": "2026-08-27T15:00:00+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "ce88616fa393",
@@ -559,7 +646,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "20d ago"
+    "time_ago": "21d ago"
   },
   {
     "id": "d1faa9166adb",
@@ -585,7 +672,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "20d ago"
+    "time_ago": "21d ago"
   },
   {
     "id": "306d3c437a72",
@@ -628,7 +715,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/august/road-iowa-america-first-trade-raising-wages-reshoring-jobs-and-restoring-americas-global",
     "published_iso": "2026-08-18T15:02:03+00:00",
-    "time_ago": "22d ago"
+    "time_ago": "23d ago"
   },
   {
     "id": "1b45165ad867",
@@ -654,7 +741,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
     "published_iso": "2026-08-13T15:00:00+00:00",
-    "time_ago": "27d ago"
+    "time_ago": "28d ago"
   },
   {
     "id": "baf26d52584e",
@@ -682,7 +769,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "33d ago"
+    "time_ago": "34d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -711,7 +798,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "48d ago"
+    "time_ago": "49d ago"
   },
   {
     "id": "de38f5381391",
@@ -761,7 +848,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-releases-updated-clarity-act-text/",
     "published_iso": "2026-07-22T16:49:25+00:00",
-    "time_ago": "49d ago"
+    "time_ago": "50d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -848,7 +935,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "121d ago"
+    "time_ago": "122d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -874,7 +961,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "127d ago"
+    "time_ago": "128d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -896,7 +983,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "135d ago"
+    "time_ago": "136d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -920,7 +1007,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "163d ago"
+    "time_ago": "164d ago"
   },
   {
     "id": "432e035b915b",
@@ -960,7 +1047,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "208d ago"
+    "time_ago": "209d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -979,7 +1066,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "208d ago"
+    "time_ago": "209d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1005,7 +1092,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "230d ago"
+    "time_ago": "231d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1024,6 +1111,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "267d ago"
+    "time_ago": "268d ago"
   }
 ]
