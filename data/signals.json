@@ -1,6 +1,6 @@
 [
   {
-    "id": "2b4ea0d02a31",
+    "id": "14587292c5d5",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Rutledge Napoleon B Jr sold 111 shares of Mckesson Corp (MCK) \u00b7 $891.45/share \u00b7 $98,951 total \u00b7 Sep 10",
+    "content": "Jonas Michael C exercised options for 4,233 shares of Zedge, Inc. (ZDGE) \u00b7 Sep 10",
     "tags": [],
     "tickers": [
-      "MCK"
+      "ZDGE"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1848123/000092765326000249/0000927653-26-000249-index.htm",
-    "published_iso": "2026-09-10T17:13:01+00:00",
-    "time_ago": "just now"
+    "url": "https://www.sec.gov/Archives/edgar/data/1667313/000119312526387805/0001193125-26-387805-index.htm",
+    "published_iso": "2026-09-10T19:42:28+00:00",
+    "time_ago": "1m ago"
   },
   {
-    "id": "e614c8bf7808",
+    "id": "e53ccf15cc42",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,19 +30,21 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Archer Timothy exercised options for 30,000 shares of Lam Research Corp (LRCX) \u00b7 $30.03/share \u00b7 $900,990 total \u00b7 Sep 10 ($10,478,790 across all blocks)",
-    "tags": [],
+    "content": "Delsanto Anne sold 265 shares of Advanced Energy Industries Inc (AEIS) \u00b7 $288.14/share \u00b7 $76,357 total \u00b7 Sep 10",
+    "tags": [
+      "Energy"
+    ],
     "tickers": [
-      "LRCX"
+      "AEIS"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1343600/000134360026000013/0001343600-26-000013-index.htm",
-    "published_iso": "2026-09-10T17:05:21+00:00",
-    "time_ago": "8m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1770310/000177031026000012/0001770310-26-000012-index.htm",
+    "published_iso": "2026-09-10T19:38:43+00:00",
+    "time_ago": "4m ago"
   },
   {
-    "id": "d14ea237eeef",
+    "id": "67330a196ff2",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -51,19 +53,42 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Mayer Bethany sold 9,557 shares of Lam Research Corp (LRCX) \u00b7 $314.74/share \u00b7 $3,007,970 total \u00b7 Sep 10",
-    "tags": [],
+    "content": "Hurt Clint sold 6,000 shares of Primeenergy Resources Corp (PNRG) \u00b7 $220.44/share \u00b7 $1,322,640 total \u00b7 Sep 10",
+    "tags": [
+      "Energy"
+    ],
     "tickers": [
-      "LRCX"
+      "PNRG"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1405693/000140569326000011/0001405693-26-000011-index.htm",
-    "published_iso": "2026-09-10T17:04:25+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/947836/000143774926030061/0001437749-26-030061-index.htm",
+    "published_iso": "2026-09-10T19:37:52+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "36060723322f",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Broccole Carmine Joseph sold 5,250 shares of Standard Motor Products, Inc. (SMP) \u00b7 $39.24/share \u00b7 $206,010 total \u00b7 Sep 10",
+    "tags": [],
+    "tickers": [
+      "SMP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1351057/000009338926000091/0000093389-26-000091-index.htm",
+    "published_iso": "2026-09-10T19:33:49+00:00",
     "time_ago": "9m ago"
   },
   {
-    "id": "abf0aef18844",
+    "id": "a17ad733be56",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -71,25 +96,20 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "critical",
-    "content": "The House must act to cut Putin's Arctic gas lifeline. The bipartisan Lindsey O. Graham Sanctioning Russia and Iran Act passed the Senate, potentially allowing the U.S. government to block the specialized tankers used by Russia to export liquefied natural gas from the Yamal peninsula to Europe",
+    "severity": "low",
+    "content": "Watch live: Vance, Trump to close out Day 2 of RNC midterm convention. Vice President Vance is giving the keynote address Thursday evening at the first-ever GOP midterm convention in Dallas. President Trump will close out the two-day event after Vance. Trump on Wednesday made a vow to provide $5,000 dividend checks to ",
     "tags": [
-      "Trade",
-      "Sanctions"
+      "Taxes"
     ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/international/6080599-graham-act-yamal-arctic-tankers/",
-    "published_iso": "2026-09-10T16:30:00+00:00",
+    "url": "https://thehill.com/video-clips/6082172-watch-live-jd-vance-donald-trump-gop-midterm-convention-2026-dallas/",
+    "published_iso": "2026-09-10T19:00:00+00:00",
     "time_ago": "43m ago"
   },
   {
-    "id": "72b88fc1cf70",
+    "id": "ff47336333d4",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -98,14 +118,61 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "5 things to know about Trump's $5K dividend pledge. President Trump pledged Wednesday to dole out $5,000 dividends to U.S. adults only if Republicans keep their control of Congress after the fall midterm elections, the latest financial promise he has made across his two presidencies. The president announced the propose",
+    "content": "Trump defends timing of $5,000 dividend announcement. President Trump defended the timing of his proposal to give every U.S. adult a $5,000 dividend \u2014 but only if Republicans maintain their majorities in the House and the Senate.\u00a0 \"Why not just give the money now? If you have the money, why not give it now?\" Fox News's",
     "tags": [],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6081142-trump-pledges-five-thousand-dividends/",
-    "published_iso": "2026-09-10T16:25:32+00:00",
-    "time_ago": "48m ago"
+    "url": "https://thehill.com/homenews/administration/6082670-trump-defends-five-thousand-dividend/",
+    "published_iso": "2026-09-10T18:40:06+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "ea09baf153ab",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Record high September gas prices. War in the Middle East. Massive food recalls. Interest rates skyrocketing, raising mortgage costs.\n \nThis is America under Trump.",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mv6nnkmeu22b",
+    "published_iso": "2026-09-10T18:11:53.352000+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "7fa0992fc98d",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "high",
+    "content": "Trump Dividend: America Is Winning \u2014 and Americans Should Win With It. Last night, President Donald J. Trump unveiled the Trump Dividend \u2014 a historic $5,000 cash payment to every adult American citizen, made possible by the strength of the American economy under his leadership. The announcement is the latest proof that",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/09/trump-dividend-america-is-winning-and-americans-should-win-with-it/",
+    "published_iso": "2026-09-10T17:56:28+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "80e962102784",
@@ -126,7 +193,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-announces-the-working-families-obamacare-refunds/",
     "published_iso": "2026-09-10T14:06:53+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "b05e88fa47ca",
@@ -147,7 +214,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18492/special-local-regulation-southern-california-annual-marine-events-for-the-san-diego-captain-of-the",
     "published_iso": "2026-09-10T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "b419b459fcc9",
@@ -168,7 +235,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18478/telecommunications-relay-service-ascii-format-requirement",
     "published_iso": "2026-09-10T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "39b48785e739",
@@ -190,7 +257,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18463/special-local-regulations-marine-events-within-the-uscg-east-district-ocean-city-nj",
     "published_iso": "2026-09-10T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "22cce63660e8",
@@ -212,7 +279,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18461/iranian-transactions-and-sanctions-regulations",
     "published_iso": "2026-09-10T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "24f82ada9510",
@@ -234,7 +301,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18437/amendment-of-class-d-and-class-e-airspace-and-establishment-of-class-e-airspace-clovis-nm-and",
     "published_iso": "2026-09-10T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "6f87ebb0a3de",
@@ -255,7 +322,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18433/medical-devices-cardiovascular-devices-classification-of-the-mechanical-deviation-device-for",
     "published_iso": "2026-09-10T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "d727a2f8546e",
@@ -277,7 +344,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18432/medical-devices-cardiovascular-devices-classification-of-the-temperature-regulation-device-for",
     "published_iso": "2026-09-10T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "49ace3cea22a",
@@ -298,7 +365,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18431/medical-devices-cardiovascular-devices-classification-of-the-extravascular-support-for-an",
     "published_iso": "2026-09-10T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "76e81fab5697",
@@ -321,7 +388,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/09/09/dan-mckee-loses-rhode-island-primary-01069983",
     "published_iso": "2026-09-10T00:25:46+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "8360fa99cb31",
@@ -342,7 +409,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trumps-personal-vision-to-preserve-americas-story-through/",
     "published_iso": "2026-09-09T22:59:40+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "b3faa6813f5a",
@@ -549,7 +616,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h288?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-01T18:20:00+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "61358ba6419a",
@@ -594,7 +661,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
     "published_iso": "2026-08-25T18:00:00+00:00",
-    "time_ago": "15d ago"
+    "time_ago": "16d ago"
   },
   {
     "id": "f281bf40952f",
@@ -691,7 +758,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
     "published_iso": "2026-08-19T18:00:00+00:00",
-    "time_ago": "21d ago"
+    "time_ago": "22d ago"
   },
   {
     "id": "f436afccee25",
@@ -819,7 +886,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "49d ago"
+    "time_ago": "50d ago"
   },
   {
     "id": "98b90fd8352a",
@@ -1026,7 +1093,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "168d ago"
+    "time_ago": "169d ago"
   },
   {
     "id": "00f579ee8f55",
