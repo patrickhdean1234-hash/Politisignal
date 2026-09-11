@@ -1,6 +1,6 @@
 [
   {
-    "id": "0277c33a575b",
+    "id": "945ed107fea3",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Korczynski Sherry exercised options for 8,750 shares of Aquestive Therapeutics, Inc. (AQST) \u00b7 $2.65/share \u00b7 $23,188 total \u00b7 Sep 11 ($68,862 across all blocks)",
+    "content": "Mcquade Kathryn B. bought 1,500 shares of Altria Group, Inc. (MO) \u00b7 $67.62/share \u00b7 $101,430 total \u00b7 Sep 11",
     "tags": [],
     "tickers": [
-      "AQST"
+      "MO"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2026090/000121465926011596/0001214659-26-011596-index.htm",
-    "published_iso": "2026-09-11T15:07:53+00:00",
-    "time_ago": "6m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1187182/000076418026000102/0000764180-26-000102-index.htm",
+    "published_iso": "2026-09-11T18:32:31+00:00",
+    "time_ago": "3m ago"
   },
   {
-    "id": "89918d3b3b7a",
+    "id": "6b0661e52dda",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -30,17 +30,19 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Bret Baier presses Paxton on Trump $5K dividend payment support. Fox News host Bret Baier questioned Texas Attorney General and U.S. Senate nominee Ken Paxton (R) on Thursday over his support for President Trump\u2019s new controversial \u201cTrump dividend\u201d proposal. At the GOP\u2019s midterm convention in Dallas this week, the pres",
-    "tags": [],
+    "content": "Cruz on $5K dividend: 'I don't think we should be paying people that are not working'. Sen. Ted Cruz (Texas), a prominent conservative voice in the Senate GOP conference, says he\u2019s willing to support President Trump\u2019s proposal to give $5,000 dividend payments to U.S. adults provided that they are structured as tax refu",
+    "tags": [
+      "Taxes"
+    ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/6084598-bret-baier-ken-paxton-trump-dividend-texas-senate/",
-    "published_iso": "2026-09-11T15:02:25+00:00",
-    "time_ago": "11m ago"
+    "url": "https://thehill.com/homenews/senate/6084980-ted-cruz-trump-dividend/",
+    "published_iso": "2026-09-11T18:02:48+00:00",
+    "time_ago": "33m ago"
   },
   {
-    "id": "d979d5bd1ee8",
+    "id": "83b2a23c6c46",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -49,16 +51,89 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Carney: Latest Trump trade moves 'relatively modest'. Canadian Prime Minister Mark Carney said Thursday that President Trump\u2019s latest round of tariffs is \u201crelatively modest\u201d compared with the United States's past moves.\u00a0 When talking with reporters at a Cabinet retreat in Banff, Alberta, Carney was asked if Canada was ",
+    "content": "House to take up Russia sanctions bill next week. The House is set to take up legislation next week aimed at imposing tougher sanctions on Russia, after the measure cleared the Senate with overwhelming bipartisan support last month. The House Rules Committee will meet Monday to consider the Russia sanctions bill, champ",
     "tags": [
-      "Trade"
+      "Regulation",
+      "Sanctions"
     ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/6084914-house-russia-sanctions-vote/",
+    "published_iso": "2026-09-11T17:52:27+00:00",
+    "time_ago": "43m ago"
+  },
+  {
+    "id": "afb2a789cf63",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Wall Street Journal editorial board denounces 'preposterous' Trump dividend plan. The Wall Street Journal\u2019s editorial board on Thursday slammed President Trump\u2019s proposal to dole out $5,000 checks to every U.S. adult if the GOP wins control in both chambers of Congress in November.  The board noted in its opinion that ",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/media/6084913-wsj-slams-trump-proposal-gop-dividend/",
+    "published_iso": "2026-09-11T17:42:59+00:00",
+    "time_ago": "53m ago"
+  },
+  {
+    "id": "6a2681e6146d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "low",
+    "content": "Remembering 9/11, the day that changed everything. \ud83d\udc18Plus: What you missed at RNC night 2 {beacon} &#8202; It\u2019s Friday. Let us hold a moment of silence for those who lost their lives 25 years ago. &#8202; In today's issue: Former presidents reflect on 9/11 GOP convention Day 2 Trump\u2019s dividend vow faces scrutiny Inflati",
+    "tags": [],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/international/6084500-carney-latest-trump-trade-moves-relatively-modest/",
-    "published_iso": "2026-09-11T14:27:58+00:00",
-    "time_ago": "46m ago"
+    "url": "https://thehill.com/newsletters/1230-report/6084772-sept-11-anniversary-gop-trump-midterms-inflation/",
+    "published_iso": "2026-09-11T16:33:15+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "4ca706c75dda",
+    "politician": "Sen. Bernie Sanders",
+    "initials": "BS",
+    "role": "Senate HELP Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#818cf8"
+    },
+    "severity": "critical",
+    "content": "Elon Musk says Jacob Coxon\u2019s warning about the existential threat of AI is a \u201csetup.\u201d \n \nReally?  \n \nIn 2014, Musk said, \u201cWith artificial intelligence we are summoning the demon.\u201d \n \nIn 2018, Musk said, \u201cMark my words, AI is far more dangerous than nukes. Far. So why do we have no regulatory oversight? This is insane.\u201d",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [
+      "TSLA"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.netbub.com/BernieSanders/status/2098447044331311528#m",
+    "published_iso": "2026-09-11T16:22:17+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "23660606d281",
@@ -79,26 +154,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-rosh-hashanah-982e/",
     "published_iso": "2026-09-11T14:22:25+00:00",
-    "time_ago": "51m ago"
-  },
-  {
-    "id": "d71ee5a9adb7",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Collins: Trump\u2019s proposed $5K dividend \u2018extraordinarily costly\u2019. Sen. Susan Collins (R-Maine) said President Trump\u2019s proposal to give $5,000 to every American adult if Republicans win the midterm elections \u201cwould be extraordinarily costly\u201d and questioned providing it to everyone regardless of financial need. \u201cFrom the ",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/6084345-collins-trump-dividend-midterms/",
-    "published_iso": "2026-09-11T14:08:58+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "af20a4831d15",
@@ -119,7 +175,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
     "published_iso": "2026-09-11T14:00:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "c1af591e6c11",
@@ -140,7 +196,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18670/special-local-regulations-marine-events-within-the-sector-columbia-river-captain-of-the-port-zone",
     "published_iso": "2026-09-11T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "247e04f8f4a2",
@@ -169,7 +225,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18630/amendment-to-the-international-traffic-in-arms-regulations-prohibited-exports-imports-and-sales-to",
     "published_iso": "2026-09-11T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "6a788bbee189",
@@ -188,7 +244,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18623/fisheries-of-the-northeastern-united-states-atlantic-bluefish-fishery-quota-transfer-from-new-jersey",
     "published_iso": "2026-09-11T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "3825312680af",
@@ -209,7 +265,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18612/medical-devices-cardiovascular-devices-classification-of-the-cardiovascular-machine-learning-based",
     "published_iso": "2026-09-11T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "68fdb1947323",
@@ -230,7 +286,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18607/fisheries-of-the-northeastern-united-states-greater-atlantic-region-catch-share-cost-recovery",
     "published_iso": "2026-09-11T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "264baf958275",
@@ -249,7 +305,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18602/airworthiness-directives-dassault-aviation-airplanes",
     "published_iso": "2026-09-11T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "4e036ea7f965",
@@ -268,7 +324,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18600/airworthiness-directives-gulfstream-aerospace-lp-type-certificate-previously-held-by-israel-aircraft",
     "published_iso": "2026-09-11T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "227cf626fcfc",
@@ -295,7 +351,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mv7ic5pihc2l",
     "published_iso": "2026-09-11T02:08:41.753000+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "ada842a42ddb",
@@ -316,7 +372,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/09/10/republicans-split-trump-payouts-midterms-01071816",
     "published_iso": "2026-09-10T22:33:38+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "81e4469b573f",
@@ -345,7 +401,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-releases-updated-clarity-act-text-ahead-of-historic-tuesday-vote-2/",
     "published_iso": "2026-09-10T20:14:34+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "fac99d0bd221",
@@ -366,7 +422,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
     "published_iso": "2026-09-10T20:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "ea09baf153ab",
@@ -392,7 +448,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mv6nnkmeu22b",
     "published_iso": "2026-09-10T18:11:53.352000+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "7fa0992fc98d",
@@ -413,7 +469,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/09/trump-dividend-america-is-winning-and-americans-should-win-with-it/",
     "published_iso": "2026-09-10T17:56:28+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "80e962102784",
@@ -479,27 +535,6 @@
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trumps-personal-vision-to-preserve-americas-story-through/",
     "published_iso": "2026-09-09T22:59:40+00:00",
     "time_ago": "1d ago"
-  },
-  {
-    "id": "d5e9142c7bf0",
-    "politician": "Rep. Mike Johnson",
-    "initials": "MJ",
-    "role": "Speaker of the House",
-    "color": {
-      "bg": "#2a1a1a",
-      "fg": "#fbbf24"
-    },
-    "severity": "critical",
-    "content": "Thanks to the Working Families Tax Cuts, hardworking Americans are keeping MORE of the MONEY they earn. \n \nWhile Republicans cut your taxes and put American workers FIRST, Democrats voted for the LARGEST TAX HIKE in history! \n \n \n The White House (@WhiteHouse) \n \n More money in your pockets. \ud83d\udcb0 \n \n\n\n \n \n\u2014   http://nitte",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nitter.meowing.monster/SpeakerJohnson/status/2097692457123065986#m",
-    "published_iso": "2026-09-09T14:23:49+00:00",
-    "time_ago": "2d ago"
   },
   {
     "id": "b3faa6813f5a",
@@ -706,7 +741,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h288?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-01T18:20:00+00:00",
-    "time_ago": "9d ago"
+    "time_ago": "10d ago"
   },
   {
     "id": "61358ba6419a",
@@ -751,7 +786,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
     "published_iso": "2026-08-25T18:00:00+00:00",
-    "time_ago": "16d ago"
+    "time_ago": "17d ago"
   },
   {
     "id": "f281bf40952f",
@@ -881,7 +916,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "34d ago"
+    "time_ago": "35d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -910,7 +945,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "49d ago"
+    "time_ago": "50d ago"
   },
   {
     "id": "de38f5381391",
@@ -960,7 +995,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-releases-updated-clarity-act-text/",
     "published_iso": "2026-07-22T16:49:25+00:00",
-    "time_ago": "50d ago"
+    "time_ago": "51d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -1047,7 +1082,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "122d ago"
+    "time_ago": "123d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1204,7 +1239,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "231d ago"
+    "time_ago": "232d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1223,6 +1258,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "268d ago"
+    "time_ago": "269d ago"
   }
 ]
