@@ -1,5 +1,66 @@
 [
   {
+    "id": "0dae6f0192d5",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Raymond John W sold 2,407 shares of Ionq, Inc. (IONQ-WT) \u00b7 $37.21/share \u00b7 $89,564 total \u00b7 Sep 11",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2058452/000119312526389607/0001193125-26-389607-index.htm",
+    "published_iso": "2026-09-12T01:55:03+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "d6112ac9d04c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Rabinowitz Matthew sold 800 shares of Natera, Inc. (NTRA) \u00b7 $325.01/share \u00b7 $260,006 total \u00b7 Sep 11 ($16,398,267 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "NTRA"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1646382/000164638226000019/0001646382-26-000019-index.htm",
+    "published_iso": "2026-09-12T01:35:06+00:00",
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "746420af5c7b",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Erdberg Daniyel sold 1,000,000 shares of Safe Pro Group Inc. (SPAI) \u00b7 $4.00/share \u00b7 $4,000,000 total \u00b7 Sep 11",
+    "tags": [],
+    "tickers": [
+      "SPAI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2011208/000149315226042449/0001493152-26-042449-index.htm",
+    "published_iso": "2026-09-12T01:30:02+00:00",
+    "time_ago": "4h ago"
+  },
+  {
     "id": "b4cb6db21912",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
@@ -18,7 +79,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1791820/000162828026061626/0001628280-26-061626-index.htm",
     "published_iso": "2026-09-12T01:13:47+00:00",
-    "time_ago": "just now"
+    "time_ago": "4h ago"
   },
   {
     "id": "e6f683093e92",
@@ -42,7 +103,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/2013479/000100975926000010/0001009759-26-000010-index.htm",
     "published_iso": "2026-09-12T01:03:25+00:00",
-    "time_ago": "11m ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "e5a390cc3335",
@@ -63,166 +124,30 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/2133047/000110465926107179/0001104659-26-107179-index.htm",
     "published_iso": "2026-09-12T01:01:31+00:00",
-    "time_ago": "13m ago"
+    "time_ago": "4h ago"
   },
   {
-    "id": "0c4790c273c8",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "4ca706c75dda",
+    "politician": "Sen. Bernie Sanders",
+    "initials": "BS",
+    "role": "Senate HELP Committee",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#1e2a4a",
+      "fg": "#818cf8"
     },
-    "severity": "medium",
-    "content": "Perez Steven John received 20,000 shares of Kulr Technology Group, Inc. (KULR) \u00b7 Sep 11",
-    "tags": [],
-    "tickers": [
-      "KULR"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2140252/000110465926107178/0001104659-26-107178-index.htm",
-    "published_iso": "2026-09-12T01:00:48+00:00",
-    "time_ago": "13m ago"
-  },
-  {
-    "id": "d725ba389b18",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Kimel Michael Philip received 200,000 shares of Kulr Technology Group, Inc. (KULR) \u00b7 Sep 11",
-    "tags": [],
-    "tickers": [
-      "KULR"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2132966/000110465926107177/0001104659-26-107177-index.htm",
-    "published_iso": "2026-09-12T01:00:11+00:00",
-    "time_ago": "14m ago"
-  },
-  {
-    "id": "06b24b06d655",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Maroney Dawn Christine sold 122,707 shares of Alignment Healthcare, Inc. (ALHC) \u00b7 $12.68/share \u00b7 $1,555,925 total \u00b7 Sep 11",
+    "severity": "critical",
+    "content": "Elon Musk says Jacob Coxon\u2019s warning about the existential threat of AI is a \u201csetup.\u201d \n \nReally?  \n \nIn 2014, Musk said, \u201cWith artificial intelligence we are summoning the demon.\u201d \n \nIn 2018, Musk said, \u201cMark my words, AI is far more dangerous than nukes. Far. So why do we have no regulatory oversight? This is insane.\u201d",
     "tags": [
-      "Healthcare"
+      "Regulation"
     ],
     "tickers": [
-      "ALHC"
+      "TSLA"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1850397/000162828026061621/0001628280-26-061621-index.htm",
-    "published_iso": "2026-09-12T00:41:04+00:00",
-    "time_ago": "33m ago"
-  },
-  {
-    "id": "2d4fb3a9061f",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Kao John E sold 172,600 shares of Alignment Healthcare, Inc. (ALHC) \u00b7 $12.96/share \u00b7 $2,236,447 total \u00b7 Sep 11 ($7,121,671 across all blocks)",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "ALHC"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1832466/000162828026061620/0001628280-26-061620-index.htm",
-    "published_iso": "2026-09-12T00:38:11+00:00",
-    "time_ago": "36m ago"
-  },
-  {
-    "id": "33bdd97863ba",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Torley Helen exercised options for 20,000 shares of Halozyme Therapeutics, Inc. (HALO) \u00b7 $18.41/share \u00b7 $368,200 total \u00b7 Sep 11 ($7,541,311 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "HALO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1528185/000115903626000119/0001159036-26-000119-index.htm",
-    "published_iso": "2026-09-12T00:35:17+00:00",
-    "time_ago": "39m ago"
-  },
-  {
-    "id": "d53793b29ec4",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Stubborn inflation raises prospect of Fed rate hike. Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  Stubborn inflation raises prospect of Fed rate hike  The Federal Reserve appears increasingly likely to hike interest rates next w",
-    "tags": [
-      "Banking",
-      "Sanctions"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/business-economy/6085552-stubborn-inflation-fed-rate-hike/",
-    "published_iso": "2026-09-11T21:31:21+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "7bd5e6cef00b",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "low",
-    "content": "Husted ousts his political director over posts with Nazi imagery. Sen. Jon Husted (R-Ohio) fired his campaign's political director, Stephen Woytek, on Friday after learning about social media posts linked to Woytek, including a Facebook profile photo of Nazi officers and a public playlist of songs celebrating Rhodesia,",
-    "tags": [
-      "Big Tech"
-    ],
-    "tickers": [
-      "META"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/6085514-husted-political-director-nazi-imagery/",
-    "published_iso": "2026-09-11T21:19:55+00:00",
-    "time_ago": "3h ago"
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.meowing.monster/BernieSanders/status/2098447044331311528#m",
+    "published_iso": "2026-09-11T16:22:17+00:00",
+    "time_ago": "13h ago"
   },
   {
     "id": "23660606d281",
@@ -243,7 +168,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-rosh-hashanah-982e/",
     "published_iso": "2026-09-11T14:22:25+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "af20a4831d15",
@@ -264,7 +189,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
     "published_iso": "2026-09-11T14:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "c1af591e6c11",
@@ -285,7 +210,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18670/special-local-regulations-marine-events-within-the-sector-columbia-river-captain-of-the-port-zone",
     "published_iso": "2026-09-11T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "247e04f8f4a2",
@@ -314,7 +239,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18630/amendment-to-the-international-traffic-in-arms-regulations-prohibited-exports-imports-and-sales-to",
     "published_iso": "2026-09-11T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "6a788bbee189",
@@ -333,7 +258,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18623/fisheries-of-the-northeastern-united-states-atlantic-bluefish-fishery-quota-transfer-from-new-jersey",
     "published_iso": "2026-09-11T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "3825312680af",
@@ -354,7 +279,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18612/medical-devices-cardiovascular-devices-classification-of-the-cardiovascular-machine-learning-based",
     "published_iso": "2026-09-11T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "68fdb1947323",
@@ -375,7 +300,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18607/fisheries-of-the-northeastern-united-states-greater-atlantic-region-catch-share-cost-recovery",
     "published_iso": "2026-09-11T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "264baf958275",
@@ -394,7 +319,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18602/airworthiness-directives-dassault-aviation-airplanes",
     "published_iso": "2026-09-11T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "4e036ea7f965",
@@ -413,7 +338,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18600/airworthiness-directives-gulfstream-aerospace-lp-type-certificate-previously-held-by-israel-aircraft",
     "published_iso": "2026-09-11T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "227cf626fcfc",
@@ -440,7 +365,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mv7ic5pihc2l",
     "published_iso": "2026-09-11T02:08:41.753000+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "ada842a42ddb",
@@ -579,32 +504,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-announces-the-working-families-obamacare-refunds/",
     "published_iso": "2026-09-10T14:06:53+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "c2ec6d882c1f",
-    "politician": "Sen. Cynthia Lummis",
-    "initials": "CL",
-    "role": "Senate Banking Subcommittee (Crypto)",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#c4b5fd"
-    },
-    "severity": "critical",
-    "content": "This lawsuit highlights a dangerous gap in the fight against illicit finance in crypto. Right now, exchanges and issuers can\u2019t freeze stablecoins if they suspect illicit activity without fear of a lawsuit. Section 305 of the Clarity Act gives issuers and exchanges the power they need to stop illicit finance in its trac",
-    "tags": [
-      "Crypto",
-      "Regulation"
-    ],
-    "tickers": [
-      "BTC",
-      "ETH",
-      "COIN"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.netbub.com/SenLummis/status/2098020412454039719#m",
-    "published_iso": "2026-09-10T12:07:00+00:00",
     "time_ago": "1d ago"
   },
   {
