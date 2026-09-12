@@ -1,6 +1,6 @@
 [
   {
-    "id": "e49cd8bad1d1",
+    "id": "b4cb6db21912",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Larsson Stefan bought 14,179 shares of Pvh Corp. /De/ (PVH) \u00b7 $70.53/share \u00b7 $1,000,001 total \u00b7 Sep 11",
+    "content": "Musunuri Shankar sold 468,727 shares of Ocugen, Inc. (OCGN) \u00b7 $1.12/share \u00b7 $524,974 total \u00b7 Sep 11 ($589,110 across all blocks)",
     "tags": [],
     "tickers": [
-      "PVH"
+      "OCGN"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1558755/000112329226001286/0001123292-26-001286-index.htm",
-    "published_iso": "2026-09-11T23:18:42+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/1791820/000162828026061626/0001628280-26-061626-index.htm",
+    "published_iso": "2026-09-12T01:13:47+00:00",
     "time_ago": "just now"
   },
   {
-    "id": "50d30f94b84e",
+    "id": "e6f683093e92",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,21 +30,22 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Chopra Daveen withheld (tax) 398 shares of Edwards Lifesciences Corp (EW) \u00b7 $86.77/share \u00b7 $34,534 total \u00b7 Sep 11",
+    "content": "Canino Vincent J. withheld (tax) 2,990 shares of Capstone Energy Plus, Inc. (CEPL) \u00b7 $5.77/share \u00b7 $17,252 total \u00b7 Sep 11",
     "tags": [
+      "Energy",
       "Taxes"
     ],
     "tickers": [
-      "EW"
+      "CEPL"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1740963/000122520826007775/0001225208-26-007775-index.htm",
-    "published_iso": "2026-09-11T23:15:12+00:00",
-    "time_ago": "4m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2013479/000100975926000010/0001009759-26-000010-index.htm",
+    "published_iso": "2026-09-12T01:03:25+00:00",
+    "time_ago": "11m ago"
   },
   {
-    "id": "75682663d62b",
+    "id": "e5a390cc3335",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -53,19 +54,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Lippis Daniel J. exercised options for 619 shares of Edwards Lifesciences Corp (EW) \u00b7 $72.68/share \u00b7 $44,989 total \u00b7 Sep 11 ($99,158 across all blocks)",
+    "content": "Frank Benjamin Andrew received 20,000 shares of Kulr Technology Group, Inc. (KULR) \u00b7 Sep 11",
     "tags": [],
     "tickers": [
-      "EW"
+      "KULR"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2004380/000122520826007774/0001225208-26-007774-index.htm",
-    "published_iso": "2026-09-11T23:15:10+00:00",
-    "time_ago": "4m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2133047/000110465926107179/0001104659-26-107179-index.htm",
+    "published_iso": "2026-09-12T01:01:31+00:00",
+    "time_ago": "13m ago"
   },
   {
-    "id": "1eb116dd8689",
+    "id": "0c4790c273c8",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -74,21 +75,63 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Control Empresarial De Capitales S.A. De C.V. sold 3,494 shares of Pbf Energy Inc. (PBF) \u00b7 $77.23/share \u00b7 $269,831 total \u00b7 Sep 11 ($24,830,814 across all blocks)",
+    "content": "Perez Steven John received 20,000 shares of Kulr Technology Group, Inc. (KULR) \u00b7 Sep 11",
+    "tags": [],
+    "tickers": [
+      "KULR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2140252/000110465926107178/0001104659-26-107178-index.htm",
+    "published_iso": "2026-09-12T01:00:48+00:00",
+    "time_ago": "13m ago"
+  },
+  {
+    "id": "d725ba389b18",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Kimel Michael Philip received 200,000 shares of Kulr Technology Group, Inc. (KULR) \u00b7 Sep 11",
+    "tags": [],
+    "tickers": [
+      "KULR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2132966/000110465926107177/0001104659-26-107177-index.htm",
+    "published_iso": "2026-09-12T01:00:11+00:00",
+    "time_ago": "14m ago"
+  },
+  {
+    "id": "06b24b06d655",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Maroney Dawn Christine sold 122,707 shares of Alignment Healthcare, Inc. (ALHC) \u00b7 $12.68/share \u00b7 $1,555,925 total \u00b7 Sep 11",
     "tags": [
-      "Energy"
+      "Healthcare"
     ],
     "tickers": [
-      "PBF"
+      "ALHC"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1534504/000114036126036396/0001140361-26-036396-index.htm",
-    "published_iso": "2026-09-11T23:13:02+00:00",
-    "time_ago": "6m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1850397/000162828026061621/0001628280-26-061621-index.htm",
+    "published_iso": "2026-09-12T00:41:04+00:00",
+    "time_ago": "33m ago"
   },
   {
-    "id": "d8179db159a0",
+    "id": "2d4fb3a9061f",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -97,19 +140,21 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Briggs Teresa sold 548 shares of Docusign, Inc. (DOCU) \u00b7 $64.60/share \u00b7 $35,401 total \u00b7 Sep 11",
-    "tags": [],
+    "content": "Kao John E sold 172,600 shares of Alignment Healthcare, Inc. (ALHC) \u00b7 $12.96/share \u00b7 $2,236,447 total \u00b7 Sep 11 ($7,121,671 across all blocks)",
+    "tags": [
+      "Healthcare"
+    ],
     "tickers": [
-      "DOCU"
+      "ALHC"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1767659/000176765926000019/0001767659-26-000019-index.htm",
-    "published_iso": "2026-09-11T23:12:38+00:00",
-    "time_ago": "6m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1832466/000162828026061620/0001628280-26-061620-index.htm",
+    "published_iso": "2026-09-12T00:38:11+00:00",
+    "time_ago": "36m ago"
   },
   {
-    "id": "b7ff1c37b3a5",
+    "id": "33bdd97863ba",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -118,100 +163,16 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Solvik Peter sold 30,000 shares of Docusign, Inc. (DOCU) \u00b7 $65.25/share \u00b7 $1,957,500 total \u00b7 Sep 11 ($3,001,020 across all blocks)",
+    "content": "Torley Helen exercised options for 20,000 shares of Halozyme Therapeutics, Inc. (HALO) \u00b7 $18.41/share \u00b7 $368,200 total \u00b7 Sep 11 ($7,541,311 across all blocks)",
     "tags": [],
     "tickers": [
-      "DOCU"
+      "HALO"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1686308/000168630826000007/0001686308-26-000007-index.htm",
-    "published_iso": "2026-09-11T23:12:32+00:00",
-    "time_ago": "6m ago"
-  },
-  {
-    "id": "26f25b36ac8d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Landry Robert E sold 1,000 shares of Cytokinetics Inc (CYTK) \u00b7 $74.66/share \u00b7 $74,660 total \u00b7 Sep 11",
-    "tags": [],
-    "tickers": [
-      "CYTK"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1585160/000106198326000093/0001061983-26-000093-index.htm",
-    "published_iso": "2026-09-11T23:12:26+00:00",
-    "time_ago": "7m ago"
-  },
-  {
-    "id": "395c80b84047",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hernandez Jacinto J received 800,000 shares of Cadiz Inc (CDZIP) \u00b7 Sep 11",
-    "tags": [],
-    "tickers": [
-      "CDZIP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1937040/000193704026000003/0001937040-26-000003-index.htm",
-    "published_iso": "2026-09-11T23:03:20+00:00",
-    "time_ago": "16m ago"
-  },
-  {
-    "id": "ca4e4dfaf652",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Arora Tarun sold 1,493 shares of Ringcentral, Inc. (RNG) \u00b7 $69.69/share \u00b7 $104,043 total \u00b7 Sep 11 ($293,550 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "RNG"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2057569/000205756926000038/0002057569-26-000038-index.htm",
-    "published_iso": "2026-09-11T23:00:05+00:00",
-    "time_ago": "19m ago"
-  },
-  {
-    "id": "7f5a59ef4459",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Morrow Rebecca sold 20,000 shares of Snap Inc (SNAP) \u00b7 $5.35/share \u00b7 $106,984 total \u00b7 Sep 11",
-    "tags": [],
-    "tickers": [
-      "SNAP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1727396/000119312526389523/0001193125-26-389523-index.htm",
-    "published_iso": "2026-09-11T23:00:03+00:00",
-    "time_ago": "19m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1528185/000115903626000119/0001159036-26-000119-index.htm",
+    "published_iso": "2026-09-12T00:35:17+00:00",
+    "time_ago": "39m ago"
   },
   {
     "id": "d53793b29ec4",
@@ -238,7 +199,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/newsletters/business-economy/6085552-stubborn-inflation-fed-rate-hike/",
     "published_iso": "2026-09-11T21:31:21+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "7bd5e6cef00b",
@@ -261,52 +222,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/senate/6085514-husted-political-director-nazi-imagery/",
     "published_iso": "2026-09-11T21:19:55+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "bd57a57b4608",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "CIA releases never-before-seen warnings to Bush, Clinton about al Qaeda. The CIA on Friday publicly released for the first time a tranche of daily intelligence briefings provided ahead of Sept. 11, 2001, to former Presidents George W. Bush and Clinton about al Qaeda's plans to commit terrorist attacks on U.S. soil. The",
-    "tags": [
-      "Energy",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/defense/6085396-cia-releases-911-intelligence-briefings/",
-    "published_iso": "2026-09-11T20:55:10+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "4ca706c75dda",
-    "politician": "Sen. Bernie Sanders",
-    "initials": "BS",
-    "role": "Senate HELP Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#818cf8"
-    },
-    "severity": "critical",
-    "content": "Elon Musk says Jacob Coxon\u2019s warning about the existential threat of AI is a \u201csetup.\u201d \n \nReally?  \n \nIn 2014, Musk said, \u201cWith artificial intelligence we are summoning the demon.\u201d \n \nIn 2018, Musk said, \u201cMark my words, AI is far more dangerous than nukes. Far. So why do we have no regulatory oversight? This is insane.\u201d",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [
-      "TSLA"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nitter.meowing.monster/BernieSanders/status/2098447044331311528#m",
-    "published_iso": "2026-09-11T16:22:17+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "23660606d281",
@@ -327,7 +243,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-rosh-hashanah-982e/",
     "published_iso": "2026-09-11T14:22:25+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "af20a4831d15",
@@ -348,7 +264,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
     "published_iso": "2026-09-11T14:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "c1af591e6c11",
@@ -369,7 +285,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18670/special-local-regulations-marine-events-within-the-sector-columbia-river-captain-of-the-port-zone",
     "published_iso": "2026-09-11T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "247e04f8f4a2",
@@ -398,7 +314,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18630/amendment-to-the-international-traffic-in-arms-regulations-prohibited-exports-imports-and-sales-to",
     "published_iso": "2026-09-11T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "6a788bbee189",
@@ -417,7 +333,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18623/fisheries-of-the-northeastern-united-states-atlantic-bluefish-fishery-quota-transfer-from-new-jersey",
     "published_iso": "2026-09-11T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "3825312680af",
@@ -438,7 +354,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18612/medical-devices-cardiovascular-devices-classification-of-the-cardiovascular-machine-learning-based",
     "published_iso": "2026-09-11T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "68fdb1947323",
@@ -459,7 +375,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18607/fisheries-of-the-northeastern-united-states-greater-atlantic-region-catch-share-cost-recovery",
     "published_iso": "2026-09-11T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "264baf958275",
@@ -478,7 +394,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18602/airworthiness-directives-dassault-aviation-airplanes",
     "published_iso": "2026-09-11T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "4e036ea7f965",
@@ -497,7 +413,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18600/airworthiness-directives-gulfstream-aerospace-lp-type-certificate-previously-held-by-israel-aircraft",
     "published_iso": "2026-09-11T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "227cf626fcfc",
@@ -524,7 +440,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mv7ic5pihc2l",
     "published_iso": "2026-09-11T02:08:41.753000+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "ada842a42ddb",
@@ -666,6 +582,32 @@
     "time_ago": "1d ago"
   },
   {
+    "id": "c2ec6d882c1f",
+    "politician": "Sen. Cynthia Lummis",
+    "initials": "CL",
+    "role": "Senate Banking Subcommittee (Crypto)",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#c4b5fd"
+    },
+    "severity": "critical",
+    "content": "This lawsuit highlights a dangerous gap in the fight against illicit finance in crypto. Right now, exchanges and issuers can\u2019t freeze stablecoins if they suspect illicit activity without fear of a lawsuit. Section 305 of the Clarity Act gives issuers and exchanges the power they need to stop illicit finance in its trac",
+    "tags": [
+      "Crypto",
+      "Regulation"
+    ],
+    "tickers": [
+      "BTC",
+      "ETH",
+      "COIN"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.netbub.com/SenLummis/status/2098020412454039719#m",
+    "published_iso": "2026-09-10T12:07:00+00:00",
+    "time_ago": "1d ago"
+  },
+  {
     "id": "76e81fab5697",
     "politician": "Politico",
     "initials": "PO",
@@ -686,7 +628,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/09/09/dan-mckee-loses-rhode-island-primary-01069983",
     "published_iso": "2026-09-10T00:25:46+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "8360fa99cb31",
@@ -1063,27 +1005,6 @@
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
     "time_ago": "35d ago"
-  },
-  {
-    "id": "1a1d646c1e56",
-    "politician": "Rep. Alexandria Ocasio-Cortez",
-    "initials": "AOC",
-    "role": "House Financial Services Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#93c5fd"
-    },
-    "severity": "high",
-    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.netbub.com/AOC/status/2085006319220625569#m",
-    "published_iso": "2026-08-05T14:13:38+00:00",
-    "time_ago": "37d ago"
   },
   {
     "id": "6e187954d9ee",
