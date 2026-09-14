@@ -1,5 +1,113 @@
 [
   {
+    "id": "c6c1a8826dbb",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Wert James W sold 2,000 shares of Park Ohio Holdings Corp (PKOH) \u00b7 $46.21/share \u00b7 $92,427 total \u00b7 Sep 14 ($92,427 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "PKOH"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1206686/000162828026061722/0001628280-26-061722-index.htm",
+    "published_iso": "2026-09-14T13:43:40+00:00",
+    "time_ago": "8m ago"
+  },
+  {
+    "id": "26987a885c07",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Trump\u2019s \u2018Big Advantage\u2019 Nobody Is Talking About. Pull out a map. First, find Iran: the country we've found ourselves talking about every day. Then, look for Russia. Not hard to find given its size and the tensions that have existed between The Bear and the Eagle for decades on end. And then, look for the spot of land r",
+    "tags": [
+      "Taxes",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/analysis/6087653-trump-route-international-prosperity/",
+    "published_iso": "2026-09-14T13:11:00+00:00",
+    "time_ago": "40m ago"
+  },
+  {
+    "id": "3b5fba18ca1e",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Live updates: Congress returns with AI top of mind. Lawmakers return to Washington on Monday, and the House has one week in session before its midterm election recess. Startling warnings last week on artificial intelligence (AI) have lawmakers pushing for action. Senate Minority Leader Chuck Schumer called on the Trump",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6087652-live-updates-trump-house-senate-ai-midterms/",
+    "published_iso": "2026-09-14T13:04:54+00:00",
+    "time_ago": "47m ago"
+  },
+  {
+    "id": "2d8f90c4f1a7",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Second judge freezes Trump mail ballot plan as\u00a0Supreme Court ruling looms. A second federal judge blocked the U.S. Postal Service (USPS) from implementing President Trump\u2019s executive order targeting mail-in voting, adding a new obstacle to the president\u2019s plan as he awaits word from the Supreme Court.\u00a0 The high court w",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/regulation/court-battles/6087668-second-judge-freeze-donald-trump-usps-mail-in-voting-restrictions-midterms/",
+    "published_iso": "2026-09-14T13:01:11+00:00",
+    "time_ago": "50m ago"
+  },
+  {
+    "id": "2eda85f062bd",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "GOP congressman who survived plane crash: 'God was looking after us'. Rep. Tom Tiffany (R-Wis.), who is running for governor in Wisconsin, on Sunday recounted his experience over the weekend after his plane made an emergency landing on a lake. \u201cWe're really fortunate that God was looking after us last night. And we're ",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/state-watch/6087677-republican-tom-tiffany-opens-up-plane-emergency-landing-wisconsin/",
+    "published_iso": "2026-09-14T12:56:09+00:00",
+    "time_ago": "55m ago"
+  },
+  {
     "id": "91e332b33b03",
     "politician": "Federal Register",
     "initials": "FR",
@@ -18,7 +126,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18780/promoting-fair-and-open-competitive-bidding-in-the-e-rate-program-schools-and-libraries-universal",
     "published_iso": "2026-09-14T04:00:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "641e4d00148f",
@@ -37,7 +145,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18778/review-of-the-commissions-assessment-and-collection-of-regulatory-fees-for-fiscal-year-2026",
     "published_iso": "2026-09-14T04:00:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "d95a82a75843",
@@ -58,7 +166,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18776/sport-pilot-practical-test-standards-alignment",
     "published_iso": "2026-09-14T04:00:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "b3b8d3b2199f",
@@ -80,7 +188,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18766/expanded-examination-cycle-for-certain-small-insured-depository-institutions-and-us-branches-and",
     "published_iso": "2026-09-14T04:00:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "68683886160c",
@@ -101,7 +209,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18748/approval-and-promulgation-of-implementation-plans-california-san-joaquin-valley-revisions-to-motor",
     "published_iso": "2026-09-14T04:00:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "bcd513ba43f9",
@@ -120,34 +228,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18734/safety-zone-lake-erie-oregon-oh",
     "published_iso": "2026-09-14T04:00:00+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "0569af29629e",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "White House agrees to new ethics language in crypto bill. The White House has agreed to new ethics language in the Clarity Act ahead of a key vote on the cryptocurrency regulation bill in the Senate on Tuesday. The provision, which bars public officials from issuing or sponsoring digital assets, could be enforced by bo",
-    "tags": [
-      "Crypto",
-      "Regulation"
-    ],
-    "tickers": [
-      "BTC",
-      "ETH",
-      "COIN",
-      "XRP"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/6087405-white-house-accepts-clarity-act-ethics/",
-    "published_iso": "2026-09-14T02:35:17+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "5d55edde89de",
@@ -176,49 +257,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-boozman-scott-release-final-clarity-act-text/",
     "published_iso": "2026-09-14T02:01:07+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "0bb727734e4b",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Trump says $5K dividend checks to Americans will 'happen 100 percent'. President Trump on Sunday said $5,000 dividend checks will \"happen 100 percent\" if the GOP maintains its majority in Congress after the midterm elections. The president compared the potential payouts to the $1,776 checks that went out to U.S. servic",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6087307-trump-promises-5000-dividend-checks/",
-    "published_iso": "2026-09-14T00:27:32+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "78d351fe7be6",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Pennsylvania woman dies from measles complications. The Jefferson County, Pa., Coroner's Office on Sunday said a 40-year-old woman died from complications with measles, the state's third measles-related death this year. Coroner Greg Furlong wrote on Facebook that the woman, a Jefferson County resident, died on Saturday",
-    "tags": [
-      "Big Tech"
-    ],
-    "tickers": [
-      "META"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/healthcare/6087275-pennsylvania-third-measles-death/",
-    "published_iso": "2026-09-13T23:30:16+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "e480d826f5ee",
@@ -242,9 +281,9 @@
     ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "http://nitter.jaydenha.uk/BernieSanders/status/2099171197162234159#m",
+    "url": "http://nitter.meowing.monster/BernieSanders/status/2099171197162234159#m",
     "published_iso": "2026-09-13T16:19:48+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "eaecca5111c3",
@@ -265,136 +304,9 @@
     ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "https://nitter.netbub.com/RandPaul/status/2098849122501472514#m",
+    "url": "http://nitter.jaydenha.uk/RandPaul/status/2098849122501472514#m",
     "published_iso": "2026-09-12T19:00:00+00:00",
     "time_ago": "1d ago"
-  },
-  {
-    "id": "0dae6f0192d5",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Raymond John W sold 2,407 shares of Ionq, Inc. (IONQ-WT) \u00b7 $37.21/share \u00b7 $89,564 total \u00b7 Sep 11",
-    "tags": [],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2058452/000119312526389607/0001193125-26-389607-index.htm",
-    "published_iso": "2026-09-12T01:55:03+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "d6112ac9d04c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Rabinowitz Matthew sold 800 shares of Natera, Inc. (NTRA) \u00b7 $325.01/share \u00b7 $260,006 total \u00b7 Sep 11 ($16,398,267 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "NTRA"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1646382/000164638226000019/0001646382-26-000019-index.htm",
-    "published_iso": "2026-09-12T01:35:06+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "746420af5c7b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Erdberg Daniyel sold 1,000,000 shares of Safe Pro Group Inc. (SPAI) \u00b7 $4.00/share \u00b7 $4,000,000 total \u00b7 Sep 11",
-    "tags": [],
-    "tickers": [
-      "SPAI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2011208/000149315226042449/0001493152-26-042449-index.htm",
-    "published_iso": "2026-09-12T01:30:02+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "b4cb6db21912",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Musunuri Shankar sold 468,727 shares of Ocugen, Inc. (OCGN) \u00b7 $1.12/share \u00b7 $524,974 total \u00b7 Sep 11 ($589,110 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "OCGN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1791820/000162828026061626/0001628280-26-061626-index.htm",
-    "published_iso": "2026-09-12T01:13:47+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "e6f683093e92",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Canino Vincent J. withheld (tax) 2,990 shares of Capstone Energy Plus, Inc. (CEPL) \u00b7 $5.77/share \u00b7 $17,252 total \u00b7 Sep 11",
-    "tags": [
-      "Energy",
-      "Taxes"
-    ],
-    "tickers": [
-      "CEPL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2013479/000100975926000010/0001009759-26-000010-index.htm",
-    "published_iso": "2026-09-12T01:03:25+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "e5a390cc3335",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Frank Benjamin Andrew received 20,000 shares of Kulr Technology Group, Inc. (KULR) \u00b7 Sep 11",
-    "tags": [],
-    "tickers": [
-      "KULR"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2133047/000110465926107179/0001104659-26-107179-index.htm",
-    "published_iso": "2026-09-12T01:01:31+00:00",
-    "time_ago": "2d ago"
   },
   {
     "id": "4ca706c75dda",
@@ -415,7 +327,7 @@
     ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "http://nitter.jaydenha.uk/BernieSanders/status/2098447044331311528#m",
+    "url": "http://nitter.meowing.monster/BernieSanders/status/2098447044331311528#m",
     "published_iso": "2026-09-11T16:22:17+00:00",
     "time_ago": "2d ago"
   },
@@ -1001,6 +913,27 @@
     "time_ago": "37d ago"
   },
   {
+    "id": "1a1d646c1e56",
+    "politician": "Rep. Alexandria Ocasio-Cortez",
+    "initials": "AOC",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#93c5fd"
+    },
+    "severity": "high",
+    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.jaydenha.uk/AOC/status/2085006319220625569#m",
+    "published_iso": "2026-08-05T14:13:38+00:00",
+    "time_ago": "39d ago"
+  },
+  {
     "id": "6e187954d9ee",
     "politician": "Sen. Rand Paul",
     "initials": "RP",
@@ -1070,7 +1003,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "53d ago"
+    "time_ago": "54d ago"
   },
   {
     "id": "555d7f3dd315",
