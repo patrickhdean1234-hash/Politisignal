@@ -1,6 +1,27 @@
 [
   {
-    "id": "c6c1a8826dbb",
+    "id": "43be91987670",
+    "politician": "Politico",
+    "initials": "PO",
+    "role": "Political News",
+    "color": {
+      "bg": "#1a0a0a",
+      "fg": "#fca5a5"
+    },
+    "severity": "medium",
+    "content": "Latino leaders press Beshear to expand DGA\u2019s midterm map. Latino leaders are frustrated Kentucky Gov. Andy Beshear, who chairs the Democratic Governors Association, hasn't capitalized on momentum in Texas",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "politico",
+    "platform": "Politico",
+    "url": "https://www.politico.com/news/2026/09/14/beshear-texas-governor-hinojosa-01074891",
+    "published_iso": "2026-09-14T18:55:08+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "dfa9905e16e5",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,28 +30,70 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Wert James W sold 2,000 shares of Park Ohio Holdings Corp (PKOH) \u00b7 $46.21/share \u00b7 $92,427 total \u00b7 Sep 14 ($92,427 across all blocks)",
+    "content": "Miller William Dawson received 109,913 shares of Securitize Corp. (SECZ) \u00b7 Sep 14",
     "tags": [],
     "tickers": [
-      "PKOH"
+      "SECZ"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1206686/000162828026061722/0001628280-26-061722-index.htm",
-    "published_iso": "2026-09-14T13:43:40+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/2122535/000162828026061806/0001628280-26-061806-index.htm",
+    "published_iso": "2026-09-14T18:46:45+00:00",
     "time_ago": "8m ago"
   },
   {
-    "id": "26987a885c07",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "d81dd3eaf91b",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Trump\u2019s \u2018Big Advantage\u2019 Nobody Is Talking About. Pull out a map. First, find Iran: the country we've found ourselves talking about every day. Then, look for Russia. Not hard to find given its size and the tensions that have existed between The Bear and the Eagle for decades on end. And then, look for the spot of land r",
+    "content": "Domingo Soriano Carlos Francisco received 318,302 shares of Securitize Corp. (SECZ) \u00b7 Sep 14",
+    "tags": [],
+    "tickers": [
+      "SECZ"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2117346/000162828026061804/0001628280-26-061804-index.htm",
+    "published_iso": "2026-09-14T18:44:38+00:00",
+    "time_ago": "11m ago"
+  },
+  {
+    "id": "78acb264e945",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Flores Junco Jose Francisco received 161,140 shares of Securitize Corp. (SECZ) \u00b7 Sep 14",
+    "tags": [],
+    "tickers": [
+      "SECZ"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2116871/000162828026061802/0001628280-26-061802-index.htm",
+    "published_iso": "2026-09-14T18:43:18+00:00",
+    "time_ago": "12m ago"
+  },
+  {
+    "id": "0234afbef4f3",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "critical",
+    "content": "Warrior Ethos in Action: DUDE 44 Bravo\u2019s Incredible Story. For the first time, a U.S. Air Force officer shot down over Iran \u2014 mission call sign DUDE 44 Bravo \u2014 told America his story. In an exclusive 60 Minutes interview, Bravo delivered a powerful account of survival, faith, and combat leadership \u2014 a testament to the ",
     "tags": [
       "Taxes",
       "Sanctions"
@@ -40,72 +103,11 @@
       "RTX",
       "XOM"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/analysis/6087653-trump-route-international-prosperity/",
-    "published_iso": "2026-09-14T13:11:00+00:00",
-    "time_ago": "40m ago"
-  },
-  {
-    "id": "3b5fba18ca1e",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Live updates: Congress returns with AI top of mind. Lawmakers return to Washington on Monday, and the House has one week in session before its midterm election recess. Startling warnings last week on artificial intelligence (AI) have lawmakers pushing for action. Senate Minority Leader Chuck Schumer called on the Trump",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6087652-live-updates-trump-house-senate-ai-midterms/",
-    "published_iso": "2026-09-14T13:04:54+00:00",
-    "time_ago": "47m ago"
-  },
-  {
-    "id": "2d8f90c4f1a7",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Second judge freezes Trump mail ballot plan as\u00a0Supreme Court ruling looms. A second federal judge blocked the U.S. Postal Service (USPS) from implementing President Trump\u2019s executive order targeting mail-in voting, adding a new obstacle to the president\u2019s plan as he awaits word from the Supreme Court.\u00a0 The high court w",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/regulation/court-battles/6087668-second-judge-freeze-donald-trump-usps-mail-in-voting-restrictions-midterms/",
-    "published_iso": "2026-09-14T13:01:11+00:00",
-    "time_ago": "50m ago"
-  },
-  {
-    "id": "2eda85f062bd",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "GOP congressman who survived plane crash: 'God was looking after us'. Rep. Tom Tiffany (R-Wis.), who is running for governor in Wisconsin, on Sunday recounted his experience over the weekend after his plane made an emergency landing on a lake. \u201cWe're really fortunate that God was looking after us last night. And we're ",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/state-watch/6087677-republican-tom-tiffany-opens-up-plane-emergency-landing-wisconsin/",
-    "published_iso": "2026-09-14T12:56:09+00:00",
-    "time_ago": "55m ago"
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/09/warrior-ethos-in-action-dude-44-bravos-incredible-story/",
+    "published_iso": "2026-09-14T17:45:59+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "91e332b33b03",
@@ -126,7 +128,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18780/promoting-fair-and-open-competitive-bidding-in-the-e-rate-program-schools-and-libraries-universal",
     "published_iso": "2026-09-14T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "641e4d00148f",
@@ -145,7 +147,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18778/review-of-the-commissions-assessment-and-collection-of-regulatory-fees-for-fiscal-year-2026",
     "published_iso": "2026-09-14T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "d95a82a75843",
@@ -166,7 +168,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18776/sport-pilot-practical-test-standards-alignment",
     "published_iso": "2026-09-14T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "b3b8d3b2199f",
@@ -188,7 +190,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18766/expanded-examination-cycle-for-certain-small-insured-depository-institutions-and-us-branches-and",
     "published_iso": "2026-09-14T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "68683886160c",
@@ -209,7 +211,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18748/approval-and-promulgation-of-implementation-plans-california-san-joaquin-valley-revisions-to-motor",
     "published_iso": "2026-09-14T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "bcd513ba43f9",
@@ -228,7 +230,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18734/safety-zone-lake-erie-oregon-oh",
     "published_iso": "2026-09-14T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "5d55edde89de",
@@ -257,79 +259,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-boozman-scott-release-final-clarity-act-text/",
     "published_iso": "2026-09-14T02:01:07+00:00",
-    "time_ago": "11h ago"
-  },
-  {
-    "id": "e480d826f5ee",
-    "politician": "Sen. Bernie Sanders",
-    "initials": "BS",
-    "role": "Senate HELP Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#818cf8"
-    },
-    "severity": "critical",
-    "content": "Over and over again, we hear that Medicare for All is just \u201ctoo expensive.\u201d That is demonstrably false. \n \nNot only would my legislation save lives, it would save money. \n \nThis isn't just me talking. Hear it from leading healthcare experts at the Yale School of Public Health. \n \n Video",
-    "tags": [
-      "Healthcare",
-      "Regulation"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nitter.meowing.monster/BernieSanders/status/2099171197162234159#m",
-    "published_iso": "2026-09-13T16:19:48+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "eaecca5111c3",
-    "politician": "Sen. Rand Paul",
-    "initials": "RP",
-    "role": "Senate Foreign Relations Committee",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fbbf24"
-    },
-    "severity": "medium",
-    "content": "The Fed shouldn\u2019t be deciding whether we have rate increases or decreases. That should be left to the free market. \n \n wsj.com/economy/cpi-inflatio\u2026  \n \n Link  \n \n \n \n Inflation Was 3.4% in August, With Gasoline Prices Still Elevated \n \n The number matched analyst expectations and was even with July\u2019s 3.4%. \n  wsj.com",
-    "tags": [],
-    "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nitter.jaydenha.uk/RandPaul/status/2098849122501472514#m",
-    "published_iso": "2026-09-12T19:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "4ca706c75dda",
-    "politician": "Sen. Bernie Sanders",
-    "initials": "BS",
-    "role": "Senate HELP Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#818cf8"
-    },
-    "severity": "critical",
-    "content": "Elon Musk says Jacob Coxon\u2019s warning about the existential threat of AI is a \u201csetup.\u201d \n \nReally?  \n \nIn 2014, Musk said, \u201cWith artificial intelligence we are summoning the demon.\u201d \n \nIn 2018, Musk said, \u201cMark my words, AI is far more dangerous than nukes. Far. So why do we have no regulatory oversight? This is insane.\u201d",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [
-      "TSLA"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nitter.meowing.monster/BernieSanders/status/2098447044331311528#m",
-    "published_iso": "2026-09-11T16:22:17+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "23660606d281",
@@ -350,7 +280,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-rosh-hashanah-982e/",
     "published_iso": "2026-09-11T14:22:25+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "af20a4831d15",
@@ -371,7 +301,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
     "published_iso": "2026-09-11T14:00:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "c1af591e6c11",
@@ -513,7 +443,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/09/trump-dividend-america-is-winning-and-americans-should-win-with-it/",
     "published_iso": "2026-09-10T17:56:28+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "80e962102784",
@@ -534,27 +464,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-announces-the-working-families-obamacare-refunds/",
     "published_iso": "2026-09-10T14:06:53+00:00",
-    "time_ago": "3d ago"
-  },
-  {
-    "id": "8360fa99cb31",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "First Lady Melania Trump\u2019s Personal Vision to Preserve America\u2019s Story Through Superior Design. First Lady Melania Trump shared her forward-looking vision on the generational significance of institutional design, declaring that, \u201cThe White House stands as an architectural autobiography of America, embodying the endurin",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trumps-personal-vision-to-preserve-americas-story-through/",
-    "published_iso": "2026-09-09T22:59:40+00:00",
     "time_ago": "4d ago"
   },
   {
@@ -581,7 +490,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
     "published_iso": "2026-09-04T15:00:00+00:00",
-    "time_ago": "9d ago"
+    "time_ago": "10d ago"
   },
   {
     "id": "e122e52e32f9",
@@ -600,7 +509,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h295?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-03T14:24:00+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "59dd6387d8aa",
@@ -735,7 +644,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h288?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-01T18:20:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "61358ba6419a",
@@ -761,7 +670,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
     "published_iso": "2026-08-27T15:00:00+00:00",
-    "time_ago": "17d ago"
+    "time_ago": "18d ago"
   },
   {
     "id": "ce88616fa393",
@@ -780,7 +689,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
     "published_iso": "2026-08-25T18:00:00+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "f281bf40952f",
@@ -832,7 +741,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "24d ago"
+    "time_ago": "25d ago"
   },
   {
     "id": "d1faa9166adb",
@@ -858,7 +767,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
     "published_iso": "2026-08-20T15:00:00+00:00",
-    "time_ago": "24d ago"
+    "time_ago": "25d ago"
   },
   {
     "id": "f436afccee25",
@@ -882,7 +791,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/august/road-iowa-america-first-trade-raising-wages-reshoring-jobs-and-restoring-americas-global",
     "published_iso": "2026-08-18T15:02:03+00:00",
-    "time_ago": "26d ago"
+    "time_ago": "27d ago"
   },
   {
     "id": "baf26d52584e",
@@ -910,7 +819,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "37d ago"
+    "time_ago": "38d ago"
   },
   {
     "id": "1a1d646c1e56",
@@ -929,9 +838,9 @@
     "tickers": [],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "http://nitter.jaydenha.uk/AOC/status/2085006319220625569#m",
+    "url": "http://nitter.meowing.monster/AOC/status/2085006319220625569#m",
     "published_iso": "2026-08-05T14:13:38+00:00",
-    "time_ago": "39d ago"
+    "time_ago": "40d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -960,7 +869,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "52d ago"
+    "time_ago": "53d ago"
   },
   {
     "id": "de38f5381391",
@@ -981,7 +890,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "53d ago"
+    "time_ago": "54d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -1068,7 +977,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "125d ago"
+    "time_ago": "126d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1094,7 +1003,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "131d ago"
+    "time_ago": "132d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1116,7 +1025,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "139d ago"
+    "time_ago": "140d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1140,7 +1049,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "167d ago"
+    "time_ago": "168d ago"
   },
   {
     "id": "432e035b915b",
@@ -1180,7 +1089,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "212d ago"
+    "time_ago": "213d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1199,7 +1108,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "212d ago"
+    "time_ago": "213d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1225,7 +1134,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "234d ago"
+    "time_ago": "235d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1244,6 +1153,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "271d ago"
+    "time_ago": "272d ago"
   }
 ]
