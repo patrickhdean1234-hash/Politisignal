@@ -1,6 +1,34 @@
 [
   {
-    "id": "cf92d3e81559",
+    "id": "a2e7be58bb1e",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "NEWS: Trump's war in Iran has cost taxpayers almost $40 BILLION and drove nearly HALF of inflation.\n\nIt's a conservative estimate, excluding damage to U.S. bases, destroyed munition supplies, and higher costs like gas and groceries\u2014per the Congressional Budget Office.",
+    "tags": [
+      "Regulation",
+      "Taxes",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM",
+      "GLD"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mvlcc3luvs2l",
+    "published_iso": "2026-09-15T18:53:13.947000+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "558f599df284",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -8,17 +36,15 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "critical",
-    "content": "Watch live: House Democrats speak amid AI, affordability battle. House Democratic leaders will speak with reporters Tuesday morning as Democrats pressure the Trump administration for more regulations on artificial intelligence and experts warn of increasing risks. House Minority Leader Hakeem Jeffries (D-N.Y.) has emer",
-    "tags": [
-      "Regulation"
-    ],
+    "severity": "high",
+    "content": "Dem rep asks Bessent to 'talk sense' into Trump on regulating AI. Democratic Rep. Stephen Lynch (Mass.) on Tuesday urged Treasury Secretary Scott Bessent to convince President Trump to reverse course on regulating artificial intelligence (AI). During Bessent\u2019s appearance before the House Financial Services Committee, L",
+    "tags": [],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/video-clips/6089902-watch-live-house-democrats-press-conference-ai-fears-midterms-affordability/",
-    "published_iso": "2026-09-15T14:30:00+00:00",
-    "time_ago": "31m ago"
+    "url": "https://thehill.com/policy/technology/6090823-lynch-urges-bessent-trump-ai-regulation/",
+    "published_iso": "2026-09-15T18:45:48+00:00",
+    "time_ago": "8m ago"
   },
   {
     "id": "482fce8f5fe8",
@@ -37,7 +63,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18927/airworthiness-directives-md-helicopters-llc-helicopters",
     "published_iso": "2026-09-15T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "f0f939fda57b",
@@ -56,7 +82,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18911/pacific-halibut-fisheries-of-the-west-coast-inseason-action-for-the-2026-area-2a-pacific-halibut",
     "published_iso": "2026-09-15T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "cbc582d1d536",
@@ -77,7 +103,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18902/amendment-of-class-d-and-class-e-airspace-over-hyannis-ma",
     "published_iso": "2026-09-15T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "8e736408d5ea",
@@ -96,7 +122,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18856/safety-zone-calcasieu-river-channel-lake-charles-la",
     "published_iso": "2026-09-15T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "492944a72a3a",
@@ -117,7 +143,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18855/safety-zone-rocket-test-site-rio-grande-river-boca-chica-tx",
     "published_iso": "2026-09-15T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "2a73dceaf1b0",
@@ -138,7 +164,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18849/pacific-island-fisheries-catch-and-retention-limits-for-striped-marlin-in-the-western-and-central",
     "published_iso": "2026-09-15T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "ccd0fd0d4b3a",
@@ -159,7 +185,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18848/airworthiness-directives-pilatus-aircraft-ltd-airplanes",
     "published_iso": "2026-09-15T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "61e77ba489a8",
@@ -181,7 +207,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18830/bacillus-amyloliquefaciens-strain-at-332-exemption-from-the-requirement-of-a-pesticide-tolerance",
     "published_iso": "2026-09-15T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "51790d46ce2f",
@@ -200,7 +226,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h297?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-14T23:16:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "52095412e0ba",
@@ -219,7 +245,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h296?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-14T23:04:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "2e022bb5600d",
@@ -238,7 +264,30 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s232?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-14T21:31:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "21h ago"
+  },
+  {
+    "id": "d54c266390ca",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "medium",
+    "content": "If Washington wanted to get serious about addressing affordability, it would start by reining in reckless spending that fuels inflation. \n \nMy Six Penny Plan cuts six cents of every dollar the federal government spends. In five years, the budget would be balanced and life would be more affordable once again.",
+    "tags": [],
+    "tickers": [
+      "GLD",
+      "TLT",
+      "SPY"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.meowing.monster/RandPaul/status/2099578679877591148#m",
+    "published_iso": "2026-09-14T19:19:00+00:00",
+    "time_ago": "23h ago"
   },
   {
     "id": "106310f2c468",
@@ -259,7 +308,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/09/14/beshear-texas-governor-hinojosa-01074891",
     "published_iso": "2026-09-14T18:55:08+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "0234afbef4f3",
@@ -285,7 +334,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/09/warrior-ethos-in-action-dude-44-bravos-incredible-story/",
     "published_iso": "2026-09-14T17:45:59+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "5d55edde89de",
@@ -427,27 +476,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/09/trump-dividend-america-is-winning-and-americans-should-win-with-it/",
     "published_iso": "2026-09-10T17:56:28+00:00",
-    "time_ago": "4d ago"
-  },
-  {
-    "id": "80e962102784",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "high",
-    "content": "Fact Sheet: President Donald J. Trump Announces the Working Families Obamacare Refunds. RETURNING BIDEN OVERCHARGES TO WORKING FAMILIES:&#160;Today, President Donald J. Trump announced that the federal government will return to the American people hundreds of millions in Obamacare overcharges, collected by the Biden Ad",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-announces-the-working-families-obamacare-refunds/",
-    "published_iso": "2026-09-10T14:06:53+00:00",
     "time_ago": "5d ago"
   },
   {
@@ -614,7 +642,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
     "published_iso": "2026-08-25T18:00:00+00:00",
-    "time_ago": "20d ago"
+    "time_ago": "21d ago"
   },
   {
     "id": "f281bf40952f",
@@ -716,7 +744,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/august/road-iowa-america-first-trade-raising-wages-reshoring-jobs-and-restoring-americas-global",
     "published_iso": "2026-08-18T15:02:03+00:00",
-    "time_ago": "27d ago"
+    "time_ago": "28d ago"
   },
   {
     "id": "baf26d52584e",
@@ -744,7 +772,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "38d ago"
+    "time_ago": "39d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -773,7 +801,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "53d ago"
+    "time_ago": "54d ago"
   },
   {
     "id": "de38f5381391",
@@ -794,7 +822,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "54d ago"
+    "time_ago": "55d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -881,7 +909,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "126d ago"
+    "time_ago": "127d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1038,7 +1066,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "235d ago"
+    "time_ago": "236d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1057,6 +1085,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "272d ago"
+    "time_ago": "273d ago"
   }
 ]
