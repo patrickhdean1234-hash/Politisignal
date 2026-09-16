@@ -1,5 +1,94 @@
 [
   {
+    "id": "98c6b31f7eca",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Rutledge Joseph M sold 684 shares of Nordson Corp (NDSN) \u00b7 $309.38/share \u00b7 $211,616 total \u00b7 Sep 16",
+    "tags": [],
+    "tickers": [
+      "NDSN"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2078512/000207851226000004/0002078512-26-000004-index.htm",
+    "published_iso": "2026-09-16T12:06:48+00:00",
+    "time_ago": "7m ago"
+  },
+  {
+    "id": "00db17b61372",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Kiernan Kathleen Louise bought 4,000 shares of Rank One Computing Corp (ROC) \u00b7 $4.36/share \u00b7 $17,435 total \u00b7 Sep 16",
+    "tags": [],
+    "tickers": [
+      "ROC"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2140608/000121390026100339/0001213900-26-100339-index.htm",
+    "published_iso": "2026-09-16T11:50:29+00:00",
+    "time_ago": "23m ago"
+  },
+  {
+    "id": "7cbdb36bba6e",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Five takeaways as primaries end, Trump's final sprint begins. In today's issue: \u25aa Democrats riding high \u25aa Fed expected to raise rates \u25aa Kennedy Center board votes to close again \u25aa Two longshot impeachment attempts The general election season has officially entered the home stretch as the last primaries wrapped up Tuesd",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/morning-report/6092185-takeaways-primary-season-finale-donald-trump-midterm-stretch/",
+    "published_iso": "2026-09-16T11:14:20+00:00",
+    "time_ago": "59m ago"
+  },
+  {
+    "id": "f6489a3b261b",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Warsh under pressure as Fed considers rate hike. Federal Reserve Chair Kevin Warsh finds himself in a\u00a0tricky position\u00a0as\u00a0the central bank commences its September meeting,\u00a0as\u00a0rising expectations\u00a0of an interest rate hike\u00a0clash\u00a0with President Trump\u2019s demands for cuts.\u00a0 Warsh gave himself wiggle room for a rate hike in lat",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/6090682-fed-chair-warsh-interest-rate-decision/",
+    "published_iso": "2026-09-16T10:00:00+00:00",
+    "time_ago": "2h ago"
+  },
+  {
     "id": "e5c628d50f30",
     "politician": "Federal Register",
     "initials": "FR",
@@ -16,7 +105,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/16/C1-2026-13420/revised-medical-criteria-for-evaluating-cardiovascular-disorders",
     "published_iso": "2026-09-16T04:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "c386520c3253",
@@ -37,7 +126,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/16/2026-19006/whistleblower-award-determination",
     "published_iso": "2026-09-16T04:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "42584a6d47df",
@@ -58,7 +147,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/16/2026-18996/annual-fireworks-displays-and-other-events-in-the-uscg-heartland-district-requiring-safety-zones",
     "published_iso": "2026-09-16T04:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "3f57f2ab62ce",
@@ -79,7 +168,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/16/2026-18978/federal-state-unemployment-compensation-uc-program-data-availability",
     "published_iso": "2026-09-16T04:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "d05cea53bd17",
@@ -100,7 +189,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/16/2026-18977/safety-zone-lake-st-clair-grosse-pointe-farms-mi",
     "published_iso": "2026-09-16T04:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "20a8bd71418a",
@@ -121,7 +210,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/16/2026-18960/special-local-regulations-recurring-marine-events-sector-st-petersburg",
     "published_iso": "2026-09-16T04:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "1aaddec07339",
@@ -142,7 +231,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/16/2026-18949/registration-of-lawful-permanent-residence-for-children-born-to-foreign-government-employees-in-the",
     "published_iso": "2026-09-16T04:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "0d6bfe9b0fa0",
@@ -163,7 +252,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/16/2026-18914/international-traffic-in-arms-regulations-modification-of-civil-aircraft-to-incorporate-aircraft",
     "published_iso": "2026-09-16T04:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "5e1cfab41d1e",
@@ -188,7 +277,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h307?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-16T02:32:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "3d0b616eb1a2",
@@ -209,7 +298,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h306?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-16T02:21:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "a211e1df5248",
@@ -230,7 +319,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h305?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-16T02:15:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "eeda760cc0f8",
@@ -249,7 +338,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h304?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-16T02:11:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "3ccabb19ae12",
@@ -268,7 +357,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h303?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-16T02:06:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "6358b18b4ecb",
@@ -287,7 +376,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h302?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-16T02:03:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "5971b6d23191",
@@ -306,139 +395,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h301?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-16T01:57:00+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "07abbe68f11e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Alford Tony L bought 3,704 shares of Lion Copper & Gold Corp. (LCGMF) \u00b7 $4.91/share \u00b7 $18,191 total \u00b7 Sep 15 ($55,366 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "LCGMF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1974775/000106299326004972/0001062993-26-004972-index.htm",
-    "published_iso": "2026-09-16T01:55:55+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "c7dfa80a85ea",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Dacier Paul T withheld (tax) 4,457 shares of Ionq, Inc. (IONQ-WT) \u00b7 $37.09/share \u00b7 $165,324 total \u00b7 Sep 15",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1824920/000119312526392335/0001193125-26-392335-index.htm",
-    "published_iso": "2026-09-16T01:50:06+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "93ab6a633dc6",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Singh Inder M withheld (tax) 6,272 shares of Ionq, Inc. (IONQ-WT) \u00b7 $37.09/share \u00b7 $232,649 total \u00b7 Sep 15",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1824920/000119312526392334/0001193125-26-392334-index.htm",
-    "published_iso": "2026-09-16T01:50:05+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "e188876d6599",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "De Masi Niccolo withheld (tax) 16,121 shares of Ionq, Inc. (IONQ-WT) \u00b7 $37.09/share \u00b7 $597,979 total \u00b7 Sep 15",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1824920/000119312526392333/0001193125-26-392333-index.htm",
-    "published_iso": "2026-09-16T01:50:03+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "9bb66943aa74",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Maurer Mark Lowry exercised options for 69,372 shares of Stonex Group Inc. (SNEX) \u00b7 $8.90/share \u00b7 $617,411 total \u00b7 Sep 15 ($7,621,904 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "SNEX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1662210/000166221026000015/0001662210-26-000015-index.htm",
-    "published_iso": "2026-09-16T01:41:21+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "993ed5fbc2e8",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Air Force Secretary confirms US deployed weapons in space. Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  Air Force Secretary confirms US deployed weapons in space Air Force Secretary Troy Meink confirmed Monday that",
-    "tags": [
-      "Defense",
-      "Taxes"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/6091851-air-force-secretary-weapons-space-newsletter/",
-    "published_iso": "2026-09-15T23:28:55+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "b82ec81abddd",
@@ -459,7 +416,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h300?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-15T21:27:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "58675487d7e0",
@@ -480,7 +437,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trumps-special-visit-to-ashe-county-north-carolina-bearing-witness-to-a-communitys-resilience/",
     "published_iso": "2026-09-15T20:36:07+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "f5ef8bcafaa7",
@@ -509,7 +466,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-statement-on-democrats-killing-clarity-act/",
     "published_iso": "2026-09-15T20:22:32+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "a2e7be58bb1e",
@@ -537,7 +494,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mvlcc3luvs2l",
     "published_iso": "2026-09-15T18:53:13.947000+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "106310f2c468",
