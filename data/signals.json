@@ -1,89 +1,416 @@
 [
   {
-    "id": "c3256de53a36",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "120dd56799e2",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
     },
     "severity": "medium",
-    "content": "Prober Charles J. exercised options for 7,930 shares of Life360, Inc. (LIFX) \u00b7 $11.18/share \u00b7 $88,657 total \u00b7 Sep 16 ($422,669 across all blocks)",
+    "content": "Airworthiness Directives; Airbus SAS Airplanes. The FAA is adopting a new airworthiness directive (AD) for all Airbus SAS Model A330-243, A330-243F, A330-341, A330-342, and A330-343 airplanes. This AD was prompted by reports of cracked and broken restraint brackets of the anti-ice piccolo tube found during maintenance ",
     "tags": [],
-    "tickers": [
-      "LIFX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1696247/000158176026000162/0001581760-26-000162-index.htm",
-    "published_iso": "2026-09-17T00:53:32+00:00",
-    "time_ago": "just now"
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19084/airworthiness-directives-airbus-sas-airplanes",
+    "published_iso": "2026-09-17T04:00:00+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "d8b4fc2ea82b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "2a0b804a9a39",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
     },
     "severity": "medium",
-    "content": "I Squared Capital, Llc sold 1,025 shares of Kinetik Holdings Inc. (KNTK) \u00b7 $55.15/share \u00b7 $56,529 total \u00b7 Sep 16 ($797,771 across all blocks)",
+    "content": "Airworthiness Directives; The Boeing Company Airplanes. The FAA is adopting a new airworthiness directive (AD) for certain The Boeing Company Model 767-300F series airplanes. This AD was prompted by a report of a supplier notice of escapement documenting that some titanium cargo track crown fittings had suspect materia",
     "tags": [],
     "tickers": [
-      "KNTK"
+      "BA"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2020905/000090514826004208/0000905148-26-004208-index.htm",
-    "published_iso": "2026-09-17T00:38:49+00:00",
-    "time_ago": "15m ago"
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19083/airworthiness-directives-the-boeing-company-airplanes",
+    "published_iso": "2026-09-17T04:00:00+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "5279482738b0",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "88bdb5756428",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
     },
-    "severity": "medium",
-    "content": "Dageville Benoit gifted 100,000 shares of Snowflake Inc. (SNOW) \u00b7 Sep 16 ($676,997 across all blocks)",
-    "tags": [],
+    "severity": "high",
+    "content": "Medical Devices; Exemption From Premarket Notification: Radiology Computer-Aided Detection and/or Diagnosis Devices and Computer-Aided Triage and Notification Devices. The Food and Drug Administration (FDA) is publishing an order setting forth its final determination regarding a partial exemption from the premarket not",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19074/medical-devices-exemption-from-premarket-notification-radiology-computer-aided-detection-andor",
+    "published_iso": "2026-09-17T04:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "9e1b7566df3a",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Partial Repeal of the Carbon Pollution Standards for Fossil Fuel-Fired Electric Generating Units. In this final rule, the U.S. Environmental Protection Agency (EPA) is repealing most provisions of the 2024 Carbon Pollution Standards for greenhouse gas (GHG) emissions from fossil fuel-fired electric generating units (EG",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19071/partial-repeal-of-the-carbon-pollution-standards-for-fossil-fuel-fired-electric-generating-units",
+    "published_iso": "2026-09-17T04:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "0b6c28b88dd8",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Revocation of Obsolete Rules Regarding Infant Bouncer Seats and Stationary Activity Centers. The U.S. Consumer Product Safety Commission (Commission or CPSC) is withdrawing a direct final rule that would remove two obsolete rules concerning infant bouncer seats and stationary activity centers that was published in the ",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19065/revocation-of-obsolete-rules-regarding-infant-bouncer-seats-and-stationary-activity-centers",
+    "published_iso": "2026-09-17T04:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "de0fbae3c40f",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Safety Zone; Key West Main Ship Channel, and Fleming Key Cut, Key West, FL. The Coast Guard is establishing two temporary safety zones to support U.S. military training operations. Zone 1 will encompass the navigable waters of Fleming Key Cut within a 500-foot radius of surface support vessels. Zone 2 will encompass th",
+    "tags": [
+      "Defense"
+    ],
     "tickers": [
-      "SNOW"
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1821737/000182173726000014/0001821737-26-000014-index.htm",
-    "published_iso": "2026-09-17T00:38:15+00:00",
-    "time_ago": "16m ago"
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19060/safety-zone-key-west-main-ship-channel-and-fleming-key-cut-key-west-fl",
+    "published_iso": "2026-09-17T04:00:00+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "f082883c4763",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "2b7535cc6df2",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
     },
     "severity": "medium",
-    "content": "Beaulier Jonathan Mead withheld (tax) 101 shares of Snowflake Inc. (SNOW) \u00b7 $332.35/share \u00b7 $33,567 total \u00b7 Sep 16 ($6,749,557 across all blocks)",
+    "content": "Special Local Regulation; Maumee River, Toledo, OH. The Coast Guard is establishing a temporary special local regulation (SLR) for certain navigable waters of the Maumee River near Toledo, OH. This action is necessary to provide for the safety of life on these navigable waters during the Glass City Regatta occurring on",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19056/special-local-regulation-maumee-river-toledo-oh",
+    "published_iso": "2026-09-17T04:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "66474bcef426",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Mike Johnson sent Congress on vacation through November to prevent votes on the Epstein files, Pete Hegseth\u2019s impeachment and AI regulation.\n\nWe need to be back doing the people\u2019s work.",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/khanna.house.gov/post/3mvoni4k3ws2v",
+    "published_iso": "2026-09-17T02:51:26.640000+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "69f9a4a9e6c4",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Trump credits Whatley for GOP's past 'record setting' election wins in NC rally. President Trump made his first campaign stop in North Carolina Wednesday since last week's Republican National Committee (RNC) Midterm Convention, rallying for Senate candidate Michael Whatley as Republicans hope to keep the Tar Heel State",
     "tags": [
       "Taxes"
     ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/6094443-trump-whatley-rally-gop-battleground-credit/",
+    "published_iso": "2026-09-17T02:05:22+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "4b68427311e3",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Keating Brendan Joseph received 5,252 shares of Boston Omaha Corp (BOC) \u00b7 $13.71/share \u00b7 $72,005 total \u00b7 Sep 16 ($1,441,787 across all blocks)",
+    "tags": [],
     "tickers": [
-      "SNOW"
+      "BOC"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2127025/000212702526000007/0002127025-26-000007-index.htm",
-    "published_iso": "2026-09-17T00:37:47+00:00",
-    "time_ago": "16m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1689627/000143774926030602/0001437749-26-030602-index.htm",
+    "published_iso": "2026-09-17T01:51:30+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "e93e1e6f083b",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Madaus Martin D received 36,653 shares of Azenta, Inc. (AZTA) \u00b7 Sep 16",
+    "tags": [],
+    "tickers": [
+      "AZTA"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1310268/000162828026062354/0001628280-26-062354-index.htm",
+    "published_iso": "2026-09-17T01:50:14+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "abc3fe7184d7",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Arnold Frances received 0 shares of Alphabet Inc. (GOOGN) \u00b7 Sep 16 ($0 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "GOOGN",
+      "GOOGL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1665419/000119312526393517/0001193125-26-393517-index.htm",
+    "published_iso": "2026-09-17T01:44:13+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "0e32290adda2",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Washington Robin L received 1 shares of Alphabet Inc. (GOOGN) \u00b7 Sep 16 ($0 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "GOOGN",
+      "GOOGL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526393515/0001193125-26-393515-index.htm",
+    "published_iso": "2026-09-17T01:43:49+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "38a43bb0c2d7",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Shriram Kavitark Ram received 1 shares of Alphabet Inc. (GOOGN) \u00b7 Sep 16 ($0 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "GOOGN",
+      "GOOGL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526393513/0001193125-26-393513-index.htm",
+    "published_iso": "2026-09-17T01:43:06+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "9e714f60599b",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hennessy John L. received 1 shares of Alphabet Inc. (GOOGN) \u00b7 Sep 16 ($0 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "GOOGN",
+      "GOOGL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526393511/0001193125-26-393511-index.htm",
+    "published_iso": "2026-09-17T01:42:06+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "4eb6214a371e",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Bucella Michael C. bought 6,085 shares of Terawulf Inc. (WULF) \u00b7 $14.79/share \u00b7 $89,967 total \u00b7 Sep 16",
+    "tags": [],
+    "tickers": [
+      "WULF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1915351/000162828026062352/0001628280-26-062352-index.htm",
+    "published_iso": "2026-09-17T01:41:30+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "6b13e7a4e57c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Doerr L John received 1 shares of Alphabet Inc. (GOOGN) \u00b7 Sep 16 ($0 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "GOOGN",
+      "GOOGL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526393509/0001193125-26-393509-index.htm",
+    "published_iso": "2026-09-17T01:41:27+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "d19ca5359f87",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ferguson Roger W. Jr. received 1 shares of Alphabet Inc. (GOOGN) \u00b7 Sep 16 ($0 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "GOOGN",
+      "GOOGL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526393506/0001193125-26-393506-index.htm",
+    "published_iso": "2026-09-17T01:40:23+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "81f34dd6fe37",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Peter Navarro says Fed's rate raise is 'a bad decision'. White House adviser Peter Navarro on Wednesday blasted the Federal Reserve's move to raise interest rates in several years, calling it \"a bad decision.\" The central bank\u2019s Federal Open Market Committee (FOMC), led by Fed Chair Kevin Warsh, voted unanimously to in",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/6094397-navarro-blasts-fed-rate-hike/",
+    "published_iso": "2026-09-17T00:55:41+00:00",
+    "time_ago": "4h ago"
   },
   {
     "id": "496fad1ac133",
@@ -109,29 +436,148 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/administration/6094303-trump-blames-fed-rate-hike/",
     "published_iso": "2026-09-16T23:11:22+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "6h ago"
   },
   {
-    "id": "8cd1baae0f12",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "c7260e87b710",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
     },
-    "severity": "critical",
-    "content": "DHS's 'warning notice' to ICE critic 'likely' violated First Amendment: Federal judge. A federal judge ruled late Tuesday that the Department of Homeland Security's (DHS) may not send any more warning notices to the New York man who sent a critical email to Immigration and Customs Enforcement (ICE), saying the practice",
+    "severity": "high",
+    "content": "S. 2403: Retire through Ownership Act. Vote: Passed 401/14",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h314?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-09-16T23:05:00+00:00",
+    "time_ago": "6h ago"
+  },
+  {
+    "id": "dcd21ba717fa",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "H.R. 9497: Water Resources Development Act of 2026. Vote: Passed 415/9",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h313?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-09-16T22:58:00+00:00",
+    "time_ago": "6h ago"
+  },
+  {
+    "id": "ced321053990",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "H.R. 9340: Ratepayer Protection Act. Vote: Passed 417/3",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h312?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-09-16T22:53:00+00:00",
+    "time_ago": "6h ago"
+  },
+  {
+    "id": "311137f2bb40",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "H.J.Res. 213: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule issued by the Environmental Protection Agency relating to the \u201cCalifornia State Nonroad Engine Pollution Control Standards; Commercial Harbo. Vote: Passed 214/208",
     "tags": [
-      "Regulation",
-      "Taxes"
+      "Regulation"
     ],
     "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/regulation/court-battles/6094062-dhs-warning-notice-ice-critic-block/",
-    "published_iso": "2026-09-16T22:51:56+00:00",
-    "time_ago": "2h ago"
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h311?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-09-16T22:49:00+00:00",
+    "time_ago": "6h ago"
+  },
+  {
+    "id": "34ad40a52f7a",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "H.R. 10326: PROOF Act. Vote: Passed 217/207",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h310?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-09-16T22:43:00+00:00",
+    "time_ago": "6h ago"
+  },
+  {
+    "id": "2fa701b3b953",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "critical",
+    "content": "H.R. 9576: National Fraud Enforcement Division Act of 2026. Vote: Passed 352/72",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h309?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-09-16T22:37:00+00:00",
+    "time_ago": "7h ago"
+  },
+  {
+    "id": "c29c321d77b9",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "critical",
+    "content": "H.R. 5334: Lindsey O. Graham Sanctioning Russia and Iran Act of 2026. Vote: Passed 262/159",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h308?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-09-16T22:28:00+00:00",
+    "time_ago": "7h ago"
   },
   {
     "id": "034d047a9509",
@@ -143,7 +589,7 @@
       "fg": "#4ade80"
     },
     "severity": "medium",
-    "content": "Patients want to know that decisions about their health care are being made by doctors, not by Wall Street investors.   \n \nIf we\u2019re going to lower costs and un-rig the health care system, we need to stop the corporate takeover of medicine.   \n \nI\u2019ve got a bill to get the job done.",
+    "content": "Patients want to know that decisions about their health care are being made by doctors, not by Wall Street investors.\n\nIf we\u2019re going to lower costs and un-rig the health care system, we need to stop the corporate takeover of medicine.\n\nI\u2019ve got a bill to get the job done.",
     "tags": [
       "Banking",
       "Regulation"
@@ -154,11 +600,11 @@
       "CVS",
       "JPM"
     ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nitter.meowing.monster/SenWarren/status/2100335252140970175#m",
-    "published_iso": "2026-09-16T21:25:21+00:00",
-    "time_ago": "3h ago"
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mvo2ztd7cc23",
+    "published_iso": "2026-09-16T21:21:19.858000+00:00",
+    "time_ago": "8h ago"
   },
   {
     "id": "f1cdb01f5d1b",
@@ -179,7 +625,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/16/jay-jacobs-gets-his-first-ever-challenger-for-state-dem-chair-01080908",
     "published_iso": "2026-09-16T20:52:59+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "0d03acd11d3a",
@@ -200,36 +646,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-provides-meaningful-water-quality-improvements-through-collaboration-and-oversight-of-federal-support/",
     "published_iso": "2026-09-16T20:25:19+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "e80e687ce360",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "low",
-    "content": "You will pay more for your mortgage and your credit card bills because of Donald Trump. \n \n \n The Washington Post (@washingtonpost) \n \n Breaking news: The Federal Reserve raised interest rates by a quarter point, its first increase in more than three years, as persistently high oil prices from the Iran conflict send in",
-    "tags": [
-      "Energy",
-      "Banking",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "XOM",
-      "CVX",
-      "COP",
-      "OXY"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nitter.meowing.monster/SenWarren/status/2100300942092468593#m",
-    "published_iso": "2026-09-16T19:09:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "dcd00aa841df",
@@ -255,7 +672,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
     "published_iso": "2026-09-16T18:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "871ffab494b5",
@@ -281,7 +698,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
     "published_iso": "2026-09-16T18:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "af0a22a414a2",
@@ -303,7 +720,33 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/09/safer-stronger-built-in-america-president-trumps-record-in-north-carolina/",
     "published_iso": "2026-09-16T17:53:07+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
+  },
+  {
+    "id": "2dc935c3a1f8",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "medium",
+    "content": "When Washington pays the bill and states police the spending, waste and fraud are inevitable. \n \nMedicaid expansion is 90% federally funded. States have little skin in the game, but taxpayers still pay the price. \n \nPut the responsibility back on the states: if you spend it, you police it.  @WillCainShow  \n \n Video",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.meowing.monster/RandPaul/status/2100270991842889921#m",
+    "published_iso": "2026-09-16T17:10:00+00:00",
+    "time_ago": "12h ago"
   },
   {
     "id": "6aa40c3e6700",
@@ -329,173 +772,32 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mvnmaftec22o",
     "published_iso": "2026-09-16T16:56:34.464000+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "12h ago"
   },
   {
-    "id": "e5c628d50f30",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
+    "id": "80377b92871d",
+    "politician": "Sen. Cynthia Lummis",
+    "initials": "CL",
+    "role": "Senate Banking Subcommittee (Crypto)",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
+      "bg": "#1a1a2a",
+      "fg": "#c4b5fd"
     },
     "severity": "medium",
-    "content": "Revised Medical Criteria for Evaluating Cardiovascular Disorders",
-    "tags": [],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/09/16/C1-2026-13420/revised-medical-criteria-for-evaluating-cardiovascular-disorders",
-    "published_iso": "2026-09-16T04:00:00+00:00",
-    "time_ago": "20h ago"
-  },
-  {
-    "id": "c386520c3253",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "critical",
-    "content": "Whistleblower Award Determination. The Commodity Futures Trading Commission (&quot;Commission&quot; or &quot;CFTC&quot;) is amending its rules implementing section 23 of the Commodity Exchange Act (&quot;CEA&quot;). Section 23 of the CEA and the Commission's implementing regulations provide for the payment of awards, s",
+    "content": "Glad crypto policy is moving forward in the House this week.  @WaysandMeansGOP  is marking up its crypto tax bill for clearer, more certain tax rules, and  @FinancialCmte  is marking up my Strategic Bitcoin Reserve bill.  \n \nThe fight for American leadership in Bitcoin and digital assets will not end.",
     "tags": [
-      "Regulation"
+      "Crypto",
+      "Regulation",
+      "Taxes"
     ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/09/16/2026-19006/whistleblower-award-determination",
-    "published_iso": "2026-09-16T04:00:00+00:00",
-    "time_ago": "20h ago"
-  },
-  {
-    "id": "42584a6d47df",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "critical",
-    "content": "Annual Fireworks Displays and Other Events in the USCG Heartland District Requiring Safety Zones. The Coast Guard will enforce a safety zone for the University of Pittsburgh Drone Show on September 17, 2026, to provide for the safety of life on navigable waterways during this event. Our regulation for annual fireworks ",
-    "tags": [
-      "Regulation"
+    "tickers": [
+      "BTC"
     ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/09/16/2026-18996/annual-fireworks-displays-and-other-events-in-the-uscg-heartland-district-requiring-safety-zones",
-    "published_iso": "2026-09-16T04:00:00+00:00",
-    "time_ago": "20h ago"
-  },
-  {
-    "id": "3f57f2ab62ce",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Federal-State Unemployment Compensation (UC) Program; Data Availability. The Department of Labor (DOL or the Department) is issuing this final rule to require the disclosure of confidential unemployment compensation (UC) information to Federal officials for purposes of UC program oversight and audits. This rule will en",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/09/16/2026-18978/federal-state-unemployment-compensation-uc-program-data-availability",
-    "published_iso": "2026-09-16T04:00:00+00:00",
-    "time_ago": "20h ago"
-  },
-  {
-    "id": "d05cea53bd17",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Safety Zone; Lake St. Clair, Grosse Pointe Farms, MI. The Coast Guard is establishing a temporary safety zone for the navigable waters of Lake St. Clair for a fireworks display. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with an over water firew",
-    "tags": [
-      "Agriculture"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/09/16/2026-18977/safety-zone-lake-st-clair-grosse-pointe-farms-mi",
-    "published_iso": "2026-09-16T04:00:00+00:00",
-    "time_ago": "20h ago"
-  },
-  {
-    "id": "20a8bd71418a",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "critical",
-    "content": "Special Local Regulations; Recurring Marine Events, Sector St. Petersburg. The Coast Guard will enforce special local regulations for the Clearwater Offshore National/Race World Offshore from September 26, 2026, through September 27, 2026, to provide for the safety of life on navigable waterways during this event. Our ",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/09/16/2026-18960/special-local-regulations-recurring-marine-events-sector-st-petersburg",
-    "published_iso": "2026-09-16T04:00:00+00:00",
-    "time_ago": "20h ago"
-  },
-  {
-    "id": "1aaddec07339",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Registration of Lawful Permanent Residence for Children Born to Foreign Government Employees in the United States; Correction. This document corrects the interim final rule (IFR) that published in the Federal Register on September 9, 2026. The IFR amends its regulations to permit children born in the United States to &",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/09/16/2026-18949/registration-of-lawful-permanent-residence-for-children-born-to-foreign-government-employees-in-the",
-    "published_iso": "2026-09-16T04:00:00+00:00",
-    "time_ago": "20h ago"
-  },
-  {
-    "id": "0d6bfe9b0fa0",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "International Traffic in Arms Regulations: Modification of Civil Aircraft To Incorporate Aircraft Survivability Equipment. The Department of State (the Department) is correcting an interim final rule that appeared in the Federal Register on August 28, 2026. The document contained an error in Amendatory Instruction 2. T",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/09/16/2026-18914/international-traffic-in-arms-regulations-modification-of-civil-aircraft-to-incorporate-aircraft",
-    "published_iso": "2026-09-16T04:00:00+00:00",
-    "time_ago": "20h ago"
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.jaydenha.uk/SenLummis/status/2100230404464582753#m",
+    "published_iso": "2026-09-16T14:28:43+00:00",
+    "time_ago": "15h ago"
   },
   {
     "id": "5e1cfab41d1e",
@@ -520,145 +822,6 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h307?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-16T02:32:00+00:00",
-    "time_ago": "22h ago"
-  },
-  {
-    "id": "3d0b616eb1a2",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.J.Res. 210: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \u201cCalifornia State Nonroad Engine Pollution Control Standards; Ocean-Going Vesse. Vote: Passed 216/211",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h306?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-16T02:21:00+00:00",
-    "time_ago": "22h ago"
-  },
-  {
-    "id": "a211e1df5248",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.R. 9500: Tax Relief for Fraud Victims Act. Vote: Passed 408/17",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h305?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-16T02:15:00+00:00",
-    "time_ago": "22h ago"
-  },
-  {
-    "id": "eeda760cc0f8",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.R. 2140: Diesel Emissions Reduction Act of 2025. Vote: Passed 343/79",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h304?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-16T02:11:00+00:00",
-    "time_ago": "22h ago"
-  },
-  {
-    "id": "3ccabb19ae12",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.R. 4646: Whistleblower Protection Act of 2025. Vote: Passed 424/0",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h303?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-16T02:06:00+00:00",
-    "time_ago": "22h ago"
-  },
-  {
-    "id": "6358b18b4ecb",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.R. 8278: Fostering the Use of Technology to Uphold Regulatory Effectiveness in Supervision Act. Vote: Passed 417/7",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h302?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-16T02:03:00+00:00",
-    "time_ago": "22h ago"
-  },
-  {
-    "id": "5971b6d23191",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.R. 2978: GUARD Act. Vote: Passed 414/7",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h301?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-16T01:57:00+00:00",
-    "time_ago": "22h ago"
-  },
-  {
-    "id": "b82ec81abddd",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "critical",
-    "content": "H.Res. 1530: Providing for consideration of the bill (H.R. 9576) to establish the National Fraud Enforcement Division of the Department of Justice; providing for consideration of the bill (H.R. 10326) to enhance information-sharing capabilities between F. Vote: Passed 214/211",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h300?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-15T21:27:00+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -738,7 +901,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-boozman-scott-release-final-clarity-act-text/",
     "published_iso": "2026-09-14T02:01:07+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "af20a4831d15",
