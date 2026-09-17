@@ -1,29 +1,6 @@
 [
   {
-    "id": "bb43752da6b2",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Finch Jennifer Leigh acquired/disposed 750 shares of Artesian Resources Corp (ARTNB) \u00b7 $35.07/share \u00b7 $26,302 total \u00b7 Sep 17",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [
-      "ARTNB"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1485580/000086311026000093/0000863110-26-000093-index.htm",
-    "published_iso": "2026-09-17T15:04:25+00:00",
-    "time_ago": "4m ago"
-  },
-  {
-    "id": "255a27f22d6c",
+    "id": "4ebf886251e7",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -32,21 +9,87 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Kim introduces bill to eliminate long waiting periods for disability benefits. Sen. Andy Kim (D-N.J.) on Thursday introduced legislation to phase out waiting periods for Social Security Disability Insurance (SSDI) and Medicare benefits. Kim's bill, the Stop the Wait Act, would phase out the five-month waiting period fo",
+    "content": "After months of vacancies, Kennedy revamps preventive services panel with new members. Health and Human Services Secretary Robert F. Kennedy Jr. on Thursday named eight new members to the U.S. Preventive Services Task Force (USPSTF), an influential panel of experts who\u00a0determine what preventive medical services insurer",
     "tags": [
-      "Healthcare",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/healthcare/6096170-kennedy-overhauls-preventive-care-panel/",
+    "published_iso": "2026-09-17T18:40:25+00:00",
+    "time_ago": "20m ago"
+  },
+  {
+    "id": "69debb5dc9e5",
+    "politician": "Politico",
+    "initials": "PO",
+    "role": "Political News",
+    "color": {
+      "bg": "#1a0a0a",
+      "fg": "#fca5a5"
+    },
+    "severity": "medium",
+    "content": "Democratic advisers are warning their candidates not to go too hard at AI. Democratic consultants are warning their candidates in some key races not to lean into AI regulations out of fear that powerful tech groups could spend heavily against them",
+    "tags": [
       "Regulation"
     ],
+    "tickers": [],
+    "source": "politico",
+    "platform": "Politico",
+    "url": "https://www.politico.com/news/2026/09/17/democrats-ai-regulation-midterms-warnings-01082564",
+    "published_iso": "2026-09-17T17:55:20+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "678ce20a7689",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Human rights experts: 'Reasonable grounds' to believe US committed war crimes with Iran strikes. The United Nations's fact-finding mission on Iran said Thursday it found \u201creasonable grounds\u201d that the U.S. military committed war crimes in two airstrikes inside Iran and accused Iran\u2019s government of carrying out crimes ag",
+    "tags": [
+      "Defense",
+      "Taxes",
+      "Sanctions"
+    ],
     "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/healthcare/6095417-kim-introduces-ssdi-medicare-bill/",
-    "published_iso": "2026-09-17T14:59:25+00:00",
-    "time_ago": "9m ago"
+    "url": "https://thehill.com/policy/defense/6096072-un-accuses-us-iranian-war-crimes/",
+    "published_iso": "2026-09-17T17:36:34+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "92ced3a134dd",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "Withdrawals Sent to the Senate. WITHDRAWALS SENT TO THE SENATE: Jeffrey Anderson, of Georgia, to be Representative of the United States of America on the Council of the International Civil Aviation Organization, with the rank of Ambassador, which was sent to the Senate on January 13, 2026. John Grunewald II, of Oklahom",
+    "tags": [
+      "Agriculture",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/09/withdrawals-sent-to-the-senate/",
+    "published_iso": "2026-09-17T15:48:13+00:00",
+    "time_ago": "3h ago"
   },
   {
     "id": "c36589a40ab0",
@@ -67,7 +110,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/09/president-trumps-top-250-victories-for-people-of-faith/",
     "published_iso": "2026-09-17T12:00:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "120dd56799e2",
@@ -86,7 +129,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19084/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-09-17T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "2a0b804a9a39",
@@ -107,7 +150,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19083/airworthiness-directives-the-boeing-company-airplanes",
     "published_iso": "2026-09-17T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "88bdb5756428",
@@ -128,7 +171,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19074/medical-devices-exemption-from-premarket-notification-radiology-computer-aided-detection-andor",
     "published_iso": "2026-09-17T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "9e1b7566df3a",
@@ -149,7 +192,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19071/partial-repeal-of-the-carbon-pollution-standards-for-fossil-fuel-fired-electric-generating-units",
     "published_iso": "2026-09-17T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "0b6c28b88dd8",
@@ -170,7 +213,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19065/revocation-of-obsolete-rules-regarding-infant-bouncer-seats-and-stationary-activity-centers",
     "published_iso": "2026-09-17T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "de0fbae3c40f",
@@ -196,7 +239,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19060/safety-zone-key-west-main-ship-channel-and-fleming-key-cut-key-west-fl",
     "published_iso": "2026-09-17T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "2b7535cc6df2",
@@ -217,7 +260,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19056/special-local-regulation-maumee-river-toledo-oh",
     "published_iso": "2026-09-17T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "66474bcef426",
@@ -238,7 +281,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mvoni4k3ws2v",
     "published_iso": "2026-09-17T02:51:26.640000+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "c7260e87b710",
@@ -257,7 +300,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h314?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-16T23:05:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "dcd21ba717fa",
@@ -276,7 +319,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h313?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-16T22:58:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "ced321053990",
@@ -295,7 +338,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h312?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-16T22:53:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "311137f2bb40",
@@ -316,7 +359,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h311?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-16T22:49:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "34ad40a52f7a",
@@ -335,7 +378,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h310?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-16T22:43:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "2fa701b3b953",
@@ -354,7 +397,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h309?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-16T22:37:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "c29c321d77b9",
@@ -379,7 +422,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h308?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-16T22:28:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "034d047a9509",
@@ -406,7 +449,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mvo2ztd7cc23",
     "published_iso": "2026-09-16T21:21:19.858000+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "f1cdb01f5d1b",
@@ -427,7 +470,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/16/jay-jacobs-gets-his-first-ever-challenger-for-state-dem-chair-01080908",
     "published_iso": "2026-09-16T20:52:59+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "0d03acd11d3a",
@@ -448,7 +491,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-provides-meaningful-water-quality-improvements-through-collaboration-and-oversight-of-federal-support/",
     "published_iso": "2026-09-16T20:25:19+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "dcd00aa841df",
@@ -474,7 +517,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
     "published_iso": "2026-09-16T18:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "871ffab494b5",
@@ -500,7 +543,33 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
     "published_iso": "2026-09-16T18:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
+  },
+  {
+    "id": "2dc935c3a1f8",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "medium",
+    "content": "When Washington pays the bill and states police the spending, waste and fraud are inevitable. \n \nMedicaid expansion is 90% federally funded. States have little skin in the game, but taxpayers still pay the price. \n \nPut the responsibility back on the states: if you spend it, you police it.  @WillCainShow  \n \n Video",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.jaydenha.uk/RandPaul/status/2100270991842889921#m",
+    "published_iso": "2026-09-16T17:10:00+00:00",
+    "time_ago": "1d ago"
   },
   {
     "id": "6aa40c3e6700",
@@ -526,7 +595,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mvnmaftec22o",
     "published_iso": "2026-09-16T16:56:34.464000+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "5e1cfab41d1e",
@@ -581,27 +650,6 @@
     "url": "https://www.lummis.senate.gov/press-releases/lummis-statement-on-democrats-killing-clarity-act/",
     "published_iso": "2026-09-15T20:22:32+00:00",
     "time_ago": "1d ago"
-  },
-  {
-    "id": "106310f2c468",
-    "politician": "Politico",
-    "initials": "PO",
-    "role": "Political News",
-    "color": {
-      "bg": "#1a0a0a",
-      "fg": "#fca5a5"
-    },
-    "severity": "medium",
-    "content": "The 2026 race that\u2019s testing Andy Beshear\u2019s 2028 reach. Latino leaders are frustrated that the Kentucky governor, who chairs the Democratic Governors Association, hasn't capitalized on momentum in Texas",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "politico",
-    "platform": "Politico",
-    "url": "https://www.politico.com/news/2026/09/14/beshear-texas-governor-hinojosa-01074891",
-    "published_iso": "2026-09-14T18:55:08+00:00",
-    "time_ago": "2d ago"
   },
   {
     "id": "5d55edde89de",
@@ -772,7 +820,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
     "published_iso": "2026-08-25T18:00:00+00:00",
-    "time_ago": "22d ago"
+    "time_ago": "23d ago"
   },
   {
     "id": "f281bf40952f",
@@ -826,7 +874,28 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "40d ago"
+    "time_ago": "41d ago"
+  },
+  {
+    "id": "1a1d646c1e56",
+    "politician": "Rep. Alexandria Ocasio-Cortez",
+    "initials": "AOC",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#93c5fd"
+    },
+    "severity": "high",
+    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.meowing.monster/AOC/status/2085006319220625569#m",
+    "published_iso": "2026-08-05T14:13:38+00:00",
+    "time_ago": "43d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -855,7 +924,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "55d ago"
+    "time_ago": "56d ago"
   },
   {
     "id": "de38f5381391",
@@ -876,7 +945,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "56d ago"
+    "time_ago": "57d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -963,7 +1032,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "128d ago"
+    "time_ago": "129d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1054,7 +1123,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "175d ago"
+    "time_ago": "176d ago"
   },
   {
     "id": "00f579ee8f55",
@@ -1120,7 +1189,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "237d ago"
+    "time_ago": "238d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1139,6 +1208,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "274d ago"
+    "time_ago": "275d ago"
   }
 ]
