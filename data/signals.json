@@ -1,6 +1,52 @@
 [
   {
-    "id": "0acb134ab81b",
+    "id": "9c3004849ed7",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Buran John R sold 113,630 shares of Oceanfirst Financial Corp (OCFC) \u00b7 $19.40/share \u00b7 $2,204,831 total \u00b7 Sep 18",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "OCFC"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1237678/000123767826000018/0001237678-26-000018-index.htm",
+    "published_iso": "2026-09-18T17:10:53+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "5c0138903038",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Buran John R received 113,329 shares of Oceanfirst Financial Corp (OCFC) \u00b7 Sep 18 ($639,425 across all blocks)",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "OCFC"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1237678/000123767826000016/0001237678-26-000016-index.htm",
+    "published_iso": "2026-09-18T17:08:49+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "a32afa7f3ad5",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -8,17 +54,86 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "low",
-    "content": "Did Republican redistricting gains fall short of expectations?. With the midterm primaries now behind us, where does the political map stand? Are GOP redistricting efforts positioned to deliver the gains many expected in November? Plus, President Trump's latest comments on artificial intelligence are fueling a new deba",
+    "severity": "critical",
+    "content": "Where Trump's hunting, fishing order will have the most impact. President Trump on Thursday signed new executive orders aimed at expanding hunting and fishing access in the U.S., rolling back restrictions on these activities.\u00a0 The president unveiled \u201cReinvigorating America\u2019s Hunting Heritage\u201d and \u201cRestoring American Sa",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6098165-trump-burgum-hunting-fishing/",
+    "published_iso": "2026-09-18T16:34:32+00:00",
+    "time_ago": "37m ago"
+  },
+  {
+    "id": "a337cd3e1d53",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "More than 100 Democratic operatives urge party leaders to reject AI cash. More than 170 Democratic organizers and campaign staff members are calling on the party's leaders to reject campaign donations from the pro-artificial intelligence super PAC Leading the Future (LTF) as the debate over AI safety and regulations in",
     "tags": [
-      "Regulation"
+      "Regulation",
+      "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6097431-republican-redistricting-gains-expectations-vs-reality-midterms-discussion/",
-    "published_iso": "2026-09-18T12:13:53+00:00",
+    "url": "https://thehill.com/policy/technology/6097925-democrats-ai-leading-future-super-pac-letter/",
+    "published_iso": "2026-09-18T15:40:46+00:00",
     "time_ago": "1h ago"
+  },
+  {
+    "id": "9f0fe219f819",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula. Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+    "published_iso": "2026-09-18T15:00:00+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "6c9e6abea13a",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank. Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Ex",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "AXP"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+    "published_iso": "2026-09-18T15:00:00+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "96c7ff444178",
@@ -39,7 +154,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19211/international-traffic-in-arms-regulations-modification-of-us-munitions-list-category-xxa",
     "published_iso": "2026-09-18T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "2e8001cfb968",
@@ -60,7 +175,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19207/homeland-security-acquisition-regulation-make-personal-protective-equipment-in-america-act",
     "published_iso": "2026-09-18T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "4e6d5452339c",
@@ -81,7 +196,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19177/milk-in-the-northeast-and-other-marketing-areas-uniform-pricing-formula-provisions",
     "published_iso": "2026-09-18T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "80accf384a8b",
@@ -102,7 +217,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19173/establishment-of-united-states-area-navigation-route-t-581-in-the-vicinity-of-missoula-montana",
     "published_iso": "2026-09-18T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "97e41b6d4217",
@@ -123,7 +238,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19172/airworthiness-directives-rolls-royce-deutschland-ltd-and-co-kg-engines",
     "published_iso": "2026-09-18T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "cb7209d29eb4",
@@ -150,7 +265,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19161/international-traffic-in-arms-regulations-clarifying-policies-of-denial-updating-the-major-non-nato",
     "published_iso": "2026-09-18T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "07623029d32d",
@@ -172,7 +287,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19154/energy-conservation-program-energy-conservation-standards-for-manufactured-housing",
     "published_iso": "2026-09-18T04:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "1cbf7ce8dabe",
@@ -193,7 +308,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-reinvigorates-americas-hunting-heritage/",
     "published_iso": "2026-09-17T22:04:08+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "61fafe7cdc8f",
@@ -214,29 +329,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-restores-american-saltwater-angling-and-recreation/",
     "published_iso": "2026-09-17T22:02:56+00:00",
-    "time_ago": "15h ago"
-  },
-  {
-    "id": "30ac79e410ce",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "The tech lords came after me when I came out for a billionaire tax and AI regulation.  \n \nI beat them 63 to 6 this past June in the heart of Silicon Valley. \n \nYou can stand up to the billionaires and win. \n \n \n POLITICO (@politico) \n \n Democratic advisers are warning their candidates not to go too hard at AI  dlvr.it/",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nitter.meowing.monster/RoKhanna/status/2100684738130301185#m",
-    "published_iso": "2026-09-17T20:34:05+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "fee5a67d3a17",
@@ -255,7 +348,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s238?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-17T17:59:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "69debb5dc9e5",
@@ -276,7 +369,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/09/17/democrats-ai-regulation-midterms-warnings-01082564",
     "published_iso": "2026-09-17T17:55:20+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "89b993da7f5b",
@@ -295,7 +388,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s237?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-17T16:54:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "1d79087bc12c",
@@ -314,7 +407,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s236?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-17T16:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "92ced3a134dd",
@@ -336,7 +429,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/09/withdrawals-sent-to-the-senate/",
     "published_iso": "2026-09-17T15:48:13+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "c36589a40ab0",
@@ -578,32 +671,6 @@
     "time_ago": "1d ago"
   },
   {
-    "id": "6aa40c3e6700",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "HUGE: Elizabeth Warren, AOC, and other members of Congress have introduced a bill to push private equity out of healthcare.\n\nThe Stop Corporate Takeovers of Physicians Act would make it illegal for private equity, insurance companies, and for-profit corporations to own or control medical practices.",
-    "tags": [
-      "Healthcare",
-      "Regulation"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mvnmaftec22o",
-    "published_iso": "2026-09-16T16:56:34.464000+00:00",
-    "time_ago": "1d ago"
-  },
-  {
     "id": "f5ef8bcafaa7",
     "politician": "Sen. Cynthia Lummis",
     "initials": "CL",
@@ -680,7 +747,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
     "published_iso": "2026-09-11T14:00:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "81e4469b573f",
@@ -756,7 +823,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
     "published_iso": "2026-09-04T15:00:00+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "61358ba6419a",
@@ -782,52 +849,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
     "published_iso": "2026-08-27T15:00:00+00:00",
-    "time_ago": "21d ago"
-  },
-  {
-    "id": "ce88616fa393",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026. Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
-    "tags": [],
-    "tickers": [],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
-    "published_iso": "2026-08-25T18:00:00+00:00",
-    "time_ago": "23d ago"
-  },
-  {
-    "id": "f281bf40952f",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board announces approval of application by National Westminster Bank Plc. Federal Reserve Board announces approval of application by National Westminster Bank Plc",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
-    "published_iso": "2026-08-20T20:00:00+00:00",
-    "time_ago": "28d ago"
+    "time_ago": "22d ago"
   },
   {
     "id": "baf26d52584e",
@@ -855,7 +877,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "41d ago"
+    "time_ago": "42d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -884,7 +906,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "56d ago"
+    "time_ago": "57d ago"
   },
   {
     "id": "de38f5381391",
@@ -992,7 +1014,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "129d ago"
+    "time_ago": "130d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1018,7 +1040,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "135d ago"
+    "time_ago": "136d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1040,7 +1062,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "143d ago"
+    "time_ago": "144d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1064,7 +1086,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "171d ago"
+    "time_ago": "172d ago"
   },
   {
     "id": "432e035b915b",
@@ -1104,7 +1126,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "216d ago"
+    "time_ago": "217d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1123,7 +1145,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "216d ago"
+    "time_ago": "217d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1149,7 +1171,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "238d ago"
+    "time_ago": "239d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1168,6 +1190,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "275d ago"
+    "time_ago": "276d ago"
   }
 ]
