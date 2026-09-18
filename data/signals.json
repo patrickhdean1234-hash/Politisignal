@@ -1,52 +1,85 @@
 [
   {
-    "id": "9c3004849ed7",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "caa61c75f435",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "President Trump Extends Most Favored Nation Pricing to Every Medicaid Program in America. For decades, Presidents have promised to cut prescription drug prices, but only President Donald J. Trump has delivered. Prescription drug prices have now recorded their sharpest annual drop in more than 60 years \u2014 and those lower",
+    "tags": [
+      "Healthcare",
+      "Taxes"
+    ],
+    "tickers": [
+      "LLY",
+      "PFE",
+      "JNJ",
+      "MRK"
+    ],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-extends-most-favored-nation-pricing-to-every-medicaid-program-in-america/",
+    "published_iso": "2026-09-18T19:11:57+00:00",
+    "time_ago": "24m ago"
+  },
+  {
+    "id": "ca306442fb27",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Buran John R sold 113,630 shares of Oceanfirst Financial Corp (OCFC) \u00b7 $19.40/share \u00b7 $2,204,831 total \u00b7 Sep 18",
+    "content": "Live updates: Trump sets up Medicaid drug price reductions; Vance stumps in Iowa with blistering attack on Dems. The Midwest is home to several contentious congressional and gubernatorial races in November, historically red areas that are seeing Democratic candidates make inroads. Vice President Vance visited one of th",
+    "tags": [
+      "Healthcare",
+      "Defense"
+    ],
+    "tickers": [
+      "LLY",
+      "PFE",
+      "JNJ",
+      "MRK"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6097183-live-updates-trump-iran-vance-iowa-midterms/",
+    "published_iso": "2026-09-18T18:46:00+00:00",
+    "time_ago": "50m ago"
+  },
+  {
+    "id": "f56c2a6ebf42",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "43 percent say Trump responsible for current state of economy: Survey. A large share of Americans say President Trump is to blame for the current economic conditions facing the nation, including high inflation and affordability concerns, according to a new survey. The Politico/Public First poll, released Thursday, foun",
     "tags": [
       "Taxes"
     ],
     "tickers": [
-      "OCFC"
+      "GLD",
+      "TLT",
+      "SPY"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1237678/000123767826000018/0001237678-26-000018-index.htm",
-    "published_iso": "2026-09-18T17:10:53+00:00",
-    "time_ago": "1m ago"
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6098451-donald-trump-us-economy-affordability-voters-survey/",
+    "published_iso": "2026-09-18T18:44:04+00:00",
+    "time_ago": "52m ago"
   },
   {
-    "id": "5c0138903038",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Buran John R received 113,329 shares of Oceanfirst Financial Corp (OCFC) \u00b7 Sep 18 ($639,425 across all blocks)",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "OCFC"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1237678/000123767826000016/0001237678-26-000016-index.htm",
-    "published_iso": "2026-09-18T17:08:49+00:00",
-    "time_ago": "3m ago"
-  },
-  {
-    "id": "a32afa7f3ad5",
+    "id": "13b507cb645d",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -55,17 +88,24 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Where Trump's hunting, fishing order will have the most impact. President Trump on Thursday signed new executive orders aimed at expanding hunting and fishing access in the U.S., rolling back restrictions on these activities.\u00a0 The president unveiled \u201cReinvigorating America\u2019s Hunting Heritage\u201d and \u201cRestoring American Sa",
-    "tags": [],
-    "tickers": [],
+    "content": "Silicon Valley Bank failure review finds Fed staff 'should have known' about risks. A new review of the Silicon Valley Bank collapse found Federal Reserve supervisory staff \u201cknew or should have known\u201d about the institution\u2019s vulnerabilities, Michelle Bowman, the Fed's vice chair for supervision, said Friday. The initia",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6098165-trump-burgum-hunting-fishing/",
-    "published_iso": "2026-09-18T16:34:32+00:00",
-    "time_ago": "37m ago"
+    "url": "https://thehill.com/business/6098450-fed-silicon-valley-bank-collapse-failures/",
+    "published_iso": "2026-09-18T18:42:09+00:00",
+    "time_ago": "54m ago"
   },
   {
-    "id": "a337cd3e1d53",
+    "id": "899e37c5e267",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -73,17 +113,14 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "high",
-    "content": "More than 100 Democratic operatives urge party leaders to reject AI cash. More than 170 Democratic organizers and campaign staff members are calling on the party's leaders to reject campaign donations from the pro-artificial intelligence super PAC Leading the Future (LTF) as the debate over AI safety and regulations in",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
+    "severity": "medium",
+    "content": "Anthropic: AI model Claude helping build next version of it. Anthropic's chatbot Claude is leading more than a quarter of the artificial intelligence (AI) firm's research and development efforts, the company revealed Thursday. The report marks the latest sign of AI's growing capabilities within the development space it",
+    "tags": [],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/6097925-democrats-ai-leading-future-super-pac-letter/",
-    "published_iso": "2026-09-18T15:40:46+00:00",
+    "url": "https://thehill.com/policy/technology/6098297-anthropic-claude-leads-ai-development/",
+    "published_iso": "2026-09-18T18:23:09+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -110,7 +147,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
     "published_iso": "2026-09-18T15:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "6c9e6abea13a",
@@ -133,7 +170,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
     "published_iso": "2026-09-18T15:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "96c7ff444178",
@@ -154,7 +191,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19211/international-traffic-in-arms-regulations-modification-of-us-munitions-list-category-xxa",
     "published_iso": "2026-09-18T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "2e8001cfb968",
@@ -175,7 +212,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19207/homeland-security-acquisition-regulation-make-personal-protective-equipment-in-america-act",
     "published_iso": "2026-09-18T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "4e6d5452339c",
@@ -196,7 +233,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19177/milk-in-the-northeast-and-other-marketing-areas-uniform-pricing-formula-provisions",
     "published_iso": "2026-09-18T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "80accf384a8b",
@@ -217,7 +254,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19173/establishment-of-united-states-area-navigation-route-t-581-in-the-vicinity-of-missoula-montana",
     "published_iso": "2026-09-18T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "97e41b6d4217",
@@ -238,7 +275,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19172/airworthiness-directives-rolls-royce-deutschland-ltd-and-co-kg-engines",
     "published_iso": "2026-09-18T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "cb7209d29eb4",
@@ -265,7 +302,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19161/international-traffic-in-arms-regulations-clarifying-policies-of-denial-updating-the-major-non-nato",
     "published_iso": "2026-09-18T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "07623029d32d",
@@ -287,7 +324,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19154/energy-conservation-program-energy-conservation-standards-for-manufactured-housing",
     "published_iso": "2026-09-18T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "1cbf7ce8dabe",
@@ -308,7 +345,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-reinvigorates-americas-hunting-heritage/",
     "published_iso": "2026-09-17T22:04:08+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "61fafe7cdc8f",
@@ -329,7 +366,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-restores-american-saltwater-angling-and-recreation/",
     "published_iso": "2026-09-17T22:02:56+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "fee5a67d3a17",
@@ -348,7 +385,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s238?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-17T17:59:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "69debb5dc9e5",
@@ -369,7 +406,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/09/17/democrats-ai-regulation-midterms-warnings-01082564",
     "published_iso": "2026-09-17T17:55:20+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "89b993da7f5b",
@@ -429,27 +466,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/09/withdrawals-sent-to-the-senate/",
     "published_iso": "2026-09-17T15:48:13+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "c36589a40ab0",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "President Trump\u2019s Top 250 Victories For People of Faith. Promises Made, Promises Kept. Since taking office, President Donald J. Trump has made history again and again for the faith community. Since the founding of our nation, nobody has fought harder or gained more for believers, reversing the catastrophic policies of ",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/releases/2026/09/president-trumps-top-250-victories-for-people-of-faith/",
-    "published_iso": "2026-09-17T12:00:00+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -642,7 +658,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
     "published_iso": "2026-09-16T18:00:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "871ffab494b5",
@@ -668,7 +684,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
     "published_iso": "2026-09-16T18:00:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "f5ef8bcafaa7",
@@ -927,7 +943,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "57d ago"
+    "time_ago": "58d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -1105,7 +1121,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "176d ago"
+    "time_ago": "177d ago"
   },
   {
     "id": "00f579ee8f55",
