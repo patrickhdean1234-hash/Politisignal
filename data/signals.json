@@ -1,6 +1,90 @@
 [
   {
-    "id": "cd10c8e4f454",
+    "id": "64fc09c46ab4",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Macdonald Ryan S bought 5,500 shares of Bluerock Private Real Estate Fund (BPRE) \u00b7 $12.00/share \u00b7 $66,000 total \u00b7 Sep 18 ($248,048 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "BPRE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1722524/000139834426017226/0001398344-26-017226-index.htm",
+    "published_iso": "2026-09-18T23:28:50+00:00",
+    "time_ago": "11m ago"
+  },
+  {
+    "id": "863e8b1a1d43",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Lux Leslie sold 27,731 shares of Mgp Ingredients Inc (MGPI) \u00b7 $14.40/share \u00b7 $399,399 total \u00b7 Sep 18",
+    "tags": [],
+    "tickers": [
+      "MGPI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1853885/000114036126037155/0001140361-26-037155-index.htm",
+    "published_iso": "2026-09-18T23:27:59+00:00",
+    "time_ago": "12m ago"
+  },
+  {
+    "id": "2d790c23fe6a",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Masters Daniel sold 60,790 shares of Coinshares Plc (CSHRW) \u00b7 $4.79/share \u00b7 $291,300 total \u00b7 Sep 18 ($926,203 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "CSHRW"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2126182/000090514826004222/0000905148-26-004222-index.htm",
+    "published_iso": "2026-09-18T23:23:04+00:00",
+    "time_ago": "16m ago"
+  },
+  {
+    "id": "6b696c4c7b29",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Gold Daniel Allen received 5,054 shares of Roivant Sciences Ltd. (ROIV) \u00b7 Sep 18",
+    "tags": [],
+    "tickers": [
+      "ROIV"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1832142/000163508826000102/0001635088-26-000102-index.htm",
+    "published_iso": "2026-09-18T23:12:51+00:00",
+    "time_ago": "27m ago"
+  },
+  {
+    "id": "02330bd924cf",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,73 +93,108 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Who to watch in Congress on AI policy. {beacon} Technology Technology &#8202; The Big Story  Who to watch in Congress on AI policy Fears over artificial intelligence\u2019s rapid development sent Congress into a tailspin this week, as dozens of lawmakers joined the debate on how to regulate the technology.  \u00a9 Greg Nash The ",
+    "content": "CDC director says RFK Jr. has final say. Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story  CDC director says RFK Jr. has final say In her first interview since taking leadership of the Centers for Disease Control and Prevention, Erica Schwartz told Atlanta News First that she is",
     "tags": [
-      "Regulation"
+      "Healthcare",
+      "Taxes"
     ],
-    "tickers": [],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/technology/6098979-congress-ai-policy-debate/",
-    "published_iso": "2026-09-18T21:20:33+00:00",
+    "url": "https://thehill.com/newsletters/healthcare/6099295-cdc-director-says-rfk-jr-has-final-say/",
+    "published_iso": "2026-09-18T23:08:12+00:00",
     "time_ago": "31m ago"
   },
   {
-    "id": "95161fe6c9b2",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "1cf94a5f6481",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Court reinstates $7B 'Solar for All' program axed by Trump. A federal court has rebuffed the Trump administration\u2019s effort to slash a $7 billion program that seeks to provide\u00a0rooftop solar power\u00a0in disadvantaged communities.\u00a0 Judge Mary McElroy, a Trump appointee in Rhode Island, vacated the Environmental Protection Ag",
-    "tags": [
-      "Energy",
-      "Regulation"
-    ],
+    "content": "Oren Ilan received 5,054 shares of Roivant Sciences Ltd. (ROIV) \u00b7 Sep 18",
+    "tags": [],
     "tickers": [
-      "XOM",
-      "FSLR",
-      "ENPH",
-      "XLE"
+      "ROIV"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/energy-environment/6098886-epa-solar-for-all-program/",
-    "published_iso": "2026-09-18T20:48:32+00:00",
-    "time_ago": "1h ago"
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1643073/000163508826000099/0001635088-26-000099-index.htm",
+    "published_iso": "2026-09-18T23:06:43+00:00",
+    "time_ago": "33m ago"
   },
   {
-    "id": "dac21c9ecaa6",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "b788ed16e660",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "GOP senators defend Federal Reserve's decision. Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  GOP senators rebuff Trump attacks on Federal Reserve President Trump\u2019s sharp criticisms of the Federal Reserve's decision to raise inte",
-    "tags": [
-      "Banking",
-      "Defense"
-    ],
+    "content": "Momtazee James C received 5,054 shares of Roivant Sciences Ltd. (ROIV) \u00b7 Sep 18",
+    "tags": [],
     "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
+      "ROIV"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/business-economy/6098859-gop-senators-defend-federal-reserves-decision/",
-    "published_iso": "2026-09-18T20:30:28+00:00",
-    "time_ago": "1h ago"
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1635088/000120918126000007/0001209181-26-000007-index.htm",
+    "published_iso": "2026-09-18T23:01:43+00:00",
+    "time_ago": "38m ago"
   },
   {
-    "id": "3b26e84edfc4",
+    "id": "5f95bb118811",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Patel Jeetendra I received 139,225 shares of Cisco Systems, Inc. (CSCO) \u00b7 Sep 18",
+    "tags": [],
+    "tickers": [
+      "CSCO"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1779016/000085887726000152/0000858877-26-000152-index.htm",
+    "published_iso": "2026-09-18T23:01:10+00:00",
+    "time_ago": "38m ago"
+  },
+  {
+    "id": "77da10fffa36",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Patterson Mark received 92,817 shares of Cisco Systems, Inc. (CSCO) \u00b7 Sep 18",
+    "tags": [],
+    "tickers": [
+      "CSCO"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2080779/000085887726000151/0000858877-26-000151-index.htm",
+    "published_iso": "2026-09-18T23:00:59+00:00",
+    "time_ago": "39m ago"
+  },
+  {
+    "id": "a0e4b6a29722",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -84,7 +203,28 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Live updates: Trump defends White House ban of 3 media outlets, announces Medicaid drug price deal. President Trump said Friday he was kicking CNN, MS NOW and Politico out of the White House, \u201ceffective immediately,\" claiming \u201ctheir constant \u2018reporting\u2019 FAKE NEWS!\u201d as the reason. He suggested more outlets would be bann",
+    "content": "Republican highlights man freed from ICE custody in campaign ad. Rep. Monica De La Cruz (R-Texas) released a campaign advertisement featuring a man she helped get released Immigration and Customs Enforcement (ICE) custody, along with his wife \u2014 who described the U.S.'s immigration system as \"broken.\" The ad, which firs",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/house/6099073-texas-republican-ice-release-ad/",
+    "published_iso": "2026-09-18T22:27:37+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "5b320c05f163",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Trump touts Medicaid drug savings. All 50 states, Washington, D.C., and Puerto Rico have applied to participate in an arrangement intended to give lower drug prices to Medicaid programs, President Trump said Friday.\u00a0 \u201cThis one thing alone should win us the midterms,\u201d Trump told reporters in the Oval Office. Forty state",
     "tags": [
       "Healthcare"
     ],
@@ -96,8 +236,78 @@
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6097183-live-updates-trump-iran-vance-iowa-midterms/",
-    "published_iso": "2026-09-18T20:20:30+00:00",
+    "url": "https://thehill.com/homenews/administration/6099129-trump-medicaid-drug-prices/",
+    "published_iso": "2026-09-18T22:21:47+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "6c1c311d2105",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Here\u2019s how CNN, Politico and MS NOW are responding to Trump's White House ban. President Trump's threat to ban three national news outlets from covering the White House is sparking rebuke from First Amendment advocates, elected Democrats and critics from across politics and media. In a Truth Social post Friday afternoo",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/media/6099072-trump-white-house-cnn-politico-msnow-response/",
+    "published_iso": "2026-09-18T22:15:16+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "a25936b1f762",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "critical",
+    "content": "Fact Sheet: President Donald J. Trump Further Enhances Program Integrity and Interagency Coordination in the H-1B Visa Program. PROTECTING AMERICAN JOBS:&#160;Today, President Donald J. Trump signed an Executive Order and a Proclamation to continue to protect American national and economic security and American workers",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-further-enhances-program-integrity-and-interagency-coordination-in-the-h-1b-visa-program/",
+    "published_iso": "2026-09-18T22:03:18+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "2b06d229bce9",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "critical",
+    "content": "Congressional Bill H.R. 5334 Signed into Law. On Friday, September 18, 2026, the President signed into law: H.R. 5334, the &#8220;Lindsey O. Graham Sanctioning Russia and Iran Act of 2026,&#8221; which authorizes and expands statutory sanctions, tariffs, and prohibitions on Russia and extends existing sanctions on Iran",
+    "tags": [
+      "Trade",
+      "Regulation",
+      "Taxes",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-h-r-5334-signed-into-law/",
+    "published_iso": "2026-09-18T21:43:23+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -125,28 +335,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-announces-lower-drug-prices-for-all-50-state-medicaid-programs/",
     "published_iso": "2026-09-18T19:47:36+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "35d00d28ed3e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "De Meirelles Wolff Elio Gil received 625 shares of Axia Energia S.A. (AXIAY) \u00b7 Sep 18",
-    "tags": [],
-    "tickers": [
-      "AXIAY"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2120261/000121390026101384/0001213900-26-101384-index.htm",
-    "published_iso": "2026-09-18T19:43:35+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "9f651af0c7bc",
@@ -173,7 +362,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-extends-most-favored-nation-pricing-to-every-medicaid-program-in-america/",
     "published_iso": "2026-09-18T19:11:57+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "9f0fe219f819",
@@ -199,7 +388,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
     "published_iso": "2026-09-18T15:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "6c9e6abea13a",
@@ -222,7 +411,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
     "published_iso": "2026-09-18T15:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "96c7ff444178",
@@ -243,7 +432,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19211/international-traffic-in-arms-regulations-modification-of-us-munitions-list-category-xxa",
     "published_iso": "2026-09-18T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "2e8001cfb968",
@@ -264,7 +453,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19207/homeland-security-acquisition-regulation-make-personal-protective-equipment-in-america-act",
     "published_iso": "2026-09-18T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "4e6d5452339c",
@@ -285,7 +474,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19177/milk-in-the-northeast-and-other-marketing-areas-uniform-pricing-formula-provisions",
     "published_iso": "2026-09-18T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "80accf384a8b",
@@ -306,7 +495,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19173/establishment-of-united-states-area-navigation-route-t-581-in-the-vicinity-of-missoula-montana",
     "published_iso": "2026-09-18T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "97e41b6d4217",
@@ -327,7 +516,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19172/airworthiness-directives-rolls-royce-deutschland-ltd-and-co-kg-engines",
     "published_iso": "2026-09-18T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "cb7209d29eb4",
@@ -354,7 +543,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19161/international-traffic-in-arms-regulations-clarifying-policies-of-denial-updating-the-major-non-nato",
     "published_iso": "2026-09-18T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "07623029d32d",
@@ -376,7 +565,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19154/energy-conservation-program-energy-conservation-standards-for-manufactured-housing",
     "published_iso": "2026-09-18T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "1cbf7ce8dabe",
@@ -397,28 +586,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-reinvigorates-americas-hunting-heritage/",
     "published_iso": "2026-09-17T22:04:08+00:00",
-    "time_ago": "23h ago"
-  },
-  {
-    "id": "61fafe7cdc8f",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "Fact Sheet: President Donald J. Trump Restores American Saltwater Angling and Recreation. MODERNIZING MANAGEMENT AND EXPANDING PUBLIC ACCESS:&#160;Today, President Donald J. Trump signed an Executive Order to modernize Federal fisheries management, empower recreational industries, and eliminate unnecessary restrictions",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-restores-american-saltwater-angling-and-recreation/",
-    "published_iso": "2026-09-17T22:02:56+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "fee5a67d3a17",
@@ -499,28 +667,6 @@
     "time_ago": "1d ago"
   },
   {
-    "id": "92ced3a134dd",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "Withdrawals Sent to the Senate. WITHDRAWALS SENT TO THE SENATE: Jeffrey Anderson, of Georgia, to be Representative of the United States of America on the Council of the International Civil Aviation Organization, with the rank of Ambassador, which was sent to the Senate on January 13, 2026. John Grunewald II, of Oklahom",
-    "tags": [
-      "Agriculture",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/09/withdrawals-sent-to-the-senate/",
-    "published_iso": "2026-09-17T15:48:13+00:00",
-    "time_ago": "1d ago"
-  },
-  {
     "id": "66474bcef426",
     "politician": "Rep. Ro Khanna",
     "initials": "RK",
@@ -558,7 +704,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h314?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-16T23:05:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "dcd21ba717fa",
@@ -577,7 +723,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h313?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-16T22:58:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "ced321053990",
@@ -596,7 +742,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h312?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-16T22:53:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "311137f2bb40",
@@ -617,7 +763,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h311?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-16T22:49:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "34ad40a52f7a",
@@ -636,7 +782,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h310?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-16T22:43:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "f1cdb01f5d1b",
@@ -919,6 +1065,27 @@
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
     "time_ago": "42d ago"
+  },
+  {
+    "id": "1a1d646c1e56",
+    "politician": "Rep. Alexandria Ocasio-Cortez",
+    "initials": "AOC",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#93c5fd"
+    },
+    "severity": "high",
+    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.meowing.monster/AOC/status/2085006319220625569#m",
+    "published_iso": "2026-08-05T14:13:38+00:00",
+    "time_ago": "44d ago"
   },
   {
     "id": "6e187954d9ee",
