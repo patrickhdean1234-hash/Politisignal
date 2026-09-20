@@ -1,5 +1,68 @@
 [
   {
+    "id": "cfb624310a53",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Republican politicians have promised their trickle-down economics of tax cuts for corporations would help you.\n \nBut it\u2019s just not true.",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mvxpgy2dss2j",
+    "published_iso": "2026-09-20T17:20:33.504000+00:00",
+    "time_ago": "57m ago"
+  },
+  {
+    "id": "3fd41d3f4b26",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "The only solution to our $40 trillion debt problem is a value-added tax. As the U.S. national debt reaches $40 trillion, Peter J. Tanous argues that the massive deficit can only be addressed through a significant revenue-generating measure like a Value-Added Tax rather than through insufficient spending cuts",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/finance/6099509-us-debt-vat-solution/",
+    "published_iso": "2026-09-20T17:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "592f3e4f8000",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Khanna calls for a government agency to oversee AI 'like the FDA'. Rep. Ro Khanna (D-Calif.) on Sunday said that the federal government should create a regulatory agency to oversee the development of artificial intelligence, similar to the Food and Drug Administration (FDA). \"Well, we need to set up an AI agency like t",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/6100322-khanna-proposes-ai-regulatory-agency/",
+    "published_iso": "2026-09-20T16:26:31+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "846c76ab0076",
     "politician": "The Hill",
     "initials": "TH",
@@ -19,7 +82,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/6098461-protecting-freedom-speech-government-power/",
     "published_iso": "2026-09-20T15:00:00+00:00",
-    "time_ago": "40m ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "c8cd56191ed3",
@@ -38,7 +101,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mvv4ev6imc2i",
     "published_iso": "2026-09-19T16:34:02.812000+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "548ed3b08321",
@@ -361,6 +424,55 @@
     "time_ago": "1d ago"
   },
   {
+    "id": "9f0fe219f819",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula. Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+    "published_iso": "2026-09-18T15:00:00+00:00",
+    "time_ago": "2d ago"
+  },
+  {
+    "id": "6c9e6abea13a",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank. Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Ex",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "AXP"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+    "published_iso": "2026-09-18T15:00:00+00:00",
+    "time_ago": "2d ago"
+  },
+  {
     "id": "96c7ff444178",
     "politician": "Federal Register",
     "initials": "FR",
@@ -531,7 +643,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s238?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-17T17:59:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "69debb5dc9e5",
@@ -552,7 +664,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/09/17/democrats-ai-regulation-midterms-warnings-01082564",
     "published_iso": "2026-09-17T17:55:20+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "89b993da7f5b",
@@ -571,7 +683,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s237?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-17T16:54:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "1d79087bc12c",
@@ -590,7 +702,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s236?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-17T16:00:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "66474bcef426",
@@ -711,6 +823,58 @@
     "time_ago": "3d ago"
   },
   {
+    "id": "dcd00aa841df",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "Federal Reserve issues FOMC statement. Federal Reserve issues FOMC statement",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+    "published_iso": "2026-09-16T18:00:00+00:00",
+    "time_ago": "4d ago"
+  },
+  {
+    "id": "871ffab494b5",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting. Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+    "published_iso": "2026-09-16T18:00:00+00:00",
+    "time_ago": "4d ago"
+  },
+  {
     "id": "f5ef8bcafaa7",
     "politician": "Sen. Cynthia Lummis",
     "initials": "CL",
@@ -769,6 +933,27 @@
     "time_ago": "6d ago"
   },
   {
+    "id": "af20a4831d15",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers. Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
+    "published_iso": "2026-09-11T14:00:00+00:00",
+    "time_ago": "9d ago"
+  },
+  {
     "id": "81e4469b573f",
     "politician": "Sen. Cynthia Lummis",
     "initials": "CL",
@@ -798,6 +983,79 @@
     "time_ago": "9d ago"
   },
   {
+    "id": "fac99d0bd221",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle. Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
+    "published_iso": "2026-09-10T20:00:00+00:00",
+    "time_ago": "9d ago"
+  },
+  {
+    "id": "6cce72db2aa7",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.. Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
+    "published_iso": "2026-09-04T15:00:00+00:00",
+    "time_ago": "16d ago"
+  },
+  {
+    "id": "61358ba6419a",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico. Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
+    "published_iso": "2026-08-27T15:00:00+00:00",
+    "time_ago": "24d ago"
+  },
+  {
     "id": "baf26d52584e",
     "politician": "Sen. Rand Paul",
     "initials": "RP",
@@ -823,7 +1081,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "43d ago"
+    "time_ago": "44d ago"
   },
   {
     "id": "1a1d646c1e56",
@@ -842,7 +1100,7 @@
     "tickers": [],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "http://shitter.thepixora.com/AOC/status/2085006319220625569#m",
+    "url": "http://nitter.meowing.monster/AOC/status/2085006319220625569#m",
     "published_iso": "2026-08-05T14:13:38+00:00",
     "time_ago": "46d ago"
   },
@@ -873,7 +1131,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "58d ago"
+    "time_ago": "59d ago"
   },
   {
     "id": "de38f5381391",
@@ -981,7 +1239,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "131d ago"
+    "time_ago": "132d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1138,7 +1396,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "240d ago"
+    "time_ago": "241d ago"
   },
   {
     "id": "d3ca74df7f0f",
