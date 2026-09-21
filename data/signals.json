@@ -1,6 +1,27 @@
 [
   {
-    "id": "e5fa3cff2dc4",
+    "id": "80b63437d5c6",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Smith Tricia D sold 3,500 shares of Urban Outfitters Inc (URBN) \u00b7 $75.95/share \u00b7 $265,828 total \u00b7 Sep 21",
+    "tags": [],
+    "tickers": [
+      "URBN"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1557023/000119312526396753/0001193125-26-396753-index.htm",
+    "published_iso": "2026-09-21T20:47:53+00:00",
+    "time_ago": "8m ago"
+  },
+  {
+    "id": "a09d509bfdfd",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +30,88 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Dorsett Jason Christopher bought 19,000 shares of Rtb Digital, Inc. (RTB) \u00b7 $10.36/share \u00b7 $196,840 total \u00b7 Sep 21",
-    "tags": [],
+    "content": "Isom Robert D Jr withheld (tax) 169,483 shares of American Airlines Group Inc. (AAL) \u00b7 $12.96/share \u00b7 $2,196,500 total \u00b7 Sep 21 ($4,344,179 across all blocks)",
+    "tags": [
+      "Taxes"
+    ],
     "tickers": [
-      "RTB"
+      "AAL"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2146263/000214626326000003/0002146263-26-000003-index.htm",
-    "published_iso": "2026-09-21T16:53:34+00:00",
-    "time_ago": "5m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1300047/000130004726000006/0001300047-26-000006-index.htm",
+    "published_iso": "2026-09-21T20:47:41+00:00",
+    "time_ago": "8m ago"
   },
   {
-    "id": "753e872aee4f",
+    "id": "8a4910a948d3",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Johnson Stephen L withheld (tax) 55,368 shares of American Airlines Group Inc. (AAL) \u00b7 $12.96/share \u00b7 $717,569 total \u00b7 Sep 21 ($1,007,770 across all blocks)",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "AAL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1458560/000145856026000006/0001458560-26-000006-index.htm",
+    "published_iso": "2026-09-21T20:47:07+00:00",
+    "time_ago": "9m ago"
+  },
+  {
+    "id": "a9c2095a870c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Dimaio John Michael received 10,988 shares of Spectral Ai, Inc. (MDAIW) \u00b7 $1.61/share \u00b7 $17,691 total \u00b7 Sep 21 ($53,201 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "MDAIW"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1993856/000121390026101831/0001213900-26-101831-index.htm",
+    "published_iso": "2026-09-21T20:45:33+00:00",
+    "time_ago": "10m ago"
+  },
+  {
+    "id": "0e0c83b5ecc1",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Portnoy Adam D. withheld (tax) 10,046 shares of Industrial Logistics Properties Trust (ILPT) \u00b7 $7.75/share \u00b7 $77,856 total \u00b7 Sep 21",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "ILPT"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1717307/000110465926109349/0001104659-26-109349-index.htm",
+    "published_iso": "2026-09-21T20:45:29+00:00",
+    "time_ago": "10m ago"
+  },
+  {
+    "id": "b5929b1d20b8",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -29,21 +119,18 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Americans in Middle East warned to 'exercise heightened vigilance' following strikes on Riyadh. The State Department on Saturday warned Americans in the Middle East to exercise caution, after the Iranian-backed Houthis launched an attack on the Saudi Arabian capital of Riyadh. Citing \u201ctensions\u201d in the region, the State",
-    "tags": [
-      "Taxes",
-      "Sanctions"
-    ],
+    "severity": "high",
+    "content": "Collins, Murray speak out against reported Trump push to 'politicize grantmaking'. Sens. Susan Collins (R-Maine) and Patty Murray (D-Wash.), leaders of the Senate Appropriations Committee, spoke out Monday against the White House's reported plans to give political appointees more control over the National Institutes of",
+    "tags": [],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/international/6101963-us-travel-warning-middle-east/",
-    "published_iso": "2026-09-21T16:43:14+00:00",
-    "time_ago": "16m ago"
+    "url": "https://thehill.com/policy/healthcare/6102442-collins-murray-omb-nih-grants/",
+    "published_iso": "2026-09-21T20:02:42+00:00",
+    "time_ago": "53m ago"
   },
   {
-    "id": "d6f8392b4992",
+    "id": "747445afee56",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -52,17 +139,123 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Lawsuit over White House media ban assigned to Trump nominee. The judge who will decide whether President Trump constitutionally banned a trio of media outlets from the White House is one of the president\u2019s nominees \u2014 and he\u2019s no stranger to Trump\u2019s clashes with the press.\u00a0 U.S. District Judge Timothy Kelly, whom Trump",
+    "content": "Bessent says he has 'great confidence' in Warsh after Fed raises rates. Treasury Secretary Scott Bessent said Monday he has \u201cgreat confidence\u201d in Federal Reserve Chair Kevin Warsh after the central bank raised interest rates by a quarter point against the wishes of President Trump. \u201cI have great confidence in Chair War",
     "tags": [
-      "Regulation",
+      "Trade",
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/6102424-bessent-supports-warsh-after-fed-hike/",
+    "published_iso": "2026-09-21T19:56:43+00:00",
+    "time_ago": "59m ago"
+  },
+  {
+    "id": "5f691174352f",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "critical",
+    "content": "Very much appreciated  @Stefany4NH \u2019s answer on how she would bring back more money to New Hampshire and get more money in people\u2019s pockets! Ending wars, Medicare for All, addressing the housing crisis \u2014 all great goals, and I\u2019m excited to support her every step of the way! \n \n Video",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.meowing.monster/CullenYossarian/status/2102115955870511208#m",
+    "published_iso": "2026-09-21T19:21:13+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "1482fb90ff06",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "high",
+    "content": "White House Access Is a Privilege \u2014 Not a Right. Last week, President Donald J. Trump removed CNN, MS NOW, and Politico from the White House grounds after years of false reporting. The First Amendment protects their right to publish; it does not entitle them to a hard pass, briefing room seat, or place in the press poo",
+    "tags": [
       "Taxes"
     ],
     "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/regulation/court-battles/6101969-trump-appointee-judge-media-lawsuit/",
-    "published_iso": "2026-09-21T16:27:33+00:00",
-    "time_ago": "31m ago"
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/09/white-house-access-is-a-privilege-not-a-right/",
+    "published_iso": "2026-09-21T18:01:52+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "904e055a7687",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Newsom used his political muscle to: \n \n-Allow Trump\u2019s ally, the billionaire Ellison family, to own CBS, CNN &amp; TikTok along with Saudi Arabia, UAE &amp; Qatar \n \n-Oppose a 5% billionaire wealth tax \n \n-Kill Medicare for All in CA \n \n-Veto an AI kill switch \n \nA bed made by the Oligarchs. \n \n \n Nick Field (@nick_fie",
+    "tags": [
+      "Antitrust",
+      "Healthcare",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.meowing.monster/GunnelsWarren/status/2102095874595700896#m",
+    "published_iso": "2026-09-21T18:01:26+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "d5860bf22731",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Republicans haven\u2019t prepared for a Democratic Party that presents a bold, fresh economic vision for working families. \n \nThey are for foreign wars. We are for Medicare for All, taxing billionaires, and free childcare.  nytimes.com/2026/09/21/us/po\u2026  \n \n Link  \n \n \n \n Ro Khanna Is the Left\u2019s Busiest Midterm Surrogate. C",
+    "tags": [
+      "Healthcare",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.meowing.monster/RoKhanna/status/2102066740620382522#m",
+    "published_iso": "2026-09-21T16:05:40+00:00",
+    "time_ago": "4h ago"
   },
   {
     "id": "276db1f18d03",
@@ -89,7 +282,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-releases-details-ahead-of-his-excellency-xi-jinping-president-of-the-peoples-republic-of-china-and-madame-peng-liyuans-visit-to-the-white-house/",
     "published_iso": "2026-09-21T13:17:18+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "23b100c34e8f",
@@ -114,7 +307,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/21/2026-19270/safety-zone-illinois-river-morris-il",
     "published_iso": "2026-09-21T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "70fd2fd7e341",
@@ -138,7 +331,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/21/2026-19231/schedules-of-controlled-substances-placement-of-diphenidine-in-schedule-i",
     "published_iso": "2026-09-21T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "cc6dfcb7e67a",
@@ -159,7 +352,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/21/2026-19223/public-access-to-information",
     "published_iso": "2026-09-21T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "cfb624310a53",
@@ -180,7 +373,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mvxpgy2dss2j",
     "published_iso": "2026-09-20T17:20:33.504000+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "c8cd56191ed3",
@@ -274,33 +467,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-h-r-5334-signed-into-law/",
     "published_iso": "2026-09-18T21:43:23+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "722ef9db1c37",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "high",
-    "content": "Fact Sheet: President Donald J. Trump Announces Lower Drug Prices for All 50 State Medicaid Programs. ADVANCING MOST-FAVORED-NATION (MFN) PRICING IN MEDICAID:&#160;Today, President Donald J. Trump announced that all 50 States\u2019 Medicaid programs will benefit from lower prescription drug prices under his agreements with ",
-    "tags": [
-      "Healthcare",
-      "Taxes"
-    ],
-    "tickers": [
-      "LLY",
-      "PFE",
-      "JNJ",
-      "MRK"
-    ],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-announces-lower-drug-prices-for-all-50-state-medicaid-programs/",
-    "published_iso": "2026-09-18T19:47:36+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -474,7 +640,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s238?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-17T17:59:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "89b993da7f5b",
@@ -656,7 +822,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
     "published_iso": "2026-09-16T18:00:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "871ffab494b5",
@@ -682,7 +848,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
     "published_iso": "2026-09-16T18:00:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "f5ef8bcafaa7",
@@ -711,7 +877,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-statement-on-democrats-killing-clarity-act/",
     "published_iso": "2026-09-15T20:22:32+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "5d55edde89de",
@@ -790,7 +956,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-releases-updated-clarity-act-text-ahead-of-historic-tuesday-vote-2/",
     "published_iso": "2026-09-10T20:14:34+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "fac99d0bd221",
@@ -811,7 +977,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
     "published_iso": "2026-09-10T20:00:00+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "6cce72db2aa7",
@@ -941,7 +1107,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "60d ago"
+    "time_ago": "61d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -985,7 +1151,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "62d ago"
+    "time_ago": "63d ago"
   },
   {
     "id": "00574dc3c125",
@@ -1007,7 +1173,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-launches-the-reading-room-a-public-archive-of-the-committees-ongoing-covid-19-origins-investigations/",
     "published_iso": "2026-07-20T20:42:12+00:00",
-    "time_ago": "62d ago"
+    "time_ago": "63d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -1119,7 +1285,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "179d ago"
+    "time_ago": "180d ago"
   },
   {
     "id": "00f579ee8f55",
@@ -1185,7 +1351,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "241d ago"
+    "time_ago": "242d ago"
   },
   {
     "id": "d3ca74df7f0f",
