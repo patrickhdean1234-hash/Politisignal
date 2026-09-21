@@ -1,5 +1,139 @@
 [
   {
+    "id": "d19bbf861e59",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Sheriff William M bought 100,000 shares of Encore Energy Corp. (EU) \u00b7 $0.81/share \u00b7 $81,000 total \u00b7 Sep 21 ($101,250 across all blocks)",
+    "tags": [
+      "Energy"
+    ],
+    "tickers": [
+      "EU"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1500881/000119312526396060/0001193125-26-396060-index.htm",
+    "published_iso": "2026-09-21T11:05:04+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "08e32b527434",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ptak Stash gifted 1,540 shares of Signet Jewelers Ltd (SIG) \u00b7 Sep 21",
+    "tags": [],
+    "tickers": [
+      "SIG"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1821314/000083298826000233/0000832988-26-000233-index.htm",
+    "published_iso": "2026-09-21T11:00:09+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "0ae55ff95989",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Goh Kok E disposed of 347,500 shares of Cch Holdings Ltd (CCHH) \u00b7 Sep 21 ($0 across all blocks)",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "CCHH"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2123450/000121390026101622/0001213900-26-101622-index.htm",
+    "published_iso": "2026-09-21T10:29:29+00:00",
+    "time_ago": "36m ago"
+  },
+  {
+    "id": "8d2b39c1a83b",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hsu Hui-Chen disposed of 1,319,500 shares of Cch Holdings Ltd (CCHH) \u00b7 Sep 21 ($0 across all blocks)",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "CCHH"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2150607/000121390026101619/0001213900-26-101619-index.htm",
+    "published_iso": "2026-09-21T10:27:24+00:00",
+    "time_ago": "38m ago"
+  },
+  {
+    "id": "7544d142ff51",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "College sports bill faces uphill battle in post-midterms House. Bipartisan legislation to regulate the growing business behind college sports appears primed to clear the Senate this week, but it faces a much tougher road in the House when lawmakers return in the fall. The Protect College Sports Act, championed by Sens.",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/keeping-score/6098522-congressional-legislation-college-athletics-rights/",
+    "published_iso": "2026-09-21T10:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "f4ecfa22a83a",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "EPA launches drinking water study looking for traces of abortion pills. The Environmental Protection Agency (EPA) is launching a drinking water quality study that will for the first time look for traces of abortion pills mifepristone and misoprostol \u2014 something anti-abortion activists, attorneys general and lawmakers h",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/healthcare/6099145-epa-testing-mifepristone-misoprostol/",
+    "published_iso": "2026-09-21T10:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "23b100c34e8f",
     "politician": "Federal Register",
     "initials": "FR",
@@ -22,7 +156,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/21/2026-19270/safety-zone-illinois-river-morris-il",
     "published_iso": "2026-09-21T04:00:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "70fd2fd7e341",
@@ -46,7 +180,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/21/2026-19231/schedules-of-controlled-substances-placement-of-diphenidine-in-schedule-i",
     "published_iso": "2026-09-21T04:00:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "cc6dfcb7e67a",
@@ -67,7 +201,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/21/2026-19223/public-access-to-information",
     "published_iso": "2026-09-21T04:00:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "229903c75dca",
@@ -89,28 +223,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/policy/transportation/6100820-grassley-urges-trump-diesel-embargo/",
     "published_iso": "2026-09-20T22:02:18+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "e71f5f9b0bfb",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "AI fears burst onto Trump-Xi agenda, but challenges abound. Apocalyptic warnings about the danger of uncontrolled artificial intelligence are adding new urgency to talks between President Trump and Chinese President Xi Jinping set for next week.  Trump has dismissed AI\u2019s existential threats as a \u201choax\u201d \u2014 a view that an",
-    "tags": [
-      "China"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/international/6099099-trump-xi-ai-talks-us-china/",
-    "published_iso": "2026-09-20T21:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "cfb624310a53",
@@ -131,28 +244,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mvxpgy2dss2j",
     "published_iso": "2026-09-20T17:20:33.504000+00:00",
-    "time_ago": "12h ago"
-  },
-  {
-    "id": "96393204162a",
-    "politician": "Sen. Rand Paul",
-    "initials": "RP",
-    "role": "Senate Foreign Relations Committee",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fbbf24"
-    },
-    "severity": "medium",
-    "content": "We have to be careful what we let the government do with AI regulation. \n \n Video",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://shitter.thepixora.com/RandPaul/status/2101367894563074105#m",
-    "published_iso": "2026-09-19T17:48:42+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "c8cd56191ed3",
@@ -198,225 +290,6 @@
     "url": "https://www.politico.com/news/2026/09/19/governor-candidates-ai-regulation-states-midterms-01084879",
     "published_iso": "2026-09-19T14:00:00+00:00",
     "time_ago": "1d ago"
-  },
-  {
-    "id": "297c48473cbf",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Vallone Carol A exercised options for 1,086 shares of Definium Therapeutics, Inc. (DFTX) \u00b7 $35.52/share \u00b7 $38,575 total \u00b7 Sep 18",
-    "tags": [],
-    "tickers": [
-      "DFTX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1813814/000119312526395892/0001193125-26-395892-index.htm",
-    "published_iso": "2026-09-19T01:55:06+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "96fee21d691a",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Krebs Andreas exercised options for 1,629 shares of Definium Therapeutics, Inc. (DFTX) \u00b7 $35.52/share \u00b7 $57,862 total \u00b7 Sep 18",
-    "tags": [],
-    "tickers": [
-      "DFTX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1813814/000119312526395893/0001193125-26-395893-index.htm",
-    "published_iso": "2026-09-19T01:55:05+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "499dc5a65204",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Dillione Janet exercised options for 48,909 shares of Cormedix Inc. (CRMD) \u00b7 Sep 18",
-    "tags": [],
-    "tickers": [
-      "CRMD"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1489798/000121390026101594/0001213900-26-101594-index.htm",
-    "published_iso": "2026-09-19T01:36:46+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "100d14b18bf9",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Moshkevich Solomon gifted 945 shares of Natera, Inc. (NTRA) \u00b7 Sep 18",
-    "tags": [],
-    "tickers": [
-      "NTRA"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2010019/000201001926000029/0002010019-26-000029-index.htm",
-    "published_iso": "2026-09-19T01:35:06+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "ec1cabbb4812",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Ferring Russell Shea withheld (tax) 16,700 shares of Firefly Aerospace Inc. (FLY) \u00b7 $20.28/share \u00b7 $338,676 total \u00b7 Sep 18",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "FLY"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2079163/000119312526395877/0001193125-26-395877-index.htm",
-    "published_iso": "2026-09-19T01:27:27+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "abd813f4d231",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Garnett Keithly sold 5,000 shares of Neonc Technologies Holdings, Inc. (NTHI) \u00b7 $3.36/share \u00b7 $16,809 total \u00b7 Sep 18",
-    "tags": [],
-    "tickers": [
-      "NTHI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1997371/000121390026101592/0001213900-26-101592-index.htm",
-    "published_iso": "2026-09-19T01:26:08+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "2dd5a8cf15f8",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Steele Christa received 70,000 shares of Deep Isolation Nuclear, Inc. (DBHL) \u00b7 Sep 18",
-    "tags": [],
-    "tickers": [
-      "DBHL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1918080/000121390026101591/0001213900-26-101591-index.htm",
-    "published_iso": "2026-09-19T01:24:47+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "1aaafd5a1b0d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hunter Ralph L. Jr received 70,000 shares of Deep Isolation Nuclear, Inc. (DBHL) \u00b7 Sep 18",
-    "tags": [],
-    "tickers": [
-      "DBHL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2088585/000121390026101589/0001213900-26-101589-index.htm",
-    "published_iso": "2026-09-19T01:24:02+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "da886b71acfd",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hornbaker Renee J received 70,000 shares of Deep Isolation Nuclear, Inc. (DBHL) \u00b7 Sep 18",
-    "tags": [],
-    "tickers": [
-      "DBHL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1918080/000121390026101588/0001213900-26-101588-index.htm",
-    "published_iso": "2026-09-19T01:23:29+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "f7d79cc6da6f",
-    "politician": "Sen. Rand Paul",
-    "initials": "RP",
-    "role": "Senate Foreign Relations Committee",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fbbf24"
-    },
-    "severity": "critical",
-    "content": "The free market should be determining interest rates, not the Federal Reserve. \n wsj.com/economy/central-bank\u2026  \n \n Link  \n \n \n \n Fed Raises Rates for First Time in Three Years \n \n Most officials penciled in one more increase this year. An energy shock and a surge of AI investment have reshaped the inflation outlook. \n",
-    "tags": [
-      "Energy",
-      "Banking",
-      "Taxes"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://shitter.thepixora.com/RandPaul/status/2101085115078349063#m",
-    "published_iso": "2026-09-18T23:05:02+00:00",
-    "time_ago": "2d ago"
   },
   {
     "id": "a25936b1f762",
@@ -519,6 +392,55 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-extends-most-favored-nation-pricing-to-every-medicaid-program-in-america/",
     "published_iso": "2026-09-18T19:11:57+00:00",
+    "time_ago": "2d ago"
+  },
+  {
+    "id": "9f0fe219f819",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula. Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+    "published_iso": "2026-09-18T15:00:00+00:00",
+    "time_ago": "2d ago"
+  },
+  {
+    "id": "6c9e6abea13a",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank. Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Ex",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "AXP"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+    "published_iso": "2026-09-18T15:00:00+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -643,27 +565,6 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s238?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-17T17:59:00+00:00",
-    "time_ago": "3d ago"
-  },
-  {
-    "id": "69debb5dc9e5",
-    "politician": "Politico",
-    "initials": "PO",
-    "role": "Political News",
-    "color": {
-      "bg": "#1a0a0a",
-      "fg": "#fca5a5"
-    },
-    "severity": "medium",
-    "content": "Democratic advisers are warning their candidates not to go too hard at AI. Democratic consultants are warning their candidates in some key races not to lean into AI regulations out of fear that powerful tech groups could spend heavily against them",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "politico",
-    "platform": "Politico",
-    "url": "https://www.politico.com/news/2026/09/17/democrats-ai-regulation-midterms-warnings-01082564",
-    "published_iso": "2026-09-17T17:55:20+00:00",
     "time_ago": "3d ago"
   },
   {
@@ -823,6 +724,58 @@
     "time_ago": "4d ago"
   },
   {
+    "id": "dcd00aa841df",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "Federal Reserve issues FOMC statement. Federal Reserve issues FOMC statement",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+    "published_iso": "2026-09-16T18:00:00+00:00",
+    "time_ago": "4d ago"
+  },
+  {
+    "id": "871ffab494b5",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting. Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+    "published_iso": "2026-09-16T18:00:00+00:00",
+    "time_ago": "4d ago"
+  },
+  {
     "id": "f5ef8bcafaa7",
     "politician": "Sen. Cynthia Lummis",
     "initials": "CL",
@@ -881,6 +834,27 @@
     "time_ago": "7d ago"
   },
   {
+    "id": "af20a4831d15",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers. Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
+    "published_iso": "2026-09-11T14:00:00+00:00",
+    "time_ago": "9d ago"
+  },
+  {
     "id": "81e4469b573f",
     "politician": "Sen. Cynthia Lummis",
     "initials": "CL",
@@ -910,6 +884,79 @@
     "time_ago": "10d ago"
   },
   {
+    "id": "fac99d0bd221",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle. Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
+    "published_iso": "2026-09-10T20:00:00+00:00",
+    "time_ago": "10d ago"
+  },
+  {
+    "id": "6cce72db2aa7",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.. Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
+    "published_iso": "2026-09-04T15:00:00+00:00",
+    "time_ago": "16d ago"
+  },
+  {
+    "id": "61358ba6419a",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico. Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
+    "published_iso": "2026-08-27T15:00:00+00:00",
+    "time_ago": "24d ago"
+  },
+  {
     "id": "baf26d52584e",
     "politician": "Sen. Rand Paul",
     "initials": "RP",
@@ -936,6 +983,27 @@
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
     "time_ago": "44d ago"
+  },
+  {
+    "id": "1a1d646c1e56",
+    "politician": "Rep. Alexandria Ocasio-Cortez",
+    "initials": "AOC",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#93c5fd"
+    },
+    "severity": "high",
+    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://shitter.thepixora.com/AOC/status/2085006319220625569#m",
+    "published_iso": "2026-08-05T14:13:38+00:00",
+    "time_ago": "46d ago"
   },
   {
     "id": "6e187954d9ee",
