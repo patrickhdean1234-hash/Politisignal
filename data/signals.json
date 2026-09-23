@@ -1,6 +1,6 @@
 [
   {
-    "id": "f0ebfd0b5907",
+    "id": "764fd42a5105",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,222 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Atkins Howard I received 9,626 shares of Daktronics Inc /Sd/ (DAKT) \u00b7 Sep 23",
-    "tags": [],
+    "content": "Cox Christopher K sold 20,000 shares of Meta Platforms, Inc. (META) \u00b7 $700.50/share \u00b7 $14,009,932 total \u00b7 Sep 23 ($28,510,260 across all blocks)",
+    "tags": [
+      "Big Tech"
+    ],
     "tickers": [
-      "DAKT"
+      "META"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1201221/000162828026063196/0001628280-26-063196-index.htm",
-    "published_iso": "2026-09-23T19:07:30+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/1607459/000095010326014403/0000950103-26-014403-index.htm",
+    "published_iso": "2026-09-23T22:15:10+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "032817452124",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Olivan Javier sold 946 shares of Meta Platforms, Inc. (META) \u00b7 $680.27/share \u00b7 $643,535 total \u00b7 Sep 23 ($1,071,425 across all blocks)",
+    "tags": [
+      "Big Tech"
+    ],
+    "tickers": [
+      "META"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1564475/000095010326014402/0000950103-26-014402-index.htm",
+    "published_iso": "2026-09-23T22:14:54+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "c9e3ffe44b2c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Fitzgerald Scott Michael withheld (tax) 10,440 shares of Stubhub Holdings, Inc. (STUB) \u00b7 $5.74/share \u00b7 $59,926 total \u00b7 Sep 23",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "STUB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2063059/000162828026063281/0001628280-26-063281-index.htm",
+    "published_iso": "2026-09-23T22:13:22+00:00",
     "time_ago": "4m ago"
   },
   {
-    "id": "695b497c8277",
+    "id": "ce2ec526c0a1",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hennessy Thomas D exercised options for 750,000 shares of One Nuclear Energy Inc. (HVIIR) \u00b7 Sep 23 ($0 across all blocks)",
+    "tags": [
+      "Energy"
+    ],
+    "tickers": [
+      "HVIIR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1846416/000149315226043990/0001493152-26-043990-index.htm",
+    "published_iso": "2026-09-23T22:13:11+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "07570a047c2e",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "James Constance P. withheld (tax) 4,000 shares of Stubhub Holdings, Inc. (STUB) \u00b7 $5.74/share \u00b7 $22,960 total \u00b7 Sep 23",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "STUB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1887204/000162828026063280/0001628280-26-063280-index.htm",
+    "published_iso": "2026-09-23T22:13:03+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "c3d211cf391f",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Baker Eric Howard withheld (tax) 18,128 shares of Stubhub Holdings, Inc. (STUB) \u00b7 $5.74/share \u00b7 $104,055 total \u00b7 Sep 23",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "STUB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1899243/000162828026063279/0001628280-26-063279-index.htm",
+    "published_iso": "2026-09-23T22:12:37+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "76ad810cb338",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hennessy Daniel J exercised options for 5,203,333 shares of One Nuclear Energy Inc. (HVIIR) \u00b7 Sep 23 ($0 across all blocks)",
+    "tags": [
+      "Energy"
+    ],
+    "tickers": [
+      "HVIIR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1846416/000149315226043988/0001493152-26-043988-index.htm",
+    "published_iso": "2026-09-23T22:11:55+00:00",
+    "time_ago": "6m ago"
+  },
+  {
+    "id": "780fdd2d89bc",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Islam Nayaab sold 14,306 shares of Stubhub Holdings, Inc. (STUB) \u00b7 $6.20/share \u00b7 $88,707 total \u00b7 Sep 23",
+    "tags": [],
+    "tickers": [
+      "STUB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2059741/000162828026063275/0001628280-26-063275-index.htm",
+    "published_iso": "2026-09-23T22:11:33+00:00",
+    "time_ago": "6m ago"
+  },
+  {
+    "id": "35b2cf401b92",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hennessy Capital Group Llc exercised options for 5,203,333 shares of One Nuclear Energy Inc. (HVIIR) \u00b7 Sep 23 ($0 across all blocks)",
+    "tags": [
+      "Energy"
+    ],
+    "tickers": [
+      "HVIIR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1851746/000149315226043985/0001493152-26-043985-index.htm",
+    "published_iso": "2026-09-23T22:10:41+00:00",
+    "time_ago": "7m ago"
+  },
+  {
+    "id": "3c63225da0ce",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Voters increasingly use AI for election info despite accuracy risks. {beacon} Technology Technology &#8202; The Big Story  Voters are turning to AI on politics. Is it up to the task? Artificial intelligence is playing a growing role in how voters get information about politics and elections, raising fresh questions abo",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/technology/6107546-voters-increasingly-use-ai-for-election-info-despite-accuracy-risks/",
+    "published_iso": "2026-09-23T21:54:35+00:00",
+    "time_ago": "23m ago"
+  },
+  {
+    "id": "4c2b15edf569",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -30,16 +233,85 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Democrats block Senate GOP offer of immunity to former Fauci assistant. Democrats on the Senate Homeland Security and Governmental Affairs Committee on Wednesday blocked a Republican-led effort to grant immunity to a longtime assistant of Dr. Anthony Fauci as part of the panel's investigation into the former government",
+    "content": "Lawsuit challenges 'medically frail' exemption. Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story  Lawsuit challenges 'medically frail' exemption What does it mean to be \u201cmedically frail?\u201d A new lawsuit is challenging how the Trump administration plans to exempt medically frail p",
     "tags": [
+      "Healthcare",
+      "Regulation"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/healthcare/6107507-lawsuit-challenges-medically-frail-exemption/",
+    "published_iso": "2026-09-23T21:47:45+00:00",
+    "time_ago": "30m ago"
+  },
+  {
+    "id": "103b84d3266f",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Senators try to 'get to the bottom of' AI-powered surveillance networks amid Flock concerns. A Senate panel held the first Congressional hearing Wednesday on AI-powered surveillance cameras manufacturers, such as Flock Safety, in an attempt to \"get to the bottom\" of whether the technology infringes on the public's priv",
+    "tags": [
+      "Defense",
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/6106878-senate-blocks-fauci-assistant-immunity/",
-    "published_iso": "2026-09-23T17:54:28+00:00",
-    "time_ago": "1h ago"
+    "url": "https://thehill.com/policy/technology/6107305-senate-ai-surveillance-hearing-flock/",
+    "published_iso": "2026-09-23T21:44:11+00:00",
+    "time_ago": "33m ago"
+  },
+  {
+    "id": "e6f3d52cc6a8",
+    "politician": "Sen. Bernie Sanders",
+    "initials": "BS",
+    "role": "Senate HELP Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#818cf8"
+    },
+    "severity": "critical",
+    "content": "Jensen Huang, the CEO of leading AI company Nvidia, just said: \n  \nIf an AI model will \"damage the world \u2014 then I think the answer is that we have to shut the labs down.\" \n \nMy new bill to ban Artificial Superintelligence would do just that. \n \nIf you can't control it, don't build it.",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [
+      "NVDA"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://shitter.thepixora.com/BernieSanders/status/2102826376449376276#m",
+    "published_iso": "2026-09-23T18:24:11+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "c186c7a04303",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On the Nomination PN999-1: Angela Veronica Colmenero, of Texas, to be United States District Judge for the Southern District of Texas. Vote: Nomination Confirmed 50/47",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s241?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-09-23T18:16:00+00:00",
+    "time_ago": "4h ago"
   },
   {
     "id": "62192a2930d0",
@@ -61,81 +333,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ustr-announces-fiscal-year-2027-wto-tariff-rate-quota-allocations-raw-cane-sugar",
     "published_iso": "2026-09-23T15:10:10+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "dd67447c0f33",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "semafor.com/article/09/22/20\u2026  \n \n Link  \n \n \n \n Exclusive: Senate Democrats press Greer to refund consumers for tariffs \n \n The lawmakers ask whether officials are monitoring firms\u2019 actions and weighing direct refunds. \n  semafor.com",
-    "tags": [
-      "Trade",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://shitter.thepixora.com/SenWarren/status/2102768603598893557#m",
-    "published_iso": "2026-09-23T14:34:37+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "f6f7afe02f68",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "Americans will pay up to 95% of Trump\u2019s chaotic tariffs. \n \nYet Donald Trump still has zero plan to give tariff refunds back to YOU. \n \nI'm pressing Trump's top trade official for answers. You deserve to get your money back.",
-    "tags": [
-      "Trade"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://shitter.thepixora.com/SenWarren/status/2102768599530438689#m",
-    "published_iso": "2026-09-23T14:34:36+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "2af03939833f",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "Americans will pay up to 95% of Trump\u2019s chaotic tariffs.\n\nYet Donald Trump still has zero plan to give tariff refunds back to YOU.\n\nI'm pressing Trump's top trade official for answers. You deserve to get your money back.",
-    "tags": [
-      "Trade"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mw6xkq5mys24",
-    "published_iso": "2026-09-23T14:34:27.542000+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "cf105203c1f2",
@@ -156,7 +354,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-delivers-powerful-america-first-message-to-the-united-nations/",
     "published_iso": "2026-09-23T14:02:11+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "ed8a4aec0b6c",
@@ -178,7 +376,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19493/patient-protection-and-affordable-care-act-temporary-moratoria-on-certain-agent-and-broker",
     "published_iso": "2026-09-23T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "dff73c2c2f1b",
@@ -197,7 +395,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19456/fisheries-of-the-south-atlantic-2026-south-atlantic-red-snapper-recreational-fishing-season",
     "published_iso": "2026-09-23T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "730d3f9c14ff",
@@ -218,7 +416,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19448/revision-of-freedom-of-information-act-regulations",
     "published_iso": "2026-09-23T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "19ca6c1709a3",
@@ -237,7 +435,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19429/safety-zone-zachs-bay-wantagh-ny",
     "published_iso": "2026-09-23T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "e99530b1a57c",
@@ -256,7 +454,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19428/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary",
     "published_iso": "2026-09-23T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "e27cf7005455",
@@ -277,7 +475,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19424/publication-of-iran-related-web-general-licenses-y-and-z",
     "published_iso": "2026-09-23T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "5da7f9df1eee",
@@ -299,7 +497,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19423/publication-of-the-democratic-republic-of-the-congo-sanctions-regulations-web-general-license-2",
     "published_iso": "2026-09-23T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "c56c44678202",
@@ -321,7 +519,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19422/publication-of-venezuela-sanctions-regulations-web-general-licenses-5x-and-5y",
     "published_iso": "2026-09-23T04:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "daedf3d059e8",
@@ -340,7 +538,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s240?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-22T22:37:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "314da3aff13f",
@@ -359,7 +557,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s239?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-22T21:42:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "f5506a3890fe",
@@ -381,7 +579,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-six-penny-plan-to-balance-the-federal-budget-in-five-years-3/",
     "published_iso": "2026-09-22T20:41:12+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "892dc18c4042",
@@ -408,7 +606,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
     "published_iso": "2026-09-22T20:30:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "f4b21ea9f452",
@@ -429,6 +627,33 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-unveils-new-fostering-the-future-together-technology-alliances-international-events-and-membership-expansion/",
     "published_iso": "2026-09-22T18:07:04+00:00",
+    "time_ago": "1d ago"
+  },
+  {
+    "id": "34b38e8beac1",
+    "politician": "Rep. Mike Johnson",
+    "initials": "MJ",
+    "role": "Speaker of the House",
+    "color": {
+      "bg": "#2a1a1a",
+      "fg": "#fbbf24"
+    },
+    "severity": "critical",
+    "content": "REMINDER: \n \nEvery single Democrat voted AGAINST: \n\u27a1\ufe0f Lower Taxes  \n\u27a1\ufe0f No Tax on Tips  \n\u27a1\ufe0f No Tax on Overtime  \n\u27a1\ufe0f Lower Prescription Drug Prices \n\u27a1\ufe0f Trump Accounts, tax-advantaged investment accounts for children \n\u27a1\ufe0f DOUBLING the child tax credit \n\u27a1\ufe0f Keeping men OUT of women's sports",
+    "tags": [
+      "Healthcare",
+      "Taxes"
+    ],
+    "tickers": [
+      "LLY",
+      "PFE",
+      "JNJ",
+      "MRK"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://shitter.thepixora.com/SpeakerJohnson/status/2102409555556876704#m",
+    "published_iso": "2026-09-22T14:47:53+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -456,7 +681,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/public-hearing-regarding-section-301-investigation-germanys-persistent-underpayment-innovative",
     "published_iso": "2026-09-21T21:12:21+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "1482fb90ff06",
@@ -480,30 +705,31 @@
     "time_ago": "2d ago"
   },
   {
-    "id": "276db1f18d03",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
+    "id": "bfa36a3648bb",
+    "politician": "Sen. Bernie Sanders",
+    "initials": "BS",
+    "role": "Senate HELP Committee",
     "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
+      "bg": "#1e2a4a",
+      "fg": "#818cf8"
     },
-    "severity": "low",
-    "content": "First Lady Melania Trump Releases Details Ahead of His Excellency Xi Jinping, President of The People\u2019s Republic of China, and Madame Peng Liyuan\u2019s Visit to The White House. President Donald J. Trump and First Lady Melania Trump will welcome His Excellency Xi Jinping, President of the People\u2019s Republic of China and Mad",
+    "severity": "high",
+    "content": "By 34 points, voters are more likely to vote for a candidate who will make billionaires pay their fair share. \n \nBy 17 points, voters are more likely to vote for a candidate who supports Medicare for All. \n \nThe progressive, pro-working class agenda is the agenda Americans want. \n \n \n InteractivePolls (@IAPolls2022) \n ",
     "tags": [
-      "China",
+      "Healthcare",
+      "Defense",
+      "Regulation",
       "Taxes"
     ],
     "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
+      "UNH",
+      "HCA",
+      "CVS"
     ],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-releases-details-ahead-of-his-excellency-xi-jinping-president-of-the-peoples-republic-of-china-and-madame-peng-liyuans-visit-to-the-white-house/",
-    "published_iso": "2026-09-21T13:17:18+00:00",
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://shitter.thepixora.com/BernieSanders/status/2102047876335489238#m",
+    "published_iso": "2026-09-21T14:50:42+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -672,25 +898,6 @@
     "time_ago": "6d ago"
   },
   {
-    "id": "ced321053990",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.R. 9340: Ratepayer Protection Act. Vote: Passed 417/3",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h312?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-16T22:53:00+00:00",
-    "time_ago": "6d ago"
-  },
-  {
     "id": "dcd00aa841df",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -769,7 +976,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-statement-on-democrats-killing-clarity-act/",
     "published_iso": "2026-09-15T20:22:32+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "5d55edde89de",
@@ -848,7 +1055,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-releases-updated-clarity-act-text-ahead-of-historic-tuesday-vote-2/",
     "published_iso": "2026-09-10T20:14:34+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "fac99d0bd221",
@@ -869,7 +1076,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
     "published_iso": "2026-09-10T20:00:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "6cce72db2aa7",
@@ -1017,7 +1224,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "64d ago"
+    "time_ago": "65d ago"
   },
   {
     "id": "79faa09fe8f6",
