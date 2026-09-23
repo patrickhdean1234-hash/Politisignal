@@ -1,6 +1,6 @@
 [
   {
-    "id": "ccec0737392d",
+    "id": "d6aaf041399a",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,101 +9,41 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Erlich Craig bought 1,000 shares of Agree Realty Corp (ADC-PA) \u00b7 $67.55/share \u00b7 $67,550 total \u00b7 Sep 23",
+    "content": "Moritz Michael J exercised options for 8,216 shares of Klarna Group Plc (KLAR) \u00b7 Sep 23",
     "tags": [],
+    "tickers": [
+      "KLAR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2003292/000120104526000003/0001201045-26-000003-index.htm",
+    "published_iso": "2026-09-23T15:30:20+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "62192a2930d0",
+    "politician": "U.S. Trade Rep.",
+    "initials": "USTR",
+    "role": "Office of the U.S. Trade Representative",
+    "color": {
+      "bg": "#1a0a1a",
+      "fg": "#d8b4fe"
+    },
+    "severity": "critical",
+    "content": "USTR Announces Fiscal Year 2027 WTO Tariff-Rate Quota Allocations for Raw Cane Sugar. USTR Announces Fiscal Year 2027 WTO Tariff-Rate Quota Allocations for Raw Cane Sugar \n  myarbrough  \n  Wed, 09/23/2026 - 11:10 \n \n\n               WASHINGTON  \u2013 The Office of the U.S. Trade Representative (USTR) today announced country",
+    "tags": [
+      "Trade",
+      "Agriculture"
+    ],
     "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1747962/000174796226000007/0001747962-26-000007-index.htm",
-    "published_iso": "2026-09-23T11:00:20+00:00",
-    "time_ago": "33m ago"
+    "source": "ustr",
+    "platform": "USTR",
+    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ustr-announces-fiscal-year-2027-wto-tariff-rate-quota-allocations-raw-cane-sugar",
+    "published_iso": "2026-09-23T15:10:10+00:00",
+    "time_ago": "24m ago"
   },
   {
-    "id": "cead67fd2143",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Dougherty Neil sold 2,000 shares of Keysight Technologies, Inc. (KEYS) \u00b7 $340.79/share \u00b7 $681,570 total \u00b7 Sep 23",
-    "tags": [],
-    "tickers": [
-      "KEYS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1621383/000162138326000006/0001621383-26-000006-index.htm",
-    "published_iso": "2026-09-23T10:05:34+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "eaae52cd7823",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Shan Yigang sold 3,326,670 shares of Ke Holdings Inc. (BEKE) \u00b7 $5.44/share \u00b7 $18,094,756 total \u00b7 Sep 23",
-    "tags": [],
-    "tickers": [
-      "BEKE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2113852/000119312526398439/0001193125-26-398439-index.htm",
-    "published_iso": "2026-09-23T10:05:03+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "68a81fd0efae",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Chen Jingye sold 3,800 shares of Sea Ltd (SE) \u00b7 $100.77/share \u00b7 $382,926 total \u00b7 Sep 23 ($6,167,153 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "SE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1965706/000119312526398436/0001193125-26-398436-index.htm",
-    "published_iso": "2026-09-23T10:02:40+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "81376e478e75",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Li Carol Yun Yau exercised options for 9,329 shares of Jd.Com, Inc. (JDCMF) \u00b7 Sep 23",
-    "tags": [],
-    "tickers": [
-      "JDCMF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1974493/000110465926109750/0001104659-26-109750-index.htm",
-    "published_iso": "2026-09-23T10:01:02+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "6c869c642d6b",
+    "id": "c37d8edcba9f",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -111,35 +51,119 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
+    "severity": "medium",
+    "content": "Zelensky defends attacks on Russian refineries: 'Our lives are more important than the price of energy'. Ukrainian President Volodymyr Zelensky declared \u201cour lives are more important than the price of energy\" in an interview while defending his strikes against Russian oil refineries. Speaking with the Wall Street Journ",
+    "tags": [
+      "Trade",
+      "Energy",
+      "Banking",
+      "Sanctions"
+    ],
+    "tickers": [
+      "XOM",
+      "CVX",
+      "COP",
+      "OXY"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/international/6106285-zelensky-defends-russian-refinery-strikes/",
+    "published_iso": "2026-09-23T14:45:53+00:00",
+    "time_ago": "48m ago"
+  },
+  {
+    "id": "dd67447c0f33",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
     "severity": "critical",
-    "content": "Trump vs. press: White House media ban faces legal test. A court showdown is slated for Wednesday afternoon over President Trump\u2019s ban of three media outlets on White House grounds. Just before the hearing kicks off, join Legal Affairs Editor Zach Schonfeld and Media, Sports and Politics Reporter Dominick Mastrangelo a",
+    "content": "semafor.com/article/09/22/20\u2026  \n \n Link  \n \n \n \n Exclusive: Senate Democrats press Greer to refund consumers for tariffs \n \n The lawmakers ask whether officials are monitoring firms\u2019 actions and weighing direct refunds. \n  semafor.com",
+    "tags": [
+      "Trade",
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.meowing.monster/SenWarren/status/2102768603598893557#m",
+    "published_iso": "2026-09-23T14:34:37+00:00",
+    "time_ago": "58m ago"
+  },
+  {
+    "id": "f6f7afe02f68",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "Americans will pay up to 95% of Trump\u2019s chaotic tariffs. \n \nYet Donald Trump still has zero plan to give tariff refunds back to YOU. \n \nI'm pressing Trump's top trade official for answers. You deserve to get your money back.",
+    "tags": [
+      "Trade"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.meowing.monster/SenWarren/status/2102768599530438689#m",
+    "published_iso": "2026-09-23T14:34:36+00:00",
+    "time_ago": "58m ago"
+  },
+  {
+    "id": "2af03939833f",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "Americans will pay up to 95% of Trump\u2019s chaotic tariffs.\n\nYet Donald Trump still has zero plan to give tariff refunds back to YOU.\n\nI'm pressing Trump's top trade official for answers. You deserve to get your money back.",
+    "tags": [
+      "Trade"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mw6xkq5mys24",
+    "published_iso": "2026-09-23T14:34:27.542000+00:00",
+    "time_ago": "58m ago"
+  },
+  {
+    "id": "cf105203c1f2",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "President Trump Delivers Powerful America First Message to the United Nations. In his address to the United Nations, President Donald J. Trump&#160;touted&#160;his record of historic results that have reshaped world order for America\u2019s benefit and made our nation safer and more prosperous. President Donald J. Trump is ",
     "tags": [
       "Taxes"
     ],
     "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/6104953-donald-trump-white-house-media-ban-court-battle-live-discussion/",
-    "published_iso": "2026-09-23T10:00:00+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "db00fb1f0a99",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Voters are turning to AI on politics. Is it up to the task?. Artificial intelligence is playing a growing role in how voters get information about politics and elections, raising fresh questions about how the technology could influence the way voters stay informed.   From chatbots to standard internet searches, voters ",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/6104694-ai-reshaping-voter-information/",
-    "published_iso": "2026-09-23T10:00:00+00:00",
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-delivers-powerful-america-first-message-to-the-united-nations/",
+    "published_iso": "2026-09-23T14:02:11+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -162,7 +186,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19493/patient-protection-and-affordable-care-act-temporary-moratoria-on-certain-agent-and-broker",
     "published_iso": "2026-09-23T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "dff73c2c2f1b",
@@ -181,7 +205,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19456/fisheries-of-the-south-atlantic-2026-south-atlantic-red-snapper-recreational-fishing-season",
     "published_iso": "2026-09-23T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "730d3f9c14ff",
@@ -202,7 +226,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19448/revision-of-freedom-of-information-act-regulations",
     "published_iso": "2026-09-23T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "19ca6c1709a3",
@@ -221,7 +245,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19429/safety-zone-zachs-bay-wantagh-ny",
     "published_iso": "2026-09-23T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "e99530b1a57c",
@@ -240,7 +264,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19428/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary",
     "published_iso": "2026-09-23T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "e27cf7005455",
@@ -261,7 +285,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19424/publication-of-iran-related-web-general-licenses-y-and-z",
     "published_iso": "2026-09-23T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "5da7f9df1eee",
@@ -283,7 +307,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19423/publication-of-the-democratic-republic-of-the-congo-sanctions-regulations-web-general-license-2",
     "published_iso": "2026-09-23T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "c56c44678202",
@@ -305,7 +329,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19422/publication-of-venezuela-sanctions-regulations-web-general-licenses-5x-and-5y",
     "published_iso": "2026-09-23T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "daedf3d059e8",
@@ -324,7 +348,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s240?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-22T22:37:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "314da3aff13f",
@@ -343,7 +367,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s239?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-22T21:42:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "f5506a3890fe",
@@ -365,7 +389,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-six-penny-plan-to-balance-the-federal-budget-in-five-years-3/",
     "published_iso": "2026-09-22T20:41:12+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "892dc18c4042",
@@ -392,7 +416,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
     "published_iso": "2026-09-22T20:30:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "f4b21ea9f452",
@@ -413,7 +437,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-unveils-new-fostering-the-future-together-technology-alliances-international-events-and-membership-expansion/",
     "published_iso": "2026-09-22T18:07:04+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "e50795264817",
@@ -439,60 +463,7 @@
     "platform": "Twitter/X",
     "url": "http://nitter.meowing.monster/thehill/status/2102450352192655470#m",
     "published_iso": "2026-09-22T17:30:00+00:00",
-    "time_ago": "18h ago"
-  },
-  {
-    "id": "7b8fa7a6f315",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "critical",
-    "content": "\" @RoKhanna : Trump has no cards left to play ahead of the China summit\" ( @TheHillOpinion )  thehill.com/opinion/6102250-\u2026  \n \n Link  \n \n \n \n Ro\u00a0Khanna: Trump has no cards left to play ahead of the China summit \n \n This week\u2019s meeting is a real opportunity but only if Trump walks in with something more than tariffs an",
-    "tags": [
-      "Trade",
-      "China"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nitter.meowing.monster/thehill/status/2102393980629717063#m",
-    "published_iso": "2026-09-22T13:46:00+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "f3440ce7580a",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Infuriating that while you &amp;  @linamkhan  are fighting for stronger antitrust, David Ellison, a Trump ally, explicitly thanked Newsom \"for his support throughout this process\" of allowing Trump allies to now own both CBS &amp; CNN. \n \n \n Elizabeth Warren (@SenWarren) \n \n Allowing one Trump-aligned, foreign-owned co",
-    "tags": [
-      "Antitrust"
-    ],
-    "tickers": [
-      "AMZN",
-      "GOOGL",
-      "AAPL",
-      "META"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nitter.meowing.monster/RoKhanna/status/2102168190423826865#m",
-    "published_iso": "2026-09-21T22:48:47+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "f33451470037",
@@ -567,7 +538,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-releases-details-ahead-of-his-excellency-xi-jinping-president-of-the-peoples-republic-of-china-and-madame-peng-liyuans-visit-to-the-white-house/",
     "published_iso": "2026-09-21T13:17:18+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "6c9e6abea13a",
@@ -590,7 +561,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
     "published_iso": "2026-09-18T15:00:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "9f0fe219f819",
@@ -616,7 +587,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
     "published_iso": "2026-09-18T15:00:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "fee5a67d3a17",
@@ -882,7 +853,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
     "published_iso": "2026-09-11T14:00:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "81e4469b573f",
@@ -958,7 +929,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
     "published_iso": "2026-09-04T15:00:00+00:00",
-    "time_ago": "18d ago"
+    "time_ago": "19d ago"
   },
   {
     "id": "baf26d52584e",
@@ -987,27 +958,6 @@
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
     "time_ago": "46d ago"
-  },
-  {
-    "id": "1a1d646c1e56",
-    "politician": "Rep. Alexandria Ocasio-Cortez",
-    "initials": "AOC",
-    "role": "House Financial Services Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#93c5fd"
-    },
-    "severity": "high",
-    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://shitter.thepixora.com/AOC/status/2085006319220625569#m",
-    "published_iso": "2026-08-05T14:13:38+00:00",
-    "time_ago": "48d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -1079,7 +1029,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "62d ago"
+    "time_ago": "63d ago"
   },
   {
     "id": "555d7f3dd315",
@@ -1148,7 +1098,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "140d ago"
+    "time_ago": "141d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1170,7 +1120,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "148d ago"
+    "time_ago": "149d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1194,7 +1144,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "176d ago"
+    "time_ago": "177d ago"
   },
   {
     "id": "432e035b915b",
@@ -1234,7 +1184,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "221d ago"
+    "time_ago": "222d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1253,7 +1203,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "221d ago"
+    "time_ago": "222d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1298,6 +1248,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "280d ago"
+    "time_ago": "281d ago"
   }
 ]
