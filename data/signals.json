@@ -1,6 +1,33 @@
 [
   {
-    "id": "31d9b5373907",
+    "id": "3fe374d32b7d",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "high",
+    "content": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act. Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment s",
+    "tags": [
+      "Crypto",
+      "Banking"
+    ],
+    "tickers": [
+      "BTC",
+      "ETH",
+      "COIN",
+      "XRP"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
+    "published_iso": "2026-09-24T18:30:00+00:00",
+    "time_ago": "35m ago"
+  },
+  {
+    "id": "3b54961d91ea",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,17 +36,94 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Min Zin\u2019s freedom must be first on the Trump-Xi summit agenda. Former Senate staffer Ellen Bork urged President Trump to demand the release of wrongfully detained Americans Min Zin and Youlin Chen during his summit with Chinese leader Xi Jinping",
-    "tags": [
-      "China",
-      "Taxes"
-    ],
+    "content": "Diplomats ordered to use 'super intelligence' instead of 'artificial intelligence' in Trump push. The State Department ordered its diplomats to use term \"super intelligence\" (SI) when referring to artificial intelligence in all of its communications, after President Trump pushed for the renaming, The Associated Press r",
+    "tags": [],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/international/6108004-free-american-expert-min-zin/",
-    "published_iso": "2026-09-24T15:00:00+00:00",
-    "time_ago": "6m ago"
+    "url": "https://thehill.com/homenews/administration/6109549-diplomats-ai-super-intelligence/",
+    "published_iso": "2026-09-24T18:03:10+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "379ced7de838",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "First Lady Melania Trump and Madame Peng Liyuan Visit Smithsonian National Museum of Asian Art Highlighting Sino-American Artwork, Culture, and the Next Generation. First Lady Melania Trump and Madame Peng Liyuan visited the Smithsonian National Museum of Asian Art in Washington, DC today, where they explored works spa",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-and-madame-peng-liyuan-visit-smithsonian-national-museum-of-asian-art-highlighting-sino-american-artwork-culture-and-the-next-generation/",
+    "published_iso": "2026-09-24T17:33:46+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "3629fbf17136",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "FAA blames error messages for switch to backup fiber line before outage. The Federal Aviation Administration (FAA) blamed error messages that caused the agency to switch to a backup fiber line that halted flights in multiple northeast airports this week. The FAA said it was advised on Sunday by L3Harris, a technology c",
+    "tags": [],
+    "tickers": [
+      "L3H"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/transportation/6109634-faa-flight-outage-fiber-cut/",
+    "published_iso": "2026-09-24T17:22:35+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "85d1dac6ac31",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "FAA: No political interference in Trump arch review. Federal Aviation Administration (FAA) head Bryan Bedford said there was no political interference in the air safety review for President Trump's proposed triumphal arch, which concluded that a visible eternal flame should be installed at the top of the structure. \"We",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6109250-faa-trump-arch-safety-review-politics/",
+    "published_iso": "2026-09-24T17:16:42+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "39d01a8803f7",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "Motion to Invoke Cloture: S. 4668, as Amended. Vote: Cloture Motion Agreed to 74/25",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s243?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-09-24T15:46:00+00:00",
+    "time_ago": "3h ago"
   },
   {
     "id": "1daa667fb26d",
@@ -45,7 +149,26 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
     "published_iso": "2026-09-24T15:00:00+00:00",
-    "time_ago": "6m ago"
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "04efc593b2bb",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "S.Amdt. 6776 (Cruz) to S. 4668: In the nature of a substitute.. Vote: Amendment Agreed to 77/23",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s242?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-09-24T14:48:00+00:00",
+    "time_ago": "4h ago"
   },
   {
     "id": "1194e4a6a1cb",
@@ -66,7 +189,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-the-beatification-of-archbishop-fulton-j-sheen/",
     "published_iso": "2026-09-24T14:00:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "0de58bddb152",
@@ -93,7 +216,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-releases-details-on-the-state-dinner-with-his-excellency-xi-jinping-president-of-the-peoples-republic-of-china-and-madame-peng-liyuan/",
     "published_iso": "2026-09-24T12:21:19+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "b5fa9847a0d7",
@@ -120,7 +243,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19598/rules-of-practice",
     "published_iso": "2026-09-24T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "418e29977fa0",
@@ -141,7 +264,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19566/air-plan-approval-alabama-transportation-conformity",
     "published_iso": "2026-09-24T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "1b313b9c6881",
@@ -163,30 +286,36 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19537/measures-to-restrict-stockpiling-of-polysilicon-and-polysilicon-derivatives-under-proclamation-11052",
     "published_iso": "2026-09-24T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "15h ago"
   },
   {
-    "id": "e6f3d52cc6a8",
-    "politician": "Sen. Bernie Sanders",
-    "initials": "BS",
-    "role": "Senate HELP Committee",
+    "id": "37ee093489ca",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
     "color": {
-      "bg": "#1e2a4a",
-      "fg": "#818cf8"
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
     },
-    "severity": "critical",
-    "content": "Jensen Huang, the CEO of leading AI company Nvidia, just said: \n  \nIf an AI model will \"damage the world \u2014 then I think the answer is that we have to shut the labs down.\" \n \nMy new bill to ban Artificial Superintelligence would do just that. \n \nIf you can't control it, don't build it.",
+    "severity": "high",
+    "content": "Five things Democrats will do in January when we win back the House: \n \n\u2705 Increase the minimum wage  \n\u2705 Pass paid family leave \n\u2705 End the war in Iran \n\u2705 Hold a vote on Medicare for All \n\u2705 Tax the billionaires \n \n Video",
     "tags": [
-      "Regulation"
+      "Healthcare",
+      "Regulation",
+      "Taxes",
+      "Sanctions"
     ],
     "tickers": [
-      "NVDA"
+      "UNH",
+      "HCA",
+      "CVS",
+      "LMT"
     ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "http://nitter.meowing.monster/BernieSanders/status/2102826376449376276#m",
-    "published_iso": "2026-09-23T18:24:11+00:00",
-    "time_ago": "20h ago"
+    "url": "http://nitter.meowing.monster/RoKhanna/status/2102859378168647875#m",
+    "published_iso": "2026-09-23T20:35:19+00:00",
+    "time_ago": "22h ago"
   },
   {
     "id": "c186c7a04303",
@@ -205,7 +334,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s241?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-23T18:16:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "62192a2930d0",
@@ -227,7 +356,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ustr-announces-fiscal-year-2027-wto-tariff-rate-quota-allocations-raw-cane-sugar",
     "published_iso": "2026-09-23T15:10:10+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "cf105203c1f2",
@@ -437,7 +566,34 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-unveils-new-fostering-the-future-together-technology-alliances-international-events-and-membership-expansion/",
     "published_iso": "2026-09-22T18:07:04+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
+  },
+  {
+    "id": "34b38e8beac1",
+    "politician": "Rep. Mike Johnson",
+    "initials": "MJ",
+    "role": "Speaker of the House",
+    "color": {
+      "bg": "#2a1a1a",
+      "fg": "#fbbf24"
+    },
+    "severity": "critical",
+    "content": "REMINDER: \n \nEvery single Democrat voted AGAINST: \n\u27a1\ufe0f Lower Taxes  \n\u27a1\ufe0f No Tax on Tips  \n\u27a1\ufe0f No Tax on Overtime  \n\u27a1\ufe0f Lower Prescription Drug Prices \n\u27a1\ufe0f Trump Accounts, tax-advantaged investment accounts for children \n\u27a1\ufe0f DOUBLING the child tax credit \n\u27a1\ufe0f Keeping men OUT of women's sports",
+    "tags": [
+      "Healthcare",
+      "Taxes"
+    ],
+    "tickers": [
+      "LLY",
+      "PFE",
+      "JNJ",
+      "MRK"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://shitter.thepixora.com/SpeakerJohnson/status/2102409555556876704#m",
+    "published_iso": "2026-09-22T14:47:53+00:00",
+    "time_ago": "2d ago"
   },
   {
     "id": "f33451470037",
@@ -532,7 +688,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s238?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-17T17:59:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "89b993da7f5b",
@@ -551,7 +707,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s237?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-17T16:54:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "1d79087bc12c",
@@ -570,7 +726,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s236?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-17T16:00:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "66474bcef426",
@@ -591,44 +747,6 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mvoni4k3ws2v",
     "published_iso": "2026-09-17T02:51:26.640000+00:00",
-    "time_ago": "7d ago"
-  },
-  {
-    "id": "c7260e87b710",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "S. 2403: Retire through Ownership Act. Vote: Passed 401/14",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h314?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-16T23:05:00+00:00",
-    "time_ago": "7d ago"
-  },
-  {
-    "id": "dcd21ba717fa",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "H.R. 9497: Water Resources Development Act of 2026. Vote: Passed 415/9",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/h313?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-16T22:58:00+00:00",
     "time_ago": "7d ago"
   },
   {
@@ -655,7 +773,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
     "published_iso": "2026-09-16T18:00:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "871ffab494b5",
@@ -681,7 +799,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
     "published_iso": "2026-09-16T18:00:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "f5ef8bcafaa7",
@@ -792,27 +910,6 @@
     "time_ago": "13d ago"
   },
   {
-    "id": "fac99d0bd221",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle. Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
-    "published_iso": "2026-09-10T20:00:00+00:00",
-    "time_ago": "13d ago"
-  },
-  {
     "id": "baf26d52584e",
     "politician": "Sen. Rand Paul",
     "initials": "RP",
@@ -838,7 +935,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "47d ago"
+    "time_ago": "48d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -867,7 +964,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "62d ago"
+    "time_ago": "63d ago"
   },
   {
     "id": "de38f5381391",
@@ -888,7 +985,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "63d ago"
+    "time_ago": "64d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -953,7 +1050,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "135d ago"
+    "time_ago": "136d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1044,7 +1141,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "182d ago"
+    "time_ago": "183d ago"
   },
   {
     "id": "00f579ee8f55",
@@ -1110,7 +1207,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "244d ago"
+    "time_ago": "245d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1129,6 +1226,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "281d ago"
+    "time_ago": "282d ago"
   }
 ]
