@@ -1,71 +1,6 @@
 [
   {
-    "id": "a78f317e8847",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Chen Yang Luke received 126,295 shares of 111, Inc. (YI) \u00b7 Sep 24 ($30,760 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "YI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2121461/000110465926110132/0001104659-26-110132-index.htm",
-    "published_iso": "2026-09-24T10:10:38+00:00",
-    "time_ago": "just now"
-  },
-  {
-    "id": "5058a99e5a6b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Mitsubishi Ufj Financial Group Inc disposed of 1,340,519 shares of Morgan Stanley (MS-PA) \u00b7 $212.57/share \u00b7 $284,950,638 total \u00b7 Sep 24",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [
-      "MS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/895421/000119312526400093/0001193125-26-400093-index.htm",
-    "published_iso": "2026-09-24T10:10:03+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "acf5ff87fe07",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Chang Hung Pen exercised options for 300,000 shares of Ase Technology Holding Co., Ltd. (ASX) \u00b7 $98.60/share \u00b7 $29,580,000 total \u00b7 Sep 24",
-    "tags": [],
-    "tickers": [
-      "ASX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2118107/000095010326014420/0000950103-26-014420-index.htm",
-    "published_iso": "2026-09-24T10:05:46+00:00",
-    "time_ago": "5m ago"
-  },
-  {
-    "id": "2f3557fbbc2c",
+    "id": "31d9b5373907",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -73,12 +8,80 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Trump trade rules apply differently to China, Canada, and Xi, Carney. President Trump heads into his summit with Chinese President Xi Jinping this week on the heels of waging a bruising trade war with Canada that has badly damaged relations with that country.  It's a stark contrast from how he\u2019s handled trade talks wit",
+    "severity": "high",
+    "content": "Min Zin\u2019s freedom must be first on the Trump-Xi summit agenda. Former Senate staffer Ellen Bork urged President Trump to demand the release of wrongfully detained Americans Min Zin and Youlin Chen during his summit with Chinese leader Xi Jinping",
     "tags": [
-      "Trade",
       "China",
-      "Regulation"
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/international/6108004-free-american-expert-min-zin/",
+    "published_iso": "2026-09-24T15:00:00+00:00",
+    "time_ago": "6m ago"
+  },
+  {
+    "id": "1daa667fb26d",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank. Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
+    "published_iso": "2026-09-24T15:00:00+00:00",
+    "time_ago": "6m ago"
+  },
+  {
+    "id": "1194e4a6a1cb",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "Presidential Message on the Beatification of Archbishop Fulton J. Sheen. Melania and I join all those celebrating the life and legacy of Archbishop Fulton J. Sheen\u2014the Catholic priest who pioneered the use of media to speak the truth, preach the Gospel, and bring many souls closer to Christ.&#160; Today, Archbishop She",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-the-beatification-of-archbishop-fulton-j-sheen/",
+    "published_iso": "2026-09-24T14:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "0de58bddb152",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "First Lady Melania Trump Releases Details on the State Dinner with His Excellency Xi Jinping, President of The People\u2019s Republic of China, and Madame Peng Liyuan. President Donald J. Trump and First Lady Melania Trump will welcome His Excellency Xi Jinping, President of The People\u2019s Republic of China, and Madame Peng L",
+    "tags": [
+      "China",
+      "Taxes"
     ],
     "tickers": [
       "NVDA",
@@ -86,11 +89,11 @@
       "QCOM",
       "AAPL"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/6106941-trump-xi-summit-trade-canada/",
-    "published_iso": "2026-09-24T10:00:00+00:00",
-    "time_ago": "11m ago"
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-releases-details-on-the-state-dinner-with-his-excellency-xi-jinping-president-of-the-peoples-republic-of-china-and-madame-peng-liyuan/",
+    "published_iso": "2026-09-24T12:21:19+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "b5fa9847a0d7",
@@ -117,7 +120,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19598/rules-of-practice",
     "published_iso": "2026-09-24T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "418e29977fa0",
@@ -138,7 +141,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19566/air-plan-approval-alabama-transportation-conformity",
     "published_iso": "2026-09-24T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "1b313b9c6881",
@@ -160,30 +163,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19537/measures-to-restrict-stockpiling-of-polysilicon-and-polysilicon-derivatives-under-proclamation-11052",
     "published_iso": "2026-09-24T04:00:00+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "b41cc0865926",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Fong Gifford bought 100 shares of Primeenergy Resources Corp (PNRG) \u00b7 $211.70/share \u00b7 $21,170 total \u00b7 Sep 23",
-    "tags": [
-      "Energy"
-    ],
-    "tickers": [
-      "PNRG"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1018124/000143774926031099/0001437749-26-031099-index.htm",
-    "published_iso": "2026-09-24T01:48:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "e6f3d52cc6a8",
@@ -195,7 +175,7 @@
       "fg": "#818cf8"
     },
     "severity": "critical",
-    "content": "Jensen Huang, the CEO of leading AI company Nvidia, just said: \n  \nIf an AI model will \"damage the world \u2014 then I think the answer is that we have to shut the labs down.\" \n \nMy new bill to ban Artificial Superintelligence would do just that. \n \nIf you can't control it, don't build it. \n  Community note:  Prefacing this",
+    "content": "Jensen Huang, the CEO of leading AI company Nvidia, just said: \n  \nIf an AI model will \"damage the world \u2014 then I think the answer is that we have to shut the labs down.\" \n \nMy new bill to ban Artificial Superintelligence would do just that. \n \nIf you can't control it, don't build it.",
     "tags": [
       "Regulation"
     ],
@@ -204,9 +184,9 @@
     ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "http://shitter.thepixora.com/BernieSanders/status/2102826376449376276#m",
+    "url": "http://nitter.meowing.monster/BernieSanders/status/2102826376449376276#m",
     "published_iso": "2026-09-23T18:24:11+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "c186c7a04303",
@@ -225,7 +205,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s241?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-23T18:16:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "62192a2930d0",
@@ -247,7 +227,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ustr-announces-fiscal-year-2027-wto-tariff-rate-quota-allocations-raw-cane-sugar",
     "published_iso": "2026-09-23T15:10:10+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "cf105203c1f2",
@@ -268,7 +248,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-delivers-powerful-america-first-message-to-the-united-nations/",
     "published_iso": "2026-09-23T14:02:11+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "ed8a4aec0b6c",
@@ -487,27 +467,6 @@
     "time_ago": "2d ago"
   },
   {
-    "id": "1482fb90ff06",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "high",
-    "content": "White House Access Is a Privilege \u2014 Not a Right. Last week, President Donald J. Trump removed CNN, MS NOW, and Politico from the White House grounds after years of false reporting. The First Amendment protects their right to publish; it does not entitle them to a hard pass, briefing room seat, or place in the press poo",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/releases/2026/09/white-house-access-is-a-privilege-not-a-right/",
-    "published_iso": "2026-09-21T18:01:52+00:00",
-    "time_ago": "2d ago"
-  },
-  {
     "id": "6c9e6abea13a",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -528,7 +487,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
     "published_iso": "2026-09-18T15:00:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "9f0fe219f819",
@@ -554,7 +513,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
     "published_iso": "2026-09-18T15:00:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "fee5a67d3a17",
@@ -801,7 +760,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
     "published_iso": "2026-09-11T14:00:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "81e4469b573f",
@@ -852,32 +811,6 @@
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
     "published_iso": "2026-09-10T20:00:00+00:00",
     "time_ago": "13d ago"
-  },
-  {
-    "id": "6cce72db2aa7",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.. Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
-    "published_iso": "2026-09-04T15:00:00+00:00",
-    "time_ago": "19d ago"
   },
   {
     "id": "baf26d52584e",
@@ -977,7 +910,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "63d ago"
+    "time_ago": "64d ago"
   },
   {
     "id": "555d7f3dd315",
@@ -1046,7 +979,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "141d ago"
+    "time_ago": "142d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1068,7 +1001,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "149d ago"
+    "time_ago": "150d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1092,7 +1025,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "177d ago"
+    "time_ago": "178d ago"
   },
   {
     "id": "432e035b915b",
@@ -1132,7 +1065,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "222d ago"
+    "time_ago": "223d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1151,7 +1084,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "222d ago"
+    "time_ago": "223d ago"
   },
   {
     "id": "c3776ad92a42",
