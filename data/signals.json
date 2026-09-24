@@ -1,5 +1,98 @@
 [
   {
+    "id": "a78f317e8847",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Chen Yang Luke received 126,295 shares of 111, Inc. (YI) \u00b7 Sep 24 ($30,760 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "YI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2121461/000110465926110132/0001104659-26-110132-index.htm",
+    "published_iso": "2026-09-24T10:10:38+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "5058a99e5a6b",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Mitsubishi Ufj Financial Group Inc disposed of 1,340,519 shares of Morgan Stanley (MS-PA) \u00b7 $212.57/share \u00b7 $284,950,638 total \u00b7 Sep 24",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "MS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/895421/000119312526400093/0001193125-26-400093-index.htm",
+    "published_iso": "2026-09-24T10:10:03+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "acf5ff87fe07",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Chang Hung Pen exercised options for 300,000 shares of Ase Technology Holding Co., Ltd. (ASX) \u00b7 $98.60/share \u00b7 $29,580,000 total \u00b7 Sep 24",
+    "tags": [],
+    "tickers": [
+      "ASX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2118107/000095010326014420/0000950103-26-014420-index.htm",
+    "published_iso": "2026-09-24T10:05:46+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "2f3557fbbc2c",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Trump trade rules apply differently to China, Canada, and Xi, Carney. President Trump heads into his summit with Chinese President Xi Jinping this week on the heels of waging a bruising trade war with Canada that has badly damaged relations with that country.  It's a stark contrast from how he\u2019s handled trade talks wit",
+    "tags": [
+      "Trade",
+      "China",
+      "Regulation"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/6106941-trump-xi-summit-trade-canada/",
+    "published_iso": "2026-09-24T10:00:00+00:00",
+    "time_ago": "11m ago"
+  },
+  {
     "id": "b5fa9847a0d7",
     "politician": "Federal Register",
     "initials": "FR",
@@ -24,7 +117,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19598/rules-of-practice",
     "published_iso": "2026-09-24T04:00:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "418e29977fa0",
@@ -45,7 +138,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19566/air-plan-approval-alabama-transportation-conformity",
     "published_iso": "2026-09-24T04:00:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "1b313b9c6881",
@@ -67,7 +160,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19537/measures-to-restrict-stockpiling-of-polysilicon-and-polysilicon-derivatives-under-proclamation-11052",
     "published_iso": "2026-09-24T04:00:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "b41cc0865926",
@@ -90,214 +183,30 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1018124/000143774926031099/0001437749-26-031099-index.htm",
     "published_iso": "2026-09-24T01:48:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "8h ago"
   },
   {
-    "id": "e2dcc75f80d5",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "e6f3d52cc6a8",
+    "politician": "Sen. Bernie Sanders",
+    "initials": "BS",
+    "role": "Senate HELP Committee",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Pm Squared Llc received 442,899 shares of Big Digital Energy, Inc. (BGDE) \u00b7 $5.80/share \u00b7 $2,568,814 total \u00b7 Sep 23 ($2,573,751 across all blocks)",
-    "tags": [
-      "Energy"
-    ],
-    "tickers": [
-      "BGDE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2144081/000091228226001303/0000912282-26-001303-index.htm",
-    "published_iso": "2026-09-24T01:40:20+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "9df60ff94440",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Bliss Andrew sold 76,953 shares of Bullish (BLSH) \u00b7 $40.20/share \u00b7 $3,093,888 total \u00b7 Sep 23 ($9,918,974 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "BLSH"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1974191/000092963826003625/0000929638-26-003625-index.htm",
-    "published_iso": "2026-09-24T01:30:17+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "85ede0606eed",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "5 crucial issues lawmakers want Trump to address with China. President Trump and Chinese President Xi Jinping will hold a series of high-stakes meetings in Washington, marking the first official state visit by China\u2019s leader in more than a decade.\u00a0 The meetings come at a fragile moment in relations between the U.S. and",
-    "tags": [
-      "China",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6107744-trump-xi-summit-washington/",
-    "published_iso": "2026-09-23T23:31:50+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "a33923a9cbe1",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#1e2a4a",
+      "fg": "#818cf8"
     },
     "severity": "critical",
-    "content": "Fed's Barr says future interest rate hikes 'likely' needed to tame inflation. Federal Reserve Governor Michael Barr said Wednesday the central bank will \u201clikely\u201d raise interest rates again to counter persistent inflation, after it did so last week for the first time in three-plus years. Barr, a member of the rate-setti",
+    "content": "Jensen Huang, the CEO of leading AI company Nvidia, just said: \n  \nIf an AI model will \"damage the world \u2014 then I think the answer is that we have to shut the labs down.\" \n \nMy new bill to ban Artificial Superintelligence would do just that. \n \nIf you can't control it, don't build it. \n  Community note:  Prefacing this",
     "tags": [
-      "Banking",
-      "Taxes"
+      "Regulation"
     ],
     "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/6107670-fed-governor-barr-rate-hike/",
-    "published_iso": "2026-09-23T23:12:50+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "54647f49f995",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Wright throws cold water on diesel export ban. {beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  Wright throws cold water on diesel export ban Energy Secretary Chris Wright threw cold water at the idea of a full ban on diesel exports Wednesday. \u00a9 Greg Nash \u201cThe blunt tool of banning di",
-    "tags": [
-      "Trade",
-      "Energy"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/energy-environment/6107716-wright-opposes-diesel-export-ban/",
-    "published_iso": "2026-09-23T22:51:32+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "c09fd69b3a41",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Would a diesel export ban actually bring down prices?. Experts are skeptical that a diesel export ban would meaningfully reduce fuel prices in the U.S. as the Trump administration sends mixed signals about if it is considering such a move. Analysts interviewed by The Hill said that an outright ban could provide some sh",
-    "tags": [
-      "Trade"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/energy-environment/6107629-diesel-export-ban-gas-prices-oil-refineries/",
-    "published_iso": "2026-09-23T22:50:58+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "449d3537ae97",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "low",
-    "content": "10-year Treasury yield spikes to highest point since 2007. The benchmark 10-year U.S. Treasury bond yield again hit a 19-year high on Wednesday, as the market sell-off continues amid the Iran war and rising government debt.  The 10-year note closed at 5.11 percent on Wednesday, up roughly 14 basis points from its closi",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM",
-      "GLD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/6107495-us-treasury-yield-19-year-high/",
-    "published_iso": "2026-09-23T22:42:37+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "37ee093489ca",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Five things Democrats will do in January when we win back the House: \n \n\u2705 Increase the minimum wage  \n\u2705 Pass paid family leave \n\u2705 End the war in Iran \n\u2705 Hold a vote on Medicare for All \n\u2705 Tax the billionaires \n \n Video",
-    "tags": [
-      "Healthcare",
-      "Regulation",
-      "Taxes",
-      "Sanctions"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS",
-      "LMT"
+      "NVDA"
     ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "http://nitter.jaydenha.uk/RoKhanna/status/2102859378168647875#m",
-    "published_iso": "2026-09-23T20:35:19+00:00",
-    "time_ago": "8h ago"
+    "url": "http://shitter.thepixora.com/BernieSanders/status/2102826376449376276#m",
+    "published_iso": "2026-09-23T18:24:11+00:00",
+    "time_ago": "15h ago"
   },
   {
     "id": "c186c7a04303",
@@ -316,7 +225,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s241?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-23T18:16:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "62192a2930d0",
@@ -338,7 +247,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ustr-announces-fiscal-year-2027-wto-tariff-rate-quota-allocations-raw-cane-sugar",
     "published_iso": "2026-09-23T15:10:10+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "cf105203c1f2",
@@ -359,7 +268,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-delivers-powerful-america-first-message-to-the-united-nations/",
     "published_iso": "2026-09-23T14:02:11+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "ed8a4aec0b6c",
@@ -548,33 +457,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-unveils-new-fostering-the-future-together-technology-alliances-international-events-and-membership-expansion/",
     "published_iso": "2026-09-22T18:07:04+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "34b38e8beac1",
-    "politician": "Rep. Mike Johnson",
-    "initials": "MJ",
-    "role": "Speaker of the House",
-    "color": {
-      "bg": "#2a1a1a",
-      "fg": "#fbbf24"
-    },
-    "severity": "critical",
-    "content": "REMINDER: \n \nEvery single Democrat voted AGAINST: \n\u27a1\ufe0f Lower Taxes  \n\u27a1\ufe0f No Tax on Tips  \n\u27a1\ufe0f No Tax on Overtime  \n\u27a1\ufe0f Lower Prescription Drug Prices \n\u27a1\ufe0f Trump Accounts, tax-advantaged investment accounts for children \n\u27a1\ufe0f DOUBLING the child tax credit \n\u27a1\ufe0f Keeping men OUT of women's sports",
-    "tags": [
-      "Healthcare",
-      "Taxes"
-    ],
-    "tickers": [
-      "LLY",
-      "PFE",
-      "JNJ",
-      "MRK"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://shitter.thepixora.com/SpeakerJohnson/status/2102409555556876704#m",
-    "published_iso": "2026-09-22T14:47:53+00:00",
     "time_ago": "1d ago"
   },
   {
