@@ -1,30 +1,6 @@
 [
   {
-    "id": "3b8eda9798d4",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Wells Fargo & Company/Mn acquired/disposed 500 shares of Nuveen Quality Municipal Income Fund (NAD) \u00b7 Sep 25",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [
-      "NAD",
-      "WFC"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1585457/000119312526401950/0001193125-26-401950-index.htm",
-    "published_iso": "2026-09-25T15:18:00+00:00",
-    "time_ago": "3m ago"
-  },
-  {
-    "id": "fcec35c88a06",
+    "id": "e12997b36a7b",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -32,21 +8,39 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "critical",
-    "content": "How private equity is killing public access to hospitals and emergency care. The corporatization of the health care system by private equity has come with significant costs. While private equity\u2019s ownership of hospitals may earn millions for their investors, they have put patients, communities and providers at risk",
+    "severity": "high",
+    "content": "Trump rules out Bessent as AI czar. President Trump said on Friday he is ruling out Treasury Secretary Scott Bessent to serve as his artificial intelligence czar amid speculation the Cabinet member was under consideration. Trump, in a Truth Social post Friday, said Bessent will not be the \"Super Intelligence (SI) Czar,",
     "tags": [
-      "Healthcare"
+      "Regulation"
     ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/healthcare/6109266-private-equity-hospital-closures/",
-    "published_iso": "2026-09-25T14:00:00+00:00",
-    "time_ago": "1h ago"
+    "url": "https://thehill.com/policy/technology/6111941-donald-trump-scott-bessent-artificial-intelligence-czar/",
+    "published_iso": "2026-09-25T18:48:20+00:00",
+    "time_ago": "34m ago"
+  },
+  {
+    "id": "06e46a9fc53b",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "First Lady Melania Trump Highlights Art, Culture, and the Next Generation During State Visit of President Xi Jinping and Madame Peng Liyuan. \u201cArt and culture have a remarkable ability to transcend borders, connect generations, and offer us a deeper appreciation for one another. It was an honor to welcome President Xi J",
+    "tags": [
+      "Trade",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-highlights-art-culture-and-the-next-generation-during-state-visit-of-president-xi-jinping-and-madame-peng-liyuan/",
+    "published_iso": "2026-09-25T16:24:18+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "6484fe2f328d",
@@ -67,7 +61,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19723/national-wildlife-refuge-system-2026-2027-station-specific-hunting-and-sport-fishing-regulations",
     "published_iso": "2026-09-25T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "ff81a0d71a84",
@@ -89,7 +83,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19722/ifr-altitudes-miscellaneous-amendments",
     "published_iso": "2026-09-25T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "6b909d93e170",
@@ -110,7 +104,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19720/national-environmental-policy-act-implementing-procedures",
     "published_iso": "2026-09-25T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "5702c51899e9",
@@ -136,7 +130,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19696/driving-efficiency-in-farm-loan-delivery-correction",
     "published_iso": "2026-09-25T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "d141e2e62bb0",
@@ -158,7 +152,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19694/annual-notices-on-explosive-materials-storage-facilities-to-local-fire-authority",
     "published_iso": "2026-09-25T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "47ca3f166ba2",
@@ -179,7 +173,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19693/implementing-the-safe-explosives-act",
     "published_iso": "2026-09-25T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "07159bc3df7b",
@@ -200,7 +194,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19688/disadvantaged-business-enterprise-and-airport-concession-disadvantaged-business-enterprise-program",
     "published_iso": "2026-09-25T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "79b830d579c7",
@@ -219,7 +213,34 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19681/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-general-category",
     "published_iso": "2026-09-25T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "15h ago"
+  },
+  {
+    "id": "3fe374d32b7d",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "high",
+    "content": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act. Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment s",
+    "tags": [
+      "Crypto",
+      "Banking"
+    ],
+    "tickers": [
+      "BTC",
+      "ETH",
+      "COIN",
+      "XRP"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
+    "published_iso": "2026-09-24T18:30:00+00:00",
+    "time_ago": "1d ago"
   },
   {
     "id": "0a6e300d2b4f",
@@ -244,7 +265,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s244?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-24T17:45:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "379ced7de838",
@@ -265,7 +286,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-and-madame-peng-liyuan-visit-smithsonian-national-museum-of-asian-art-highlighting-sino-american-artwork-culture-and-the-next-generation/",
     "published_iso": "2026-09-24T17:33:46+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "39d01a8803f7",
@@ -284,7 +305,33 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s243?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-24T15:46:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
+  },
+  {
+    "id": "1daa667fb26d",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank. Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
+    "published_iso": "2026-09-24T15:00:00+00:00",
+    "time_ago": "1d ago"
   },
   {
     "id": "04efc593b2bb",
@@ -370,7 +417,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s241?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-23T18:16:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "62192a2930d0",
@@ -476,24 +523,30 @@
     "time_ago": "2d ago"
   },
   {
-    "id": "f4b21ea9f452",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
+    "id": "892dc18c4042",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
     "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
     },
-    "severity": "low",
-    "content": "First Lady Melania Trump Unveils New Fostering the Future Together Technology Alliances, International Events, and Membership Expansion. First Lady Melania Trump today reconvened members of Fostering the Future Together during the 81st United Nations General Assembly. The First Lady welcomed leaders from around the wor",
+    "severity": "critical",
+    "content": "Federal Reserve Board announces approval of application by BancFirst Corporation. Federal Reserve Board announces approval of application by BancFirst Corporation",
     "tags": [
+      "Banking",
       "Taxes"
     ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-unveils-new-fostering-the-future-together-technology-alliances-international-events-and-membership-expansion/",
-    "published_iso": "2026-09-22T18:07:04+00:00",
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
+    "published_iso": "2026-09-22T20:30:00+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -524,6 +577,55 @@
     "time_ago": "3d ago"
   },
   {
+    "id": "6c9e6abea13a",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank. Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Ex",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "AXP"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+    "published_iso": "2026-09-18T15:00:00+00:00",
+    "time_ago": "7d ago"
+  },
+  {
+    "id": "9f0fe219f819",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula. Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+    "published_iso": "2026-09-18T15:00:00+00:00",
+    "time_ago": "7d ago"
+  },
+  {
     "id": "fee5a67d3a17",
     "politician": "GovTrack",
     "initials": "GT",
@@ -540,7 +642,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s238?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-17T17:59:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "89b993da7f5b",
@@ -559,7 +661,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s237?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-17T16:54:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "66474bcef426",
@@ -581,6 +683,58 @@
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mvoni4k3ws2v",
     "published_iso": "2026-09-17T02:51:26.640000+00:00",
     "time_ago": "8d ago"
+  },
+  {
+    "id": "dcd00aa841df",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "Federal Reserve issues FOMC statement. Federal Reserve issues FOMC statement",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+    "published_iso": "2026-09-16T18:00:00+00:00",
+    "time_ago": "9d ago"
+  },
+  {
+    "id": "871ffab494b5",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting. Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+    "published_iso": "2026-09-16T18:00:00+00:00",
+    "time_ago": "9d ago"
   },
   {
     "id": "f5ef8bcafaa7",
@@ -641,6 +795,27 @@
     "time_ago": "11d ago"
   },
   {
+    "id": "af20a4831d15",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers. Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
+    "published_iso": "2026-09-11T14:00:00+00:00",
+    "time_ago": "14d ago"
+  },
+  {
     "id": "81e4469b573f",
     "politician": "Sen. Cynthia Lummis",
     "initials": "CL",
@@ -695,7 +870,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "48d ago"
+    "time_ago": "49d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -724,7 +899,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "63d ago"
+    "time_ago": "64d ago"
   },
   {
     "id": "de38f5381391",
@@ -745,7 +920,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "64d ago"
+    "time_ago": "65d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -810,7 +985,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "136d ago"
+    "time_ago": "137d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -901,7 +1076,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "183d ago"
+    "time_ago": "184d ago"
   },
   {
     "id": "00f579ee8f55",
@@ -967,7 +1142,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "245d ago"
+    "time_ago": "246d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -986,6 +1161,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "282d ago"
+    "time_ago": "283d ago"
   }
 ]
