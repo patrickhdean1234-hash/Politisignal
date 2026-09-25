@@ -1,6 +1,6 @@
 [
   {
-    "id": "ab0750bf7054",
+    "id": "23e157af3760",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Slingsby Brian Taylor sold 104,320 shares of Mineralys Therapeutics, Inc. (MLYS) \u00b7 $28.81/share \u00b7 $3,005,303 total \u00b7 Sep 24",
+    "content": "Wang Yanjun sold 186 shares of Sea Ltd (SE) \u00b7 $101.95/share \u00b7 $18,963 total \u00b7 Sep 25 ($244,912 across all blocks)",
     "tags": [],
     "tickers": [
-      "MLYS"
+      "SE"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1963901/000196390126000003/0001963901-26-000003-index.htm",
-    "published_iso": "2026-09-25T01:49:40+00:00",
-    "time_ago": "3h ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2113214/000119312526401520/0001193125-26-401520-index.htm",
+    "published_iso": "2026-09-25T10:12:56+00:00",
+    "time_ago": "6m ago"
   },
   {
-    "id": "73763a1a263c",
+    "id": "3d26470fc0a4",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,19 +30,80 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Lee Kang Jyh sold 10,000 shares of Photronics Inc (PLAB) \u00b7 $29.70/share \u00b7 $297,000 total \u00b7 Sep 24",
+    "content": "Wu Maggie Wei received 32,000 shares of Alibaba Group Holding Ltd (BBAAY) \u00b7 Sep 25",
     "tags": [],
     "tickers": [
-      "PLAB"
+      "BBAAY"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1748668/000114036126037594/0001140361-26-037594-index.htm",
-    "published_iso": "2026-09-25T01:35:53+00:00",
-    "time_ago": "3h ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2120700/000119312526401514/0001193125-26-401514-index.htm",
+    "published_iso": "2026-09-25T10:09:19+00:00",
+    "time_ago": "9m ago"
   },
   {
-    "id": "f648c64063ec",
+    "id": "fc5c3ab94a80",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Misra Kabir received 32,000 shares of Alibaba Group Holding Ltd (BBAAY) \u00b7 Sep 25",
+    "tags": [],
+    "tickers": [
+      "BBAAY"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1869212/000119312526401512/0001193125-26-401512-index.htm",
+    "published_iso": "2026-09-25T10:08:16+00:00",
+    "time_ago": "10m ago"
+  },
+  {
+    "id": "cfe6ee95a312",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Zhu Muchun bought 1,625,000 shares of Intercont (Cayman) Ltd (NCT) \u00b7 $0.40/share \u00b7 $650,000 total \u00b7 Sep 25",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2071210/000149315226044229/0001493152-26-044229-index.htm",
+    "published_iso": "2026-09-25T10:06:55+00:00",
+    "time_ago": "12m ago"
+  },
+  {
+    "id": "4d892cdb4037",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Poole Lisa M. sold 200 shares of Keysight Technologies, Inc. (KEYS) \u00b7 $348.01/share \u00b7 $69,602 total \u00b7 Sep 25",
+    "tags": [],
+    "tickers": [
+      "KEYS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1987126/000198712626000004/0001987126-26-000004-index.htm",
+    "published_iso": "2026-09-25T10:06:23+00:00",
+    "time_ago": "12m ago"
+  },
+  {
+    "id": "f3f85ffda12c",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -51,132 +112,214 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Zuckerberg, Altman, other Big Tech moguls among attendees at Trump-Xi dinner. President Trump hosted Chinese President Xi Jinping at the White House for a state dinner Thursday, whose guest list is full of tech billionaires and some of the world\u2019s most powerful business leaders. Dressed in black tuxedoes, Meta CEO Mark",
+    "content": "Why Generation Z is less likely to view China as a threat. Recent research on American attitudes toward China reveal stark generational divides.  When asked if China\u2019s growing presence on the world stage is a \u201ccritical threat,\u201d 34 percent of Gen Z respondents agreed, compared to 43 percent of Millennials, according to ",
     "tags": [
-      "Big Tech",
       "China",
-      "Regulation"
-    ],
-    "tickers": [
-      "META"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6110866-trump-xi-white-house-dinner/",
-    "published_iso": "2026-09-25T01:34:29+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "dcd9a5d61c53",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Borges David J. exercised options for 5,000 shares of Omeros Corp (OMER) \u00b7 $3.93/share \u00b7 $19,650 total \u00b7 Sep 24 ($609,150 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "OMER"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2005787/000143774926031169/0001437749-26-031169-index.htm",
-    "published_iso": "2026-09-25T01:00:50+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "524d162152e9",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Wood River Capital, Llc sold 12,280,426 shares of Aspen Aerogels Inc (ASPN) \u00b7 $4.73/share \u00b7 $58,086,415 total \u00b7 Sep 24",
-    "tags": [],
-    "tickers": [
-      "ASPN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2027344/000119312526401380/0001193125-26-401380-index.htm",
-    "published_iso": "2026-09-25T00:59:30+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "cf1229260ed3",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hilario Emanuel N withheld (tax) 10,936 shares of One Group Hospitality, Inc. (STKS) \u00b7 $1.65/share \u00b7 $18,044 total \u00b7 Sep 24",
-    "tags": [
-      "Healthcare",
       "Taxes"
     ],
     "tickers": [
-      "STKS"
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1399520/000120393926000008/0001203939-26-000008-index.htm",
-    "published_iso": "2026-09-25T00:46:33+00:00",
-    "time_ago": "4h ago"
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/blogs/in-the-know/6110534-gen-z-china-press-freedom-healthcare-employment/",
+    "published_iso": "2026-09-25T10:00:00+00:00",
+    "time_ago": "19m ago"
   },
   {
-    "id": "30d2a57266af",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "221d14e17484",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "O'Mahony Baker Caroline received 40,000 shares of One Group Hospitality, Inc. (STKS) \u00b7 $1.64/share \u00b7 $65,600 total \u00b7 Sep 24",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "STKS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2151892/000215189226000005/0002151892-26-000005-index.htm",
-    "published_iso": "2026-09-25T00:44:00+00:00",
-    "time_ago": "4h ago"
+    "content": "The Memo: Rising bond yields, mortgage rates deepening gloom for Trump's GOP. Hard numbers on the economy are spelling new trouble for President Trump and the GOP in the midterm elections. They also presage difficulties for millions of Americans. The central issue is one that rarely commands headlines in normal times: ",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/analysis/6110670-rising-bond-yields-midterm-trouble/",
+    "published_iso": "2026-09-25T10:00:00+00:00",
+    "time_ago": "19m ago"
   },
   {
-    "id": "63345c210bec",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "6484fe2f328d",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
     },
-    "severity": "medium",
-    "content": "Dinsdale Mike John bought 8,726 shares of Powerlaw Corp. (PWRL) \u00b7 $11.46/share \u00b7 $99,999 total \u00b7 Sep 24",
+    "severity": "high",
+    "content": "National Wildlife Refuge System; 2026-2027 Station-Specific Hunting and Sport Fishing Regulations; Correction. We, the U.S. Fish and Wildlife Service (FWS or Service), are correcting a final rule that appeared in the Federal Register on September 1, 2026. The rule opened or expanded hunting opportunities on 111 field s",
     "tags": [
       "Regulation"
     ],
-    "tickers": [
-      "PWRL"
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19723/national-wildlife-refuge-system-2026-2027-station-specific-hunting-and-sport-fishing-regulations",
+    "published_iso": "2026-09-25T04:00:00+00:00",
+    "time_ago": "6h ago"
+  },
+  {
+    "id": "ff81a0d71a84",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "IFR Altitudes; Miscellaneous Amendments. This amendment adopts miscellaneous amendments to the required IFR (instrument flight rules) altitudes and changeover points for certain Federal airways, jet routes, or direct routes for which a minimum or maximum en-route authorized IFR altitude is prescribed. This regulatory a",
+    "tags": [
+      "Regulation",
+      "Taxes"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2052053/000121390026103178/0001213900-26-103178-index.htm",
-    "published_iso": "2026-09-25T00:43:45+00:00",
-    "time_ago": "4h ago"
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19722/ifr-altitudes-miscellaneous-amendments",
+    "published_iso": "2026-09-25T04:00:00+00:00",
+    "time_ago": "6h ago"
+  },
+  {
+    "id": "6b909d93e170",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "National Environmental Policy Act Implementing Procedures. The United States Postal Service (USPS) is publishing this interim final rule with request for comments to partially rescind and update its remaining National Environmental Policy Act (NEPA) implementing procedures, which were promulgated to implement the now- ",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19720/national-environmental-policy-act-implementing-procedures",
+    "published_iso": "2026-09-25T04:00:00+00:00",
+    "time_ago": "6h ago"
+  },
+  {
+    "id": "5702c51899e9",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Driving Efficiency in Farm Loan Delivery; Correction. The Farm Service Agency (FSA) is issuing a correction to a final rule published in the Federal Register on September 4, 2026, which will be effective October 1, 2026. The final rule amended FSA's Farm Loan Program (FLP) regulations to permanently implement the Appli",
+    "tags": [
+      "Agriculture",
+      "Regulation"
+    ],
+    "tickers": [
+      "CORN",
+      "SOYB",
+      "DE"
+    ],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19696/driving-efficiency-in-farm-loan-delivery-correction",
+    "published_iso": "2026-09-25T04:00:00+00:00",
+    "time_ago": "6h ago"
+  },
+  {
+    "id": "d141e2e62bb0",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Annual Notices on Explosive Materials Storage Facilities to Local Fire Authority. The Bureau of Alcohol, Tobacco, Firearms, and Explosives (&quot;ATF&quot;) is amending Department of Justice (&quot;Department&quot;) regulations on reporting explosive materials storage. Currently, any person who stores explosive materia",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19694/annual-notices-on-explosive-materials-storage-facilities-to-local-fire-authority",
+    "published_iso": "2026-09-25T04:00:00+00:00",
+    "time_ago": "6h ago"
+  },
+  {
+    "id": "47ca3f166ba2",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Implementing the Safe Explosives Act. The Bureau of Alcohol, Tobacco, Firearms, and Explosives (&quot;ATF&quot;) is finalizing two Department of Justice (&quot;Department&quot;) interim final rules (&quot;IFRs&quot;) implementing the Safe Explosives Act. This rule formally ends those rules' interim status, responds to ",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19693/implementing-the-safe-explosives-act",
+    "published_iso": "2026-09-25T04:00:00+00:00",
+    "time_ago": "6h ago"
+  },
+  {
+    "id": "07159bc3df7b",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Disadvantaged Business Enterprise and Airport Concession Disadvantaged Business Enterprise Program Revisions. The U.S. Department of Transportation (DOT or Department) is finalizing amendments to its Disadvantaged Business Enterprise (DBE) and Airport Concession Disadvantaged Business Enterprise (ACDBE) program regulat",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19688/disadvantaged-business-enterprise-and-airport-concession-disadvantaged-business-enterprise-program",
+    "published_iso": "2026-09-25T04:00:00+00:00",
+    "time_ago": "6h ago"
+  },
+  {
+    "id": "79b830d579c7",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; Closure of the General Category September Fishery for 2026. NMFS closes the General category fishery for Atlantic bluefin tuna (BFT) for the remainder of the September time period. The General category may only retain, possess, or land large medium and",
+    "tags": [],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19681/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-general-category",
+    "published_iso": "2026-09-25T04:00:00+00:00",
+    "time_ago": "6h ago"
   },
   {
     "id": "3fe374d32b7d",
@@ -203,7 +346,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
     "published_iso": "2026-09-24T18:30:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "0a6e300d2b4f",
@@ -228,7 +371,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s244?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-24T17:45:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "379ced7de838",
@@ -249,7 +392,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-and-madame-peng-liyuan-visit-smithsonian-national-museum-of-asian-art-highlighting-sino-american-artwork-culture-and-the-next-generation/",
     "published_iso": "2026-09-24T17:33:46+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "39d01a8803f7",
@@ -268,7 +411,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s243?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-24T15:46:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "1daa667fb26d",
@@ -294,7 +437,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
     "published_iso": "2026-09-24T15:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "04efc593b2bb",
@@ -313,7 +456,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s242?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-24T14:48:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "1194e4a6a1cb",
@@ -334,7 +477,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-the-beatification-of-archbishop-fulton-j-sheen/",
     "published_iso": "2026-09-24T14:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "0de58bddb152",
@@ -361,77 +504,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-releases-details-on-the-state-dinner-with-his-excellency-xi-jinping-president-of-the-peoples-republic-of-china-and-madame-peng-liyuan/",
     "published_iso": "2026-09-24T12:21:19+00:00",
-    "time_ago": "17h ago"
-  },
-  {
-    "id": "b5fa9847a0d7",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "low",
-    "content": "Rules of Practice. The Federal Trade Commission (&quot;Commission&quot; or &quot;FTC&quot;) is amending its rules of practice in order to eliminate the agency's post- employment clearance rule",
-    "tags": [
-      "Trade",
-      "Regulation"
-    ],
-    "tickers": [
-      "GOOGL",
-      "AMZN",
-      "META",
-      "AAPL"
-    ],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19598/rules-of-practice",
-    "published_iso": "2026-09-24T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "418e29977fa0",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "critical",
-    "content": "Air Plan Approval; Alabama; Transportation Conformity. The U.S. Environmental Protection Agency (EPA or Agency) is approving a State Implementation Plan (SIP) revision submitted by the State of Alabama, through the Alabama Department of Environmental Management (ADEM) on April 7, 2026. The SIP revision replaces the pre",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19566/air-plan-approval-alabama-transportation-conformity",
-    "published_iso": "2026-09-24T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "1b313b9c6881",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Measures To Restrict Stockpiling of Polysilicon and Polysilicon Derivatives Under Proclamation 11052. On August 6, 2026, the President issued Proclamation 11052, &quot;Adjusting Imports of Polysilicon and Its Derivatives Into the United States&quot; (Proclamation 11052), ordering the Secretary of Commerce (Secretary) t",
-    "tags": [
-      "Trade",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19537/measures-to-restrict-stockpiling-of-polysilicon-and-polysilicon-derivatives-under-proclamation-11052",
-    "published_iso": "2026-09-24T04:00:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "c186c7a04303",
@@ -494,87 +567,6 @@
     "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-delivers-powerful-america-first-message-to-the-united-nations/",
     "published_iso": "2026-09-23T14:02:11+00:00",
     "time_ago": "1d ago"
-  },
-  {
-    "id": "ed8a4aec0b6c",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "critical",
-    "content": "Patient Protection and Affordable Care Act; Temporary Moratoria on Certain Agent and Broker Registration To Participate in the Exchanges. This interim final rule with comment period (IFC) codifies the Department of Health and Human Services' (HHS) authority to impose a temporary moratorium pausing the registration of a",
-    "tags": [
-      "Healthcare",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19493/patient-protection-and-affordable-care-act-temporary-moratoria-on-certain-agent-and-broker",
-    "published_iso": "2026-09-23T04:00:00+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "dff73c2c2f1b",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Fisheries of the South Atlantic; 2026 South Atlantic Red Snapper Recreational Fishing Season. For the 2026 fishing year, NMFS announces the red snapper recreational fishing season dates in the South Atlantic exclusive economic zone (EEZ). Announcing the opening and closing dates of the red snapper recreational season i",
-    "tags": [],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19456/fisheries-of-the-south-atlantic-2026-south-atlantic-red-snapper-recreational-fishing-season",
-    "published_iso": "2026-09-23T04:00:00+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "730d3f9c14ff",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Revision of Freedom of Information Act Regulations. The Architectural and Transportation Barriers Compliance Board (Access Board or Board) is issuing this final rule to update its regulations under the Freedom of Information Act (FOIA). The Board replaces its existing FOIA regulations with this rule, which streamlines ",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19448/revision-of-freedom-of-information-act-regulations",
-    "published_iso": "2026-09-23T04:00:00+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "19ca6c1709a3",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Safety Zone; Zach's Bay, Wantagh, NY. The Coast Guard is establishing a temporary safety zone for certain navigable waters of Zach's Bay, near Wantagh, NY. The safety zone is needed to protect swimmers, personnel, vessels, and the marine environment from potential hazards created by a swim event at Jones Beach State Pa",
-    "tags": [],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19429/safety-zone-zachs-bay-wantagh-ny",
-    "published_iso": "2026-09-23T04:00:00+00:00",
-    "time_ago": "2d ago"
   },
   {
     "id": "daedf3d059e8",
@@ -1006,27 +998,6 @@
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
     "time_ago": "48d ago"
-  },
-  {
-    "id": "1a1d646c1e56",
-    "politician": "Rep. Alexandria Ocasio-Cortez",
-    "initials": "AOC",
-    "role": "House Financial Services Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#93c5fd"
-    },
-    "severity": "high",
-    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nitter.jaydenha.uk/AOC/status/2085006319220625569#m",
-    "published_iso": "2026-08-05T14:13:38+00:00",
-    "time_ago": "50d ago"
   },
   {
     "id": "6e187954d9ee",
