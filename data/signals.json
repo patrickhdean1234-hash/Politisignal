@@ -1,119 +1,5 @@
 [
   {
-    "id": "19c5ea520e9e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Lucchese Iole withheld (tax) 3,565 shares of Scholastic Corp (SCHL) \u00b7 $35.09/share \u00b7 $125,096 total \u00b7 Sep 25",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "SCHL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1676522/000167652226000004/0001676522-26-000004-index.htm",
-    "published_iso": "2026-09-25T22:24:46+00:00",
-    "time_ago": "7m ago"
-  },
-  {
-    "id": "820a76eb5981",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Oei Khing Djien sold 168,750 shares of Cypherpunk Technologies Inc. (CYPH) \u00b7 $3.92/share \u00b7 $661,500 total \u00b7 Sep 25",
-    "tags": [],
-    "tickers": [
-      "CYPH"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2092424/000110465926111063/0001104659-26-111063-index.htm",
-    "published_iso": "2026-09-25T22:14:54+00:00",
-    "time_ago": "17m ago"
-  },
-  {
-    "id": "d0eaf9e07e14",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Martin Patricia A. sold 50,000 shares of Cypherpunk Technologies Inc. (CYPH) \u00b7 $3.86/share \u00b7 $193,000 total \u00b7 Sep 25",
-    "tags": [],
-    "tickers": [
-      "CYPH"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1916764/000110465926111061/0001104659-26-111061-index.htm",
-    "published_iso": "2026-09-25T22:13:25+00:00",
-    "time_ago": "19m ago"
-  },
-  {
-    "id": "5d5ec871d7f9",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Appeals court sides with Trump admin in Anthropic blacklisting. {beacon} Technology Technology &#8202; The Big Story  Appeals court sides with Pentagon on Anthropic blacklisting The U.S. Court of Appeals for the D.C. Circuit sided with the Trump administration in its blacklisting of the artificial intelligence firm Ant",
-    "tags": [
-      "Defense"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/technology/6112510-appeals-court-sides-with-trump-admin-in-anthropic-blacklisting/",
-    "published_iso": "2026-09-25T21:52:09+00:00",
-    "time_ago": "40m ago"
-  },
-  {
-    "id": "0bf62a8450a9",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Consumer confidence hits 4-month low. Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  Consumer confidence slips U.S. consumer sentiment dipped to a four-month low in September amid rising inflation rates and mounting cost-of-living",
-    "tags": [],
-    "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/business-economy/6112397-consumer-confidence-hits-4-month-low/",
-    "published_iso": "2026-09-25T21:17:36+00:00",
-    "time_ago": "1h ago"
-  },
-  {
     "id": "9a2cbe616120",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -137,7 +23,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
     "published_iso": "2026-09-25T20:30:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "72ada971d322",
@@ -164,7 +50,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-first-lady-conclude-historic-china-state-visit/",
     "published_iso": "2026-09-25T20:10:42+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "06e46a9fc53b",
@@ -186,7 +72,29 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-highlights-art-culture-and-the-next-generation-during-state-visit-of-president-xi-jinping-and-madame-peng-liyuan/",
     "published_iso": "2026-09-25T16:24:18+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "8h ago"
+  },
+  {
+    "id": "62b99d534119",
+    "politician": "Sen. Cynthia Lummis",
+    "initials": "CL",
+    "role": "Senate Banking Subcommittee (Crypto)",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#c4b5fd"
+    },
+    "severity": "critical",
+    "content": "Democrats demanded that front-end DeFi platforms comply with U.S. sanctions law like every other financial platform. We wrote it into the Clarity Act.  \n \nSenate Democrats voted against protecting our national security from sanctioned bad actors using DeFi.",
+    "tags": [
+      "Regulation",
+      "Sanctions"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.jaydenha.uk/SenLummis/status/2103482150997954881#m",
+    "published_iso": "2026-09-25T13:50:00+00:00",
+    "time_ago": "10h ago"
   },
   {
     "id": "6484fe2f328d",
@@ -207,7 +115,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19723/national-wildlife-refuge-system-2026-2027-station-specific-hunting-and-sport-fishing-regulations",
     "published_iso": "2026-09-25T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "ff81a0d71a84",
@@ -229,7 +137,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19722/ifr-altitudes-miscellaneous-amendments",
     "published_iso": "2026-09-25T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "6b909d93e170",
@@ -250,7 +158,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19720/national-environmental-policy-act-implementing-procedures",
     "published_iso": "2026-09-25T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "5702c51899e9",
@@ -276,7 +184,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19696/driving-efficiency-in-farm-loan-delivery-correction",
     "published_iso": "2026-09-25T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "d141e2e62bb0",
@@ -298,7 +206,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19694/annual-notices-on-explosive-materials-storage-facilities-to-local-fire-authority",
     "published_iso": "2026-09-25T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "47ca3f166ba2",
@@ -319,7 +227,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19693/implementing-the-safe-explosives-act",
     "published_iso": "2026-09-25T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "07159bc3df7b",
@@ -340,7 +248,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19688/disadvantaged-business-enterprise-and-airport-concession-disadvantaged-business-enterprise-program",
     "published_iso": "2026-09-25T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "79b830d579c7",
@@ -359,7 +267,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19681/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-general-category",
     "published_iso": "2026-09-25T04:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "3fe374d32b7d",
@@ -604,7 +512,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s240?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-22T22:37:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "314da3aff13f",
@@ -949,6 +857,32 @@
     "time_ago": "15d ago"
   },
   {
+    "id": "c5986999a19e",
+    "politician": "Sen. Cynthia Lummis",
+    "initials": "CL",
+    "role": "Senate Banking Subcommittee (Crypto)",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#c4b5fd"
+    },
+    "severity": "medium",
+    "content": "A bitcoin tax cut that raises money for the Treasury. \n \nNew research from  @sekreps  and Cornell's Tech Policy Institute scores the de minimis exemption in Sen. Lummis's S. 2207, which would exempt bitcoin purchases under $300 from capital gains tax. \n \nCritics warned the exemption would cost the Treasury billions. Th",
+    "tags": [
+      "Crypto",
+      "Agriculture",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "BTC"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.jaydenha.uk/bitcoinpolicy/status/2095887790277812550#m",
+    "published_iso": "2026-09-04T14:52:43+00:00",
+    "time_ago": "21d ago"
+  },
+  {
     "id": "baf26d52584e",
     "politician": "Sen. Rand Paul",
     "initials": "RP",
@@ -975,6 +909,27 @@
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
     "time_ago": "49d ago"
+  },
+  {
+    "id": "1a1d646c1e56",
+    "politician": "Rep. Alexandria Ocasio-Cortez",
+    "initials": "AOC",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#93c5fd"
+    },
+    "severity": "high",
+    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.meowing.monster/AOC/status/2085006319220625569#m",
+    "published_iso": "2026-08-05T14:13:38+00:00",
+    "time_ago": "51d ago"
   },
   {
     "id": "6e187954d9ee",
