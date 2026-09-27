@@ -160,23 +160,30 @@
     "time_ago": "just now"
   },
   {
-    "id": "bf4e9ae1495d",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "cea79933831c",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
     },
-    "severity": "medium",
-    "content": "Trump once called the national debt a 'time bomb' \u2014 he was right. The $40 trillion national debt is hitting Americans\u2019 pocketbooks right now",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/finance/6111892-national-debt-impact-economy/",
-    "published_iso": "2026-09-27T12:00:00+00:00",
-    "time_ago": "35m ago"
+    "severity": "high",
+    "content": "No other agency operates in as much secrecy as the Federal Reserve. Their decisions impact every aspect of our lives and fuel inflation. \n \nIt\u2019s time to audit the Fed and shine a light on the backroom deals, risky policies, and unaccountable spending that have fueled our soaring national debt.",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.jaydenha.uk/RandPaul/status/2103960439289749843#m",
+    "published_iso": "2026-09-26T21:30:33+00:00",
+    "time_ago": "19h ago"
   },
   {
     "id": "d46e62744f45",
@@ -493,29 +500,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-highlights-art-culture-and-the-next-generation-during-state-visit-of-president-xi-jinping-and-madame-peng-liyuan/",
     "published_iso": "2026-09-25T16:24:18+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "62b99d534119",
-    "politician": "Sen. Cynthia Lummis",
-    "initials": "CL",
-    "role": "Senate Banking Subcommittee (Crypto)",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#c4b5fd"
-    },
-    "severity": "critical",
-    "content": "Democrats demanded that front-end DeFi platforms comply with U.S. sanctions law like every other financial platform. We wrote it into the Clarity Act.  \n \nSenate Democrats voted against protecting our national security from sanctioned bad actors using DeFi.",
-    "tags": [
-      "Regulation",
-      "Sanctions"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nitter.meowing.monster/SenLummis/status/2103482150997954881#m",
-    "published_iso": "2026-09-25T13:50:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "3fe374d32b7d",
@@ -607,7 +592,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s243?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-24T15:46:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "1daa667fb26d",
@@ -633,7 +618,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
     "published_iso": "2026-09-24T15:00:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "04efc593b2bb",
@@ -652,7 +637,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s242?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-24T14:48:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "c186c7a04303",
@@ -693,7 +678,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ustr-announces-fiscal-year-2027-wto-tariff-rate-quota-allocations-raw-cane-sugar",
     "published_iso": "2026-09-23T15:10:10+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "daedf3d059e8",
@@ -830,7 +815,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
     "published_iso": "2026-09-18T15:00:00+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "9f0fe219f819",
@@ -856,7 +841,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
     "published_iso": "2026-09-18T15:00:00+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "fee5a67d3a17",
@@ -894,7 +879,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s237?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-17T16:54:00+00:00",
-    "time_ago": "9d ago"
+    "time_ago": "10d ago"
   },
   {
     "id": "66474bcef426",
@@ -1057,32 +1042,6 @@
     "time_ago": "16d ago"
   },
   {
-    "id": "c5986999a19e",
-    "politician": "Sen. Cynthia Lummis",
-    "initials": "CL",
-    "role": "Senate Banking Subcommittee (Crypto)",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#c4b5fd"
-    },
-    "severity": "medium",
-    "content": "A bitcoin tax cut that raises money for the Treasury. \n \nNew research from  @sekreps  and Cornell's Tech Policy Institute scores the de minimis exemption in Sen. Lummis's S. 2207, which would exempt bitcoin purchases under $300 from capital gains tax. \n \nCritics warned the exemption would cost the Treasury billions. Th",
-    "tags": [
-      "Crypto",
-      "Agriculture",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "BTC"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nitter.meowing.monster/bitcoinpolicy/status/2095887790277812550#m",
-    "published_iso": "2026-09-04T14:52:43+00:00",
-    "time_ago": "22d ago"
-  },
-  {
     "id": "baf26d52584e",
     "politician": "Sen. Rand Paul",
     "initials": "RP",
@@ -1108,7 +1067,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "50d ago"
+    "time_ago": "51d ago"
   },
   {
     "id": "1a1d646c1e56",
@@ -1127,9 +1086,9 @@
     "tickers": [],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "http://nitter.jaydenha.uk/AOC/status/2085006319220625569#m",
+    "url": "http://shitter.thepixora.com/AOC/status/2085006319220625569#m",
     "published_iso": "2026-08-05T14:13:38+00:00",
-    "time_ago": "52d ago"
+    "time_ago": "53d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -1158,7 +1117,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "65d ago"
+    "time_ago": "66d ago"
   },
   {
     "id": "de38f5381391",
@@ -1244,7 +1203,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "138d ago"
+    "time_ago": "139d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1270,7 +1229,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "144d ago"
+    "time_ago": "145d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1292,7 +1251,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "152d ago"
+    "time_ago": "153d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1316,7 +1275,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "180d ago"
+    "time_ago": "181d ago"
   },
   {
     "id": "432e035b915b",
@@ -1356,7 +1315,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "225d ago"
+    "time_ago": "226d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1375,7 +1334,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "225d ago"
+    "time_ago": "226d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1401,7 +1360,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "247d ago"
+    "time_ago": "248d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1420,6 +1379,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "284d ago"
+    "time_ago": "285d ago"
   }
 ]
