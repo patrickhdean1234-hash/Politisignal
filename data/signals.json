@@ -178,32 +178,33 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/administration/6113290-kennedy-center-whistleblower-letter-repairs/",
     "published_iso": "2026-09-26T22:37:20+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "8h ago"
   },
   {
-    "id": "a3493df73043",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
+    "id": "cea79933831c",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
     "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
     },
-    "severity": "critical",
-    "content": "washingtonpost.com/politics/\u2026  \n \n Link  \n \n \n \n Secret contracts reveal undisclosed terms in Trump\u2019s drug-pricing deals \n \n Agreements with Pfizer and Eli Lilly include tariff protections, overseas pricing inducements and broad confidentiality clauses. \n  washingtonpost.com",
+    "severity": "high",
+    "content": "No other agency operates in as much secrecy as the Federal Reserve. Their decisions impact every aspect of our lives and fuel inflation. \n \nIt\u2019s time to audit the Fed and shine a light on the backroom deals, risky policies, and unaccountable spending that have fueled our soaring national debt.",
     "tags": [
-      "Trade",
-      "Healthcare"
+      "Banking"
     ],
     "tickers": [
-      "LLY",
-      "PFE"
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
     ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "http://shitter.thepixora.com/SenWarren/status/2103893838389789157#m",
-    "published_iso": "2026-09-26T17:05:54+00:00",
-    "time_ago": "8h ago"
+    "url": "http://nitter.jaydenha.uk/RandPaul/status/2103960439289749843#m",
+    "published_iso": "2026-09-26T21:30:33+00:00",
+    "time_ago": "9h ago"
   },
   {
     "id": "d46e62744f45",
@@ -231,7 +232,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/",
     "published_iso": "2026-09-26T03:29:32+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "b7bc57f5a0d2",
@@ -252,7 +253,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/2045034/000204503426000009/0002045034-26-000009-index.htm",
     "published_iso": "2026-09-26T01:57:29+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "9cb8e79db531",
@@ -273,7 +274,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1646649/000164664926000033/0001646649-26-000033-index.htm",
     "published_iso": "2026-09-26T01:35:06+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "5ddf05de704f",
@@ -296,7 +297,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/2031280/000143774926031270/0001437749-26-031270-index.htm",
     "published_iso": "2026-09-26T01:30:35+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "e1edc6de106d",
@@ -317,7 +318,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1778610/000177861026000024/0001778610-26-000024-index.htm",
     "published_iso": "2026-09-26T01:30:06+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "a71b401e8a4a",
@@ -448,6 +449,32 @@
     "time_ago": "1d ago"
   },
   {
+    "id": "9a2cbe616120",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.. Federal Reserve Board announces approval of application by Peoples Bancorp Inc",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
+    "published_iso": "2026-09-25T20:30:00+00:00",
+    "time_ago": "1d ago"
+  },
+  {
     "id": "72ada971d322",
     "politician": "White House",
     "initials": "WH",
@@ -495,6 +522,33 @@
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-highlights-art-culture-and-the-next-generation-during-state-visit-of-president-xi-jinping-and-madame-peng-liyuan/",
     "published_iso": "2026-09-25T16:24:18+00:00",
     "time_ago": "1d ago"
+  },
+  {
+    "id": "3fe374d32b7d",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "high",
+    "content": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act. Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment s",
+    "tags": [
+      "Crypto",
+      "Banking"
+    ],
+    "tickers": [
+      "BTC",
+      "ETH",
+      "COIN",
+      "XRP"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
+    "published_iso": "2026-09-24T18:30:00+00:00",
+    "time_ago": "2d ago"
   },
   {
     "id": "0a6e300d2b4f",
@@ -559,6 +613,32 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s243?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-24T15:46:00+00:00",
+    "time_ago": "2d ago"
+  },
+  {
+    "id": "1daa667fb26d",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank. Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
+    "published_iso": "2026-09-24T15:00:00+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -682,6 +762,33 @@
     "time_ago": "4d ago"
   },
   {
+    "id": "892dc18c4042",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board announces approval of application by BancFirst Corporation. Federal Reserve Board announces approval of application by BancFirst Corporation",
+    "tags": [
+      "Banking",
+      "Taxes"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
+    "published_iso": "2026-09-22T20:30:00+00:00",
+    "time_ago": "4d ago"
+  },
+  {
     "id": "f33451470037",
     "politician": "U.S. Trade Rep.",
     "initials": "USTR",
@@ -707,6 +814,55 @@
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/public-hearing-regarding-section-301-investigation-germanys-persistent-underpayment-innovative",
     "published_iso": "2026-09-21T21:12:21+00:00",
     "time_ago": "5d ago"
+  },
+  {
+    "id": "6c9e6abea13a",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank. Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Ex",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "AXP"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+    "published_iso": "2026-09-18T15:00:00+00:00",
+    "time_ago": "8d ago"
+  },
+  {
+    "id": "9f0fe219f819",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula. Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+    "published_iso": "2026-09-18T15:00:00+00:00",
+    "time_ago": "8d ago"
   },
   {
     "id": "fee5a67d3a17",
@@ -765,7 +921,59 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mvoni4k3ws2v",
     "published_iso": "2026-09-17T02:51:26.640000+00:00",
-    "time_ago": "9d ago"
+    "time_ago": "10d ago"
+  },
+  {
+    "id": "dcd00aa841df",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "Federal Reserve issues FOMC statement. Federal Reserve issues FOMC statement",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+    "published_iso": "2026-09-16T18:00:00+00:00",
+    "time_ago": "10d ago"
+  },
+  {
+    "id": "871ffab494b5",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting. Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+    "published_iso": "2026-09-16T18:00:00+00:00",
+    "time_ago": "10d ago"
   },
   {
     "id": "f5ef8bcafaa7",
@@ -823,7 +1031,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-boozman-scott-release-final-clarity-act-text/",
     "published_iso": "2026-09-14T02:01:07+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "81e4469b573f",
