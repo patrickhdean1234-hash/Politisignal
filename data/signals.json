@@ -1,6 +1,31 @@
 [
   {
-    "id": "15bc5f217de1",
+    "id": "31c3348b7e20",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Senate Democratic PAC hits Collins over Medicaid cuts she voted against. A Democratic super PAC on Monday launched a new ad campaign attacking Sen. Susan Collins (R-Maine) for the closure of about a dozen birthing centers in Maine, arguing she helped enable the massive Medicaid cuts in the One Big Beautiful Bill Act (O",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/healthcare/6115908-democrats-attack-collins-medicaid-cuts/",
+    "published_iso": "2026-09-28T21:16:14+00:00",
+    "time_ago": "10m ago"
+  },
+  {
+    "id": "be4661c8fa89",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,15 +34,42 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Giant pandas arrive in Atlanta after Trump-Xi meeting. Two giant pandas touched down in Atlanta on Sunday, three days after Chinese President Xi Jinping announced their impending arrival. The pandas, male Ping Ping and female Fu Shuang, arrived at Hartsfield-Jackson Atlanta International Airport, according to Zoo Atlan",
+    "content": "Fed's Cook says AI demand 'broadening' to increase inflation. Federal Reserve board of governors member Lisa Cook said Monday that rising demand for artificial intelligence is leading to \u201cbroadening\u201d inflationary impacts, with implications for the entire economy. During a keynote speech at the Oakland Tech Week confere",
     "tags": [
-      "China"
+      "Semiconductors",
+      "Banking"
     ],
-    "tickers": [],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/international/6115047-giant-pandas-arrive-zoo-atlanta/",
-    "published_iso": "2026-09-28T14:38:13+00:00",
+    "url": "https://thehill.com/business/6115963-cook-warns-ai-price-pressures/",
+    "published_iso": "2026-09-28T20:17:43+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "1f97f4af5426",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Chang Fred Faching sold 3,582 shares of Newegg Commerce, Inc. (NEGG) \u00b7 $14.06/share \u00b7 $50,381 total \u00b7 Sep 28 ($99,297 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "NEGG"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1869115/000147793226005831/0001477932-26-005831-index.htm",
+    "published_iso": "2026-09-28T19:39:55+00:00",
     "time_ago": "1h ago"
   },
   {
@@ -39,7 +91,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19843/notice-of-policy-change-and-rescission-of-single-pilot-training-exemptions-for-certain-cessna",
     "published_iso": "2026-09-28T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "2c16d7929978",
@@ -60,7 +112,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19813/fisheries-off-west-coast-states-west-coast-salmon-fisheries-rebuilding-plan-for-the-overfished",
     "published_iso": "2026-09-28T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "7407f043a753",
@@ -81,7 +133,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19801/fisheries-of-the-caribbean-gulf-of-america-and-south-atlantic-snapper-grouper-fishery-of-the-south",
     "published_iso": "2026-09-28T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "a3c16cbea986",
@@ -100,7 +152,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19762/airworthiness-directives-safran-helicopter-engines-sa-engines",
     "published_iso": "2026-09-28T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "68915453c316",
@@ -119,7 +171,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19761/airworthiness-directives-hlicoptres-guimbal-helicopters",
     "published_iso": "2026-09-28T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "230bc1df1c38",
@@ -138,7 +190,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19760/airworthiness-directives-costruzioni-aeronautiche-tecnam-spa-airplanes",
     "published_iso": "2026-09-28T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "48c06d2d21c9",
@@ -157,7 +209,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19758/airworthiness-directives-airbus-helicopters",
     "published_iso": "2026-09-28T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "ddaf6d77b178",
@@ -178,7 +230,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19757/airworthiness-directives-airbus-helicopters-deutschland-gmbh-ahd-helicopters",
     "published_iso": "2026-09-28T04:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "cb532ffece83",
@@ -206,7 +258,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/09/u-s-china-board-of-trade/",
     "published_iso": "2026-09-28T01:59:36+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "cea79933831c",
@@ -230,7 +282,7 @@
     ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "http://shitter.thepixora.com/RandPaul/status/2103960439289749843#m",
+    "url": "http://nitter.meowing.monster/RandPaul/status/2103960439289749843#m",
     "published_iso": "2026-09-26T21:30:33+00:00",
     "time_ago": "1d ago"
   },
@@ -286,7 +338,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
     "published_iso": "2026-09-25T20:30:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "72ada971d322",
@@ -313,29 +365,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-first-lady-conclude-historic-china-state-visit/",
     "published_iso": "2026-09-25T20:10:42+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "06e46a9fc53b",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "First Lady Melania Trump Highlights Art, Culture, and the Next Generation During State Visit of President Xi Jinping and Madame Peng Liyuan. \u201cArt and culture have a remarkable ability to transcend borders, connect generations, and offer us a deeper appreciation for one another. It was an honor to welcome President Xi J",
-    "tags": [
-      "Trade",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-highlights-art-culture-and-the-next-generation-during-state-visit-of-president-xi-jinping-and-madame-peng-liyuan/",
-    "published_iso": "2026-09-25T16:24:18+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "3fe374d32b7d",
@@ -362,7 +392,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
     "published_iso": "2026-09-24T18:30:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "0a6e300d2b4f",
@@ -387,7 +417,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s244?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-24T17:45:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "39d01a8803f7",
@@ -470,7 +500,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s241?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-23T18:16:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "62192a2930d0",
@@ -552,7 +582,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-six-penny-plan-to-balance-the-federal-budget-in-five-years-3/",
     "published_iso": "2026-09-22T20:41:12+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "892dc18c4042",
@@ -579,7 +609,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
     "published_iso": "2026-09-22T20:30:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "f33451470037",
@@ -606,7 +636,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/public-hearing-regarding-section-301-investigation-germanys-persistent-underpayment-innovative",
     "published_iso": "2026-09-21T21:12:21+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "6c9e6abea13a",
@@ -674,7 +704,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s238?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-17T17:59:00+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "89b993da7f5b",
@@ -693,27 +723,6 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s237?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-17T16:54:00+00:00",
-    "time_ago": "10d ago"
-  },
-  {
-    "id": "66474bcef426",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Mike Johnson sent Congress on vacation through November to prevent votes on the Epstein files, Pete Hegseth\u2019s impeachment and AI regulation.\n\nWe need to be back doing the people\u2019s work.",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/khanna.house.gov/post/3mvoni4k3ws2v",
-    "published_iso": "2026-09-17T02:51:26.640000+00:00",
     "time_ago": "11d ago"
   },
   {
@@ -740,7 +749,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
     "published_iso": "2026-09-16T18:00:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "871ffab494b5",
@@ -766,7 +775,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
     "published_iso": "2026-09-16T18:00:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "f5ef8bcafaa7",
@@ -795,7 +804,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-statement-on-democrats-killing-clarity-act/",
     "published_iso": "2026-09-15T20:22:32+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "5d55edde89de",
@@ -853,7 +862,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-releases-updated-clarity-act-text-ahead-of-historic-tuesday-vote-2/",
     "published_iso": "2026-09-10T20:14:34+00:00",
-    "time_ago": "17d ago"
+    "time_ago": "18d ago"
   },
   {
     "id": "baf26d52584e",
@@ -881,7 +890,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "51d ago"
+    "time_ago": "52d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -910,7 +919,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "66d ago"
+    "time_ago": "67d ago"
   },
   {
     "id": "de38f5381391",
@@ -931,7 +940,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "67d ago"
+    "time_ago": "68d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -975,7 +984,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "69d ago"
+    "time_ago": "70d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -1087,7 +1096,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "186d ago"
+    "time_ago": "187d ago"
   },
   {
     "id": "00f579ee8f55",
@@ -1153,7 +1162,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "248d ago"
+    "time_ago": "249d ago"
   },
   {
     "id": "d3ca74df7f0f",
