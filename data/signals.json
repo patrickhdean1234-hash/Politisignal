@@ -1,58 +1,6 @@
 [
   {
-    "id": "31c3348b7e20",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Senate Democratic PAC hits Collins over Medicaid cuts she voted against. A Democratic super PAC on Monday launched a new ad campaign attacking Sen. Susan Collins (R-Maine) for the closure of about a dozen birthing centers in Maine, arguing she helped enable the massive Medicaid cuts in the One Big Beautiful Bill Act (O",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/healthcare/6115908-democrats-attack-collins-medicaid-cuts/",
-    "published_iso": "2026-09-28T21:16:14+00:00",
-    "time_ago": "10m ago"
-  },
-  {
-    "id": "be4661c8fa89",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Fed's Cook says AI demand 'broadening' to increase inflation. Federal Reserve board of governors member Lisa Cook said Monday that rising demand for artificial intelligence is leading to \u201cbroadening\u201d inflationary impacts, with implications for the entire economy. During a keynote speech at the Oakland Tech Week confere",
-    "tags": [
-      "Semiconductors",
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/6115963-cook-warns-ai-price-pressures/",
-    "published_iso": "2026-09-28T20:17:43+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "1f97f4af5426",
+    "id": "b5518caca0f5",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -61,16 +9,170 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Chang Fred Faching sold 3,582 shares of Newegg Commerce, Inc. (NEGG) \u00b7 $14.06/share \u00b7 $50,381 total \u00b7 Sep 28 ($99,297 across all blocks)",
+    "content": "Robinson Chandler exercised options for 14,056 shares of Monopar Therapeutics (MNPR) \u00b7 $30.00/share \u00b7 $421,680 total \u00b7 Sep 28 ($3,188,531 across all blocks)",
     "tags": [],
     "tickers": [
-      "NEGG"
+      "MNPR"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1869115/000147793226005831/0001477932-26-005831-index.htm",
-    "published_iso": "2026-09-28T19:39:55+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/1727334/000143774926031411/0001437749-26-031411-index.htm",
+    "published_iso": "2026-09-29T00:47:40+00:00",
+    "time_ago": "21m ago"
+  },
+  {
+    "id": "bc12747d0146",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Lee Kang Jyh sold 7,500 shares of Photronics Inc (PLAB) \u00b7 $29.50/share \u00b7 $221,250 total \u00b7 Sep 28",
+    "tags": [],
+    "tickers": [
+      "PLAB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1748668/000114036126037873/0001140361-26-037873-index.htm",
+    "published_iso": "2026-09-29T00:46:12+00:00",
+    "time_ago": "23m ago"
+  },
+  {
+    "id": "12bd27a5ef1c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Binder Steven B. sold 39,051 shares of Mannkind Corp (MNKD) \u00b7 $3.29/share \u00b7 $128,478 total \u00b7 Sep 28",
+    "tags": [],
+    "tickers": [
+      "MNKD"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1712601/000119312526405736/0001193125-26-405736-index.htm",
+    "published_iso": "2026-09-29T00:26:26+00:00",
+    "time_ago": "43m ago"
+  },
+  {
+    "id": "2928a681793d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Rubin Kevin sold 100 shares of Zscaler, Inc. (ZS) \u00b7 $194.76/share \u00b7 $19,476 total \u00b7 Sep 28 ($102,390 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "ZS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368326000195/0001713683-26-000195-index.htm",
+    "published_iso": "2026-09-29T00:20:22+00:00",
+    "time_ago": "49m ago"
+  },
+  {
+    "id": "57c72ca2242e",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Mohr Melissa Nora received 147,058 shares of Virtuix Holdings Inc. (VTIX) \u00b7 Sep 28",
+    "tags": [],
+    "tickers": [
+      "VTIX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2157606/000121390026104234/0001213900-26-104234-index.htm",
+    "published_iso": "2026-09-29T00:01:07+00:00",
     "time_ago": "1h ago"
+  },
+  {
+    "id": "47d164a80df8",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Moyer Brett received 147,058 shares of Virtuix Holdings Inc. (VTIX) \u00b7 Sep 28 ($10,353 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "VTIX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1606242/000121390026104235/0001213900-26-104235-index.htm",
+    "published_iso": "2026-09-29T00:01:06+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "469fa7f4d55d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Cunningham John A. received 126,050 shares of Virtuix Holdings Inc. (VTIX) \u00b7 Sep 28",
+    "tags": [],
+    "tickers": [
+      "VTIX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2105216/000121390026104233/0001213900-26-104233-index.htm",
+    "published_iso": "2026-09-29T00:01:04+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "203a2363b628",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "My new PSI report exposes how Tether & its flagship token have become central to Iran\u2019s shadow banking system, allowing the Iranian government to fund its regional proxies, commit human rights abuses, & pursue hostile drone & missile programs as they defy our sanctions regime.\u00a0 wsj.com/finance/currencies/s\u2026  \n \n Link  ",
+    "tags": [
+      "Crypto",
+      "Banking",
+      "Sanctions"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://shi2.meowing.de/SenBlumenthal/status/2104580361304842312#m",
+    "published_iso": "2026-09-28T14:33:54+00:00",
+    "time_ago": "10h ago"
   },
   {
     "id": "4ccd88880cfd",
@@ -91,7 +193,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19843/notice-of-policy-change-and-rescission-of-single-pilot-training-exemptions-for-certain-cessna",
     "published_iso": "2026-09-28T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "2c16d7929978",
@@ -112,7 +214,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19813/fisheries-off-west-coast-states-west-coast-salmon-fisheries-rebuilding-plan-for-the-overfished",
     "published_iso": "2026-09-28T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "7407f043a753",
@@ -133,7 +235,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19801/fisheries-of-the-caribbean-gulf-of-america-and-south-atlantic-snapper-grouper-fishery-of-the-south",
     "published_iso": "2026-09-28T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "a3c16cbea986",
@@ -152,7 +254,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19762/airworthiness-directives-safran-helicopter-engines-sa-engines",
     "published_iso": "2026-09-28T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "68915453c316",
@@ -171,7 +273,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19761/airworthiness-directives-hlicoptres-guimbal-helicopters",
     "published_iso": "2026-09-28T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "230bc1df1c38",
@@ -190,7 +292,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19760/airworthiness-directives-costruzioni-aeronautiche-tecnam-spa-airplanes",
     "published_iso": "2026-09-28T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "48c06d2d21c9",
@@ -209,7 +311,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19758/airworthiness-directives-airbus-helicopters",
     "published_iso": "2026-09-28T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "ddaf6d77b178",
@@ -230,7 +332,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19757/airworthiness-directives-airbus-helicopters-deutschland-gmbh-ahd-helicopters",
     "published_iso": "2026-09-28T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "cb532ffece83",
@@ -258,7 +360,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/09/u-s-china-board-of-trade/",
     "published_iso": "2026-09-28T01:59:36+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "cea79933831c",
@@ -282,9 +384,9 @@
     ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "http://nitter.meowing.monster/RandPaul/status/2103960439289749843#m",
+    "url": "http://shitter.thepixora.com/RandPaul/status/2103960439289749843#m",
     "published_iso": "2026-09-26T21:30:33+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "d46e62744f45",
@@ -541,7 +643,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s240?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-22T22:37:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "314da3aff13f",
@@ -560,7 +662,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s239?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-22T21:42:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "f5506a3890fe",
@@ -891,6 +993,27 @@
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
     "time_ago": "52d ago"
+  },
+  {
+    "id": "1a1d646c1e56",
+    "politician": "Rep. Alexandria Ocasio-Cortez",
+    "initials": "AOC",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#93c5fd"
+    },
+    "severity": "high",
+    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://shitter.thepixora.com/AOC/status/2085006319220625569#m",
+    "published_iso": "2026-08-05T14:13:38+00:00",
+    "time_ago": "54d ago"
   },
   {
     "id": "6e187954d9ee",
