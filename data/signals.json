@@ -1,6 +1,90 @@
 [
   {
-    "id": "ba7cef74bbdc",
+    "id": "f5d402e14eb1",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Jonas Howard S bought 2,218,430 shares of Zedge, Inc. (ZDGE) \u00b7 Sep 29",
+    "tags": [],
+    "tickers": [
+      "ZDGE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1667313/000119312526407951/0001193125-26-407951-index.htm",
+    "published_iso": "2026-09-29T22:40:27+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "545d5e1123c1",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Reich Jonathan exercised options for 6,467 shares of Zedge, Inc. (ZDGE) \u00b7 Sep 29 ($295,545 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "ZDGE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1667313/000119312526407950/0001193125-26-407950-index.htm",
+    "published_iso": "2026-09-29T22:40:08+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "773c311f5cae",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Tsai Yi exercised options for 2,000 shares of Zedge, Inc. (ZDGE) \u00b7 Sep 29 ($2,456 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "ZDGE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1667313/000119312526407948/0001193125-26-407948-index.htm",
+    "published_iso": "2026-09-29T22:39:47+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "57b35390890b",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Clifford Peter G received 3,651 shares of Fortune Brands Innovations, Inc. (FBIN) \u00b7 Sep 29",
+    "tags": [],
+    "tickers": [
+      "FBIN"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1637066/000119312526407942/0001193125-26-407942-index.htm",
+    "published_iso": "2026-09-29T22:34:16+00:00",
+    "time_ago": "7m ago"
+  },
+  {
+    "id": "b01028a69105",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -8,15 +92,174 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "high",
-    "content": "Rubio: New US site lets Americans apply online for passport. President Trump\u2019s new artificial intelligence website allows for Americans to apply for passports online, Secretary of State Marco Rubio said Tuesday. During a presentation announcing America.gov on Tuesday, Rubio derided the previous process of applying for ",
+    "severity": "medium",
+    "content": "Five things to know about Trump's new AI website. President Trump launched America.gov on Tuesday, a website that uses artificial intelligence (AI) to help Americans find information across government websites with a single search. Trump said the website has been in the works since the early days of his second term and",
     "tags": [],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6118370-rubio-announces-online-passport-application/",
-    "published_iso": "2026-09-29T18:26:52+00:00",
-    "time_ago": "23m ago"
+    "url": "https://thehill.com/homenews/administration/6119087-trump-launches-ai-america-gov/",
+    "published_iso": "2026-09-29T22:02:47+00:00",
+    "time_ago": "39m ago"
+  },
+  {
+    "id": "221d1646e5b3",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "critical",
+    "content": "Fact Sheet: President Donald J. Trump Eliminates Disease-Carrying Pests and Restores Enjoyment of The Great Outdoors. ELIMINATING INVASIVE TICKS AND MOSQUITOES:&#160;Today, President Donald J. Trump signed an Executive Order to eliminate invasive ticks and mosquitoes in the Federal jurisdiction of Washington, D.C. thro",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-eliminates-disease-carrying-pests-and-restores-enjoyment-of-the-great-outdoors/",
+    "published_iso": "2026-09-29T21:24:24+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "8150047b4348",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Supreme Court declines Christa Pike's clemency appeal, with Tennessee set to execute first woman in 200 years. The Supreme Court on Tuesday declined to stop the execution of a Tennessee inmate who was convicted in the 1995 murder of a teenage classmate, clearing the way for the state's first execution of a woman in 200",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/regulation/court-battles/6119030-supreme-court-tennessee-execution-christa-pike/",
+    "published_iso": "2026-09-29T21:22:50+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "2ca7e5cb643d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Cotton presses Hegseth to review supply chains after F-35 parts ended up in China. Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  Cotton presses Hegseth to review supply chains after F-35 parts ended up in China Sen.",
+    "tags": [
+      "China",
+      "Defense"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/6119054-cotton-presses-hegseth-to-review-supply-chains-after-f-35-parts-ended-up-in-china/",
+    "published_iso": "2026-09-29T21:21:33+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "7d742076d849",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "critical",
+    "content": "Fact Sheet: President Donald J. Trump Inaugurates The Era of Super Intelligence. USHERING IN SUPER INTELLIGENCE:&#160;Today, President Donald J. Trump signed an Executive Order to replace the term \u201cArtificial Intelligence\u201d (\u201cAI\u201d) with \u201cSuper Intelligence\u201d (\u201cSI\u201d) in the executive branch to recognize the continuously adv",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-inaugurates-the-era-of-super-intelligence/",
+    "published_iso": "2026-09-29T21:21:06+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "e3250aea3307",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "Inaugurating The Era Of Super Intelligence. By the authority vested in me as President by the Constitution and the laws of the United States of America, it&#160;is&#160;hereby ordered: Section 1. \u00a0Purpose.\u00a0 America stands at the forefront of a\u00a0new technological revolution in intelligence. \u00a0The modern field of artificia",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+    "published_iso": "2026-09-29T21:17:25+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "aab03300b4bc",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Agencies publish resolution plan feedback letters for 15 banking organizations. Agencies publish resolution plan feedback letters for 15 banking organizations",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
+    "published_iso": "2026-09-29T20:00:00+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "733fb4519cd5",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "high",
+    "content": "First Lady Melania Trump Announces 2026 Fall Garden Tours. The White House will welcome visitors this fall for the 2026 Fall Garden Tours, offering an opportunity for visitors to experience the historic gardens and grounds of the People\u2019s House. The grounds will be open Saturday, October 17 from 10:00 AM \u2013 4:30 PM, and",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-announces-2026-fall-garden-tours/",
+    "published_iso": "2026-09-29T19:07:36+00:00",
+    "time_ago": "3h ago"
   },
   {
     "id": "0eeecf3d8558",
@@ -28,9 +271,10 @@
       "fg": "#4ade80"
     },
     "severity": "critical",
-    "content": "We\u2019ve warned about A7's many unsanctioned entities, and so many other unchecked Kremlin enablers.\n\nThe Trump Administration needs to reverse its stunning halt of regular Russia sanctions over the past year and a half.\nwww.banking.senate.gov/newsroom/min...",
+    "content": "We\u2019ve warned about A7's many unsanctioned entities, and so many other unchecked Kremlin enablers. \n \nThe Trump Administration needs to reverse its stunning halt of regular Russia sanctions over the past year and a half. \n banking.senate.gov/newsroom/\u2026  \n \n Link  \n \n \n \n On Fourth Anniversary of Putin\u2019s Full-Scale War, ",
     "tags": [
       "Banking",
+      "Taxes",
       "Sanctions"
     ],
     "tickers": [
@@ -39,11 +283,11 @@
       "GS",
       "XLF"
     ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mwoh45epts2a",
-    "published_iso": "2026-09-29T18:22:30.039000+00:00",
-    "time_ago": "27m ago"
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://shitter.thepixora.com/SenWarren/status/2105000352882074030#m",
+    "published_iso": "2026-09-29T18:22:47+00:00",
+    "time_ago": "4h ago"
   },
   {
     "id": "44768bc787a5",
@@ -55,36 +299,43 @@
       "fg": "#4ade80"
     },
     "severity": "critical",
-    "content": "Multibillion-dollar schemes like A7 are much easier when the United States simply gives up on countering Russian sanctions evasion.\n\nThe Kremlin agent gloating in this story could show a bit more humility.\nwww.nytimes.com/2026/09/24/b...",
+    "content": "Multibillion-dollar schemes like A7 are much easier when the United States simply gives up on countering Russian sanctions evasion. \n \nThe Kremlin agent gloating in this story could show a bit more humility. \n nytimes.com/2026/09/24/busin\u2026",
     "tags": [
       "Regulation",
       "Sanctions"
     ],
     "tickers": [],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mwoh3zkris2a",
-    "published_iso": "2026-09-29T18:22:30.038000+00:00",
-    "time_ago": "27m ago"
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://shitter.thepixora.com/SenWarren/status/2105000348729717070#m",
+    "published_iso": "2026-09-29T18:22:46+00:00",
+    "time_ago": "4h ago"
   },
   {
-    "id": "34a266b63f63",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "e8208c75bc4b",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
     },
     "severity": "high",
-    "content": "Democratic appropriators accuse White House of using CBP funds for Trump political ads. Democrats on the House Appropriations Committee accused the White House of using Customs and Border Protection (CBP) funding to air political ads just weeks out from the November midterm elections. President Trump has received pushb",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/6118310-democrats-accuse-trump-cbp-funds-political-ads/",
-    "published_iso": "2026-09-29T17:57:05+00:00",
-    "time_ago": "53m ago"
+    "content": "Motion to Proceed on S.J.Res. 197: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Centers for Medicare & Medicaid Services of the Department of Health and Human Services relating to \u201cPat. Vote: Motion to Proceed Rejected 48/51",
+    "tags": [
+      "Healthcare",
+      "Regulation"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s251?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-09-29T18:21:00+00:00",
+    "time_ago": "4h ago"
   },
   {
     "id": "a8265e429264",
@@ -105,7 +356,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-streamlines-access-to-government-services-through-america-gov/",
     "published_iso": "2026-09-29T14:45:35+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "2a0b804a9a39",
@@ -126,7 +377,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19956/airworthiness-directives-the-boeing-company-airplanes",
     "published_iso": "2026-09-29T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "fb2ee544b18e",
@@ -152,7 +403,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19946/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and",
     "published_iso": "2026-09-29T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "c998b31ce8e0",
@@ -171,7 +422,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19945/safety-zone-bridge-demolition-upper-mississippi-river-chester-il",
     "published_iso": "2026-09-29T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "067e308b2a5e",
@@ -192,7 +443,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19929/recodification-of-title-ix-rules",
     "published_iso": "2026-09-29T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "66e4a57ebd9e",
@@ -213,7 +464,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19901/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery",
     "published_iso": "2026-09-29T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "523f4752d240",
@@ -234,7 +485,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19896/special-local-regulation-kailua-bay-ironman-world-championship-kailua-kona-hi",
     "published_iso": "2026-09-29T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "5d895a1c6f9f",
@@ -253,7 +504,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19891/airworthiness-directives-md-helicopters-llc-helicopters",
     "published_iso": "2026-09-29T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "1c4da7d1dd0e",
@@ -280,7 +531,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19889/rescission-of-title-v-emergency-affirmative-defense-rule-corrections",
     "published_iso": "2026-09-29T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "d1ee5f082ce7",
@@ -301,10 +552,10 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s250?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-29T01:42:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "21h ago"
   },
   {
-    "id": "2e185c4ff621",
+    "id": "5bd470197f65",
     "politician": "GovTrack",
     "initials": "GT",
     "role": "Congressional Legislation",
@@ -313,17 +564,17 @@
       "fg": "#7dd3fc"
     },
     "severity": "high",
-    "content": "S.Amdt. 6835 (Booker) to S. 4668. Vote: Amendment Rejected 47/52",
+    "content": "S.Amdt. 6835 (Booker) to S. 4668: To establish certain standards with respect to coaches of varsity sports teams.. Vote: Amendment Rejected 47/52",
     "tags": [],
     "tickers": [],
     "source": "govtrack",
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s249?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-29T01:21:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "21h ago"
   },
   {
-    "id": "383333734870",
+    "id": "737c7423ee3d",
     "politician": "GovTrack",
     "initials": "GT",
     "role": "Congressional Legislation",
@@ -332,17 +583,17 @@
       "fg": "#7dd3fc"
     },
     "severity": "high",
-    "content": "S.Amdt. 6805 (Booker) to S. 4668. Vote: Amendment Rejected 49/50",
+    "content": "S.Amdt. 6805 (Booker) to S. 4668: To increase the limitation on funding for post-eligibility insurance and catastrophic injury for student athletes.. Vote: Amendment Rejected 49/50",
     "tags": [],
     "tickers": [],
     "source": "govtrack",
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s248?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-29T00:41:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "22h ago"
   },
   {
-    "id": "04dbea2b6b7c",
+    "id": "a56c30f2c75a",
     "politician": "GovTrack",
     "initials": "GT",
     "role": "Congressional Legislation",
@@ -351,17 +602,17 @@
       "fg": "#7dd3fc"
     },
     "severity": "high",
-    "content": "S.Amdt. 6760 (Kennedy) to S. 4668. Vote: Amendment Rejected 42/54",
+    "content": "S.Amdt. 6760 (Kennedy) to S. 4668: To limit price increases for college athletics tickets.. Vote: Amendment Rejected 42/54",
     "tags": [],
     "tickers": [],
     "source": "govtrack",
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s247?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-29T00:08:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "22h ago"
   },
   {
-    "id": "9fb4ab13a268",
+    "id": "c215e032e5fb",
     "politician": "GovTrack",
     "initials": "GT",
     "role": "Congressional Legislation",
@@ -370,17 +621,19 @@
       "fg": "#7dd3fc"
     },
     "severity": "high",
-    "content": "S.Amdt. 6758 (Paul) to S. 4668. Vote: Amendment Rejected 1/94",
-    "tags": [],
+    "content": "S.Amdt. 6758 (Paul) to S. 4668: To improve the bill.. Vote: Amendment Rejected 1/94",
+    "tags": [
+      "Regulation"
+    ],
     "tickers": [],
     "source": "govtrack",
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s246?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-28T23:38:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "23h ago"
   },
   {
-    "id": "bd97efdc4b25",
+    "id": "595c272b05e1",
     "politician": "GovTrack",
     "initials": "GT",
     "role": "Congressional Legislation",
@@ -389,70 +642,16 @@
       "fg": "#7dd3fc"
     },
     "severity": "high",
-    "content": "S.Amdt. 6828 (Baldwin) to S. 4668. Vote: Amendment Agreed to 96/1",
-    "tags": [],
+    "content": "S.Amdt. 6828 (Baldwin) to S. 4668: To modify the provision relating to the relationship of this Act to existing law.. Vote: Amendment Agreed to 96/1",
+    "tags": [
+      "Regulation"
+    ],
     "tickers": [],
     "source": "govtrack",
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s245?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-28T22:41:00+00:00",
-    "time_ago": "20h ago"
-  },
-  {
-    "id": "cb532ffece83",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "U.S.-China Board of Trade. U.S.-China Board of Trade \u201c30-FOR-30\u201d Lists of Products Recommended\u00a0for Reduced Tariff Treatment The United States and China will consider the following list of U.S. products for import into China and list of Chinese products for import into the United States with a view toward providing redu",
-    "tags": [
-      "Trade",
-      "China",
-      "Taxes"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/releases/2026/09/u-s-china-board-of-trade/",
-    "published_iso": "2026-09-28T01:59:36+00:00",
     "time_ago": "1d ago"
-  },
-  {
-    "id": "d46e62744f45",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "Fact Sheet: President Donald J. Trump Advances a Fair and Reciprocal Relationship with China While Hosting Historic State Visit. DELIVERING FOR AMERICANS:&#160;This week, President Donald J. Trump and First Lady Melania Trump hosted President Xi Jinping and Madame Peng Liyuan of the People\u2019s Republic of China for a rec",
-    "tags": [
-      "Trade",
-      "China",
-      "Taxes"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/",
-    "published_iso": "2026-09-26T03:29:32+00:00",
-    "time_ago": "3d ago"
   },
   {
     "id": "9a2cbe616120",
@@ -478,7 +677,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
     "published_iso": "2026-09-25T20:30:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "3fe374d32b7d",
@@ -530,25 +729,6 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s244?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-24T17:45:00+00:00",
-    "time_ago": "5d ago"
-  },
-  {
-    "id": "39d01a8803f7",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "Motion to Invoke Cloture: S. 4668, as Amended. Vote: Cloture Motion Agreed to 74/25",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s243?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-24T15:46:00+00:00",
     "time_ago": "5d ago"
   },
   {
@@ -619,7 +799,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-six-penny-plan-to-balance-the-federal-budget-in-five-years-3/",
     "published_iso": "2026-09-22T20:41:12+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "892dc18c4042",
@@ -646,7 +826,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
     "published_iso": "2026-09-22T20:30:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "f33451470037",
@@ -673,7 +853,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/public-hearing-regarding-section-301-investigation-germanys-persistent-underpayment-innovative",
     "published_iso": "2026-09-21T21:12:21+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "6c9e6abea13a",
@@ -751,32 +931,6 @@
     "time_ago": "13d ago"
   },
   {
-    "id": "871ffab494b5",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting. Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
-    "published_iso": "2026-09-16T18:00:00+00:00",
-    "time_ago": "13d ago"
-  },
-  {
     "id": "f5ef8bcafaa7",
     "politician": "Sen. Cynthia Lummis",
     "initials": "CL",
@@ -803,7 +957,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-statement-on-democrats-killing-clarity-act/",
     "published_iso": "2026-09-15T20:22:32+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "5d55edde89de",
@@ -861,7 +1015,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-releases-updated-clarity-act-text-ahead-of-historic-tuesday-vote-2/",
     "published_iso": "2026-09-10T20:14:34+00:00",
-    "time_ago": "18d ago"
+    "time_ago": "19d ago"
   },
   {
     "id": "baf26d52584e",
@@ -983,7 +1137,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "70d ago"
+    "time_ago": "71d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -1095,7 +1249,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "187d ago"
+    "time_ago": "188d ago"
   },
   {
     "id": "00f579ee8f55",
