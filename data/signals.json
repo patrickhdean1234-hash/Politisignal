@@ -1,201 +1,32 @@
 [
   {
-    "id": "23a409e6e9b0",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "3889d7d35954",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
     },
     "severity": "medium",
-    "content": "Seshadri Vishwas sold 19,608 shares of Abeona Therapeutics Inc. (ABEO) \u00b7 $5.16/share \u00b7 $101,091 total \u00b7 Sep 29",
-    "tags": [],
-    "tickers": [
-      "ABEO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1865131/000149315226044974/0001493152-26-044974-index.htm",
-    "published_iso": "2026-09-30T01:48:44+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "9940fce3c238",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Vazzano Joseph Walter sold 9,191 shares of Abeona Therapeutics Inc. (ABEO) \u00b7 $5.16/share \u00b7 $47,385 total \u00b7 Sep 29",
-    "tags": [],
-    "tickers": [
-      "ABEO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1715291/000149315226044973/0001493152-26-044973-index.htm",
-    "published_iso": "2026-09-30T01:48:36+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "0f5526768078",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "O'Malley Brendan M. sold 6,727 shares of Abeona Therapeutics Inc. (ABEO) \u00b7 $5.16/share \u00b7 $34,682 total \u00b7 Sep 29",
-    "tags": [],
-    "tickers": [
-      "ABEO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1884342/000149315226044972/0001493152-26-044972-index.htm",
-    "published_iso": "2026-09-30T01:48:06+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "57488869794f",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Vasanthavada Madhav sold 4,902 shares of Abeona Therapeutics Inc. (ABEO) \u00b7 $5.16/share \u00b7 $25,273 total \u00b7 Sep 29",
-    "tags": [],
-    "tickers": [
-      "ABEO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2106295/000149315226044971/0001493152-26-044971-index.htm",
-    "published_iso": "2026-09-30T01:47:40+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "b1e9e2a8fb9c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Sr One Capital Management, Llc converted 3,334,938 shares of Adarx Pharmaceuticals, Inc. (ADRX) \u00b7 Sep 29 ($27,200,000 across all blocks)",
+    "content": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements. Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility i",
     "tags": [
-      "Healthcare"
+      "Banking"
     ],
     "tickers": [
-      "ADRX"
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1853723/000119312526408064/0001193125-26-408064-index.htm",
-    "published_iso": "2026-09-30T01:45:43+00:00",
-    "time_ago": "5h ago"
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
+    "published_iso": "2026-09-30T13:00:00+00:00",
+    "time_ago": "59m ago"
   },
   {
-    "id": "aa00f5b33645",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "George Simeon converted 3,334,938 shares of Adarx Pharmaceuticals, Inc. (ADRX) \u00b7 Sep 29 ($27,200,000 across all blocks)",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "ADRX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1802369/000119312526408061/0001193125-26-408061-index.htm",
-    "published_iso": "2026-09-30T01:43:23+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "233c8fadcd92",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Smith Philip Andrew exercised options for 56,250 shares of Stonex Group Inc. (SNEX) \u00b7 $8.90/share \u00b7 $500,625 total \u00b7 Sep 29 ($4,195,513 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "SNEX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1569789/000156978926000015/0001569789-26-000015-index.htm",
-    "published_iso": "2026-09-30T01:38:55+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "0687a689f83b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Lav Biosciences Fund V, L.P. converted 8,908,775 shares of Adarx Pharmaceuticals, Inc. (ADRX) \u00b7 Sep 29 ($0 across all blocks)",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "ADRX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1836170/000123191926001406/0001231919-26-001406-index.htm",
-    "published_iso": "2026-09-30T01:38:06+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "b19662412d2d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Lazar David E. converted 1,300,530 shares of Aterian, Inc. (ATER) \u00b7 Sep 29",
-    "tags": [],
-    "tickers": [
-      "ATER"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1932843/000182912626010590/0001829126-26-010590-index.htm",
-    "published_iso": "2026-09-30T01:29:21+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "726a1433530e",
+    "id": "15cecfe6d99f",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -204,71 +35,253 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "What products are part of US-China $60 billion tariff cuts deal. The U.S. and Chinese governments unveiled tariff cuts on Monday, affecting $60 billion worth of goods in varying markets. The list released by the White House spans the U.S. import of 77 categories of Chinese goods \u2013 including Christmas decorations, firew",
+    "content": "Live updates: Senate sets up stock trading, data center votes; trade court hears Trump tariffs case. The Senate on Wednesday is expected to put lawmakers on record on bills that ban new stock trades by lawmakers and address the growth of data centers. It's part of an effort by Senate Majority Leader John Thune (R-S.D.)",
     "tags": [
       "Trade",
-      "China",
       "Regulation"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/6119380-us-china-tariff-cuts/",
-    "published_iso": "2026-09-30T01:24:18+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "7166a98a6298",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Eric Cantor named new president of pharma trade group. Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story  Eric Cantor named new president of pharma trade group PhRMA, the leading lobbying and trade organization for the U.S. pharmaceutical industry, announced Tuesday that former R",
-    "tags": [
-      "Trade",
-      "Healthcare"
-    ],
-    "tickers": [
-      "LLY",
-      "PFE",
-      "JNJ",
-      "MRK"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/6119349-eric-cantor-phrma-president-newsletter/",
-    "published_iso": "2026-09-30T00:39:01+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "9c21f0edc7c9",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "4 takeaways from the MAHA Summit. Trump administration officials mingled with insurers, corporate executives and wellness influencers at the second Make America Healthy Again (MAHA) summit. They discussed issues ranging from affordability, the U.S. food supply and the food pyramid, as well as the use of artificial inte",
-    "tags": [
-      "Healthcare"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/healthcare/6119302-maha-summit-corporate-takeaways/",
-    "published_iso": "2026-09-29T23:40:05+00:00",
-    "time_ago": "7h ago"
+    "url": "https://thehill.com/homenews/administration/6119378-live-updates-trump-ai-tariffs-hegseth-pentagon-cuts/",
+    "published_iso": "2026-09-30T12:58:20+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "8166e61b6997",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Fed's preferred measure of inflation dips to 3.4 percent in August. The Federal Reserve\u2019s preferred measure of inflation dipped in August, as multiple central bank officials have said future interest rate hikes could be on the horizon. The personal consumption expenditures (PCE) price index rose 0.3 percent from July t",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/6118496-fed-pce-inflation-down-august/",
+    "published_iso": "2026-09-30T12:42:52+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "8e228eae35ea",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "high",
+    "content": "Adobe, Amazon, Intel, Starlink, Google, and Zoom partner with First Lady Melania Trump\u2019s Fostering the Future Together. First Lady Melania Trump secured six new private-sector technology partnerships for Fostering the Future Together, including Adobe, Amazon, Intel, Starlink, Google, and Zoom. \u201cWhen I established Foste",
+    "tags": [
+      "Big Tech",
+      "Taxes"
+    ],
+    "tickers": [
+      "GOOGL",
+      "AMZN",
+      "INTC",
+      "ADBE"
+    ],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/09/adobe-amazon-intel-starlink-google-and-zoom-partner-with-first-lady-melania-trumps-fostering-the-future-together/",
+    "published_iso": "2026-09-30T12:28:07+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "9b05460dee6d",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Medical Devices; Gastroenterology-Urology Devices; Classification of the Flushing and Storage Solution for Vascular Autografts at Room Temperature. The Food and Drug Administration (FDA) is classifying the flushing and storage solution for vascular autografts at room temperature into class II (special controls). The sp",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/09/30/2026-20075/medical-devices-gastroenterology-urology-devices-classification-of-the-flushing-and-storage-solution",
+    "published_iso": "2026-09-30T04:00:00+00:00",
+    "time_ago": "9h ago"
+  },
+  {
+    "id": "892bad06d9d8",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Medicare Program; FY 2027 Hospice Wage Index and Payment Rate Update and Hospice Quality Reporting Program Requirements; Correction. This document corrects technical errors in the final rule that appeared in the August 3, 2026 Federal Register titled &quot;Medicare Program; FY 2027 Hospice Wage Index and Payment Rate U",
+    "tags": [
+      "Healthcare",
+      "Regulation"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/09/30/2026-20067/medicare-program-fy-2027-hospice-wage-index-and-payment-rate-update-and-hospice-quality-reporting",
+    "published_iso": "2026-09-30T04:00:00+00:00",
+    "time_ago": "9h ago"
+  },
+  {
+    "id": "7304a161634b",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Television Broadcasting Services Norwell, Massachusetts. This document amends the Table of TV Allotments (table) of the Federal Communications Commission's (Commission) rules by substituting channel 10 for channel 36 at Norwell, Massachusetts in response to a Petition for Rulemaking filed by RNN Boston License Co., LLC",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/09/30/2026-20039/television-broadcasting-services-norwell-massachusetts",
+    "published_iso": "2026-09-30T04:00:00+00:00",
+    "time_ago": "9h ago"
+  },
+  {
+    "id": "969593b9d59f",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "critical",
+    "content": "Regulation D: Reserve Requirements of Depository Institutions. The Board of Governors of the Federal Reserve System (&quot;Board&quot;) has adopted final amendments to its Regulation D to revise the rate of interest paid on balances (&quot;IORB&quot;) maintained at Federal Reserve Banks by or on behalf of eligible inst",
+    "tags": [
+      "Banking",
+      "Regulation"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/09/30/2026-20037/regulation-d-reserve-requirements-of-depository-institutions",
+    "published_iso": "2026-09-30T04:00:00+00:00",
+    "time_ago": "9h ago"
+  },
+  {
+    "id": "7e50eebb151d",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "critical",
+    "content": "Regulation A: Extensions of Credit by Federal Reserve Banks. The Board of Governors of the Federal Reserve System (&quot;Board&quot;) has adopted final amendments to its Regulation A to reflect the Board's approval of an increase in the rate for primary credit at each Federal Reserve Bank. The secondary credit rate at ",
+    "tags": [
+      "Banking",
+      "Regulation"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/09/30/2026-20036/regulation-a-extensions-of-credit-by-federal-reserve-banks",
+    "published_iso": "2026-09-30T04:00:00+00:00",
+    "time_ago": "9h ago"
+  },
+  {
+    "id": "434d6948d3c6",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Trump Accounts. This document contains temporary regulations regarding general requirements for Trump accounts, the establishment of an initial Trump account (including automatic enrollment by the Secretary of the Treasury), and qualified general contributions (including qualified stock contributions), which are a spec",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/09/30/2026-20026/trump-accounts",
+    "published_iso": "2026-09-30T04:00:00+00:00",
+    "time_ago": "9h ago"
+  },
+  {
+    "id": "7ebee859a510",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Fisheries of the Exclusive Economic Zone Off Alaska; Groundfish Reserves in the Bering Sea and Aleutian Islands Management Area. NMFS apportions amounts of the non-specified reserve to the initial total allowable catch (ITAC) of Bering Sea (BS) Pacific ocean perch, Bering Sea and Aleutian Islands (BSAI) northern rockfi",
+    "tags": [],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/09/30/2026-20019/fisheries-of-the-exclusive-economic-zone-off-alaska-groundfish-reserves-in-the-bering-sea-and",
+    "published_iso": "2026-09-30T04:00:00+00:00",
+    "time_ago": "9h ago"
+  },
+  {
+    "id": "e0579c89f4d6",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "U.S. Citizenship and Immigration Services Employment-Based Immigrant Visa, Fifth Preference (EB-5) Fee Rule. This final rule adjusts the Employment-Based Immigration, Fifth Preference (EB-5) immigration benefit request fees charged by U.S. Citizenship and Immigration Services (USCIS). It also codifies provisions of the",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/09/30/2026-20016/us-citizenship-and-immigration-services-employment-based-immigrant-visa-fifth-preference-eb-5-fee",
+    "published_iso": "2026-09-30T04:00:00+00:00",
+    "time_ago": "9h ago"
   },
   {
     "id": "91ed35d06185",
@@ -287,7 +300,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s252?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-29T22:32:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "221d1646e5b3",
@@ -308,7 +321,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-eliminates-disease-carrying-pests-and-restores-enjoyment-of-the-great-outdoors/",
     "published_iso": "2026-09-29T21:24:24+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "7d742076d849",
@@ -329,7 +342,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-inaugurates-the-era-of-super-intelligence/",
     "published_iso": "2026-09-29T21:21:06+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "e3250aea3307",
@@ -351,7 +364,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
     "published_iso": "2026-09-29T21:17:25+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "aab03300b4bc",
@@ -377,7 +390,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
     "published_iso": "2026-09-29T20:00:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "733fb4519cd5",
@@ -398,7 +411,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-announces-2026-fall-garden-tours/",
     "published_iso": "2026-09-29T19:07:36+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "0eeecf3d8558",
@@ -425,7 +438,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mwoh45epts2a",
     "published_iso": "2026-09-29T18:22:30.039000+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "44768bc787a5",
@@ -447,7 +460,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mwoh3zkris2a",
     "published_iso": "2026-09-29T18:22:30.038000+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "e8208c75bc4b",
@@ -473,7 +486,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s251?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-29T18:21:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "a8265e429264",
@@ -494,182 +507,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-streamlines-access-to-government-services-through-america-gov/",
     "published_iso": "2026-09-29T14:45:35+00:00",
-    "time_ago": "16h ago"
-  },
-  {
-    "id": "2a0b804a9a39",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Airworthiness Directives; The Boeing Company Airplanes. The FAA is adopting a new airworthiness directive (AD) for certain The Boeing Company Model 787-8 and 787-9 airplanes. This AD was prompted by a report of the lack of data to substantiate engine operability when an airplane is dispatched under a certain master min",
-    "tags": [],
-    "tickers": [
-      "BA"
-    ],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19956/airworthiness-directives-the-boeing-company-airplanes",
-    "published_iso": "2026-09-29T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "fb2ee544b18e",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2027 Rates; Requirements for Quality Programs; Other Policy Changes; and Adoption of Updated Versions of Certain Health Info",
-    "tags": [
-      "Healthcare",
-      "Regulation"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19946/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and",
-    "published_iso": "2026-09-29T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "c998b31ce8e0",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Safety Zone; Bridge Demolition, Upper Mississippi River, Chester, IL. The Coast Guard is establishing a temporary safety zone for all navigable waters of the Upper Mississippi River from mile marker 109.5 to mile marker 110.5 near Chester, IL. The safety zone is needed to protect personnel, vessels, and the marine envi",
-    "tags": [],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19945/safety-zone-bridge-demolition-upper-mississippi-river-chester-il",
-    "published_iso": "2026-09-29T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "067e308b2a5e",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "critical",
-    "content": "Recodification of Title IX Rules. The Secretary of Education publishes a final rule to repeal the U.S. Department of Education's (Department) 2024 final rule amending the Title IX regulations and restoring the regulatory text that existed prior to the 2024 rulemaking. The Department takes this action because the 2024 f",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19929/recodification-of-title-ix-rules",
-    "published_iso": "2026-09-29T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "66e4a57ebd9e",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; 2025-2026 Biennial Specifications and Management Measures; Inseason Adjustments; Correction. NMFS is taking inseason action to correct its prior omissions in implementing the routine inseason adjustments to management me",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19901/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery",
-    "published_iso": "2026-09-29T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "523f4752d240",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "critical",
-    "content": "Special Local Regulation; Kailua Bay, Ironman World Championship, Kailua-Kona, HI. The Coast Guard will enforce a special local regulation for the Ironman Ho'ala practice swim and Ironman World Championship Triathlon on October 4 and 10, 2026, to provide for the safety of life on navigable waterways during these events",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19896/special-local-regulation-kailua-bay-ironman-world-championship-kailua-kona-hi",
-    "published_iso": "2026-09-29T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "5d895a1c6f9f",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Airworthiness Directives; MD Helicopters, LLC Helicopters. The FAA is correcting an airworthiness directive (AD) that was published in the Federal Register. That AD applies to all MD Helicopters, LLC Model 369, 369A, 369D, 369E, 369F, 369FF, 369H, 369HE, 369HM, 369HS, 500N, and 600N helicopters. As published, the heade",
-    "tags": [],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19891/airworthiness-directives-md-helicopters-llc-helicopters",
-    "published_iso": "2026-09-29T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "1c4da7d1dd0e",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "critical",
-    "content": "Rescission of Title V Emergency Affirmative Defense Rule; Corrections. On June 1, 2026, the U.S. Environmental Protection Agency (EPA) published a final rule titled &quot;Rescission of Title V Emergency Affirmative Defense Rule.&quot; After publication, the EPA discovered inadvertent typographical errors in the action.",
-    "tags": [
-      "Defense",
-      "Regulation"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19889/rescission-of-title-v-emergency-affirmative-defense-rule-corrections",
-    "published_iso": "2026-09-29T04:00:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "d1ee5f082ce7",
@@ -1018,32 +856,6 @@
     "time_ago": "11d ago"
   },
   {
-    "id": "dcd00aa841df",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "Federal Reserve issues FOMC statement. Federal Reserve issues FOMC statement",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-    "published_iso": "2026-09-16T18:00:00+00:00",
-    "time_ago": "13d ago"
-  },
-  {
     "id": "f5ef8bcafaa7",
     "politician": "Sen. Cynthia Lummis",
     "initials": "CL",
@@ -1159,6 +971,27 @@
     "time_ago": "53d ago"
   },
   {
+    "id": "1a1d646c1e56",
+    "politician": "Rep. Alexandria Ocasio-Cortez",
+    "initials": "AOC",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#93c5fd"
+    },
+    "severity": "high",
+    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.meowing.monster/AOC/status/2085006319220625569#m",
+    "published_iso": "2026-08-05T14:13:38+00:00",
+    "time_ago": "55d ago"
+  },
+  {
     "id": "6e187954d9ee",
     "politician": "Sen. Rand Paul",
     "initials": "RP",
@@ -1228,7 +1061,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "69d ago"
+    "time_ago": "70d ago"
   },
   {
     "id": "555d7f3dd315",
@@ -1343,7 +1176,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "183d ago"
+    "time_ago": "184d ago"
   },
   {
     "id": "432e035b915b",
