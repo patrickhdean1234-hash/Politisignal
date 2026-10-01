@@ -1,5 +1,117 @@
 [
   {
+    "id": "0f0846434d11",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Saba Capital Management, L.P. bought 1,238 shares of Mexico Fund Inc (MXF) \u00b7 $20.39/share \u00b7 $25,243 total \u00b7 Oct 1",
+    "tags": [],
+    "tickers": [
+      "MXF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1510281/000151028126000320/0001510281-26-000320-index.htm",
+    "published_iso": "2026-10-01T19:54:41+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "7804a9417a0e",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Saba Capital Management, L.P. bought 1,988 shares of New Germany Fund Inc (GF) \u00b7 $10.63/share \u00b7 $21,132 total \u00b7 Oct 1 ($139,574 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "GF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1510281/000151028126000319/0001510281-26-000319-index.htm",
+    "published_iso": "2026-10-01T19:52:51+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "5bc6f990c731",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "FTC launches probe into OpenAI, Anthropic over model consumer risks. The Federal Trade Commission (FTC) has opened an investigation into artificial intelligence firms OpenAI and Anthropic over the potential dangers their models pose to consumers. The probe, confirmed by a FTC spokesperson, follows months of warnings ab",
+    "tags": [
+      "Trade"
+    ],
+    "tickers": [
+      "MSFT"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/6124265-ftc-investigates-openai-anthropic/",
+    "published_iso": "2026-10-01T19:32:40+00:00",
+    "time_ago": "22m ago"
+  },
+  {
+    "id": "0a03f0a8eab2",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Watch live: Trump kicks off red-state campaign swing at Texas truck plant. President Trump will kick off his red-state campaign swing on Thursday afternoon with a visit to a manufacturing plant in Denton, Texas. Trump is likely to use the stop to highlight his trade and tariff agenda, as well as the Trump administratio",
+    "tags": [
+      "Trade"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/video-clips/6123945-watch-live-donald-trump-texas-manufacturing-economy-ken-paxton-senate-race/",
+    "published_iso": "2026-10-01T19:00:00+00:00",
+    "time_ago": "55m ago"
+  },
+  {
+    "id": "e4e556de2552",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Treasury targets Iranian auto, rail sectors in latest round of sanctions. The Treasury Department sanctioned Iranian auto and rail industries on Thursday, the latest salvo in its economic campaign against the Islamic Republic. The Treasury\u2019s Office of Foreign Assets Control (OFAC) sanctioned the entirety of those indus",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/international/6124127-treasury-targets-iranian-transportation-industry-sanctions/",
+    "published_iso": "2026-10-01T18:59:33+00:00",
+    "time_ago": "55m ago"
+  },
+  {
     "id": "43c8d1db56c8",
     "politician": "Federal Register",
     "initials": "FR",
@@ -18,7 +130,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20192/wc-docket-nos-25-208-25-209-fcc-26-19-fr-id-370342-reducing-barriers-to-network-improvements-and",
     "published_iso": "2026-10-01T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "f3973d905760",
@@ -39,7 +151,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20191/administration-of-cross-state-air-pollution-rule-trading-program-assurance-provisions-for-2025",
     "published_iso": "2026-10-01T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "e60adac118d8",
@@ -66,7 +178,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20178/unleashing-american-energy-and-economic-prosperity-rural-energy-for-america-program-reap",
     "published_iso": "2026-10-01T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "ea92d085f109",
@@ -85,7 +197,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20177/fisheries-of-the-exclusive-economic-zone-off-alaska-exchange-of-flatfish-in-the-bering-sea-and",
     "published_iso": "2026-10-01T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "d63b847a4daa",
@@ -106,7 +218,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20140/pacific-island-fisheries-annual-catch-limit-and-accountability-measures-for-mariana-bottomfish",
     "published_iso": "2026-10-01T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "6537e900ab4a",
@@ -127,7 +239,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20135/fisheries-of-the-exclusive-economic-zone-off-alaska-pollock-fishing-in-the-winter-herring-savings",
     "published_iso": "2026-10-01T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "d50b79be706e",
@@ -152,7 +264,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20134/medicare-program-fy-2027-inpatient-psychiatric-facilities-prospective-payment-system-rate-update",
     "published_iso": "2026-10-01T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "1e51e2a9aa60",
@@ -178,7 +290,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20131/medicare-program-inpatient-rehabilitation-facility-prospective-payment-system-for-federal-fiscal",
     "published_iso": "2026-10-01T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "fdca64178427",
@@ -197,7 +309,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s256?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-10-01T01:29:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "31f3d74aaa9f",
@@ -221,74 +333,6 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ambassador-greer-delivers-opening-remarks-2026-g20-trade-ministerial",
     "published_iso": "2026-10-01T00:42:14+00:00",
-    "time_ago": "14h ago"
-  },
-  {
-    "id": "4cb6cc499731",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "Americans deserve lower costs and lower interest rates, but Donald Trump is standing in the way.\n \nLet\u2019s talk about it:",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mwre4ptmfs2o",
-    "published_iso": "2026-09-30T22:07:11.387000+00:00",
-    "time_ago": "16h ago"
-  },
-  {
-    "id": "15e389616dec",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "high",
-    "content": "NEW: NextEra and Dominion Energy, two of America's biggest utility companies, are on the verge of merging. \n \nElectricity costs are already through the roof \u2014 and this deal could jack up costs even more.\n \nThe Trump Admin should not rubber stamp this merger.",
-    "tags": [
-      "Energy"
-    ],
-    "tickers": [
-      "NEE"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mwr2i5qagc2s",
-    "published_iso": "2026-09-30T19:14:37.636000+00:00",
-    "time_ago": "19h ago"
-  },
-  {
-    "id": "88fd3971a2d7",
-    "politician": "Sen. Rand Paul",
-    "initials": "RP",
-    "role": "Senate Foreign Relations Committee",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fbbf24"
-    },
-    "severity": "high",
-    "content": "The national debt has passed $40 trillion. My Six Penny Plan balances the budget in five years by cutting six cents out of every $1 the federal government spends. \n \nAmericans balance their checkbooks. Washington should have to do the same. \n \n foxnews.com/opinion/sen-rand\u2026  \n \n Link  \n \n \n \n SEN RAND PAUL: Our budget ",
-    "tags": [],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://shitter.thepixora.com/RandPaul/status/2105370774131638518#m",
-    "published_iso": "2026-09-30T18:54:43+00:00",
     "time_ago": "19h ago"
   },
   {
@@ -308,7 +352,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s255?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-30T17:41:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "40e6f96f14b1",
@@ -327,28 +371,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s254?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-30T16:51:00+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "0496b5a14588",
-    "politician": "Sen. Rand Paul",
-    "initials": "RP",
-    "role": "Senate Foreign Relations Committee",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fbbf24"
-    },
-    "severity": "medium",
-    "content": "The $40 trillion deficit translates to more than $360,000 per American taxpayer. We're adding less to the debt than we did under President Biden, but Americans' buying power is still significantly less than what it was. \n \nIn fact, if you're making $50K/year, you're poorer than you were a few years ago because inflatio",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://shitter.thepixora.com/RandPaul/status/2105332090782798122#m",
-    "published_iso": "2026-09-30T16:21:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "0844da45776f",
@@ -370,7 +393,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-s-2398-signed-into-law/",
     "published_iso": "2026-09-30T16:17:26+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "e19340ebcd34",
@@ -389,7 +412,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s253?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-30T15:58:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "3889d7d35954",
@@ -506,28 +529,6 @@
     "time_ago": "1d ago"
   },
   {
-    "id": "e3250aea3307",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "Inaugurating The Era Of Super Intelligence. By the authority vested in me as President by the Constitution and the laws of the United States of America, it&#160;is&#160;hereby ordered: Section 1. \u00a0Purpose.\u00a0 America stands at the forefront of a\u00a0new technological revolution in intelligence. \u00a0The modern field of artificia",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
-    "published_iso": "2026-09-29T21:17:25+00:00",
-    "time_ago": "1d ago"
-  },
-  {
     "id": "aab03300b4bc",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -554,27 +555,6 @@
     "time_ago": "1d ago"
   },
   {
-    "id": "733fb4519cd5",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "high",
-    "content": "First Lady Melania Trump Announces 2026 Fall Garden Tours. The White House will welcome visitors this fall for the 2026 Fall Garden Tours, offering an opportunity for visitors to experience the historic gardens and grounds of the People\u2019s House. The grounds will be open Saturday, October 17 from 10:00 AM \u2013 4:30 PM, and",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-announces-2026-fall-garden-tours/",
-    "published_iso": "2026-09-29T19:07:36+00:00",
-    "time_ago": "1d ago"
-  },
-  {
     "id": "e8208c75bc4b",
     "politician": "GovTrack",
     "initials": "GT",
@@ -598,7 +578,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s251?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-29T18:21:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "d1ee5f082ce7",
@@ -691,7 +671,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
     "published_iso": "2026-09-24T18:30:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "1daa667fb26d",
@@ -717,7 +697,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
     "published_iso": "2026-09-24T15:00:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "f5506a3890fe",
@@ -789,7 +769,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
     "published_iso": "2026-09-18T15:00:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "9f0fe219f819",
@@ -815,7 +795,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
     "published_iso": "2026-09-18T15:00:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "f5ef8bcafaa7",
@@ -930,7 +910,28 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "54d ago"
+    "time_ago": "55d ago"
+  },
+  {
+    "id": "1a1d646c1e56",
+    "politician": "Rep. Alexandria Ocasio-Cortez",
+    "initials": "AOC",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#93c5fd"
+    },
+    "severity": "high",
+    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.meowing.monster/AOC/status/2085006319220625569#m",
+    "published_iso": "2026-08-05T14:13:38+00:00",
+    "time_ago": "57d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -959,7 +960,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "69d ago"
+    "time_ago": "70d ago"
   },
   {
     "id": "de38f5381391",
@@ -980,7 +981,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "70d ago"
+    "time_ago": "71d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -1045,7 +1046,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "142d ago"
+    "time_ago": "143d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1136,7 +1137,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "189d ago"
+    "time_ago": "190d ago"
   },
   {
     "id": "00f579ee8f55",
@@ -1202,7 +1203,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "251d ago"
+    "time_ago": "252d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1221,6 +1222,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "288d ago"
+    "time_ago": "289d ago"
   }
 ]
