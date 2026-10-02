@@ -1,5 +1,73 @@
 [
   {
+    "id": "1a0f3ef2e079",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Gupta Aashima received 9,804 shares of Neogen Corp (NEOG) \u00b7 $12.24/share \u00b7 $120,001 total \u00b7 Oct 2",
+    "tags": [],
+    "tickers": [
+      "NEOG"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1946262/000071137726000024/0000711377-26-000024-index.htm",
+    "published_iso": "2026-10-02T15:30:27+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "4ab20386f2a7",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Sugarman Steven exercised options for 1,147,031 shares of Patriot National Bancorp Inc (PNBK) \u00b7 Oct 2 ($583,609 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "PNBK"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1504590/000143774926031803/0001437749-26-031803-index.htm",
+    "published_iso": "2026-10-02T15:27:15+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "926f8341d303",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.. Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
+    "published_iso": "2026-10-02T15:00:00+00:00",
+    "time_ago": "31m ago"
+  },
+  {
     "id": "12bf47a61ffb",
     "politician": "Federal Register",
     "initials": "FR",
@@ -23,7 +91,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20281/global-benchmark-for-efficient-drug-pricing-globe-model",
     "published_iso": "2026-10-02T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "cf8f026ef338",
@@ -44,7 +112,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20276/state-of-indiana-discontinuance-of-certain-commission-regulatory-authority-within-the-state-notice",
     "published_iso": "2026-10-02T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "a41cebdd20b5",
@@ -66,7 +134,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20264/federal-scholarship-tax-credit",
     "published_iso": "2026-10-02T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "2948bc2c2822",
@@ -87,7 +155,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20262/commission-quorum-requirement",
     "published_iso": "2026-10-02T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "34c9eb5a1a9e",
@@ -114,7 +182,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20247/enhanced-transparency-and-public-accountability-of-the-supervisory-stress-test-models-and-scenarios",
     "published_iso": "2026-10-02T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "f32b0cd3034b",
@@ -136,7 +204,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20246/modifications-to-the-capital-plan-rule-and-stress-capital-buffer-requirement",
     "published_iso": "2026-10-02T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "401c70210882",
@@ -157,7 +225,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20234/fisheries-off-west-coast-states-coastal-pelagic-species-fisheries-annual-specifications-2026-2027",
     "published_iso": "2026-10-02T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "d5cf2530b04c",
@@ -178,248 +246,34 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20225/special-local-regulations-southern-california-annual-marine-events-for-the-san-diego-captain-of-the",
     "published_iso": "2026-10-02T04:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "11h ago"
   },
   {
-    "id": "304c523897c7",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "18c14abb3406",
+    "politician": "Sen. Bernie Sanders",
+    "initials": "BS",
+    "role": "Senate HELP Committee",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#1e2a4a",
+      "fg": "#818cf8"
     },
     "severity": "medium",
-    "content": "Huang Victor gifted 200,000 shares of Airship Ai Holdings, Inc. (AISPW) \u00b7 Oct 1",
+    "content": "We're told progressive ideas are \"fringe.\" Really? \n \n59% want Medicare for All \n57% want a $20 minimum wage \n61% want a billionaire wealth tax \n63% want to pause AI development \n66% want the wealthy to pay more into Social Security \n \nMaybe it's the establishment that's out of touch. \n \n Video",
     "tags": [
+      "Healthcare",
+      "Regulation",
       "Taxes"
-    ],
-    "tickers": [
-      "AISPW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2004301/000116169726000229/0001161697-26-000229-index.htm",
-    "published_iso": "2026-10-02T01:40:11+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "70004d01ccbd",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Smith Nicholas Conrad exercised options for 56,455 shares of Alto Neuroscience, Inc. (ANRO) \u00b7 $2.35/share \u00b7 $132,669 total \u00b7 Oct 1 ($3,884,229 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "ANRO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2009130/000200913026000004/0002009130-26-000004-index.htm",
-    "published_iso": "2026-10-02T01:33:36+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "b8a7e49c8ed8",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Stewart Christopher P. withheld (tax) 5,697 shares of Aeluma, Inc. (ALMU) \u00b7 $12.36/share \u00b7 $70,415 total \u00b7 Oct 1",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "ALMU"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1828805/000182299126000005/0001822991-26-000005-index.htm",
-    "published_iso": "2026-10-02T01:31:24+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "fff87005c09d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Zeng Yan sold 9,316 shares of Autohome Inc. (ATHM) \u00b7 $5.29/share \u00b7 $49,259 total \u00b7 Oct 1",
-    "tags": [],
-    "tickers": [
-      "ATHM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1976012/000197601226000008/0001976012-26-000008-index.htm",
-    "published_iso": "2026-10-02T01:29:26+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "6ae22dccfea6",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Xiang Bibo sold 5,588 shares of Autohome Inc. (ATHM) \u00b7 $5.29/share \u00b7 $29,547 total \u00b7 Oct 1",
-    "tags": [],
-    "tickers": [
-      "ATHM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1975234/000197523426000008/0001975234-26-000008-index.htm",
-    "published_iso": "2026-10-02T01:28:17+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "9596fec21e9b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Long Quan sold 34,400 shares of Autohome Inc. (ATHM) \u00b7 $5.29/share \u00b7 $181,893 total \u00b7 Oct 1",
-    "tags": [],
-    "tickers": [
-      "ATHM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1975515/000197551526000006/0001975515-26-000006-index.htm",
-    "published_iso": "2026-10-02T01:26:29+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "57d7b58d9da1",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Koopmans Chris sold 10,000 shares of Marvell Technology, Inc. (MRVL) \u00b7 $262.05/share \u00b7 $2,620,500 total \u00b7 Oct 1",
-    "tags": [],
-    "tickers": [
-      "MRVL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1835632/000162828026064351/0001628280-26-064351-index.htm",
-    "published_iso": "2026-10-02T01:19:09+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "e02bcc3fa28d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "So Eric H. L. received 248,000 shares of Helus Pharma Inc. (HELP) \u00b7 Oct 1",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "HELP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2116526/000091228226001335/0000912282-26-001335-index.htm",
-    "published_iso": "2026-10-02T01:16:58+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "8f85db769163",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Monnig Taylor exercised options for 33,350 shares of Cleanspark, Inc. (CLSKW) \u00b7 Oct 1 ($202,932 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CLSKW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2022141/000119312526411086/0001193125-26-411086-index.htm",
-    "published_iso": "2026-10-02T01:14:03+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "711d1f0ce8ee",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Garrison Scott Eugene exercised options for 33,350 shares of Cleanspark, Inc. (CLSKW) \u00b7 Oct 1 ($183,154 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CLSKW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2022147/000119312526411078/0001193125-26-411078-index.htm",
-    "published_iso": "2026-10-02T01:10:03+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "c63a416c12ab",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Medicare de-fangs new drug pricing model. Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story  Medicare de-fangs new drug pricing model The Trump administration rolled out the final version of a new Medicare payment model aimed at lowering the prices of drugs administered in doctor",
-    "tags": [
-      "Healthcare"
     ],
     "tickers": [
       "UNH",
       "HCA",
       "CVS"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/healthcare/6124862-medicare-globe-drug-pricing-scaled-back/",
-    "published_iso": "2026-10-01T23:51:15+00:00",
-    "time_ago": "9h ago"
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://shitter.thepixora.com/BernieSanders/status/2105772284992512086#m",
+    "published_iso": "2026-10-01T21:30:10+00:00",
+    "time_ago": "18h ago"
   },
   {
     "id": "a92a619c0fb2",
@@ -444,7 +298,34 @@
     "platform": "Politico",
     "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/10/01/new-york-grapples-with-kinks-in-1b-medicaid-system-01103951",
     "published_iso": "2026-10-01T20:30:32+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "19h ago"
+  },
+  {
+    "id": "34e29ddbe47c",
+    "politician": "Sen. Bernie Sanders",
+    "initials": "BS",
+    "role": "Senate HELP Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#818cf8"
+    },
+    "severity": "medium",
+    "content": "Let\u2019s try again, Mr. President. \n \n15 million people thrown off their healthcare: F \n \n$1 trillion on a new endless war in Iran: F \n \nRecord-high diesel, gas and grocery prices: F \n \nDeclining respect for U.S. in the world: F \n \nNarcissism and self-delusion: A+ \n \n \n Headquarters (@HQNewsNow) \n \n Trump: I would give us",
+    "tags": [
+      "Healthcare",
+      "Sanctions"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS",
+      "LMT"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://shitter.thepixora.com/BernieSanders/status/2105733189700296821#m",
+    "published_iso": "2026-10-01T18:54:49+00:00",
+    "time_ago": "20h ago"
   },
   {
     "id": "fdca64178427",
@@ -592,7 +473,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
     "published_iso": "2026-09-30T13:00:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "8e228eae35ea",
@@ -619,7 +500,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/09/adobe-amazon-intel-starlink-google-and-zoom-partner-with-first-lady-melania-trumps-fostering-the-future-together/",
     "published_iso": "2026-09-30T12:28:07+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "91ed35d06185",
@@ -830,7 +711,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
     "published_iso": "2026-09-24T15:00:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "f5506a3890fe",
@@ -882,29 +763,6 @@
     "time_ago": "9d ago"
   },
   {
-    "id": "6c9e6abea13a",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank. Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Ex",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "AXP"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
-    "published_iso": "2026-09-18T15:00:00+00:00",
-    "time_ago": "13d ago"
-  },
-  {
     "id": "9f0fe219f819",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -928,7 +786,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
     "published_iso": "2026-09-18T15:00:00+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "f5ef8bcafaa7",
@@ -1057,7 +915,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "71d ago"
+    "time_ago": "72d ago"
   },
   {
     "id": "555d7f3dd315",
@@ -1126,7 +984,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "149d ago"
+    "time_ago": "150d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1148,7 +1006,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "157d ago"
+    "time_ago": "158d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1172,7 +1030,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "185d ago"
+    "time_ago": "186d ago"
   },
   {
     "id": "432e035b915b",
@@ -1212,7 +1070,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "230d ago"
+    "time_ago": "231d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1231,7 +1089,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "230d ago"
+    "time_ago": "231d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1276,6 +1134,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "289d ago"
+    "time_ago": "290d ago"
   }
 ]
