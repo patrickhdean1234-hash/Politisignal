@@ -162,7 +162,7 @@
     "time_ago": "just now"
   },
   {
-    "id": "c777da036ea2",
+    "id": "57a9db6b3322",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -170,22 +170,17 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Trump backs data centers in Ohio amid tight Senate race. President Trump defended data centers at a midterm campaign rally in Vandalia, Ohio Saturday, arguing that the U.S. will risk losing ground in the global artificial intelligence race against China without the massive facilities that have come under heightened scr",
+    "severity": "critical",
+    "content": "Trump announces 'Super Intelligence Force' led by DNI Jay Clayton. President Trump on Sunday morning announced the creation of \"Super IntelligenceForce\" amid his push to keep the U.S. in the lead on artificial intelligence development after warnings from the technology's researchers. The task force will be led by Direc",
     "tags": [
-      "China"
+      "Banking"
     ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/6127929-trump-defends-ohio-data-centers/",
-    "published_iso": "2026-10-04T02:39:12+00:00",
-    "time_ago": "6h ago"
+    "url": "https://thehill.com/homenews/administration/6128176-trump-creates-super-intelligence-force/",
+    "published_iso": "2026-10-04T14:14:23+00:00",
+    "time_ago": "10m ago"
   },
   {
     "id": "fba941a53e33",
@@ -211,79 +206,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/news/pelosi-update/working-families-first",
     "published_iso": "2026-10-03T21:13:42+00:00",
-    "time_ago": "11h ago"
-  },
-  {
-    "id": "6bd4e3b2ce71",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "The next crash could be an economic bloodbath. The author warns that the massive capital investment in artificial intelligence infrastructure creates a systemic economic risk that could trigger widespread financial instability if projected productivity gains fail to materialize",
-    "tags": [],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/finance/6126452-ai-infrastructure-economic-risk/",
-    "published_iso": "2026-10-03T19:00:00+00:00",
-    "time_ago": "13h ago"
-  },
-  {
-    "id": "a5874ff7cab9",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "wsj.com/economy/trump-econom\u2026  \n \n Link  \n \n \n \n The Moves That Backfired on Trump and Drove Interest Rates and Inflation Higher \n \n The president\u2019s own agenda has helped undermine promises to fix the economy and get the deficit under control. \n  wsj.com",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://shitter.thepixora.com/SenWarren/status/2106450757428060329#m",
-    "published_iso": "2026-10-03T18:26:11+00:00",
-    "time_ago": "14h ago"
-  },
-  {
-    "id": "b87059e9f096",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "So much for Donald Trump\u2019s promise to lower costs \u201con day one.\u201d \n \nInstead his disastrous economic agenda is raising your interest rates - making your mortgage and your credit card bill more expensive.  \n \nEnough is enough.",
-    "tags": [
-      "Banking",
-      "Regulation"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://shitter.thepixora.com/SenWarren/status/2106450754277953800#m",
-    "published_iso": "2026-10-03T18:26:10+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "bcf59741d04a",
@@ -310,7 +233,32 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mwyj5j2ync2g",
     "published_iso": "2026-10-03T18:25:44.718000+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "19h ago"
+  },
+  {
+    "id": "1fde1e9fa366",
+    "politician": "Donald Trump",
+    "initials": "DT",
+    "role": "President of the United States",
+    "color": {
+      "bg": "#3b1818",
+      "fg": "#f87171"
+    },
+    "severity": "medium",
+    "content": "Medicare Improvement Fund! \n \n Video",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.meowing.monster/realDonaldTrump/status/2106398735953502297#m",
+    "published_iso": "2026-10-03T14:59:28+00:00",
+    "time_ago": "23h ago"
   },
   {
     "id": "945661fb3503",
@@ -535,30 +483,6 @@
     "time_ago": "1d ago"
   },
   {
-    "id": "cd98494de682",
-    "politician": "Rep. Mike Johnson",
-    "initials": "MJ",
-    "role": "Speaker of the House",
-    "color": {
-      "bg": "#2a1a1a",
-      "fg": "#fbbf24"
-    },
-    "severity": "critical",
-    "content": "The radical, anti-American, insurgent Left has TAKEN OVER the Democrat Party! \n \nThis Congress, Democrats have voted AGAINST: \n \n\u274c Tax cuts for middle class families \n\u274c No taxes on tips or overtime \n\u274c Securing our border \n\u274c Voter ID \n\u274c Tax-advantaged investment accounts for kids \n\u274c Lowering taxes on seniors \n\u274c Permanen",
-    "tags": [
-      "Energy",
-      "Healthcare",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.kareem.one/SpeakerJohnson/status/2106121378923745590#m",
-    "published_iso": "2026-10-02T20:37:21+00:00",
-    "time_ago": "1d ago"
-  },
-  {
     "id": "8581e940fa48",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -612,26 +536,27 @@
     "time_ago": "1d ago"
   },
   {
-    "id": "38e8ff39e217",
-    "politician": "Rep. Mike Johnson",
-    "initials": "MJ",
-    "role": "Speaker of the House",
+    "id": "6695ae3844ec",
+    "politician": "Rep. Jim Jordan",
+    "initials": "JJ",
+    "role": "House Judiciary Committee Chair",
     "color": {
-      "bg": "#2a1a1a",
-      "fg": "#fbbf24"
+      "bg": "#2a1818",
+      "fg": "#fca5a5"
     },
     "severity": "critical",
-    "content": "The Education Freedom Tax Credit creates America\u2019s first nationwide school choice program and allows states to give students and families more options. \n \nThis historic program was created through Republicans' Working Families Tax Cuts. \n \n\ud83d\udea8\ud83d\udea8REMINDER: Every Democrat OPPOSED this! \n \n \n Treasury Department (@USTreasury)",
-    "tags": [
-      "Regulation",
-      "Taxes"
+    "content": "Voter fraud. \n \nImmigration fraud. \n \nMedicaid fraud.  \n \nToday\u2019s Left wants to keep it going.",
+    "tags": [],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
     ],
-    "tickers": [],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "https://nitter.kareem.one/SpeakerJohnson/status/2106017193129361468#m",
-    "published_iso": "2026-10-02T13:43:21+00:00",
-    "time_ago": "1d ago"
+    "url": "http://nitter.meowing.monster/Jim_Jordan/status/2105661360025563280#m",
+    "published_iso": "2026-10-01T14:09:24+00:00",
+    "time_ago": "3d ago"
   },
   {
     "id": "fdca64178427",
@@ -757,7 +682,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
     "published_iso": "2026-09-30T13:00:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "91ed35d06185",
@@ -1029,6 +954,27 @@
     "time_ago": "57d ago"
   },
   {
+    "id": "1a1d646c1e56",
+    "politician": "Rep. Alexandria Ocasio-Cortez",
+    "initials": "AOC",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#93c5fd"
+    },
+    "severity": "high",
+    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.meowing.monster/AOC/status/2085006319220625569#m",
+    "published_iso": "2026-08-05T14:13:38+00:00",
+    "time_ago": "60d ago"
+  },
+  {
     "id": "6e187954d9ee",
     "politician": "Sen. Rand Paul",
     "initials": "RP",
@@ -1098,7 +1044,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "73d ago"
+    "time_ago": "74d ago"
   },
   {
     "id": "555d7f3dd315",
@@ -1167,7 +1113,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "151d ago"
+    "time_ago": "152d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1213,7 +1159,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "187d ago"
+    "time_ago": "188d ago"
   },
   {
     "id": "432e035b915b",
@@ -1272,7 +1218,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "232d ago"
+    "time_ago": "233d ago"
   },
   {
     "id": "c3776ad92a42",
