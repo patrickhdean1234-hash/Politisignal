@@ -1,6 +1,6 @@
 [
   {
-    "id": "b0ed65d0cfcf",
+    "id": "dc9586eb082a",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,21 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Lee Angela B received 216 shares of Tompkins Financial Corp (TMP) \u00b7 $97.01/share \u00b7 $20,954 total \u00b7 Oct 5",
-    "tags": [],
+    "content": "Stock Michael sold 3,333 shares of Liberty Energy Inc. (LBRT) \u00b7 $18.17/share \u00b7 $60,561 total \u00b7 Oct 5",
+    "tags": [
+      "Energy"
+    ],
     "tickers": [
-      "TMP"
+      "LBRT"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1974543/000100581726000126/0001005817-26-000126-index.htm",
-    "published_iso": "2026-10-05T12:19:26+00:00",
-    "time_ago": "14m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1705066/000162828026064994/0001628280-26-064994-index.htm",
+    "published_iso": "2026-10-05T20:54:48+00:00",
+    "time_ago": "1m ago"
   },
   {
-    "id": "5ae10991f669",
+    "id": "391cb294181a",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,18 +32,88 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Jensen Christopher L sold 3,355 shares of Nxp Semiconductors N.V. (NXPI) \u00b7 $240.00/share \u00b7 $805,200 total \u00b7 Oct 5",
-    "tags": [
-      "Semiconductors"
-    ],
+    "content": "Dewalch D Mark received 1,309 shares of Black Stone Minerals, L.P. (BSM) \u00b7 $14.32/share \u00b7 $18,745 total \u00b7 Oct 5",
+    "tags": [],
     "tickers": [
-      "NXPI"
+      "BSM"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1812730/000181273026000006/0001812730-26-000006-index.htm",
-    "published_iso": "2026-10-05T12:02:23+00:00",
-    "time_ago": "31m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1638259/000163825926000014/0001638259-26-000014-index.htm",
+    "published_iso": "2026-10-05T20:54:35+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "757a1bd60826",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board announces approval of application by Isabella Bank Corporation. Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
+    "published_iso": "2026-10-05T20:30:00+00:00",
+    "time_ago": "26m ago"
+  },
+  {
+    "id": "8bc54bb4537e",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Google\u2019s co-founder, Sergey Brin, got $220 billion richer since 2019. \n \nHe paid $0 in income taxes in 2019, 2020 &amp; 2023. \n \nNow, he\u2019s spending $138 million to oppose CA\u2019s 5% billionaire wealth tax. \n \nIf it passed, he\u2019d pay $13.7 billion in taxes &amp; would still be worth $259 billion.",
+    "tags": [
+      "Big Tech",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "GOOGL"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://shitter.thepixora.com/GunnelsWarren/status/2107183933779587343#m",
+    "published_iso": "2026-10-05T18:59:34+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "a544f0dbf161",
+    "politician": "Rep. Mike Johnson",
+    "initials": "MJ",
+    "role": "Speaker of the House",
+    "color": {
+      "bg": "#2a1a1a",
+      "fg": "#fbbf24"
+    },
+    "severity": "critical",
+    "content": "60 million American children now have tax-advantaged investment accounts ready to be claimed to help them unlock their American Dream.  \n \nRepublicans created these historic Accounts through the Working Families Tax Cuts to help set families up for success. \n \nDemocrats voted AGAINST this! \n \n \n Treasury Secretary Scot",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://shitter.thepixora.com/SpeakerJohnson/status/2107111607025143866#m",
+    "published_iso": "2026-10-05T14:12:10+00:00",
+    "time_ago": "6h ago"
   },
   {
     "id": "64318343e4d9",
@@ -62,7 +134,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20374/section-3-benchmarks-for-creating-economic-opportunities-for-low--and-very-low-income-persons-and",
     "published_iso": "2026-10-05T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "19a118d2addf",
@@ -81,7 +153,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20362/wireline-competition-bureau-and-office-of-economics-and-analytics-adopt-2026-mandatory-data",
     "published_iso": "2026-10-05T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "1a81259efb2f",
@@ -100,7 +172,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20356/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-north",
     "published_iso": "2026-10-05T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "20ba80d8a81c",
@@ -119,7 +191,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20338/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-ocean-perch-in-the-western-regulatory",
     "published_iso": "2026-10-05T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "3d89bd5d195d",
@@ -140,7 +212,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20336/exemptions-from-materials-licensing",
     "published_iso": "2026-10-05T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "475848d8c169",
@@ -161,7 +233,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20330/fisheries-of-the-caribbean-gulf-of-america-and-south-atlantic-puerto-rico-fishery-management-plan",
     "published_iso": "2026-10-05T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "cb6e3974bbfc",
@@ -182,7 +254,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20325/clarification-to-the-applicability-of-emergency-exemptions-response-to-petitions-for-reconsideration",
     "published_iso": "2026-10-05T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "76edf1b7c684",
@@ -203,7 +275,33 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20324/special-local-regulation-allegheny-river-mile-marker-205-21-creighton-pa",
     "published_iso": "2026-10-05T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "16h ago"
+  },
+  {
+    "id": "fba941a53e33",
+    "politician": "Rep. Nancy Pelosi",
+    "initials": "NP",
+    "role": "House Democratic Leader",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "Working Families First. Working Families First \n\n               Costly Cuts  This week, new provisions of President Trump\u2019s Big Ugly Bill took effect, changing eligibility for SNAP and Medicaid while shifting higher administrative costs onto states. These changes threaten the food assistance and health care that millio",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "http://pelosi.house.gov/news/pelosi-update/working-families-first",
+    "published_iso": "2026-10-03T21:13:42+00:00",
+    "time_ago": "1d ago"
   },
   {
     "id": "bcf59741d04a",
@@ -230,32 +328,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mwyj5j2ync2g",
     "published_iso": "2026-10-03T18:25:44.718000+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "1fde1e9fa366",
-    "politician": "Donald Trump",
-    "initials": "DT",
-    "role": "President of the United States",
-    "color": {
-      "bg": "#3b1818",
-      "fg": "#f87171"
-    },
-    "severity": "medium",
-    "content": "Medicare Improvement Fund! \n \n Video",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.kareem.one/realDonaldTrump/status/2106398735953502297#m",
-    "published_iso": "2026-10-03T14:59:28+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "945661fb3503",
@@ -302,7 +375,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-commends-trade-ministers-signing-statement-eliminating-forced-labor-global-supply",
     "published_iso": "2026-10-02T20:54:52+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "16c86cf6bdf5",
@@ -328,31 +401,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
     "published_iso": "2026-10-02T20:45:00+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "cd98494de682",
-    "politician": "Rep. Mike Johnson",
-    "initials": "MJ",
-    "role": "Speaker of the House",
-    "color": {
-      "bg": "#2a1a1a",
-      "fg": "#fbbf24"
-    },
-    "severity": "critical",
-    "content": "The radical, anti-American, insurgent Left has TAKEN OVER the Democrat Party! \n \nThis Congress, Democrats have voted AGAINST: \n \n\u274c Tax cuts for middle class families \n\u274c No taxes on tips or overtime \n\u274c Securing our border \n\u274c Voter ID \n\u274c Tax-advantaged investment accounts for kids \n\u274c Lowering taxes on seniors \n\u274c Permanen",
-    "tags": [
-      "Energy",
-      "Healthcare",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://shitter.thepixora.com/SpeakerJohnson/status/2106121378923745590#m",
-    "published_iso": "2026-10-02T20:37:21+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "8581e940fa48",
@@ -379,7 +428,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
     "published_iso": "2026-10-02T20:00:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "926f8341d303",
@@ -405,7 +454,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
     "published_iso": "2026-10-02T15:00:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "6695ae3844ec",
@@ -428,7 +477,7 @@
     "platform": "Twitter/X",
     "url": "http://shitter.thepixora.com/Jim_Jordan/status/2105661360025563280#m",
     "published_iso": "2026-10-01T14:09:24+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "fdca64178427",
@@ -490,7 +539,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s255?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-30T17:41:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "40e6f96f14b1",
@@ -509,7 +558,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s254?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-30T16:51:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "e19340ebcd34",
@@ -528,7 +577,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s253?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-30T15:58:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "3889d7d35954",
@@ -554,7 +603,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
     "published_iso": "2026-09-30T13:00:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "91ed35d06185",
@@ -599,7 +648,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
     "published_iso": "2026-09-29T20:00:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "e8208c75bc4b",
@@ -625,7 +674,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s251?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-29T18:21:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "d1ee5f082ce7",
@@ -691,7 +740,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
     "published_iso": "2026-09-25T20:30:00+00:00",
-    "time_ago": "9d ago"
+    "time_ago": "10d ago"
   },
   {
     "id": "3fe374d32b7d",
@@ -718,33 +767,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
     "published_iso": "2026-09-24T18:30:00+00:00",
-    "time_ago": "10d ago"
-  },
-  {
-    "id": "1daa667fb26d",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank. Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
-    "published_iso": "2026-09-24T15:00:00+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "f5506a3890fe",
@@ -766,7 +789,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-six-penny-plan-to-balance-the-federal-budget-in-five-years-3/",
     "published_iso": "2026-09-22T20:41:12+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "f5ef8bcafaa7",
@@ -795,7 +818,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-statement-on-democrats-killing-clarity-act/",
     "published_iso": "2026-09-15T20:22:32+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "baf26d52584e",
@@ -823,28 +846,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "58d ago"
-  },
-  {
-    "id": "1a1d646c1e56",
-    "politician": "Rep. Alexandria Ocasio-Cortez",
-    "initials": "AOC",
-    "role": "House Financial Services Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#93c5fd"
-    },
-    "severity": "high",
-    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nitter.meowing.monster/AOC/status/2085006319220625569#m",
-    "published_iso": "2026-08-05T14:13:38+00:00",
-    "time_ago": "60d ago"
+    "time_ago": "59d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -873,7 +875,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "73d ago"
+    "time_ago": "74d ago"
   },
   {
     "id": "de38f5381391",
@@ -894,7 +896,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "74d ago"
+    "time_ago": "75d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -938,7 +940,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "76d ago"
+    "time_ago": "77d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -959,7 +961,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "146d ago"
+    "time_ago": "147d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -985,7 +987,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "152d ago"
+    "time_ago": "153d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1007,7 +1009,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "160d ago"
+    "time_ago": "161d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1031,7 +1033,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "188d ago"
+    "time_ago": "189d ago"
   },
   {
     "id": "432e035b915b",
@@ -1050,7 +1052,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "193d ago"
+    "time_ago": "194d ago"
   },
   {
     "id": "00f579ee8f55",
@@ -1071,7 +1073,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "233d ago"
+    "time_ago": "234d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1090,7 +1092,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "233d ago"
+    "time_ago": "234d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1116,7 +1118,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "255d ago"
+    "time_ago": "256d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1135,6 +1137,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "292d ago"
+    "time_ago": "293d ago"
   }
 ]
