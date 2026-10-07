@@ -1,5 +1,142 @@
 [
   {
+    "id": "60ce1f9ab96d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Blunden Craig G withheld (tax) 1,861 shares of Provident Financial Holdings Inc (PROV) \u00b7 $13.24/share \u00b7 $24,640 total \u00b7 Oct 7",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "PROV"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1180894/000093905726000270/0000939057-26-000270-index.htm",
+    "published_iso": "2026-10-07T16:36:49+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "a00fb98e06ee",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "low",
+    "content": "10- and 30-year bond yields trading at 24-year highs. The 10- and 30-year U.S. Treasury bond yields hit 24-year highs during Wednesday morning trading, as the market sell-off persists. The 10-year note topped 5.36 percent earlier in the day, the highest mark since April 2002. That month, the 10-year bond yield reached ",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/6133948-us-treasury-yields-hit-24-year-highs/",
+    "published_iso": "2026-10-07T16:27:42+00:00",
+    "time_ago": "12m ago"
+  },
+  {
+    "id": "c8f6e86fe388",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Most say Trump, Congress not taking AI risk seriously: Survey. Most U.S. voters want more safeguards on artificial intelligence and think the federal government has fallen short in confronting the powerful technology\u2019s risks, according to a new poll. In a Reuters/Ipsos survey released Wednesday, 57 percent of responden",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/6133962-voters-artificial-intelligence-federal-government-regulation-poll/",
+    "published_iso": "2026-10-07T16:14:12+00:00",
+    "time_ago": "26m ago"
+  },
+  {
+    "id": "b9dabd034016",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Supreme Court wrestles with Boulder\u2019s climate lawsuit against fossil fuel companies. The Supreme Court started its new term with a bang this week: Can Boulder, Colo., sue fossil fuel producers for billions in state court over climate change? But the oral arguments left the justices tussling with no clear resolution. Le",
+    "tags": [
+      "Energy",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "XOM",
+      "FSLR",
+      "ENPH",
+      "XLE"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/6133666-supreme-court-first-week-climate-lawsuit-colorado-live-discussion/",
+    "published_iso": "2026-10-07T16:00:00+00:00",
+    "time_ago": "40m ago"
+  },
+  {
+    "id": "afccdf1d6bc1",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Sand holds 12-point lead over Lahn for Iowa governor while Hinson trails Turek in Senate race: Poll. The Democratic candidates for Senate and governor in Iowa are leading in their races, according to a new poll. In the Suffolk University poll, 48 percent of respondents said Democratic Senate candidate Josh Turek was th",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/6133817-iowa-democrats-lead-polls/",
+    "published_iso": "2026-10-07T15:49:07+00:00",
+    "time_ago": "51m ago"
+  },
+  {
+    "id": "a814dc8d4382",
+    "politician": "Politico",
+    "initials": "PO",
+    "role": "Political News",
+    "color": {
+      "bg": "#1a0a0a",
+      "fg": "#fca5a5"
+    },
+    "severity": "medium",
+    "content": "Michigan\u2019s Mike Rogers says trade war with Canada needs to end. Weeks after he called for an end to the war with Iran, the GOP Senate candidate is breaking with the Trump administration again",
+    "tags": [
+      "Trade",
+      "Sanctions"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "politico",
+    "platform": "Politico",
+    "url": "https://www.politico.com/news/2026/10/07/mike-rogers-canada-trade-war-01109815",
+    "published_iso": "2026-10-07T15:18:30+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "b60bdc150efe",
     "politician": "Federal Register",
     "initials": "FR",
@@ -16,7 +153,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20522/safety-zone-luminsea-miami-shootout-and-races-miami-marine-stadium-harbor-miami-fl",
     "published_iso": "2026-10-07T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "5f6d70561112",
@@ -37,7 +174,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20520/security-zone-us-coast-guard-base-los-angeles-harbor-main-channel-los-angeles-ca",
     "published_iso": "2026-10-07T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "e82d430cd8b1",
@@ -59,7 +196,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20517/energy-conservation-program-test-procedures-for-commercial-warm-air-furnaces",
     "published_iso": "2026-10-07T04:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "e979fc7bb76f",
@@ -86,259 +223,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20512/purchaser-credit-on-timber-sale-contracts",
     "published_iso": "2026-10-07T04:00:00+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "54237de303e3",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Sparks fly in first Iowa governor\u2019s debate: 5 takeaways. Accusations of carpetbagging, attacks over family wealth and barbs over culture war issues dominated the first televised debate between Republican Zach Lahn and Democrat Rob Sand as the two vie to replace retiring Gov. Kim Reynolds (R) next month.  Lahn and Sand ",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/6133056-iowa-governor-debate-lahn-sand/",
-    "published_iso": "2026-10-07T03:22:18+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "add3461a4e4f",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Gic Private Ltd sold 2,570,999 shares of Medline Inc. (MDLN) \u00b7 $35.35/share \u00b7 $90,884,815 total \u00b7 Oct 6 ($721,644,227 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "MDLN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2046386/000119312526416053/0001193125-26-416053-index.htm",
-    "published_iso": "2026-10-07T01:48:19+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "3d4df56f9523",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Collins, Jackson clash in first Maine Senate debate: 4 takeaways. Republican Sen. Susan Collins and Democrat Troy Jackson faced off Tuesday in the first debate of their neck-and-neck Senate race in Maine.  A rare Republican to win statewide in blue-leaning Maine, five-term Collins used the debate stage to spotlight tim",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/6132984-maine-senate-debate-collins-jackson/",
-    "published_iso": "2026-10-07T01:34:17+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "cb549e3e391c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Molino Ayesha Khanna exercised options for 1,699 shares of Mgm Resorts International (MGM) \u00b7 Oct 6 ($77,572 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "MGM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2101319/000078957026000087/0000789570-26-000087-index.htm",
-    "published_iso": "2026-10-07T01:30:09+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "7e3480cd4be7",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Meinert Todd exercised options for 1,155 shares of Mgm Resorts International (MGM) \u00b7 Oct 6 ($47,396 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "MGM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1832044/000078957026000086/0000789570-26-000086-index.htm",
-    "published_iso": "2026-10-07T01:17:00+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "093bac478b1f",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Sarnoff Dafna received 5,911 shares of Cargurus, Inc. (CARG) \u00b7 Oct 6",
-    "tags": [],
-    "tickers": [
-      "CARG"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1897130/000149425926000078/0001494259-26-000078-index.htm",
-    "published_iso": "2026-10-07T01:14:23+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "fecc6b601f16",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Quinn Matthew Todd received 5,911 shares of Cargurus, Inc. (CARG) \u00b7 Oct 6",
-    "tags": [],
-    "tickers": [
-      "CARG"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1899207/000149425926000077/0001494259-26-000077-index.htm",
-    "published_iso": "2026-10-07T01:13:29+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "6abb03d5ce37",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Jolley David R sold 12,845 shares of Huckleberry.Ai, Inc. (HUCK) \u00b7 $3.20/share \u00b7 $41,063 total \u00b7 Oct 6",
-    "tags": [],
-    "tickers": [
-      "HUCK"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1972400/000162828026065279/0001628280-26-065279-index.htm",
-    "published_iso": "2026-10-07T01:12:44+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "ad9e37b2b0f2",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Jiao Zhenlong received 6,995 shares of Bili Social International, Inc. (BSCL) \u00b7 Oct 6",
-    "tags": [],
-    "tickers": [
-      "BSCL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2113416/000168316826007672/0001683168-26-007672-index.htm",
-    "published_iso": "2026-10-07T01:07:17+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "a748330aad5c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Fotheringham Robert Martin received 6,995 shares of Bili Social International, Inc. (BSCL) \u00b7 Oct 6",
-    "tags": [],
-    "tickers": [
-      "BSCL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2109255/000168316826007671/0001683168-26-007671-index.htm",
-    "published_iso": "2026-10-07T01:06:48+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "138a8f1907cf",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Mcmanus John exercised options for 6,116 shares of Mgm Resorts International (MGM) \u00b7 Oct 6 ($344,211 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "MGM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1440053/000078957026000085/0000789570-26-000085-index.htm",
-    "published_iso": "2026-10-07T01:06:46+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "a61688d2aba3",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Trump says Reflecting Pool repairs are near complete, refill to come 'this week'. President Trump said Tuesday repairs to the Lincoln Memorial Reflecting Pool are close to complete and should be refilled with water \"this week,\" but still touted unfounded claims of vandalism. \"I think they're going to fill it up this we",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6132811-trump-lincoln-memorial-pool-repairs/",
-    "published_iso": "2026-10-06T23:12:17+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "4ab5e3becd74",
@@ -357,34 +242,9 @@
     "tickers": [],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "http://shitter.thepixora.com/SpeakerJohnson/status/2107603201885171849#m",
+    "url": "https://nitter.kareem.one/SpeakerJohnson/status/2107603201885171849#m",
     "published_iso": "2026-10-06T22:45:35+00:00",
-    "time_ago": "10h ago"
-  },
-  {
-    "id": "27d09ec15a00",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "We can\u2019t stop at Medicare for All. We need investment in: \n \n\u2705Community clinics \n\u2705Federal qualified healthcare centers in schools with mental healthcare \n\u2705More rural hospitals \n \nThis will save lives and save money. \n \n Video",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.kareem.one/RoKhanna/status/2107577666702377067#m",
-    "published_iso": "2026-10-06T21:04:07+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "a0e7f624ee22",
@@ -406,7 +266,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-german-american-day/",
     "published_iso": "2026-10-06T20:43:50+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "5708513342a9",
@@ -427,26 +287,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/what-they-are-saying-president-trump-delivers-immediate-diesel-relief-saving-americans-up-to-100-per-fill/",
     "published_iso": "2026-10-06T16:22:32+00:00",
-    "time_ago": "16h ago"
-  },
-  {
-    "id": "d6d90f643e1c",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "high",
-    "content": "Sen. Elizabeth Warren is asking federal regulators to scrutinize three proposed food-industry deals involving Kroger, Sysco, and McCormick.  foodandwine.com/elizabeth-wa\u2026  \n \n Link  \n \n \n \n Could 3 Major Food Mergers Push Food Prices Higher? Elizabeth Warren Wants Regulators to Take a... \n \n Sen. Elizabeth Warren is as",
-    "tags": [],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://shitter.thepixora.com/foodandwine/status/2107501152556265728#m",
-    "published_iso": "2026-10-06T16:00:04+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "cf1ec4b04e74",
@@ -623,53 +464,6 @@
     "time_ago": "1d ago"
   },
   {
-    "id": "a544f0dbf161",
-    "politician": "Rep. Mike Johnson",
-    "initials": "MJ",
-    "role": "Speaker of the House",
-    "color": {
-      "bg": "#2a1a1a",
-      "fg": "#fbbf24"
-    },
-    "severity": "critical",
-    "content": "60 million American children now have tax-advantaged investment accounts ready to be claimed to help them unlock their American Dream.  \n \nRepublicans created these historic Accounts through the Working Families Tax Cuts to help set families up for success. \n \nDemocrats voted AGAINST this! \n \n \n Treasury Secretary Scot",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://shitter.thepixora.com/SpeakerJohnson/status/2107111607025143866#m",
-    "published_iso": "2026-10-05T14:12:10+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "fba941a53e33",
-    "politician": "Rep. Nancy Pelosi",
-    "initials": "NP",
-    "role": "House Democratic Leader",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "Working Families First. Working Families First \n\n               Costly Cuts  This week, new provisions of President Trump\u2019s Big Ugly Bill took effect, changing eligibility for SNAP and Medicaid while shifting higher administrative costs onto states. These changes threaten the food assistance and health care that millio",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "http://pelosi.house.gov/news/pelosi-update/working-families-first",
-    "published_iso": "2026-10-03T21:13:42+00:00",
-    "time_ago": "3d ago"
-  },
-  {
     "id": "1fde1e9fa366",
     "politician": "Donald Trump",
     "initials": "DT",
@@ -690,9 +484,9 @@
     ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "http://nitter.pp.ua/realDonaldTrump/status/2106398735953502297#m",
+    "url": "https://nitter.kareem.one/realDonaldTrump/status/2106398735953502297#m",
     "published_iso": "2026-10-03T14:59:28+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "5e3b0046d1b7",
@@ -792,7 +586,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
     "published_iso": "2026-10-02T15:00:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "fdca64178427",
@@ -811,30 +605,6 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s256?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-10-01T01:29:00+00:00",
-    "time_ago": "6d ago"
-  },
-  {
-    "id": "31f3d74aaa9f",
-    "politician": "U.S. Trade Rep.",
-    "initials": "USTR",
-    "role": "Office of the U.S. Trade Representative",
-    "color": {
-      "bg": "#1a0a1a",
-      "fg": "#d8b4fe"
-    },
-    "severity": "critical",
-    "content": "Ambassador Greer Delivers Opening Remarks at the 2026 G20 Trade Ministerial. Ambassador Greer Delivers Opening Remarks at the 2026 G20 Trade Ministerial \n  pbrouillette  \n  Wed, 09/30/2026 - 20:42 \n \n\n               MILWAUKEE  \u2014 Today, Ambassador Jamieson Greer delivered opening remarks at the G20 Trade Ministerial as ",
-    "tags": [
-      "Trade",
-      "Energy",
-      "Defense",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "ustr",
-    "platform": "USTR",
-    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ambassador-greer-delivers-opening-remarks-2026-g20-trade-ministerial",
-    "published_iso": "2026-10-01T00:42:14+00:00",
     "time_ago": "6d ago"
   },
   {
@@ -892,7 +662,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s253?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-30T15:58:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "3889d7d35954",
@@ -918,7 +688,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
     "published_iso": "2026-09-30T13:00:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "91ed35d06185",
@@ -1161,28 +931,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "60d ago"
-  },
-  {
-    "id": "1a1d646c1e56",
-    "politician": "Rep. Alexandria Ocasio-Cortez",
-    "initials": "AOC",
-    "role": "House Financial Services Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#93c5fd"
-    },
-    "severity": "high",
-    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://shitter.thepixora.com/AOC/status/2085006319220625569#m",
-    "published_iso": "2026-08-05T14:13:38+00:00",
-    "time_ago": "62d ago"
+    "time_ago": "61d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -1211,7 +960,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "75d ago"
+    "time_ago": "76d ago"
   },
   {
     "id": "de38f5381391",
@@ -1254,7 +1003,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "76d ago"
+    "time_ago": "77d ago"
   },
   {
     "id": "555d7f3dd315",
@@ -1297,7 +1046,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "148d ago"
+    "time_ago": "149d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1323,7 +1072,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "154d ago"
+    "time_ago": "155d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1345,7 +1094,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "162d ago"
+    "time_ago": "163d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1369,7 +1118,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "190d ago"
+    "time_ago": "191d ago"
   },
   {
     "id": "432e035b915b",
@@ -1409,7 +1158,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "235d ago"
+    "time_ago": "236d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1428,7 +1177,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "235d ago"
+    "time_ago": "236d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1473,6 +1222,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "294d ago"
+    "time_ago": "295d ago"
   }
 ]
