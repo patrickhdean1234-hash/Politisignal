@@ -1,6 +1,6 @@
 [
   {
-    "id": "e0f63364cb01",
+    "id": "64a33c512a9d",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Riker Lauren exercised options for 6,000 shares of Pacira Biosciences, Inc. (PCRX) \u00b7 $32.35/share \u00b7 $194,100 total \u00b7 Oct 9 ($412,020 across all blocks)",
+    "content": "Friedman Brian P gifted 100 shares of Jefferies Financial Group Inc. (JEF) \u00b7 Oct 9",
     "tags": [],
     "tickers": [
-      "PCRX"
+      "JEF"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1545439/000162828026065566/0001628280-26-065566-index.htm",
-    "published_iso": "2026-10-09T23:07:49+00:00",
-    "time_ago": "1m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1275002/000121465926012761/0001214659-26-012761-index.htm",
+    "published_iso": "2026-10-10T01:56:14+00:00",
+    "time_ago": "22m ago"
   },
   {
-    "id": "0a610df52ac9",
+    "id": "ec792b5a34e4",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,148 +30,207 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Gasper Trevor Q. withheld (tax) 374 shares of Thor Industries Inc (THO) \u00b7 $65.84/share \u00b7 $24,624 total \u00b7 Oct 9 ($106,068 across all blocks)",
+    "content": "Cohen Scot received 1,655 shares of Wrap Technologies, Inc. (WRAP) \u00b7 Oct 9 ($0 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "WRAP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1702924/000149315226046649/0001493152-26-046649-index.htm",
+    "published_iso": "2026-10-10T01:30:11+00:00",
+    "time_ago": "48m ago"
+  },
+  {
+    "id": "555987343cb5",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Shulman John D received 21,154 shares of Wrap Technologies, Inc. (WRAP) \u00b7 Oct 9",
+    "tags": [],
+    "tickers": [
+      "WRAP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1702924/000149315226046650/0001493152-26-046650-index.htm",
+    "published_iso": "2026-10-10T01:30:09+00:00",
+    "time_ago": "48m ago"
+  },
+  {
+    "id": "a0b992d9623f",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Golden Robert Lawrence received 10,000 shares of Onemednet Corp (ONMDW) \u00b7 Oct 9 ($55,290 across all blocks)",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [
+      "ONMDW"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1849380/000149315226046648/0001493152-26-046648-index.htm",
+    "published_iso": "2026-10-10T01:30:08+00:00",
+    "time_ago": "48m ago"
+  },
+  {
+    "id": "23c7213fd6a6",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Szymanski Timothy received 21,154 shares of Wrap Technologies, Inc. (WRAP) \u00b7 Oct 9",
+    "tags": [],
+    "tickers": [
+      "WRAP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1997862/000149315226046647/0001493152-26-046647-index.htm",
+    "published_iso": "2026-10-10T01:30:06+00:00",
+    "time_ago": "48m ago"
+  },
+  {
+    "id": "a249031eb5d5",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Green Aaron received 65,000 shares of Onemednet Corp (ONMDW) \u00b7 Oct 9 ($47,762 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "ONMDW"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1990275/000149315226046652/0001493152-26-046652-index.htm",
+    "published_iso": "2026-10-10T01:30:05+00:00",
+    "time_ago": "48m ago"
+  },
+  {
+    "id": "4f9a1fdab847",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Savas Marc received 21,154 shares of Wrap Technologies, Inc. (WRAP) \u00b7 Oct 9",
+    "tags": [],
+    "tickers": [
+      "WRAP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1702924/000149315226046646/0001493152-26-046646-index.htm",
+    "published_iso": "2026-10-10T01:30:05+00:00",
+    "time_ago": "48m ago"
+  },
+  {
+    "id": "aa7fb2803bd9",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Srinivasan Rajiv received 21,154 shares of Wrap Technologies, Inc. (WRAP) \u00b7 Oct 9",
+    "tags": [],
+    "tickers": [
+      "WRAP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1997738/000149315226046651/0001493152-26-046651-index.htm",
+    "published_iso": "2026-10-10T01:30:04+00:00",
+    "time_ago": "48m ago"
+  },
+  {
+    "id": "c42b81b5dc0e",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Bernstein Bruce received 21,154 shares of Wrap Technologies, Inc. (WRAP) \u00b7 Oct 9",
+    "tags": [],
+    "tickers": [
+      "WRAP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1702924/000149315226046645/0001493152-26-046645-index.htm",
+    "published_iso": "2026-10-10T01:30:03+00:00",
+    "time_ago": "48m ago"
+  },
+  {
+    "id": "1012c6a6ae67",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Rabinowitz Matthew gifted 6,000 shares of Natera, Inc. (NTRA) \u00b7 Oct 9",
+    "tags": [],
+    "tickers": [
+      "NTRA"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1646382/000164638226000022/0001646382-26-000022-index.htm",
+    "published_iso": "2026-10-10T01:25:05+00:00",
+    "time_ago": "53m ago"
+  },
+  {
+    "id": "c714f35ed9f3",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "Presidential Message on Leif Erikson Day. Half a millennium before legendary American hero Christopher Columbus set foot in the New World, Norse explorer Leif Erikson made history as the first European to arrive on the North American continent.&#160; This Leif Erikson Day, we celebrate his exceptional legacy of bravery",
     "tags": [
       "Taxes"
     ],
-    "tickers": [
-      "THO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1898481/000189848126000003/0001898481-26-000003-index.htm",
-    "published_iso": "2026-10-09T23:05:16+00:00",
-    "time_ago": "3m ago"
-  },
-  {
-    "id": "2cc8161cf754",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Zuhl Colleen A withheld (tax) 1,561 shares of Thor Industries Inc (THO) \u00b7 $65.84/share \u00b7 $102,776 total \u00b7 Oct 9 ($340,985 across all blocks)",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "THO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1286185/000128618526000002/0001286185-26-000002-index.htm",
-    "published_iso": "2026-10-09T23:04:24+00:00",
-    "time_ago": "4m ago"
-  },
-  {
-    "id": "4d8727c08cd3",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Rezvan Mitra sold 1,168 shares of Sailpoint, Inc. (SAIL) \u00b7 $20.00/share \u00b7 $23,360 total \u00b7 Oct 9",
-    "tags": [],
-    "tickers": [
-      "SAIL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2030781/000191724626000014/0001917246-26-000014-index.htm",
-    "published_iso": "2026-10-09T23:03:45+00:00",
-    "time_ago": "5m ago"
-  },
-  {
-    "id": "8abe7db0953d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Biren Ryan Aaron withheld (tax) 251 shares of Thor Industries Inc (THO) \u00b7 $65.84/share \u00b7 $16,526 total \u00b7 Oct 9 ($33,513 across all blocks)",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "THO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2111902/000211190226000005/0002111902-26-000005-index.htm",
-    "published_iso": "2026-10-09T23:03:40+00:00",
-    "time_ago": "5m ago"
-  },
-  {
-    "id": "9fc517792270",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Bastion Trading Ltd bought 44,000 shares of Skyai, Inc. (SKYAW) \u00b7 $1.78/share \u00b7 $78,263 total \u00b7 Oct 9",
-    "tags": [],
-    "tickers": [
-      "SKYAW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2106951/000092189526002775/0000921895-26-002775-index.htm",
-    "published_iso": "2026-10-09T22:59:09+00:00",
-    "time_ago": "10m ago"
-  },
-  {
-    "id": "0ab54f3458f4",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Shah Neil B. exercised options for 20,000 shares of Sharkninja, Inc. (SN) \u00b7 Oct 9 ($1,788,757 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "SN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1987603/000090883426000495/0000908834-26-000495-index.htm",
-    "published_iso": "2026-10-09T22:57:38+00:00",
-    "time_ago": "11m ago"
-  },
-  {
-    "id": "4fdef00ca586",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Barrocas Mark exercised options for 100,000 shares of Sharkninja, Inc. (SN) \u00b7 Oct 9 ($7,278,963 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "SN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1987144/000090883426000494/0000908834-26-000494-index.htm",
-    "published_iso": "2026-10-09T22:55:40+00:00",
-    "time_ago": "13m ago"
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-leif-erikson-day/",
+    "published_iso": "2026-10-09T23:48:59+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "d5ccde37facb",
@@ -198,7 +257,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/newsletters/energy-environment/6140010-trump-says-russia-will-export-diesel-lifts-sanctions/",
     "published_iso": "2026-10-09T22:23:19+00:00",
-    "time_ago": "45m ago"
+    "time_ago": "3h ago"
   },
   {
     "id": "c13553974327",
@@ -210,7 +269,7 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Trump offers first remarks on Guilfoyle controversy. President Trump on Friday reacted to revelations that his ambassador to Greece, Kimberly Guilfoyle, privately solicited cash to pay down her debts ahead of her confirmation hearing, calling the situation \u201ctoo bad.\u201d\u00a0 The president spoke to reporters outside the White ",
+    "content": "Trump offers first remarks on Guilfoyle controversy. President Trump on Friday reacted to revelations that his ambassador to Greece, Kimberly Guilfoyle, privately solicited cash to pay down her debts ahead of her confirmation hearing, calling the situation \u201ctoo bad.\u201d  The president spoke to reporters outside the White ",
     "tags": [
       "Taxes"
     ],
@@ -219,7 +278,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/administration/6139973-trump-guilfoyle-debt-controversy/",
     "published_iso": "2026-10-09T21:47:54+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "fffcc02c1c16",
@@ -242,7 +301,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-tour-utahs-advanced-manufacturing-plants",
     "published_iso": "2026-10-09T18:45:18+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "a8c31d31bde8",
@@ -267,30 +326,9 @@
     ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "http://nitter.pp.ua/SenWarren/status/2108577993694007345#m",
+    "url": "https://nitter.kareem.one/SenWarren/status/2108577993694007345#m",
     "published_iso": "2026-10-09T15:19:03+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "ae77ea61cfff",
-    "politician": "Rep. Mike Johnson",
-    "initials": "MJ",
-    "role": "Speaker of the House",
-    "color": {
-      "bg": "#2a1a1a",
-      "fg": "#fbbf24"
-    },
-    "severity": "critical",
-    "content": "Republicans' Working Families Tax Cuts delivered an HISTORIC expansion of education opportunity by providing families with affordable education options, including new scholarship opportunities. \n \nBeginning January 1, 2027, the Education Freedom Tax Credit will help more families choose the education that best fits the",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://shitter.thepixora.com/SpeakerJohnson/status/2108564954689179796#m",
-    "published_iso": "2026-10-09T14:27:15+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "1adf28d01f2a",
@@ -316,7 +354,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
     "published_iso": "2026-10-09T14:00:00+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "7ebee859a510",
@@ -335,7 +373,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/09/C1-2026-20019/fisheries-of-the-exclusive-economic-zone-off-alaska-groundfish-reserves-in-the-bering-sea-and",
     "published_iso": "2026-10-09T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "54385d53fe58",
@@ -361,7 +399,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20792/raisins-produced-from-grapes-grown-in-california-order-amending-marketing-order-no-989",
     "published_iso": "2026-10-09T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "4513ce0187fd",
@@ -382,7 +420,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20757/schedules-of-controlled-substances-removal-of-exemption-status-for-inactive-butalbital-products",
     "published_iso": "2026-10-09T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "9297e031dcda",
@@ -403,7 +441,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20748/schedules-of-controlled-substances-placement-of-o-desmethyltramadol-in-schedule-i-correction",
     "published_iso": "2026-10-09T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "bf14079c9a3d",
@@ -424,7 +462,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20736/air-plan-approval-michigan-clean-data-determination-for-the-berrien-mi-and-muskegon-mi-areas-for-the",
     "published_iso": "2026-10-09T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "eb27224a8f6d",
@@ -445,7 +483,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20727/medical-devices-immunology-and-microbiology-devices-classification-of-the-system-for-detection-of",
     "published_iso": "2026-10-09T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "8432f753618d",
@@ -466,7 +504,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20726/medical-devices-cardiovascular-devices-classification-of-the-infant-pulse-rate-and-oxygen-saturation",
     "published_iso": "2026-10-09T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "921d4bf506be",
@@ -487,7 +525,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20725/medical-devices-immunology-and-microbiology-devices-classification-of-the-hematopoietic-cell",
     "published_iso": "2026-10-09T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "33bebbe8b037",
@@ -536,29 +574,6 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
     "published_iso": "2026-10-08T20:30:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "2b83b96b40e1",
-    "politician": "Rep. Mike Johnson",
-    "initials": "MJ",
-    "role": "Speaker of the House",
-    "color": {
-      "bg": "#2a1a1a",
-      "fg": "#fbbf24"
-    },
-    "severity": "critical",
-    "content": "We don\u2019t have to guess what Democrats would do if they regain power in Washington. They've already SHOWN US: \n \n\u27a1\ufe0f Open our borders to criminals \n\u27a1\ufe0f Enact the largest tax HIKE in HISTORY \n\u27a1\ufe0f Defund law enforcement \n\u27a1\ufe0f Allow rampant fraud \n\u27a1\ufe0f Stop U.S. energy production \n\u27a1\ufe0f Give free government benefits for illegal alie",
-    "tags": [
-      "Energy",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://shitter.thepixora.com/SpeakerJohnson/status/2108264878649561409#m",
-    "published_iso": "2026-10-08T18:34:51+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -657,31 +672,6 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/news/pelosi-update/working-families-first",
     "published_iso": "2026-10-03T21:13:42+00:00",
-    "time_ago": "6d ago"
-  },
-  {
-    "id": "1fde1e9fa366",
-    "politician": "Donald Trump",
-    "initials": "DT",
-    "role": "President of the United States",
-    "color": {
-      "bg": "#3b1818",
-      "fg": "#f87171"
-    },
-    "severity": "medium",
-    "content": "Medicare Improvement Fund! \n \n Video",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.kareem.one/realDonaldTrump/status/2106398735953502297#m",
-    "published_iso": "2026-10-03T14:59:28+00:00",
     "time_ago": "6d ago"
   },
   {
@@ -801,7 +791,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s256?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-10-01T01:29:00+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "16b23634afa2",
@@ -950,7 +940,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s250?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-29T01:42:00+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "5bd470197f65",
@@ -969,7 +959,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s249?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-29T01:21:00+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "f5506a3890fe",
