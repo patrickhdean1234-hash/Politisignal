@@ -123,7 +123,28 @@
     "time_ago": "just now"
   },
   {
-    "id": "eb83b10dbc30",
+    "id": "5ffad499424d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "low",
+    "content": "Trump calls Omar 'totally crooked' in first remarks on raid. President Trump called Rep. Ilhan Omar (D-Minn.) \u201ctotally crooked\u201d in his first remarks since federal agents searched her home as part of ongoing criminal investigations. \u201cWell, I understand they're looking at her very carefully,\u201d he told reporters before dep",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6144098-trump-calls-omar-totally-crooked-in-first-remarks-on-raid/",
+    "published_iso": "2026-10-12T21:45:58+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "f260ea89530b",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -132,25 +153,21 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Omar lands in Trump administration\u2019s crosshairs. Plus: \ud83d\udca5Russia diesel deal sparks scrutiny {beacon} &#8202; It\u2019s Monday. And with all the news so far today, it certainly feels like we\u2019re in the middle of a roughly three-week sprint until Election Day. Let\u2019s get right to it. &#8202; In today's issue: Omar investigation ",
+    "content": "Trump says he's 'looking at' firing Guilfoyle. President Trump confirmed reports that he is considering firing Kimberly Guilfoyle, the U.S. ambassador to Greece, amid misconduct allegations. \u201cWell, we\u2019re looking at it. Yeah, we\u2019re not happy,\u201d Trump told The Hill when speaking with reporters Monday on the White House So",
     "tags": [
-      "Energy",
-      "Taxes",
-      "Sanctions"
+      "Banking",
+      "Regulation",
+      "Taxes"
     ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/1230-report/6143232-ilhan-omar-donald-trump-dc-raid-russia-ukraine-diesel-midterms/",
-    "published_iso": "2026-10-12T16:40:00+00:00",
-    "time_ago": "21m ago"
+    "url": "https://thehill.com/homenews/administration/6144067-trump-guilfoyle-firing-misconduct-reports/",
+    "published_iso": "2026-10-12T21:39:56+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "f75d93793dd0",
+    "id": "f2fb6a01da07",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -159,18 +176,75 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Microsoft president: AI faces fewer safety requirements than milk, washing machines. Microsoft President Brad Smith says AI has fewer safety requirements than milk and washing machines, arguing in a BBC interview released Sunday that self-regulation is not \"sufficient any longer.\" Smith acknowledged that the idea of go",
+    "content": "Oil prices spike after Houthi attacks on Saudi airports. Oil prices rose Monday, after the Iranian-backed Houthis launched attacks on two airports in Saudi Arabia over the weekend. Brent Crude, the international benchmark, closed at nearly $106 per barrel as of late Monday afternoon, up roughly $1.20 from closing time ",
     "tags": [
-      "Regulation"
+      "Energy",
+      "Sanctions"
     ],
     "tickers": [
-      "MSFT"
+      "XOM",
+      "CVX",
+      "COP",
+      "OXY"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/6142987-microsoft-president-ai-faces-fewer-safety-requirements-than-milk-washing-machines/",
-    "published_iso": "2026-10-12T15:43:53+00:00",
-    "time_ago": "1h ago"
+    "url": "https://thehill.com/policy/energy-environment/6143892-trump-russian-diesel-supply-deal/",
+    "published_iso": "2026-10-12T21:30:28+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "b5d648c4c82b",
+    "politician": "Rep. Mike Johnson",
+    "initials": "MJ",
+    "role": "Speaker of the House",
+    "color": {
+      "bg": "#2a1a1a",
+      "fg": "#fbbf24"
+    },
+    "severity": "critical",
+    "content": "Thanks to the Working Families Tax Cuts, Louisiana will receive a HISTORIC investment of an additional $37.7 million to train and recruit more rural healthcare providers across the state. \n \n*Remember: Every Democrat opposed this investment in rural health. \n \n \n Dr. Oz CMS (@DrOzCMS) \n \n $37.7 MILLION in Rural Health ",
+    "tags": [
+      "Healthcare",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.kareem.one/SpeakerJohnson/status/2109388869493768423#m",
+    "published_iso": "2026-10-11T21:01:11+00:00",
+    "time_ago": "1d ago"
+  },
+  {
+    "id": "8279cedc4073",
+    "politician": "Rep. Mike Johnson",
+    "initials": "MJ",
+    "role": "Speaker of the House",
+    "color": {
+      "bg": "#2a1a1a",
+      "fg": "#fbbf24"
+    },
+    "severity": "medium",
+    "content": "Bidenomics caused the highest inflation in 40 years, and we can never let the Democrats try that again.  \n \nIf Democrats took the House majority, they would quickly make life even more expensive for hardworking American families. \n \n \n Treasury Secretary Scott Bessent (@SecScottBessent) \n \n Another day, another Econ 10",
+    "tags": [
+      "Big Tech",
+      "Defense"
+    ],
+    "tickers": [
+      "GLD",
+      "TLT",
+      "SPY"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.kareem.one/SpeakerJohnson/status/2109066607741862231#m",
+    "published_iso": "2026-10-10T23:40:38+00:00",
+    "time_ago": "1d ago"
   },
   {
     "id": "64a33c512a9d",
@@ -426,7 +500,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-tour-utahs-advanced-manufacturing-plants",
     "published_iso": "2026-10-09T18:45:18+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "1adf28d01f2a",
@@ -475,7 +549,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
     "published_iso": "2026-10-08T20:30:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "ae07d7bc060b",
@@ -494,7 +568,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
     "published_iso": "2026-10-07T18:00:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "757a1bd60826",
@@ -520,7 +594,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
     "published_iso": "2026-10-05T20:30:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "fba941a53e33",
@@ -546,7 +620,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/news/pelosi-update/working-families-first",
     "published_iso": "2026-10-03T21:13:42+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "5e3b0046d1b7",
@@ -567,7 +641,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-commends-trade-ministers-signing-statement-eliminating-forced-labor-global-supply",
     "published_iso": "2026-10-02T20:54:52+00:00",
-    "time_ago": "9d ago"
+    "time_ago": "10d ago"
   },
   {
     "id": "16c86cf6bdf5",
@@ -593,7 +667,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
     "published_iso": "2026-10-02T20:45:00+00:00",
-    "time_ago": "9d ago"
+    "time_ago": "10d ago"
   },
   {
     "id": "8581e940fa48",
@@ -620,7 +694,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
     "published_iso": "2026-10-02T20:00:00+00:00",
-    "time_ago": "9d ago"
+    "time_ago": "10d ago"
   },
   {
     "id": "926f8341d303",
@@ -649,82 +723,6 @@
     "time_ago": "10d ago"
   },
   {
-    "id": "fdca64178427",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On the Nomination PN1129: Keith Sonderling, of Florida, to be Secretary of Labor. Vote: Nomination Confirmed 47/41",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s256?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-10-01T01:29:00+00:00",
-    "time_ago": "11d ago"
-  },
-  {
-    "id": "16b23634afa2",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "Motion to Invoke Cloture: Keith Sonderling to be Secretary of Labor: Keith Sonderling, of Florida, to be Secretary of Labor. Vote: Cloture Motion Agreed to 53/47",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s255?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-30T17:41:00+00:00",
-    "time_ago": "11d ago"
-  },
-  {
-    "id": "40e6f96f14b1",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "Motion to Invoke Cloture on the Motion to Proceed to H.R. 9340. Vote: Cloture on the Motion to Proceed Rejected 57/43",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s254?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-30T16:51:00+00:00",
-    "time_ago": "12d ago"
-  },
-  {
-    "id": "e19340ebcd34",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "Motion to Invoke Cloture on the Motion to Proceed: H.R. 7008. Vote: Cloture on the Motion to Proceed Rejected 53/47",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s253?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-30T15:58:00+00:00",
-    "time_ago": "12d ago"
-  },
-  {
     "id": "3889d7d35954",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -751,91 +749,6 @@
     "time_ago": "12d ago"
   },
   {
-    "id": "91ed35d06185",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On the Motion to Discharge S.Res. 852. Vote: Motion to Discharge Rejected 47/51",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s252?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-29T22:32:00+00:00",
-    "time_ago": "12d ago"
-  },
-  {
-    "id": "e8208c75bc4b",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "Motion to Proceed on S.J.Res. 197: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Centers for Medicare & Medicaid Services of the Department of Health and Human Services relating to \u201cPat. Vote: Motion to Proceed Rejected 48/51",
-    "tags": [
-      "Healthcare",
-      "Regulation"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s251?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-29T18:21:00+00:00",
-    "time_ago": "12d ago"
-  },
-  {
-    "id": "d1ee5f082ce7",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "critical",
-    "content": "S. 4668: Protect College Sports Act of 2026. Vote: Bill Passed 77/22",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s250?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-29T01:42:00+00:00",
-    "time_ago": "13d ago"
-  },
-  {
-    "id": "5bd470197f65",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "S.Amdt. 6835 (Booker) to S. 4668: To establish certain standards with respect to coaches of varsity sports teams.. Vote: Amendment Rejected 47/52",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s249?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-29T01:21:00+00:00",
-    "time_ago": "13d ago"
-  },
-  {
     "id": "f5506a3890fe",
     "politician": "Sen. Rand Paul",
     "initials": "RP",
@@ -855,7 +768,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-six-penny-plan-to-balance-the-federal-budget-in-five-years-3/",
     "published_iso": "2026-09-22T20:41:12+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "f5ef8bcafaa7",
@@ -884,7 +797,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-statement-on-democrats-killing-clarity-act/",
     "published_iso": "2026-09-15T20:22:32+00:00",
-    "time_ago": "26d ago"
+    "time_ago": "27d ago"
   },
   {
     "id": "baf26d52584e",
@@ -913,6 +826,27 @@
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
     "time_ago": "66d ago"
+  },
+  {
+    "id": "1a1d646c1e56",
+    "politician": "Rep. Alexandria Ocasio-Cortez",
+    "initials": "AOC",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#93c5fd"
+    },
+    "severity": "high",
+    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.kareem.one/AOC/status/2085006319220625569#m",
+    "published_iso": "2026-08-05T14:13:38+00:00",
+    "time_ago": "68d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -962,7 +896,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "81d ago"
+    "time_ago": "82d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -1006,7 +940,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "83d ago"
+    "time_ago": "84d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -1118,7 +1052,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "200d ago"
+    "time_ago": "201d ago"
   },
   {
     "id": "00f579ee8f55",
@@ -1184,7 +1118,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "262d ago"
+    "time_ago": "263d ago"
   },
   {
     "id": "d3ca74df7f0f",
