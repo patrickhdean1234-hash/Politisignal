@@ -1,6 +1,27 @@
 [
   {
-    "id": "72cc6f4e1ae9",
+    "id": "3b5fc2faa14b",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "high",
+    "content": "Lovisotto Fernando sold 12,533 shares of Vinci Compass Investments Ltd. (VINP) \u00b7 $11.34/share \u00b7 $142,124 total \u00b7 Oct 13 ($245,217 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "VINP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2028299/000095010326015537/0000950103-26-015537-index.htm",
+    "published_iso": "2026-10-13T22:46:27+00:00",
+    "time_ago": "9m ago"
+  },
+  {
+    "id": "0f0c7ee6592f",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,16 +30,83 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Magnani Alexandre Mr sold 300,000 shares of Pagseguro Digital Ltd. (PAGS) \u00b7 $10.95/share \u00b7 $3,285,000 total \u00b7 Oct 13 ($3,684,582 across all blocks)",
-    "tags": [],
+    "content": "Lynch Thomas P. exercised options for 8,000 shares of Billiontoone, Inc. (BLLN) \u00b7 $8.65/share \u00b7 $69,200 total \u00b7 Oct 13",
+    "tags": [
+      "Regulation"
+    ],
     "tickers": [
-      "PAGS"
+      "BLLN"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2120783/000155485526002109/0001554855-26-002109-index.htm",
-    "published_iso": "2026-10-13T18:08:25+00:00",
-    "time_ago": "10m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2070849/000207084926000071/0002070849-26-000071-index.htm",
+    "published_iso": "2026-10-13T22:39:45+00:00",
+    "time_ago": "15m ago"
+  },
+  {
+    "id": "490b0627c109",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Smith Dylan C sold 17,000 shares of Box Inc (BXCAP) \u00b7 $36.56/share \u00b7 $621,571 total \u00b7 Oct 13",
+    "tags": [],
+    "tickers": [
+      "BXCAP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1606410/000119312526420735/0001193125-26-420735-index.htm",
+    "published_iso": "2026-10-13T22:31:59+00:00",
+    "time_ago": "23m ago"
+  },
+  {
+    "id": "98a0e31dfdcf",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Marcus Joel S converted 41,871 shares of Trex Bio, Inc. (TRXB) \u00b7 Oct 13",
+    "tags": [],
+    "tickers": [
+      "TRXB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2139097/000119312526420734/0001193125-26-420734-index.htm",
+    "published_iso": "2026-10-13T22:31:34+00:00",
+    "time_ago": "24m ago"
+  },
+  {
+    "id": "99d69b8daa51",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Arrington Xrp Capital Fund, Lp disposed of 230,694 shares of Armada Acquisition Corp. Ii (XRPNW) \u00b7 Oct 13 ($0 across all blocks)",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "XRPNW"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2087115/000119312526420731/0001193125-26-420731-index.htm",
+    "published_iso": "2026-10-13T22:24:24+00:00",
+    "time_ago": "31m ago"
   },
   {
     "id": "229838d4b313",
@@ -37,7 +125,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
     "published_iso": "2026-10-13T18:00:00+00:00",
-    "time_ago": "19m ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "eca29623f8ce",
@@ -59,55 +147,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-visits-alaska-delivering-results-for-the-last-frontier/",
     "published_iso": "2026-10-13T17:47:35+00:00",
-    "time_ago": "31m ago"
-  },
-  {
-    "id": "12211a244e21",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "low",
-    "content": "Hillary Clinton launching podcast ahead of midterms. Former Secretary of State Hillary Clinton is launching a new podcast Wednesday focused on the final stretch of the midterm elections that will run through mid-November. Clinton will co-host \"High Stakes\" with tech journalist and former CNN host Kara Swisher, the form",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/media/6145787-clinton-swisher-launch-high-stakes-podcast/",
-    "published_iso": "2026-10-13T17:38:35+00:00",
-    "time_ago": "40m ago"
-  },
-  {
-    "id": "1ad80e273e6b",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "FTC: 'Pharma bro' Shkreli violated lifetime industry ban, should be held in contempt. The Federal Trade Commission (FTC) and a coalition of seven states asked a federal court on Tuesday to punish Martin Shkreli for \"flagrantly and repeatedly\u201d violating a lifetime ban from being involved in the pharmaceutical industry. ",
-    "tags": [
-      "Trade",
-      "Healthcare"
-    ],
-    "tickers": [
-      "LLY",
-      "PFE",
-      "JNJ",
-      "MRK"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/healthcare/6145783-ftc-shkreli-pharma-ban-violation/",
-    "published_iso": "2026-10-13T17:05:31+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "186a1d9fef9b",
@@ -128,7 +168,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-launches-2027-presidential-si-challenge-and-establishes-first-lady-seal-of-si-readiness/",
     "published_iso": "2026-10-13T16:36:32+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "4f9d3e506297",
@@ -149,28 +189,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mxrc4pkr3c2l",
     "published_iso": "2026-10-13T14:56:35.241000+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "c263735054c6",
-    "politician": "Rep. Mike Johnson",
-    "initials": "MJ",
-    "role": "Speaker of the House",
-    "color": {
-      "bg": "#2a1a1a",
-      "fg": "#fbbf24"
-    },
-    "severity": "critical",
-    "content": "In my home state of Louisiana, almost 68% of workers can benefit from No Tax on Overtime, and 700,000 senior citizens can benefit from No Tax on Social Security. \n \nRepublicans delivered this and so much more in our Working Families Tax Cuts. But EVERY single Democrat in Congress voted AGAINST this. \n \n Video",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.kareem.one/SpeakerJohnson/status/2110021258226098421#m",
-    "published_iso": "2026-10-13T14:54:04+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "e99530b1a57c",
@@ -189,7 +208,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20902/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary",
     "published_iso": "2026-10-13T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "4bda2604d1a4",
@@ -215,7 +234,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20890/project-level-predecisional-administrative-review-process",
     "published_iso": "2026-10-13T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "831c1c801dcd",
@@ -234,7 +253,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20889/fees-for-services-performed-in-connection-with-licensing-and-related-services-2026-update",
     "published_iso": "2026-10-13T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "da11fdbfb9b6",
@@ -255,7 +274,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20873/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery",
     "published_iso": "2026-10-13T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "6ebe6442fb4d",
@@ -274,7 +293,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20870/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pacific-cod-in-the-western",
     "published_iso": "2026-10-13T04:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "3fbd49fb083b",
@@ -293,84 +312,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20869/airworthiness-directives-rolls-royce-deutschland-ltd-and-co-kg-engines",
     "published_iso": "2026-10-13T04:00:00+00:00",
-    "time_ago": "14h ago"
-  },
-  {
-    "id": "8e101315fc1a",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Tax billionaires so they can't buy democracy. \n \nStand with  @BernieSanders  &amp; me &amp; support a 5% tax on California billionaires. \n \nNot with Newsom, Thiel &amp; Musk opposing it. \n \n \n Tommy Vietor (@TVietor08) \n \n Elon Musk is trying to buy the midterm elections. So far he has given $366 million for the 2025-2",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "TSLA"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nitter.meowing.monster/RoKhanna/status/2109767918753857686#m",
-    "published_iso": "2026-10-12T22:07:24+00:00",
-    "time_ago": "20h ago"
-  },
-  {
-    "id": "153f446906d8",
-    "politician": "Donald Trump",
-    "initials": "DT",
-    "role": "President of the United States",
-    "color": {
-      "bg": "#3b1818",
-      "fg": "#f87171"
-    },
-    "severity": "critical",
-    "content": "Video \n   \n \n\n  Community note:  Important context needed: Trump previously promised 2 dividends and never followed through.\n\nIn early 2025, Trump publicly backed a roughly $5,000 \u201cDOGE dividend\u201d \n\nIn November 2025, he promised a $2,000 \u201ctariff dividend\u201d \n\n newsweek.com/every-dividend\u2026",
-    "tags": [
-      "Trade"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.kareem.one/realDonaldTrump/status/2109670566408135106#m",
-    "published_iso": "2026-10-12T15:40:33+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "b5d648c4c82b",
-    "politician": "Rep. Mike Johnson",
-    "initials": "MJ",
-    "role": "Speaker of the House",
-    "color": {
-      "bg": "#2a1a1a",
-      "fg": "#fbbf24"
-    },
-    "severity": "critical",
-    "content": "Thanks to the Working Families Tax Cuts, Louisiana will receive a HISTORIC investment of an additional $37.7 million to train and recruit more rural healthcare providers across the state. \n \n*Remember: Every Democrat opposed this investment in rural health. \n \n \n Dr. Oz CMS (@DrOzCMS) \n \n $37.7 MILLION in Rural Health ",
-    "tags": [
-      "Healthcare",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.kareem.one/SpeakerJohnson/status/2109388869493768423#m",
-    "published_iso": "2026-10-11T21:01:11+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "c714f35ed9f3",
@@ -414,7 +356,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-tour-utahs-advanced-manufacturing-plants",
     "published_iso": "2026-10-09T18:45:18+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "1adf28d01f2a",
@@ -463,7 +405,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
     "published_iso": "2026-10-08T20:30:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "ae07d7bc060b",
@@ -508,7 +450,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
     "published_iso": "2026-10-05T20:30:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "fba941a53e33",
@@ -534,7 +476,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/news/pelosi-update/working-families-first",
     "published_iso": "2026-10-03T21:13:42+00:00",
-    "time_ago": "9d ago"
+    "time_ago": "10d ago"
   },
   {
     "id": "5e3b0046d1b7",
@@ -555,7 +497,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-commends-trade-ministers-signing-statement-eliminating-forced-labor-global-supply",
     "published_iso": "2026-10-02T20:54:52+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "16c86cf6bdf5",
@@ -581,7 +523,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
     "published_iso": "2026-10-02T20:45:00+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "8581e940fa48",
@@ -608,7 +550,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
     "published_iso": "2026-10-02T20:00:00+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "926f8341d303",
@@ -656,7 +598,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-six-penny-plan-to-balance-the-federal-budget-in-five-years-3/",
     "published_iso": "2026-09-22T20:41:12+00:00",
-    "time_ago": "20d ago"
+    "time_ago": "21d ago"
   },
   {
     "id": "f5ef8bcafaa7",
@@ -685,7 +627,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-statement-on-democrats-killing-clarity-act/",
     "published_iso": "2026-09-15T20:22:32+00:00",
-    "time_ago": "27d ago"
+    "time_ago": "28d ago"
   },
   {
     "id": "baf26d52584e",
@@ -763,7 +705,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "82d ago"
+    "time_ago": "83d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -807,7 +749,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "84d ago"
+    "time_ago": "85d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -919,7 +861,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "201d ago"
+    "time_ago": "202d ago"
   },
   {
     "id": "00f579ee8f55",
