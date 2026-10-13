@@ -1,6 +1,6 @@
 [
   {
-    "id": "6e314262a2ac",
+    "id": "72cc6f4e1ae9",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,58 +9,168 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Mulacek Phil E bought 14,508 shares of Empire Petroleum Corp (EP) \u00b7 $2.67/share \u00b7 $38,765 total \u00b7 Oct 13 ($68,068 across all blocks)",
+    "content": "Magnani Alexandre Mr sold 300,000 shares of Pagseguro Digital Ltd. (PAGS) \u00b7 $10.95/share \u00b7 $3,285,000 total \u00b7 Oct 13 ($3,684,582 across all blocks)",
     "tags": [],
     "tickers": [
-      "EP"
+      "PAGS"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1670677/000107261326000825/0001072613-26-000825-index.htm",
-    "published_iso": "2026-10-13T11:11:28+00:00",
-    "time_ago": "1m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2120783/000155485526002109/0001554855-26-002109-index.htm",
+    "published_iso": "2026-10-13T18:08:25+00:00",
+    "time_ago": "10m ago"
   },
   {
-    "id": "562167f98dfd",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "229838d4b313",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
     },
     "severity": "medium",
-    "content": "Zhao Bin bought 14,559 shares of Agora, Inc. (API) \u00b7 $3.98/share \u00b7 $58,013 total \u00b7 Oct 13 ($695,747 across all blocks)",
+    "content": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026. Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
     "tags": [],
-    "tickers": [
-      "API"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1843236/000119312526419691/0001193125-26-419691-index.htm",
-    "published_iso": "2026-10-13T11:06:33+00:00",
-    "time_ago": "6m ago"
+    "tickers": [],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+    "published_iso": "2026-10-13T18:00:00+00:00",
+    "time_ago": "19m ago"
   },
   {
-    "id": "cf2e7943eec1",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "eca29623f8ce",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "critical",
+    "content": "President Trump Visits Alaska: Delivering Results for the Last Frontier. Today, President Donald J. Trump travels to Alaska. He returns to the Last Frontier with a proven record of results that put Alaskans first: lower taxes, responsible development of the state\u2019s vast energy and mineral resources, safer communities, ",
+    "tags": [
+      "Energy",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-visits-alaska-delivering-results-for-the-last-frontier/",
+    "published_iso": "2026-10-13T17:47:35+00:00",
+    "time_ago": "31m ago"
+  },
+  {
+    "id": "12211a244e21",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "low",
+    "content": "Hillary Clinton launching podcast ahead of midterms. Former Secretary of State Hillary Clinton is launching a new podcast Wednesday focused on the final stretch of the midterm elections that will run through mid-November. Clinton will co-host \"High Stakes\" with tech journalist and former CNN host Kara Swisher, the form",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/media/6145787-clinton-swisher-launch-high-stakes-podcast/",
+    "published_iso": "2026-10-13T17:38:35+00:00",
+    "time_ago": "40m ago"
+  },
+  {
+    "id": "1ad80e273e6b",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "FTC: 'Pharma bro' Shkreli violated lifetime industry ban, should be held in contempt. The Federal Trade Commission (FTC) and a coalition of seven states asked a federal court on Tuesday to punish Martin Shkreli for \"flagrantly and repeatedly\u201d violating a lifetime ban from being involved in the pharmaceutical industry. ",
+    "tags": [
+      "Trade",
+      "Healthcare"
+    ],
+    "tickers": [
+      "LLY",
+      "PFE",
+      "JNJ",
+      "MRK"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/healthcare/6145783-ftc-shkreli-pharma-ban-violation/",
+    "published_iso": "2026-10-13T17:05:31+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "186a1d9fef9b",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "First Lady Melania Trump Launches 2027 Presidential SI Challenge and Establishes First Lady Seal of SI Readiness. First Lady Melania Trump launched her 2027 Presidential Super Intelligence (SI) Challenge and established a new First Lady Seal of AI Readiness\u2014inviting K-12 students, educators, and schools across America ",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-launches-2027-presidential-si-challenge-and-establishes-first-lady-seal-of-si-readiness/",
+    "published_iso": "2026-10-13T16:36:32+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "4f9d3e506297",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
     },
     "severity": "medium",
-    "content": "Rohmann Leeann sold 5,000 shares of Legacy Education Inc. (LGCY) \u00b7 $9.77/share \u00b7 $48,846 total \u00b7 Oct 13",
-    "tags": [],
-    "tickers": [
-      "LGCY"
+    "content": "Hellmann's mayo\nMcCormick spices\nCholula hot sauce\nFrank's RedHot\n\nWhat do these products have in common? One company could soon control them all.\n\nI have concerns that McCormick and Unilever's $45 billion merger could increase YOUR grocery prices.",
+    "tags": [
+      "Regulation"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2034917/000149315226046719/0001493152-26-046719-index.htm",
-    "published_iso": "2026-10-13T11:00:00+00:00",
-    "time_ago": "13m ago"
+    "tickers": [],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mxrc4pkr3c2l",
+    "published_iso": "2026-10-13T14:56:35.241000+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "c263735054c6",
+    "politician": "Rep. Mike Johnson",
+    "initials": "MJ",
+    "role": "Speaker of the House",
+    "color": {
+      "bg": "#2a1a1a",
+      "fg": "#fbbf24"
+    },
+    "severity": "critical",
+    "content": "In my home state of Louisiana, almost 68% of workers can benefit from No Tax on Overtime, and 700,000 senior citizens can benefit from No Tax on Social Security. \n \nRepublicans delivered this and so much more in our Working Families Tax Cuts. But EVERY single Democrat in Congress voted AGAINST this. \n \n Video",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.kareem.one/SpeakerJohnson/status/2110021258226098421#m",
+    "published_iso": "2026-10-13T14:54:04+00:00",
+    "time_ago": "3h ago"
   },
   {
     "id": "e99530b1a57c",
@@ -79,7 +189,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20902/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary",
     "published_iso": "2026-10-13T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "4bda2604d1a4",
@@ -105,7 +215,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20890/project-level-predecisional-administrative-review-process",
     "published_iso": "2026-10-13T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "831c1c801dcd",
@@ -124,7 +234,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20889/fees-for-services-performed-in-connection-with-licensing-and-related-services-2026-update",
     "published_iso": "2026-10-13T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "da11fdbfb9b6",
@@ -145,7 +255,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20873/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery",
     "published_iso": "2026-10-13T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "6ebe6442fb4d",
@@ -164,7 +274,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20870/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pacific-cod-in-the-western",
     "published_iso": "2026-10-13T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "3fbd49fb083b",
@@ -183,7 +293,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20869/airworthiness-directives-rolls-royce-deutschland-ltd-and-co-kg-engines",
     "published_iso": "2026-10-13T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "8e101315fc1a",
@@ -205,9 +315,62 @@
     ],
     "source": "twitter",
     "platform": "Twitter/X",
-    "url": "https://nitter.kareem.one/RoKhanna/status/2109767918753857686#m",
+    "url": "http://nitter.meowing.monster/RoKhanna/status/2109767918753857686#m",
     "published_iso": "2026-10-12T22:07:24+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "20h ago"
+  },
+  {
+    "id": "153f446906d8",
+    "politician": "Donald Trump",
+    "initials": "DT",
+    "role": "President of the United States",
+    "color": {
+      "bg": "#3b1818",
+      "fg": "#f87171"
+    },
+    "severity": "critical",
+    "content": "Video \n   \n \n\n  Community note:  Important context needed: Trump previously promised 2 dividends and never followed through.\n\nIn early 2025, Trump publicly backed a roughly $5,000 \u201cDOGE dividend\u201d \n\nIn November 2025, he promised a $2,000 \u201ctariff dividend\u201d \n\n newsweek.com/every-dividend\u2026",
+    "tags": [
+      "Trade"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.kareem.one/realDonaldTrump/status/2109670566408135106#m",
+    "published_iso": "2026-10-12T15:40:33+00:00",
+    "time_ago": "1d ago"
+  },
+  {
+    "id": "b5d648c4c82b",
+    "politician": "Rep. Mike Johnson",
+    "initials": "MJ",
+    "role": "Speaker of the House",
+    "color": {
+      "bg": "#2a1a1a",
+      "fg": "#fbbf24"
+    },
+    "severity": "critical",
+    "content": "Thanks to the Working Families Tax Cuts, Louisiana will receive a HISTORIC investment of an additional $37.7 million to train and recruit more rural healthcare providers across the state. \n \n*Remember: Every Democrat opposed this investment in rural health. \n \n \n Dr. Oz CMS (@DrOzCMS) \n \n $37.7 MILLION in Rural Health ",
+    "tags": [
+      "Healthcare",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.kareem.one/SpeakerJohnson/status/2109388869493768423#m",
+    "published_iso": "2026-10-11T21:01:11+00:00",
+    "time_ago": "1d ago"
   },
   {
     "id": "c714f35ed9f3",
@@ -277,7 +440,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
     "published_iso": "2026-10-09T14:00:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "48db85994cba",
@@ -319,7 +482,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
     "published_iso": "2026-10-07T18:00:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "757a1bd60826",
@@ -471,33 +634,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
     "published_iso": "2026-10-02T15:00:00+00:00",
-    "time_ago": "10d ago"
-  },
-  {
-    "id": "3889d7d35954",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements. Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility i",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
-    "published_iso": "2026-09-30T13:00:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "f5506a3890fe",
@@ -576,7 +713,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "66d ago"
+    "time_ago": "67d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -605,7 +742,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "81d ago"
+    "time_ago": "82d ago"
   },
   {
     "id": "de38f5381391",
@@ -648,7 +785,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "82d ago"
+    "time_ago": "83d ago"
   },
   {
     "id": "555d7f3dd315",
@@ -691,7 +828,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "154d ago"
+    "time_ago": "155d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -717,7 +854,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "160d ago"
+    "time_ago": "161d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -739,7 +876,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "168d ago"
+    "time_ago": "169d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -763,7 +900,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "196d ago"
+    "time_ago": "197d ago"
   },
   {
     "id": "432e035b915b",
@@ -803,7 +940,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "241d ago"
+    "time_ago": "242d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -822,7 +959,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "241d ago"
+    "time_ago": "242d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -848,7 +985,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "263d ago"
+    "time_ago": "264d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -867,6 +1004,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "300d ago"
+    "time_ago": "301d ago"
   }
 ]
