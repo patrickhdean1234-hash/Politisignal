@@ -1,27 +1,50 @@
 [
   {
-    "id": "e132739e605d",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "2b169356ab3b",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
     },
-    "severity": "critical",
-    "content": "How Lebanon can be Trump's first success in a troubled region. Following a June 2026 trilateral agreement aimed at disarming Hezbollah and restoring Lebanese sovereignty, author David Hale argues that increased American involvement and persistent diplomatic pressure are necessary to maintain momentum and prevent region",
+    "severity": "medium",
+    "content": "Saba Capital Management, L.P. acquired/disposed 8,242,167 shares of Virtus Dividend, Interest & Premium Strategy Fund (NFJ) \u00b7 $15.92/share \u00b7 $131,215,299 total \u00b7 Oct 14",
     "tags": [
-      "Taxes"
+      "Insider Trade"
     ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/international/6146856-trump-lebanon-hezbollah-peace-deal/",
-    "published_iso": "2026-10-14T17:00:00+00:00",
-    "time_ago": "23m ago"
+    "tickers": [
+      "NFJ"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1510281/000151028126000346/0001510281-26-000346-index.htm",
+    "published_iso": "2026-10-14T20:43:38+00:00",
+    "time_ago": "5m ago"
   },
   {
-    "id": "fb3353304ff3",
+    "id": "3cc48596ff2c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Silver Lake Group, L.L.C. exercised options for 449 shares of Dell Technologies Inc. (DELL) \u00b7 Oct 14 ($262,040 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "DELL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1737657/000119312526421763/0001193125-26-421763-index.htm",
+    "published_iso": "2026-10-14T20:42:15+00:00",
+    "time_ago": "7m ago"
+  },
+  {
+    "id": "4dcb626715e1",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -30,7 +53,7 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Inflation report delivers more bad news to GOP. Plus: \ud83c\udf6aIt\u2019s National Dessert Day! {beacon} It\u2019s Wednesday, and put those hoodies and sweaters away if you\u2019re in Washington, D.C., because it is going to be 87 degrees today (it\u2019s Oct. 14....).  &#8202; In today's issue: Inflation rises again Texas Senate debate sans Paxto",
+    "content": "As inflation rises, more than 40 percent say they struggle to pay for basic necessities: Pew. Over four in ten Americans said they are struggling to afford basic living costs amid rising inflation levels in the country, according to polling data released Wednesday.  The Pew Research surveys, which were conducted in lat",
     "tags": [],
     "tickers": [
       "GLD",
@@ -39,30 +62,30 @@
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/1230-report/6148313-inflation-talarico-paxton-midterm-elections-ukraine/",
-    "published_iso": "2026-10-14T16:31:51+00:00",
-    "time_ago": "51m ago"
+    "url": "https://thehill.com/business/6149011-americans-struggle-basic-costs/",
+    "published_iso": "2026-10-14T20:20:45+00:00",
+    "time_ago": "28m ago"
   },
   {
-    "id": "f937fbd2c97d",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "4f25076157c5",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
     },
-    "severity": "high",
-    "content": "Georgia shatters its Day 1 early voting record for a midterm. Georgia set a midterm election record on its first day of early voting Tuesday, with more than 188,000 ballots cast. That is about 50,000 more than the number who voted early on Day 1 in 2022, according to the Georgia secretary of state\u2019s office. Driving the",
+    "severity": "critical",
+    "content": "President Trump Returns to Arizona with a Record of Results: Tax Relief, Jobs, and Border Security. Today, President Donald J. Trump returns to the Grand Canyon State for a visit to Bullhead City. He arrives with a clear record of America First results that put Arizona workers, families, seniors, and communities first ",
     "tags": [
       "Taxes"
     ],
     "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/6148323-georgia-early-voting-record/",
-    "published_iso": "2026-10-14T16:31:28+00:00",
-    "time_ago": "52m ago"
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-arizona-with-a-record-of-results-tax-relief-jobs-and-border-security/",
+    "published_iso": "2026-10-14T18:56:18+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "cbc3e2e20d7f",
@@ -89,78 +112,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mxtxucdsis2s",
     "published_iso": "2026-10-14T16:30:54.743000+00:00",
-    "time_ago": "52m ago"
-  },
-  {
-    "id": "2f54ac1bc09b",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "$75 barely covers a tank of gas, let alone a cart of groceries.  \n \nThis inflation adjustment falls way short of making up for the high costs of Trump\u2019s war with Iran and chaotic tariffs.  \n \nCongress needs to scrap the cap and expand benefits for our seniors. \n \n \n The Associated Press (@AP) \n \n BREAKING: Social Secur",
-    "tags": [
-      "Trade",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM",
-      "GLD"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.kareem.one/SenWarren/status/2110407806063104355#m",
-    "published_iso": "2026-10-14T16:30:05+00:00",
-    "time_ago": "52m ago"
-  },
-  {
-    "id": "3e7dc1166731",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Fox News predicts Democrats will win House in midterms for first time this cycle. Fox News has predicted Democrats will win the House in the November midterm elections, the outlet's first time predicting a Democratic win of either chamber during this election cycle. \"Combined with Democrats\u2019 candidate quality improveme",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/6148096-fox-news-predicts-democrat-house-win/",
-    "published_iso": "2026-10-14T16:07:45+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "d46c8a8dd3c0",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "NEW: Inflation data came in and Donald Trump\u2019s failed economic agenda has raised prices for Americans by 5.9%. \n\nThat means families are paying $3,772 more thanks to inflation under Trump.",
-    "tags": [],
-    "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mxtnoq6nac24",
-    "published_iso": "2026-10-14T13:28:50.509000+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "a29af917c578",
@@ -181,7 +133,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/14/2026-21030/ap1000-design-certification-renewal",
     "published_iso": "2026-10-14T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "23ffd7a34f3f",
@@ -202,7 +154,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/14/2026-21024/imposition-and-collection-of-civil-penalties-for-certain-immigration-related-violations",
     "published_iso": "2026-10-14T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "cf5e89f15f02",
@@ -223,7 +175,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/14/2026-21019/allocation-of-assets-in-single-employer-plans-interest-assumptions-for-valuing-benefits",
     "published_iso": "2026-10-14T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "24c808c7c705",
@@ -242,7 +194,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/14/2026-21010/airworthiness-directives-bombardier-inc-airplanes",
     "published_iso": "2026-10-14T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "91fc951e6694",
@@ -261,7 +213,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20987/amendment-of-domestic-very-high-frequency-omnidirectional-range-vor-federal-airways-v-16-v-35-v-37",
     "published_iso": "2026-10-14T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "e8636ef606c9",
@@ -282,7 +234,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20982/extending-the-reporting-deadline-under-the-greenhouse-gas-reporting-rule-for-reporting-year-2025-to",
     "published_iso": "2026-10-14T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "96f91b3340db",
@@ -304,7 +256,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20979/food-additives-permitted-in-feed-and-drinking-water-of-animals-chromium-propionate",
     "published_iso": "2026-10-14T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "b9f849690753",
@@ -325,7 +277,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20974/amendment-of-boundaries-for-restricted-areas-r-5301-r-5302b-and-r-5302c-nc",
     "published_iso": "2026-10-14T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "229838d4b313",
@@ -344,7 +296,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
     "published_iso": "2026-10-13T18:00:00+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "eca29623f8ce",
@@ -366,7 +318,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-visits-alaska-delivering-results-for-the-last-frontier/",
     "published_iso": "2026-10-13T17:47:35+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "186a1d9fef9b",
@@ -387,72 +339,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-launches-2027-presidential-si-challenge-and-establishes-first-lady-seal-of-si-readiness/",
     "published_iso": "2026-10-13T16:36:32+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "4f9d3e506297",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "Hellmann's mayo\nMcCormick spices\nCholula hot sauce\nFrank's RedHot\n\nWhat do these products have in common? One company could soon control them all.\n\nI have concerns that McCormick and Unilever's $45 billion merger could increase YOUR grocery prices.",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mxrc4pkr3c2l",
-    "published_iso": "2026-10-13T14:56:35.241000+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "862ee8f90df2",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "Hellmann's mayo \nMcCormick spices \nCholula hot sauce \nFrank's RedHot \n \nWhat do these products have in common? One company could soon control them all. \n \nI have concerns that McCormick and Unilever's $45 billion merger could increase YOUR grocery prices.",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.kareem.one/SenWarren/status/2110021865020547132#m",
-    "published_iso": "2026-10-13T14:56:29+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "8e101315fc1a",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Tax billionaires so they can't buy democracy. \n \nStand with  @BernieSanders  &amp; me &amp; support a 5% tax on California billionaires. \n \nNot with Newsom, Thiel &amp; Musk opposing it. \n \n \n Tommy Vietor (@TVietor08) \n \n Elon Musk is trying to buy the midterm elections. So far he has given $366 million for the 2025-2",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "TSLA"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nitter.meowing.monster/RoKhanna/status/2109767918753857686#m",
-    "published_iso": "2026-10-12T22:07:24+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -497,7 +383,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-tour-utahs-advanced-manufacturing-plants",
     "published_iso": "2026-10-09T18:45:18+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "1adf28d01f2a",
@@ -546,7 +432,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
     "published_iso": "2026-10-08T20:30:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "ae07d7bc060b",
@@ -565,7 +451,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
     "published_iso": "2026-10-07T18:00:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "757a1bd60826",
@@ -591,7 +477,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
     "published_iso": "2026-10-05T20:30:00+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "fba941a53e33",
@@ -615,7 +501,7 @@
     ],
     "source": "rss",
     "platform": ".gov",
-    "url": "http://pelosi.house.gov/news/pelosi-update/working-families-first",
+    "url": "https://pelosi.house.gov/news/pelosi-update/working-families-first",
     "published_iso": "2026-10-03T21:13:42+00:00",
     "time_ago": "10d ago"
   },
@@ -664,7 +550,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
     "published_iso": "2026-10-02T20:45:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "8581e940fa48",
@@ -691,7 +577,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
     "published_iso": "2026-10-02T20:00:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "926f8341d303",
@@ -739,7 +625,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-six-penny-plan-to-balance-the-federal-budget-in-five-years-3/",
     "published_iso": "2026-09-22T20:41:12+00:00",
-    "time_ago": "21d ago"
+    "time_ago": "22d ago"
   },
   {
     "id": "f5ef8bcafaa7",
@@ -768,7 +654,28 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-statement-on-democrats-killing-clarity-act/",
     "published_iso": "2026-09-15T20:22:32+00:00",
-    "time_ago": "28d ago"
+    "time_ago": "29d ago"
+  },
+  {
+    "id": "e8b69ccc4d67",
+    "politician": "Rep. Nancy Pelosi",
+    "initials": "NP",
+    "role": "House Democratic Leader",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "Remembrance and Renewal. Remembrance and Renewal \n\n               Never Forget  Twenty-five years after the September 11th attacks, we remember the innocent lives stolen, the first responders who displayed extraordinary courage and the families forever changed. We also honor the servicemembers, public servants and coun",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "https://pelosi.house.gov/news/pelosi-update/remembrance-and-renewal",
+    "published_iso": "2026-09-11T18:24:02+00:00",
+    "time_ago": "33d ago"
   },
   {
     "id": "baf26d52584e",
@@ -846,7 +753,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "83d ago"
+    "time_ago": "84d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -1002,7 +909,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "202d ago"
+    "time_ago": "203d ago"
   },
   {
     "id": "00f579ee8f55",
