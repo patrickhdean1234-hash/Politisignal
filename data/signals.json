@@ -1,6 +1,6 @@
 [
   {
-    "id": "2b169356ab3b",
+    "id": "321484642df7",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,42 +9,85 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Saba Capital Management, L.P. acquired/disposed 8,242,167 shares of Virtus Dividend, Interest & Premium Strategy Fund (NFJ) \u00b7 $15.92/share \u00b7 $131,215,299 total \u00b7 Oct 14",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [
-      "NFJ"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1510281/000151028126000346/0001510281-26-000346-index.htm",
-    "published_iso": "2026-10-14T20:43:38+00:00",
-    "time_ago": "5m ago"
-  },
-  {
-    "id": "3cc48596ff2c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Silver Lake Group, L.L.C. exercised options for 449 shares of Dell Technologies Inc. (DELL) \u00b7 Oct 14 ($262,040 across all blocks)",
+    "content": "Schwarzman Stephen A sold 67,021 shares of Bumble Inc. (BMBL) \u00b7 $3.54/share \u00b7 $237,408 total \u00b7 Oct 14 ($9,789,181 across all blocks)",
     "tags": [],
     "tickers": [
-      "DELL"
+      "BMBL"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1737657/000119312526421763/0001193125-26-421763-index.htm",
-    "published_iso": "2026-10-14T20:42:15+00:00",
-    "time_ago": "7m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1870652/000119312526421998/0001193125-26-421998-index.htm",
+    "published_iso": "2026-10-14T23:18:26+00:00",
+    "time_ago": "12m ago"
   },
   {
-    "id": "4dcb626715e1",
+    "id": "28227595d93d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Bxga L.L.C. sold 67,021 shares of Bumble Inc. (BMBL) \u00b7 $3.54/share \u00b7 $237,408 total \u00b7 Oct 14 ($9,789,181 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "BMBL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1844987/000119312526421996/0001193125-26-421996-index.htm",
+    "published_iso": "2026-10-14T23:16:44+00:00",
+    "time_ago": "14m ago"
+  },
+  {
+    "id": "b8061f3515b4",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "President Trump Visits Montana with a Record of Results for Workers, Families, and Communities. Today, President Donald J. Trump heads to Montana for a stop in Kalispell. He arrives with a proven record of America First policies that put Montana workers, families, seniors, and communities first \u2014 delivering historic ta",
+    "tags": [
+      "Energy",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-visits-montana-with-a-record-of-results-for-workers-families-and-communities/",
+    "published_iso": "2026-10-14T21:58:37+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "e5215d07e604",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Coalition of states sue OpenAI, alleging it misled users on safety. A group of state attorneys general are suing the artificial intelligence firm OpenAI, accusing the ChatGPT-maker of illegally misleading users over the safety of its chatbot. Eight states filed lawsuits Wednesday, alleging OpenAI pushed forward with de",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [
+      "MSFT"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/6149365-states-sue-openai-safety/",
+    "published_iso": "2026-10-14T21:53:13+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "9837b851c147",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -53,18 +96,99 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "As inflation rises, more than 40 percent say they struggle to pay for basic necessities: Pew. Over four in ten Americans said they are struggling to afford basic living costs amid rising inflation levels in the country, according to polling data released Wednesday.  The Pew Research surveys, which were conducted in lat",
+    "content": "Trump says leakers should be shot: 'They're the scum of the earth'. President Trump suggested Wednesday at a campaign rally in Arizona that leakers should be shot, in an apparent reference to leaks surrounding U.S. airstrikes on Iran's nuclear facilities.\u00a0 \u201cSomebody leaked, some sleazebag. They ought to go to jail and ",
+    "tags": [
+      "Taxes",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/6149366-trump-rally-leakers-shot/",
+    "published_iso": "2026-10-14T21:48:50+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "ea816eaeba2a",
+    "politician": "Rep. Nancy Pelosi",
+    "initials": "NP",
+    "role": "House Democratic Leader",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Trump promised lower costs. Instead, inflation is climbing and working families are struggling to make ends meet.\n\nHis illegal war in Iran and his reckless tariffs are driving up prices while spineless Republicans in Congress rubber-stamp his disastrous agenda.",
+    "tags": [
+      "Trade",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM",
+      "GLD"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/pelosi.house.gov/post/3mxugvsizic2l",
+    "published_iso": "2026-10-14T21:00:11.372000+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "2f9dfb8502e5",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "A slap on the wrist for  @BankofAmerica . \n \nCEO Brian Moynihan owes Congress answers, and we need a criminal investigation into the apparent violation of our anti-money laundering laws. \n \nI\u2019ve long said big bank CEOs should be held personally accountable if their banks break the law. \n \n \n The Wall Street Journal (@W",
+    "tags": [
+      "Banking",
+      "Regulation",
+      "Sanctions"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.meowing.monster/SenWarren/status/2110469628610941422#m",
+    "published_iso": "2026-10-14T20:35:44+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "518f8d6b9907",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Donald Trump is raising costs on families. \n \nNew inflation data is in, and we\u2019re keeping the receipts. \n \nCheck out the latest numbers from Trump\u2019s failed economic agenda in our Trumpflation Tracker:",
     "tags": [],
     "tickers": [
       "GLD",
       "TLT",
       "SPY"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/6149011-americans-struggle-basic-costs/",
-    "published_iso": "2026-10-14T20:20:45+00:00",
-    "time_ago": "28m ago"
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.meowing.monster/SenateBanking/status/2110464753428512973#m",
+    "published_iso": "2026-10-14T20:16:22+00:00",
+    "time_ago": "3h ago"
   },
   {
     "id": "4f25076157c5",
@@ -85,33 +209,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-arizona-with-a-record-of-results-tax-relief-jobs-and-border-security/",
     "published_iso": "2026-10-14T18:56:18+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "cbc3e2e20d7f",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "$75 barely covers a tank of gas, let alone a cart of groceries. \n\nThis inflation adjustment falls way short of making up for the high costs of Trump\u2019s war with Iran and chaotic tariffs. \n\nCongress needs to scrap the cap and expand benefits for our seniors.",
-    "tags": [
-      "Trade",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM",
-      "GLD"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mxtxucdsis2s",
-    "published_iso": "2026-10-14T16:30:54.743000+00:00",
     "time_ago": "4h ago"
   },
   {
@@ -133,7 +230,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/14/2026-21030/ap1000-design-certification-renewal",
     "published_iso": "2026-10-14T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "23ffd7a34f3f",
@@ -154,7 +251,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/14/2026-21024/imposition-and-collection-of-civil-penalties-for-certain-immigration-related-violations",
     "published_iso": "2026-10-14T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "cf5e89f15f02",
@@ -175,7 +272,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/14/2026-21019/allocation-of-assets-in-single-employer-plans-interest-assumptions-for-valuing-benefits",
     "published_iso": "2026-10-14T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "24c808c7c705",
@@ -194,7 +291,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/14/2026-21010/airworthiness-directives-bombardier-inc-airplanes",
     "published_iso": "2026-10-14T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "91fc951e6694",
@@ -213,7 +310,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20987/amendment-of-domestic-very-high-frequency-omnidirectional-range-vor-federal-airways-v-16-v-35-v-37",
     "published_iso": "2026-10-14T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "e8636ef606c9",
@@ -234,7 +331,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20982/extending-the-reporting-deadline-under-the-greenhouse-gas-reporting-rule-for-reporting-year-2025-to",
     "published_iso": "2026-10-14T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "96f91b3340db",
@@ -256,7 +353,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20979/food-additives-permitted-in-feed-and-drinking-water-of-animals-chromium-propionate",
     "published_iso": "2026-10-14T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "b9f849690753",
@@ -277,7 +374,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20974/amendment-of-boundaries-for-restricted-areas-r-5301-r-5302b-and-r-5302c-nc",
     "published_iso": "2026-10-14T04:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "229838d4b313",
@@ -342,25 +439,28 @@
     "time_ago": "1d ago"
   },
   {
-    "id": "c714f35ed9f3",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
+    "id": "8e101315fc1a",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
     "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
     },
-    "severity": "low",
-    "content": "Presidential Message on Leif Erikson Day. Half a millennium before legendary American hero Christopher Columbus set foot in the New World, Norse explorer Leif Erikson made history as the first European to arrive on the North American continent.&#160; This Leif Erikson Day, we celebrate his exceptional legacy of bravery",
+    "severity": "medium",
+    "content": "Tax billionaires so they can't buy democracy. \n \nStand with  @BernieSanders  &amp; me &amp; support a 5% tax on California billionaires. \n \nNot with Newsom, Thiel &amp; Musk opposing it. \n \n \n Tommy Vietor (@TVietor08) \n \n Elon Musk is trying to buy the midterm elections. So far he has given $366 million for the 2025-2",
     "tags": [
+      "Regulation",
       "Taxes"
     ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-leif-erikson-day/",
-    "published_iso": "2026-10-09T23:48:59+00:00",
-    "time_ago": "4d ago"
+    "tickers": [
+      "TSLA"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.meowing.monster/RoKhanna/status/2109767918753857686#m",
+    "published_iso": "2026-10-12T22:07:24+00:00",
+    "time_ago": "2d ago"
   },
   {
     "id": "fffcc02c1c16",
@@ -501,9 +601,9 @@
     ],
     "source": "rss",
     "platform": ".gov",
-    "url": "https://pelosi.house.gov/news/pelosi-update/working-families-first",
+    "url": "http://pelosi.house.gov/news/pelosi-update/working-families-first",
     "published_iso": "2026-10-03T21:13:42+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "5e3b0046d1b7",
@@ -524,7 +624,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-commends-trade-ministers-signing-statement-eliminating-forced-labor-global-supply",
     "published_iso": "2026-10-02T20:54:52+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "16c86cf6bdf5",
@@ -657,27 +757,6 @@
     "time_ago": "29d ago"
   },
   {
-    "id": "e8b69ccc4d67",
-    "politician": "Rep. Nancy Pelosi",
-    "initials": "NP",
-    "role": "House Democratic Leader",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "Remembrance and Renewal. Remembrance and Renewal \n\n               Never Forget  Twenty-five years after the September 11th attacks, we remember the innocent lives stolen, the first responders who displayed extraordinary courage and the families forever changed. We also honor the servicemembers, public servants and coun",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "https://pelosi.house.gov/news/pelosi-update/remembrance-and-renewal",
-    "published_iso": "2026-09-11T18:24:02+00:00",
-    "time_ago": "33d ago"
-  },
-  {
     "id": "baf26d52584e",
     "politician": "Sen. Rand Paul",
     "initials": "RP",
@@ -797,7 +876,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "85d ago"
+    "time_ago": "86d ago"
   },
   {
     "id": "79faa09fe8f6",
