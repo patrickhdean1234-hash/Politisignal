@@ -1,50 +1,47 @@
 [
   {
-    "id": "287328c9027f",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "90bb79323f92",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Trump's top crypto adviser departs. President Trump\u2019s top cryptocurrency adviser is leaving the administration. Patrick Witt, who served as executive director of the president\u2019s council of advisers for digital assets, called his time in the administration \u201cthe privilege of a lifetime\u201d late Wednesday and hinted at a mov",
-    "tags": [
-      "Crypto"
-    ],
+    "content": "How Antoinette converted 10,800 shares of Nextdoor Holdings, Inc. (NXDR) \u00b7 Oct 15 ($29,379 across all blocks)",
+    "tags": [],
     "tickers": [
-      "BTC",
-      "ETH",
-      "COIN",
-      "XRP"
+      "NXDR"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/6151072-trump-crypto-advisor-patrick-witt-leaves/",
-    "published_iso": "2026-10-15T16:06:52+00:00",
-    "time_ago": "32m ago"
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2083093/000208309326000008/0002083093-26-000008-index.htm",
+    "published_iso": "2026-10-15T20:01:35+00:00",
+    "time_ago": "just now"
   },
   {
-    "id": "d330351226a8",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "c6b0acedc5d1",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
     },
-    "severity": "high",
-    "content": "Anthropic's PAC spent more than $250K in third quarter, splitting between parties. Anthropic's corporate political action committee poured $161,000 into campaigns across the aisle last month, bringing their total third-quarter spending to more than $250,000, according to spending records first shared with The Hill. The",
+    "severity": "medium",
+    "content": "Jones Timothy Peter disposed of 190,030 shares of Clear Channel Outdoor Holdings, Inc. (CCO) \u00b7 $2.43/share \u00b7 $461,773 total \u00b7 Oct 15",
     "tags": [
-      "Taxes"
+      "Insider Trade"
     ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/6150160-anthropicpac-spending-q3-ai/",
-    "published_iso": "2026-10-15T16:03:55+00:00",
-    "time_ago": "35m ago"
+    "tickers": [
+      "CCO"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2039330/000119312526422853/0001193125-26-422853-index.htm",
+    "published_iso": "2026-10-15T19:51:30+00:00",
+    "time_ago": "11m ago"
   },
   {
     "id": "5f2e832b0ed9",
@@ -66,7 +63,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mxwdtzmld22s",
     "published_iso": "2026-10-15T15:10:49.971000+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "383858ace55a",
@@ -87,7 +84,32 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/icymi-largest-ever-federal-anti-transnational-crime-operation-nets-1296-tren-de-aragua-arrests-nationwide/",
     "published_iso": "2026-10-15T14:30:45+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "5h ago"
+  },
+  {
+    "id": "4f013802e5f5",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "medium",
+    "content": "Washington shouldn\u2019t be using your tax dollars for welfare benefits for people who are here illegally. \n \nMy End Welfare for Non-Citizens Act would end federal benefits, like TANF, Medicaid, and SNAP, for illegal immigrants, refugees, and asylees. It\u2019s simple: we need to put American families first.",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.kareem.one/RandPaul/status/2110718332542374194#m",
+    "published_iso": "2026-10-15T13:04:00+00:00",
+    "time_ago": "6h ago"
   },
   {
     "id": "dca7c8631ec6",
@@ -106,7 +128,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21106/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-ocean-perch-in-the-central-regulatory",
     "published_iso": "2026-10-15T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "1e865eff70ee",
@@ -128,7 +150,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21104/family-and-medical-leave-act",
     "published_iso": "2026-10-15T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "027cdf22b7c2",
@@ -150,7 +172,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21096/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures",
     "published_iso": "2026-10-15T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "64418d3c92d2",
@@ -169,7 +191,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21080/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-angling-category-quota-transfer",
     "published_iso": "2026-10-15T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "2b06e41b798b",
@@ -190,7 +212,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21078/meaning-of-terms-as-used-in-this-subchapter-representation-proceedings-national-consultation-rights",
     "published_iso": "2026-10-15T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "06176cf73a14",
@@ -211,7 +233,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21077/amendment-to-memorandum-describing-the-authority-and-assigned-responsibilities-of-the-general",
     "published_iso": "2026-10-15T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "7f3209a313fe",
@@ -233,7 +255,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21069/sale-and-issue-of-marketable-book-entry-treasury-bills-notes-and-bonds",
     "published_iso": "2026-10-15T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "b8061f3515b4",
@@ -255,7 +277,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-visits-montana-with-a-record-of-results-for-workers-families-and-communities/",
     "published_iso": "2026-10-14T21:58:37+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "ea816eaeba2a",
@@ -282,7 +304,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mxugvsizic2l",
     "published_iso": "2026-10-14T21:00:11.372000+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "4f25076157c5",
@@ -303,7 +325,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-arizona-with-a-record-of-results-tax-relief-jobs-and-border-security/",
     "published_iso": "2026-10-14T18:56:18+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "229838d4b313",
@@ -322,7 +344,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
     "published_iso": "2026-10-13T18:00:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "eca29623f8ce",
@@ -344,7 +366,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-visits-alaska-delivering-results-for-the-last-frontier/",
     "published_iso": "2026-10-13T17:47:35+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "fffcc02c1c16",
@@ -367,7 +389,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-tour-utahs-advanced-manufacturing-plants",
     "published_iso": "2026-10-09T18:45:18+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "1adf28d01f2a",
@@ -435,7 +457,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
     "published_iso": "2026-10-07T18:00:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "757a1bd60826",
@@ -561,7 +583,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
     "published_iso": "2026-10-02T20:00:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "926f8341d303",
@@ -716,7 +738,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "84d ago"
+    "time_ago": "85d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -872,7 +894,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "203d ago"
+    "time_ago": "204d ago"
   },
   {
     "id": "00f579ee8f55",
@@ -938,7 +960,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "265d ago"
+    "time_ago": "266d ago"
   },
   {
     "id": "d3ca74df7f0f",
