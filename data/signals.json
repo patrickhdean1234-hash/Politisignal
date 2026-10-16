@@ -1,6 +1,69 @@
 [
   {
-    "id": "137fe53d4968",
+    "id": "ffd7680bf934",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Ratnersalzberg Deborah exercised options for 3,000 shares of Capital Bancorp Inc (CBNK) \u00b7 $6.63/share \u00b7 $19,890 total \u00b7 Oct 16",
+    "tags": [],
+    "tickers": [
+      "CBNK"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1419536/000141953626000160/0001419536-26-000160-index.htm",
+    "published_iso": "2026-10-16T18:22:02+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "cc282505c858",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Barber Daniel sold 25,000 shares of Aquestive Therapeutics, Inc. (AQST) \u00b7 $4.22/share \u00b7 $105,600 total \u00b7 Oct 16",
+    "tags": [],
+    "tickers": [
+      "AQST"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1742266/000121465926012986/0001214659-26-012986-index.htm",
+    "published_iso": "2026-10-16T18:17:30+00:00",
+    "time_ago": "9m ago"
+  },
+  {
+    "id": "4ec21f01a71c",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Merrill Lynch, Pierce, Fenner & Smith Inc. bought 2,000 shares of Pimco California Municipal Income Fund (PCQ) \u00b7 $8.13/share \u00b7 $16,261 total \u00b7 Oct 16 ($31,684 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "PCQ"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1140411/000007085826000486/0000070858-26-000486-index.htm",
+    "published_iso": "2026-10-16T18:12:36+00:00",
+    "time_ago": "14m ago"
+  },
+  {
+    "id": "e0127d287761",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -8,8 +71,104 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
+    "severity": "high",
+    "content": "Musk settles election lottery lawsuits over $1 million voter giveaways. Tech mogul Elon Musk agreed to settle two lawsuits over his $1 million check handouts to battleground voters in the 2024 election, according to court filings published Thursday. The suits, filed in the Western District of Texas, accused the Tesla a",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [
+      "TSLA"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/6154068-musk-settles-voter-lottery-lawsuits/",
+    "published_iso": "2026-10-16T17:32:58+00:00",
+    "time_ago": "54m ago"
+  },
+  {
+    "id": "92e17f73ca19",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Can voters learn to stop worrying and love Big AI?. Republican lawmakers and presidential administration policies regarding AI regulation and data centers are clashing with voter concerns and internal party divisions during recent electoral contests",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/campaign/6153051-trump-ai-safety-pact/",
+    "published_iso": "2026-10-16T17:30:00+00:00",
+    "time_ago": "57m ago"
+  },
+  {
+    "id": "4061f2f1ef8c",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "AI safety group pushes for tighter export controls, limits on 'vastly superhuman AI'. A conservative AI safety group is calling for the U.S. to implement tighter restrictions on advanced chip sales to China and limit the development of \u201cvastly superhuman AI\u201d as part of a new framework for AI policy. Humans First, chair",
+    "tags": [
+      "Trade",
+      "China",
+      "Semiconductors",
+      "Taxes"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "AMD",
+      "QCOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/6154117-humans-first-ai-policy/",
+    "published_iso": "2026-10-16T16:58:31+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "c6e0ce8e710d",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "high",
+    "content": "President Trump Returns to Georgia with a Record of Results. Today, President Donald J. Trump returns to the Peach State with a proven record of America First results that put Georgia workers, families, seniors, and communities first. Under the leadership of President Trump and Republicans, Georgians are seeing histori",
+    "tags": [
+      "Energy",
+      "Agriculture",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-georgia-with-a-record-of-results/",
+    "published_iso": "2026-10-16T16:36:43+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "cfb78ede1c08",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
     "severity": "critical",
-    "content": "Warsh offers no fresh signals on interest rates. Federal Reserve Chair Kevin Warsh declined Friday to predict central bank officials\u2019 future course on interest rates, less than two weeks before they meet to discuss monetary policy.  \u201cI don\u2019t prejudge meetings. I don\u2019t believe in saying now what I might do at the meetin",
+    "content": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank. Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
     "tags": [
       "Banking"
     ],
@@ -19,32 +178,11 @@
       "GS",
       "XLF"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/6153621-fed-kevin-warsh-interest-rate-forecast/",
-    "published_iso": "2026-10-16T14:31:52+00:00",
-    "time_ago": "18m ago"
-  },
-  {
-    "id": "743fd317fb7c",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Hannity takes Zacharia to task over legal credentials. Fox News host Sean Hannity pressed new White House press secretary Katie Zacharia on her first briefing with reporters this week and her claiming to be an attorney despite not passing the bar exam. Hannity began his interview of Zacharia on Thursday evening saying,",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/media/6153414-sean-hannity-katie-zacharia-legal-credentials-briefing/",
-    "published_iso": "2026-10-16T14:02:49+00:00",
-    "time_ago": "47m ago"
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+    "published_iso": "2026-10-16T15:00:00+00:00",
+    "time_ago": "3h ago"
   },
   {
     "id": "086ac5647ce7",
@@ -65,7 +203,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21253/non-applicability-of-section-357c-to-consolidated-groups",
     "published_iso": "2026-10-16T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "1862341c4ebd",
@@ -84,7 +222,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21239/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-atka-mackerel-in-the-bering-sea",
     "published_iso": "2026-10-16T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "43a77f6ecb09",
@@ -105,7 +243,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21222/denali-national-park-and-preserve-vehicle-use",
     "published_iso": "2026-10-16T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "e1200c6f6d4b",
@@ -124,7 +262,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21192/establishment-of-united-states-area-navigation-route-t-550-and-revocation-of-very-high-frequency",
     "published_iso": "2026-10-16T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "40e9c1db41db",
@@ -143,7 +281,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21184/fisheries-of-the-exclusive-economic-zone-off-alaska-shortraker-rockfish-in-the-central-regulatory",
     "published_iso": "2026-10-16T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "7f69ab93b479",
@@ -162,7 +300,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21179/establishment-of-restricted-areas-r-5306g-and-r-5306h-and-amendment-of-restricted-areas-r-5306c-and",
     "published_iso": "2026-10-16T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "37cb4979762d",
@@ -183,7 +321,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21162/special-local-regulation-lake-havasu-lake-havasu-city-az",
     "published_iso": "2026-10-16T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "cf30c6d8d26a",
@@ -202,7 +340,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21161/safety-zone-atlantic-ocean-culebra-puerto-rico",
     "published_iso": "2026-10-16T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "5f2e832b0ed9",
@@ -224,30 +362,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mxwdtzmld22s",
     "published_iso": "2026-10-15T15:10:49.971000+00:00",
-    "time_ago": "23h ago"
-  },
-  {
-    "id": "bf5ad4231d8a",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "Donald Trump claims he\u2019s lowered costs \u201cvery substantially.\u201d \n \nBut new inflation data shows Trump has raised prices. \n \nGas prices rose 34% from last year, and September saw the largest increase in consumer prices in five months.",
-    "tags": [],
-    "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.kareem.one/SenateBanking/status/2110747536524738943#m",
-    "published_iso": "2026-10-15T15:00:03+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "383858ace55a",
@@ -357,7 +472,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
     "published_iso": "2026-10-13T18:00:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "fffcc02c1c16",
@@ -448,7 +563,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
     "published_iso": "2026-10-07T18:00:00+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "757a1bd60826",
@@ -503,27 +618,6 @@
     "time_ago": "12d ago"
   },
   {
-    "id": "5e3b0046d1b7",
-    "politician": "U.S. Trade Rep.",
-    "initials": "USTR",
-    "role": "Office of the U.S. Trade Representative",
-    "color": {
-      "bg": "#1a0a1a",
-      "fg": "#d8b4fe"
-    },
-    "severity": "critical",
-    "content": "Ambassador Greer Commends Trade Ministers Signing on to Statement Eliminating Forced Labor in Global Supply Chains. Ambassador Greer Commends Trade Ministers Signing on to Statement Eliminating Forced Labor in Global Supply Chains \n  pbrouillette  \n  Fri, 10/02/2026 - 16:54 \n \n\n               MILWAUKEE  \u2013 Yesterday, Am",
-    "tags": [
-      "Trade"
-    ],
-    "tickers": [],
-    "source": "ustr",
-    "platform": "USTR",
-    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-commends-trade-ministers-signing-statement-eliminating-forced-labor-global-supply",
-    "published_iso": "2026-10-02T20:54:52+00:00",
-    "time_ago": "13d ago"
-  },
-  {
     "id": "16c86cf6bdf5",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -574,32 +668,6 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
     "published_iso": "2026-10-02T20:00:00+00:00",
-    "time_ago": "13d ago"
-  },
-  {
-    "id": "926f8341d303",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.. Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
-    "published_iso": "2026-10-02T15:00:00+00:00",
     "time_ago": "13d ago"
   },
   {
@@ -672,7 +740,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/news/pelosi-update/remembrance-and-renewal",
     "published_iso": "2026-09-11T18:24:02+00:00",
-    "time_ago": "34d ago"
+    "time_ago": "35d ago"
   },
   {
     "id": "baf26d52584e",
@@ -700,7 +768,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "69d ago"
+    "time_ago": "70d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -729,7 +797,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "84d ago"
+    "time_ago": "85d ago"
   },
   {
     "id": "de38f5381391",
@@ -815,7 +883,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "157d ago"
+    "time_ago": "158d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -972,7 +1040,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "266d ago"
+    "time_ago": "267d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -991,6 +1059,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "303d ago"
+    "time_ago": "304d ago"
   }
 ]
