@@ -1,47 +1,50 @@
 [
   {
-    "id": "57876248829e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "137fe53d4968",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Lim Zi Yao received 4,071 shares of Kulicke & Soffa Industries Inc (KLIC) \u00b7 Oct 16",
-    "tags": [],
-    "tickers": [
-      "KLIC"
+    "severity": "critical",
+    "content": "Warsh offers no fresh signals on interest rates. Federal Reserve Chair Kevin Warsh declined Friday to predict central bank officials\u2019 future course on interest rates, less than two weeks before they meet to discuss monetary policy.  \u201cI don\u2019t prejudge meetings. I don\u2019t believe in saying now what I might do at the meetin",
+    "tags": [
+      "Banking"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2004903/000200490326000006/0002004903-26-000006-index.htm",
-    "published_iso": "2026-10-16T10:09:48+00:00",
-    "time_ago": "just now"
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/6153621-fed-kevin-warsh-interest-rate-forecast/",
+    "published_iso": "2026-10-16T14:31:52+00:00",
+    "time_ago": "18m ago"
   },
   {
-    "id": "c6cd4ee4e5c0",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "743fd317fb7c",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Boylston Luke withheld (tax) 19,675 shares of Nextdecade Corp (NEXT) \u00b7 $6.80/share \u00b7 $133,790 total \u00b7 Oct 16",
+    "severity": "high",
+    "content": "Hannity takes Zacharia to task over legal credentials. Fox News host Sean Hannity pressed new White House press secretary Katie Zacharia on her first briefing with reporters this week and her claiming to be an attorney despite not passing the bar exam. Hannity began his interview of Zacharia on Thursday evening saying,",
     "tags": [
       "Taxes"
     ],
-    "tickers": [
-      "NEXT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2063872/000206387226000008/0002063872-26-000008-index.htm",
-    "published_iso": "2026-10-16T10:01:00+00:00",
-    "time_ago": "9m ago"
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/media/6153414-sean-hannity-katie-zacharia-legal-credentials-briefing/",
+    "published_iso": "2026-10-16T14:02:49+00:00",
+    "time_ago": "47m ago"
   },
   {
     "id": "086ac5647ce7",
@@ -62,7 +65,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21253/non-applicability-of-section-357c-to-consolidated-groups",
     "published_iso": "2026-10-16T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "1862341c4ebd",
@@ -81,7 +84,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21239/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-atka-mackerel-in-the-bering-sea",
     "published_iso": "2026-10-16T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "43a77f6ecb09",
@@ -102,7 +105,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21222/denali-national-park-and-preserve-vehicle-use",
     "published_iso": "2026-10-16T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "e1200c6f6d4b",
@@ -121,7 +124,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21192/establishment-of-united-states-area-navigation-route-t-550-and-revocation-of-very-high-frequency",
     "published_iso": "2026-10-16T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "40e9c1db41db",
@@ -140,7 +143,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21184/fisheries-of-the-exclusive-economic-zone-off-alaska-shortraker-rockfish-in-the-central-regulatory",
     "published_iso": "2026-10-16T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "7f69ab93b479",
@@ -159,7 +162,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21179/establishment-of-restricted-areas-r-5306g-and-r-5306h-and-amendment-of-restricted-areas-r-5306c-and",
     "published_iso": "2026-10-16T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "37cb4979762d",
@@ -180,7 +183,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21162/special-local-regulation-lake-havasu-lake-havasu-city-az",
     "published_iso": "2026-10-16T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "cf30c6d8d26a",
@@ -199,188 +202,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21161/safety-zone-atlantic-ocean-culebra-puerto-rico",
     "published_iso": "2026-10-16T04:00:00+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "1f5090a232ea",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Zacharia confirms she did not pass bar exam. White House press secretary Katie Zacharia said late Thursday that she did not pass the bar exam after her legal background prior to joining the Trump administration was called into question. Zacharia, who has previously claimed to be a lawyer and was described as an \u201cattorn",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6152937-zacharia-bar-exam-white-house/",
-    "published_iso": "2026-10-16T02:56:42+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "869552dcb2c7",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Massie: Trump should fire Hegseth before he is impeached. Rep. Thomas Massie (R-Ky.) suggested that President Trump should remove Defense Secretary Pete Hegseth from his position before the House votes to impeach him. The Kentucky Republican, who often finds himself in the crosshairs of Trump for frequently breaking wi",
-    "tags": [
-      "Defense",
-      "Taxes"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/6152919-massie-calls-trump-fire-hegseth/",
-    "published_iso": "2026-10-16T02:38:59+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "146ae688d1fd",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Bhatt Nailesh received 2,037 shares of Hyperliquid Strategies Inc (PURR) \u00b7 Oct 15",
-    "tags": [],
-    "tickers": [
-      "PURR"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2078856/000119312526423229/0001193125-26-423229-index.htm",
-    "published_iso": "2026-10-16T01:38:47+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "54ad211e4191",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "King Thomas C. received 3,056 shares of Hyperliquid Strategies Inc (PURR) \u00b7 Oct 15",
-    "tags": [],
-    "tickers": [
-      "PURR"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2078856/000119312526423228/0001193125-26-423228-index.htm",
-    "published_iso": "2026-10-16T01:38:03+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "be7f52fa96a9",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Rosengren Eric S received 3,056 shares of Hyperliquid Strategies Inc (PURR) \u00b7 Oct 15",
-    "tags": [],
-    "tickers": [
-      "PURR"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2078856/000119312526423227/0001193125-26-423227-index.htm",
-    "published_iso": "2026-10-16T01:37:33+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "f277f80ab5f3",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Leibowitz Lawrence E received 1,358 shares of Hyperliquid Strategies Inc (PURR) \u00b7 Oct 15",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [
-      "PURR"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2078856/000119312526423224/0001193125-26-423224-index.htm",
-    "published_iso": "2026-10-16T01:36:34+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "df08f3c3432d",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "FDA advances peptide push to White House. Presented by Coalition to Strengthen America\u2019s Healthcare {beacon} Healthcare Healthcare The Big Story  RFK Jr. advances peptide push The Food and Drug Administration (FDA) this week submitted a peptide \u201cinterim access policy\u201d to the White House for review, according to a gover",
-    "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/healthcare/6152770-rfk-jr-fda-peptides-white-house/",
-    "published_iso": "2026-10-15T23:50:02+00:00",
     "time_ago": "10h ago"
-  },
-  {
-    "id": "b627a9e065c9",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Anthropic PAC splits Q3 donations down the middle. {beacon} Technology Technology &#8202; The Big Story  Anthropic PAC splits Q3 donations down the middle Anthropic\u2019s corporate political action committee poured $161,000 into campaigns across the aisle last month, bringing their total third-quarter spending to more than",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/6152693-anthropic-pac-splits-q3-donations-down-the-middle/",
-    "published_iso": "2026-10-15T22:56:25+00:00",
-    "time_ago": "11h ago"
   },
   {
     "id": "5f2e832b0ed9",
@@ -402,7 +224,30 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mxwdtzmld22s",
     "published_iso": "2026-10-15T15:10:49.971000+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "23h ago"
+  },
+  {
+    "id": "bf5ad4231d8a",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Donald Trump claims he\u2019s lowered costs \u201cvery substantially.\u201d \n \nBut new inflation data shows Trump has raised prices. \n \nGas prices rose 34% from last year, and September saw the largest increase in consumer prices in five months.",
+    "tags": [],
+    "tickers": [
+      "GLD",
+      "TLT",
+      "SPY"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.kareem.one/SenateBanking/status/2110747536524738943#m",
+    "published_iso": "2026-10-15T15:00:03+00:00",
+    "time_ago": "23h ago"
   },
   {
     "id": "383858ace55a",
@@ -423,7 +268,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/icymi-largest-ever-federal-anti-transnational-crime-operation-nets-1296-tren-de-aragua-arrests-nationwide/",
     "published_iso": "2026-10-15T14:30:45+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "b8061f3515b4",
@@ -561,7 +406,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
     "published_iso": "2026-10-09T14:00:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "48db85994cba",
@@ -653,7 +498,7 @@
     ],
     "source": "rss",
     "platform": ".gov",
-    "url": "https://pelosi.house.gov/news/pelosi-update/working-families-first",
+    "url": "http://pelosi.house.gov/news/pelosi-update/working-families-first",
     "published_iso": "2026-10-03T21:13:42+00:00",
     "time_ago": "12d ago"
   },
@@ -825,7 +670,7 @@
     "tickers": [],
     "source": "rss",
     "platform": ".gov",
-    "url": "https://pelosi.house.gov/news/pelosi-update/remembrance-and-renewal",
+    "url": "http://pelosi.house.gov/news/pelosi-update/remembrance-and-renewal",
     "published_iso": "2026-09-11T18:24:02+00:00",
     "time_ago": "34d ago"
   },
@@ -927,7 +772,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "85d ago"
+    "time_ago": "86d ago"
   },
   {
     "id": "555d7f3dd315",
@@ -996,7 +841,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "163d ago"
+    "time_ago": "164d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1018,7 +863,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "171d ago"
+    "time_ago": "172d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1042,7 +887,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "199d ago"
+    "time_ago": "200d ago"
   },
   {
     "id": "432e035b915b",
@@ -1082,7 +927,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "244d ago"
+    "time_ago": "245d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1101,7 +946,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "244d ago"
+    "time_ago": "245d ago"
   },
   {
     "id": "c3776ad92a42",
