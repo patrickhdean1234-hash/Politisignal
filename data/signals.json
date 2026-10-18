@@ -155,7 +155,26 @@
     "time_ago": "just now"
   },
   {
-    "id": "37d704a155c0",
+    "id": "e1a7cf714a2b",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Watch out: going out to eat at your favorite restaurant could become even more expensive.\n \nThe Trump administration might approve a merger between Sysco and Restaurant Depot \u2014 threatening higher supply costs for small businesses and higher prices for you.",
+    "tags": [],
+    "tickers": [],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3my6haxl5k22r",
+    "published_iso": "2026-10-18T20:33:03.169000+00:00",
+    "time_ago": "52m ago"
+  },
+  {
+    "id": "487445db66db",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -164,16 +183,51 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "We must fix our broken prison system. The article highlights the critical need for enhanced rehabilitation and educational programs within the prison system to combat high recidivism rates, building upon the foundation of the First Step Act",
+    "content": "Bessent: Dropping oil prices before 2026 ends 'will depend' on Iran conflict. Treasury Secretary Scott Bessent said Sunday that oil prices could go down before the end of the year, but it will depend on the Iran war. NBC News's \"Meet the Press\" host Kristen Welker asked Bessent about the chances of lower prices by the ",
     "tags": [
-      "Taxes"
+      "Energy",
+      "Sanctions"
     ],
-    "tickers": [],
+    "tickers": [
+      "XOM",
+      "CVX",
+      "COP",
+      "OXY"
+    ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/criminal-justice/6155359-us-recidivism-reform-first-step-act/",
-    "published_iso": "2026-10-18T17:00:00+00:00",
+    "url": "https://thehill.com/policy/energy-environment/6156572-bessent-oil-prices-iran-conflict/",
+    "published_iso": "2026-10-18T18:58:55+00:00",
     "time_ago": "2h ago"
+  },
+  {
+    "id": "8c4806f177b1",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "critical",
+    "content": "Good for President Trump! \n \n100% tariffs, on even our adversaries, hurts everyone including the U.S.  \n \n  cbsnews.com/news/trump-waive\u2026  \n \n Link  \n \n \n \n Trump waives tariffs on largest buyers of Russian oil, days before Lindsey Graham-backed law was... \n \n President Trump prevented some new sanctions on Russia and ",
+    "tags": [
+      "Trade",
+      "Energy",
+      "Regulation",
+      "Sanctions"
+    ],
+    "tickers": [
+      "XOM",
+      "CVX",
+      "COP",
+      "OXY"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.kareem.one/RandPaul/status/2111811017755763156#m",
+    "published_iso": "2026-10-18T13:25:56+00:00",
+    "time_ago": "8h ago"
   },
   {
     "id": "43273fdddfb8",
@@ -199,7 +253,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3my3yb7vabs2s",
     "published_iso": "2026-10-17T20:59:26.275000+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "e64f18bb75dd",
@@ -486,28 +540,6 @@
     "time_ago": "2d ago"
   },
   {
-    "id": "c9af20a9055a",
-    "politician": "Rep. Mike Johnson",
-    "initials": "MJ",
-    "role": "Speaker of the House",
-    "color": {
-      "bg": "#2a1a1a",
-      "fg": "#fbbf24"
-    },
-    "severity": "critical",
-    "content": "Despite our historically razor-thin majority and Democrats shutting down the government for 120 days, House Republicans have delivered common sense wins for the American people: \n \n\u2705 $4.6 trillion in tax cuts \u2014 the largest middle & working class tax cut in history \n\u2705 $1.6 trillion reduction in wasteful government spend",
-    "tags": [
-      "Healthcare",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.kareem.one/SpeakerJohnson/status/2111079914287862001#m",
-    "published_iso": "2026-10-16T13:00:48+00:00",
-    "time_ago": "2d ago"
-  },
-  {
     "id": "5f2e832b0ed9",
     "politician": "Rep. Nancy Pelosi",
     "initials": "NP",
@@ -639,7 +671,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
     "published_iso": "2026-10-08T20:30:00+00:00",
-    "time_ago": "9d ago"
+    "time_ago": "10d ago"
   },
   {
     "id": "ae07d7bc060b",
@@ -684,7 +716,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
     "published_iso": "2026-10-05T20:30:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "fba941a53e33",
@@ -710,7 +742,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/news/pelosi-update/working-families-first",
     "published_iso": "2026-10-03T21:13:42+00:00",
-    "time_ago": "14d ago"
+    "time_ago": "15d ago"
   },
   {
     "id": "16c86cf6bdf5",
@@ -736,7 +768,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
     "published_iso": "2026-10-02T20:45:00+00:00",
-    "time_ago": "15d ago"
+    "time_ago": "16d ago"
   },
   {
     "id": "8581e940fa48",
@@ -763,7 +795,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
     "published_iso": "2026-10-02T20:00:00+00:00",
-    "time_ago": "15d ago"
+    "time_ago": "16d ago"
   },
   {
     "id": "f5506a3890fe",
@@ -785,7 +817,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-six-penny-plan-to-balance-the-federal-budget-in-five-years-3/",
     "published_iso": "2026-09-22T20:41:12+00:00",
-    "time_ago": "25d ago"
+    "time_ago": "26d ago"
   },
   {
     "id": "f5ef8bcafaa7",
@@ -814,7 +846,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-statement-on-democrats-killing-clarity-act/",
     "published_iso": "2026-09-15T20:22:32+00:00",
-    "time_ago": "32d ago"
+    "time_ago": "33d ago"
   },
   {
     "id": "e8b69ccc4d67",
@@ -957,7 +989,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "89d ago"
+    "time_ago": "90d ago"
   },
   {
     "id": "79faa09fe8f6",
