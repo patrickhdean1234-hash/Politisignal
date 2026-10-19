@@ -1,5 +1,101 @@
 [
   {
+    "id": "65e89af11626",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Malik Muhammad Shahbaz bought 479 shares of Fuller H B Co (FUL) \u00b7 $52.23/share \u00b7 $25,000 total \u00b7 Oct 19",
+    "tags": [],
+    "tickers": [
+      "FUL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1621150/000122520826008441/0001225208-26-008441-index.htm",
+    "published_iso": "2026-10-19T13:38:01+00:00",
+    "time_ago": "22m ago"
+  },
+  {
+    "id": "81c5b240cca4",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Debbi Nir sold 1,502 shares of Global-E Online Ltd. (GLBE) \u00b7 $38.48/share \u00b7 $57,797 total \u00b7 Oct 19 ($580,510 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "GLBE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1964141/000119312526424765/0001193125-26-424765-index.htm",
+    "published_iso": "2026-10-19T13:37:33+00:00",
+    "time_ago": "22m ago"
+  },
+  {
+    "id": "bf1363e2a56d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Wicker calls on Trump, Zelensky to broker deal to stop strikes on Russian energy infrastructure. Senate Armed Services Committee Chairman Roger Wicker (R-Miss.) is calling on President Trump and Ukrainian President Volodymyr Zelensky to reach a deal to suspend Kyiv's strikes on Russian petroleum facilities, which Trump",
+    "tags": [
+      "Trade",
+      "Energy",
+      "Sanctions"
+    ],
+    "tickers": [
+      "XOM",
+      "CVX",
+      "COP",
+      "OXY"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/senate/6157442-wicker-urges-donald-trump-zelensky-deal/",
+    "published_iso": "2026-10-19T12:43:38+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "497ac6b20787",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Live updates: GOP airs frustration over Russia sanctions waiver; Trump heads to Kansas. President Trump is defending his decision to delay new sanctions on Russia, arguing he does not want to drive Moscow away from the negotiating table as he works to end the war in Ukraine. The move, however, is drawing increasing scr",
+    "tags": [
+      "Taxes",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6156709-live-updates-trump-russia-sanctions-gop-midterms/",
+    "published_iso": "2026-10-19T12:42:22+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "3de9a16646c4",
     "politician": "Federal Register",
     "initials": "FR",
@@ -16,7 +112,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/19/C1-2026-12067/fee-schedules-fee-recovery-for-fiscal-year-2026",
     "published_iso": "2026-10-19T04:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "1977b983f0ae",
@@ -37,7 +133,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21376/further-definition-of-swap-to-exclude-casino-style-gambling-products",
     "published_iso": "2026-10-19T04:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "46a89d529943",
@@ -64,7 +160,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21371/marine-mammals-incidental-take-of-polar-bears-and-pacific-walruses-in-the-beaufort-sea-and-north",
     "published_iso": "2026-10-19T04:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "09834689aa95",
@@ -85,7 +181,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21348/interpretation-of-flammable-liquid-fuels-with-respect-to-fuel-additives",
     "published_iso": "2026-10-19T04:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "c6daf059669a",
@@ -112,7 +208,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21346/outer-continental-shelf-oil-and-gas-leasing-corrections",
     "published_iso": "2026-10-19T04:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "2a0b804a9a39",
@@ -133,7 +229,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21333/airworthiness-directives-the-boeing-company-airplanes",
     "published_iso": "2026-10-19T04:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "466fb1faaea1",
@@ -152,32 +248,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21331/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-10-19T04:00:00+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "951bfae0fe32",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Trump defends waiving Russia sanctions, says it keeps Moscow at negotiating table. President Trump defended his decision to waive Russian sanctions on Sunday, writing in a Truth Social post that it keeps Moscow at the negotiating table amid backlash from both sides of the aisle over the decision. \u201cMy decision on Russia",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6157113-donald-trump-defends-russia-sanctions-waiver/",
-    "published_iso": "2026-10-19T00:00:45+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "e1a7cf714a2b",
@@ -196,35 +267,6 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3my6haxl5k22r",
     "published_iso": "2026-10-18T20:33:03.169000+00:00",
-    "time_ago": "10h ago"
-  },
-  {
-    "id": "8c4806f177b1",
-    "politician": "Sen. Rand Paul",
-    "initials": "RP",
-    "role": "Senate Foreign Relations Committee",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fbbf24"
-    },
-    "severity": "critical",
-    "content": "Good for President Trump! \n \n100% tariffs, on even our adversaries, hurts everyone including the U.S.  \n \n  cbsnews.com/news/trump-waive\u2026  \n \n Link  \n \n \n \n Trump waives tariffs on largest buyers of Russian oil, days before Lindsey Graham-backed law was... \n \n President Trump prevented some new sanctions on Russia and ",
-    "tags": [
-      "Trade",
-      "Energy",
-      "Regulation",
-      "Sanctions"
-    ],
-    "tickers": [
-      "XOM",
-      "CVX",
-      "COP",
-      "OXY"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.kareem.one/RandPaul/status/2111811017755763156#m",
-    "published_iso": "2026-10-18T13:25:56+00:00",
     "time_ago": "17h ago"
   },
   {
@@ -254,193 +296,6 @@
     "time_ago": "1d ago"
   },
   {
-    "id": "e64f18bb75dd",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Ainscow Robert sold 22,500 shares of Asp Isotopes Inc. (ASPI) \u00b7 $2.11/share \u00b7 $47,565 total \u00b7 Oct 16",
-    "tags": [],
-    "tickers": [
-      "ASPI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1951275/000147793226006312/0001477932-26-006312-index.htm",
-    "published_iso": "2026-10-17T01:57:56+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "e2b70bc280ff",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Singleton Nicole Marie exercised options for 9,522 shares of Firy Inc. (FIRY) \u00b7 Oct 16 ($35,033 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "FIRY"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2132337/000180166126000124/0001801661-26-000124-index.htm",
-    "published_iso": "2026-10-17T01:56:48+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "a2fdcc735570",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Paradise Andrew exercised options for 142,857 shares of Firy Inc. (FIRY) \u00b7 Oct 16 ($697,616 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "FIRY"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1836621/000180166126000123/0001801661-26-000123-index.htm",
-    "published_iso": "2026-10-17T01:56:20+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "0f322e1b8372",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Sanfilippo Thomas exercised options for 4,412 shares of Whitefiber, Inc. (WYFI) \u00b7 Oct 16 ($33,162 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "WYFI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2058414/000121390026110436/0001213900-26-110436-index.htm",
-    "published_iso": "2026-10-17T01:42:41+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "6c5318927de9",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Tabar Samir received 54,137 shares of Whitefiber, Inc. (WYFI) \u00b7 Oct 16",
-    "tags": [],
-    "tickers": [
-      "WYFI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2046468/000121390026110434/0001213900-26-110434-index.htm",
-    "published_iso": "2026-10-17T01:37:37+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "e5a6958a7a71",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Zhu Justin withheld (tax) 2,060 shares of Whitefiber, Inc. (WYFI) \u00b7 $20.39/share \u00b7 $42,003 total \u00b7 Oct 16 ($213,779 across all blocks)",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "WYFI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2082678/000121390026110433/0001213900-26-110433-index.htm",
-    "published_iso": "2026-10-17T01:36:50+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "22cf39140690",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Rabinowitz Matthew exercised options for 50,000 shares of Natera, Inc. (NTRA) \u00b7 $10.41/share \u00b7 $520,500 total \u00b7 Oct 16 ($20,652,528 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "NTRA"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1646382/000164638226000023/0001646382-26-000023-index.htm",
-    "published_iso": "2026-10-17T01:35:08+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "d2b7bbcf521b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Vittitow Matthew W. exercised options for 8,333 shares of Grabagun Digital Holdings Inc. (PEW-WT) \u00b7 Oct 16 ($3,806 across all blocks)",
-    "tags": [],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2060636/000121390026110429/0001213900-26-110429-index.htm",
-    "published_iso": "2026-10-17T01:20:20+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "f7b9033794f3",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Nemati Marc A. exercised options for 16,667 shares of Grabagun Digital Holdings Inc. (PEW-WT) \u00b7 Oct 16 ($7,601 across all blocks)",
-    "tags": [],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2060619/000121390026110428/0001213900-26-110428-index.htm",
-    "published_iso": "2026-10-17T01:20:01+00:00",
-    "time_ago": "2d ago"
-  },
-  {
     "id": "f9a84fdd7ad1",
     "politician": "White House",
     "initials": "WH",
@@ -465,69 +320,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/10/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/",
     "published_iso": "2026-10-17T00:34:24+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "6491bceeec54",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "nytimes.com/2026/10/02/busin\u2026  \n \n Link  \n \n \n \n Soaring Instrument Prices Could Stop the Music at Many Schools \n \n When a single cello can cost $1,000 and a tuba $9,000, tariffs are straining meager band and orchestra budgets. \n  nytimes.com",
-    "tags": [
-      "Trade"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.kareem.one/SenWarren/status/2111215864804696156#m",
-    "published_iso": "2026-10-16T22:01:01+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "df4e33971d17",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "School music programs should be opening doors for kids. \n \nBut because of Donald Trump's tariffs, schools are struggling to put instruments in students' hands. \n \nEven kids are paying the price for Trump's economic agenda.",
-    "tags": [
-      "Trade"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.kareem.one/SenWarren/status/2111215863147970833#m",
-    "published_iso": "2026-10-16T22:01:00+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "57514d36dacf",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "School music programs should be opening doors for kids.\n\nBut because of Donald Trump's tariffs, schools are struggling to put instruments in students' hands.\n\nEven kids are paying the price for Trump's economic agenda.",
-    "tags": [
-      "Trade"
-    ],
-    "tickers": [],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mxzl7wl26c2s",
-    "published_iso": "2026-10-16T22:00:44.836000+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -688,7 +480,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
     "published_iso": "2026-10-09T14:00:00+00:00",
-    "time_ago": "9d ago"
+    "time_ago": "10d ago"
   },
   {
     "id": "48db85994cba",
@@ -1007,7 +799,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "88d ago"
+    "time_ago": "89d ago"
   },
   {
     "id": "555d7f3dd315",
@@ -1122,7 +914,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "202d ago"
+    "time_ago": "203d ago"
   },
   {
     "id": "432e035b915b",
