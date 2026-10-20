@@ -1,5 +1,133 @@
 [
   {
+    "id": "9f5d9da1e903",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Kappus Anthony Ray exercised options for 1,413 shares of Upwork, Inc (UPWK) \u00b7 Oct 20 ($4,712 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "UPWK"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1860481/000186048126000019/0001860481-26-000019-index.htm",
+    "published_iso": "2026-10-20T20:34:17+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "64af2ce9bb43",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "Trump's war on Iran is driving up interest rates and making mortgages more expensive. Meanwhile, his chaotic tariffs are making it more expensive to build new houses. \n\nTrump is making it harder for YOU to afford a home.",
+    "tags": [
+      "Trade",
+      "Banking",
+      "Sanctions"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mydgeh6uh22t",
+    "published_iso": "2026-10-20T20:00:25.156000+00:00",
+    "time_ago": "33m ago"
+  },
+  {
+    "id": "89ee878c2cd0",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Former NATO commander: 'No balance' to Trump decision 'to give in to Russia'. Former NATO Supreme Allied Commander Wesley Clark\u00a0on Monday said there was \"no balance\" in President Trump's decision \"to give in to Russia\" after waiving sanctions and agreeing to permit Russian diesel into the U.S. while supporting Ukraine'",
+    "tags": [
+      "Trade",
+      "Defense",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/defense/6160655-wesley-clark-donald-trump-russia-sanction-diesel/",
+    "published_iso": "2026-10-20T19:22:49+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "9475aeac017e",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "You're paying thousands of dollars while Trump makes billions off the presidency.\n\n@warren.senate.gov did the math: Here are the latest inflation numbers and what it has cost you.",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [
+      "GLD",
+      "TLT",
+      "SPY"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mydcweblm22a",
+    "published_iso": "2026-10-20T18:58:51.111000+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "c7358ca5a2b5",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "New data shows the average credit card interest rate hit 21.4% in 2025.\n\nDonald Trump promised to cap rates at 10%.\n\nEvery day he doesn\u2019t deliver, American borrowers pay an extra $368 million in interest.\n\nWorking families continue paying the price for Trump\u2019s broken promises.",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mydchibksc2h",
+    "published_iso": "2026-10-20T18:50:31.988000+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "6a6c15f2d414",
     "politician": "White House",
     "initials": "WH",
@@ -19,7 +147,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/delivering-for-north-carolina-safer-streets-bigger-paychecks-and-a-manufacturing-boom-under-president-trump/",
     "published_iso": "2026-10-20T16:33:15+00:00",
-    "time_ago": "38m ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "0ff0bc477284",
@@ -42,7 +170,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mycutitzxk2e",
     "published_iso": "2026-10-20T14:46:42.853000+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "4f5e1b0b2fd5",
@@ -68,7 +196,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21474/civil-penalties-inflation-adjustments-annual-adjustments",
     "published_iso": "2026-10-20T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "79b830d579c7",
@@ -87,7 +215,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21450/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-general-category",
     "published_iso": "2026-10-20T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "8130ddb27f90",
@@ -109,7 +237,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21422/airspace-designations-incorporation-by-reference-amendment-of-faa-order-jo-740011m",
     "published_iso": "2026-10-20T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "24494ed42177",
@@ -132,7 +260,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-delivers-historic-wins-for-kansas-workers-families-farmers-and-rural-communities/",
     "published_iso": "2026-10-19T18:00:25+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "c5eb6a8d524e",
@@ -292,25 +420,6 @@
     "time_ago": "1d ago"
   },
   {
-    "id": "e1a7cf714a2b",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "Watch out: going out to eat at your favorite restaurant could become even more expensive.\n \nThe Trump administration might approve a merger between Sysco and Restaurant Depot \u2014 threatening higher supply costs for small businesses and higher prices for you.",
-    "tags": [],
-    "tickers": [],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3my6haxl5k22r",
-    "published_iso": "2026-10-18T20:33:03.169000+00:00",
-    "time_ago": "1d ago"
-  },
-  {
     "id": "43273fdddfb8",
     "politician": "Rep. Nancy Pelosi",
     "initials": "NP",
@@ -428,7 +537,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
     "published_iso": "2026-10-13T18:00:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "fffcc02c1c16",
@@ -451,7 +560,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-tour-utahs-advanced-manufacturing-plants",
     "published_iso": "2026-10-09T18:45:18+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "1adf28d01f2a",
@@ -500,7 +609,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
     "published_iso": "2026-10-08T20:30:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "ae07d7bc060b",
@@ -519,7 +628,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
     "published_iso": "2026-10-07T18:00:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "757a1bd60826",
@@ -545,7 +654,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
     "published_iso": "2026-10-05T20:30:00+00:00",
-    "time_ago": "14d ago"
+    "time_ago": "15d ago"
   },
   {
     "id": "fba941a53e33",
@@ -624,7 +733,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
     "published_iso": "2026-10-02T20:00:00+00:00",
-    "time_ago": "17d ago"
+    "time_ago": "18d ago"
   },
   {
     "id": "f5506a3890fe",
@@ -675,7 +784,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-statement-on-democrats-killing-clarity-act/",
     "published_iso": "2026-09-15T20:22:32+00:00",
-    "time_ago": "34d ago"
+    "time_ago": "35d ago"
   },
   {
     "id": "e8b69ccc4d67",
@@ -696,7 +805,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/news/pelosi-update/remembrance-and-renewal",
     "published_iso": "2026-09-11T18:24:02+00:00",
-    "time_ago": "38d ago"
+    "time_ago": "39d ago"
   },
   {
     "id": "baf26d52584e",
@@ -774,7 +883,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "89d ago"
+    "time_ago": "90d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -930,7 +1039,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "208d ago"
+    "time_ago": "209d ago"
   },
   {
     "id": "00f579ee8f55",
