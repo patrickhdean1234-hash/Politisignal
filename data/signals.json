@@ -1,5 +1,114 @@
 [
   {
+    "id": "96f7390bf48b",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Wang Chun Kai bought 12,192 shares of Obook Holdings Inc. (OWLS) \u00b7 $4.27/share \u00b7 $52,037 total \u00b7 Oct 21",
+    "tags": [],
+    "tickers": [
+      "OWLS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2109337/000210933726000012/0002109337-26-000012-index.htm",
+    "published_iso": "2026-10-21T11:31:12+00:00",
+    "time_ago": "49m ago"
+  },
+  {
+    "id": "3ce67dc70563",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "The false promise of free health care comes with an invoice for the middle class. \"Money out of politics! Money in your pocket! Medicare for All!\" That's the rally chant of Abdul El-Sayed, who won Michigan's Democratic Senate primary in August. It's catchy. So was \"If you like your health care plan, you can keep it.\" P",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/healthcare/6160399-medicare-for-all-fiscal-risks/",
+    "published_iso": "2026-10-21T11:30:00+00:00",
+    "time_ago": "50m ago"
+  },
+  {
+    "id": "6339259610f4",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Marshall faces final debate in fight for political life. In today\u2019s issue:  Sen. Roger Marshall (Kan.) faces his second and final debate against Democrat Adam Hamilton as the first-term Republican fights for his political life in a razor-tight race.   The race has the potential to be biggest surprise of the entire midt",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/morning-report/6161798-marshall-hamilton-final-debate-trump-fraud-whistleblowers/",
+    "published_iso": "2026-10-21T11:08:31+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "c60f6096274f",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hou Tianyu sold 4,867 shares of Sea Ltd (SE) \u00b7 $88.54/share \u00b7 $430,924 total \u00b7 Oct 21 ($890,328 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "SE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2113220/000119312526427145/0001193125-26-427145-index.htm",
+    "published_iso": "2026-10-21T10:01:15+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "def342b3567b",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Wang Yanjun sold 958 shares of Sea Ltd (SE) \u00b7 $90.29/share \u00b7 $86,498 total \u00b7 Oct 21 ($155,658 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "SE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2113214/000119312526427144/0001193125-26-427144-index.htm",
+    "published_iso": "2026-10-21T10:00:55+00:00",
+    "time_ago": "2h ago"
+  },
+  {
     "id": "254e349f963a",
     "politician": "Federal Register",
     "initials": "FR",
@@ -16,7 +125,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21556/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pacific-cod-in-the-western",
     "published_iso": "2026-10-21T04:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "d39229fbf263",
@@ -35,7 +144,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21498/safety-zone-tv-denise-foss-on-1254223-honolulu-hi",
     "published_iso": "2026-10-21T04:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "c9ac86f74e51",
@@ -62,269 +171,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21478/security-zones-protection-of-military-cargo-captain-of-the-port-zone-puget-sound-wa",
     "published_iso": "2026-10-21T04:00:00+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "7bf0289c374a",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Tang Teck Shen acquired/disposed 69,375 shares of Rantizo (SKK) \u00b7 $7.37/share \u00b7 $511,294 total \u00b7 Oct 20",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [
-      "SKK"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2161293/000091957426007106/0000919574-26-007106-index.htm",
-    "published_iso": "2026-10-21T01:58:32+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "3cc4faa875d9",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Lefebvre D'Ovidio Manfredi exercised options for 817 shares of Arqit Quantum Inc. (ARQQ) \u00b7 Oct 20",
-    "tags": [],
-    "tickers": [
-      "ARQQ"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1859690/000185969026000196/0001859690-26-000196-index.htm",
-    "published_iso": "2026-10-21T01:37:39+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "bed2979857b0",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Sheena Jonathan sold 215 shares of Natera, Inc. (NTRA) \u00b7 $399.34/share \u00b7 $85,858 total \u00b7 Oct 20 ($603,710 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "NTRA"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1646649/000164664926000034/0001646649-26-000034-index.htm",
-    "published_iso": "2026-10-21T01:35:06+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "a9d163ea8add",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Trump says Pentagon will invest $1.5 billion into North Carolina chip production. President Trump on Tuesday announced a $1.5 billion dollar investment from the Pentagon to expand semiconductor production in North Carolina, as the administration pushes to reshore manufacturing to the U.S. \u201cThe Department of War will be",
-    "tags": [
-      "Semiconductors",
-      "Defense",
-      "Regulation"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "AMD",
-      "QCOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6161642-trump-pentagon-semiconductor-investment/",
-    "published_iso": "2026-10-21T01:26:11+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "57f3c697fab5",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Schlossman Robert received 14,185 shares of Zscaler, Inc. (ZS) \u00b7 Oct 20",
-    "tags": [],
-    "tickers": [
-      "ZS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368326000208/0001713683-26-000208-index.htm",
-    "published_iso": "2026-10-21T01:22:47+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "edc30e935ecd",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Rubin Kevin received 19,859 shares of Zscaler, Inc. (ZS) \u00b7 Oct 20",
-    "tags": [],
-    "tickers": [
-      "ZS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368326000206/0001713683-26-000206-index.htm",
-    "published_iso": "2026-10-21T01:21:53+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "6d049f8a0b94",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Geller Adam received 19,859 shares of Zscaler, Inc. (ZS) \u00b7 Oct 20",
-    "tags": [],
-    "tickers": [
-      "ZS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2040014/000171368326000204/0001713683-26-000204-index.htm",
-    "published_iso": "2026-10-21T01:21:06+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "d9003c32c954",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Seidl Randy exercised options for 6,481 shares of Ondas Inc. (ONDS) \u00b7 Oct 20 ($0 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "ONDS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1665774/000121390026111132/0001213900-26-111132-index.htm",
-    "published_iso": "2026-10-21T01:12:53+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "7ce5fab052fb",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Giroux Richard sold 56,000 shares of Meiragtx Holdings Plc (MGTX) \u00b7 $9.95/share \u00b7 $557,200 total \u00b7 Oct 20",
-    "tags": [],
-    "tickers": [
-      "MGTX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1742734/000174273426000022/0001742734-26-000022-index.htm",
-    "published_iso": "2026-10-21T00:57:16+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "cc36f6ee0182",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Quinlan Paul T exercised options for 9,000 shares of Oruka Therapeutics, Inc. (ORKA) \u00b7 $7.80/share \u00b7 $70,200 total \u00b7 Oct 20 ($776,935 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "ORKA"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1333277/000090765426000110/0000907654-26-000110-index.htm",
-    "published_iso": "2026-10-21T00:42:22+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "6a02662de65f",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Cornell responds to Jane Doe's letter saying she felt 'unsupported' by university president. A woman known as Jane Doe who accused seven men at Cornell University of sexual assault at a fraternity house sent a letter to the school saying she \u201cfelt unsupported and disebelieved\u201d by the Ivy League institution\u2019s president,",
-    "tags": [
-      "Agriculture",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/education/6161542-jane-doe-cornell-letter/",
-    "published_iso": "2026-10-20T23:14:13+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "cf727cb8fba6",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "White House relies on existing laws to regulate AI. {beacon} Technology Technology &#8202; The Big Story  Can existing laws take on AI? Trump is betting on it. The Trump administration is relying on existing criminal and civil laws to hold artificial intelligence developers accountable in an age of unpredictable AI age",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/technology/6161499-white-house-relies-on-existing-laws-to-regulate-ai/",
-    "published_iso": "2026-10-20T22:37:24+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "64af2ce9bb43",
@@ -352,7 +199,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mydgeh6uh22t",
     "published_iso": "2026-10-20T20:00:25.156000+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "9475aeac017e",
@@ -377,59 +224,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mydcweblm22a",
     "published_iso": "2026-10-20T18:58:51.111000+00:00",
-    "time_ago": "11h ago"
-  },
-  {
-    "id": "4a61938fb88b",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "New data shows the average credit card interest rate hit 21.4% in 2025. \n \nDonald Trump promised to cap rates at 10%. \n \nEvery day he doesn\u2019t deliver, American borrowers pay an extra $368 million in interest. \n \nWorking families continue paying the price for Trump\u2019s broken promises.",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nitter.meowing.monster/SenWarren/status/2112617511846109673#m",
-    "published_iso": "2026-10-20T18:50:40+00:00",
-    "time_ago": "11h ago"
-  },
-  {
-    "id": "a46656392d63",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "paymentsdive.com/news/credit\u2026  \n \n Link  \n \n \n \n Credit card debt ticks up \n \n Consumers have been grappling with rising credit card interest rates and ballooning balances in the past few years, a recent Fed survey found. \n  paymentsdive.com",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nitter.meowing.monster/SenWarren/status/2112617514387886392#m",
-    "published_iso": "2026-10-20T18:50:40+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "c7358ca5a2b5",
@@ -455,7 +250,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mydchibksc2h",
     "published_iso": "2026-10-20T18:50:31.988000+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "6a6c15f2d414",
@@ -477,7 +272,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/delivering-for-north-carolina-safer-streets-bigger-paychecks-and-a-manufacturing-boom-under-president-trump/",
     "published_iso": "2026-10-20T16:33:15+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "0ff0bc477284",
@@ -500,7 +295,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mycutitzxk2e",
     "published_iso": "2026-10-20T14:46:42.853000+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "4f5e1b0b2fd5",
@@ -701,32 +496,6 @@
     "time_ago": "3d ago"
   },
   {
-    "id": "cfb78ede1c08",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank. Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
-    "published_iso": "2026-10-16T15:00:00+00:00",
-    "time_ago": "4d ago"
-  },
-  {
     "id": "5f2e832b0ed9",
     "politician": "Rep. Nancy Pelosi",
     "initials": "NP",
@@ -747,25 +516,6 @@
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mxwdtzmld22s",
     "published_iso": "2026-10-15T15:10:49.971000+00:00",
     "time_ago": "5d ago"
-  },
-  {
-    "id": "229838d4b313",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026. Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-    "tags": [],
-    "tickers": [],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
-    "published_iso": "2026-10-13T18:00:00+00:00",
-    "time_ago": "7d ago"
   },
   {
     "id": "fffcc02c1c16",
@@ -789,100 +539,6 @@
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-tour-utahs-advanced-manufacturing-plants",
     "published_iso": "2026-10-09T18:45:18+00:00",
     "time_ago": "11d ago"
-  },
-  {
-    "id": "1adf28d01f2a",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families. Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers w",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
-    "published_iso": "2026-10-09T14:00:00+00:00",
-    "time_ago": "11d ago"
-  },
-  {
-    "id": "48db85994cba",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm\u2019s failure to sufficiently detect and report certain suspicious activity related to money laundering. Federal Reserve Board announces enforcement action against American Express Company to address",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "AXP"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
-    "published_iso": "2026-10-08T20:30:00+00:00",
-    "time_ago": "12d ago"
-  },
-  {
-    "id": "ae07d7bc060b",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "Minutes of the Federal Open Market Committee, September 15-16, 2026. Minutes of the Federal Open Market Committee, September 15-16, 2026",
-    "tags": [],
-    "tickers": [],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
-    "published_iso": "2026-10-07T18:00:00+00:00",
-    "time_ago": "13d ago"
-  },
-  {
-    "id": "757a1bd60826",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board announces approval of application by Isabella Bank Corporation. Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
-    "published_iso": "2026-10-05T20:30:00+00:00",
-    "time_ago": "15d ago"
   },
   {
     "id": "fba941a53e33",
@@ -909,59 +565,6 @@
     "url": "http://pelosi.house.gov/news/pelosi-update/working-families-first",
     "published_iso": "2026-10-03T21:13:42+00:00",
     "time_ago": "17d ago"
-  },
-  {
-    "id": "16c86cf6bdf5",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "high",
-    "content": "Federal Reserve Board announces approval of application by Fleur Capital Corporation. Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
-    "published_iso": "2026-10-02T20:45:00+00:00",
-    "time_ago": "18d ago"
-  },
-  {
-    "id": "8581e940fa48",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "high",
-    "content": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O. Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-    "tags": [
-      "Banking",
-      "Regulation"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
-    "published_iso": "2026-10-02T20:00:00+00:00",
-    "time_ago": "18d ago"
   },
   {
     "id": "f5506a3890fe",
