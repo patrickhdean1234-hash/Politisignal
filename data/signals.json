@@ -1,6 +1,6 @@
 [
   {
-    "id": "96f7390bf48b",
+    "id": "9d5be0f19890",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,65 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Wang Chun Kai bought 12,192 shares of Obook Holdings Inc. (OWLS) \u00b7 $4.27/share \u00b7 $52,037 total \u00b7 Oct 21",
-    "tags": [],
+    "content": "Topercer Benjamin James withheld (tax) 954 shares of Enerpac Tool Group Corp (EPAC) \u00b7 $35.23/share \u00b7 $33,609 total \u00b7 Oct 21",
+    "tags": [
+      "Taxes"
+    ],
     "tickers": [
-      "OWLS"
+      "EPAC"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2109337/000210933726000012/0002109337-26-000012-index.htm",
-    "published_iso": "2026-10-21T11:31:12+00:00",
-    "time_ago": "49m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1912161/000000695526000089/0000006955-26-000089-index.htm",
+    "published_iso": "2026-10-21T17:16:46+00:00",
+    "time_ago": "7m ago"
   },
   {
-    "id": "3ce67dc70563",
+    "id": "e948df0aad54",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Jefferson Philip Ashley withheld (tax) 457 shares of Enerpac Tool Group Corp (EPAC) \u00b7 $35.23/share \u00b7 $16,100 total \u00b7 Oct 21",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "EPAC"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2131936/000000695526000085/0000006955-26-000085-index.htm",
+    "published_iso": "2026-10-21T17:12:25+00:00",
+    "time_ago": "11m ago"
+  },
+  {
+    "id": "bb4b7ce42d01",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Tamari Shahar sold 24,999 shares of Global-E Online Ltd. (GLBE) \u00b7 $39.54/share \u00b7 $988,423 total \u00b7 Oct 21",
+    "tags": [],
+    "tickers": [
+      "GLBE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1964142/000119312526427623/0001193125-26-427623-index.htm",
+    "published_iso": "2026-10-21T17:11:39+00:00",
+    "time_ago": "12m ago"
+  },
+  {
+    "id": "6b9d4b1d03ac",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -29,24 +75,48 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "The false promise of free health care comes with an invoice for the middle class. \"Money out of politics! Money in your pocket! Medicare for All!\" That's the rally chant of Abdul El-Sayed, who won Michigan's Democratic Senate primary in August. It's catchy. So was \"If you like your health care plan, you can keep it.\" P",
+    "severity": "critical",
+    "content": "Jon Stewart torches Trump's dealings with Russia. Americans could get little relief at the pump while Moscow gets sanctions relief and another opportunity to negotiate directly with Washington on their terms only",
     "tags": [
-      "Healthcare"
+      "Sanctions"
     ],
     "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
+      "LMT",
+      "RTX",
+      "XOM"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/healthcare/6160399-medicare-for-all-fiscal-risks/",
-    "published_iso": "2026-10-21T11:30:00+00:00",
-    "time_ago": "50m ago"
+    "url": "https://thehill.com/opinion/lindseys-lens/6163196-jon-stewart-torches-trumps-dealings-with-russia/",
+    "published_iso": "2026-10-21T16:44:26+00:00",
+    "time_ago": "39m ago"
   },
   {
-    "id": "6339259610f4",
+    "id": "68d72d966bc2",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Boeing has overcharged the Pentagon nearly 8,000% for soap dispensers.\n \nTalk about government waste.\n \nIf the Pentagon wants to crack down on price gouging by defense contractors and do something to save American tax dollars \u2014 I'm all in.",
+    "tags": [
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [
+      "BA"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3myflglmspk2u",
+    "published_iso": "2026-10-21T16:36:25.102000+00:00",
+    "time_ago": "46m ago"
+  },
+  {
+    "id": "e29119d6276f",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -54,59 +124,40 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Marshall faces final debate in fight for political life. In today\u2019s issue:  Sen. Roger Marshall (Kan.) faces his second and final debate against Democrat Adam Hamilton as the first-term Republican fights for his political life in a razor-tight race.   The race has the potential to be biggest surprise of the entire midt",
+    "severity": "critical",
+    "content": "Trump, Graham campaign on heels of Russian sanctions waiver. Plus: \ud83d\udcacSenate debates in Michigan, Kansas {beacon} It\u2019s Wednesday, and Washington is buzzing for the Wizards\u2019 season opener tonight against the Milwaukee Bucks.   &#8202; In today's issue: Trump-Graham rally Senate debates in Michigan, Kansas Ramaswamy takes ",
     "tags": [
-      "Taxes"
+      "Sanctions"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/morning-report/6161798-marshall-hamilton-final-debate-trump-fraud-whistleblowers/",
-    "published_iso": "2026-10-21T11:08:31+00:00",
+    "url": "https://thehill.com/newsletters/1230-report/6163034-trump-graham-campaign-on-heels-of-russian-sanctions-waiver/",
+    "published_iso": "2026-10-21T16:30:00+00:00",
+    "time_ago": "53m ago"
+  },
+  {
+    "id": "3ac7e2275fc1",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Neil Bush, brother of George W. Bush, says he voted for Talarico. Former President George W. Bush\u2019s brother announced Tuesday that he voted for Democrat James Talarico in the high-stakes Texas Senate race. In a post on Facebook, Neil Bush wrote that while he normally stays out of politics, he had serious concerns about",
+    "tags": [
+      "Big Tech"
+    ],
+    "tickers": [
+      "META"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/6162954-neil-bush-voted-talarico/",
+    "published_iso": "2026-10-21T16:22:07+00:00",
     "time_ago": "1h ago"
-  },
-  {
-    "id": "c60f6096274f",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hou Tianyu sold 4,867 shares of Sea Ltd (SE) \u00b7 $88.54/share \u00b7 $430,924 total \u00b7 Oct 21 ($890,328 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "SE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2113220/000119312526427145/0001193125-26-427145-index.htm",
-    "published_iso": "2026-10-21T10:01:15+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "def342b3567b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Wang Yanjun sold 958 shares of Sea Ltd (SE) \u00b7 $90.29/share \u00b7 $86,498 total \u00b7 Oct 21 ($155,658 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "SE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2113214/000119312526427144/0001193125-26-427144-index.htm",
-    "published_iso": "2026-10-21T10:00:55+00:00",
-    "time_ago": "2h ago"
   },
   {
     "id": "254e349f963a",
@@ -125,7 +176,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21556/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pacific-cod-in-the-western",
     "published_iso": "2026-10-21T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "d39229fbf263",
@@ -144,7 +195,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21498/safety-zone-tv-denise-foss-on-1254223-honolulu-hi",
     "published_iso": "2026-10-21T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "c9ac86f74e51",
@@ -171,35 +222,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21478/security-zones-protection-of-military-cargo-captain-of-the-port-zone-puget-sound-wa",
     "published_iso": "2026-10-21T04:00:00+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "64af2ce9bb43",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "Trump's war on Iran is driving up interest rates and making mortgages more expensive. Meanwhile, his chaotic tariffs are making it more expensive to build new houses. \n\nTrump is making it harder for YOU to afford a home.",
-    "tags": [
-      "Trade",
-      "Banking",
-      "Sanctions"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mydgeh6uh22t",
-    "published_iso": "2026-10-20T20:00:25.156000+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "9475aeac017e",
@@ -224,33 +247,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mydcweblm22a",
     "published_iso": "2026-10-20T18:58:51.111000+00:00",
-    "time_ago": "17h ago"
-  },
-  {
-    "id": "c7358ca5a2b5",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "New data shows the average credit card interest rate hit 21.4% in 2025.\n\nDonald Trump promised to cap rates at 10%.\n\nEvery day he doesn\u2019t deliver, American borrowers pay an extra $368 million in interest.\n\nWorking families continue paying the price for Trump\u2019s broken promises.",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mydchibksc2h",
-    "published_iso": "2026-10-20T18:50:31.988000+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "6a6c15f2d414",
@@ -272,30 +269,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/delivering-for-north-carolina-safer-streets-bigger-paychecks-and-a-manufacturing-boom-under-president-trump/",
     "published_iso": "2026-10-20T16:33:15+00:00",
-    "time_ago": "19h ago"
-  },
-  {
-    "id": "0ff0bc477284",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "The scariest thing Americans face this Halloween won\u2019t be a haunted house, but the price tags in the candy aisle.\n\n\ud83d\udea8NEW: We and @tcfdotorg.bsky.social found Halloween candy prices are up 15.3% \u2013 a staggering 4x overall inflation.",
-    "tags": [],
-    "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mycutitzxk2e",
-    "published_iso": "2026-10-20T14:46:42.853000+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "4f5e1b0b2fd5",
@@ -406,7 +380,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-champions-new-u-s-womens-health-initiative/",
     "published_iso": "2026-10-19T15:35:08+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "dd74a91c319c",
@@ -427,7 +401,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-and-first-lady-melania-trump-advance-womens-health-to-improve-outcomes-in-all-phases-of-life/",
     "published_iso": "2026-10-19T15:24:43+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "3de9a16646c4",
@@ -496,6 +470,32 @@
     "time_ago": "3d ago"
   },
   {
+    "id": "cfb78ede1c08",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank. Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+    "published_iso": "2026-10-16T15:00:00+00:00",
+    "time_ago": "5d ago"
+  },
+  {
     "id": "5f2e832b0ed9",
     "politician": "Rep. Nancy Pelosi",
     "initials": "NP",
@@ -515,7 +515,26 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mxwdtzmld22s",
     "published_iso": "2026-10-15T15:10:49.971000+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
+  },
+  {
+    "id": "229838d4b313",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026. Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+    "tags": [],
+    "tickers": [],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+    "published_iso": "2026-10-13T18:00:00+00:00",
+    "time_ago": "7d ago"
   },
   {
     "id": "fffcc02c1c16",
@@ -539,6 +558,100 @@
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-tour-utahs-advanced-manufacturing-plants",
     "published_iso": "2026-10-09T18:45:18+00:00",
     "time_ago": "11d ago"
+  },
+  {
+    "id": "1adf28d01f2a",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families. Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers w",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+    "published_iso": "2026-10-09T14:00:00+00:00",
+    "time_ago": "12d ago"
+  },
+  {
+    "id": "48db85994cba",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm\u2019s failure to sufficiently detect and report certain suspicious activity related to money laundering. Federal Reserve Board announces enforcement action against American Express Company to address",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "AXP"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+    "published_iso": "2026-10-08T20:30:00+00:00",
+    "time_ago": "12d ago"
+  },
+  {
+    "id": "ae07d7bc060b",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "Minutes of the Federal Open Market Committee, September 15-16, 2026. Minutes of the Federal Open Market Committee, September 15-16, 2026",
+    "tags": [],
+    "tickers": [],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+    "published_iso": "2026-10-07T18:00:00+00:00",
+    "time_ago": "13d ago"
+  },
+  {
+    "id": "757a1bd60826",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board announces approval of application by Isabella Bank Corporation. Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
+    "published_iso": "2026-10-05T20:30:00+00:00",
+    "time_ago": "15d ago"
   },
   {
     "id": "fba941a53e33",
@@ -565,6 +678,59 @@
     "url": "http://pelosi.house.gov/news/pelosi-update/working-families-first",
     "published_iso": "2026-10-03T21:13:42+00:00",
     "time_ago": "17d ago"
+  },
+  {
+    "id": "16c86cf6bdf5",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "high",
+    "content": "Federal Reserve Board announces approval of application by Fleur Capital Corporation. Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+    "published_iso": "2026-10-02T20:45:00+00:00",
+    "time_ago": "18d ago"
+  },
+  {
+    "id": "8581e940fa48",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "high",
+    "content": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O. Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+    "tags": [
+      "Banking",
+      "Regulation"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
+    "published_iso": "2026-10-02T20:00:00+00:00",
+    "time_ago": "18d ago"
   },
   {
     "id": "f5506a3890fe",
@@ -664,7 +830,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "74d ago"
+    "time_ago": "75d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -693,7 +859,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "89d ago"
+    "time_ago": "90d ago"
   },
   {
     "id": "de38f5381391",
@@ -736,7 +902,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "90d ago"
+    "time_ago": "91d ago"
   },
   {
     "id": "555d7f3dd315",
@@ -779,7 +945,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "162d ago"
+    "time_ago": "163d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -805,7 +971,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "168d ago"
+    "time_ago": "169d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -827,7 +993,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "176d ago"
+    "time_ago": "177d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -851,7 +1017,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "204d ago"
+    "time_ago": "205d ago"
   },
   {
     "id": "432e035b915b",
@@ -891,7 +1057,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "249d ago"
+    "time_ago": "250d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -910,7 +1076,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "249d ago"
+    "time_ago": "250d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -936,7 +1102,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "271d ago"
+    "time_ago": "272d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -955,6 +1121,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "308d ago"
+    "time_ago": "309d ago"
   }
 ]
