@@ -1,73 +1,6 @@
 [
   {
-    "id": "9d5be0f19890",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Topercer Benjamin James withheld (tax) 954 shares of Enerpac Tool Group Corp (EPAC) \u00b7 $35.23/share \u00b7 $33,609 total \u00b7 Oct 21",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "EPAC"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1912161/000000695526000089/0000006955-26-000089-index.htm",
-    "published_iso": "2026-10-21T17:16:46+00:00",
-    "time_ago": "7m ago"
-  },
-  {
-    "id": "e948df0aad54",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Jefferson Philip Ashley withheld (tax) 457 shares of Enerpac Tool Group Corp (EPAC) \u00b7 $35.23/share \u00b7 $16,100 total \u00b7 Oct 21",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "EPAC"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2131936/000000695526000085/0000006955-26-000085-index.htm",
-    "published_iso": "2026-10-21T17:12:25+00:00",
-    "time_ago": "11m ago"
-  },
-  {
-    "id": "bb4b7ce42d01",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Tamari Shahar sold 24,999 shares of Global-E Online Ltd. (GLBE) \u00b7 $39.54/share \u00b7 $988,423 total \u00b7 Oct 21",
-    "tags": [],
-    "tickers": [
-      "GLBE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1964142/000119312526427623/0001193125-26-427623-index.htm",
-    "published_iso": "2026-10-21T17:11:39+00:00",
-    "time_ago": "12m ago"
-  },
-  {
-    "id": "6b9d4b1d03ac",
+    "id": "73e0ece71910",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -75,9 +8,10 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "critical",
-    "content": "Jon Stewart torches Trump's dealings with Russia. Americans could get little relief at the pump while Moscow gets sanctions relief and another opportunity to negotiate directly with Washington on their terms only",
+    "severity": "medium",
+    "content": "Russia sending first diesel shipment to US on Thursday. Russia is going to send its first tanker with diesel to the U.S. on Thursday, Deputy Prime Minister Alexander Novak said. According to a Reuters report citing the RIA news agency and other media, Novak said Wednesday that the vessel will carry 40,000 metric tons o",
     "tags": [
+      "Taxes",
       "Sanctions"
     ],
     "tickers": [
@@ -87,9 +21,108 @@
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/lindseys-lens/6163196-jon-stewart-torches-trumps-dealings-with-russia/",
-    "published_iso": "2026-10-21T16:44:26+00:00",
-    "time_ago": "39m ago"
+    "url": "https://thehill.com/policy/international/6163838-russia-to-ship-diesel-us/",
+    "published_iso": "2026-10-21T20:41:43+00:00",
+    "time_ago": "4m ago"
+  },
+  {
+    "id": "1286b639730b",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Trump links Russia sanctions waiver to release of jailed American. President Trump said Wednesday his success in freeing an American wrongly imprisoned in Russia was related to his much-criticized decision to hold back on imposing sanctions on Russia aimed at strangling its ability to wage war in Ukraine.\u00a0 While acknow",
+    "tags": [
+      "Trade",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/6163898-trump-waives-russian-sanctions-hubbard/",
+    "published_iso": "2026-10-21T20:15:58+00:00",
+    "time_ago": "29m ago"
+  },
+  {
+    "id": "a9a5ef0dca78",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Gas, groceries, electricity: Where prices stand as midterms approach. September\u2019s uptick in inflation dealt Americans with higher prices just before the midterm elections, as Democrats seek to wrestle back control of Congress from the GOP by highlighting affordability concerns. Annual inflation was 3.7 percent last mon",
+    "tags": [
+      "Energy"
+    ],
+    "tickers": [
+      "GLD",
+      "TLT",
+      "SPY"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/6163770-september-inflation-uptick-prices-midterms/",
+    "published_iso": "2026-10-21T19:51:33+00:00",
+    "time_ago": "54m ago"
+  },
+  {
+    "id": "2bb83a642f4c",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
+    },
+    "severity": "medium",
+    "content": "The reality of socialism\u2019s \u201cfree\u201d things? Higher taxes, out-of-control debt, and fewer opportunities for everyone. \n \nWith the national debt above $40 trillion and inflation still at 3.7%, we cannot afford to add trillions more to the pile. If anything, we should be making across-the-board cuts and balancing the budget",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "GLD",
+      "TLT",
+      "SPY"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.meowing.monster/RandPaul/status/2112988037496070609#m",
+    "published_iso": "2026-10-21T19:23:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "6ed8797e5534",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "President Trump Secures Major Wins for South Carolina Workers, Families, and Communities. President Donald J. Trump returns to South Carolina today to highlight a proven record of results that put workers, families, seniors, and communities first. Under President Trump and Republican leadership, South Carolinians are s",
+    "tags": [
+      "Healthcare",
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-secures-major-wins-for-south-carolina-workers-families-and-communities/",
+    "published_iso": "2026-10-21T18:26:45+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "68d72d966bc2",
@@ -113,51 +146,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3myflglmspk2u",
     "published_iso": "2026-10-21T16:36:25.102000+00:00",
-    "time_ago": "46m ago"
-  },
-  {
-    "id": "e29119d6276f",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Trump, Graham campaign on heels of Russian sanctions waiver. Plus: \ud83d\udcacSenate debates in Michigan, Kansas {beacon} It\u2019s Wednesday, and Washington is buzzing for the Wizards\u2019 season opener tonight against the Milwaukee Bucks.   &#8202; In today's issue: Trump-Graham rally Senate debates in Michigan, Kansas Ramaswamy takes ",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/1230-report/6163034-trump-graham-campaign-on-heels-of-russian-sanctions-waiver/",
-    "published_iso": "2026-10-21T16:30:00+00:00",
-    "time_ago": "53m ago"
-  },
-  {
-    "id": "3ac7e2275fc1",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Neil Bush, brother of George W. Bush, says he voted for Talarico. Former President George W. Bush\u2019s brother announced Tuesday that he voted for Democrat James Talarico in the high-stakes Texas Senate race. In a post on Facebook, Neil Bush wrote that while he normally stays out of politics, he had serious concerns about",
-    "tags": [
-      "Big Tech"
-    ],
-    "tickers": [
-      "META"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/6162954-neil-bush-voted-talarico/",
-    "published_iso": "2026-10-21T16:22:07+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "254e349f963a",
@@ -176,7 +165,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21556/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pacific-cod-in-the-western",
     "published_iso": "2026-10-21T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "d39229fbf263",
@@ -195,7 +184,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21498/safety-zone-tv-denise-foss-on-1254223-honolulu-hi",
     "published_iso": "2026-10-21T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "c9ac86f74e51",
@@ -222,32 +211,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21478/security-zones-protection-of-military-cargo-captain-of-the-port-zone-puget-sound-wa",
     "published_iso": "2026-10-21T04:00:00+00:00",
-    "time_ago": "13h ago"
-  },
-  {
-    "id": "9475aeac017e",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "You're paying thousands of dollars while Trump makes billions off the presidency.\n\n@warren.senate.gov did the math: Here are the latest inflation numbers and what it has cost you.",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mydcweblm22a",
-    "published_iso": "2026-10-20T18:58:51.111000+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "6a6c15f2d414",
@@ -359,7 +323,49 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-delivers-historic-wins-for-kansas-workers-families-farmers-and-rural-communities/",
     "published_iso": "2026-10-19T18:00:25+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
+  },
+  {
+    "id": "030282589440",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Brown Bruce bought 4,235 shares of Magnera Corp (MAGN) \u00b7 $11.81/share \u00b7 $49,996 total \u00b7 Oct 19",
+    "tags": [],
+    "tickers": [
+      "MAGN"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1436840/000004171926000051/0000041719-26-000051-index.htm",
+    "published_iso": "2026-10-19T17:11:01+00:00",
+    "time_ago": "2d ago"
+  },
+  {
+    "id": "fe8866024479",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Stratton Frederick P Jr exercised options for 2,000 shares of Weyco Group Inc (WEYS) \u00b7 $37.22/share \u00b7 $74,440 total \u00b7 Oct 19 ($712,670 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "WEYS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1196963/000119696326000004/0001196963-26-000004-index.htm",
+    "published_iso": "2026-10-19T17:06:58+00:00",
+    "time_ago": "2d ago"
   },
   {
     "id": "c5eb6a8d524e",
@@ -380,27 +386,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-champions-new-u-s-womens-health-initiative/",
     "published_iso": "2026-10-19T15:35:08+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "dd74a91c319c",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "Fact Sheet: President Donald J. Trump and First Lady Melania Trump Advance Women\u2019s Health to Improve Outcomes in All Phases of Life. PRIORITIZING SOLUTIONS FOR WOMEN\u2019S HEALTH:\u00a0Today, President Donald J. Trump signed an Executive Order, led by First Lady Melania Trump, to strengthen research, prevention, diagnosis, trea",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-and-first-lady-melania-trump-advance-womens-health-to-improve-outcomes-in-all-phases-of-life/",
-    "published_iso": "2026-10-19T15:24:43+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -534,7 +519,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
     "published_iso": "2026-10-13T18:00:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "fffcc02c1c16",
@@ -557,7 +542,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-tour-utahs-advanced-manufacturing-plants",
     "published_iso": "2026-10-09T18:45:18+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "1adf28d01f2a",
@@ -606,7 +591,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
     "published_iso": "2026-10-08T20:30:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "ae07d7bc060b",
@@ -625,7 +610,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
     "published_iso": "2026-10-07T18:00:00+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "757a1bd60826",
@@ -651,7 +636,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
     "published_iso": "2026-10-05T20:30:00+00:00",
-    "time_ago": "15d ago"
+    "time_ago": "16d ago"
   },
   {
     "id": "fba941a53e33",
@@ -703,7 +688,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
     "published_iso": "2026-10-02T20:45:00+00:00",
-    "time_ago": "18d ago"
+    "time_ago": "19d ago"
   },
   {
     "id": "8581e940fa48",
@@ -730,7 +715,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
     "published_iso": "2026-10-02T20:00:00+00:00",
-    "time_ago": "18d ago"
+    "time_ago": "19d ago"
   },
   {
     "id": "f5506a3890fe",
@@ -752,7 +737,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-six-penny-plan-to-balance-the-federal-budget-in-five-years-3/",
     "published_iso": "2026-09-22T20:41:12+00:00",
-    "time_ago": "28d ago"
+    "time_ago": "29d ago"
   },
   {
     "id": "f5ef8bcafaa7",
@@ -781,7 +766,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-statement-on-democrats-killing-clarity-act/",
     "published_iso": "2026-09-15T20:22:32+00:00",
-    "time_ago": "35d ago"
+    "time_ago": "36d ago"
   },
   {
     "id": "e8b69ccc4d67",
@@ -802,7 +787,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/news/pelosi-update/remembrance-and-renewal",
     "published_iso": "2026-09-11T18:24:02+00:00",
-    "time_ago": "39d ago"
+    "time_ago": "40d ago"
   },
   {
     "id": "baf26d52584e",
@@ -831,6 +816,27 @@
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
     "time_ago": "75d ago"
+  },
+  {
+    "id": "1a1d646c1e56",
+    "politician": "Rep. Alexandria Ocasio-Cortez",
+    "initials": "AOC",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#93c5fd"
+    },
+    "severity": "high",
+    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.kareem.one/AOC/status/2085006319220625569#m",
+    "published_iso": "2026-08-05T14:13:38+00:00",
+    "time_ago": "77d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -880,7 +886,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "90d ago"
+    "time_ago": "91d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -1036,7 +1042,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "209d ago"
+    "time_ago": "210d ago"
   },
   {
     "id": "00f579ee8f55",
