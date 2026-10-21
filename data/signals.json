@@ -1,5 +1,93 @@
 [
   {
+    "id": "254e349f963a",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Fisheries of the Exclusive Economic Zone Off Alaska; Reallocation of Pacific Cod in the Western Regulatory Area of the Gulf of Alaska. NMFS is reallocating the projected unused amounts of Pacific cod from catcher vessels using trawl gear to catcher vessels using pot gear in the Western Regulatory Area of the Gulf of Al",
+    "tags": [],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21556/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pacific-cod-in-the-western",
+    "published_iso": "2026-10-21T04:00:00+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "d39229fbf263",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Safety Zone; T/V DENISE FOSS (O.N. 1254223), Honolulu, HI. The Coast Guard is establishing a temporary safety zone for navigable waters within a 500-yard radius of the T/V DENISE FOSS (O.N. 1254223) and its tow, FOSS 3612 (O.N. 1255436). The moving safety zone is needed to protect personnel, vessels, and the marine env",
+    "tags": [],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21498/safety-zone-tv-denise-foss-on-1254223-honolulu-hi",
+    "published_iso": "2026-10-21T04:00:00+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "c9ac86f74e51",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "critical",
+    "content": "Security Zones; Protection of Military Cargo, Captain of the Port Zone Puget Sound, WA. The Coast Guard will enforce security zones for the Protection of Military Cargo from October 30 through November 1, 2026, to provide for the security of life and vessels on navigable waterways during this event. Our regulation for ",
+    "tags": [
+      "Defense",
+      "Regulation"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21478/security-zones-protection-of-military-cargo-captain-of-the-port-zone-puget-sound-wa",
+    "published_iso": "2026-10-21T04:00:00+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "7bf0289c374a",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Tang Teck Shen acquired/disposed 69,375 shares of Rantizo (SKK) \u00b7 $7.37/share \u00b7 $511,294 total \u00b7 Oct 20",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "SKK"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2161293/000091957426007106/0000919574-26-007106-index.htm",
+    "published_iso": "2026-10-21T01:58:32+00:00",
+    "time_ago": "4h ago"
+  },
+  {
     "id": "3cc4faa875d9",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
@@ -18,7 +106,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1859690/000185969026000196/0001859690-26-000196-index.htm",
     "published_iso": "2026-10-21T01:37:39+00:00",
-    "time_ago": "6m ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "bed2979857b0",
@@ -39,7 +127,35 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1646649/000164664926000034/0001646649-26-000034-index.htm",
     "published_iso": "2026-10-21T01:35:06+00:00",
-    "time_ago": "9m ago"
+    "time_ago": "5h ago"
+  },
+  {
+    "id": "a9d163ea8add",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Trump says Pentagon will invest $1.5 billion into North Carolina chip production. President Trump on Tuesday announced a $1.5 billion dollar investment from the Pentagon to expand semiconductor production in North Carolina, as the administration pushes to reshore manufacturing to the U.S. \u201cThe Department of War will be",
+    "tags": [
+      "Semiconductors",
+      "Defense",
+      "Regulation"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "AMD",
+      "QCOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6161642-trump-pentagon-semiconductor-investment/",
+    "published_iso": "2026-10-21T01:26:11+00:00",
+    "time_ago": "5h ago"
   },
   {
     "id": "57f3c697fab5",
@@ -60,7 +176,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368326000208/0001713683-26-000208-index.htm",
     "published_iso": "2026-10-21T01:22:47+00:00",
-    "time_ago": "21m ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "edc30e935ecd",
@@ -81,7 +197,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368326000206/0001713683-26-000206-index.htm",
     "published_iso": "2026-10-21T01:21:53+00:00",
-    "time_ago": "22m ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "6d049f8a0b94",
@@ -102,7 +218,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/2040014/000171368326000204/0001713683-26-000204-index.htm",
     "published_iso": "2026-10-21T01:21:06+00:00",
-    "time_ago": "23m ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "d9003c32c954",
@@ -123,7 +239,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1665774/000121390026111132/0001213900-26-111132-index.htm",
     "published_iso": "2026-10-21T01:12:53+00:00",
-    "time_ago": "31m ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "7ce5fab052fb",
@@ -144,7 +260,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1742734/000174273426000022/0001742734-26-000022-index.htm",
     "published_iso": "2026-10-21T00:57:16+00:00",
-    "time_ago": "47m ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "cc36f6ee0182",
@@ -165,7 +281,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1333277/000090765426000110/0000907654-26-000110-index.htm",
     "published_iso": "2026-10-21T00:42:22+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "6a02662de65f",
@@ -187,7 +303,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/homenews/education/6161542-jane-doe-cornell-letter/",
     "published_iso": "2026-10-20T23:14:13+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "cf727cb8fba6",
@@ -208,30 +324,7 @@
     "platform": "The Hill",
     "url": "https://thehill.com/newsletters/technology/6161499-white-house-relies-on-existing-laws-to-regulate-ai/",
     "published_iso": "2026-10-20T22:37:24+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "1eff6efd3811",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Spanberger pushes for 6-year rate-hike freeze if Dominion-Next Era merger approved. Virginia Gov. Abigail Spanberger (D) is pushing for a six-year pause on electricity rate hikes in the commonwealth as part of a merger between NextEra Energy and Dominion Energy. Spanberger on Monday filed expert testimony with the Stat",
-    "tags": [
-      "Energy"
-    ],
-    "tickers": [
-      "NEE"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/state-watch/6161285-spanberger-demands-utility-rate-pause/",
-    "published_iso": "2026-10-20T22:10:55+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "64af2ce9bb43",
@@ -259,7 +352,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mydgeh6uh22t",
     "published_iso": "2026-10-20T20:00:25.156000+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "9475aeac017e",
@@ -284,7 +377,59 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mydcweblm22a",
     "published_iso": "2026-10-20T18:58:51.111000+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "11h ago"
+  },
+  {
+    "id": "4a61938fb88b",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "New data shows the average credit card interest rate hit 21.4% in 2025. \n \nDonald Trump promised to cap rates at 10%. \n \nEvery day he doesn\u2019t deliver, American borrowers pay an extra $368 million in interest. \n \nWorking families continue paying the price for Trump\u2019s broken promises.",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.meowing.monster/SenWarren/status/2112617511846109673#m",
+    "published_iso": "2026-10-20T18:50:40+00:00",
+    "time_ago": "11h ago"
+  },
+  {
+    "id": "a46656392d63",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "paymentsdive.com/news/credit\u2026  \n \n Link  \n \n \n \n Credit card debt ticks up \n \n Consumers have been grappling with rising credit card interest rates and ballooning balances in the past few years, a recent Fed survey found. \n  paymentsdive.com",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.meowing.monster/SenWarren/status/2112617514387886392#m",
+    "published_iso": "2026-10-20T18:50:40+00:00",
+    "time_ago": "11h ago"
   },
   {
     "id": "c7358ca5a2b5",
@@ -310,7 +455,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mydchibksc2h",
     "published_iso": "2026-10-20T18:50:31.988000+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "6a6c15f2d414",
@@ -332,7 +477,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/delivering-for-north-carolina-safer-streets-bigger-paychecks-and-a-manufacturing-boom-under-president-trump/",
     "published_iso": "2026-10-20T16:33:15+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "0ff0bc477284",
@@ -355,7 +500,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mycutitzxk2e",
     "published_iso": "2026-10-20T14:46:42.853000+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "4f5e1b0b2fd5",
@@ -381,7 +526,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21474/civil-penalties-inflation-adjustments-annual-adjustments",
     "published_iso": "2026-10-20T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "79b830d579c7",
@@ -400,7 +545,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21450/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-general-category",
     "published_iso": "2026-10-20T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "8130ddb27f90",
@@ -422,7 +567,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21422/airspace-designations-incorporation-by-reference-amendment-of-faa-order-jo-740011m",
     "published_iso": "2026-10-20T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "24494ed42177",
@@ -506,7 +651,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/19/C1-2026-12067/fee-schedules-fee-recovery-for-fiscal-year-2026",
     "published_iso": "2026-10-19T04:00:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "1977b983f0ae",
@@ -527,82 +672,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21376/further-definition-of-swap-to-exclude-casino-style-gambling-products",
     "published_iso": "2026-10-19T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "46a89d529943",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Marine Mammals; Incidental Take of Polar Bears and Pacific Walruses in the Beaufort Sea and North Slope of Alaska. We, the U.S. Fish and Wildlife Service (FWS), in response to a request under the Marine Mammal Protection Act (MMPA) of 1972 from the Alaska Oil and Gas Association (AOGA), finalize regulations facilitatin",
-    "tags": [
-      "Energy",
-      "Regulation"
-    ],
-    "tickers": [
-      "XOM",
-      "CVX",
-      "COP",
-      "OXY"
-    ],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21371/marine-mammals-incidental-take-of-polar-bears-and-pacific-walruses-in-the-beaufort-sea-and-north",
-    "published_iso": "2026-10-19T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "09834689aa95",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Interpretation of \u201cFlammable Liquid Fuels\u201d With Respect to Fuel Additives. The Consumer Product Safety Commission (CPSC) is issuing an interpretive rule that interprets the phrase &quot;flammable liquid fuels&quot; as used in the Portable Fuel Container Safety Act of 2020 (PFCSA). Consistent with the plain language of ",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21348/interpretation-of-flammable-liquid-fuels-with-respect-to-fuel-additives",
-    "published_iso": "2026-10-19T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "c6daf059669a",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Outer Continental Shelf Oil and Gas Leasing; Corrections. The Department of the Interior (DOI), acting through the Bureau of Ocean Energy Management (BOEM), is correcting citations in 30 CFR part 560. DOI issued two rules in 2008 and 2016 where some of the finalized amendments were never incorporated into the CFR. This",
-    "tags": [
-      "Energy",
-      "Regulation"
-    ],
-    "tickers": [
-      "XOM",
-      "CVX",
-      "COP",
-      "OXY"
-    ],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21346/outer-continental-shelf-oil-and-gas-leasing-corrections",
-    "published_iso": "2026-10-19T04:00:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "43273fdddfb8",
