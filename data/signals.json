@@ -1,5 +1,53 @@
 [
   {
+    "id": "142ee342d5b4",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Epstein David R bought 5,000 shares of Agomab Therapeutics Nv (AGMB) \u00b7 $8.86/share \u00b7 $44,300 total \u00b7 Oct 22 ($88,800 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "AGMB"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2020932/000144582626000015/0001445826-26-000015-index.htm",
+    "published_iso": "2026-10-22T12:14:43+00:00",
+    "time_ago": "17m ago"
+  },
+  {
+    "id": "d333319a00e8",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Iran: 7 ships hit in the Strait of Hormuz. Iran said on Thursday its navy hit seven oil tankers traveling through the Strait of Hormuz, threatening to exacerbate regional tensions and the global energy crisis that is driving inflation. The Iranian Revolutionary Guard Corps\u2019s (IRGC) navy claimed, in a statement, to have",
+    "tags": [
+      "Energy",
+      "Sanctions"
+    ],
+    "tickers": [
+      "XOM",
+      "CVX",
+      "COP",
+      "OXY"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/defense/6164731-iran-navy-hits-oil-tankers/",
+    "published_iso": "2026-10-22T12:01:51+00:00",
+    "time_ago": "30m ago"
+  },
+  {
     "id": "13aebde042e7",
     "politician": "Federal Register",
     "initials": "FR",
@@ -16,7 +64,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21636/safety-zone-brownsville-ship-channel-brownsville-tx",
     "published_iso": "2026-10-22T04:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "4582be97818f",
@@ -35,7 +83,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21622/virginia-approval-of-state-coal-combustion-residuals-permit-program",
     "published_iso": "2026-10-22T04:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "c63e9789ceff",
@@ -54,7 +102,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21607/fisheries-off-west-coast-states-modification-of-the-west-coast-salmon-fisheries-inseason-action-1-11",
     "published_iso": "2026-10-22T04:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "97b5da504708",
@@ -75,7 +123,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21603/nevada-codification-and-incorporation-by-reference-of-approved-underground-storage-tank-program",
     "published_iso": "2026-10-22T04:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "7f489e30215d",
@@ -97,7 +145,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21600/indefinite-suspension-of-the-de-minimis-exemption-for-mail-shipments-and-new-postal-informal-entry",
     "published_iso": "2026-10-22T04:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "b3d4b3bb40ed",
@@ -116,7 +164,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21598/court-orders-and-legal-processes-affecting-thrift-savings-plan-accounts",
     "published_iso": "2026-10-22T04:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "a26292e26bd4",
@@ -135,7 +183,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21593/rin-1625-aa00",
     "published_iso": "2026-10-22T04:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "e87b6db5132e",
@@ -156,175 +204,32 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21590/airworthiness-directives-general-electric-company-engines",
     "published_iso": "2026-10-22T04:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "8h ago"
   },
   {
-    "id": "6287dfb5a673",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "2bb83a642f4c",
+    "politician": "Sen. Rand Paul",
+    "initials": "RP",
+    "role": "Senate Foreign Relations Committee",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#2a1818",
+      "fg": "#fbbf24"
     },
     "severity": "medium",
-    "content": "Tiffany, Crowley tangle in only Wisconsin governor's debate: 3 takeaways. Democrat David Crowley and Republican Tom Tiffany faced off in their first and only debate in the race to succeed retiring Wisconsin Gov. Tony Evers (D). Crowley, the Milwaukee County executive, and Tiffany, a House Republican, tangled on hot-but",
+    "content": "The reality of socialism\u2019s \u201cfree\u201d things? Higher taxes, out-of-control debt, and fewer opportunities for everyone. \n \nWith the national debt above $40 trillion and inflation still at 3.7%, we cannot afford to add trillions more to the pile. If anything, we should be making across-the-board cuts and balancing the budget",
     "tags": [
       "Taxes"
     ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/6164326-tiffany-crowley-wisconsin-governor-debate-takeaways/",
-    "published_iso": "2026-10-22T03:42:57+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "e6dab8bffa45",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "El-Sayed, Rogers face off in last Michigan Senate debate: 3 takeaways. Democrat Abdul El-Sayed and Republican Mike Rogers faced off in their second and final debate in the race for Michigan\u2019s open Senate seat, a pivotal contest that could determine control of the upper chamber.\u00a0 The debate was less fiery than their fir",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/6164307-michigan-senate-debate-el-sayed-rogers-takeaways/",
-    "published_iso": "2026-10-22T02:15:22+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "d8582631d64d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Kiessling Heather sold 21,830 shares of Asp Isotopes Inc. (ASPI) \u00b7 $2.19/share \u00b7 $47,808 total \u00b7 Oct 21",
-    "tags": [],
     "tickers": [
-      "ASPI"
+      "GLD",
+      "TLT",
+      "SPY"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2026548/000147793226006387/0001477932-26-006387-index.htm",
-    "published_iso": "2026-10-22T01:45:10+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "d3676f87bf2b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Cramer Keith sold 12,000 shares of Mediaalpha, Inc. (MAX) \u00b7 $11.39/share \u00b7 $136,645 total \u00b7 Oct 21",
-    "tags": [],
-    "tickers": [
-      "MAX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1829989/000181838326000258/0001818383-26-000258-index.htm",
-    "published_iso": "2026-10-22T01:41:12+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "84797e2af0d3",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Nonko Eugene sold 1,940 shares of Mediaalpha, Inc. (MAX) \u00b7 $11.39/share \u00b7 $22,091 total \u00b7 Oct 21 ($319,858 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "MAX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1830016/000181838326000257/0001818383-26-000257-index.htm",
-    "published_iso": "2026-10-22T01:40:57+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "38c94165e042",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "1 killed, 8 wounded in Saudi Arabia airport attack. An attack on an airport in Saudi Arabia by the Iranian-backed Houthis killed one person and injured eight others, officials confirmed Wednesday. Saudi Arabia\u2019s General Authority of Civil Aviation said in a statement that the rebel group targeted the King Fahd Internat",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/international/6164397-houthi-attacked-king-fahd-airport/",
-    "published_iso": "2026-10-22T00:05:52+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "904ce53a9b45",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Kurtz George sold 1,640 shares of Crowdstrike Holdings, Inc. (CRWD) \u00b7 $227.78/share \u00b7 $373,559 total \u00b7 Oct 21 ($4,557,951 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CRWD"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1778564/000177856426000189/0001778564-26-000189-index.htm",
-    "published_iso": "2026-10-22T00:00:06+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "aff9f71f03f4",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Ingram Orrin H Ii bought 15,591 shares of Fb Financial Corp (FBK) \u00b7 $52.68/share \u00b7 $821,334 total \u00b7 Oct 21 ($1,537,788 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "FBK"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1649749/000119147326000008/0001191473-26-000008-index.htm",
-    "published_iso": "2026-10-21T23:24:01+00:00",
-    "time_ago": "7h ago"
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.meowing.monster/RandPaul/status/2112988037496070609#m",
+    "published_iso": "2026-10-21T19:23:00+00:00",
+    "time_ago": "17h ago"
   },
   {
     "id": "6ed8797e5534",
@@ -347,7 +252,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-secures-major-wins-for-south-carolina-workers-families-and-communities/",
     "published_iso": "2026-10-21T18:26:45+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "6a6c15f2d414",
@@ -874,7 +779,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "91d ago"
+    "time_ago": "92d ago"
   },
   {
     "id": "555d7f3dd315",
