@@ -1,6 +1,6 @@
 [
   {
-    "id": "142ee342d5b4",
+    "id": "4f3c2bc63f46",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +9,61 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Epstein David R bought 5,000 shares of Agomab Therapeutics Nv (AGMB) \u00b7 $8.86/share \u00b7 $44,300 total \u00b7 Oct 22 ($88,800 across all blocks)",
+    "content": "Dm Individual Aggregator, Llc sold 50,709 shares of Dutch Bros Inc. (BROS) \u00b7 $44.01/share \u00b7 $2,231,602 total \u00b7 Oct 22",
     "tags": [],
     "tickers": [
-      "AGMB"
+      "BROS"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2020932/000144582626000015/0001445826-26-000015-index.htm",
-    "published_iso": "2026-10-22T12:14:43+00:00",
-    "time_ago": "17m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1883096/000186658126000160/0001866581-26-000160-index.htm",
+    "published_iso": "2026-10-22T17:27:46+00:00",
+    "time_ago": "5m ago"
   },
   {
-    "id": "d333319a00e8",
+    "id": "a9c42b61608d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Dm Trust Aggregator, Llc sold 94,978 shares of Dutch Bros Inc. (BROS) \u00b7 $44.01/share \u00b7 $4,179,792 total \u00b7 Oct 22",
+    "tags": [],
+    "tickers": [
+      "BROS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1883105/000186658126000159/0001866581-26-000159-index.htm",
+    "published_iso": "2026-10-22T17:27:39+00:00",
+    "time_ago": "6m ago"
+  },
+  {
+    "id": "d042881402b5",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Boersma Travis sold 94,978 shares of Dutch Bros Inc. (BROS) \u00b7 $44.01/share \u00b7 $4,179,792 total \u00b7 Oct 22 ($6,411,393 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "BROS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1883154/000186658126000158/0001866581-26-000158-index.htm",
+    "published_iso": "2026-10-22T17:27:29+00:00",
+    "time_ago": "6m ago"
+  },
+  {
+    "id": "4cb36dfc1b69",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -30,22 +72,92 @@
       "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Iran: 7 ships hit in the Strait of Hormuz. Iran said on Thursday its navy hit seven oil tankers traveling through the Strait of Hormuz, threatening to exacerbate regional tensions and the global energy crisis that is driving inflation. The Iranian Revolutionary Guard Corps\u2019s (IRGC) navy claimed, in a statement, to have",
+    "content": "Congress must close this tariff loophole. Can Congress meaningfully constrain presidential tariff authority when an older, less restrictive statute offers an alternative route to achieve the same goal?",
     "tags": [
-      "Energy",
-      "Sanctions"
+      "Trade"
     ],
     "tickers": [
-      "XOM",
-      "CVX",
-      "COP",
-      "OXY"
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/defense/6164731-iran-navy-hits-oil-tankers/",
-    "published_iso": "2026-10-22T12:01:51+00:00",
-    "time_ago": "30m ago"
+    "url": "https://thehill.com/opinion/international/6163849-trump-canada-tariffs-lawsuit/",
+    "published_iso": "2026-10-22T17:00:00+00:00",
+    "time_ago": "33m ago"
+  },
+  {
+    "id": "9093dd3fa5e7",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "UnitedHealthcare, Humana Medicare Advantage cancellations to affect 1 million. The plans being discontinued are primarily Preferred Provider Organizations, which offer more flexible provider networks",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "HUM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/healthcare/6165587-unitedhealthcare-humana-medicare-advantage-cancellations-to-affect-1-million/",
+    "published_iso": "2026-10-22T16:46:26+00:00",
+    "time_ago": "47m ago"
+  },
+  {
+    "id": "9e8db5065e0f",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Trump says he called Google\u2019s CEO to rename the Atlantic Ocean. President Trump said Wednesday he asked Google CEO Sundar Pichai to rename the Atlantic Ocean on the company\u2019s Google Maps application, a request the tech executive denied. \u201cWe seriously looked at the Atlantic Ocean,\u201d Trump said during a rally in Clemson, ",
+    "tags": [
+      "Big Tech"
+    ],
+    "tickers": [
+      "GOOGL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6165586-trump-google-maps-atlantic-request/",
+    "published_iso": "2026-10-22T16:33:15+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "1db46083fe0e",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "Americans are facing a \"food insecurity crisis\" after shouldering an additional $22 billion in food costs due to rising inflation and billions of dollars in food-stamp cuts, according to Sen. Elizabeth Warren.",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [
+      "GLD",
+      "TLT",
+      "SPY"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3myhzugf76j2s",
+    "published_iso": "2026-10-22T16:00:01.191000+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "13aebde042e7",
@@ -64,7 +176,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21636/safety-zone-brownsville-ship-channel-brownsville-tx",
     "published_iso": "2026-10-22T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "4582be97818f",
@@ -83,7 +195,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21622/virginia-approval-of-state-coal-combustion-residuals-permit-program",
     "published_iso": "2026-10-22T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "c63e9789ceff",
@@ -102,7 +214,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21607/fisheries-off-west-coast-states-modification-of-the-west-coast-salmon-fisheries-inseason-action-1-11",
     "published_iso": "2026-10-22T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "97b5da504708",
@@ -123,7 +235,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21603/nevada-codification-and-incorporation-by-reference-of-approved-underground-storage-tank-program",
     "published_iso": "2026-10-22T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "7f489e30215d",
@@ -145,7 +257,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21600/indefinite-suspension-of-the-de-minimis-exemption-for-mail-shipments-and-new-postal-informal-entry",
     "published_iso": "2026-10-22T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "b3d4b3bb40ed",
@@ -164,7 +276,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21598/court-orders-and-legal-processes-affecting-thrift-savings-plan-accounts",
     "published_iso": "2026-10-22T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "a26292e26bd4",
@@ -183,7 +295,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21593/rin-1625-aa00",
     "published_iso": "2026-10-22T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "e87b6db5132e",
@@ -204,32 +316,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21590/airworthiness-directives-general-electric-company-engines",
     "published_iso": "2026-10-22T04:00:00+00:00",
-    "time_ago": "8h ago"
-  },
-  {
-    "id": "2bb83a642f4c",
-    "politician": "Sen. Rand Paul",
-    "initials": "RP",
-    "role": "Senate Foreign Relations Committee",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fbbf24"
-    },
-    "severity": "medium",
-    "content": "The reality of socialism\u2019s \u201cfree\u201d things? Higher taxes, out-of-control debt, and fewer opportunities for everyone. \n \nWith the national debt above $40 trillion and inflation still at 3.7%, we cannot afford to add trillions more to the pile. If anything, we should be making across-the-board cuts and balancing the budget",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nitter.meowing.monster/RandPaul/status/2112988037496070609#m",
-    "published_iso": "2026-10-21T19:23:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "6ed8797e5534",
@@ -252,7 +339,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-secures-major-wins-for-south-carolina-workers-families-and-communities/",
     "published_iso": "2026-10-21T18:26:45+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "6a6c15f2d414",
@@ -274,7 +361,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/delivering-for-north-carolina-safer-streets-bigger-paychecks-and-a-manufacturing-boom-under-president-trump/",
     "published_iso": "2026-10-20T16:33:15+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "24494ed42177",
@@ -318,7 +405,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-champions-new-u-s-womens-health-initiative/",
     "published_iso": "2026-10-19T15:35:08+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "43273fdddfb8",
@@ -370,7 +457,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
     "published_iso": "2026-10-16T15:00:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "5f2e832b0ed9",
@@ -392,7 +479,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mxwdtzmld22s",
     "published_iso": "2026-10-15T15:10:49.971000+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "229838d4b313",
@@ -460,7 +547,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
     "published_iso": "2026-10-09T14:00:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "48db85994cba",
@@ -707,7 +794,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "75d ago"
+    "time_ago": "76d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -736,7 +823,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "90d ago"
+    "time_ago": "91d ago"
   },
   {
     "id": "de38f5381391",
@@ -822,7 +909,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "163d ago"
+    "time_ago": "164d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -848,7 +935,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "169d ago"
+    "time_ago": "170d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -870,7 +957,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "177d ago"
+    "time_ago": "178d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -894,7 +981,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "205d ago"
+    "time_ago": "206d ago"
   },
   {
     "id": "432e035b915b",
@@ -934,7 +1021,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "250d ago"
+    "time_ago": "251d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -953,7 +1040,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "250d ago"
+    "time_ago": "251d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -979,7 +1066,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "272d ago"
+    "time_ago": "273d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -998,6 +1085,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "309d ago"
+    "time_ago": "310d ago"
   }
 ]
