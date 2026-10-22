@@ -1,6 +1,6 @@
 [
   {
-    "id": "4f3c2bc63f46",
+    "id": "0b000277b475",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,130 +9,153 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Dm Individual Aggregator, Llc sold 50,709 shares of Dutch Bros Inc. (BROS) \u00b7 $44.01/share \u00b7 $2,231,602 total \u00b7 Oct 22",
-    "tags": [],
+    "content": "Patterson Kathleen L. withheld (tax) 31,047 shares of Ally Financial Inc. (ALLY) \u00b7 $37.97/share \u00b7 $1,178,855 total \u00b7 Oct 22 ($1,674,738 across all blocks)",
+    "tags": [
+      "Taxes"
+    ],
     "tickers": [
-      "BROS"
+      "ALLY"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1883096/000186658126000160/0001866581-26-000160-index.htm",
-    "published_iso": "2026-10-22T17:27:46+00:00",
-    "time_ago": "5m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2047749/000204774926000006/0002047749-26-000006-index.htm",
+    "published_iso": "2026-10-22T20:42:25+00:00",
+    "time_ago": "3m ago"
   },
   {
-    "id": "a9c42b61608d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "830de2429398",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Dm Trust Aggregator, Llc sold 94,978 shares of Dutch Bros Inc. (BROS) \u00b7 $44.01/share \u00b7 $4,179,792 total \u00b7 Oct 22",
-    "tags": [],
-    "tickers": [
-      "BROS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1883105/000186658126000159/0001866581-26-000159-index.htm",
-    "published_iso": "2026-10-22T17:27:39+00:00",
-    "time_ago": "6m ago"
-  },
-  {
-    "id": "d042881402b5",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Boersma Travis sold 94,978 shares of Dutch Bros Inc. (BROS) \u00b7 $44.01/share \u00b7 $4,179,792 total \u00b7 Oct 22 ($6,411,393 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "BROS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1883154/000186658126000158/0001866581-26-000158-index.htm",
-    "published_iso": "2026-10-22T17:27:29+00:00",
-    "time_ago": "6m ago"
-  },
-  {
-    "id": "4cb36dfc1b69",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
     },
     "severity": "critical",
-    "content": "Congress must close this tariff loophole. Can Congress meaningfully constrain presidential tariff authority when an older, less restrictive statute offers an alternative route to achieve the same goal?",
+    "content": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity. MEMORANDUM FOR THE SECRETARY OF WAR SUBJECT:\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amende",
     "tags": [
-      "Trade"
+      "Energy",
+      "Defense",
+      "Taxes"
     ],
     "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
+      "XOM",
+      "CVX",
+      "COP",
+      "OXY"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/international/6163849-trump-canada-tariffs-lawsuit/",
-    "published_iso": "2026-10-22T17:00:00+00:00",
-    "time_ago": "33m ago"
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/10/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-domestic-petroleum-production-refining-and-logistics-capacity-c139/",
+    "published_iso": "2026-10-22T20:41:16+00:00",
+    "time_ago": "4m ago"
   },
   {
-    "id": "9093dd3fa5e7",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "fce43db89a1b",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "UnitedHealthcare, Humana Medicare Advantage cancellations to affect 1 million. The plans being discontinued are primarily Preferred Provider Organizations, which offer more flexible provider networks",
-    "tags": [
-      "Healthcare"
-    ],
+    "content": "Kelsey Todd P. sold 779 shares of Plexus Corp (PLXS) \u00b7 $238.47/share \u00b7 $185,767 total \u00b7 Oct 22 ($358,747 across all blocks)",
+    "tags": [],
     "tickers": [
-      "HUM"
+      "PLXS"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/healthcare/6165587-unitedhealthcare-humana-medicare-advantage-cancellations-to-affect-1-million/",
-    "published_iso": "2026-10-22T16:46:26+00:00",
-    "time_ago": "47m ago"
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1411282/000141128226000024/0001411282-26-000024-index.htm",
+    "published_iso": "2026-10-22T20:37:08+00:00",
+    "time_ago": "8m ago"
   },
   {
-    "id": "9e8db5065e0f",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "055600f48590",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Trump says he called Google\u2019s CEO to rename the Atlantic Ocean. President Trump said Wednesday he asked Google CEO Sundar Pichai to rename the Atlantic Ocean on the company\u2019s Google Maps application, a request the tech executive denied. \u201cWe seriously looked at the Atlantic Ocean,\u201d Trump said during a rally in Clemson, ",
+    "content": "King Ryan A converted 11,318 shares of Chime Financial, Inc. (CHYM) \u00b7 Oct 22 ($351,162 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "CHYM"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2061219/000206121926000023/0002061219-26-000023-index.htm",
+    "published_iso": "2026-10-22T20:36:56+00:00",
+    "time_ago": "8m ago"
+  },
+  {
+    "id": "f67264da4f10",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hutchinson Russell E. withheld (tax) 21,074 shares of Ally Financial Inc. (ALLY) \u00b7 $37.97/share \u00b7 $800,180 total \u00b7 Oct 22",
     "tags": [
-      "Big Tech"
+      "Taxes"
     ],
     "tickers": [
-      "GOOGL"
+      "ALLY"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6165586-trump-google-maps-atlantic-request/",
-    "published_iso": "2026-10-22T16:33:15+00:00",
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1983992/000198399226000009/0001983992-26-000009-index.htm",
+    "published_iso": "2026-10-22T20:36:54+00:00",
+    "time_ago": "8m ago"
+  },
+  {
+    "id": "3e33be4e5ce0",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "critical",
+    "content": "Fact Sheet: President Donald J. Trump Decreases Housing Costs for Americans. LOWERING COSTS AND EXPANDING ACCESS TO HOMEOWNERSHIP:&#160;Today, President Donald J. Trump signed an Executive Order to lower the costs of single-family homeownership and mortgages and promote innovation throughout the housing market. RESTORI",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-decreases-housing-costs-for-americans/",
+    "published_iso": "2026-10-22T19:25:44+00:00",
     "time_ago": "1h ago"
+  },
+  {
+    "id": "3ef1725aa655",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "high",
+    "content": "New Analysis: President Trump\u2019s Pro-Growth Policies Ignite Manufacturing Resurgence. New Analysis Confirms President Trump\u2019s Pro-Growth Policies Are Driving American Manufacturing Resurgence President Donald J. Trump\u2019s America First agenda is revitalizing American manufacturing, delivering historic investments, driving",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/10/new-analysis-president-trumps-pro-growth-policies-ignite-manufacturing-resurgence/",
+    "published_iso": "2026-10-22T17:51:54+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "1db46083fe0e",
@@ -157,7 +180,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3myhzugf76j2s",
     "published_iso": "2026-10-22T16:00:01.191000+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "13aebde042e7",
@@ -176,7 +199,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21636/safety-zone-brownsville-ship-channel-brownsville-tx",
     "published_iso": "2026-10-22T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "4582be97818f",
@@ -195,7 +218,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21622/virginia-approval-of-state-coal-combustion-residuals-permit-program",
     "published_iso": "2026-10-22T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "c63e9789ceff",
@@ -214,7 +237,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21607/fisheries-off-west-coast-states-modification-of-the-west-coast-salmon-fisheries-inseason-action-1-11",
     "published_iso": "2026-10-22T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "97b5da504708",
@@ -235,7 +258,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21603/nevada-codification-and-incorporation-by-reference-of-approved-underground-storage-tank-program",
     "published_iso": "2026-10-22T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "7f489e30215d",
@@ -257,7 +280,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21600/indefinite-suspension-of-the-de-minimis-exemption-for-mail-shipments-and-new-postal-informal-entry",
     "published_iso": "2026-10-22T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "b3d4b3bb40ed",
@@ -276,7 +299,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21598/court-orders-and-legal-processes-affecting-thrift-savings-plan-accounts",
     "published_iso": "2026-10-22T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "a26292e26bd4",
@@ -295,7 +318,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21593/rin-1625-aa00",
     "published_iso": "2026-10-22T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "e87b6db5132e",
@@ -316,7 +339,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/22/2026-21590/airworthiness-directives-general-electric-company-engines",
     "published_iso": "2026-10-22T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "6ed8797e5534",
@@ -339,7 +362,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-secures-major-wins-for-south-carolina-workers-families-and-communities/",
     "published_iso": "2026-10-21T18:26:45+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "6a6c15f2d414",
@@ -362,50 +385,6 @@
     "url": "https://www.whitehouse.gov/releases/2026/10/delivering-for-north-carolina-safer-streets-bigger-paychecks-and-a-manufacturing-boom-under-president-trump/",
     "published_iso": "2026-10-20T16:33:15+00:00",
     "time_ago": "2d ago"
-  },
-  {
-    "id": "24494ed42177",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "medium",
-    "content": "President Trump Delivers Historic Wins for Kansas Workers, Families, Farmers, and Rural Communities. Today, President Donald J. Trump returns to Kansas to showcase his proven record of results that put Kansas workers, families, seniors, farmers, and communities first. Under the leadership of President Trump and Republi",
-    "tags": [
-      "Healthcare",
-      "Agriculture",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-delivers-historic-wins-for-kansas-workers-families-farmers-and-rural-communities/",
-    "published_iso": "2026-10-19T18:00:25+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "c5eb6a8d524e",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "First Lady Melania Trump Champions New U.S. Women\u2019s Health Initiative. First Lady Melania Trump advanced a landmark program to improve women\u2019s health through a new executive order that strengthens research, prevention, diagnosis, treatment, and care for girls and women throughout every stage of life. \u201cPrevious generati",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-champions-new-u-s-womens-health-initiative/",
-    "published_iso": "2026-10-19T15:35:08+00:00",
-    "time_ago": "3d ago"
   },
   {
     "id": "43273fdddfb8",
@@ -498,7 +477,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
     "published_iso": "2026-10-13T18:00:00+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "fffcc02c1c16",
@@ -521,7 +500,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-tour-utahs-advanced-manufacturing-plants",
     "published_iso": "2026-10-09T18:45:18+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "1adf28d01f2a",
@@ -570,7 +549,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
     "published_iso": "2026-10-08T20:30:00+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "ae07d7bc060b",
@@ -589,7 +568,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
     "published_iso": "2026-10-07T18:00:00+00:00",
-    "time_ago": "14d ago"
+    "time_ago": "15d ago"
   },
   {
     "id": "757a1bd60826",
@@ -615,7 +594,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
     "published_iso": "2026-10-05T20:30:00+00:00",
-    "time_ago": "16d ago"
+    "time_ago": "17d ago"
   },
   {
     "id": "fba941a53e33",
@@ -667,7 +646,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
     "published_iso": "2026-10-02T20:45:00+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "8581e940fa48",
@@ -694,7 +673,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
     "published_iso": "2026-10-02T20:00:00+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "f5506a3890fe",
@@ -716,7 +695,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-six-penny-plan-to-balance-the-federal-budget-in-five-years-3/",
     "published_iso": "2026-09-22T20:41:12+00:00",
-    "time_ago": "29d ago"
+    "time_ago": "30d ago"
   },
   {
     "id": "f5ef8bcafaa7",
@@ -745,7 +724,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-statement-on-democrats-killing-clarity-act/",
     "published_iso": "2026-09-15T20:22:32+00:00",
-    "time_ago": "36d ago"
+    "time_ago": "37d ago"
   },
   {
     "id": "e8b69ccc4d67",
@@ -766,7 +745,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/news/pelosi-update/remembrance-and-renewal",
     "published_iso": "2026-09-11T18:24:02+00:00",
-    "time_ago": "40d ago"
+    "time_ago": "41d ago"
   },
   {
     "id": "baf26d52584e",
@@ -795,6 +774,27 @@
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
     "time_ago": "76d ago"
+  },
+  {
+    "id": "1a1d646c1e56",
+    "politician": "Rep. Alexandria Ocasio-Cortez",
+    "initials": "AOC",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#93c5fd"
+    },
+    "severity": "high",
+    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "https://nitter.kareem.one/AOC/status/2085006319220625569#m",
+    "published_iso": "2026-08-05T14:13:38+00:00",
+    "time_ago": "78d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -844,7 +844,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "91d ago"
+    "time_ago": "92d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -1000,7 +1000,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "210d ago"
+    "time_ago": "211d ago"
   },
   {
     "id": "00f579ee8f55",
