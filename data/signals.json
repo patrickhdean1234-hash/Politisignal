@@ -1,5 +1,110 @@
 [
   {
+    "id": "d8582631d64d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Kiessling Heather sold 21,830 shares of Asp Isotopes Inc. (ASPI) \u00b7 $2.19/share \u00b7 $47,808 total \u00b7 Oct 21",
+    "tags": [],
+    "tickers": [
+      "ASPI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2026548/000147793226006387/0001477932-26-006387-index.htm",
+    "published_iso": "2026-10-22T01:45:10+00:00",
+    "time_ago": "8m ago"
+  },
+  {
+    "id": "d3676f87bf2b",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Cramer Keith sold 12,000 shares of Mediaalpha, Inc. (MAX) \u00b7 $11.39/share \u00b7 $136,645 total \u00b7 Oct 21",
+    "tags": [],
+    "tickers": [
+      "MAX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1829989/000181838326000258/0001818383-26-000258-index.htm",
+    "published_iso": "2026-10-22T01:41:12+00:00",
+    "time_ago": "12m ago"
+  },
+  {
+    "id": "84797e2af0d3",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Nonko Eugene sold 1,940 shares of Mediaalpha, Inc. (MAX) \u00b7 $11.39/share \u00b7 $22,091 total \u00b7 Oct 21 ($319,858 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "MAX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1830016/000181838326000257/0001818383-26-000257-index.htm",
+    "published_iso": "2026-10-22T01:40:57+00:00",
+    "time_ago": "12m ago"
+  },
+  {
+    "id": "38c94165e042",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "1 killed, 8 wounded in Saudi Arabia airport attack. An attack on an airport in Saudi Arabia by the Iranian-backed Houthis killed one person and injured eight others, officials confirmed Wednesday. Saudi Arabia\u2019s General Authority of Civil Aviation said in a statement that the rebel group targeted the King Fahd Internat",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/international/6164397-houthi-attacked-king-fahd-airport/",
+    "published_iso": "2026-10-22T00:05:52+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "904ce53a9b45",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Kurtz George sold 1,640 shares of Crowdstrike Holdings, Inc. (CRWD) \u00b7 $227.78/share \u00b7 $373,559 total \u00b7 Oct 21 ($4,557,951 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "CRWD"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1778564/000177856426000189/0001778564-26-000189-index.htm",
+    "published_iso": "2026-10-22T00:00:06+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "aff9f71f03f4",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
@@ -18,7 +123,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/1649749/000119147326000008/0001191473-26-000008-index.htm",
     "published_iso": "2026-10-21T23:24:01+00:00",
-    "time_ago": "18m ago"
+    "time_ago": "2h ago"
   },
   {
     "id": "6ed8797e5534",
@@ -41,7 +146,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-secures-major-wins-for-south-carolina-workers-families-and-communities/",
     "published_iso": "2026-10-21T18:26:45+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "254e349f963a",
@@ -60,7 +165,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21556/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pacific-cod-in-the-western",
     "published_iso": "2026-10-21T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "d39229fbf263",
@@ -79,7 +184,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21498/safety-zone-tv-denise-foss-on-1254223-honolulu-hi",
     "published_iso": "2026-10-21T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "c9ac86f74e51",
@@ -106,7 +211,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21478/security-zones-protection-of-military-cargo-captain-of-the-port-zone-puget-sound-wa",
     "published_iso": "2026-10-21T04:00:00+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "6a6c15f2d414",
