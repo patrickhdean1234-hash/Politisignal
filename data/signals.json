@@ -1,6 +1,6 @@
 [
   {
-    "id": "b8f55bdfbd7d",
+    "id": "3e063e7cb619",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -8,103 +8,73 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "medium",
-    "content": "Madaus Martin D withheld (tax) 1,294 shares of Azenta, Inc. (AZTA) \u00b7 $36.01/share \u00b7 $46,597 total \u00b7 Oct 23",
+    "severity": "critical",
+    "content": "Sanchez Antonio R Jr acquired/disposed 25,000 shares of International Bancshares Corp (IBOC) \u00b7 Oct 23",
     "tags": [
-      "Taxes"
+      "Insider Trade"
     ],
     "tickers": [
-      "AZTA"
+      "IBOC"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1310268/000162828026066981/0001628280-26-066981-index.htm",
-    "published_iso": "2026-10-23T12:01:45+00:00",
-    "time_ago": "34m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1060529/000106052926000002/0001060529-26-000002-index.htm",
+    "published_iso": "2026-10-23T17:24:31+00:00",
+    "time_ago": "just now"
   },
   {
-    "id": "48f49d9be9b1",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "e22cbd08a54b",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Qiu Wenbin bought 5,700 shares of Baozun Inc. (BZUN) \u00b7 $3.50/share \u00b7 $19,950 total \u00b7 Oct 23 ($39,900 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "BZUN"
+    "severity": "high",
+    "content": "How housing affordability can be achieved at the state and local level. Former Sen. Jon Tester praised the passage of the bipartisan 21st Century Road to Housing Act, noting its success in balancing restrictions on Wall Street investors with incentives for professional housing providers to increase supply",
+    "tags": [
+      "Banking"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1975717/000110465926118281/0001104659-26-118281-index.htm",
-    "published_iso": "2026-10-23T10:35:51+00:00",
-    "time_ago": "2h ago"
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/finance/6166774-road-housing-act-affordability/",
+    "published_iso": "2026-10-23T16:30:00+00:00",
+    "time_ago": "55m ago"
   },
   {
-    "id": "a17f4c6eae27",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "170f80a98224",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
     },
-    "severity": "medium",
-    "content": "Wang Yanjun sold 316 shares of Sea Ltd (SE) \u00b7 $76.90/share \u00b7 $24,300 total \u00b7 Oct 23 ($123,180 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "SE"
+    "severity": "high",
+    "content": "First Lady Melania Trump Secures Ceasefire Between Russia and Ukraine, Localized to Oleshky. First Lady Melania Trump successfully secured a ceasefire between Russia and Ukraine, localized to the city of Oleshky. Both nations agreed to temporarily stop all military action in Oleshky to allow for humanitarian aid to ent",
+    "tags": [
+      "Defense",
+      "Taxes",
+      "Sanctions"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2113214/000119312526429392/0001193125-26-429392-index.htm",
-    "published_iso": "2026-10-23T10:06:24+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "a1859e708fce",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Clark Kyle sold 10,000 shares of Beta Technologies, Inc. (BETA) \u00b7 $18.38/share \u00b7 $183,772 total \u00b7 Oct 23 ($559,205 across all blocks)",
-    "tags": [],
     "tickers": [
-      "BETA"
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2090083/000119312526429389/0001193125-26-429389-index.htm",
-    "published_iso": "2026-10-23T10:05:23+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "dcd46a245046",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Feng Zhimin exercised derivative for 1,000,000 shares of Sea Ltd (SE) \u00b7 $15.00/share \u00b7 $15,000,000 total \u00b7 Oct 23",
-    "tags": [],
-    "tickers": [
-      "SE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2113131/000119312526429381/0001193125-26-429381-index.htm",
-    "published_iso": "2026-10-23T10:02:36+00:00",
-    "time_ago": "2h ago"
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-secures-ceasefire-between-russia-and-ukraine-localized-to-oleshky/",
+    "published_iso": "2026-10-23T13:16:54+00:00",
+    "time_ago": "4h ago"
   },
   {
     "id": "2a44c3fe4eab",
@@ -125,7 +95,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/10/23/poll-trump-midterms-gop-loyalty-01133479",
     "published_iso": "2026-10-23T09:00:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "f70384e23ba4",
@@ -147,7 +117,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21706/implementing-the-guiding-and-establishing-national-innovation-for-us-stablecoins-act-for-the",
     "published_iso": "2026-10-23T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "a6354839c7c2",
@@ -168,7 +138,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21699/revision-of-national-environmental-policy-act-implementing-procedures-extension-of-comment-period",
     "published_iso": "2026-10-23T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "73447a8b31ac",
@@ -189,7 +159,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21686/airworthiness-directives-the-boeing-company-airplanes-correction",
     "published_iso": "2026-10-23T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "83e879b020d9",
@@ -208,7 +178,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21680/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-cod-by-catcher-vessels-using-trawl-gear",
     "published_iso": "2026-10-23T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "1260ef5681f5",
@@ -227,7 +197,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21676/fisheries-of-the-exclusive-economic-zone-off-alaska-pollock-in-statistical-area-620-in-the-gulf-of",
     "published_iso": "2026-10-23T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "620d9c437fb1",
@@ -246,7 +216,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21664/airworthiness-directives-md-helicopters-llc-helicopters",
     "published_iso": "2026-10-23T04:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "42f66b861e3c",
@@ -267,7 +237,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/live-updates/2026/10/22/congress/senate-dems-big-haul-01132834",
     "published_iso": "2026-10-22T22:00:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "830de2429398",
@@ -295,7 +265,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/10/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-domestic-petroleum-production-refining-and-logistics-capacity-c139/",
     "published_iso": "2026-10-22T20:41:16+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "3e33be4e5ce0",
@@ -316,53 +286,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-decreases-housing-costs-for-americans/",
     "published_iso": "2026-10-22T19:25:44+00:00",
-    "time_ago": "17h ago"
-  },
-  {
-    "id": "3ef1725aa655",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "high",
-    "content": "New Analysis: President Trump\u2019s Pro-Growth Policies Ignite Manufacturing Resurgence. New Analysis Confirms President Trump\u2019s Pro-Growth Policies Are Driving American Manufacturing Resurgence President Donald J. Trump\u2019s America First agenda is revitalizing American manufacturing, delivering historic investments, driving",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/releases/2026/10/new-analysis-president-trumps-pro-growth-policies-ignite-manufacturing-resurgence/",
-    "published_iso": "2026-10-22T17:51:54+00:00",
-    "time_ago": "18h ago"
-  },
-  {
-    "id": "1db46083fe0e",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "Americans are facing a \"food insecurity crisis\" after shouldering an additional $22 billion in food costs due to rising inflation and billions of dollars in food-stamp cuts, according to Sen. Elizabeth Warren.",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [
-      "GLD",
-      "TLT",
-      "SPY"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3myhzugf76j2s",
-    "published_iso": "2026-10-22T16:00:01.191000+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "13aebde042e7",
@@ -452,7 +376,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
     "published_iso": "2026-10-16T15:00:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "5f2e832b0ed9",
@@ -474,7 +398,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3mxwdtzmld22s",
     "published_iso": "2026-10-15T15:10:49.971000+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "229838d4b313",
@@ -494,29 +418,6 @@
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
     "published_iso": "2026-10-13T18:00:00+00:00",
     "time_ago": "9d ago"
-  },
-  {
-    "id": "fffcc02c1c16",
-    "politician": "U.S. Trade Rep.",
-    "initials": "USTR",
-    "role": "Office of the U.S. Trade Representative",
-    "color": {
-      "bg": "#1a0a1a",
-      "fg": "#d8b4fe"
-    },
-    "severity": "medium",
-    "content": "Ambassador Greer to Tour Utah\u2019s Advanced Manufacturing Plants. Ambassador Greer to Tour Utah\u2019s Advanced Manufacturing Plants \n  pbrouillette  \n  Fri, 10/09/2026 - 14:45 \n \n\n               WASHINGTON  \u2014 Next week, Ambassador Jamieson Greer will travel across Utah to tour advanced manufacturing plants, ranging from a maj",
-    "tags": [
-      "Trade",
-      "Semiconductors",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "ustr",
-    "platform": "USTR",
-    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ambassador-greer-tour-utahs-advanced-manufacturing-plants",
-    "published_iso": "2026-10-09T18:45:18+00:00",
-    "time_ago": "13d ago"
   },
   {
     "id": "1adf28d01f2a",
@@ -542,7 +443,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
     "published_iso": "2026-10-09T14:00:00+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "48db85994cba",
@@ -760,7 +661,28 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "76d ago"
+    "time_ago": "77d ago"
+  },
+  {
+    "id": "1a1d646c1e56",
+    "politician": "Rep. Alexandria Ocasio-Cortez",
+    "initials": "AOC",
+    "role": "House Financial Services Committee",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#93c5fd"
+    },
+    "severity": "high",
+    "content": "Congratulations  @AbdulElSayed  on securing the Democratic nomination for the United States Senate! \n \nNow we get to work. 90 days till \nElection Day starts now. \ud83d\uddf3\ufe0f \n \nWe've got a world to win. \nSign up and give today: \n AbdulForSenate.com  \n \n Link  \n \n \n \n Home \n \n Abdul El-Sayed is running for US Senate in Michigan ",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.meowing.monster/AOC/status/2085006319220625569#m",
+    "published_iso": "2026-08-05T14:13:38+00:00",
+    "time_ago": "79d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -789,7 +711,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "91d ago"
+    "time_ago": "92d ago"
   },
   {
     "id": "de38f5381391",
@@ -875,7 +797,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "164d ago"
+    "time_ago": "165d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -901,7 +823,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "170d ago"
+    "time_ago": "171d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -923,7 +845,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "178d ago"
+    "time_ago": "179d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -947,7 +869,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "206d ago"
+    "time_ago": "207d ago"
   },
   {
     "id": "432e035b915b",
@@ -987,7 +909,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "251d ago"
+    "time_ago": "252d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1006,7 +928,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "251d ago"
+    "time_ago": "252d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1032,7 +954,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "273d ago"
+    "time_ago": "274d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1051,6 +973,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "310d ago"
+    "time_ago": "311d ago"
   }
 ]
