@@ -1,5 +1,26 @@
 [
   {
+    "id": "73a63693f17e",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "The school choice decision putting Democratic governors on the clock. Democratic governors face an end-of-year deadline to join the nation's first federal school choice program, a decision that could bring massive amounts of money to their states but which opponents fear could severely undermine public schools.  Thirty",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/state-watch/6169069-federal-school-choice-tax-credit-blue-states/",
+    "published_iso": "2026-10-26T10:00:00+00:00",
+    "time_ago": "35m ago"
+  },
+  {
     "id": "8d90462ba95b",
     "politician": "Federal Register",
     "initials": "FR",
@@ -19,7 +40,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21835/wyoming-regulatory-program",
     "published_iso": "2026-10-26T04:00:00+00:00",
-    "time_ago": "49m ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "f6ec7a5bf5b6",
@@ -41,7 +62,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21821/enhancing-the-ability-of-consumers-to-control-the-robocalls",
     "published_iso": "2026-10-26T04:00:00+00:00",
-    "time_ago": "49m ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "fd61c8445f7f",
@@ -68,7 +89,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21817/establishment-of-class-e-airspace-canton-il",
     "published_iso": "2026-10-26T04:00:00+00:00",
-    "time_ago": "49m ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "b84a2597e1b3",
@@ -89,7 +110,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21808/closed-captioning-of-video-programming",
     "published_iso": "2026-10-26T04:00:00+00:00",
-    "time_ago": "49m ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "f9b57fc1dee9",
@@ -110,7 +131,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21807/ohio-regulatory-program",
     "published_iso": "2026-10-26T04:00:00+00:00",
-    "time_ago": "49m ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "254e349f963a",
@@ -129,7 +150,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21805/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pacific-cod-in-the-bering-sea",
     "published_iso": "2026-10-26T04:00:00+00:00",
-    "time_ago": "49m ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "e39c7298789f",
@@ -151,7 +172,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21801/nrc-reviews-of-reactor-designs-previously-authorized-by-us-department-of-energy-or-department-of-war",
     "published_iso": "2026-10-26T04:00:00+00:00",
-    "time_ago": "49m ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "ab7210594d04",
@@ -172,175 +193,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21764/streamlining-the-regulations-governing-testimony-by-employees-and-the-production-of-documents-in",
     "published_iso": "2026-10-26T04:00:00+00:00",
-    "time_ago": "49m ago"
-  },
-  {
-    "id": "0bbf47a50897",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Rogers dodges questions on MAGA label, Trump tariffs. Former Rep. Mike Rogers (R-Mich.) dodged questions on whether he identifies as a MAGA-Republican and avoided clarifying his position on President Trump\u2019s controversial tariffs against Canada ahead of his competitive race against Democrat Abdul El-Sayed in Michigan\u2019s",
-    "tags": [
-      "Trade"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/6171235-rogers-dodges-magar-label-interview/",
-    "published_iso": "2026-10-25T21:44:53+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "6eea130ce286",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Ruddy Jordan B. bought 2,040 shares of Bluerock Private Real Estate Fund (BPRE) \u00b7 $12.25/share \u00b7 $24,987 total \u00b7 Oct 23",
-    "tags": [],
-    "tickers": [
-      "BPRE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1575426/000139834426018733/0001398344-26-018733-index.htm",
-    "published_iso": "2026-10-24T01:34:10+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "75c39fe2bf1a",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Sheena Jonathan sold 200 shares of Natera, Inc. (NTRA) \u00b7 $406.50/share \u00b7 $81,300 total \u00b7 Oct 23 ($1,293,246 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "NTRA"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1646649/000164664926000035/0001646649-26-000035-index.htm",
-    "published_iso": "2026-10-24T01:25:04+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "173e91ba0679",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Valli Todd A. exercised options for 2,677 shares of Firy Inc. (FIRY) \u00b7 Oct 23 ($7,576 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "FIRY"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1801661/000180166126000126/0001801661-26-000126-index.htm",
-    "published_iso": "2026-10-24T00:46:18+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "3ce1568b698e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Cormier Renae Terese received 37,053 shares of Silvia, Inc. (SVIAW) \u00b7 Oct 23 ($375,320 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "SVIAW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2076163/000149315226048319/0001493152-26-048319-index.htm",
-    "published_iso": "2026-10-24T00:15:59+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "7ac866140afc",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Wood Kyle Irvin received 258,317 shares of Silvia, Inc. (SVIAW) \u00b7 Oct 23 ($440,748 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "SVIAW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2081695/000149315226048317/0001493152-26-048317-index.htm",
-    "published_iso": "2026-10-24T00:03:39+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "0c9c7e1edfb6",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Kurtz George sold 80 shares of Crowdstrike Holdings, Inc. (CRWD) \u00b7 $229.25/share \u00b7 $18,340 total \u00b7 Oct 23 ($4,761,854 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CRWD"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1778564/000177856426000191/0001778564-26-000191-index.htm",
-    "published_iso": "2026-10-24T00:00:14+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "70f53d7ecf5d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Sechan Ii Robert J exercised options for 4,749 shares of Bitmine Immersion Technologies, Inc. (BMNP) \u00b7 Oct 23",
-    "tags": [],
-    "tickers": [
-      "BMNP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2101131/000149315226048315/0001493152-26-048315-index.htm",
-    "published_iso": "2026-10-24T00:00:11+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "9ea5de266199",
