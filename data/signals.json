@@ -1,6 +1,27 @@
 [
   {
-    "id": "339680b84625",
+    "id": "6d58087bf5c1",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Clark Joseph Gates sold 869 shares of Penguin Solutions, Inc. (PENG) \u00b7 $51.52/share \u00b7 $44,771 total \u00b7 Oct 26",
+    "tags": [],
+    "tickers": [
+      "PENG"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1944970/000194497026000031/0001944970-26-000031-index.htm",
+    "published_iso": "2026-10-26T23:54:13+00:00",
+    "time_ago": "45m ago"
+  },
+  {
+    "id": "5741064022ff",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -8,20 +29,20 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "critical",
-    "content": "Nicki Minaj's role in Trump's political circle divides fans. In 2020, during his first term, Minaj said she would not \u201cjump on the Donald Trump bandwagon.\"",
+    "severity": "low",
+    "content": "House GOP to hold leadership elections a week after Election Day. House Republicans are slated to hold their leadership elections on Nov. 10, according to two GOP staffers, who spoke on the condition of anonymity.  Politico, which first reported the news, noted that Republicans will hold a two-hour candidate forum that",
     "tags": [
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/6173145-nicki-minajs-role-in-trumps-political-circle-divides-fans/",
-    "published_iso": "2026-10-26T20:53:31+00:00",
-    "time_ago": "31m ago"
+    "url": "https://thehill.com/homenews/house/6173782-gop-house-leadership-election-schedule/",
+    "published_iso": "2026-10-26T23:48:08+00:00",
+    "time_ago": "51m ago"
   },
   {
-    "id": "b38c73d5528e",
+    "id": "ec6b5fb7adb0",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -29,15 +50,18 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "AI giant Anthropic files to go public. Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  AI giant Anthropic files to go public Anthropic publicly filed for an initial public offering (IPO) on Monday morning in what is expected to be ",
-    "tags": [],
+    "severity": "low",
+    "content": "The Memo: El-Sayed allies argue Trump\u2019s anti-Muslim attacks will backfire. President Trump is intensifying his anti-Muslim attacks on Abdul El-Sayed in the final stretch of campaigning before Election Day. At a Sunday rally in Michigan, Trump unleashed a volley of Islamophobic comments against El-Sayed, the Democratic ",
+    "tags": [
+      "Defense",
+      "Taxes"
+    ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/business-economy/6173385-ai-giant-anthropic-files-to-go-public/",
-    "published_iso": "2026-10-26T20:52:39+00:00",
-    "time_ago": "32m ago"
+    "url": "https://thehill.com/homenews/analysis/6173711-el-sayed-trump-islamophobic-attacks-michigan/",
+    "published_iso": "2026-10-26T23:05:10+00:00",
+    "time_ago": "1h ago"
   },
   {
     "id": "659dd3b57105",
@@ -56,49 +80,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mysidcdmwk2y",
     "published_iso": "2026-10-26T19:45:30.074000+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "976d13180db7",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Rider Michael J sold 400 shares of Resmed Inc (RSMDF) \u00b7 $255.00/share \u00b7 $102,000 total \u00b7 Oct 26",
-    "tags": [],
-    "tickers": [
-      "RSMDF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1982205/000094381926000086/0000943819-26-000086-index.htm",
-    "published_iso": "2026-10-26T19:39:19+00:00",
-    "time_ago": "1h ago"
-  },
-  {
-    "id": "e8b524f86a72",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Jejurikar Shailesh exercised options for 35,000 shares of Procter & Gamble Co (PG) \u00b7 $78.52/share \u00b7 $2,748,200 total \u00b7 Oct 26 ($8,456,248 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "PG"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1746310/000008042426000263/0000080424-26-000263-index.htm",
-    "published_iso": "2026-10-26T19:37:25+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "afe0de65d1cc",
@@ -121,7 +103,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-puts-mississippi-first-with-historic-tax-cuts-surging-investment-and-stronger-communities/",
     "published_iso": "2026-10-26T18:22:39+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "22002e5c6894",
@@ -150,7 +132,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/from-coast-to-coast-president-trump-is-putting-american-industry-back-on-the-map/",
     "published_iso": "2026-10-26T17:06:13+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "2ce8c03d7924",
@@ -172,7 +154,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-announces-halloween-at-the-white-house-2026/",
     "published_iso": "2026-10-26T12:47:15+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "8d90462ba95b",
@@ -194,7 +176,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21835/wyoming-regulatory-program",
     "published_iso": "2026-10-26T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "f6ec7a5bf5b6",
@@ -216,7 +198,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21821/enhancing-the-ability-of-consumers-to-control-the-robocalls",
     "published_iso": "2026-10-26T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "fd61c8445f7f",
@@ -243,7 +225,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21817/establishment-of-class-e-airspace-canton-il",
     "published_iso": "2026-10-26T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "b84a2597e1b3",
@@ -264,7 +246,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21808/closed-captioning-of-video-programming",
     "published_iso": "2026-10-26T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "f9b57fc1dee9",
@@ -285,7 +267,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21807/ohio-regulatory-program",
     "published_iso": "2026-10-26T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "254e349f963a",
@@ -304,7 +286,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21805/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pacific-cod-in-the-bering-sea",
     "published_iso": "2026-10-26T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "e39c7298789f",
@@ -326,7 +308,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21801/nrc-reviews-of-reactor-designs-previously-authorized-by-us-department-of-energy-or-department-of-war",
     "published_iso": "2026-10-26T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "ab7210594d04",
@@ -347,7 +329,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21764/streamlining-the-regulations-governing-testimony-by-employees-and-the-production-of-documents-in",
     "published_iso": "2026-10-26T04:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "9ea5de266199",
@@ -602,7 +584,7 @@
     ],
     "source": "rss",
     "platform": ".gov",
-    "url": "http://pelosi.house.gov/news/pelosi-update/working-families-first",
+    "url": "https://pelosi.house.gov/news/pelosi-update/working-families-first",
     "published_iso": "2026-10-03T21:13:42+00:00",
     "time_ago": "23d ago"
   },
@@ -698,7 +680,7 @@
     "tickers": [],
     "source": "rss",
     "platform": ".gov",
-    "url": "http://pelosi.house.gov/news/pelosi-update/remembrance-and-renewal",
+    "url": "https://pelosi.house.gov/news/pelosi-update/remembrance-and-renewal",
     "published_iso": "2026-09-11T18:24:02+00:00",
     "time_ago": "45d ago"
   },
