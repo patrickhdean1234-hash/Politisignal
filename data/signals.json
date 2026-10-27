@@ -1,118 +1,6 @@
 [
   {
-    "id": "d4275a572e3b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Morrisett Michael R. acquired/disposed 6,277 shares of Empire Petroleum Corp (EP) \u00b7 Oct 27",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [
-      "EP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1630275/000107261326000840/0001072613-26-000840-index.htm",
-    "published_iso": "2026-10-27T10:50:20+00:00",
-    "time_ago": "5m ago"
-  },
-  {
-    "id": "6f0caa74de26",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Energy Evolution Master Fund, Ltd. acquired/disposed 514,064 shares of Empire Petroleum Corp (EP) \u00b7 Oct 27",
-    "tags": [
-      "Energy",
-      "Insider Trade"
-    ],
-    "tickers": [
-      "EP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1865291/000107261326000839/0001072613-26-000839-index.htm",
-    "published_iso": "2026-10-27T10:49:36+00:00",
-    "time_ago": "6m ago"
-  },
-  {
-    "id": "b0788dbc49d3",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Manieu Alexandre Weinstein exercised options for 641 shares of Pluri Inc. (PLUR) \u00b7 Oct 27 ($1,250,001 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "PLUR"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1833124/000121390026112641/0001213900-26-112641-index.htm",
-    "published_iso": "2026-10-27T10:06:24+00:00",
-    "time_ago": "49m ago"
-  },
-  {
-    "id": "820f435e72ac",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Wang Yanjun sold 602 shares of Sea Ltd (SE) \u00b7 $74.70/share \u00b7 $44,969 total \u00b7 Oct 27 ($118,931 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "SE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2113214/000119312526432556/0001193125-26-432556-index.htm",
-    "published_iso": "2026-10-27T10:05:56+00:00",
-    "time_ago": "50m ago"
-  },
-  {
-    "id": "46b76c331563",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Aragone Augusto withheld (tax) 9,789 shares of Ingram Micro Holding Corp (INGM) \u00b7 $27.50/share \u00b7 $269,198 total \u00b7 Oct 27",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "INGM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1969055/000196905526000007/0001969055-26-000007-index.htm",
-    "published_iso": "2026-10-27T10:00:21+00:00",
-    "time_ago": "55m ago"
-  },
-  {
-    "id": "fc4c10171e04",
+    "id": "9f9c7c2d1254",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -120,24 +8,39 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "critical",
-    "content": "Frustrated farmers could become a midterm problem for Republicans. Farmers are a key voting group for Republicans, but their votes could be on the line, with the Iran war and President Trump\u2019s tariff and trade wars driving up production costs along with diesel and fertilizer prices. The Trump administration has been ro",
+    "severity": "medium",
+    "content": "Denmark, Estonia express skepticism over Finland and Norway's call with Putin. Danish and Estonian officials expressed skepticism over leadership from Finland and Norway communicating with Russian President Vladimir Putin earlier this week amid heightened tension between Moscow and Kyiv. Estonian Foreign Affairs Minist",
     "tags": [
-      "Trade",
-      "Agriculture",
+      "Taxes",
       "Sanctions"
     ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/state-watch/6173571-trump-farmers-rural-voters-costs-midterm-elections/",
-    "published_iso": "2026-10-27T10:00:00+00:00",
-    "time_ago": "56m ago"
+    "url": "https://thehill.com/policy/international/6175110-norway-finland-call-putin-controversial/",
+    "published_iso": "2026-10-27T15:39:06+00:00",
+    "time_ago": "32m ago"
+  },
+  {
+    "id": "c15e356ec97d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Supporting religious freedom and pluralism is a foreign policy priority. A country that protects its pluralism and presses its partners to protect theirs is not only living its ideals; it is protecting its future",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/congress-blog/religious-rights/6173268-international-religious-freedom-day-observance/",
+    "published_iso": "2026-10-27T15:30:00+00:00",
+    "time_ago": "41m ago"
   },
   {
     "id": "2ef73a6b0c17",
@@ -158,7 +61,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21923/implementation-of-havana-act-of-2021",
     "published_iso": "2026-10-27T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "dfbe659ffc78",
@@ -179,7 +82,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21920/bipartisan-safer-communities-act-of-2022-criteria-for-national-instant-criminal-background-check",
     "published_iso": "2026-10-27T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "6a888b041893",
@@ -198,7 +101,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21902/airworthiness-directives-ontic-engineering-and-manufacturing-inc-type-certificate-previously-held-by",
     "published_iso": "2026-10-27T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "defc43b0d06a",
@@ -217,7 +120,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21888/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-cod-by-vessels-using-pot-gear-in-the",
     "published_iso": "2026-10-27T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "2a0b804a9a39",
@@ -238,7 +141,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21864/airworthiness-directives-the-boeing-company-airplanes",
     "published_iso": "2026-10-27T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "120dd56799e2",
@@ -257,7 +160,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21861/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-10-27T04:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "659dd3b57105",
@@ -276,7 +179,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mysidcdmwk2y",
     "published_iso": "2026-10-26T19:45:30.074000+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "afe0de65d1cc",
@@ -299,7 +202,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-puts-mississippi-first-with-historic-tax-cuts-surging-investment-and-stronger-communities/",
     "published_iso": "2026-10-26T18:22:39+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "22002e5c6894",
@@ -328,7 +231,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/from-coast-to-coast-president-trump-is-putting-american-industry-back-on-the-map/",
     "published_iso": "2026-10-26T17:06:13+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "2ce8c03d7924",
@@ -350,7 +253,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-announces-halloween-at-the-white-house-2026/",
     "published_iso": "2026-10-26T12:47:15+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "9ea5de266199",
@@ -468,7 +371,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
     "published_iso": "2026-10-16T15:00:00+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "229838d4b313",
@@ -513,7 +416,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
     "published_iso": "2026-10-09T14:00:00+00:00",
-    "time_ago": "17d ago"
+    "time_ago": "18d ago"
   },
   {
     "id": "48db85994cba",
@@ -605,7 +508,7 @@
     ],
     "source": "rss",
     "platform": ".gov",
-    "url": "http://pelosi.house.gov/news/pelosi-update/working-families-first",
+    "url": "https://pelosi.house.gov/news/pelosi-update/working-families-first",
     "published_iso": "2026-10-03T21:13:42+00:00",
     "time_ago": "23d ago"
   },
@@ -701,7 +604,7 @@
     "tickers": [],
     "source": "rss",
     "platform": ".gov",
-    "url": "http://pelosi.house.gov/news/pelosi-update/remembrance-and-renewal",
+    "url": "https://pelosi.house.gov/news/pelosi-update/remembrance-and-renewal",
     "published_iso": "2026-09-11T18:24:02+00:00",
     "time_ago": "45d ago"
   },
@@ -803,7 +706,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "96d ago"
+    "time_ago": "97d ago"
   },
   {
     "id": "555d7f3dd315",
@@ -846,7 +749,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "168d ago"
+    "time_ago": "169d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -872,7 +775,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "174d ago"
+    "time_ago": "175d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -894,7 +797,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "182d ago"
+    "time_ago": "183d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -918,7 +821,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "210d ago"
+    "time_ago": "211d ago"
   },
   {
     "id": "432e035b915b",
@@ -958,7 +861,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "255d ago"
+    "time_ago": "256d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -977,7 +880,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "255d ago"
+    "time_ago": "256d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1022,6 +925,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "314d ago"
+    "time_ago": "315d ago"
   }
 ]
