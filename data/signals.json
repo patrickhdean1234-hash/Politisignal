@@ -1,28 +1,48 @@
 [
   {
-    "id": "9f9c7c2d1254",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "b3866c2aadc1",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Denmark, Estonia express skepticism over Finland and Norway's call with Putin. Danish and Estonian officials expressed skepticism over leadership from Finland and Norway communicating with Russian President Vladimir Putin earlier this week amid heightened tension between Moscow and Kyiv. Estonian Foreign Affairs Minist",
-    "tags": [
-      "Taxes",
-      "Sanctions"
+    "content": "Yerxa Benjamin R sold 7,669 shares of Opus Genetics, Inc. (IRD) \u00b7 $3.55/share \u00b7 $27,236 total \u00b7 Oct 27 ($117,365 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "IRD"
     ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/international/6175110-norway-finland-call-putin-controversial/",
-    "published_iso": "2026-10-27T15:39:06+00:00",
-    "time_ago": "32m ago"
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1228627/000114036126040906/0001140361-26-040906-index.htm",
+    "published_iso": "2026-10-27T20:41:18+00:00",
+    "time_ago": "just now"
   },
   {
-    "id": "c15e356ec97d",
+    "id": "119b5c2699a7",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Matz Deborah Jane bought 1,000 shares of Stewart Information Services Corp (STC) \u00b7 $43.91/share \u00b7 $43,910 total \u00b7 Oct 27",
+    "tags": [],
+    "tickers": [
+      "STC"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1814738/000162828026067619/0001628280-26-067619-index.htm",
+    "published_iso": "2026-10-27T20:35:46+00:00",
+    "time_ago": "6m ago"
+  },
+  {
+    "id": "ebcabe4182b4",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -31,16 +51,68 @@
       "fg": "#bbf7d0"
     },
     "severity": "high",
-    "content": "Supporting religious freedom and pluralism is a foreign policy priority. A country that protects its pluralism and presses its partners to protect theirs is not only living its ideals; it is protecting its future",
+    "content": "DCCC pushes for ads targeting GOP on AI, data centers in dozens of key House races. The Democratic Congressional Campaign Committee (DCCC) is pushing for advertising targeting Republican candidates over their record on AI and data centers in dozens of key House races, as technology-related issues take on new significan",
     "tags": [
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/opinion/congress-blog/religious-rights/6173268-international-religious-freedom-day-observance/",
-    "published_iso": "2026-10-27T15:30:00+00:00",
-    "time_ago": "41m ago"
+    "url": "https://thehill.com/policy/technology/6175681-dccc-targets-gop-ai-data-centers/",
+    "published_iso": "2026-10-27T19:01:08+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "767ad373761a",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Lowering the Medicare age to 50 would cost $180 billion a year. That's $70 billion less than the budget increase the House passed for the Department of War.\n\nWe could have healthcare over warfare.\n\nI'm proud to cosponsor Rep. Jayapal's bill to lower the age from 65 to 50.",
+    "tags": [
+      "Healthcare",
+      "Regulation"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/khanna.house.gov/post/3myutidwltc2r",
+    "published_iso": "2026-10-27T18:10:30.152000+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "d6c11fc02fde",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "critical",
+    "content": "US Rep  @RoKhanna  has made clear why he supports Medicare for All. Khanna has been a decade-long supporter of the legislation and argues that health care should be treated as a right, not a privilege tied to a job, income, or ability to navigate a complicated insurance system.",
+    "tags": [
+      "Healthcare",
+      "Regulation"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.meowing.monster/SEIU1984/status/2115086998570484166#m",
+    "published_iso": "2026-10-27T14:23:31+00:00",
+    "time_ago": "6h ago"
   },
   {
     "id": "2ef73a6b0c17",
@@ -61,7 +133,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21923/implementation-of-havana-act-of-2021",
     "published_iso": "2026-10-27T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "dfbe659ffc78",
@@ -82,7 +154,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21920/bipartisan-safer-communities-act-of-2022-criteria-for-national-instant-criminal-background-check",
     "published_iso": "2026-10-27T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "6a888b041893",
@@ -101,7 +173,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21902/airworthiness-directives-ontic-engineering-and-manufacturing-inc-type-certificate-previously-held-by",
     "published_iso": "2026-10-27T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "defc43b0d06a",
@@ -120,7 +192,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21888/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-cod-by-vessels-using-pot-gear-in-the",
     "published_iso": "2026-10-27T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "2a0b804a9a39",
@@ -141,7 +213,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21864/airworthiness-directives-the-boeing-company-airplanes",
     "published_iso": "2026-10-27T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "120dd56799e2",
@@ -160,7 +232,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21861/airworthiness-directives-airbus-sas-airplanes",
     "published_iso": "2026-10-27T04:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "659dd3b57105",
@@ -179,7 +251,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mysidcdmwk2y",
     "published_iso": "2026-10-26T19:45:30.074000+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "afe0de65d1cc",
@@ -202,7 +274,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-puts-mississippi-first-with-historic-tax-cuts-surging-investment-and-stronger-communities/",
     "published_iso": "2026-10-26T18:22:39+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "22002e5c6894",
@@ -231,7 +303,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/from-coast-to-coast-president-trump-is-putting-american-industry-back-on-the-map/",
     "published_iso": "2026-10-26T17:06:13+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "2ce8c03d7924",
@@ -274,7 +346,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-announces-the-america-first-seafood-strategy-and-seafood-gov/",
     "published_iso": "2026-10-23T20:10:57+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "7ade1013cfb0",
@@ -297,7 +369,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-further-modifies-canadian-products-subject-to-tariffs-under-section-338/",
     "published_iso": "2026-10-23T19:37:35+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "db4691067408",
@@ -319,7 +391,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-the-sunshine-state-with-major-wins-for-workers-seniors-and-veterans/",
     "published_iso": "2026-10-23T17:30:14+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "43273fdddfb8",
@@ -390,7 +462,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
     "published_iso": "2026-10-13T18:00:00+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "1adf28d01f2a",
@@ -439,7 +511,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
     "published_iso": "2026-10-08T20:30:00+00:00",
-    "time_ago": "18d ago"
+    "time_ago": "19d ago"
   },
   {
     "id": "ae07d7bc060b",
@@ -458,7 +530,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
     "published_iso": "2026-10-07T18:00:00+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "757a1bd60826",
@@ -484,7 +556,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
     "published_iso": "2026-10-05T20:30:00+00:00",
-    "time_ago": "21d ago"
+    "time_ago": "22d ago"
   },
   {
     "id": "fba941a53e33",
@@ -563,7 +635,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
     "published_iso": "2026-10-02T20:00:00+00:00",
-    "time_ago": "24d ago"
+    "time_ago": "25d ago"
   },
   {
     "id": "f5506a3890fe",
@@ -585,7 +657,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-six-penny-plan-to-balance-the-federal-budget-in-five-years-3/",
     "published_iso": "2026-09-22T20:41:12+00:00",
-    "time_ago": "34d ago"
+    "time_ago": "35d ago"
   },
   {
     "id": "e8b69ccc4d67",
@@ -606,7 +678,7 @@
     "platform": ".gov",
     "url": "https://pelosi.house.gov/news/pelosi-update/remembrance-and-renewal",
     "published_iso": "2026-09-11T18:24:02+00:00",
-    "time_ago": "45d ago"
+    "time_ago": "46d ago"
   },
   {
     "id": "baf26d52584e",
@@ -634,7 +706,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "80d ago"
+    "time_ago": "81d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -663,7 +735,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "95d ago"
+    "time_ago": "96d ago"
   },
   {
     "id": "de38f5381391",
@@ -684,7 +756,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "96d ago"
+    "time_ago": "97d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -840,7 +912,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "215d ago"
+    "time_ago": "216d ago"
   },
   {
     "id": "00f579ee8f55",
@@ -906,7 +978,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "277d ago"
+    "time_ago": "278d ago"
   },
   {
     "id": "d3ca74df7f0f",
