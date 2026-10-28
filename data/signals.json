@@ -1,6 +1,6 @@
 [
   {
-    "id": "5bef77d6dca2",
+    "id": "7a0294b666b4",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,47 +9,59 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Liberty Mutual Holding Co Inc. bought 33,187 shares of Willow Tree Capital Corp (COF) \u00b7 $15.95/share \u00b7 $529,333 total \u00b7 Oct 28",
+    "content": "Saba Capital Management, L.P. bought 13,695 shares of Bny Mellon Strategic Municipal Bond Fund, Inc. (DSM) \u00b7 $5.63/share \u00b7 $77,103 total \u00b7 Oct 28",
     "tags": [],
     "tickers": [
-      "COF"
+      "DSM"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1944831/000119312526435749/0001193125-26-435749-index.htm",
-    "published_iso": "2026-10-28T17:12:35+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/1510281/000151028126000388/0001510281-26-000388-index.htm",
+    "published_iso": "2026-10-28T21:43:02+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "087e5efb823e",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Tether Global Investments Fund, S.I.C.A.F., S.A. bought 32,675 shares of Gold.Com, Inc. (GOLD) \u00b7 $38.96/share \u00b7 $1,273,047 total \u00b7 Oct 28 ($3,927,258 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "GOLD"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2130094/000110465926119719/0001104659-26-119719-index.htm",
+    "published_iso": "2026-10-28T21:39:51+00:00",
     "time_ago": "4m ago"
   },
   {
-    "id": "d2d4e5bc62c2",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "3c2a7eb96ad1",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
     },
     "severity": "medium",
-    "content": "A bipartisan watchdog on China may go dark \u2014 that would be a mistake.. As the midterm elections approach, House leadership must decide whether to reauthorize the bipartisan Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party to avoid stalling progress on semiconductor",
-    "tags": [
-      "Trade",
-      "China",
-      "Semiconductors"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "AMD",
-      "QCOM"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/national-security/6176747-house-select-china-committee-fate/",
-    "published_iso": "2026-10-28T17:00:00+00:00",
-    "time_ago": "17m ago"
+    "content": "What does a corporate merger have to do with your favorite neighborhood restaurant? A LOT.\n\nMy team sat down with Massachusetts restaurant owners to hear what's at stake.",
+    "tags": [],
+    "tickers": [],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3myxibz4ozs22",
+    "published_iso": "2026-10-28T19:28:05.546000+00:00",
+    "time_ago": "2h ago"
   },
   {
-    "id": "c6ab5dc3cf04",
+    "id": "be2cc0d1d7b1",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -58,30 +70,29 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "House Democrat warns about Musk, other 'weird trillionaires' controlling AI. Rep. Jim Himes (D-Conn.) on Wednesday morning issued a stark warning about the influence that SpaceX CEO Elon Musk and other artificial intelligence technology leaders have over global affairs following a recent reported slowdown of the satell",
+    "content": "Kim Reynolds says Lahn was 'clear winner' of gubernatorial debate. Iowa Gov. Kim Reynolds (R) said Republican gubernatorial candidate Zach Lahn was a \u201cclear winner\u201d in a final debate before the midterm election against Democrat Rob Sand. \u201cAnd unlike @RobSandIA, he was unafraid to take a stand for our most vulnerable ci",
     "tags": [
+      "Defense",
       "Taxes"
     ],
-    "tickers": [
-      "TSLA"
-    ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/6178433-himes-warns-musk-influence-ai/",
-    "published_iso": "2026-10-28T16:41:44+00:00",
-    "time_ago": "35m ago"
+    "url": "https://thehill.com/homenews/campaign/6179090-iowa-gubernatorial-candidates-reynolds/",
+    "published_iso": "2026-10-28T19:20:10+00:00",
+    "time_ago": "2h ago"
   },
   {
-    "id": "0e0e5ddfbcdd",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "dcd00aa841df",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
     },
-    "severity": "low",
-    "content": "Obama returns to the mic amid Cheesecake Factory\u00a0uproar. Plus: \ud83d\udcb5 Plus: Fed's final call before midterms {beacon} It\u2019s Wednesday, and we're officially less than one week out from Election Day. Have you hit the polls yet?  &#8202; In today's issue: Obama campaigns in Georgia Trump to Ohio Fed makes interest rate decision",
+    "severity": "medium",
+    "content": "Federal Reserve issues FOMC statement. Federal Reserve issues FOMC statement",
     "tags": [
       "Banking"
     ],
@@ -91,11 +102,11 @@
       "GS",
       "XLF"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/1230-report/6178347-obama-returns-to-the-mic-amid-cheesecake-factory-uproar/",
-    "published_iso": "2026-10-28T16:35:19+00:00",
-    "time_ago": "42m ago"
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+    "published_iso": "2026-10-28T18:00:00+00:00",
+    "time_ago": "3h ago"
   },
   {
     "id": "83f91052131c",
@@ -118,7 +129,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-ohio-with-a-record-of-results/",
     "published_iso": "2026-10-28T15:52:54+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "dab3923fcc00",
@@ -137,7 +148,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mywvfjz4e22x",
     "published_iso": "2026-10-28T13:50:02.824000+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "759761ff4192",
@@ -160,7 +171,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/america-first-seafood-strategy-charts-course-restoring-us-seafood-dominance",
     "published_iso": "2026-10-28T13:39:42+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "9b01be2d0fa5",
@@ -187,7 +198,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-announces-arrival-of-first-one-million-barrels-of-oil-in-texas-thanks-to-historic-oil-deal/",
     "published_iso": "2026-10-28T12:29:46+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "8a9a20bcf597",
@@ -208,7 +219,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22034/television-broadcasting-services-elko-nevada",
     "published_iso": "2026-10-28T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "6a788bbee189",
@@ -227,7 +238,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22007/fisheries-of-the-northeastern-united-states-atlantic-bluefish-fishery-quota-transfer-from-new-york",
     "published_iso": "2026-10-28T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "1a81259efb2f",
@@ -246,7 +257,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22003/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-virginia-to",
     "published_iso": "2026-10-28T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "a18fc7f266f6",
@@ -267,7 +278,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21997/executive-branch-financial-disclosure-and-standards-of-ethical-conduct-regulations",
     "published_iso": "2026-10-28T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "7f4c410c8777",
@@ -289,7 +300,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21995/establishment-of-class-e-airspace-ottawa-il-correction",
     "published_iso": "2026-10-28T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "0354174cc8d4",
@@ -316,7 +327,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21991/establishment-of-class-e-airspace-dekalb-il-correction",
     "published_iso": "2026-10-28T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "e961fc3cbb12",
@@ -343,7 +354,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21978/modification-of-class-e-airspace-samaritan-north-lincoln-hospital-heliport-lincoln-city-or",
     "published_iso": "2026-10-28T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "ffdbb4b084ad",
@@ -364,7 +375,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21965/alaska-wildlife-harvest-and-access-correction",
     "published_iso": "2026-10-28T04:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "767ad373761a",
@@ -390,7 +401,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3myutidwltc2r",
     "published_iso": "2026-10-27T18:10:30.152000+00:00",
-    "time_ago": "23h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "afe0de65d1cc",
@@ -413,79 +424,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-puts-mississippi-first-with-historic-tax-cuts-surging-investment-and-stronger-communities/",
     "published_iso": "2026-10-26T18:22:39+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "22002e5c6894",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "From Coast to Coast, President Trump Is Putting American Industry Back on the Map. President Donald J. Trump is delivering an America First surge of manufacturing, energy, agriculture, semiconductor, shipbuilding, and national security investments that are bringing production home, expanding domestic capacity, and lock",
-    "tags": [
-      "Semiconductors",
-      "Energy",
-      "Agriculture",
-      "Taxes"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "AMD",
-      "QCOM"
-    ],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/releases/2026/10/from-coast-to-coast-president-trump-is-putting-american-industry-back-on-the-map/",
-    "published_iso": "2026-10-26T17:06:13+00:00",
     "time_ago": "2d ago"
-  },
-  {
-    "id": "2ce8c03d7924",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "high",
-    "content": "First Lady Melania Trump Announces Halloween at the White House 2026. On Thursday, October 29, 2026, First Lady Melania Trump and President Donald J. Trump will open the South Lawn of the White House to trick or treaters of all ages. During this special White House tradition, thousands of children and their parents wil",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-announces-halloween-at-the-white-house-2026/",
-    "published_iso": "2026-10-26T12:47:15+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "9ea5de266199",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "high",
-    "content": "Fact Sheet: President Donald J. Trump Announces the America First Seafood Strategy and Seafood.gov. SECURING AMERICAN SEAFOOD DOMINANCE:&#160;Today, President Donald J. Trump\u2019s Administration unveiled the historic America First Seafood Strategy and launched Seafood.gov, implementing a plan of action for the future of A",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-announces-the-america-first-seafood-strategy-and-seafood-gov/",
-    "published_iso": "2026-10-23T20:10:57+00:00",
-    "time_ago": "4d ago"
   },
   {
     "id": "cfb78ede1c08",
@@ -530,7 +469,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
     "published_iso": "2026-10-13T18:00:00+00:00",
-    "time_ago": "14d ago"
+    "time_ago": "15d ago"
   },
   {
     "id": "1adf28d01f2a",
@@ -579,7 +518,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
     "published_iso": "2026-10-08T20:30:00+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "ae07d7bc060b",
@@ -598,7 +537,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
     "published_iso": "2026-10-07T18:00:00+00:00",
-    "time_ago": "20d ago"
+    "time_ago": "21d ago"
   },
   {
     "id": "757a1bd60826",
@@ -624,7 +563,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
     "published_iso": "2026-10-05T20:30:00+00:00",
-    "time_ago": "22d ago"
+    "time_ago": "23d ago"
   },
   {
     "id": "fba941a53e33",
@@ -648,9 +587,9 @@
     ],
     "source": "rss",
     "platform": ".gov",
-    "url": "https://pelosi.house.gov/news/pelosi-update/working-families-first",
+    "url": "http://pelosi.house.gov/news/pelosi-update/working-families-first",
     "published_iso": "2026-10-03T21:13:42+00:00",
-    "time_ago": "24d ago"
+    "time_ago": "25d ago"
   },
   {
     "id": "16c86cf6bdf5",
@@ -676,56 +615,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
     "published_iso": "2026-10-02T20:45:00+00:00",
-    "time_ago": "25d ago"
-  },
-  {
-    "id": "8581e940fa48",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "high",
-    "content": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O. Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-    "tags": [
-      "Banking",
-      "Regulation"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
-    "published_iso": "2026-10-02T20:00:00+00:00",
-    "time_ago": "25d ago"
-  },
-  {
-    "id": "f5506a3890fe",
-    "politician": "Sen. Rand Paul",
-    "initials": "RP",
-    "role": "Senate Foreign Relations Committee",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fbbf24"
-    },
-    "severity": "critical",
-    "content": "Dr. Rand Paul Introduces Six Penny Plan to Balance the Federal Budget in Five Years. The post  Dr. Rand Paul Introduces Six Penny Plan to Balance the Federal Budget in Five Years  appeared first on  Senator Rand Paul",
-    "tags": [
-      "Defense",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-six-penny-plan-to-balance-the-federal-budget-in-five-years-3/",
-    "published_iso": "2026-09-22T20:41:12+00:00",
-    "time_ago": "35d ago"
+    "time_ago": "26d ago"
   },
   {
     "id": "e8b69ccc4d67",
@@ -744,66 +634,9 @@
     "tickers": [],
     "source": "rss",
     "platform": ".gov",
-    "url": "https://pelosi.house.gov/news/pelosi-update/remembrance-and-renewal",
+    "url": "http://pelosi.house.gov/news/pelosi-update/remembrance-and-renewal",
     "published_iso": "2026-09-11T18:24:02+00:00",
-    "time_ago": "46d ago"
-  },
-  {
-    "id": "baf26d52584e",
-    "politician": "Sen. Rand Paul",
-    "initials": "RP",
-    "role": "Senate Foreign Relations Committee",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fbbf24"
-    },
-    "severity": "critical",
-    "content": "Senator Rand Paul Offers Amendment to Strip Half-Trillion-Dollar Tax Increase from Russia Sanctions Bill. The post  Senator Rand Paul Offers Amendment to Strip Half-Trillion-Dollar Tax Increase from Russia Sanctions Bill  appeared first on  Senator Rand Paul",
-    "tags": [
-      "Defense",
-      "Regulation",
-      "Taxes",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
-    "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "82d ago"
-  },
-  {
-    "id": "6e187954d9ee",
-    "politician": "Sen. Rand Paul",
-    "initials": "RP",
-    "role": "Senate Foreign Relations Committee",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fbbf24"
-    },
-    "severity": "critical",
-    "content": "Dr. Rand Paul\u2019s Legislation to Lower Drug Prices Unanimously Advances Out of Committee. The post  Dr. Rand Paul\u2019s Legislation to Lower Drug Prices Unanimously Advances Out of Committee  appeared first on  Senator Rand Paul",
-    "tags": [
-      "Healthcare",
-      "Defense",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "LLY",
-      "PFE",
-      "JNJ",
-      "MRK"
-    ],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
-    "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "97d ago"
+    "time_ago": "47d ago"
   },
   {
     "id": "de38f5381391",
@@ -824,51 +657,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "97d ago"
-  },
-  {
-    "id": "eb1d45f105fb",
-    "politician": "Sen. Rand Paul",
-    "initials": "RP",
-    "role": "Senate Foreign Relations Committee",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fbbf24"
-    },
-    "severity": "low",
-    "content": "The post    appeared first on  Senator Rand Paul",
-    "tags": [
-      "Defense",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "https://www.paul.senate.gov/266583-2/",
-    "published_iso": "2026-07-22T12:28:35+00:00",
     "time_ago": "98d ago"
-  },
-  {
-    "id": "555d7f3dd315",
-    "politician": "Sen. Rand Paul",
-    "initials": "RP",
-    "role": "Senate Foreign Relations Committee",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fbbf24"
-    },
-    "severity": "low",
-    "content": "Chairman Paul Releases Documents Showing CBP Prepared to Question and Search Peter Daszak \u2014 Until the FBI Stepped In. The post  Chairman Paul Releases Documents Showing CBP Prepared to Question and Search Peter Daszak \u2014 Until the FBI Stepped In  appeared first on  Senator Rand Paul",
-    "tags": [
-      "Defense",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
-    "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "99d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -980,7 +769,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "216d ago"
+    "time_ago": "217d ago"
   },
   {
     "id": "00f579ee8f55",
@@ -1021,32 +810,6 @@
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
     "time_ago": "257d ago"
-  },
-  {
-    "id": "c3776ad92a42",
-    "politician": "Sen. Bernie Sanders",
-    "initials": "BS",
-    "role": "Senate HELP Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#818cf8"
-    },
-    "severity": "critical",
-    "content": "ADVISORY: Sanders to Hold Town Meeting on Vermont Health Care Crisis with UVM Health CEO. BURLINGTON, Vt., Jan. 22 \u2013 Sen. Bernie Sanders (I-Vt.) will hold a town meeting with University of Vermont (UVM) Health CEO Dr. Stephen Leffler on Friday, January 23 at 7:00 p.m. to discuss Vermont\u2019s health care crisis. Vermonters",
-    "tags": [
-      "Defense",
-      "Taxes"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
-    "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "279d ago"
   },
   {
     "id": "d3ca74df7f0f",
