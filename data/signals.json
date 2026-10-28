@@ -1,6 +1,71 @@
 [
   {
-    "id": "c0dcd079cc5c",
+    "id": "f4f4fef8d396",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Wu Yuao acquired/disposed 309,834,748 shares of Amber International Holding Ltd (AMBR) \u00b7 Oct 28 ($0 across all blocks)",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "AMBR"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2120901/000110465926119350/0001104659-26-119350-index.htm",
+    "published_iso": "2026-10-28T10:55:24+00:00",
+    "time_ago": "34m ago"
+  },
+  {
+    "id": "b07d10c62ac8",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Sweet Julie Spellman bought 2,100 shares of Accenture Plc (ACN) \u00b7 $245.11/share \u00b7 $514,723 total \u00b7 Oct 28 ($3,001,041 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "ACN"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1487630/000148763026000022/0001487630-26-000022-index.htm",
+    "published_iso": "2026-10-28T10:45:40+00:00",
+    "time_ago": "43m ago"
+  },
+  {
+    "id": "5d93423aeeb5",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Price Paula A bought 800 shares of Accenture Plc (ACN) \u00b7 $249.81/share \u00b7 $199,848 total \u00b7 Oct 28",
+    "tags": [],
+    "tickers": [
+      "ACN"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1467373/000136924026000014/0001369240-26-000014-index.htm",
+    "published_iso": "2026-10-28T10:45:35+00:00",
+    "time_ago": "44m ago"
+  },
+  {
+    "id": "0b9c7187f708",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,16 +74,198 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Trump and Talarico hold dueling Texas rallies. President Trump and Texas Senate candidate James Talarico (D) shared their competing visions Tuesday as the two held dueling rallies in the Lone Star State one week before the midterm elections. Trump did two rallies in Texas \u2014 the first in Corpus Christi and another in Lu",
+    "content": "Fed likely to hold rates steady ahead of midterms. Federal Reserve officials will decide whether to raise interest rates again on Wednesday, as persistent inflation strains Americans ahead of the midterm elections. Annual inflation was 3.7 percent in September, according to the consumer price index (CPI). That marked a",
     "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/6175539-fed-to-decide-interest-rates-midterms/",
+    "published_iso": "2026-10-28T10:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "8a9a20bcf597",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Television Broadcasting Services Elko, Nevada. This document amends the Table of TV Allotments (table) of the Federal Communications Commission's (Commission) rules by substituting VHF channel 10 for UHF channel 20 at Elko, Nevada in response to a petition for rulemaking filed by Reno (KENV-TV) Licensee, Inc. (Licensee",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22034/television-broadcasting-services-elko-nevada",
+    "published_iso": "2026-10-28T04:00:00+00:00",
+    "time_ago": "7h ago"
+  },
+  {
+    "id": "6a788bbee189",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Fisheries of the Northeastern United States; Atlantic Bluefish Fishery; Quota Transfer From New York to North Carolina. NMFS announces that the State of New York is transferring a portion of their 2026 commercial bluefish quota to the State of North Carolina. This quota adjustment is necessary to comply with the Atlant",
+    "tags": [],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22007/fisheries-of-the-northeastern-united-states-atlantic-bluefish-fishery-quota-transfer-from-new-york",
+    "published_iso": "2026-10-28T04:00:00+00:00",
+    "time_ago": "7h ago"
+  },
+  {
+    "id": "1a81259efb2f",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Fisheries of the Northeastern United States; Summer Flounder Fishery; Quota Transfer From Virginia to New Jersey. NMFS announces that the Commonwealth of Virginia is transferring a portion of its 2026 commercial summer flounder quota to the State of New Jersey. This adjustment to the 2026 fishing year quota is necessar",
+    "tags": [],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22003/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-virginia-to",
+    "published_iso": "2026-10-28T04:00:00+00:00",
+    "time_ago": "7h ago"
+  },
+  {
+    "id": "a18fc7f266f6",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Executive Branch Financial Disclosure and Standards of Ethical Conduct Regulations. The U.S. Office of Government Ethics (OGE) is updating its executive branch regulation on financial disclosure to reflect the retroactive statutory increase of the reporting thresholds for gifts and travel reimbursements. OGE is also up",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21997/executive-branch-financial-disclosure-and-standards-of-ethical-conduct-regulations",
+    "published_iso": "2026-10-28T04:00:00+00:00",
+    "time_ago": "7h ago"
+  },
+  {
+    "id": "7f4c410c8777",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Establishment of Class E Airspace; Ottawa, IL; Correction. This action corrects a final rule published by the FAA in the Federal Register on September 22, 2026, establishing Class E airspace at OSF St Elizabeth Medical Center Heliport, Ottawa, IL. This action corrects a typographical error in the airspace legal descrip",
+    "tags": [
+      "Regulation",
       "Taxes"
     ],
     "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/6176856-trump-talarico-texas-senate-rallies/",
-    "published_iso": "2026-10-28T03:12:36+00:00",
-    "time_ago": "2h ago"
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21995/establishment-of-class-e-airspace-ottawa-il-correction",
+    "published_iso": "2026-10-28T04:00:00+00:00",
+    "time_ago": "7h ago"
+  },
+  {
+    "id": "0354174cc8d4",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Establishment of Class E Airspace; DeKalb, IL; Correction. This action corrects a final rule published by the FAA in the Federal Register on September 22, 2026, establishing Class E airspace at Northwestern Memorial Healthcare Heliport, DeKalb, IL. Specifically, this action corrects a typographic error in the airspace ",
+    "tags": [
+      "Healthcare",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21991/establishment-of-class-e-airspace-dekalb-il-correction",
+    "published_iso": "2026-10-28T04:00:00+00:00",
+    "time_ago": "7h ago"
+  },
+  {
+    "id": "e961fc3cbb12",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Modification of Class E Airspace, Samaritan North Lincoln Hospital Heliport, Lincoln City, OR. This action modifies Class E airspace extending upward from 700 feet above the surface at Samaritan North Lincoln Hospital Heliport, Lincoln City, OR. This action supports the safety and management of instrument flight rules ",
+    "tags": [
+      "Healthcare",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21978/modification-of-class-e-airspace-samaritan-north-lincoln-hospital-heliport-lincoln-city-or",
+    "published_iso": "2026-10-28T04:00:00+00:00",
+    "time_ago": "7h ago"
+  },
+  {
+    "id": "ffdbb4b084ad",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Alaska; Wildlife, Harvest, and Access; Correction. The National Park Service (NPS) is correcting a final rule that appeared in the Federal Register on October 19, 2026. The rule amended regulations for hunting, fishing, trapping, and other harvest- related activities in Alaska and the procedures used to restrict public",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21965/alaska-wildlife-harvest-and-access-correction",
+    "published_iso": "2026-10-28T04:00:00+00:00",
+    "time_ago": "7h ago"
   },
   {
     "id": "f1fe1f16f364",
@@ -40,220 +287,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/2138895/000119312526434846/0001193125-26-434846-index.htm",
     "published_iso": "2026-10-28T01:35:07+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "fdc24b98b2e9",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Rogers Chris sold 24,665 shares of Maplebear Inc. (CART) \u00b7 $60.00/share \u00b7 $1,479,900 total \u00b7 Oct 27",
-    "tags": [],
-    "tickers": [
-      "CART"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2082930/000208293026000020/0002082930-26-000020-index.htm",
-    "published_iso": "2026-10-28T01:34:18+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "8f20bf997bcb",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Alexander Brian Daniel exercised options for 20,512 shares of Symbotic Inc. (SYM) \u00b7 Oct 27",
-    "tags": [],
-    "tickers": [
-      "SYM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1837240/000165400926000014/0001654009-26-000014-index.htm",
-    "published_iso": "2026-10-28T01:34:01+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "dc715cd7502b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Martins Izilda P exercised options for 14,785 shares of Symbotic Inc. (SYM) \u00b7 Oct 27",
-    "tags": [],
-    "tickers": [
-      "SYM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1837240/000150530026000013/0001505300-26-000013-index.htm",
-    "published_iso": "2026-10-28T01:33:55+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "3c973c690e07",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Boyd William M Iii exercised options for 2,909 shares of Symbotic Inc. (SYM) \u00b7 Oct 27 ($357,027 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "SYM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1932973/000193297326000024/0001932973-26-000024-index.htm",
-    "published_iso": "2026-10-28T01:33:50+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "6d32b4ec8c96",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Freve Maria G exercised options for 1,144 shares of Symbotic Inc. (SYM) \u00b7 Oct 27 ($0 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "SYM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1837240/000180756126000022/0001807561-26-000022-index.htm",
-    "published_iso": "2026-10-28T01:33:44+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "6681d50cba7e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Kuffner James exercised options for 47,923 shares of Symbotic Inc. (SYM) \u00b7 Oct 27",
-    "tags": [],
-    "tickers": [
-      "SYM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1877346/000187734626000024/0001877346-26-000024-index.htm",
-    "published_iso": "2026-10-28T01:33:38+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "6b7079cd6eba",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Walker John Kent converted 1,626 shares of Alphabet Inc. (GOOGM) \u00b7 Oct 27 ($520,656 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "GOOGM",
-      "GOOGL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526434841/0001193125-26-434841-index.htm",
-    "published_iso": "2026-10-28T01:32:36+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "d8e587b57fe2",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Schindler Philipp converted 1,998 shares of Alphabet Inc. (GOOGM) \u00b7 Oct 27 ($639,636 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "GOOGM",
-      "GOOGL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1837573/000119312526434840/0001193125-26-434840-index.htm",
-    "published_iso": "2026-10-28T01:32:19+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "7f2efbdfb27e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Porat Ruth converted 1,626 shares of Alphabet Inc. (GOOGM) \u00b7 Oct 27 ($520,656 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "GOOGM",
-      "GOOGL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526434839/0001193125-26-434839-index.htm",
-    "published_iso": "2026-10-28T01:32:13+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "310d8a2dbedb",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Guardrails Alliance hits Husted over ties to Marc Andreessen in new ad. Super PAC Guardrails Alliance will launch a digital ad campaign Wednesday seeking to tie Ohio Sen. Jon Husted (R)'s past support for data centers to campaign donations he received from tech executives like venture capitalist Marc Andreessen. The 30",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/6176397-guardrails-alliance-husted-ad-tech-ties/",
-    "published_iso": "2026-10-27T23:43:41+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "9h ago"
   },
   {
     "id": "767ad373761a",
@@ -279,127 +313,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3myutidwltc2r",
     "published_iso": "2026-10-27T18:10:30.152000+00:00",
-    "time_ago": "11h ago"
-  },
-  {
-    "id": "2ef73a6b0c17",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Implementation of HAVANA Act of 2021. On April 19, 2024, the Department of Justice published an interim final rule to implement the HAVANA Act of 2021. No comments were received on the interim final rule. The HAVANA Act authorizes agency heads to provide payments to certain individuals who have incurred qualifying inju",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21923/implementation-of-havana-act-of-2021",
-    "published_iso": "2026-10-27T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "dfbe659ffc78",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Bipartisan Safer Communities Act of 2022-Criteria for National Instant Criminal Background Check System (\u201cNICS\u201d) Background Checks of Firearm Handlers. The United States Department of Justice (&quot;Department&quot;) is amending several of its regulations pertaining to the National Instant Criminal Background Check Sys",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21920/bipartisan-safer-communities-act-of-2022-criteria-for-national-instant-criminal-background-check",
-    "published_iso": "2026-10-27T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "6a888b041893",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Airworthiness Directives; Ontic Engineering and Manufacturing, Inc. (Type Certificate Previously Held by Swearingen, Fairchild Aircraft, and M7 Aerospace) Airplanes. The FAA is adopting a new airworthiness directive (AD) for certain Ontic Engineering and Manufacturing, Inc. Model SA226-T, SA226- AT, SA226-T(B), SA226-T",
-    "tags": [],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21902/airworthiness-directives-ontic-engineering-and-manufacturing-inc-type-certificate-previously-held-by",
-    "published_iso": "2026-10-27T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "defc43b0d06a",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Fisheries of the Exclusive Economic Zone Off Alaska; Pacific Cod by Vessels Using Pot Gear in the Western Regulatory Area of the Gulf of Alaska. NMFS is prohibiting directed fishing for Pacific cod by vessels using pot gear in the Western Regulatory Area of the Gulf of Alaska (GOA). This action is necessary to prevent ",
-    "tags": [],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21888/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-cod-by-vessels-using-pot-gear-in-the",
-    "published_iso": "2026-10-27T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "2a0b804a9a39",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Airworthiness Directives; The Boeing Company Airplanes. The FAA is adopting a new airworthiness directive (AD) for certain The Boeing Company Model 757-200 and -300 series airplanes. This AD was prompted by a report that some passenger service unit (PSU)-mounted video monitors became detached from the PSU rails during ",
-    "tags": [],
-    "tickers": [
-      "BA"
-    ],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21864/airworthiness-directives-the-boeing-company-airplanes",
-    "published_iso": "2026-10-27T04:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "120dd56799e2",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Airworthiness Directives; Airbus SAS Airplanes. The FAA is adopting a new airworthiness directive (AD) for certain Airbus SAS Model A330-941 airplanes. This AD was prompted by an occurrence of a triple &quot;PRIM FAULT&quot; in the Flight Control Primary Computer (FCPC) at touchdown. This AD requires the installation o",
-    "tags": [],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21861/airworthiness-directives-airbus-sas-airplanes",
-    "published_iso": "2026-10-27T04:00:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "659dd3b57105",
@@ -418,25 +332,6 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mysidcdmwk2y",
     "published_iso": "2026-10-26T19:45:30.074000+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "681d0157a779",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "Ralphs \nFood for Less \nMariano\u2019s \nSmith\u2019s \nHarris Teeter \n  \nKroger ALREADY owns all these grocery stores. \n  \nNow, Kroger wants to buy Giant Eagle too. \n  \nLess competition could mean higher grocery costs for YOU. \n  \nDonald Trump shouldn't just rubber-stamp this merger.",
-    "tags": [],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nitter.jaydenha.uk/SenWarren/status/2114805509354136016#m",
-    "published_iso": "2026-10-26T19:44:59+00:00",
     "time_ago": "1d ago"
   },
   {
