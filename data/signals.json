@@ -1,6 +1,6 @@
 [
   {
-    "id": "f4f4fef8d396",
+    "id": "5bef77d6dca2",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,63 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Wu Yuao acquired/disposed 309,834,748 shares of Amber International Holding Ltd (AMBR) \u00b7 Oct 28 ($0 across all blocks)",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [
-      "AMBR"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2120901/000110465926119350/0001104659-26-119350-index.htm",
-    "published_iso": "2026-10-28T10:55:24+00:00",
-    "time_ago": "34m ago"
-  },
-  {
-    "id": "b07d10c62ac8",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Sweet Julie Spellman bought 2,100 shares of Accenture Plc (ACN) \u00b7 $245.11/share \u00b7 $514,723 total \u00b7 Oct 28 ($3,001,041 across all blocks)",
+    "content": "Liberty Mutual Holding Co Inc. bought 33,187 shares of Willow Tree Capital Corp (COF) \u00b7 $15.95/share \u00b7 $529,333 total \u00b7 Oct 28",
     "tags": [],
     "tickers": [
-      "ACN"
+      "COF"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1487630/000148763026000022/0001487630-26-000022-index.htm",
-    "published_iso": "2026-10-28T10:45:40+00:00",
-    "time_ago": "43m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1944831/000119312526435749/0001193125-26-435749-index.htm",
+    "published_iso": "2026-10-28T17:12:35+00:00",
+    "time_ago": "4m ago"
   },
   {
-    "id": "5d93423aeeb5",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Price Paula A bought 800 shares of Accenture Plc (ACN) \u00b7 $249.81/share \u00b7 $199,848 total \u00b7 Oct 28",
-    "tags": [],
-    "tickers": [
-      "ACN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1467373/000136924026000014/0001369240-26-000014-index.htm",
-    "published_iso": "2026-10-28T10:45:35+00:00",
-    "time_ago": "44m ago"
-  },
-  {
-    "id": "0b9c7187f708",
+    "id": "d2d4e5bc62c2",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -74,7 +30,58 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Fed likely to hold rates steady ahead of midterms. Federal Reserve officials will decide whether to raise interest rates again on Wednesday, as persistent inflation strains Americans ahead of the midterm elections. Annual inflation was 3.7 percent in September, according to the consumer price index (CPI). That marked a",
+    "content": "A bipartisan watchdog on China may go dark \u2014 that would be a mistake.. As the midterm elections approach, House leadership must decide whether to reauthorize the bipartisan Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party to avoid stalling progress on semiconductor",
+    "tags": [
+      "Trade",
+      "China",
+      "Semiconductors"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "AMD",
+      "QCOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/national-security/6176747-house-select-china-committee-fate/",
+    "published_iso": "2026-10-28T17:00:00+00:00",
+    "time_ago": "17m ago"
+  },
+  {
+    "id": "c6ab5dc3cf04",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "House Democrat warns about Musk, other 'weird trillionaires' controlling AI. Rep. Jim Himes (D-Conn.) on Wednesday morning issued a stark warning about the influence that SpaceX CEO Elon Musk and other artificial intelligence technology leaders have over global affairs following a recent reported slowdown of the satell",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "TSLA"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/6178433-himes-warns-musk-influence-ai/",
+    "published_iso": "2026-10-28T16:41:44+00:00",
+    "time_ago": "35m ago"
+  },
+  {
+    "id": "0e0e5ddfbcdd",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "low",
+    "content": "Obama returns to the mic amid Cheesecake Factory\u00a0uproar. Plus: \ud83d\udcb5 Plus: Fed's final call before midterms {beacon} It\u2019s Wednesday, and we're officially less than one week out from Election Day. Have you hit the polls yet?  &#8202; In today's issue: Obama campaigns in Georgia Trump to Ohio Fed makes interest rate decision",
     "tags": [
       "Banking"
     ],
@@ -86,9 +93,101 @@
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/business/6175539-fed-to-decide-interest-rates-midterms/",
-    "published_iso": "2026-10-28T10:00:00+00:00",
+    "url": "https://thehill.com/newsletters/1230-report/6178347-obama-returns-to-the-mic-amid-cheesecake-factory-uproar/",
+    "published_iso": "2026-10-28T16:35:19+00:00",
+    "time_ago": "42m ago"
+  },
+  {
+    "id": "83f91052131c",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "President Trump Returns to Ohio With a Record of Results. Today, President Donald J. Trump returns to the Buckeye State to showcase a record of results that puts Ohio workers, families, seniors, farmers, and communities first. Under the leadership of President Trump and Republicans, Ohioans are benefiting from historic",
+    "tags": [
+      "Healthcare",
+      "Agriculture",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-ohio-with-a-record-of-results/",
+    "published_iso": "2026-10-28T15:52:54+00:00",
     "time_ago": "1h ago"
+  },
+  {
+    "id": "dab3923fcc00",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "Anthropic is saying that AI models could pose catastrophic or existential risks to humanity.\n\nAt the same time, Anthropic is planning the largest IPO in history, which would accelerate the development of this technology while leaving Americans holding the bag if the AI bubble bursts.",
+    "tags": [],
+    "tickers": [],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mywvfjz4e22x",
+    "published_iso": "2026-10-28T13:50:02.824000+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "759761ff4192",
+    "politician": "U.S. Trade Rep.",
+    "initials": "USTR",
+    "role": "Office of the U.S. Trade Representative",
+    "color": {
+      "bg": "#1a0a1a",
+      "fg": "#d8b4fe"
+    },
+    "severity": "critical",
+    "content": "America First Seafood Strategy Charts Course to Restoring U.S. Seafood Dominance. America First Seafood Strategy Charts Course to Restoring U.S. Seafood Dominance \n  myarbrough  \n  Wed, 10/28/2026 - 09:39 \n \n\n               WASHINGTON  \u2013 In honor of National Seafood Month, the White House unveiled the historic    Ameri",
+    "tags": [
+      "Trade",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "ustr",
+    "platform": "USTR",
+    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/america-first-seafood-strategy-charts-course-restoring-us-seafood-dominance",
+    "published_iso": "2026-10-28T13:39:42+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "9b01be2d0fa5",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "high",
+    "content": "President Trump Announces Arrival of First One Million Barrels of Oil in Texas Thanks to Historic Oil Deal. \u201cThis historic win gives us control over a massive part of the world&#8217;s oil supply.\u201d \u2013 President Donald J. Trump Yesterday in Corpus Christi, Texas, President Donald J. Trump announced the arrival of\u00a0the fir",
+    "tags": [
+      "Energy",
+      "Taxes"
+    ],
+    "tickers": [
+      "XOM",
+      "CVX",
+      "COP",
+      "OXY"
+    ],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-announces-arrival-of-first-one-million-barrels-of-oil-in-texas-thanks-to-historic-oil-deal/",
+    "published_iso": "2026-10-28T12:29:46+00:00",
+    "time_ago": "4h ago"
   },
   {
     "id": "8a9a20bcf597",
@@ -109,7 +208,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22034/television-broadcasting-services-elko-nevada",
     "published_iso": "2026-10-28T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "6a788bbee189",
@@ -128,7 +227,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22007/fisheries-of-the-northeastern-united-states-atlantic-bluefish-fishery-quota-transfer-from-new-york",
     "published_iso": "2026-10-28T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "1a81259efb2f",
@@ -147,7 +246,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22003/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-virginia-to",
     "published_iso": "2026-10-28T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "a18fc7f266f6",
@@ -168,7 +267,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21997/executive-branch-financial-disclosure-and-standards-of-ethical-conduct-regulations",
     "published_iso": "2026-10-28T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "7f4c410c8777",
@@ -190,7 +289,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21995/establishment-of-class-e-airspace-ottawa-il-correction",
     "published_iso": "2026-10-28T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "0354174cc8d4",
@@ -217,7 +316,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21991/establishment-of-class-e-airspace-dekalb-il-correction",
     "published_iso": "2026-10-28T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "e961fc3cbb12",
@@ -244,7 +343,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21978/modification-of-class-e-airspace-samaritan-north-lincoln-hospital-heliport-lincoln-city-or",
     "published_iso": "2026-10-28T04:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "ffdbb4b084ad",
@@ -265,29 +364,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21965/alaska-wildlife-harvest-and-access-correction",
     "published_iso": "2026-10-28T04:00:00+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "f1fe1f16f364",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Saraci Marsida converted 121 shares of Alphabet Inc. (GOOGM) \u00b7 Oct 27 ($157,171 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "GOOGM",
-      "GOOGL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2138895/000119312526434846/0001193125-26-434846-index.htm",
-    "published_iso": "2026-10-28T01:35:07+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "767ad373761a",
@@ -313,26 +390,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3myutidwltc2r",
     "published_iso": "2026-10-27T18:10:30.152000+00:00",
-    "time_ago": "17h ago"
-  },
-  {
-    "id": "659dd3b57105",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "Ralphs\nFood for Less\nMariano\u2019s\nSmith\u2019s\nHarris Teeter\n \nKroger ALREADY owns all these grocery stores.\n \nNow, Kroger wants to buy Giant Eagle too.\n \nLess competition could mean higher grocery costs for YOU.\n \nDonald Trump shouldn't just rubber-stamp this merger.",
-    "tags": [],
-    "tickers": [],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mysidcdmwk2y",
-    "published_iso": "2026-10-26T19:45:30.074000+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "afe0de65d1cc",
@@ -384,7 +442,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/from-coast-to-coast-president-trump-is-putting-american-industry-back-on-the-map/",
     "published_iso": "2026-10-26T17:06:13+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "2ce8c03d7924",
@@ -406,7 +464,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-announces-halloween-at-the-white-house-2026/",
     "published_iso": "2026-10-26T12:47:15+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "9ea5de266199",
@@ -428,55 +486,6 @@
     "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-announces-the-america-first-seafood-strategy-and-seafood-gov/",
     "published_iso": "2026-10-23T20:10:57+00:00",
     "time_ago": "4d ago"
-  },
-  {
-    "id": "7ade1013cfb0",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "Fact Sheet: President Donald J. Trump Further Modifies Canadian Products Subject to Tariffs Under Section 338. FURTHER COUNTERING CANADA\u2019S DISCRIMINATIORY TREATMENT OF AMERICAN EXPORTS:&#160;Today, to continue addressing Canada\u2019s discriminatory treatment of U.S. commerce,&#160;President Donald J. Trump signed a Proclam",
-    "tags": [
-      "Trade",
-      "Defense",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-further-modifies-canadian-products-subject-to-tariffs-under-section-338/",
-    "published_iso": "2026-10-23T19:37:35+00:00",
-    "time_ago": "4d ago"
-  },
-  {
-    "id": "43273fdddfb8",
-    "politician": "Rep. Nancy Pelosi",
-    "initials": "NP",
-    "role": "House Democratic Leader",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "On October 16, 2019, I told Donald Trump, \u201cWith you, Mr. President, all roads lead to Putin.\u201d\n\nOn October 16, 2026, Trump signed an executive order waiving new sanctions on Russia passed by bipartisan majorities in Congress and signed into law just last month.",
-    "tags": [
-      "Regulation",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/pelosi.house.gov/post/3my3yb7vabs2s",
-    "published_iso": "2026-10-17T20:59:26.275000+00:00",
-    "time_ago": "10d ago"
   },
   {
     "id": "cfb78ede1c08",
@@ -502,7 +511,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
     "published_iso": "2026-10-16T15:00:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "229838d4b313",
@@ -547,7 +556,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
     "published_iso": "2026-10-09T14:00:00+00:00",
-    "time_ago": "18d ago"
+    "time_ago": "19d ago"
   },
   {
     "id": "48db85994cba",
@@ -639,7 +648,7 @@
     ],
     "source": "rss",
     "platform": ".gov",
-    "url": "http://pelosi.house.gov/news/pelosi-update/working-families-first",
+    "url": "https://pelosi.house.gov/news/pelosi-update/working-families-first",
     "published_iso": "2026-10-03T21:13:42+00:00",
     "time_ago": "24d ago"
   },
@@ -735,7 +744,7 @@
     "tickers": [],
     "source": "rss",
     "platform": ".gov",
-    "url": "http://pelosi.house.gov/news/pelosi-update/remembrance-and-renewal",
+    "url": "https://pelosi.house.gov/news/pelosi-update/remembrance-and-renewal",
     "published_iso": "2026-09-11T18:24:02+00:00",
     "time_ago": "46d ago"
   },
@@ -765,7 +774,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "81d ago"
+    "time_ago": "82d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -794,7 +803,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "96d ago"
+    "time_ago": "97d ago"
   },
   {
     "id": "de38f5381391",
@@ -837,7 +846,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "97d ago"
+    "time_ago": "98d ago"
   },
   {
     "id": "555d7f3dd315",
@@ -880,7 +889,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "169d ago"
+    "time_ago": "170d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -906,7 +915,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "175d ago"
+    "time_ago": "176d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -928,7 +937,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "183d ago"
+    "time_ago": "184d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -952,7 +961,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "211d ago"
+    "time_ago": "212d ago"
   },
   {
     "id": "432e035b915b",
@@ -992,7 +1001,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "256d ago"
+    "time_ago": "257d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1011,7 +1020,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "256d ago"
+    "time_ago": "257d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1037,7 +1046,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "278d ago"
+    "time_ago": "279d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1056,6 +1065,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "315d ago"
+    "time_ago": "316d ago"
   }
 ]
