@@ -1,5 +1,101 @@
 [
   {
+    "id": "9e40c98b3e4a",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Nvidia dismisses report alleging Chinese executive tied to CEO passed intel to Beijing. Nvidia dismissed a new report that CEO Jensen Huang was targeted by a Chinese intelligence asset, stating the diversion allegations were \u201cthoroughly investigated and debunked last year.\u201d\u00a0 The New York Times published a report Thursd",
+    "tags": [
+      "China"
+    ],
+    "tickers": [
+      "NVDA",
+      "INTC"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/6181938-nvidia-huang-china-intelligence-report/",
+    "published_iso": "2026-10-29T18:31:35+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "f8e23fd46d28",
+    "politician": "Rep. Nancy Pelosi",
+    "initials": "NP",
+    "role": "House Democratic Leader",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Trump promised to lower costs on Day One.\n\nHe lied. \n\nInflation is accelerating, tariffs are driving up prices and working families are paying the price while Trump and his billionaire friends cash in.",
+    "tags": [
+      "Trade",
+      "Regulation"
+    ],
+    "tickers": [
+      "GLD",
+      "TLT",
+      "SPY"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/pelosi.house.gov/post/3myztxjvdz227",
+    "published_iso": "2026-10-29T18:02:18.413000+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "1146f5882c32",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "high",
+    "content": "President Trump Unleashes the American Economy: GDP Surges as Investment Hits Multi-Year High. The U.S. economy grew at a strong annual rate of 3.4% in the third quarter of 2026 \u2014 the strongest pace in a year. President Donald J. Trump\u2019s America First agenda is delivering as promised: faster growth, historic levels of ",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-unleashes-the-american-economy-gdp-surges-as-investment-hits-multi-year-high/",
+    "published_iso": "2026-10-29T16:27:20+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "cd01d9cc182b",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "NVIDIA CEO Jensen Huang was reportedly \u201ctargeted\u201d by a suspected Chinese spy whose Singapore-based firm bought billions in AI chips.\n\nHuang and NVIDIA\u2019s board owe Congress answers.\n\nAnd we must pass bipartisan legislation to keep our advanced AI technology out of China\u2019s hands.",
+    "tags": [
+      "China",
+      "Semiconductors",
+      "Regulation"
+    ],
+    "tickers": [
+      "NVDA"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3myzj7i6nms27",
+    "published_iso": "2026-10-29T14:49:53.895000+00:00",
+    "time_ago": "4h ago"
+  },
+  {
     "id": "f04521e46c79",
     "politician": "Sen. Elizabeth Warren",
     "initials": "EW",
@@ -23,7 +119,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3myzfzauemk2c",
     "published_iso": "2026-10-29T13:52:43.666000+00:00",
-    "time_ago": "23m ago"
+    "time_ago": "5h ago"
   },
   {
     "id": "f93baf172b0b",
@@ -50,7 +146,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-put-money-back-in-your-pockets-radical-democrats-want-it-back-and-more/",
     "published_iso": "2026-10-29T12:14:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "52793cfb594e",
@@ -71,7 +167,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22116/reducing-bureaucracy-and-burden-for-child-support-enforcement-programs",
     "published_iso": "2026-10-29T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "dff01b6518cf",
@@ -92,7 +188,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22093/personnel-management-in-agencies-strategic-human-capital-management",
     "published_iso": "2026-10-29T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "215249d7693a",
@@ -113,7 +209,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22089/pleasure-vessels-of-malta-entitled-to-cruising-licenses",
     "published_iso": "2026-10-29T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "957c32440a89",
@@ -134,7 +230,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22083/requests-for-arbitration-panels",
     "published_iso": "2026-10-29T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "82b1b22cf5dc",
@@ -155,7 +251,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22078/safety-zone-firework-display-cumberland-river-hendersonville-tn",
     "published_iso": "2026-10-29T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "b0720438706d",
@@ -181,7 +277,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22038/single-family-housing-guaranteed-loan-program-income-producing-accessory-dwelling-unit-adu",
     "published_iso": "2026-10-29T04:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "5fd1756f7b4a",
@@ -200,26 +296,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22037/upper-c-band-398-42-ghz-expanding-flexible-use-of-the-37-to-42-ghz-band",
     "published_iso": "2026-10-29T04:00:00+00:00",
-    "time_ago": "10h ago"
-  },
-  {
-    "id": "3c2a7eb96ad1",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "medium",
-    "content": "What does a corporate merger have to do with your favorite neighborhood restaurant? A LOT.\n\nMy team sat down with Massachusetts restaurant owners to hear what's at stake.",
-    "tags": [],
-    "tickers": [],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3myxibz4ozs22",
-    "published_iso": "2026-10-28T19:28:05.546000+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "dcd00aa841df",
@@ -245,7 +322,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
     "published_iso": "2026-10-28T18:00:00+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "83f91052131c",
@@ -268,7 +345,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-ohio-with-a-record-of-results/",
     "published_iso": "2026-10-28T15:52:54+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "759761ff4192",
@@ -291,33 +368,6 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/america-first-seafood-strategy-charts-course-restoring-us-seafood-dominance",
     "published_iso": "2026-10-28T13:39:42+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "9b01be2d0fa5",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "high",
-    "content": "President Trump Announces Arrival of First One Million Barrels of Oil in Texas Thanks to Historic Oil Deal. \u201cThis historic win gives us control over a massive part of the world&#8217;s oil supply.\u201d \u2013 President Donald J. Trump Yesterday in Corpus Christi, Texas, President Donald J. Trump announced the arrival of\u00a0the fir",
-    "tags": [
-      "Energy",
-      "Taxes"
-    ],
-    "tickers": [
-      "XOM",
-      "CVX",
-      "COP",
-      "OXY"
-    ],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-announces-arrival-of-first-one-million-barrels-of-oil-in-texas-thanks-to-historic-oil-deal/",
-    "published_iso": "2026-10-28T12:29:46+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -365,7 +415,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3myutidwltc2r",
     "published_iso": "2026-10-27T18:10:30.152000+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "cfb78ede1c08",
@@ -391,7 +441,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
     "published_iso": "2026-10-16T15:00:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "229838d4b313",
@@ -410,7 +460,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
     "published_iso": "2026-10-13T18:00:00+00:00",
-    "time_ago": "15d ago"
+    "time_ago": "16d ago"
   },
   {
     "id": "1adf28d01f2a",
@@ -478,7 +528,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
     "published_iso": "2026-10-07T18:00:00+00:00",
-    "time_ago": "21d ago"
+    "time_ago": "22d ago"
   },
   {
     "id": "757a1bd60826",
@@ -559,6 +609,167 @@
     "time_ago": "26d ago"
   },
   {
+    "id": "fdca64178427",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On the Nomination PN1129: Keith Sonderling, of Florida, to be Secretary of Labor. Vote: Nomination Confirmed 47/41",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s256?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-10-01T01:29:00+00:00",
+    "time_ago": "28d ago"
+  },
+  {
+    "id": "16b23634afa2",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "Motion to Invoke Cloture: Keith Sonderling to be Secretary of Labor: Keith Sonderling, of Florida, to be Secretary of Labor. Vote: Cloture Motion Agreed to 53/47",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s255?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-09-30T17:41:00+00:00",
+    "time_ago": "29d ago"
+  },
+  {
+    "id": "40e6f96f14b1",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "Motion to Invoke Cloture on the Motion to Proceed to H.R. 9340. Vote: Cloture on the Motion to Proceed Rejected 57/43",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s254?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-09-30T16:51:00+00:00",
+    "time_ago": "29d ago"
+  },
+  {
+    "id": "e19340ebcd34",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "Motion to Invoke Cloture on the Motion to Proceed: H.R. 7008. Vote: Cloture on the Motion to Proceed Rejected 53/47",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s253?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-09-30T15:58:00+00:00",
+    "time_ago": "29d ago"
+  },
+  {
+    "id": "91ed35d06185",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On the Motion to Discharge S.Res. 852. Vote: Motion to Discharge Rejected 47/51",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s252?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-09-29T22:32:00+00:00",
+    "time_ago": "29d ago"
+  },
+  {
+    "id": "e8208c75bc4b",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "Motion to Proceed on S.J.Res. 197: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Centers for Medicare & Medicaid Services of the Department of Health and Human Services relating to \u201cPat. Vote: Motion to Proceed Rejected 48/51",
+    "tags": [
+      "Healthcare",
+      "Regulation"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s251?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-09-29T18:21:00+00:00",
+    "time_ago": "30d ago"
+  },
+  {
+    "id": "d1ee5f082ce7",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "critical",
+    "content": "S. 4668: Protect College Sports Act of 2026. Vote: Bill Passed 77/22",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s250?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-09-29T01:42:00+00:00",
+    "time_ago": "30d ago"
+  },
+  {
+    "id": "5bd470197f65",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "S.Amdt. 6835 (Booker) to S. 4668: To establish certain standards with respect to coaches of varsity sports teams.. Vote: Amendment Rejected 47/52",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s249?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-09-29T01:21:00+00:00",
+    "time_ago": "30d ago"
+  },
+  {
     "id": "f5506a3890fe",
     "politician": "Sen. Rand Paul",
     "initials": "RP",
@@ -599,7 +810,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/news/pelosi-update/remembrance-and-renewal",
     "published_iso": "2026-09-11T18:24:02+00:00",
-    "time_ago": "47d ago"
+    "time_ago": "48d ago"
   },
   {
     "id": "baf26d52584e",
@@ -627,7 +838,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "82d ago"
+    "time_ago": "83d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -656,7 +867,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "97d ago"
+    "time_ago": "98d ago"
   },
   {
     "id": "de38f5381391",
@@ -677,7 +888,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "98d ago"
+    "time_ago": "99d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -742,7 +953,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "170d ago"
+    "time_ago": "171d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -768,7 +979,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "176d ago"
+    "time_ago": "177d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -790,7 +1001,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "184d ago"
+    "time_ago": "185d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -833,7 +1044,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "217d ago"
+    "time_ago": "218d ago"
   },
   {
     "id": "00f579ee8f55",
@@ -854,7 +1065,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "257d ago"
+    "time_ago": "258d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -899,7 +1110,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "279d ago"
+    "time_ago": "280d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -918,6 +1129,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "316d ago"
+    "time_ago": "317d ago"
   }
 ]
