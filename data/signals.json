@@ -1,48 +1,156 @@
 [
   {
-    "id": "7299b32b6110",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "52793cfb594e",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Nonko Eugene sold 1,940 shares of Mediaalpha, Inc. (MAX) \u00b7 $11.83/share \u00b7 $22,947 total \u00b7 Oct 28 ($354,715 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "MAX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1830016/000181838326000266/0001818383-26-000266-index.htm",
-    "published_iso": "2026-10-29T01:16:20+00:00",
-    "time_ago": "2m ago"
-  },
-  {
-    "id": "6ebfb94cdd30",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
     },
     "severity": "critical",
-    "content": "Lewis Jim received 695 shares of Landmark Bancorp Inc (LARK) \u00b7 Oct 28 ($5,929 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "LARK"
+    "content": "Reducing Bureaucracy and Burden for Child Support Enforcement Programs. This final rule amends the Child Support regulations that were unnecessary or obsolete in the following sections: State Plan Approval and Grant Procedures, State Plan Requirements, Standards for Program Operations, Federal Financial Participation, ",
+    "tags": [
+      "Regulation"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1260150/000149315226049135/0001493152-26-049135-index.htm",
-    "published_iso": "2026-10-29T00:56:18+00:00",
-    "time_ago": "22m ago"
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22116/reducing-bureaucracy-and-burden-for-child-support-enforcement-programs",
+    "published_iso": "2026-10-29T04:00:00+00:00",
+    "time_ago": "3h ago"
   },
   {
-    "id": "34f0ca2abdba",
+    "id": "dff01b6518cf",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "critical",
+    "content": "Personnel Management in Agencies: Strategic Human Capital Management. The Office of Personnel Management (OPM) is issuing a final rule to modernize the framework governing personnel management and strategic human capital management in Federal agencies. This rule amends the regulatory framework for personnel management ",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22093/personnel-management-in-agencies-strategic-human-capital-management",
+    "published_iso": "2026-10-29T04:00:00+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "215249d7693a",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Pleasure Vessels of Malta Entitled To Cruising Licenses. This document amends U.S. Customs and Border Protection (CBP) regulations by adding the Republic of Malta (Malta) to the list of countries whose pleasure vessels may be issued U.S. cruising licenses. The U.S. Department of State has notified CBP that yachts used ",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22089/pleasure-vessels-of-malta-entitled-to-cruising-licenses",
+    "published_iso": "2026-10-29T04:00:00+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "957c32440a89",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Requests for Arbitration Panels. The Federal Mediation and Conciliation Service (FMCS) published an interim final rule on August 4, 2026, and republished on August 28, 2026, that amended its arbitration services regulations to clarify when the Office of Arbitration may decline to issue an arbitration panel, make a dire",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22083/requests-for-arbitration-panels",
+    "published_iso": "2026-10-29T04:00:00+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "82b1b22cf5dc",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "critical",
+    "content": "Safety Zone; Firework Display; Cumberland River, Hendersonville, TN. The Coast Guard is establishing a safety zone for certain navigable waters of the Sanders Ferry, near Hendersonville, TN. This safety zone is necessary to protect personnel, vessels, and the marine environment from potential hazards during a fireworks",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22078/safety-zone-firework-display-cumberland-river-hendersonville-tn",
+    "published_iso": "2026-10-29T04:00:00+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "b0720438706d",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Single Family Housing Guaranteed Loan Program-Income Producing Accessory Dwelling Unit (ADU) Provisions. The Rural Housing Service (RHS or the Agency), a Rural Development (RD) agency of the United States Department of Agriculture (USDA), is amending the Single Family Housing Guaranteed Loan Program (SFHGLP) regulation",
+    "tags": [
+      "Agriculture",
+      "Regulation"
+    ],
+    "tickers": [
+      "CORN",
+      "SOYB",
+      "DE"
+    ],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22038/single-family-housing-guaranteed-loan-program-income-producing-accessory-dwelling-unit-adu",
+    "published_iso": "2026-10-29T04:00:00+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "5fd1756f7b4a",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "critical",
+    "content": "Upper C-Band (3.98-4.2 GHz); Expanding Flexible Use of the 3.7 to 4.2 GHz Band. The Federal Communications Commission (FCC or Commission) announces that the Office of Management and Budget (OMB) has approved the information collection requirements under OMB Control Number 3060- 1272, as adopted in the Commission's Repo",
+    "tags": [],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22037/upper-c-band-398-42-ghz-expanding-flexible-use-of-the-37-to-42-ghz-band",
+    "published_iso": "2026-10-29T04:00:00+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "149aa62cf01e",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -51,19 +159,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Roks Edwin bought 5,000 shares of Ttm Technologies Inc (TTMI) \u00b7 $88.07/share \u00b7 $440,350 total \u00b7 Oct 28",
+    "content": "Uppal Manpreet received 20,000 shares of Gridai Technologies Corp. (GRDX) \u00b7 Oct 28",
     "tags": [],
     "tickers": [
-      "TTMI"
+      "GRDX"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1705520/000119312526436562/0001193125-26-436562-index.htm",
-    "published_iso": "2026-10-29T00:54:28+00:00",
-    "time_ago": "24m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2056422/000110465926119785/0001104659-26-119785-index.htm",
+    "published_iso": "2026-10-29T01:57:00+00:00",
+    "time_ago": "5h ago"
   },
   {
-    "id": "364e36df041a",
+    "id": "5c63d81a5039",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -72,19 +180,103 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Ali Wajid bought 5,000 shares of Ttm Technologies Inc (TTMI) \u00b7 $89.86/share \u00b7 $449,286 total \u00b7 Oct 28 ($902,460 across all blocks)",
+    "content": "Syage Jack received 40,000 shares of Gridai Technologies Corp. (GRDX) \u00b7 Oct 28",
     "tags": [],
     "tickers": [
-      "TTMI"
+      "GRDX"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1561100/000119312526436557/0001193125-26-436557-index.htm",
-    "published_iso": "2026-10-29T00:52:32+00:00",
-    "time_ago": "26m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2014106/000110465926119784/0001104659-26-119784-index.htm",
+    "published_iso": "2026-10-29T01:56:00+00:00",
+    "time_ago": "5h ago"
   },
   {
-    "id": "c1d29174f097",
+    "id": "ae5f6649c35d",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Skowron Anna received 75,000 shares of Gridai Technologies Corp. (GRDX) \u00b7 Oct 28",
+    "tags": [],
+    "tickers": [
+      "GRDX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2066250/000110465926119783/0001104659-26-119783-index.htm",
+    "published_iso": "2026-10-29T01:54:59+00:00",
+    "time_ago": "5h ago"
+  },
+  {
+    "id": "8b0cea9d62d8",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Sawyer Jason David received 40,000 shares of Gridai Technologies Corp. (GRDX) \u00b7 Oct 28",
+    "tags": [],
+    "tickers": [
+      "GRDX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2076325/000110465926119782/0001104659-26-119782-index.htm",
+    "published_iso": "2026-10-29T01:53:56+00:00",
+    "time_ago": "5h ago"
+  },
+  {
+    "id": "85272edddaf0",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Pursglove Geordan Garrett received 100,000 shares of Gridai Technologies Corp. (GRDX) \u00b7 Oct 28",
+    "tags": [],
+    "tickers": [
+      "GRDX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2073519/000110465926119781/0001104659-26-119781-index.htm",
+    "published_iso": "2026-10-29T01:52:55+00:00",
+    "time_ago": "5h ago"
+  },
+  {
+    "id": "0a5443e36bda",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Borkowski Edward received 100,000 shares of Gridai Technologies Corp. (GRDX) \u00b7 Oct 28 ($94,788 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "GRDX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1604191/000110465926119780/0001104659-26-119780-index.htm",
+    "published_iso": "2026-10-29T01:51:50+00:00",
+    "time_ago": "5h ago"
+  },
+  {
+    "id": "2a5f2a96f5f9",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -92,22 +284,103 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "critical",
-    "content": "Fed hits pause on interest rates. Welcome to The Hill's Business &#038; Economy newsletter {beacon} Business &#038; Economy Business &#038; Economy &#8202; The Big Story  Fed holds rate steady ahead of midterms Federal Reserve officials held interest rates steady Wednesday despite stubborn inflation.   \u00a9 Mark Schiefelb",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
+    "severity": "medium",
+    "content": "Obama knocks White House's response to Cheesecake Factory jab: 'These are not serious people'. Former President Obama on Wednesday responded to uproar over a recent campaign trail jab at President Trump\u2019s White House decorations, slamming Republicans for focusing more on the joke than on the economy.  \u201cThey mobilized a",
+    "tags": [],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/business-economy/6179798-fed-hits-pause-on-interest-rates/",
-    "published_iso": "2026-10-28T22:47:53+00:00",
-    "time_ago": "2h ago"
+    "url": "https://thehill.com/homenews/campaign/6180017-obama-trump-cheesecake-factory-joke/",
+    "published_iso": "2026-10-29T01:44:14+00:00",
+    "time_ago": "5h ago"
+  },
+  {
+    "id": "da9498feece0",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ogle Trevor sold 2,093 shares of Voya Financial, Inc. (VOYA-PB) \u00b7 $95.81/share \u00b7 $200,530 total \u00b7 Oct 28",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1947110/000153592926000181/0001535929-26-000181-index.htm",
+    "published_iso": "2026-10-29T01:42:14+00:00",
+    "time_ago": "5h ago"
+  },
+  {
+    "id": "7624fab25838",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Dubin Ryan disposed of 68,752 shares of Weave Communications, Inc. (WEAV) \u00b7 Oct 28",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "WEAV"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2127826/000212782626000007/0002127826-26-000007-index.htm",
+    "published_iso": "2026-10-29T01:32:30+00:00",
+    "time_ago": "5h ago"
+  },
+  {
+    "id": "d7595b543edd",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Harvey Stuart C. Jr disposed of 127,337 shares of Weave Communications, Inc. (WEAV) \u00b7 Oct 28",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "WEAV"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1609151/000152686426000005/0001526864-26-000005-index.htm",
+    "published_iso": "2026-10-29T01:31:57+00:00",
+    "time_ago": "5h ago"
+  },
+  {
+    "id": "f166e8b6c634",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Mcdermott Adrian disposed of 76,249 shares of Weave Communications, Inc. (WEAV) \u00b7 Oct 28",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "WEAV"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1609151/000160595726000005/0001605957-26-000005-index.htm",
+    "published_iso": "2026-10-29T01:31:21+00:00",
+    "time_ago": "5h ago"
   },
   {
     "id": "3c2a7eb96ad1",
@@ -126,7 +399,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3myxibz4ozs22",
     "published_iso": "2026-10-28T19:28:05.546000+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "dcd00aa841df",
@@ -152,7 +425,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
     "published_iso": "2026-10-28T18:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "83f91052131c",
@@ -175,7 +448,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-ohio-with-a-record-of-results/",
     "published_iso": "2026-10-28T15:52:54+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "759761ff4192",
@@ -198,7 +471,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/america-first-seafood-strategy-charts-course-restoring-us-seafood-dominance",
     "published_iso": "2026-10-28T13:39:42+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "9b01be2d0fa5",
@@ -225,7 +498,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-announces-arrival-of-first-one-million-barrels-of-oil-in-texas-thanks-to-historic-oil-deal/",
     "published_iso": "2026-10-28T12:29:46+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "8a9a20bcf597",
@@ -246,163 +519,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22034/television-broadcasting-services-elko-nevada",
     "published_iso": "2026-10-28T04:00:00+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "6a788bbee189",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Fisheries of the Northeastern United States; Atlantic Bluefish Fishery; Quota Transfer From New York to North Carolina. NMFS announces that the State of New York is transferring a portion of their 2026 commercial bluefish quota to the State of North Carolina. This quota adjustment is necessary to comply with the Atlant",
-    "tags": [],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22007/fisheries-of-the-northeastern-united-states-atlantic-bluefish-fishery-quota-transfer-from-new-york",
-    "published_iso": "2026-10-28T04:00:00+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "1a81259efb2f",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Fisheries of the Northeastern United States; Summer Flounder Fishery; Quota Transfer From Virginia to New Jersey. NMFS announces that the Commonwealth of Virginia is transferring a portion of its 2026 commercial summer flounder quota to the State of New Jersey. This adjustment to the 2026 fishing year quota is necessar",
-    "tags": [],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22003/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-virginia-to",
-    "published_iso": "2026-10-28T04:00:00+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "a18fc7f266f6",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Executive Branch Financial Disclosure and Standards of Ethical Conduct Regulations. The U.S. Office of Government Ethics (OGE) is updating its executive branch regulation on financial disclosure to reflect the retroactive statutory increase of the reporting thresholds for gifts and travel reimbursements. OGE is also up",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21997/executive-branch-financial-disclosure-and-standards-of-ethical-conduct-regulations",
-    "published_iso": "2026-10-28T04:00:00+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "7f4c410c8777",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Establishment of Class E Airspace; Ottawa, IL; Correction. This action corrects a final rule published by the FAA in the Federal Register on September 22, 2026, establishing Class E airspace at OSF St Elizabeth Medical Center Heliport, Ottawa, IL. This action corrects a typographical error in the airspace legal descrip",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21995/establishment-of-class-e-airspace-ottawa-il-correction",
-    "published_iso": "2026-10-28T04:00:00+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "0354174cc8d4",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Establishment of Class E Airspace; DeKalb, IL; Correction. This action corrects a final rule published by the FAA in the Federal Register on September 22, 2026, establishing Class E airspace at Northwestern Memorial Healthcare Heliport, DeKalb, IL. Specifically, this action corrects a typographic error in the airspace ",
-    "tags": [
-      "Healthcare",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21991/establishment-of-class-e-airspace-dekalb-il-correction",
-    "published_iso": "2026-10-28T04:00:00+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "e961fc3cbb12",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Modification of Class E Airspace, Samaritan North Lincoln Hospital Heliport, Lincoln City, OR. This action modifies Class E airspace extending upward from 700 feet above the surface at Samaritan North Lincoln Hospital Heliport, Lincoln City, OR. This action supports the safety and management of instrument flight rules ",
-    "tags": [
-      "Healthcare",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21978/modification-of-class-e-airspace-samaritan-north-lincoln-hospital-heliport-lincoln-city-or",
-    "published_iso": "2026-10-28T04:00:00+00:00",
-    "time_ago": "21h ago"
-  },
-  {
-    "id": "ffdbb4b084ad",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Alaska; Wildlife, Harvest, and Access; Correction. The National Park Service (NPS) is correcting a final rule that appeared in the Federal Register on October 19, 2026. The rule amended regulations for hunting, fishing, trapping, and other harvest- related activities in Alaska and the procedures used to restrict public",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21965/alaska-wildlife-harvest-and-access-correction",
-    "published_iso": "2026-10-28T04:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "767ad373761a",
@@ -428,30 +545,6 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3myutidwltc2r",
     "published_iso": "2026-10-27T18:10:30.152000+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "02a2d3d800a9",
-    "politician": "Sen. Bernie Sanders",
-    "initials": "BS",
-    "role": "Senate HELP Committee",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#818cf8"
-    },
-    "severity": "medium",
-    "content": "Since Trump\u2019s election: \n \n-Musk got $680 billion richer \n-Musk became the 1st trillionaire \n-SpaceX got $10 billion in federal contracts \n-Tesla &amp; SpaceX paid $0 in federal income taxes \n \nNow, Musk\u2019s spending $442 million to keep Republicans in control of Congress. \n \nGee, I wonder why?",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "TSLA"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.kareem.one/BernieSanders/status/2115092173729230955#m",
-    "published_iso": "2026-10-27T14:44:05+00:00",
     "time_ago": "1d ago"
   },
   {
