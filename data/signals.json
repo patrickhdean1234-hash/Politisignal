@@ -1,5 +1,78 @@
 [
   {
+    "id": "d850b217dc66",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Ard Amy E received 7,268 shares of Forgent Power Solutions, Inc. (FPS) \u00b7 Nov 3",
+    "tags": [],
+    "tickers": [
+      "FPS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2080126/000208012626000039/0002080126-26-000039-index.htm",
+    "published_iso": "2026-11-03T16:31:36+00:00",
+    "time_ago": "5m ago"
+  },
+  {
+    "id": "dbb682e43f23",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Melania Trump hosting Ukraine, Russia representatives at White House. First lady Melania Trump will be hosting representatives from Russia and Ukraine at the White House, according to a Tuesday press release. The announcement comes after the first lady secured a localized ceasefire between Russia and Ukraine in the fro",
+    "tags": [
+      "Taxes",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6191354-melania-trump-hosts-russia-ukraine/",
+    "published_iso": "2026-11-03T16:01:30+00:00",
+    "time_ago": "35m ago"
+  },
+  {
+    "id": "43de9b5dbbf3",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "First Lady Melania Trump to Convene Russian and Ukrainian Representatives at the White House. First Lady Melania Trump will personally bring representatives of Russia and Ukraine, two nations actively at war, together at the White House. This event represents an extraordinary moment in American history. Mrs. Trump inde",
+    "tags": [
+      "Taxes",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-to-convene-russian-and-ukrainian-representatives-at-the-white-house/",
+    "published_iso": "2026-11-03T12:32:47+00:00",
+    "time_ago": "4h ago"
+  },
+  {
     "id": "f133608bce7a",
     "politician": "Federal Register",
     "initials": "FR",
@@ -19,7 +92,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22443/streamlining-contested-adjudications-in-licensing-proceedings",
     "published_iso": "2026-11-03T05:00:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "0bc7ece89f46",
@@ -40,7 +113,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22421/list-of-approved-spent-fuel-storage-casks-tn-americas-llc-standardized-nuhoms-horizontal-modular",
     "published_iso": "2026-11-03T05:00:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "f57c71681c97",
@@ -61,7 +134,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22408/review-of-the-commissions-broadcast-and-cable-equal-employment-opportunity-rules-and-policies-delete",
     "published_iso": "2026-11-03T05:00:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "d4f68feff443",
@@ -82,7 +155,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22404/national-emission-standards-for-hazardous-air-pollutants-lime-manufacturing-plants-technology-review",
     "published_iso": "2026-11-03T05:00:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "fec776ef5f7a",
@@ -103,7 +176,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22402/compliance-procedure-52-usc-30109-30107a",
     "published_iso": "2026-11-03T05:00:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "d34966b31817",
@@ -129,7 +202,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22381/medicare-and-medicaid-programs-organ-procurement-organizations-conditions-for-coverage-revisions-to",
     "published_iso": "2026-11-03T05:00:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "4eb85f484ad2",
@@ -150,70 +223,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22380/nondiscrimination-on-the-basis-of-disability-in-programs-or-activities-receiving-federal-financial",
     "published_iso": "2026-11-03T05:00:00+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "3c63e88bf68c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Crandell Keith bought 66,666 shares of Aspen Neuroscience, Inc. (ASPE) \u00b7 $15.00/share \u00b7 $999,990 total \u00b7 Nov 2 ($19,999,995 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "ASPE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2124080/000119312526444147/0001193125-26-444147-index.htm",
-    "published_iso": "2026-11-03T02:50:27+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "4da8f036674c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Berns Paul L bought 1,200,000 shares of Aspen Neuroscience, Inc. (ASPE) \u00b7 $15.00/share \u00b7 $18,000,000 total \u00b7 Nov 2",
-    "tags": [],
-    "tickers": [
-      "ASPE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2148927/000119312526444141/0001193125-26-444141-index.htm",
-    "published_iso": "2026-11-03T02:46:27+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "b0f759bcccff",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Spaventa Andrew converted 70,194 shares of Aspen Neuroscience, Inc. (ASPE) \u00b7 Nov 2 ($0 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "ASPE"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2124080/000119312526444128/0001193125-26-444128-index.htm",
-    "published_iso": "2026-11-03T02:05:19+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "2f0ab03ae8d5",
@@ -234,34 +244,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mze4qbhec224",
     "published_iso": "2026-11-02T20:05:55.745000+00:00",
-    "time_ago": "12h ago"
-  },
-  {
-    "id": "1001e961e9a8",
-    "politician": "Rep. Mike Johnson",
-    "initials": "MJ",
-    "role": "Speaker of the House",
-    "color": {
-      "bg": "#2a1a1a",
-      "fg": "#fbbf24"
-    },
-    "severity": "critical",
-    "content": "While Democrats are promising to follow the anti-American socialists towards MASSIVE tax hikes, big-government controlling your healthcare, and no jails or law enforcement - Republicans are putting money back in working families\u2019 pockets, protecting our communities, and restoring American dominance. \n \nThat's what's at",
-    "tags": [
-      "Healthcare",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "https://nitter.kareem.one/SpeakerJohnson/status/2117320819370336271#m",
-    "published_iso": "2026-11-02T18:19:55+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "b59e1a29bc7e",
@@ -377,34 +360,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-unleashes-the-american-economy-gdp-surges-as-investment-hits-multi-year-high/",
     "published_iso": "2026-10-29T16:27:20+00:00",
-    "time_ago": "4d ago"
-  },
-  {
-    "id": "f93baf172b0b",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "President Trump Put Money Back in Your Pockets\u2014Radical Democrats Want It Back and More. In less than two years, President Donald J. Trump delivered the largest working-class tax cuts for American families, the largest decrease in prescription drug prices for Americans in nearly 70 years, reached record-high real median",
-    "tags": [
-      "Healthcare",
-      "Taxes"
-    ],
-    "tickers": [
-      "LLY",
-      "PFE",
-      "JNJ",
-      "MRK"
-    ],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-put-money-back-in-your-pockets-radical-democrats-want-it-back-and-more/",
-    "published_iso": "2026-10-29T12:14:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "dcd00aa841df",
@@ -453,7 +409,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/america-first-seafood-strategy-charts-course-restoring-us-seafood-dominance",
     "published_iso": "2026-10-28T13:39:42+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "767ad373761a",
@@ -505,7 +461,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
     "published_iso": "2026-10-16T15:00:00+00:00",
-    "time_ago": "17d ago"
+    "time_ago": "18d ago"
   },
   {
     "id": "229838d4b313",
@@ -550,7 +506,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
     "published_iso": "2026-10-09T14:00:00+00:00",
-    "time_ago": "24d ago"
+    "time_ago": "25d ago"
   },
   {
     "id": "48db85994cba",
@@ -720,7 +676,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s253?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-30T15:58:00+00:00",
-    "time_ago": "33d ago"
+    "time_ago": "34d ago"
   },
   {
     "id": "91ed35d06185",
@@ -855,7 +811,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "87d ago"
+    "time_ago": "88d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -884,7 +840,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "102d ago"
+    "time_ago": "103d ago"
   },
   {
     "id": "de38f5381391",
@@ -927,7 +883,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "103d ago"
+    "time_ago": "104d ago"
   },
   {
     "id": "555d7f3dd315",
@@ -970,7 +926,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "175d ago"
+    "time_ago": "176d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -996,7 +952,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "181d ago"
+    "time_ago": "182d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1018,7 +974,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "189d ago"
+    "time_ago": "190d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1042,7 +998,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "217d ago"
+    "time_ago": "218d ago"
   },
   {
     "id": "432e035b915b",
@@ -1082,7 +1038,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "262d ago"
+    "time_ago": "263d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1101,7 +1057,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "262d ago"
+    "time_ago": "263d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1146,6 +1102,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "321d ago"
+    "time_ago": "322d ago"
   }
 ]
