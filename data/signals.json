@@ -1,6 +1,6 @@
 [
   {
-    "id": "225db349a1c9",
+    "id": "5e13c4361586",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,79 +9,109 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Taneja Rajat exercised options for 34,418 shares of Visa Inc. (V) \u00b7 $109.82/share \u00b7 $3,779,785 total \u00b7 Nov 3 ($18,422,186 across all blocks)",
-    "tags": [],
+    "content": "Navratil Tomas withheld (tax) 495 shares of Glaukos Corp (GKOS) \u00b7 $87.61/share \u00b7 $43,367 total \u00b7 Nov 3 ($67,607 across all blocks)",
+    "tags": [
+      "Taxes"
+    ],
     "tickers": [
-      "V"
+      "GKOS"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1532601/000140316126000130/0001403161-26-000130-index.htm",
-    "published_iso": "2026-11-03T21:57:45+00:00",
-    "time_ago": "just now"
+    "url": "https://www.sec.gov/Archives/edgar/data/1920053/000119312526445902/0001193125-26-445902-index.htm",
+    "published_iso": "2026-11-04T01:55:27+00:00",
+    "time_ago": "4m ago"
   },
   {
-    "id": "b6294b6625e8",
+    "id": "885abf3d57b9",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Sengstack Gregg C acquired/disposed 99,119 shares of Franklin Electric Co Inc (FELE) \u00b7 Nov 3 ($48,739 across all blocks)",
+    "tags": [
+      "Insider Trade"
+    ],
+    "tickers": [
+      "FELE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1189242/000118924226000048/0001189242-26-000048-index.htm",
+    "published_iso": "2026-11-04T01:54:20+00:00",
+    "time_ago": "6m ago"
+  },
+  {
+    "id": "16a6c839dfa8",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Dhingra Kapil exercised options for 43,169 shares of Replimune Group, Inc. (REPL) \u00b7 $1.75/share \u00b7 $75,546 total \u00b7 Nov 3 ($484,046 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "REPL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1737953/000110465926122287/0001104659-26-122287-index.htm",
+    "published_iso": "2026-11-04T01:43:38+00:00",
+    "time_ago": "16m ago"
+  },
+  {
+    "id": "234759456099",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Southern Region Workers United/Seiu sold 30,000 shares of Amalgamated Financial Corp. (AMAL) \u00b7 $49.97/share \u00b7 $1,499,073 total \u00b7 Nov 3 ($3,823,740 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "AMAL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2010099/000090266426004359/0000902664-26-004359-index.htm",
+    "published_iso": "2026-11-04T01:41:56+00:00",
+    "time_ago": "18m ago"
+  },
+  {
+    "id": "8c1efee405de",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Tillett Ronald L sold 4,500 shares of Atlantic Union Bankshares Corp (AUB-PA) \u00b7 $40.01/share \u00b7 $180,065 total \u00b7 Nov 3",
+    "content": "DNC chair says Democrats should repeal Trump tariffs, end Iran war if they win power. Democratic National Committee Chair Ken Martin said Democrats should move to end President Trump\u2019s tariffs and the Iran war if they take power after the midterm elections.  Martin told NewsNation\u2019s Blake Burman that exit polls are sho",
     "tags": [
-      "Banking"
+      "Trade",
+      "Sanctions"
     ],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1237699/000123769926000006/0001237699-26-000006-index.htm",
-    "published_iso": "2026-11-03T21:57:38+00:00",
-    "time_ago": "just now"
-  },
-  {
-    "id": "845b2155b20c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Norton Nancy A received 398 shares of Fedex Corp (FDX) \u00b7 Nov 3",
-    "tags": [],
     "tickers": [
-      "FDX"
+      "LMT",
+      "RTX",
+      "XOM"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1943956/000104891126000150/0001048911-26-000150-index.htm",
-    "published_iso": "2026-11-03T21:57:31+00:00",
-    "time_ago": "1m ago"
-  },
-  {
-    "id": "f7d1c5fc0216",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Perpall Frederick received 398 shares of Fedex Corp (FDX) \u00b7 Nov 3",
-    "tags": [],
-    "tickers": [
-      "FDX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1686973/000104891126000149/0001048911-26-000149-index.htm",
-    "published_iso": "2026-11-03T21:56:34+00:00",
-    "time_ago": "1m ago"
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/campaign/6195001-dnc-chair-trump-tariffs-iran/",
+    "published_iso": "2026-11-04T01:29:53+00:00",
+    "time_ago": "30m ago"
   },
   {
     "id": "f2e0028bd51f",
@@ -103,50 +133,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-1744-and-h-r-8205-signed-into-law/",
     "published_iso": "2026-11-03T21:49:08+00:00",
-    "time_ago": "9m ago"
-  },
-  {
-    "id": "5814a8b3d741",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Binance says malicious code, fake job interview led to $6.3B hack. Binance said Tuesday that a $6.3 billion hack of the world's largest cryptocurrency exchange was the result of a \"multi-stage campaign,\" including a malicious software download and a fake job interview. Hackers, which both the FBI and outside analysts h",
-    "tags": [
-      "Crypto",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/6194069-binance-hack-north-korea-tradertraitor/",
-    "published_iso": "2026-11-03T21:44:38+00:00",
-    "time_ago": "13m ago"
-  },
-  {
-    "id": "688c4759fbe1",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Justice Department: Election Day monitors deployed to every state for first time. The Department of Justice (DOJ) said Tuesday it is sending Election Day monitors to all 50 states. In a press release, the department said it will go through with \u201cits largest monitoring effort in history\u201d Tuesday, featuring \u201capproximatel",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6194082-doj-deploys-election-monitors/",
-    "published_iso": "2026-11-03T21:37:47+00:00",
-    "time_ago": "20m ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "4883fcdb15ad",
@@ -173,28 +160,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/11/icymi-drug-prices-are-falling-at-the-fastest-rate-in-over-60-years-under-president-trump/",
     "published_iso": "2026-11-03T21:34:30+00:00",
-    "time_ago": "23m ago"
-  },
-  {
-    "id": "ab1fdad47efd",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Winchester vs. Colt: Idaho votes to designate a state gun. Along with voting on their next members of Congress and amendments to their state constitution, Idaho residents will also decide the state\u2019s first official gun when they vote this Election Day. In observance of America's 250th anniversary, Idaho legislators gav",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/6193992-idaho-voters-choose-official-firearm/",
-    "published_iso": "2026-11-03T21:27:20+00:00",
-    "time_ago": "31m ago"
+    "time_ago": "4h ago"
   },
   {
     "id": "c328652c0f69",
@@ -215,7 +181,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-is-powering-an-american-manufacturing-renaissance/",
     "published_iso": "2026-11-03T18:49:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "7h ago"
   },
   {
     "id": "43de9b5dbbf3",
@@ -241,7 +207,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-to-convene-russian-and-ukrainian-representatives-at-the-white-house/",
     "published_iso": "2026-11-03T12:32:47+00:00",
-    "time_ago": "9h ago"
+    "time_ago": "13h ago"
   },
   {
     "id": "f133608bce7a",
@@ -263,7 +229,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22443/streamlining-contested-adjudications-in-licensing-proceedings",
     "published_iso": "2026-11-03T05:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "0bc7ece89f46",
@@ -284,7 +250,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22421/list-of-approved-spent-fuel-storage-casks-tn-americas-llc-standardized-nuhoms-horizontal-modular",
     "published_iso": "2026-11-03T05:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "f57c71681c97",
@@ -305,7 +271,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22408/review-of-the-commissions-broadcast-and-cable-equal-employment-opportunity-rules-and-policies-delete",
     "published_iso": "2026-11-03T05:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "d4f68feff443",
@@ -326,7 +292,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22404/national-emission-standards-for-hazardous-air-pollutants-lime-manufacturing-plants-technology-review",
     "published_iso": "2026-11-03T05:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "fec776ef5f7a",
@@ -347,7 +313,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22402/compliance-procedure-52-usc-30109-30107a",
     "published_iso": "2026-11-03T05:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "d34966b31817",
@@ -373,7 +339,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22381/medicare-and-medicaid-programs-organ-procurement-organizations-conditions-for-coverage-revisions-to",
     "published_iso": "2026-11-03T05:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "4eb85f484ad2",
@@ -394,7 +360,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22380/nondiscrimination-on-the-basis-of-disability-in-programs-or-activities-receiving-federal-financial",
     "published_iso": "2026-11-03T05:00:00+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "2f0ab03ae8d5",
@@ -729,167 +695,6 @@
     "url": "http://pelosi.house.gov/news/pelosi-update/working-families-first",
     "published_iso": "2026-10-03T21:13:42+00:00",
     "time_ago": "31d ago"
-  },
-  {
-    "id": "fdca64178427",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On the Nomination PN1129: Keith Sonderling, of Florida, to be Secretary of Labor. Vote: Nomination Confirmed 47/41",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s256?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-10-01T01:29:00+00:00",
-    "time_ago": "33d ago"
-  },
-  {
-    "id": "16b23634afa2",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "Motion to Invoke Cloture: Keith Sonderling to be Secretary of Labor: Keith Sonderling, of Florida, to be Secretary of Labor. Vote: Cloture Motion Agreed to 53/47",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s255?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-30T17:41:00+00:00",
-    "time_ago": "34d ago"
-  },
-  {
-    "id": "40e6f96f14b1",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "Motion to Invoke Cloture on the Motion to Proceed to H.R. 9340. Vote: Cloture on the Motion to Proceed Rejected 57/43",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s254?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-30T16:51:00+00:00",
-    "time_ago": "34d ago"
-  },
-  {
-    "id": "e19340ebcd34",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "Motion to Invoke Cloture on the Motion to Proceed: H.R. 7008. Vote: Cloture on the Motion to Proceed Rejected 53/47",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s253?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-30T15:58:00+00:00",
-    "time_ago": "34d ago"
-  },
-  {
-    "id": "91ed35d06185",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On the Motion to Discharge S.Res. 852. Vote: Motion to Discharge Rejected 47/51",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s252?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-29T22:32:00+00:00",
-    "time_ago": "34d ago"
-  },
-  {
-    "id": "e8208c75bc4b",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "Motion to Proceed on S.J.Res. 197: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Centers for Medicare & Medicaid Services of the Department of Health and Human Services relating to \u201cPat. Vote: Motion to Proceed Rejected 48/51",
-    "tags": [
-      "Healthcare",
-      "Regulation"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s251?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-29T18:21:00+00:00",
-    "time_ago": "35d ago"
-  },
-  {
-    "id": "d1ee5f082ce7",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "critical",
-    "content": "S. 4668: Protect College Sports Act of 2026. Vote: Bill Passed 77/22",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s250?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-29T01:42:00+00:00",
-    "time_ago": "35d ago"
-  },
-  {
-    "id": "5bd470197f65",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "S.Amdt. 6835 (Booker) to S. 4668: To establish certain standards with respect to coaches of varsity sports teams.. Vote: Amendment Rejected 47/52",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s249?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-29T01:21:00+00:00",
-    "time_ago": "35d ago"
   },
   {
     "id": "f5506a3890fe",
