@@ -1,5 +1,78 @@
 [
   {
+    "id": "0c38e0553077",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Sheinbaum congratulates Hinojosa, Becerra on historic wins. Mexican President Claudia Sheinbaum on Wednesday congratulated Texas Gov.-elect Gina Hinojosa (D) on her historic victory as the Lone Star State's first Latina governor and California Gov.-elect Xavier Becerra (D), who will become the state's first Latino gove",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/international/6200949-sheinbaum-congratulates-hinojosa-becerra/",
+    "published_iso": "2026-11-05T16:40:15+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "ab5ae36b4d68",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "First Lady Melania Trump Unites Russia and Ukraine at The White House Following Historic Ceasefire. First Lady Melania Trump gathered leaders from Russia and Ukraine at the White House today. The occasion is believed to mark the first time in American history that a First Lady has personally brought representatives of ",
+    "tags": [
+      "Taxes",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-unites-russia-and-ukraine-at-the-white-house-following-historic-ceasefire/",
+    "published_iso": "2026-11-05T16:31:07+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "1236cb0b4c76",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc. Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+    "published_iso": "2026-11-05T16:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "164191ff223e",
     "politician": "Federal Register",
     "initials": "FR",
@@ -18,7 +91,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22649/cost-standards-and-procedures-purchasing-and-property-management",
     "published_iso": "2026-11-05T05:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "e6f3e9948c2b",
@@ -37,7 +110,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22647/air-plan-revisions-arizona-maricopa-county-air-quality-department-new-source-review-emission",
     "published_iso": "2026-11-05T05:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "b8cb3e51f341",
@@ -59,7 +132,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22642/modification-of-class-d-and-class-e-airspace-areas-roberts-fieldredmond-municipal-airport-redmond-or",
     "published_iso": "2026-11-05T05:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "a6ac7025867d",
@@ -78,7 +151,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22601/video-relay-service-improvements-incarcerated-peoples-communication-services-implementation-of-the",
     "published_iso": "2026-11-05T05:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "5d32a5e6a478",
@@ -97,7 +170,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22600/modernizing-spectrum-sharing-for-satellite-broadband",
     "published_iso": "2026-11-05T05:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "c1b6a0e5d1b4",
@@ -118,7 +191,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
     "published_iso": "2026-11-05T05:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "798f6a733454",
@@ -139,7 +212,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22590/medical-devices-neurological-devices-classification-of-the-prognostic-assessment-software-of-mild",
     "published_iso": "2026-11-05T05:00:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "9a1ab0869a1a",
@@ -160,66 +233,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22589/medical-devices-orthopedic-devices-classification-of-the-wearable-vibration-device-for-orthopedic",
     "published_iso": "2026-11-05T05:00:00+00:00",
-    "time_ago": "4h ago"
-  },
-  {
-    "id": "321b70df1225",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Herbert Cecilia Healy received 751 shares of Warburg Pincus Access Fund, L.P. \u00b7 $33.30/share \u00b7 $24,995 total \u00b7 Nov 4",
-    "tags": [],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2082826/000119312526448063/0001193125-26-448063-index.htm",
-    "published_iso": "2026-11-05T02:48:32+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "2419dec4ff22",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Fuchs Christine received 751 shares of Warburg Pincus Access Fund, L.P. \u00b7 $33.30/share \u00b7 $24,995 total \u00b7 Nov 4",
-    "tags": [],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2082826/000119312526448060/0001193125-26-448060-index.htm",
-    "published_iso": "2026-11-05T02:47:20+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "d72241604ff5",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Klein Michael Stuart converted 14,525,000 shares of Churchill Capital Corp Xi (CCXIW) \u00b7 Nov 4",
-    "tags": [],
-    "tickers": [
-      "CCXIW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2078043/000121390026116087/0001213900-26-116087-index.htm",
-    "published_iso": "2026-11-05T02:36:19+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "c836f3a99df4",
@@ -240,7 +254,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-and-lsu-establish-5-million-fostering-the-future-endowment-fund/",
     "published_iso": "2026-11-04T20:48:41+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "4b991c2e9420",
@@ -269,7 +283,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mzisrqr54c2r",
     "published_iso": "2026-11-04T16:51:06.619000+00:00",
-    "time_ago": "16h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "f2e0028bd51f",
@@ -319,48 +333,6 @@
     "url": "https://www.whitehouse.gov/releases/2026/11/icymi-drug-prices-are-falling-at-the-fastest-rate-in-over-60-years-under-president-trump/",
     "published_iso": "2026-11-03T21:34:30+00:00",
     "time_ago": "1d ago"
-  },
-  {
-    "id": "c328652c0f69",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "President Trump Is Powering an American Manufacturing Renaissance. American manufacturing is surging under President Donald J. Trump. A new report shows the sector expanding for the tenth consecutive month, with production growing at its fastest pace in nearly five years. Factories are expanding. Jobs are returning. Pa",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-is-powering-an-american-manufacturing-renaissance/",
-    "published_iso": "2026-11-03T18:49:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "2f0ab03ae8d5",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "Child care was already too expensive \u2014 even before Trump\u2019s chaotic tariffs hiked prices on everything from diaper bags to baby strollers.\n\nWe owe it to American families to lower costs and provide guaranteed child care.",
-    "tags": [
-      "Trade"
-    ],
-    "tickers": [],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3mze4qbhec224",
-    "published_iso": "2026-11-02T20:05:55.745000+00:00",
-    "time_ago": "2d ago"
   },
   {
     "id": "497d29c80cd0",
@@ -461,7 +433,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/america-first-seafood-strategy-charts-course-restoring-us-seafood-dominance",
     "published_iso": "2026-10-28T13:39:42+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "767ad373761a",
@@ -513,7 +485,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
     "published_iso": "2026-10-16T15:00:00+00:00",
-    "time_ago": "19d ago"
+    "time_ago": "20d ago"
   },
   {
     "id": "229838d4b313",
@@ -558,7 +530,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
     "published_iso": "2026-10-09T14:00:00+00:00",
-    "time_ago": "26d ago"
+    "time_ago": "27d ago"
   },
   {
     "id": "48db85994cba",
@@ -601,32 +573,6 @@
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
     "published_iso": "2026-10-07T18:00:00+00:00",
     "time_ago": "28d ago"
-  },
-  {
-    "id": "757a1bd60826",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board announces approval of application by Isabella Bank Corporation. Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
-    "published_iso": "2026-10-05T20:30:00+00:00",
-    "time_ago": "30d ago"
   },
   {
     "id": "fba941a53e33",
@@ -702,7 +648,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "89d ago"
+    "time_ago": "90d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -731,7 +677,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "104d ago"
+    "time_ago": "105d ago"
   },
   {
     "id": "de38f5381391",
@@ -774,7 +720,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "105d ago"
+    "time_ago": "106d ago"
   },
   {
     "id": "555d7f3dd315",
@@ -817,7 +763,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "177d ago"
+    "time_ago": "178d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -843,7 +789,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "183d ago"
+    "time_ago": "184d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -865,7 +811,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "191d ago"
+    "time_ago": "192d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -889,7 +835,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "219d ago"
+    "time_ago": "220d ago"
   },
   {
     "id": "432e035b915b",
@@ -929,7 +875,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "264d ago"
+    "time_ago": "265d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -948,7 +894,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "264d ago"
+    "time_ago": "265d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -974,7 +920,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "286d ago"
+    "time_ago": "287d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -993,6 +939,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "323d ago"
+    "time_ago": "324d ago"
   }
 ]
