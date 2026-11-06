@@ -1,30 +1,113 @@
 [
   {
-    "id": "3153e8ec837e",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "7b0d69df21dc",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
     },
     "severity": "critical",
-    "content": "Lawsuit claims AI on Google's school Chromebook helped plan teen's near-suicide. Parents are suing technology giant Google, alleging the AI Gemini chatbot offered on school Chromebooks helped a young teen plan her near-suicide and funeral. The lawsuit, filed in California Superior Court on Wednesday, claims a 13-year-o",
-    "tags": [
-      "Big Tech",
-      "Regulation"
-    ],
+    "content": "Alexander Patrick L received 695 shares of Landmark Bancorp Inc (LARK) \u00b7 Nov 5 ($109,460 across all blocks)",
+    "tags": [],
     "tickers": [
-      "GOOGL"
+      "LARK"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/6202466-google-gemini-lawsuit-suicide-claim/",
-    "published_iso": "2026-11-05T22:42:47+00:00",
-    "time_ago": "10m ago"
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1141688/000149315226050314/0001493152-26-050314-index.htm",
+    "published_iso": "2026-11-06T02:06:29+00:00",
+    "time_ago": "50m ago"
   },
   {
-    "id": "c2c481d9c194",
+    "id": "f2f229dba947",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Opaleye Management Inc. bought 10,328 shares of Grace Therapeutics, Inc. (GRCE) \u00b7 $1.79/share \u00b7 $18,481 total \u00b7 Nov 5 ($33,019 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "GRCE"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1595855/000149315226050313/0001493152-26-050313-index.htm",
+    "published_iso": "2026-11-06T02:05:57+00:00",
+    "time_ago": "50m ago"
+  },
+  {
+    "id": "0aad79cebfb1",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Grossman Adam S exercised options for 105,000 shares of Adma Biologics, Inc. (ADMA) \u00b7 $5.40/share \u00b7 $567,000 total \u00b7 Nov 5 ($2,331,000 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "ADMA"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1542517/000114036126042166/0001140361-26-042166-index.htm",
+    "published_iso": "2026-11-06T02:05:18+00:00",
+    "time_ago": "51m ago"
+  },
+  {
+    "id": "c3fa6c7fcf8a",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "White Mountains Insurance Group Ltd sold 5,500,391 shares of Mediaalpha, Inc. (MAX) \u00b7 $13.90/share \u00b7 $76,455,435 total \u00b7 Nov 5",
+    "tags": [],
+    "tickers": [
+      "MAX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1979065/000095015726001218/0000950157-26-001218-index.htm",
+    "published_iso": "2026-11-06T02:04:09+00:00",
+    "time_ago": "52m ago"
+  },
+  {
+    "id": "704eaddeb1e2",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Rice Ronald A bought 10,000 shares of Metallus Inc. (MTUS) \u00b7 $16.61/share \u00b7 $166,100 total \u00b7 Nov 5",
+    "tags": [
+      "Big Tech"
+    ],
+    "tickers": [
+      "MTUS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1598428/000119312526450443/0001193125-26-450443-index.htm",
+    "published_iso": "2026-11-06T02:00:03+00:00",
+    "time_ago": "56m ago"
+  },
+  {
+    "id": "94379a559b44",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -33,102 +116,128 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Wisconsin reports first measles death since 1990. Wisconsin reported on Thursday that an infant died in association with a measles infection, the state's first measles-related death in over 30 years. The state's Division of Public Health (DPH) with the Department of Health Services said in a statement that the coroner ",
+    "content": "Democrat Jessica Killin flips longtime GOP-held Colorado House seat. Democrat Jessica Killin is projected to unseat Rep. Jeff Crank (R-Colo.) in Colorado's 5th Congressional District, according to Decision Desk HQ (DDHQ). Killin's win marks a political first for the Colorado Springs-area district, which has never elect",
     "tags": [
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/healthcare/6202219-wisconsin-infant-measles-death/",
-    "published_iso": "2026-11-05T22:20:18+00:00",
-    "time_ago": "32m ago"
+    "url": "https://thehill.com/homenews/campaign/6180533-jessica-killin-unseats-jeff-crank-colorado-5th-district/",
+    "published_iso": "2026-11-06T01:58:35+00:00",
+    "time_ago": "58m ago"
   },
   {
-    "id": "6474d397ef2d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "27f3350946e6",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Saligram Ravichandra Krishnamurty gifted 5,000 shares of Church & Dwight Co Inc /De/ (CHD) \u00b7 Nov 5 ($563,464 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CHD"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1307991/000031392726000349/0000313927-26-000349-index.htm",
-    "published_iso": "2026-11-05T19:21:22+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "d0bb4cb4dd3f",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Rockett Julie Valsa exercised options for 89 shares of Msc Industrial Direct Co Inc (MSM) \u00b7 Nov 5 ($8,779 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "MSM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2086182/000100307826000114/0001003078-26-000114-index.htm",
-    "published_iso": "2026-11-05T19:17:36+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "04a0f4194f04",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Prior Cornelius B Jr gifted 14,500 shares of Atn International, Inc. (ATNI) \u00b7 Nov 5",
-    "tags": [
-      "Agriculture"
-    ],
-    "tickers": [
-      "ATNI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/922147/000092214726000030/0000922147-26-000030-index.htm",
-    "published_iso": "2026-11-05T19:15:45+00:00",
-    "time_ago": "3h ago"
-  },
-  {
-    "id": "7c3369524030",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
     },
     "severity": "critical",
-    "content": "Choate Fred G exercised options for 500 shares of Parke Bancorp, Inc. (PKBK) \u00b7 Nov 5",
+    "content": "Rubio places additional sanctions on Cuba, targeting 'illicit' shipping network. The Trump administration announced another wave of sanctions against Cuba Thursday, targeting 10 individuals and entities tied to the country's government, military and oil industry. The State Department accused Cuba\u2019s \u201cruling elite\u201d in it",
+    "tags": [
+      "Energy",
+      "Defense",
+      "Sanctions"
+    ],
+    "tickers": [
+      "XOM",
+      "CVX",
+      "COP",
+      "OXY"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/defense/6202991-rubio-broadens-cuba-sanctions-crude-oil/",
+    "published_iso": "2026-11-06T01:53:06+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "e48b05e4f9d7",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Liu Shaoren bought 3,029 shares of Apex Tech Acquisition Inc. (TRAD-UN) \u00b7 $10.00/share \u00b7 $30,290 total \u00b7 Nov 5",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2105334/000147793226006732/0001477932-26-006732-index.htm",
+    "published_iso": "2026-11-06T01:37:56+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "b277beb1d355",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Liu Shaoren bought 208,971 shares of Apex Tech Acquisition Inc. (TRAD-UN) \u00b7 $10.00/share \u00b7 $2,089,710 total \u00b7 Nov 5",
+    "tags": [],
+    "tickers": [],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2105334/000147793226006731/0001477932-26-006731-index.htm",
+    "published_iso": "2026-11-06T01:37:18+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "9b0a687e0815",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Mahdessian Ara converted 63,927 shares of Servicetitan, Inc. (TTAN) \u00b7 Nov 5 ($9,027,037 across all blocks)",
     "tags": [],
     "tickers": [
-      "PKBK"
+      "TTAN"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1328252/000143774926035199/0001437749-26-035199-index.htm",
-    "published_iso": "2026-11-05T19:13:46+00:00",
-    "time_ago": "3h ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/1908788/000163882626000114/0001638826-26-000114-index.htm",
+    "published_iso": "2026-11-06T01:33:10+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "a6bcf1e8fde2",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Meta, TikTok, Google sue California over child online safety restrictions. Meta, TikTok and Google filed separate lawsuits against California over a new law seeking to tighten restrictions on child social media usage, arguing the legislation violates the companies\u2019 First Amendment rights.\u00a0 California\u2019s bipartisan \u201cDigi",
+    "tags": [
+      "Big Tech",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "GOOGL"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/6202882-meta-tiktok-google-social-media-california/",
+    "published_iso": "2026-11-06T00:51:06+00:00",
+    "time_ago": "2h ago"
   },
   {
     "id": "ab5ae36b4d68",
@@ -154,7 +263,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-unites-russia-and-ukraine-at-the-white-house-following-historic-ceasefire/",
     "published_iso": "2026-11-05T16:31:07+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "1236cb0b4c76",
@@ -180,7 +289,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
     "published_iso": "2026-11-05T16:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "164191ff223e",
@@ -201,7 +310,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22649/cost-standards-and-procedures-purchasing-and-property-management",
     "published_iso": "2026-11-05T05:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "e6f3e9948c2b",
@@ -220,7 +329,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22647/air-plan-revisions-arizona-maricopa-county-air-quality-department-new-source-review-emission",
     "published_iso": "2026-11-05T05:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "b8cb3e51f341",
@@ -242,7 +351,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22642/modification-of-class-d-and-class-e-airspace-areas-roberts-fieldredmond-municipal-airport-redmond-or",
     "published_iso": "2026-11-05T05:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "a6ac7025867d",
@@ -261,7 +370,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22601/video-relay-service-improvements-incarcerated-peoples-communication-services-implementation-of-the",
     "published_iso": "2026-11-05T05:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "5d32a5e6a478",
@@ -280,7 +389,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22600/modernizing-spectrum-sharing-for-satellite-broadband",
     "published_iso": "2026-11-05T05:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "c1b6a0e5d1b4",
@@ -301,7 +410,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
     "published_iso": "2026-11-05T05:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "798f6a733454",
@@ -322,7 +431,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22590/medical-devices-neurological-devices-classification-of-the-prognostic-assessment-software-of-mild",
     "published_iso": "2026-11-05T05:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "9a1ab0869a1a",
@@ -343,34 +452,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22589/medical-devices-orthopedic-devices-classification-of-the-wearable-vibration-device-for-orthopedic",
     "published_iso": "2026-11-05T05:00:00+00:00",
-    "time_ago": "17h ago"
-  },
-  {
-    "id": "fd4c0aeb9867",
-    "politician": "Rep. Ro Khanna",
-    "initials": "RK",
-    "role": "House Armed Services Committee",
-    "color": {
-      "bg": "#1a2a1a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Progressives carried us to victory yesterday! \n \nHere are the issues that won it: \n \n\u2705 Medicare for All \n\u2705 No new funding for foreign wars \n\u2705 Zero aid to Israel \n\u2705 Taxing the billionaires \n \n Video",
-    "tags": [
-      "Healthcare",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nitter.meowing.monster/RoKhanna/status/2118090269572604069#m",
-    "published_iso": "2026-11-04T21:17:27+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "c836f3a99df4",
@@ -442,33 +524,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-1744-and-h-r-8205-signed-into-law/",
     "published_iso": "2026-11-03T21:49:08+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "4883fcdb15ad",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "ICYMI: Drug Prices Are Falling at the Fastest Rate in Over 60 Years Under President Trump. Prescription drug prices are plummeting for the first time in decades under the leadership of President Donald J. Trump \u2014 delivering real, measurable relief to millions of Americans. In City Journal, Dr. Joel Zinberg explains why",
-    "tags": [
-      "Healthcare",
-      "Taxes"
-    ],
-    "tickers": [
-      "LLY",
-      "PFE",
-      "JNJ",
-      "MRK"
-    ],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/releases/2026/11/icymi-drug-prices-are-falling-at-the-fastest-rate-in-over-60-years-under-president-trump/",
-    "published_iso": "2026-11-03T21:34:30+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -728,7 +783,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s256?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-10-01T01:29:00+00:00",
-    "time_ago": "35d ago"
+    "time_ago": "36d ago"
   },
   {
     "id": "16b23634afa2",
@@ -851,7 +906,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s250?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-29T01:42:00+00:00",
-    "time_ago": "37d ago"
+    "time_ago": "38d ago"
   },
   {
     "id": "5bd470197f65",
@@ -870,7 +925,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s249?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-29T01:21:00+00:00",
-    "time_ago": "37d ago"
+    "time_ago": "38d ago"
   },
   {
     "id": "f5506a3890fe",
