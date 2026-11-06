@@ -1,6 +1,6 @@
 [
   {
-    "id": "e91ebdc456c2",
+    "id": "a4db57adee83",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -8,17 +8,124 @@
       "bg": "#0a0a1a",
       "fg": "#a5b4fc"
     },
-    "severity": "critical",
-    "content": "Harte Neal Joseph received 3,000 shares of Winchester Bancorp, Inc./Md/ (WSBK) \u00b7 $13.64/share \u00b7 $40,920 total \u00b7 Nov 6",
+    "severity": "medium",
+    "content": "Alstead Troy received 89 shares of Levi Strauss & Co (LEVI) \u00b7 Nov 6",
     "tags": [],
     "tickers": [
-      "WSBK"
+      "LEVI"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2066172/000119312526451303/0001193125-26-451303-index.htm",
-    "published_iso": "2026-11-06T17:35:03+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/1450940/000199937126024843/0001999371-26-024843-index.htm",
+    "published_iso": "2026-11-06T22:20:55+00:00",
     "time_ago": "1m ago"
+  },
+  {
+    "id": "a0ccd3b47177",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Carr Patricia exercised options for 1,250 shares of Jazz Pharmaceuticals Plc (JAZZ) \u00b7 $140.03/share \u00b7 $175,038 total \u00b7 Nov 6 ($501,947 across all blocks)",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [
+      "JAZZ"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1784606/000178460626000018/0001784606-26-000018-index.htm",
+    "published_iso": "2026-11-06T22:19:57+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "5f06e5e18fae",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Beraud Jill received 57 shares of Levi Strauss & Co (LEVI) \u00b7 Nov 6",
+    "tags": [],
+    "tickers": [
+      "LEVI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1520061/000199937126024842/0001999371-26-024842-index.htm",
+    "published_iso": "2026-11-06T22:19:53+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "9601b8e00682",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Garten Yael received 163 shares of Levi Strauss & Co (LEVI) \u00b7 Nov 6",
+    "tags": [],
+    "tickers": [
+      "LEVI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1800786/000199937126024838/0001999371-26-024838-index.htm",
+    "published_iso": "2026-11-06T22:19:03+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "1c31fc0b63bb",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Johnson, staunch Trump ally, seeks to delay Senate GOP leadership election after big losses. Sen. Ron Johnson (R-Wis.) obtained the five signatures he needs from GOP colleagues to request a meeting of the broader Senate Republican Conference to discuss postponing their leadership election, which is scheduled for next w",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/senate/6204900-ron-johnson-senate-gop-leadership-election-midterm-election-losses/",
+    "published_iso": "2026-11-06T19:53:51+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "057094797518",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "What They Are Saying: Blowout October Jobs Report Smashes Expectations. President Donald J. Trump has long said that America is the hottest country in the world \u2014 and today\u2019s blockbuster jobs report delivers the proof. The economy added a massive 165,000 new jobs in October, more than double what experts expected, with",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-blowout-october-jobs-report-smashes-expectations/",
+    "published_iso": "2026-11-06T17:51:30+00:00",
+    "time_ago": "4h ago"
   },
   {
     "id": "4ddcc1ed1afa",
@@ -40,7 +147,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-was-right-tariffs-and-tax-cuts-are-reshoring-manufacturing-creating-jobs/",
     "published_iso": "2026-11-06T15:56:31+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "6h ago"
   },
   {
     "id": "354412597319",
@@ -61,7 +168,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22741/amendments-to-the-small-business-and-small-organization-definitions-for-investment-companies-and",
     "published_iso": "2026-11-06T05:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "966759eab852",
@@ -87,7 +194,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22739/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment",
     "published_iso": "2026-11-06T05:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "4929a6fff9e3",
@@ -109,7 +216,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22735/heightened-requirements-for-foreign-importers-of-record",
     "published_iso": "2026-11-06T05:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "9649ffd2afbb",
@@ -131,7 +238,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22717/specific-listing-for-3-chloromethcathinone-a-currently-controlled-schedule-i-substance",
     "published_iso": "2026-11-06T05:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "7668c2cee94a",
@@ -153,7 +260,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22682/endangered-and-threatened-wildlife-and-plants-technical-corrections-for-43-wildlife-and-plant",
     "published_iso": "2026-11-06T05:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "efa76d7ebb86",
@@ -174,7 +281,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22680/prohibiting-illegal-discrimination-in-registered-apprenticeship-programs",
     "published_iso": "2026-11-06T05:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "cd53a40a9309",
@@ -195,7 +302,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22679/special-supplemental-nutrition-program-for-women-infants-and-children-wic-online-ordering-and",
     "published_iso": "2026-11-06T05:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "ec6f57bd92c3",
@@ -216,7 +323,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22677/drawbridge-operation-regulation-wishkah-river-aberdeen-wa",
     "published_iso": "2026-11-06T05:00:00+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "ab5ae36b4d68",
@@ -289,7 +396,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-and-lsu-establish-5-million-fostering-the-future-endowment-fund/",
     "published_iso": "2026-11-04T20:48:41+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "4b991c2e9420",
@@ -321,6 +428,27 @@
     "time_ago": "2d ago"
   },
   {
+    "id": "abece0bf361c",
+    "politician": "Rep. Jim Jordan",
+    "initials": "JJ",
+    "role": "House Judiciary Committee Chair",
+    "color": {
+      "bg": "#2a1818",
+      "fg": "#fca5a5"
+    },
+    "severity": "medium",
+    "content": "Secure borders and tax cuts for families is just common sense. \n \nReal America agrees!",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.meowing.monster/Jim_Jordan/status/2117312172002816378#m",
+    "published_iso": "2026-11-02T17:45:34+00:00",
+    "time_ago": "4d ago"
+  },
+  {
     "id": "497d29c80cd0",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -344,7 +472,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
     "published_iso": "2026-10-29T20:30:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "f8e23fd46d28",
@@ -370,7 +498,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3myztxjvdz227",
     "published_iso": "2026-10-29T18:02:18.413000+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "dcd00aa841df",
@@ -396,7 +524,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
     "published_iso": "2026-10-28T18:00:00+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "759761ff4192",
@@ -464,7 +592,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
     "published_iso": "2026-10-13T18:00:00+00:00",
-    "time_ago": "23d ago"
+    "time_ago": "24d ago"
   },
   {
     "id": "1adf28d01f2a",
@@ -513,7 +641,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
     "published_iso": "2026-10-08T20:30:00+00:00",
-    "time_ago": "28d ago"
+    "time_ago": "29d ago"
   },
   {
     "id": "ae07d7bc060b",
@@ -532,7 +660,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
     "published_iso": "2026-10-07T18:00:00+00:00",
-    "time_ago": "29d ago"
+    "time_ago": "30d ago"
   },
   {
     "id": "fba941a53e33",
@@ -558,7 +686,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/news/pelosi-update/working-families-first",
     "published_iso": "2026-10-03T21:13:42+00:00",
-    "time_ago": "33d ago"
+    "time_ago": "34d ago"
   },
   {
     "id": "fdca64178427",
@@ -596,7 +724,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s255?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-30T17:41:00+00:00",
-    "time_ago": "36d ago"
+    "time_ago": "37d ago"
   },
   {
     "id": "40e6f96f14b1",
@@ -679,7 +807,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s251?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-29T18:21:00+00:00",
-    "time_ago": "37d ago"
+    "time_ago": "38d ago"
   },
   {
     "id": "d1ee5f082ce7",
@@ -741,7 +869,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-six-penny-plan-to-balance-the-federal-budget-in-five-years-3/",
     "published_iso": "2026-09-22T20:41:12+00:00",
-    "time_ago": "44d ago"
+    "time_ago": "45d ago"
   },
   {
     "id": "baf26d52584e",
@@ -819,7 +947,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "106d ago"
+    "time_ago": "107d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -863,7 +991,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "108d ago"
+    "time_ago": "109d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -975,7 +1103,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "225d ago"
+    "time_ago": "226d ago"
   },
   {
     "id": "00f579ee8f55",
