@@ -180,7 +180,7 @@
     "time_ago": "just now"
   },
   {
-    "id": "d0668d9dcd57",
+    "id": "d76f447d9c12",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -188,17 +188,66 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "low",
-    "content": "Live updates: Trump sits for post-midterms interview; Congress gears up for lame-duck session. President Trump is set to appear on CBS News's \"60 Minutes\" Sunday night, sitting for his first interview following the GOP's devastating loss of both the House and Senate in Tuesday's midterms. Post Election Day, the preside",
-    "tags": [
-      "Taxes"
-    ],
+    "severity": "critical",
+    "content": "Ukrainian nuclear plant switches to generators after losing final power line. A Ukrainian nuclear plant switched to generators after losing its final external power line, though the cause of the latest disconnection is still unknown. \u201cThe Zaporizhzhya Nuclear Power Plant (ZNPP) has once again lost all off-site power, f",
+    "tags": [],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6206264-live-trump-60-minutes-congress-midterms/",
-    "published_iso": "2026-11-08T13:35:47+00:00",
+    "url": "https://thehill.com/policy/international/6206805-ukraine-nuclear-safety-threatened/",
+    "published_iso": "2026-11-08T19:36:53+00:00",
+    "time_ago": "18m ago"
+  },
+  {
+    "id": "eee9b0c668c5",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "AI nearly had US troops attack a Chinese ship. Nobody could check its work.. The lack of independent oversight and verifiable records in artificial intelligence deployment poses significant risks to national security, finance and healthcare, necessitating a solution similar to aviation's flight recorders",
+    "tags": [
+      "China",
+      "Healthcare"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/opinion/technology/6205531-preventing-future-ai-incidents/",
+    "published_iso": "2026-11-08T18:00:00+00:00",
     "time_ago": "1h ago"
+  },
+  {
+    "id": "0752478d6ec9",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "There is a ticking time bomb of Medicaid and SNAP cuts that will begin in January. \n \nThis was a cruel Republican plot. They didn\u2019t want the cuts to take place before they had to face the voters. \n \nDemocrats first order of business has to be to reverse the cuts. \n \n Video",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.mizuki.st/RoKhanna/status/2119203033246544262#m",
+    "published_iso": "2026-11-07T22:59:10+00:00",
+    "time_ago": "20h ago"
   },
   {
     "id": "ba84b25f3074",
@@ -219,7 +268,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-and-lsu-establish-7-2-million-fostering-the-future-endowment-fund/",
     "published_iso": "2026-11-07T19:31:59+00:00",
-    "time_ago": "20h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "ed4999309c70",
@@ -390,6 +439,27 @@
     "time_ago": "1d ago"
   },
   {
+    "id": "674261c90092",
+    "politician": "Rep. Nancy Pelosi",
+    "initials": "NP",
+    "role": "House Democratic Leader",
+    "color": {
+      "bg": "#1e2a4a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Winning Together. Winning Together \n\n               The People\u2019s Verdict  This week, the American people changed the course of our country by electing a Democratic House majority. Voters broke Washington\u2019s Republican monopoly on power, restored a constitutional check on President Trump and demanded lower costs, better ",
+    "tags": [
+      "Antitrust"
+    ],
+    "tickers": [],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "http://pelosi.house.gov/news/pelosi-update/winning-together",
+    "published_iso": "2026-11-06T22:04:12+00:00",
+    "time_ago": "1d ago"
+  },
+  {
     "id": "057094797518",
     "politician": "White House",
     "initials": "WH",
@@ -408,7 +478,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-blowout-october-jobs-report-smashes-expectations/",
     "published_iso": "2026-11-06T17:51:30+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "4ddcc1ed1afa",
@@ -430,32 +500,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-was-right-tariffs-and-tax-cuts-are-reshoring-manufacturing-creating-jobs/",
     "published_iso": "2026-11-06T15:56:31+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "ab5ae36b4d68",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "First Lady Melania Trump Unites Russia and Ukraine at The White House Following Historic Ceasefire. First Lady Melania Trump gathered leaders from Russia and Ukraine at the White House today. The occasion is believed to mark the first time in American history that a First Lady has personally brought representatives of ",
-    "tags": [
-      "Taxes",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-unites-russia-and-ukraine-at-the-white-house-following-historic-ceasefire/",
-    "published_iso": "2026-11-05T16:31:07+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -482,7 +526,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
     "published_iso": "2026-11-05T16:00:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "4b991c2e9420",
@@ -511,7 +555,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mzisrqr54c2r",
     "published_iso": "2026-11-04T16:51:06.619000+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "497d29c80cd0",
@@ -563,7 +607,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3myztxjvdz227",
     "published_iso": "2026-10-29T18:02:18.413000+00:00",
-    "time_ago": "9d ago"
+    "time_ago": "10d ago"
   },
   {
     "id": "dcd00aa841df",
@@ -589,7 +633,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
     "published_iso": "2026-10-28T18:00:00+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "759761ff4192",
@@ -657,7 +701,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
     "published_iso": "2026-10-13T18:00:00+00:00",
-    "time_ago": "25d ago"
+    "time_ago": "26d ago"
   },
   {
     "id": "1adf28d01f2a",
@@ -725,7 +769,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
     "published_iso": "2026-10-07T18:00:00+00:00",
-    "time_ago": "31d ago"
+    "time_ago": "32d ago"
   },
   {
     "id": "fba941a53e33",
@@ -789,7 +833,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s255?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-30T17:41:00+00:00",
-    "time_ago": "38d ago"
+    "time_ago": "39d ago"
   },
   {
     "id": "40e6f96f14b1",
@@ -808,7 +852,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s254?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-30T16:51:00+00:00",
-    "time_ago": "38d ago"
+    "time_ago": "39d ago"
   },
   {
     "id": "e19340ebcd34",
@@ -827,7 +871,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s253?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-30T15:58:00+00:00",
-    "time_ago": "38d ago"
+    "time_ago": "39d ago"
   },
   {
     "id": "91ed35d06185",
@@ -872,7 +916,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s251?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-29T18:21:00+00:00",
-    "time_ago": "39d ago"
+    "time_ago": "40d ago"
   },
   {
     "id": "d1ee5f082ce7",
@@ -962,7 +1006,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "92d ago"
+    "time_ago": "93d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -991,7 +1035,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "107d ago"
+    "time_ago": "108d ago"
   },
   {
     "id": "de38f5381391",
@@ -1012,7 +1056,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "108d ago"
+    "time_ago": "109d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -1077,7 +1121,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "180d ago"
+    "time_ago": "181d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1168,7 +1212,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "227d ago"
+    "time_ago": "228d ago"
   },
   {
     "id": "00f579ee8f55",
@@ -1234,7 +1278,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "289d ago"
+    "time_ago": "290d ago"
   },
   {
     "id": "d3ca74df7f0f",
