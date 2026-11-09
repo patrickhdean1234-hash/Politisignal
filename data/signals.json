@@ -1,6 +1,93 @@
 [
   {
-    "id": "81921b2cb377",
+    "id": "cd3d506abde8",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Wilson David J. bought 5,417 shares of Columbus Mckinnon Corp (CMCO) \u00b7 $17.12/share \u00b7 $92,739 total \u00b7 Nov 9 ($551,349 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "CMCO"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1629079/000162828026072106/0001628280-26-072106-index.htm",
+    "published_iso": "2026-11-09T20:54:01+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "cd4e9ad5d676",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Top Democrat demands probe into Jensen Huang's affair with suspected Chinese spy. Sen. Chris Coons (D-Del.) on Monday called for a probe into reporting that Nvidia CEO Jensen Huang had an affair with an alleged Chinese spy. \"I\u2019m pushing to investigate Jensen Huang and Nvidia to determine whether our national security w",
+    "tags": [
+      "China"
+    ],
+    "tickers": [
+      "NVDA"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/senate/6208634-chris-coons-jensen-huang-nvidia-affair-probe/",
+    "published_iso": "2026-11-09T19:40:10+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "492ac588c988",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "ICYMI: President Trump on 60 Minutes: \u201cWe Have Historically Good Numbers\u201d. Last night, President Donald J. Trump sat down with 60 Minutes following the midterm elections and made a powerful case for his America First record. President Trump highlighted the booming Trump economy \u2014 165,000 new jobs in October, record 401",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/11/icymi-president-trump-on-60-minutes-we-have-historically-good-numbers/",
+    "published_iso": "2026-11-09T19:03:35+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "b999760fc16e",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Your health insurer shouldn\u2019t own your doctor\u2019s office, pharmacy, and the middleman who decides which prescriptions are covered and how much they cost.\n\nThat gives one corporation at least 4 ways to squeeze every penny out of you when you get sick.\n\nLet's break up Big Medicine.",
+    "tags": [
+      "Healthcare"
+    ],
+    "tickers": [],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3mzv6pmlais2m",
+    "published_iso": "2026-11-09T14:56:36.887000+00:00",
+    "time_ago": "5h ago"
+  },
+  {
+    "id": "3e277650caaa",
     "politician": "Politico",
     "initials": "PO",
     "role": "Political News",
@@ -9,7 +96,7 @@
       "fg": "#fca5a5"
     },
     "severity": "high",
-    "content": "New Vance-friendly group launching to push GOP toward younger hardliners. American Ascent promises to recruit and elect a new generation of young \u2018America First\u2019 candidates",
+    "content": "\u2018Old ideas are for old people\u2019: A new MAGA group looks to push GOP further right. American Ascent promises to recruit and elect a new generation of young \u2018America First\u2019 candidates",
     "tags": [
       "Taxes"
     ],
@@ -18,7 +105,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/11/09/jd-vance-allies-launch-new-group-01155638",
     "published_iso": "2026-11-09T10:00:00+00:00",
-    "time_ago": "26m ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "c9ac86f74e51",
@@ -45,7 +132,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22831/security-zones-protection-of-military-cargo-captain-of-the-port-zone-puget-sound-wa",
     "published_iso": "2026-11-09T05:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "339c234742dc",
@@ -67,7 +154,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22830/amendment-of-class-d-and-establishment-of-class-e-airspace-chandler-and-phoenix-az",
     "published_iso": "2026-11-09T05:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "2a0b804a9a39",
@@ -88,7 +175,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22817/airworthiness-directives-the-boeing-company-airplanes",
     "published_iso": "2026-11-09T05:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "3d44c6f733b3",
@@ -109,7 +196,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22793/extension-of-the-suspension-of-expansion-of-end-user-controls-for-affiliates-of-certain-listed",
     "published_iso": "2026-11-09T05:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "05b45d8fc8d6",
@@ -136,7 +223,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22792/medicare-drug-price-negotiation-program-and-medicare-prescription-drug-benefit-program",
     "published_iso": "2026-11-09T05:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "aacd9ee60efc",
@@ -155,7 +242,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22788/national-emission-standards-for-hazardous-air-pollutants-polyvinyl-chloride-and-copolymer-production",
     "published_iso": "2026-11-09T05:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "7c28f4c2360f",
@@ -177,7 +264,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22785/airworthiness-directives-lycoming-engines",
     "published_iso": "2026-11-09T05:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "b4cff5e9d5af",
@@ -198,7 +285,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22781/technical-corrections-of-commercial-space-transportation-regulations",
     "published_iso": "2026-11-09T05:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "ba84b25f3074",
@@ -219,174 +306,6 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-and-lsu-establish-7-2-million-fostering-the-future-endowment-fund/",
     "published_iso": "2026-11-07T19:31:59+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "ed4999309c70",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Maxfield Joshua H gifted 5 shares of Garmin Ltd (GRMN) \u00b7 Nov 6",
-    "tags": [],
-    "tickers": [
-      "GRMN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2027497/000119312526452288/0001193125-26-452288-index.htm",
-    "published_iso": "2026-11-07T02:55:03+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "fa4ebbbdd88d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Barrocas Mark sold 23,896 shares of Sharkninja, Inc. (SN) \u00b7 $218.26/share \u00b7 $5,215,541 total \u00b7 Nov 6 ($24,999,952 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "SN"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1987144/000090883426000509/0000908834-26-000509-index.htm",
-    "published_iso": "2026-11-07T02:54:24+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "721be5a02c8e",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Leff Daniel V exercised options for 2,410 shares of Fubotv Inc. (FUBO) \u00b7 Nov 6",
-    "tags": [],
-    "tickers": [
-      "FUBO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1484769/000149315226050582/0001493152-26-050582-index.htm",
-    "published_iso": "2026-11-07T02:43:23+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "4415d67cc93a",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Headley Jonathan Scott exercised options for 2,410 shares of Fubotv Inc. (FUBO) \u00b7 Nov 6",
-    "tags": [],
-    "tickers": [
-      "FUBO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2094170/000149315226050581/0001493152-26-050581-index.htm",
-    "published_iso": "2026-11-07T02:43:05+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "e7a3d53b10d2",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Figueras Ignacio exercised options for 2,410 shares of Fubotv Inc. (FUBO) \u00b7 Nov 6",
-    "tags": [],
-    "tickers": [
-      "FUBO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1820371/000149315226050580/0001493152-26-050580-index.htm",
-    "published_iso": "2026-11-07T02:42:44+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "fc682f37c5d6",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Bird Andrew Peter exercised options for 2,410 shares of Fubotv Inc. (FUBO) \u00b7 Nov 6",
-    "tags": [],
-    "tickers": [
-      "FUBO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2009311/000149315226050579/0001493152-26-050579-index.htm",
-    "published_iso": "2026-11-07T02:42:23+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "60df9256b64a",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Siegal Michael D gifted 25,000 shares of Ryerson Holding Corp (RYZ) \u00b7 Nov 6",
-    "tags": [],
-    "tickers": [
-      "RYZ"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1481582/000089914026001237/0000899140-26-001237-index.htm",
-    "published_iso": "2026-11-07T02:33:41+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "8a2f850e2fe7",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Greiff Andrew S sold 3,000 shares of Ryerson Holding Corp (RYZ) \u00b7 $32.10/share \u00b7 $96,300 total \u00b7 Nov 6",
-    "tags": [],
-    "tickers": [
-      "RYZ"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1682850/000089914026001236/0000899140-26-001236-index.htm",
-    "published_iso": "2026-11-07T02:32:15+00:00",
     "time_ago": "2d ago"
   },
   {
@@ -429,29 +348,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-blowout-october-jobs-report-smashes-expectations/",
     "published_iso": "2026-11-06T17:51:30+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "4ddcc1ed1afa",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "President Trump Was Right: Tariffs and Tax Cuts Are Reshoring Manufacturing, Creating Jobs. The October jobs report crushed expectations, confirming that President Trump\u2019s America First agenda is delivering a manufacturing renaissance. Tariffs and tax cuts are bringing production home, strengthening supply chains, rais",
-    "tags": [
-      "Trade",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-was-right-tariffs-and-tax-cuts-are-reshoring-manufacturing-creating-jobs/",
-    "published_iso": "2026-11-06T15:56:31+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "1236cb0b4c76",
@@ -477,7 +374,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
     "published_iso": "2026-11-05T16:00:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "4b991c2e9420",
@@ -506,28 +403,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3mzisrqr54c2r",
     "published_iso": "2026-11-04T16:51:06.619000+00:00",
-    "time_ago": "4d ago"
-  },
-  {
-    "id": "abece0bf361c",
-    "politician": "Rep. Jim Jordan",
-    "initials": "JJ",
-    "role": "House Judiciary Committee Chair",
-    "color": {
-      "bg": "#2a1818",
-      "fg": "#fca5a5"
-    },
-    "severity": "medium",
-    "content": "Secure borders and tax cuts for families is just common sense. \n \nReal America agrees!",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nitter.mizuki.st/Jim_Jordan/status/2117312172002816378#m",
-    "published_iso": "2026-11-02T17:45:34+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "497d29c80cd0",
@@ -553,7 +429,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
     "published_iso": "2026-10-29T20:30:00+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "f8e23fd46d28",
@@ -579,7 +455,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/pelosi.house.gov/post/3myztxjvdz227",
     "published_iso": "2026-10-29T18:02:18.413000+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "dcd00aa841df",
@@ -605,7 +481,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
     "published_iso": "2026-10-28T18:00:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "759761ff4192",
@@ -628,7 +504,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/america-first-seafood-strategy-charts-course-restoring-us-seafood-dominance",
     "published_iso": "2026-10-28T13:39:42+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "cfb78ede1c08",
@@ -654,7 +530,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
     "published_iso": "2026-10-16T15:00:00+00:00",
-    "time_ago": "23d ago"
+    "time_ago": "24d ago"
   },
   {
     "id": "229838d4b313",
@@ -673,7 +549,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
     "published_iso": "2026-10-13T18:00:00+00:00",
-    "time_ago": "26d ago"
+    "time_ago": "27d ago"
   },
   {
     "id": "1adf28d01f2a",
@@ -699,7 +575,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
     "published_iso": "2026-10-09T14:00:00+00:00",
-    "time_ago": "30d ago"
+    "time_ago": "31d ago"
   },
   {
     "id": "48db85994cba",
@@ -722,7 +598,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
     "published_iso": "2026-10-08T20:30:00+00:00",
-    "time_ago": "31d ago"
+    "time_ago": "32d ago"
   },
   {
     "id": "ae07d7bc060b",
@@ -741,7 +617,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
     "published_iso": "2026-10-07T18:00:00+00:00",
-    "time_ago": "32d ago"
+    "time_ago": "33d ago"
   },
   {
     "id": "fba941a53e33",
@@ -805,7 +681,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s255?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-30T17:41:00+00:00",
-    "time_ago": "39d ago"
+    "time_ago": "40d ago"
   },
   {
     "id": "40e6f96f14b1",
@@ -824,7 +700,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s254?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-30T16:51:00+00:00",
-    "time_ago": "39d ago"
+    "time_ago": "40d ago"
   },
   {
     "id": "e19340ebcd34",
@@ -843,7 +719,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s253?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-30T15:58:00+00:00",
-    "time_ago": "39d ago"
+    "time_ago": "40d ago"
   },
   {
     "id": "91ed35d06185",
@@ -888,7 +764,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s251?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-29T18:21:00+00:00",
-    "time_ago": "40d ago"
+    "time_ago": "41d ago"
   },
   {
     "id": "d1ee5f082ce7",
@@ -950,7 +826,36 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-six-penny-plan-to-balance-the-federal-budget-in-five-years-3/",
     "published_iso": "2026-09-22T20:41:12+00:00",
-    "time_ago": "47d ago"
+    "time_ago": "48d ago"
+  },
+  {
+    "id": "f5ef8bcafaa7",
+    "politician": "Sen. Cynthia Lummis",
+    "initials": "CL",
+    "role": "Senate Banking Subcommittee (Crypto)",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#c4b5fd"
+    },
+    "severity": "critical",
+    "content": "Lummis Statement on Democrats Killing Clarity Act. Washington, D.C.\u2014 U.S. Senate Banking Digital Assets Subcommittee Chair Cynthia Lummis (R-WY) released the following statement after the Clarity Act&#8217;s Motion to Proceed failed on a party-line vote, with every Senate Democrat voting no: &#8220;This afternoon, Sena",
+    "tags": [
+      "Crypto",
+      "Banking",
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [
+      "BTC",
+      "ETH",
+      "COIN",
+      "XRP"
+    ],
+    "source": "rss",
+    "platform": ".gov",
+    "url": "https://www.lummis.senate.gov/press-releases/lummis-statement-on-democrats-killing-clarity-act/",
+    "published_iso": "2026-09-15T20:22:32+00:00",
+    "time_ago": "55d ago"
   },
   {
     "id": "baf26d52584e",
@@ -978,7 +883,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "93d ago"
+    "time_ago": "94d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -1007,7 +912,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "108d ago"
+    "time_ago": "109d ago"
   },
   {
     "id": "de38f5381391",
@@ -1028,7 +933,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "109d ago"
+    "time_ago": "110d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -1050,7 +955,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "109d ago"
+    "time_ago": "110d ago"
   },
   {
     "id": "555d7f3dd315",
@@ -1072,7 +977,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/chairman-paul-releases-documents-showing-cbp-prepared-to-question-and-search-peter-daszak-until-the-fbi-stepped-in/",
     "published_iso": "2026-07-20T20:53:36+00:00",
-    "time_ago": "111d ago"
+    "time_ago": "112d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -1093,7 +998,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "181d ago"
+    "time_ago": "182d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1119,7 +1024,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "187d ago"
+    "time_ago": "188d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1141,7 +1046,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "195d ago"
+    "time_ago": "196d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1165,7 +1070,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "223d ago"
+    "time_ago": "224d ago"
   },
   {
     "id": "432e035b915b",
@@ -1184,7 +1089,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "228d ago"
+    "time_ago": "229d ago"
   },
   {
     "id": "00f579ee8f55",
@@ -1205,7 +1110,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "268d ago"
+    "time_ago": "269d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1224,7 +1129,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "268d ago"
+    "time_ago": "269d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1250,7 +1155,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "290d ago"
+    "time_ago": "291d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1269,6 +1174,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "327d ago"
+    "time_ago": "328d ago"
   }
 ]
