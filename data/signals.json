@@ -1,6 +1,6 @@
 [
   {
-    "id": "358442420d25",
+    "id": "c5ee5aeea0d7",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,7 +9,28 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Cardew Services Ltd sold 4,916 shares of Chime Financial, Inc. (CHYM) \u00b7 $32.10/share \u00b7 $157,784 total \u00b7 Nov 9 ($41,403,607 across all blocks)",
+    "content": "Malone John C bought 51,296 shares of Liberty Global Ltd. (LBTYK) \u00b7 $9.68/share \u00b7 $496,730 total \u00b7 Nov 10 ($1,460,150 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "LBTYK"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1570585/000093779726000037/0000937797-26-000037-index.htm",
+    "published_iso": "2026-11-10T11:01:26+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "76455ebe7496",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Galileo (Ptc) Ltd sold 4,916 shares of Chime Financial, Inc. (CHYM) \u00b7 $32.10/share \u00b7 $157,784 total \u00b7 Nov 9 ($41,403,607 across all blocks)",
     "tags": [],
     "tickers": [
       "CHYM"
@@ -18,28 +39,7 @@
     "platform": "SEC Form 4",
     "url": "https://www.sec.gov/Archives/edgar/data/2088581/000119312526454169/0001193125-26-454169-index.htm",
     "published_iso": "2026-11-10T02:43:42+00:00",
-    "time_ago": "25m ago"
-  },
-  {
-    "id": "86dc7f45b810",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Dst Managers Vi Ltd sold 4,916 shares of Chime Financial, Inc. (CHYM) \u00b7 $32.10/share \u00b7 $157,784 total \u00b7 Nov 9 ($41,403,607 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "CHYM"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2072430/000119312526454165/0001193125-26-454165-index.htm",
-    "published_iso": "2026-11-10T02:42:57+00:00",
-    "time_ago": "26m ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "c28078cd1b8b",
@@ -58,7 +58,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h316?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-10T00:07:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "157558772026",
@@ -77,7 +77,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h315?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-09T23:59:00+00:00",
-    "time_ago": "3h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "bbd034846708",
@@ -99,7 +99,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-ba2b/",
     "published_iso": "2026-11-09T22:53:29+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "48d300f84030",
@@ -118,7 +118,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s257?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-09T22:31:00+00:00",
-    "time_ago": "4h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "4f8428731517",
@@ -144,7 +144,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
     "published_iso": "2026-11-09T21:00:00+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "492ac588c988",
@@ -166,7 +166,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/11/icymi-president-trump-on-60-minutes-we-have-historically-good-numbers/",
     "published_iso": "2026-11-09T19:03:35+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "b999760fc16e",
@@ -187,7 +187,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mzv6pmlais2m",
     "published_iso": "2026-11-09T14:56:36.887000+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "3e277650caaa",
@@ -208,7 +208,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/11/09/jd-vance-allies-launch-new-group-01155638",
     "published_iso": "2026-11-09T10:00:00+00:00",
-    "time_ago": "17h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "c9ac86f74e51",
@@ -235,7 +235,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22831/security-zones-protection-of-military-cargo-captain-of-the-port-zone-puget-sound-wa",
     "published_iso": "2026-11-09T05:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "339c234742dc",
@@ -257,7 +257,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22830/amendment-of-class-d-and-establishment-of-class-e-airspace-chandler-and-phoenix-az",
     "published_iso": "2026-11-09T05:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "2a0b804a9a39",
@@ -278,7 +278,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22817/airworthiness-directives-the-boeing-company-airplanes",
     "published_iso": "2026-11-09T05:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "3d44c6f733b3",
@@ -299,7 +299,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22793/extension-of-the-suspension-of-expansion-of-end-user-controls-for-affiliates-of-certain-listed",
     "published_iso": "2026-11-09T05:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "05b45d8fc8d6",
@@ -326,7 +326,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22792/medicare-drug-price-negotiation-program-and-medicare-prescription-drug-benefit-program",
     "published_iso": "2026-11-09T05:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "aacd9ee60efc",
@@ -345,7 +345,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22788/national-emission-standards-for-hazardous-air-pollutants-polyvinyl-chloride-and-copolymer-production",
     "published_iso": "2026-11-09T05:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "7c28f4c2360f",
@@ -367,7 +367,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22785/airworthiness-directives-lycoming-engines",
     "published_iso": "2026-11-09T05:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "b4cff5e9d5af",
@@ -388,7 +388,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22781/technical-corrections-of-commercial-space-transportation-regulations",
     "published_iso": "2026-11-09T05:00:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "ba84b25f3074",
