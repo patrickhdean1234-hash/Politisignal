@@ -1,6 +1,6 @@
 [
   {
-    "id": "cd3d506abde8",
+    "id": "358442420d25",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,39 +9,142 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Wilson David J. bought 5,417 shares of Columbus Mckinnon Corp (CMCO) \u00b7 $17.12/share \u00b7 $92,739 total \u00b7 Nov 9 ($551,349 across all blocks)",
+    "content": "Cardew Services Ltd sold 4,916 shares of Chime Financial, Inc. (CHYM) \u00b7 $32.10/share \u00b7 $157,784 total \u00b7 Nov 9 ($41,403,607 across all blocks)",
     "tags": [],
     "tickers": [
-      "CMCO"
+      "CHYM"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1629079/000162828026072106/0001628280-26-072106-index.htm",
-    "published_iso": "2026-11-09T20:54:01+00:00",
-    "time_ago": "2m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2088581/000119312526454169/0001193125-26-454169-index.htm",
+    "published_iso": "2026-11-10T02:43:42+00:00",
+    "time_ago": "25m ago"
   },
   {
-    "id": "cd4e9ad5d676",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
+    "id": "86dc7f45b810",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
     "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Dst Managers Vi Ltd sold 4,916 shares of Chime Financial, Inc. (CHYM) \u00b7 $32.10/share \u00b7 $157,784 total \u00b7 Nov 9 ($41,403,607 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "CHYM"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2072430/000119312526454165/0001193125-26-454165-index.htm",
+    "published_iso": "2026-11-10T02:42:57+00:00",
+    "time_ago": "26m ago"
+  },
+  {
+    "id": "c28078cd1b8b",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "H.R. 9612: American Enrichment Deployment Act. Vote: Passed 394/3",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h316?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-11-10T00:07:00+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "157558772026",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "H.R. 3978: Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act. Vote: Passed 397/2",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h315?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-11-09T23:59:00+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "bbd034846708",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "Nominations and Withdrawals Sent to the Senate. NOMINATIONS SENT TO THE SENATE: Philip Lawrence Aubart, of North Carolina, to be United States District Judge for the Middle District of North Carolina, vice William Lindsay Osteen, Jr., retiring. Natalie Baker, of Texas, a Career Member of the Senior Foreign Service, Cla",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-ba2b/",
+    "published_iso": "2026-11-09T22:53:29+00:00",
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "48d300f84030",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "Motion to Invoke Cloture: Motion to Proceed to H.R. 2347. Vote: Cloture on the Motion to Proceed Agreed to 73/25",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s257?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-11-09T22:31:00+00:00",
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "4f8428731517",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
     },
     "severity": "critical",
-    "content": "Top Democrat demands probe into Jensen Huang's affair with suspected Chinese spy. Sen. Chris Coons (D-Del.) on Monday called for a probe into reporting that Nvidia CEO Jensen Huang had an affair with an alleged Chinese spy. \"I\u2019m pushing to investigate Jensen Huang and Nvidia to determine whether our national security w",
+    "content": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.. Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc",
     "tags": [
-      "China"
+      "Banking"
     ],
     "tickers": [
-      "NVDA"
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/6208634-chris-coons-jensen-huang-nvidia-affair-probe/",
-    "published_iso": "2026-11-09T19:40:10+00:00",
-    "time_ago": "1h ago"
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+    "published_iso": "2026-11-09T21:00:00+00:00",
+    "time_ago": "6h ago"
   },
   {
     "id": "492ac588c988",
@@ -63,7 +166,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/releases/2026/11/icymi-president-trump-on-60-minutes-we-have-historically-good-numbers/",
     "published_iso": "2026-11-09T19:03:35+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "8h ago"
   },
   {
     "id": "b999760fc16e",
@@ -84,7 +187,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3mzv6pmlais2m",
     "published_iso": "2026-11-09T14:56:36.887000+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "12h ago"
   },
   {
     "id": "3e277650caaa",
@@ -105,7 +208,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/11/09/jd-vance-allies-launch-new-group-01155638",
     "published_iso": "2026-11-09T10:00:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "c9ac86f74e51",
@@ -132,7 +235,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22831/security-zones-protection-of-military-cargo-captain-of-the-port-zone-puget-sound-wa",
     "published_iso": "2026-11-09T05:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "339c234742dc",
@@ -154,7 +257,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22830/amendment-of-class-d-and-establishment-of-class-e-airspace-chandler-and-phoenix-az",
     "published_iso": "2026-11-09T05:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "2a0b804a9a39",
@@ -175,7 +278,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22817/airworthiness-directives-the-boeing-company-airplanes",
     "published_iso": "2026-11-09T05:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "3d44c6f733b3",
@@ -196,7 +299,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22793/extension-of-the-suspension-of-expansion-of-end-user-controls-for-affiliates-of-certain-listed",
     "published_iso": "2026-11-09T05:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "05b45d8fc8d6",
@@ -223,7 +326,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22792/medicare-drug-price-negotiation-program-and-medicare-prescription-drug-benefit-program",
     "published_iso": "2026-11-09T05:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "aacd9ee60efc",
@@ -242,7 +345,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22788/national-emission-standards-for-hazardous-air-pollutants-polyvinyl-chloride-and-copolymer-production",
     "published_iso": "2026-11-09T05:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "7c28f4c2360f",
@@ -264,7 +367,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22785/airworthiness-directives-lycoming-engines",
     "published_iso": "2026-11-09T05:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "b4cff5e9d5af",
@@ -285,7 +388,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22781/technical-corrections-of-commercial-space-transportation-regulations",
     "published_iso": "2026-11-09T05:00:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "ba84b25f3074",
@@ -327,27 +430,6 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/news/pelosi-update/winning-together",
     "published_iso": "2026-11-06T22:04:12+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "057094797518",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "What They Are Saying: Blowout October Jobs Report Smashes Expectations. President Donald J. Trump has long said that America is the hottest country in the world \u2014 and today\u2019s blockbuster jobs report delivers the proof. The economy added a massive 165,000 new jobs in October, more than double what experts expected, with",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-blowout-october-jobs-report-smashes-expectations/",
-    "published_iso": "2026-11-06T17:51:30+00:00",
     "time_ago": "3d ago"
   },
   {
@@ -601,25 +683,6 @@
     "time_ago": "32d ago"
   },
   {
-    "id": "ae07d7bc060b",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "Minutes of the Federal Open Market Committee, September 15-16, 2026. Minutes of the Federal Open Market Committee, September 15-16, 2026",
-    "tags": [],
-    "tickers": [],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
-    "published_iso": "2026-10-07T18:00:00+00:00",
-    "time_ago": "33d ago"
-  },
-  {
     "id": "fba941a53e33",
     "politician": "Rep. Nancy Pelosi",
     "initials": "NP",
@@ -643,7 +706,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/news/pelosi-update/working-families-first",
     "published_iso": "2026-10-03T21:13:42+00:00",
-    "time_ago": "36d ago"
+    "time_ago": "37d ago"
   },
   {
     "id": "fdca64178427",
@@ -662,7 +725,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s256?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-10-01T01:29:00+00:00",
-    "time_ago": "39d ago"
+    "time_ago": "40d ago"
   },
   {
     "id": "16b23634afa2",
@@ -738,72 +801,6 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s252?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-09-29T22:32:00+00:00",
-    "time_ago": "40d ago"
-  },
-  {
-    "id": "e8208c75bc4b",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "Motion to Proceed on S.J.Res. 197: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Centers for Medicare & Medicaid Services of the Department of Health and Human Services relating to \u201cPat. Vote: Motion to Proceed Rejected 48/51",
-    "tags": [
-      "Healthcare",
-      "Regulation"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s251?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-29T18:21:00+00:00",
-    "time_ago": "41d ago"
-  },
-  {
-    "id": "d1ee5f082ce7",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "critical",
-    "content": "S. 4668: Protect College Sports Act of 2026. Vote: Bill Passed 77/22",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s250?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-29T01:42:00+00:00",
-    "time_ago": "41d ago"
-  },
-  {
-    "id": "5bd470197f65",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "S.Amdt. 6835 (Booker) to S. 4668: To establish certain standards with respect to coaches of varsity sports teams.. Vote: Amendment Rejected 47/52",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s249?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-09-29T01:21:00+00:00",
     "time_ago": "41d ago"
   },
   {
