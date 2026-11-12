@@ -1,5 +1,168 @@
 [
   {
+    "id": "1ea10f254a18",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Gardner Adrian received 6,058 shares of Amdocs Ltd (DOX) \u00b7 Nov 12",
+    "tags": [],
+    "tickers": [
+      "DOX"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1969089/000119312526457507/0001193125-26-457507-index.htm",
+    "published_iso": "2026-11-12T16:13:30+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "f7d06a8bf926",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Stern James F gifted 2,330 shares of Smith A O Corp (AOS) \u00b7 Nov 12",
+    "tags": [],
+    "tickers": [
+      "AOS"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1399737/000009114226000108/0000091142-26-000108-index.htm",
+    "published_iso": "2026-11-12T16:13:02+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "60feb2f302c2",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board issues enforcement action with former employee of United Community Bank. Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+    "published_iso": "2026-11-12T16:00:00+00:00",
+    "time_ago": "15m ago"
+  },
+  {
+    "id": "45cb168bc4b7",
+    "politician": "Rep. Ro Khanna",
+    "initials": "RK",
+    "role": "House Armed Services Committee",
+    "color": {
+      "bg": "#1a2a1a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Congress is back in session. Here are the four things I am demanding: \n \n\u2705End the war in Iran \n\u2705$25 living wage \n\u2705Medicare for All \n\u2705Zero aid to Israel \n \nWe need to be bold. We need to deliver. \n \n Video",
+    "tags": [
+      "Healthcare",
+      "Sanctions"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS",
+      "LMT"
+    ],
+    "source": "twitter",
+    "platform": "Twitter/X",
+    "url": "http://nitter.mizuki.st/RoKhanna/status/2120906615847301224#m",
+    "published_iso": "2026-11-12T15:48:36+00:00",
+    "time_ago": "26m ago"
+  },
+  {
+    "id": "42e862229f02",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "Jensen Huang\u2019s decision to resign from NVIDIA does not absolve him, other executives, or the company as a whole of responsibility for putting our national security at risk or for any potential violations of our laws.\n \nThey still owe Congress answers.",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [
+      "NVDA"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3n24spc7ces2t",
+    "published_iso": "2026-11-12T15:42:59.015000+00:00",
+    "time_ago": "32m ago"
+  },
+  {
+    "id": "1dd77a21e397",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Nvidia stock falls nearly 15 percent after Huang resigns. Nvidia stock took a sharp dive on Thursday, after longtime CEO Jensen Huang resigned amid reports he engaged in two extramarital affairs. The chipmaker\u2019s stock fell to $148.80 per share after the opening bell, down 14.4 percent from closing on Wednesday. Nvidia ",
+    "tags": [
+      "Semiconductors",
+      "Taxes"
+    ],
+    "tickers": [
+      "NVDA"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/6215959-jensen-huang-resigns-nvidia-stock-drops/",
+    "published_iso": "2026-11-12T15:23:48+00:00",
+    "time_ago": "51m ago"
+  },
+  {
+    "id": "415058ace3ba",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Watch live: RFK Jr., Collins discuss veterans' mental health. Health and Human Services Secretary Robert F. Kennedy Jr. and Veterans Affairs Secretary Doug Collins are set to hold a joint press conference Thursday focused on veterans\u2019 mental health. The event comes one day after Veterans Day, as the Trump administratio",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/video-clips/6215854-watch-live-rfk-jr-doug-collins-veterans-mental-health-ptsd/",
+    "published_iso": "2026-11-12T15:15:13+00:00",
+    "time_ago": "1h ago"
+  },
+  {
     "id": "fd329ce3b1bc",
     "politician": "Federal Register",
     "initials": "FR",
@@ -16,7 +179,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/12/C1-2026-21030/ap1000-design-certification-renewal",
     "published_iso": "2026-11-12T05:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "740126d887ea",
@@ -38,7 +201,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23075/schedules-of-controlled-substances-placement-of-oveporexton-in-schedule-iv",
     "published_iso": "2026-11-12T05:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "027cdf22b7c2",
@@ -60,7 +223,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23073/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures",
     "published_iso": "2026-11-12T05:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "60acb85021f3",
@@ -87,7 +250,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23060/federal-reserve-bank-capital-stock",
     "published_iso": "2026-11-12T05:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "5d82abb3c9bd",
@@ -108,7 +271,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23053/mining-of-pillars",
     "published_iso": "2026-11-12T05:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "f9e951d945c3",
@@ -129,7 +292,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23052/electrical-equipment-for-coal-seams-above-the-water-table",
     "published_iso": "2026-11-12T05:00:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "b133b57737f2",
@@ -150,95 +313,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23051/improving-and-eliminating-regulations-installation-of-foam-generator-systems-in-underground-coal",
     "published_iso": "2026-11-12T05:00:00+00:00",
-    "time_ago": "2h ago"
-  },
-  {
-    "id": "f0bd8094386a",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "GOP senator feels 'strongly' Jensen Huang should resign at Nvidia. Sen. Kevin Cramer (R-N.D.) said he feels \u201cstrongly\u201d that Nvidia CEO Jensen Huang should resign following reports alleging the tech leader had an \"intimate relationship\u201d with an accused Chinese spy and another with an Nvidia executive who reported to him",
-    "tags": [
-      "China",
-      "Defense"
-    ],
-    "tickers": [
-      "NVDA"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/6215009-senator-cramer-calls-nvidia-ceo-resignation/",
-    "published_iso": "2026-11-12T01:57:13+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "4020ac7278a1",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Tech Oversight Project hands Democrats 100-day blueprint. {beacon} Technology Technology &#8202; The Big Story  What Tech Oversight Project wants to see from Democrats in the first 100 days The Tech Oversight Project is offering a blueprint for Democrats in the new Congress after what it described as the \u201cfirst AI and ",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/technology/6214905-tech-oversight-project-hands-democrats-100-day-blueprint/",
-    "published_iso": "2026-11-12T00:22:02+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "ca674d37af4b",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "high",
-    "content": "Hawley calls for Senate to pass data center moratorium. Sen. Josh Hawley (R-Mo.) is calling on the Senate to pass a moratorium on data center construction in the period before Republicans lose the majority, the first GOP senator to call for the move nationwide. The Missouri senator listed his five priorities for his pa",
-    "tags": [
-      "Defense",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/6214878-hawley-calls-gop-data-center-moratorium/",
-    "published_iso": "2026-11-12T00:08:46+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "0e4a488d214c",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Nvidia stock tanks after report of second Jensen Huang affair. Shares of Nvidia tanked early Wednesday evening, after The New York Times reported that the tech firm\u2019s\u00a0CEO Jensen Huang had a second affair. The company\u2019s stock was down roughly 8.3 percent during after-hours trading, dipping below $160 per share. Nvidia s",
-    "tags": [],
-    "tickers": [
-      "NVDA"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/business/6214833-nvidia-ceo-jesen-huang-affair/",
-    "published_iso": "2026-11-11T23:48:26+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "b814a4a46b96",
@@ -257,7 +332,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h321?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-11T19:43:00+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "8a5312911aac",
@@ -284,7 +359,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-victory-day-for-world-war-i-dd1e/",
     "published_iso": "2026-11-11T19:30:08+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "546921616a94",
@@ -305,7 +380,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h320?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-11T18:04:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "335ed27105f2",
@@ -327,212 +402,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-statement-on-transition-to-ranking-member-of-the-help-committee/",
     "published_iso": "2026-11-11T18:03:00+00:00",
-    "time_ago": "13h ago"
-  },
-  {
-    "id": "e67ceca5ac61",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hoge Brett Widney received 403,225 shares of Newton Golf Company, Inc. (NWTG) \u00b7 $1.24/share \u00b7 $499,999 total \u00b7 Nov 10",
-    "tags": [
-      "Trade"
-    ],
-    "tickers": [
-      "NWTG"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1966393/000149315226051085/0001493152-26-051085-index.htm",
-    "published_iso": "2026-11-11T02:56:20+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "69e5217a8e11",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hanson Michael J. acquired/disposed 150,000 shares of Critical Metals Corp. (CRMLW) \u00b7 Nov 10",
-    "tags": [
-      "Big Tech",
-      "Insider Trade"
-    ],
-    "tickers": [
-      "CRMLW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2075834/000121390026118235/0001213900-26-118235-index.htm",
-    "published_iso": "2026-11-11T02:49:50+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "eb621cddbb59",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Sage Antony William Paul acquired/disposed 5,193,825 shares of Critical Metals Corp. (CRMLW) \u00b7 Nov 10 ($0 across all blocks)",
-    "tags": [
-      "Big Tech",
-      "Insider Trade"
-    ],
-    "tickers": [
-      "CRMLW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2119453/000121390026118234/0001213900-26-118234-index.htm",
-    "published_iso": "2026-11-11T02:49:27+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "40337096479b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Zhernov Mykhailo acquired/disposed 935,024 shares of Critical Metals Corp. (CRMLW) \u00b7 Nov 10 ($0 across all blocks)",
-    "tags": [
-      "Big Tech",
-      "Insider Trade"
-    ],
-    "tickers": [
-      "CRMLW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2075518/000121390026118233/0001213900-26-118233-index.htm",
-    "published_iso": "2026-11-11T02:49:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "4028cf206b69",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Day Malcolm Raymond acquired/disposed 2,945,924 shares of Critical Metals Corp. (CRMLW) \u00b7 Nov 10 ($0 across all blocks)",
-    "tags": [
-      "Big Tech",
-      "Insider Trade"
-    ],
-    "tickers": [
-      "CRMLW"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2076781/000121390026118232/0001213900-26-118232-index.htm",
-    "published_iso": "2026-11-11T02:48:37+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "63acb13dcff4",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Reh Advisors Inc. disposed of 2,350,000 shares of Hf Sinclair Corp (DINO) \u00b7 $109.37/share \u00b7 $257,019,500 total \u00b7 Nov 10 ($489,720,500 across all blocks)",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [
-      "DINO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2027139/000119312526456002/0001193125-26-456002-index.htm",
-    "published_iso": "2026-11-11T02:47:38+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "6eea177e55f3",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Kirby J Scott sold 90,367 shares of United Airlines Holdings, Inc. (UAL) \u00b7 $119.79/share \u00b7 $10,825,063 total \u00b7 Nov 10",
-    "tags": [],
-    "tickers": [
-      "UAL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1249555/000010051726000203/0000100517-26-000203-index.htm",
-    "published_iso": "2026-11-11T02:45:47+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "8d359fd8b846",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Nocella Andrew P sold 7,500 shares of United Airlines Holdings, Inc. (UAL) \u00b7 $119.41/share \u00b7 $895,575 total \u00b7 Nov 10",
-    "tags": [],
-    "tickers": [
-      "UAL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1314824/000010051726000202/0000100517-26-000202-index.htm",
-    "published_iso": "2026-11-11T02:45:42+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "b290af140c20",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Leskinen Michael D. sold 14,711 shares of United Airlines Holdings, Inc. (UAL) \u00b7 $112.59/share \u00b7 $1,656,311 total \u00b7 Nov 10",
-    "tags": [],
-    "tickers": [
-      "UAL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1994659/000010051726000201/0000100517-26-000201-index.htm",
-    "published_iso": "2026-11-11T02:45:36+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "dc1f5170605a",
@@ -725,7 +595,7 @@
     "tickers": [],
     "source": "rss",
     "platform": ".gov",
-    "url": "http://pelosi.house.gov/news/pelosi-update/winning-together",
+    "url": "https://pelosi.house.gov/news/pelosi-update/winning-together",
     "published_iso": "2026-11-06T22:04:12+00:00",
     "time_ago": "5d ago"
   },
@@ -753,7 +623,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
     "published_iso": "2026-11-05T16:00:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "4b991c2e9420",
@@ -857,7 +727,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/america-first-seafood-strategy-charts-course-restoring-us-seafood-dominance",
     "published_iso": "2026-10-28T13:39:42+00:00",
-    "time_ago": "14d ago"
+    "time_ago": "15d ago"
   },
   {
     "id": "cfb78ede1c08",
@@ -883,7 +753,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
     "published_iso": "2026-10-16T15:00:00+00:00",
-    "time_ago": "26d ago"
+    "time_ago": "27d ago"
   },
   {
     "id": "229838d4b313",
@@ -928,29 +798,6 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
     "published_iso": "2026-10-09T14:00:00+00:00",
-    "time_ago": "33d ago"
-  },
-  {
-    "id": "48db85994cba",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm\u2019s failure to sufficiently detect and report certain suspicious activity related to money laundering. Federal Reserve Board announces enforcement action against American Express Company to address",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "AXP"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
-    "published_iso": "2026-10-08T20:30:00+00:00",
     "time_ago": "34d ago"
   },
   {
@@ -975,7 +822,7 @@
     ],
     "source": "rss",
     "platform": ".gov",
-    "url": "http://pelosi.house.gov/news/pelosi-update/working-families-first",
+    "url": "https://pelosi.house.gov/news/pelosi-update/working-families-first",
     "published_iso": "2026-10-03T21:13:42+00:00",
     "time_ago": "39d ago"
   },
@@ -1099,7 +946,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "112d ago"
+    "time_ago": "113d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -1120,7 +967,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "184d ago"
+    "time_ago": "185d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1146,7 +993,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "190d ago"
+    "time_ago": "191d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1168,7 +1015,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "198d ago"
+    "time_ago": "199d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1192,7 +1039,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "226d ago"
+    "time_ago": "227d ago"
   },
   {
     "id": "432e035b915b",
@@ -1232,7 +1079,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "271d ago"
+    "time_ago": "272d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1251,7 +1098,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "271d ago"
+    "time_ago": "272d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1296,6 +1143,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "330d ago"
+    "time_ago": "331d ago"
   }
 ]
