@@ -1,6 +1,47 @@
 [
   {
-    "id": "1e8701db11d6",
+    "id": "88c3db4169e4",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "medium",
+    "content": "Minutes of the Federal Open Market Committee, October 27-28, 2026. Minutes of the Federal Open Market Committee, October 27-28, 2026",
+    "tags": [],
+    "tickers": [],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+    "published_iso": "2026-11-18T19:00:00+00:00",
+    "time_ago": "3m ago"
+  },
+  {
+    "id": "7b715d923fc0",
+    "politician": "U.S. Trade Rep.",
+    "initials": "USTR",
+    "role": "Office of the U.S. Trade Representative",
+    "color": {
+      "bg": "#1a0a1a",
+      "fg": "#d8b4fe"
+    },
+    "severity": "high",
+    "content": "Ambassador Greer Champions America First Trade Policy in Virtual Remarks for the Responsible Business Alliance\u2019s Annual Conference. Ambassador Greer Champions America First Trade Policy in Virtual Remarks for the Responsible Business Alliance\u2019s Annual Conference \n  pbrouillette  \n  Wed, 11/18/2026 - 13:41 \n \n\n         ",
+    "tags": [
+      "Trade",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "ustr",
+    "platform": "USTR",
+    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ambassador-greer-champions-america-first-trade-policy-virtual-remarks-responsible-business-alliances",
+    "published_iso": "2026-11-18T18:41:05+00:00",
+    "time_ago": "22m ago"
+  },
+  {
+    "id": "53662d6850b1",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -9,18 +50,61 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "House Democrats warn Lutnick\u2019s family business to preserve all Nvidia records. House Democrats are probing whether ties between the family businesses of Commerce Secretary Howard Lutnick and Nvidia influenced the Trump administration\u2019s actions on China.  In a letter sent Tuesday to Brandon Lutnick, the Commerce secreta",
+    "content": "Ron Johnson: Remark about shutting down Social Security was 'imprecise'. Sen. Ron Johnson (R-Wis.), who chairs the Senate Budget Committee, said there is \u201cno way to fix\u201d Social Security, calling for it to be shut down, but later clarified that his comments were \u201cimprecise.\u201d \"At this point, there's really no way to fix ",
     "tags": [
-      "China"
+      "Taxes"
     ],
-    "tickers": [
-      "NVDA"
-    ],
+    "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/6226793-house-investigates-commerce-secretary-conflicts/",
-    "published_iso": "2026-11-18T09:45:00+00:00",
-    "time_ago": "54m ago"
+    "url": "https://thehill.com/homenews/senate/6228225-ron-johnson-social-security-ponzi/",
+    "published_iso": "2026-11-18T18:24:22+00:00",
+    "time_ago": "39m ago"
+  },
+  {
+    "id": "c928061ff5be",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "H.R. 9640: Earth MRI Reauthorization Act of 2026. Vote: Passed 396/14",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h326?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-11-18T17:54:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "0cc69373c4c8",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "NEW: At least 9 companies are using tariff refunds to hand out corporate bonuses instead of repaying shoppers.\n \nTariffs are expected to cost American families $2,500 this year alone.\n \nAnd instead of giving YOU your money back, big businesses are keeping it for themselves.",
+    "tags": [
+      "Trade"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3n2lrw34huc2q",
+    "published_iso": "2026-11-18T14:38:48.797000+00:00",
+    "time_ago": "4h ago"
   },
   {
     "id": "fe927c35bb58",
@@ -41,7 +125,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/18/C1-2026-22307/airworthiness-directives-brp-rotax-gmbh-and-co-kg-formerly-brp-powertrain-gmbh-and-co-kg-and",
     "published_iso": "2026-11-18T05:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "530608ff5c8a",
@@ -63,7 +147,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23530/automatic-enrollment-requirements-under-section-414a",
     "published_iso": "2026-11-18T05:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "5d9b846ad2b9",
@@ -84,7 +168,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23525/accepted-means-of-compliance-airworthiness-standards-normal-category-airplanes",
     "published_iso": "2026-11-18T05:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "50c9ff4539fa",
@@ -105,7 +189,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23522/protecting-consumers-from-sim-swap-and-port-out-fraud",
     "published_iso": "2026-11-18T05:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "0164bc24ef0e",
@@ -126,7 +210,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23477/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-general-category-december-quota",
     "published_iso": "2026-11-18T05:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "0e5356244248",
@@ -147,7 +231,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23475/pacific-island-fisheries-longline-retention-prohibition-striped-marlin-in-the-western-and-central",
     "published_iso": "2026-11-18T05:00:00+00:00",
-    "time_ago": "5h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "52aba74499bc",
@@ -169,32 +253,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23453/reserve-requirements-of-depository-institutions",
     "published_iso": "2026-11-18T05:00:00+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "141fa7c7a3df",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "Huang agrees to testify before Senate Banking panel. Former Nvidia CEO Jensen Huang has agreed to testify before the Senate Banking Committee, a spokesperson for Chair Tim Scott (R-S.C.) confirmed Tuesday. Lawmakers have ramped up scrutiny of Huang\u2019s alleged extramarital affair with suspected Chinese spy Alice Huang, w",
-    "tags": [
-      "China",
-      "Banking",
-      "Regulation"
-    ],
-    "tickers": [
-      "NVDA"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/6227038-jensen-huang-senate-testify/",
-    "published_iso": "2026-11-18T03:48:10+00:00",
-    "time_ago": "6h ago"
+    "time_ago": "14h ago"
   },
   {
     "id": "34dec4879435",
@@ -215,138 +274,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/11/17/mary-peltola-wins-alaska-senate-01172129",
     "published_iso": "2026-11-18T03:24:10+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "34cb9b762de2",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Congress agrees on civilian plane locator mandate after deadly American Airlines-Black Hawk crash. \u201cWhen military aircraft fly in the same airspace, they must meet the same standards as everyone else.\"",
-    "tags": [
-      "Defense",
-      "Taxes"
-    ],
-    "tickers": [
-      "AAL"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/6226791-congress-civilian-plane-locator-mandate-after-deadly-american-airlines-black-hawk-crash/",
-    "published_iso": "2026-11-18T03:16:13+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "f978b4526978",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hromyk Andrew acquired/disposed 311,114 shares of Clearone Inc (CLRO) \u00b7 $4.00/share \u00b7 $1,244,456 total \u00b7 Nov 17 ($1,999,996 across all blocks)",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [
-      "CLRO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2057383/000149315226052957/0001493152-26-052957-index.htm",
-    "published_iso": "2026-11-18T02:51:57+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "4200c83ae6f5",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Vanzura Elisabeth exercised options for 12,975 shares of Solo Brands, Inc. (SBDS) \u00b7 Nov 17",
-    "tags": [],
-    "tickers": [
-      "SBDS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2051876/000119312526465998/0001193125-26-465998-index.htm",
-    "published_iso": "2026-11-18T02:45:38+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "3e24b7f228bc",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Coffey Laura A exercised options for 17,300 shares of Solo Brands, Inc. (SBDS) \u00b7 Nov 17",
-    "tags": [],
-    "tickers": [
-      "SBDS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1870600/000119312526465992/0001193125-26-465992-index.htm",
-    "published_iso": "2026-11-18T02:41:47+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "c48cea8cc3ce",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Blevins Christopher exercised options for 12,975 shares of Solo Brands, Inc. (SBDS) \u00b7 Nov 17",
-    "tags": [],
-    "tickers": [
-      "SBDS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2071214/000119312526465991/0001193125-26-465991-index.htm",
-    "published_iso": "2026-11-18T02:41:31+00:00",
-    "time_ago": "7h ago"
-  },
-  {
-    "id": "b349aa2baab3",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Moe Christopher R. exercised options for 13,533 shares of Red Cat Holdings, Inc. (RCAT) \u00b7 Nov 17",
-    "tags": [],
-    "tickers": [
-      "RCAT"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1930171/000149315226052952/0001493152-26-052952-index.htm",
-    "published_iso": "2026-11-18T02:37:56+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "15h ago"
   },
   {
     "id": "2c86ef7795f3",
@@ -365,7 +293,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h325?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-18T00:05:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "634a4e197587",
@@ -384,7 +312,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h324?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-17T23:56:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "8ce37721bfc8",
@@ -403,7 +331,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s265?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-17T19:15:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "002655c1c8eb",
@@ -427,34 +355,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/11/17/cornyn-trump-nvidia-corruption-perceptions-01170190",
     "published_iso": "2026-11-17T19:13:36+00:00",
-    "time_ago": "15h ago"
-  },
-  {
-    "id": "76851ae66fea",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "American families are expected to pay $2,500 more this year because of Donald Trump's chaotic tariffs.\n \nMeanwhile, big corporations have gotten $100 BILLION+ in tariff refunds.\n \nWhere's YOUR money?",
-    "tags": [
-      "Trade",
-      "Regulation"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3n2jpw4fkos2c",
-    "published_iso": "2026-11-17T18:57:43.182000+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "6bf391793899",
@@ -480,30 +381,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3n2jprywpkc2s",
     "published_iso": "2026-11-17T18:55:25.333000+00:00",
-    "time_ago": "15h ago"
-  },
-  {
-    "id": "59e54074373f",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "Donald Trump has reportedly traded NVIDIA stock at least 103 times in the past 2 years.\n \nIf the President won\u2019t divest, Congress should make him.\n\nWe need to ban the President, Vice President, and every Member of Congress from owning and trading individual stocks.",
-    "tags": [
-      "Trade"
-    ],
-    "tickers": [
-      "NVDA"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3n2je4bywac2c",
-    "published_iso": "2026-11-17T15:26:25.484000+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "46e5aadd2400",
@@ -591,51 +469,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ambassador-greer-pens-letter-editor-wall-street-journal-how-tariffs-are-advancing-americans-long",
     "published_iso": "2026-11-16T14:58:11+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "5bc65a7e520b",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "low",
-    "content": "ICYMI: Secretary Duffy\u2019s Full Sunday Circuit Outlines Ground Stop Response and the Path Forward. This morning, Secretary of Transportation Sean Duffy appeared on all five Sunday shows to level with the American people about Friday\u2019s nationwide ground stop. Secretary Duffy laid out the Trump Administration\u2019s decisive ac",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/releases/2026/11/icymi-secretary-duffys-full-sunday-circuit-outlines-ground-stop-response-and-the-path-forward/",
-    "published_iso": "2026-11-15T21:07:34+00:00",
     "time_ago": "2d ago"
-  },
-  {
-    "id": "41991a622bb8",
-    "politician": "Politico",
-    "initials": "PO",
-    "role": "Political News",
-    "color": {
-      "bg": "#1a0a0a",
-      "fg": "#fca5a5"
-    },
-    "severity": "medium",
-    "content": "Democrat Jonathan Kreiss-Tomkins flips Alaska\u2019s gubernatorial seat. It\u2019s the first time Alaskans have elected a Democrat to the corner office in over two decades",
-    "tags": [
-      "Agriculture",
-      "Defense",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "politico",
-    "platform": "Politico",
-    "url": "https://www.politico.com/news/2026/11/14/jonathan-kreiss-tomkins-wins-alaska-governor-01166573",
-    "published_iso": "2026-11-14T05:07:08+00:00",
-    "time_ago": "4d ago"
   },
   {
     "id": "6e2afd099272",
@@ -695,25 +529,6 @@
     "time_ago": "5d ago"
   },
   {
-    "id": "2ff78f22e313",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On the Nomination PN1181-1: Gregory Carl Cook, of Alabama, to be United States District Judge for the Northern District of Alabama. Vote: Nomination Confirmed 49/27",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s260?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-11-12T19:03:00+00:00",
-    "time_ago": "5d ago"
-  },
-  {
     "id": "185361576e6b",
     "politician": "Federal Reserve",
     "initials": "FED",
@@ -737,7 +552,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
     "published_iso": "2026-11-12T18:30:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "d905f181bdf8",
@@ -763,7 +578,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
     "published_iso": "2026-11-12T17:45:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "60feb2f302c2",
@@ -789,7 +604,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
     "published_iso": "2026-11-12T16:00:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "335ed27105f2",
@@ -811,7 +626,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-statement-on-transition-to-ranking-member-of-the-help-committee/",
     "published_iso": "2026-11-11T18:03:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "4f8428731517",
@@ -884,7 +699,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
     "published_iso": "2026-11-05T16:00:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "497d29c80cd0",
@@ -911,55 +726,6 @@
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
     "published_iso": "2026-10-29T20:30:00+00:00",
     "time_ago": "19d ago"
-  },
-  {
-    "id": "dcd00aa841df",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "Federal Reserve issues FOMC statement. Federal Reserve issues FOMC statement",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-    "published_iso": "2026-10-28T18:00:00+00:00",
-    "time_ago": "20d ago"
-  },
-  {
-    "id": "759761ff4192",
-    "politician": "U.S. Trade Rep.",
-    "initials": "USTR",
-    "role": "Office of the U.S. Trade Representative",
-    "color": {
-      "bg": "#1a0a1a",
-      "fg": "#d8b4fe"
-    },
-    "severity": "critical",
-    "content": "America First Seafood Strategy Charts Course to Restoring U.S. Seafood Dominance. America First Seafood Strategy Charts Course to Restoring U.S. Seafood Dominance \n  myarbrough  \n  Wed, 10/28/2026 - 09:39 \n \n\n               WASHINGTON  \u2013 In honor of National Seafood Month, the White House unveiled the historic    Ameri",
-    "tags": [
-      "Trade",
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "ustr",
-    "platform": "USTR",
-    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/america-first-seafood-strategy-charts-course-restoring-us-seafood-dominance",
-    "published_iso": "2026-10-28T13:39:42+00:00",
-    "time_ago": "20d ago"
   },
   {
     "id": "fba941a53e33",
@@ -1035,7 +801,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "102d ago"
+    "time_ago": "103d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -1064,7 +830,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "117d ago"
+    "time_ago": "118d ago"
   },
   {
     "id": "de38f5381391",
@@ -1085,7 +851,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "118d ago"
+    "time_ago": "119d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -1107,7 +873,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "118d ago"
+    "time_ago": "119d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -1128,7 +894,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "190d ago"
+    "time_ago": "191d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1154,7 +920,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "196d ago"
+    "time_ago": "197d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1176,7 +942,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "204d ago"
+    "time_ago": "205d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1200,7 +966,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "232d ago"
+    "time_ago": "233d ago"
   },
   {
     "id": "432e035b915b",
@@ -1219,7 +985,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "237d ago"
+    "time_ago": "238d ago"
   },
   {
     "id": "00f579ee8f55",
@@ -1240,7 +1006,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "277d ago"
+    "time_ago": "278d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1259,7 +1025,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "277d ago"
+    "time_ago": "278d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1285,7 +1051,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "299d ago"
+    "time_ago": "300d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1304,6 +1070,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "336d ago"
+    "time_ago": "337d ago"
   }
 ]
