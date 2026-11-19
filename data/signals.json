@@ -1,202 +1,211 @@
 [
   {
-    "id": "6e59e6bb363c",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "dc4376efd31b",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
     },
-    "severity": "medium",
-    "content": "Ainscow Robert sold 67,500 shares of Asp Isotopes Inc. (ASPI) \u00b7 $1.57/share \u00b7 $105,975 total \u00b7 Nov 18",
-    "tags": [],
-    "tickers": [
-      "ASPI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1951275/000147793226007158/0001477932-26-007158-index.htm",
-    "published_iso": "2026-11-19T02:59:59+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "0969aabd73dc",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "medium",
-    "content": "Social Security raise: What's left after the Medicare premium hike?. The math looks better for retirees in 2027 than it did this year",
+    "severity": "critical",
+    "content": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp. Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
     "tags": [
-      "Healthcare"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/6229319-social-security-raise-whats-left-after-the-medicare-premium-hike/",
-    "published_iso": "2026-11-19T02:48:14+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "48c684ed7e29",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Benfer David bought 30,000 shares of Stereotaxis, Inc. (STXS) \u00b7 $0.83/share \u00b7 $24,870 total \u00b7 Nov 18",
-    "tags": [
+      "Banking",
       "Taxes"
     ],
     "tickers": [
-      "STXS"
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1325119/000149315226053131/0001493152-26-053131-index.htm",
-    "published_iso": "2026-11-19T02:45:04+00:00",
-    "time_ago": "5h ago"
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
+    "published_iso": "2026-11-19T16:00:00+00:00",
+    "time_ago": "1h ago"
   },
   {
-    "id": "1c8ef6b57222",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "3857f7cafc35",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Menawat Arun Swarup bought 121,561 shares of Stereotaxis, Inc. (STXS) \u00b7 $0.82/share \u00b7 $99,984 total \u00b7 Nov 18",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "STXS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1685893/000149315226053130/0001493152-26-053130-index.htm",
-    "published_iso": "2026-11-19T02:45:02+00:00",
-    "time_ago": "5h ago"
-  },
-  {
-    "id": "3c7a4a8fdd71",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Ramahi Salam received 1,296 shares of Proto Labs Inc (PRLB) \u00b7 Nov 18",
-    "tags": [],
-    "tickers": [
-      "PRLB"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2153577/000162828026074938/0001628280-26-074938-index.htm",
-    "published_iso": "2026-11-19T02:38:14+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "d94a35312cee",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Coyne Jeffrey B withheld (tax) 2,921 shares of Mediaalpha, Inc. (MAX) \u00b7 $14.71/share \u00b7 $42,968 total \u00b7 Nov 18 ($219,429 across all blocks)",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [
-      "MAX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1818383/000181838326000288/0001818383-26-000288-index.htm",
-    "published_iso": "2026-11-19T02:26:38+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "ea632eb2d1a5",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Yeh Kuanling Amy exercised options for 5,303 shares of Mediaalpha, Inc. (MAX) \u00b7 Nov 18 ($0 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "MAX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1829969/000181838326000287/0001818383-26-000287-index.htm",
-    "published_iso": "2026-11-19T02:26:32+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "b47948789b65",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Cramer Keith exercised options for 5,303 shares of Mediaalpha, Inc. (MAX) \u00b7 Nov 18 ($174,714 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "MAX"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1829989/000181838326000286/0001818383-26-000286-index.htm",
-    "published_iso": "2026-11-19T02:26:27+00:00",
-    "time_ago": "6h ago"
-  },
-  {
-    "id": "8673003d0c9e",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
     },
     "severity": "high",
-    "content": "Musk on midterms spending: 'I feel pretty foolish'. Tesla CEO Elon Musk on Wednesday said he feels \"pretty foolish\" after he spent $442 million toward Republican campaigns in the 2026 midterm elections, where the party saw sweeping losses to Democrats. Musk, the world's richest person, told New York Times columnist And",
+    "content": "H.R. 4464: Preventive Health Savings Act. Vote: Passed 401/0",
     "tags": [],
-    "tickers": [
-      "TSLA"
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/h327?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-11-19T14:43:00+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "f37ac4b0f905",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Airworthiness Directives; General Atomics AeroTec Systems GmbH (Type Certificate Previously Held by RUAG Aerospace Services GmbH) Airplanes. The FAA is adopting a new airworthiness directive (AD) for all General Atomics AeroTec Systems GmbH (General Atomics) Model Dornier 228-100, Dornier 228-101, Dornier 228-200, Dorn",
+    "tags": [],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23633/airworthiness-directives-general-atomics-aerotec-systems-gmbh-type-certificate-previously-held-by",
+    "published_iso": "2026-11-19T05:00:00+00:00",
+    "time_ago": "12h ago"
+  },
+  {
+    "id": "17c3e7cd3435",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Health and Human Services Acquisition Regulations; Correction. This document corrects technical and typographical errors in the final rule that appeared in the Federal Register on November 18, 2015, titled &quot;Health and Human Services Acquisition Regulations.&quot;",
+    "tags": [
+      "Regulation"
     ],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/campaign/6229195-musk-regrets-gop-spending/",
-    "published_iso": "2026-11-19T01:11:24+00:00",
-    "time_ago": "7h ago"
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23617/health-and-human-services-acquisition-regulations-correction",
+    "published_iso": "2026-11-19T05:00:00+00:00",
+    "time_ago": "12h ago"
+  },
+  {
+    "id": "ed006427f9d2",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "low",
+    "content": "Domestic Competitive Products Pricing and Mailing Standards Changes. The Postal Service is amending Mailing Standards of the United States Postal Service, Domestic Mail Manual (DMM[supreg]), to reflect changes to prices and certain mailing standards changes scheduled for competitive products",
+    "tags": [],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23595/domestic-competitive-products-pricing-and-mailing-standards-changes",
+    "published_iso": "2026-11-19T05:00:00+00:00",
+    "time_ago": "12h ago"
+  },
+  {
+    "id": "5d1eb4114658",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Air Plan Approval; Reasonably Available Control Technology (RACT) for Volatile Organic Compounds (VOC) Control Technique Guidelines (CTG) Under the 2008 and 2015 Ozone National Ambient Air Quality Standards (NAAQS). The Environmental Protection Agency (EPA) is approving four State implementation plan (SIP) revisions su",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23583/air-plan-approval-reasonably-available-control-technology-ract-for-volatile-organic-compounds-voc",
+    "published_iso": "2026-11-19T05:00:00+00:00",
+    "time_ago": "12h ago"
+  },
+  {
+    "id": "a1bd2f47d7c7",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "critical",
+    "content": "Approval and Promulgation of State Air Quality Plans for Designated Facilities and Pollutants; Texas; Control of Emissions From Existing Municipal Solid Waste Landfills. Pursuant to the Federal Clean Air Act (CAA or the Act), the Environmental Protection Agency (EPA) is approving the CAA section 111(d) State plan submi",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23580/approval-and-promulgation-of-state-air-quality-plans-for-designated-facilities-and-pollutants-texas",
+    "published_iso": "2026-11-19T05:00:00+00:00",
+    "time_ago": "12h ago"
+  },
+  {
+    "id": "e891b8805d52",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Air Plan Revisions; California; San Joaquin Valley Unified Air Pollution Control District; New Source Review; Stationary Source Permits. The Environmental Protection Agency (EPA) is finalizing a limited approval and limited disapproval of three permitting rules as a revision to the San Joaquin Valley Unified Air Pollut",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23572/air-plan-revisions-california-san-joaquin-valley-unified-air-pollution-control-district-new-source",
+    "published_iso": "2026-11-19T05:00:00+00:00",
+    "time_ago": "12h ago"
+  },
+  {
+    "id": "c5d6534fe112",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "critical",
+    "content": "Safety Zones; Annual Events Requiring Safety Zones in the Captain of the Port Lake Michigan Zone-Magnificent Mile Fireworks Display. The Coast Guard will enforce a safety zone for the Magnificent Mile Fireworks Display on November 21, 2026, to provide for the safety of life on navigable waterways during this fireworks ",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23568/safety-zones-annual-events-requiring-safety-zones-in-the-captain-of-the-port-lake-michigan",
+    "published_iso": "2026-11-19T05:00:00+00:00",
+    "time_ago": "12h ago"
+  },
+  {
+    "id": "939288668a18",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "critical",
+    "content": "Safety Zone; Hackensack River, Kearny and Secaucus, NJ. The Coast Guard is establishing a temporary safety zone for navigable waters on the Hackensack River, in Kearny and Secaucus, NJ. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with the demolit",
+    "tags": [],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23567/safety-zone-hackensack-river-kearny-and-secaucus-nj",
+    "published_iso": "2026-11-19T05:00:00+00:00",
+    "time_ago": "12h ago"
   },
   {
     "id": "1afaebf9d188",
@@ -215,26 +224,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3n2mn7hvgnc2j",
     "published_iso": "2026-11-18T22:47:15.216000+00:00",
-    "time_ago": "9h ago"
-  },
-  {
-    "id": "2261b4b4266a",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "Anthropic is planning to IPO even as the company warns of \u201cexistential risks to humanity\u201d and fails to answer for the potential threats to Americans' retirements and the entire financial system if this IPO goes awry. \n  \nMeanwhile, Trump's regulators are asleep at the switch. \n  \nThe SEC must protect investors and Cong",
-    "tags": [],
-    "tickers": [],
-    "source": "twitter",
-    "platform": "Twitter/X",
-    "url": "http://nitter.mizuki.st/SenWarren/status/2123161776615272625#m",
-    "published_iso": "2026-11-18T21:09:48+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "18h ago"
   },
   {
     "id": "de40b3ccfdde",
@@ -263,7 +253,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-gillibrand-colleagues-urge-treasury-to-give-state-stablecoin-issuers-equal-footing-with-federal-issuers/",
     "published_iso": "2026-11-18T19:46:16+00:00",
-    "time_ago": "12h ago"
+    "time_ago": "21h ago"
   },
   {
     "id": "88c3db4169e4",
@@ -282,7 +272,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
     "published_iso": "2026-11-18T19:00:00+00:00",
-    "time_ago": "13h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "7b715d923fc0",
@@ -304,7 +294,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ambassador-greer-champions-america-first-trade-policy-virtual-remarks-responsible-business-alliances",
     "published_iso": "2026-11-18T18:41:05+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "22h ago"
   },
   {
     "id": "a59ffa905f3d",
@@ -323,7 +313,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s268?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-18T18:23:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "c928061ff5be",
@@ -342,7 +332,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h326?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-18T17:54:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "aef3206faf32",
@@ -361,7 +351,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s267?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-18T17:42:00+00:00",
-    "time_ago": "14h ago"
+    "time_ago": "23h ago"
   },
   {
     "id": "d7b859d7348a",
@@ -380,7 +370,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s266?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-18T16:50:00+00:00",
-    "time_ago": "15h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "51d2bb52a8e0",
@@ -406,202 +396,6 @@
     "platform": "Twitter/X",
     "url": "http://nitter.mizuki.st/SenLBR/status/2123095873659838727#m",
     "published_iso": "2026-11-18T16:47:56+00:00",
-    "time_ago": "15h ago"
-  },
-  {
-    "id": "0cc69373c4c8",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "NEW: At least 9 companies are using tariff refunds to hand out corporate bonuses instead of repaying shoppers.\n \nTariffs are expected to cost American families $2,500 this year alone.\n \nAnd instead of giving YOU your money back, big businesses are keeping it for themselves.",
-    "tags": [
-      "Trade"
-    ],
-    "tickers": [
-      "NVDA",
-      "TSM",
-      "QCOM",
-      "AAPL"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3n2lrw34huc2q",
-    "published_iso": "2026-11-18T14:38:48.797000+00:00",
-    "time_ago": "18h ago"
-  },
-  {
-    "id": "fe927c35bb58",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Airworthiness Directives; BRP-Rotax GmbH & Co KG (Formerly BRP-POWERTRAIN GMBH & CO KG and Bombardier-Rotax GmbH) Engines",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/11/18/C1-2026-22307/airworthiness-directives-brp-rotax-gmbh-and-co-kg-formerly-brp-powertrain-gmbh-and-co-kg-and",
-    "published_iso": "2026-11-18T05:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "530608ff5c8a",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Automatic Enrollment Requirements Under Section 414A. This document sets forth final regulations that provide guidance with respect to the automatic enrollment requirements that apply to certain retirement plans. The regulations reflect statutory changes made by the SECURE 2.0 Act of 2022 requiring that certain cash or",
-    "tags": [
-      "Regulation",
-      "Insider Trade"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23530/automatic-enrollment-requirements-under-section-414a",
-    "published_iso": "2026-11-18T05:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "5d9b846ad2b9",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Accepted Means of Compliance; Airworthiness Standards: Normal Category Airplanes. This document announces the availability of ASTM International (ASTM) consensus standards for use as an FAA-accepted means of compliance (MOC) to the applicable airworthiness standards for normal category airplanes. The FAA accepts ASTM F",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23525/accepted-means-of-compliance-airworthiness-standards-normal-category-airplanes",
-    "published_iso": "2026-11-18T05:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "50c9ff4539fa",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Protecting Consumers From SIM-Swap and Port-Out Fraud. In this document, the Wireline Competition Bureau (Bureau) announces that the Office of Management and Budget (OMB) has approved, for a period of three years, the information collection associated with Telephone Number Portability. This document is consistent with ",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23522/protecting-consumers-from-sim-swap-and-port-out-fraud",
-    "published_iso": "2026-11-18T05:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "0164bc24ef0e",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; General Category December Quota Transfer. NMFS is adjusting the Atlantic bluefin tuna (BFT) General category December 2026 time period subquota by transferring 26 metric tons (mt) of quota from the Reserve category. This action results in a total adjus",
-    "tags": [
-      "Insider Trade"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23477/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-general-category-december-quota",
-    "published_iso": "2026-11-18T05:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "0e5356244248",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Pacific Island Fisheries; Longline Retention Prohibition; Striped Marlin in the Western and Central Pacific Ocean North of the Equator. NMFS is prohibiting retention of Western and Central North Pacific Ocean (WCNPO) striped marlin (Kajikia audax) by vessels registered for use under a Hawaii longline limited access per",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23475/pacific-island-fisheries-longline-retention-prohibition-striped-marlin-in-the-western-and-central",
-    "published_iso": "2026-11-18T05:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "52aba74499bc",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Reserve Requirements of Depository Institutions. The Board is amending Regulation D, Reserve Requirements of Depository Institutions, to reflect the annual indexing of the reserve requirement exemption amount and the low reserve tranche for 2027. The annual indexation of these amounts is required notwithstanding the Bo",
-    "tags": [
-      "Banking",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23453/reserve-requirements-of-depository-institutions",
-    "published_iso": "2026-11-18T05:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "34dec4879435",
-    "politician": "Politico",
-    "initials": "PO",
-    "role": "Political News",
-    "color": {
-      "bg": "#1a0a0a",
-      "fg": "#fca5a5"
-    },
-    "severity": "medium",
-    "content": "Mary Peltola unseats Sen. Dan Sullivan, giving Dems a 56-seat Senate majority. It's the first time in 18 years a Democrat has won a Senate race in the state",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "politico",
-    "platform": "Politico",
-    "url": "https://www.politico.com/news/2026/11/17/mary-peltola-wins-alaska-senate-01172129",
-    "published_iso": "2026-11-18T03:24:10+00:00",
     "time_ago": "1d ago"
   },
   {
@@ -688,25 +482,6 @@
     "time_ago": "1d ago"
   },
   {
-    "id": "46e5aadd2400",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "Motion to Invoke Cloture: Capito Amdt. No. 6883. Vote: Cloture Motion Agreed to 70/27",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s264?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-11-16T23:27:00+00:00",
-    "time_ago": "2d ago"
-  },
-  {
     "id": "a41c4c042816",
     "politician": "White House",
     "initials": "WH",
@@ -754,7 +529,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ambassador-greer-pens-letter-editor-wall-street-journal-how-tariffs-are-advancing-americans-long",
     "published_iso": "2026-11-16T14:58:11+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "6e2afd099272",
@@ -851,7 +626,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
     "published_iso": "2026-11-12T16:00:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "335ed27105f2",
@@ -946,33 +721,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
     "published_iso": "2026-11-05T16:00:00+00:00",
-    "time_ago": "13d ago"
-  },
-  {
-    "id": "497d29c80cd0",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia. Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
-    "published_iso": "2026-10-29T20:30:00+00:00",
-    "time_ago": "20d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "fba941a53e33",
@@ -1048,7 +797,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "103d ago"
+    "time_ago": "104d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -1077,7 +826,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "118d ago"
+    "time_ago": "119d ago"
   },
   {
     "id": "de38f5381391",
@@ -1120,7 +869,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "119d ago"
+    "time_ago": "120d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -1141,7 +890,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "191d ago"
+    "time_ago": "192d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1167,7 +916,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "197d ago"
+    "time_ago": "198d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1189,7 +938,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "205d ago"
+    "time_ago": "206d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1213,7 +962,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "233d ago"
+    "time_ago": "234d ago"
   },
   {
     "id": "432e035b915b",
@@ -1253,7 +1002,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "278d ago"
+    "time_ago": "279d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1272,7 +1021,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "278d ago"
+    "time_ago": "279d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1298,7 +1047,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "300d ago"
+    "time_ago": "301d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1317,6 +1066,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "337d ago"
+    "time_ago": "338d ago"
   }
 ]
