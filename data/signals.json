@@ -1,6 +1,6 @@
 [
   {
-    "id": "4f3a8e64b3da",
+    "id": "983793716e58",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,17 +9,19 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Beberman Perry S bought 5,000 shares of Bread Financial Holdings, Inc. (BFH-PA) \u00b7 $21.85/share \u00b7 $109,250 total \u00b7 Nov 20 ($220,400 across all blocks)",
+    "content": "Moore Brian David exercised options for 14,736 shares of Unifi Inc (UFI) \u00b7 Nov 20 ($24,643 across all blocks)",
     "tags": [],
-    "tickers": [],
+    "tickers": [
+      "UFI"
+    ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1869941/000186994126000008/0001869941-26-000008-index.htm",
-    "published_iso": "2026-11-20T13:21:27+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/2009479/000119312526470302/0001193125-26-470302-index.htm",
+    "published_iso": "2026-11-20T21:20:20+00:00",
     "time_ago": "just now"
   },
   {
-    "id": "dc0e7dc5dc8e",
+    "id": "26deaa3f5dac",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -28,166 +30,321 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Barry Richard bought 44,851 shares of Filana Therapeutics, Inc. (FLNA) \u00b7 $0.52/share \u00b7 $23,323 total \u00b7 Nov 20",
+    "content": "Boyd Meredith Suzanne exercised options for 14,280 shares of Unifi Inc (UFI) \u00b7 Nov 20 ($23,885 across all blocks)",
     "tags": [],
     "tickers": [
-      "FLNA"
+      "UFI"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1562371/000143774926037805/0001437749-26-037805-index.htm",
-    "published_iso": "2026-11-20T13:19:32+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/2009657/000119312526470299/0001193125-26-470299-index.htm",
+    "published_iso": "2026-11-20T21:19:59+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "69418f4bf0b6",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Garner Jennifer Anne bought 8,000 shares of Once Upon A Farm, Pbc (OFRM) \u00b7 $11.70/share \u00b7 $93,584 total \u00b7 Nov 20 ($118,011 across all blocks)",
+    "tags": [
+      "Agriculture"
+    ],
+    "tickers": [
+      "OFRM"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/2083657/000090514826005096/0000905148-26-005096-index.htm",
+    "published_iso": "2026-11-20T21:19:30+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "c13c573d29da",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Eaker Andrew James exercised options for 14,280 shares of Unifi Inc (UFI) \u00b7 Nov 20 ($23,885 across all blocks)",
+    "tags": [],
+    "tickers": [
+      "UFI"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1991763/000119312526470298/0001193125-26-470298-index.htm",
+    "published_iso": "2026-11-20T21:19:28+00:00",
+    "time_ago": "1m ago"
+  },
+  {
+    "id": "7c87535ae0b8",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Venezia Patrick J withheld (tax) 25,727 shares of Petco Health & Wellness Company, Inc. (WOOF) \u00b7 $2.69/share \u00b7 $69,206 total \u00b7 Nov 20",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [
+      "WOOF"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1826470/000182647026000077/0001826470-26-000077-index.htm",
+    "published_iso": "2026-11-20T21:19:15+00:00",
     "time_ago": "2m ago"
   },
   {
-    "id": "177f573a85c9",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "ed9d896155d3",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Greer Valerie E sold 10,000 shares of Bread Financial Holdings, Inc. (BFH-PA) \u00b7 $96.78/share \u00b7 $967,800 total \u00b7 Nov 20",
-    "tags": [],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1843064/000184306426000006/0001843064-26-000006-index.htm",
-    "published_iso": "2026-11-20T13:17:01+00:00",
-    "time_ago": "5m ago"
-  },
-  {
-    "id": "c276b1768f4b",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "low",
-    "content": "Japan Post Holdings Co., Ltd. sold 13,650 shares of Aflac Inc (AFL) \u00b7 $125.54/share \u00b7 $1,713,621 total \u00b7 Nov 20 ($1,884,234 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "AFL"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1783464/000110465926130427/0001104659-26-130427-index.htm",
-    "published_iso": "2026-11-20T13:11:08+00:00",
-    "time_ago": "11m ago"
-  },
-  {
-    "id": "17e31acb45d2",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Williams Gregg bought 33,169 shares of Vivani Medical, Inc. (VANI) \u00b7 $1.05/share \u00b7 $34,960 total \u00b7 Nov 20 ($128,325 across all blocks)",
-    "tags": [],
-    "tickers": [
-      "VANI"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1624919/000175392626002210/0001753926-26-002210-index.htm",
-    "published_iso": "2026-11-20T13:00:16+00:00",
-    "time_ago": "22m ago"
-  },
-  {
-    "id": "f33bbc0d731d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Juneau John B bought 9,705 shares of Contango Silver & Gold Inc. (CTGO) \u00b7 $10.03/share \u00b7 $97,341 total \u00b7 Nov 20",
-    "tags": [],
-    "tickers": [
-      "CTGO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1502377/000119312526469338/0001193125-26-469338-index.htm",
-    "published_iso": "2026-11-20T13:00:05+00:00",
-    "time_ago": "22m ago"
-  },
-  {
-    "id": "3771a0db1322",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Nauman Clynton R. bought 7,500 shares of Contango Silver & Gold Inc. (CTGO) \u00b7 $10.06/share \u00b7 $75,450 total \u00b7 Nov 20",
-    "tags": [],
-    "tickers": [
-      "CTGO"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1561036/000119312526469337/0001193125-26-469337-index.htm",
-    "published_iso": "2026-11-20T13:00:04+00:00",
-    "time_ago": "22m ago"
-  },
-  {
-    "id": "374f8d6ceb94",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
-    },
-    "severity": "critical",
-    "content": "The collapse of Trump's blood diesel scheme is a victory for Ukraine. The war still hangs in the balance, but the failure of Trump and Putin to break the sanctions regime is a victory for Ukraine in its gallant fight for survival",
-    "tags": [
-      "Sanctions"
-    ],
-    "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/opinion/international/6228379-russia-blockade-runners-us-sanctions/",
-    "published_iso": "2026-11-20T12:30:00+00:00",
-    "time_ago": "52m ago"
-  },
-  {
-    "id": "1512e84fb63b",
-    "politician": "The Hill",
-    "initials": "TH",
-    "role": "Political News",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#bbf7d0"
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
     },
     "severity": "high",
-    "content": "Thune fears GOP revolt over Medicaid cuts in Pentagon funding push. Senate Majority Leader John Thune (R-S.D.) is leery about advancing a budget reconciliation package to fund the Pentagon as he and other GOP senators fear there will be a revolt within their ranks over reforms projected to reduce Medicaid spending by a",
+    "content": "Federal Reserve announces College Fed Challenge winners. Federal Reserve announces College Fed Challenge winners",
     "tags": [
-      "Defense"
+      "Banking"
     ],
     "tickers": [
-      "UNH",
-      "HCA",
-      "CVS",
-      "LMT"
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+    "published_iso": "2026-11-20T21:15:00+00:00",
+    "time_ago": "6m ago"
+  },
+  {
+    "id": "63ab9be8506a",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Why stock market is tanking despite massive Anthropic IPO. Stocks have taken heavy losses this week, despite Anthropic going public after a record-setting initial public offering (IPO). The Nasdaq composite, which hit an all-time high in early October, is now in the red since the start of the year. As of midafternoon F",
+    "tags": [],
+    "tickers": [],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/business/6234002-stocks-plummet-anthropic-record-ipo/",
+    "published_iso": "2026-11-20T20:51:02+00:00",
+    "time_ago": "30m ago"
+  },
+  {
+    "id": "1fb113ca764b",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "low",
+    "content": "Who is Kirsten Davies, Trump's new cyber chief?. The White House tapped Pentagon chief information officer Kirsten Davies to serve as acting national cyber director Thursday just after firing Sean Cairncross from the role.\u00a0 Davies managed the Defense Department\u2019s cybersecurity and information technology strategy and ha",
+    "tags": [
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/senate/6232138-thune-hesitates-pentagon-budget/",
-    "published_iso": "2026-11-20T11:00:00+00:00",
-    "time_ago": "2h ago"
+    "url": "https://thehill.com/homenews/administration/6234175-trump-names-kirsten-davies-cyber-director/",
+    "published_iso": "2026-11-20T20:12:15+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "d69e999d7a64",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "Motion to Invoke Cloture: Courtney Leigh Coker, of T.X., to be U.S. District Judge for the Northern District of Texas: Courtney Leigh Coker, of Texas, to be United States District Judge for the Northern District of Texas. Vote: Cloture Motion Agreed to 49/43",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s273?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-11-20T17:02:00+00:00",
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "3bda0ac3a9d4",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "critical",
+    "content": "President Trump Taps Pentagon Cyber Chief Kirsten Davies as National Cyber Director. Yesterday, President Donald J. Trump named Kirsten A. Davies to lead the White House Office of the National Cyber Director. A battle-tested cyber leader and the Pentagon\u2019s Chief Information Officer, Davies will drive an America First c",
+    "tags": [
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/",
+    "published_iso": "2026-11-20T16:53:12+00:00",
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "8dd018bb3e64",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "The Trump admin just APPROVED BlackRock\u2019s acquisition of energy utilities.\n \nAt the same time, BlackRock is bankrolling data centers that'll buy electricity from these utilities.\n\nWhat could happen next? Rate hikes on YOU.\n\nTrump is letting Wall Street jack up your energy bill.",
+    "tags": [
+      "Energy",
+      "Banking",
+      "Regulation"
+    ],
+    "tickers": [
+      "BLK"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3n2qz4c37ls2v",
+    "published_iso": "2026-11-20T16:30:52.307000+00:00",
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "f8cda5a4c099",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "high",
+    "content": "On the Nomination PN1272-4: Richard Wesley Bennett, of Texas, to be United States District Judge for the Southern District of Texas. Vote: Nomination Confirmed 49/43",
+    "tags": [],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s272?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-11-20T16:13:00+00:00",
+    "time_ago": "5h ago"
+  },
+  {
+    "id": "40b502bcd963",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "high",
+    "content": "President Trump Brings Home Billions in Economic Growth and Strengthens America\u2019s Security. President Donald J. Trump has concluded his four-day visit to the Philippines and China where he advanced his America First agenda, secured billions in deals that support American workers, ensured a free and open Indo-Pacific th",
+    "tags": [
+      "China",
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security/",
+    "published_iso": "2026-11-20T15:39:53+00:00",
+    "time_ago": "5h ago"
+  },
+  {
+    "id": "7a1d92dead23",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Since Donald Trump took office, more than 5 million people have been cut off from SNAP \u2014 while he and Republicans handed out tax cuts to billionaires.\n\nNow, the Trump Administration is trying to take away school meals from 2 million more kids.",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3n2qvisj7qc2c",
+    "published_iso": "2026-11-20T15:26:17.229000+00:00",
+    "time_ago": "5h ago"
+  },
+  {
+    "id": "cd29f56f7525",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "critical",
+    "content": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances. Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
+    "published_iso": "2026-11-20T15:00:00+00:00",
+    "time_ago": "6h ago"
   },
   {
     "id": "72397d7170f5",
@@ -208,7 +365,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/20/2026-23732/updates-and-amendments-to-the-civil-service-rules",
     "published_iso": "2026-11-20T05:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "3ad4497a426b",
@@ -229,7 +386,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/20/2026-23731/procedures-for-settling-claims",
     "published_iso": "2026-11-20T05:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "eeebaa2513e7",
@@ -250,7 +407,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/20/2026-23730/flsa-claims-and-compliance",
     "published_iso": "2026-11-20T05:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "e66adefa7fc4",
@@ -271,7 +428,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/20/2026-23729/federal-employees-retirement-system-present-value-conversion-factors-for-spouses-of-deceased",
     "published_iso": "2026-11-20T05:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "7576dd83bb2f",
@@ -293,7 +450,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/20/2026-23724/extension-of-import-restrictions-imposed-on-archaeological-and-ethnological-material-of-greece",
     "published_iso": "2026-11-20T05:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "d7d9fd5e0c5c",
@@ -314,7 +471,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/20/2026-23713/implementation-of-havana-act-of-2021",
     "published_iso": "2026-11-20T05:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "66e4a57ebd9e",
@@ -333,7 +490,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/20/2026-23709/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery",
     "published_iso": "2026-11-20T05:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "f3625706b76f",
@@ -354,7 +511,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/20/2026-23700/special-local-regulations-annual-marine-events-on-the-colorado-river-between-davis-dam-bullhead-city",
     "published_iso": "2026-11-20T05:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "16h ago"
   },
   {
     "id": "eb4bc9ef9439",
@@ -373,7 +530,55 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s271?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-20T03:07:00+00:00",
-    "time_ago": "10h ago"
+    "time_ago": "18h ago"
+  },
+  {
+    "id": "54e95dd8385b",
+    "politician": "GovTrack",
+    "initials": "GT",
+    "role": "Congressional Legislation",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#7dd3fc"
+    },
+    "severity": "critical",
+    "content": "H.R. 2347: Survivor Justice Tax Prevention Act. Vote: Bill Passed 62/33",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "govtrack",
+    "platform": "GovTrack",
+    "url": "https://www.govtrack.us/congress/votes/119-2026/s270?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
+    "published_iso": "2026-11-20T02:30:00+00:00",
+    "time_ago": "18h ago"
+  },
+  {
+    "id": "55141450a82b",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "Presidential Message on National Rural Health Day. On National Rural Health Day, we honor the doctors, nurses, first responders, caregivers, and other healthcare professionals who serve millions of Americans in rural communities across our country.&#160; Their work is essential to the strength of our Nation, and my Adm",
+    "tags": [
+      "Healthcare",
+      "Taxes"
+    ],
+    "tickers": [
+      "UNH",
+      "HCA",
+      "CVS"
+    ],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-rural-health-day/",
+    "published_iso": "2026-11-19T22:00:00+00:00",
+    "time_ago": "23h ago"
   },
   {
     "id": "5e1cfab41d1e",
@@ -398,7 +603,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s269?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-19T19:01:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "dc4376efd31b",
@@ -425,7 +630,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
     "published_iso": "2026-11-19T16:00:00+00:00",
-    "time_ago": "21h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "3857f7cafc35",
@@ -444,29 +649,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h327?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-19T14:43:00+00:00",
-    "time_ago": "22h ago"
-  },
-  {
-    "id": "54e95dd8385b",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "critical",
-    "content": "H.R. 2347: Survivor Justice Tax Prevention Act. Vote: Bill Passed 62/33",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s270?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-11-19T14:30:00+00:00",
-    "time_ago": "22h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "de40b3ccfdde",
@@ -495,7 +678,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-gillibrand-colleagues-urge-treasury-to-give-state-stablecoin-issuers-equal-footing-with-federal-issuers/",
     "published_iso": "2026-11-18T19:46:16+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "88c3db4169e4",
@@ -514,7 +697,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
     "published_iso": "2026-11-18T19:00:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "7b715d923fc0",
@@ -536,7 +719,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ambassador-greer-champions-america-first-trade-policy-virtual-remarks-responsible-business-alliances",
     "published_iso": "2026-11-18T18:41:05+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "a59ffa905f3d",
@@ -555,7 +738,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s268?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-18T18:23:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "c928061ff5be",
@@ -574,45 +757,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/h326?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-18T17:54:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "aef3206faf32",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "S.Amdt. 6883 (Capito) to H.R. 2347: In the nature of a substitute.. Vote: Amendment Agreed to 69/27",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s267?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-11-18T17:42:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "d7b859d7348a",
-    "politician": "GovTrack",
-    "initials": "GT",
-    "role": "Congressional Legislation",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#7dd3fc"
-    },
-    "severity": "high",
-    "content": "On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: H.R. 2347). Vote: Motion Agreed to 70/26",
-    "tags": [],
-    "tickers": [],
-    "source": "govtrack",
-    "platform": "GovTrack",
-    "url": "https://www.govtrack.us/congress/votes/119-2026/s266?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
-    "published_iso": "2026-11-18T16:50:00+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "6bf391793899",
@@ -638,7 +783,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3n2jprywpkc2s",
     "published_iso": "2026-11-17T18:55:25.333000+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "54cc4ec945b2",
@@ -667,7 +812,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ambassador-greer-pens-letter-editor-wall-street-journal-how-tariffs-are-advancing-americans-long",
     "published_iso": "2026-11-16T14:58:11+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "6e2afd099272",
@@ -686,7 +831,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
     "published_iso": "2026-11-13T21:15:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "185361576e6b",
@@ -712,7 +857,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
     "published_iso": "2026-11-12T18:30:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "d905f181bdf8",
@@ -738,7 +883,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
     "published_iso": "2026-11-12T17:45:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "60feb2f302c2",
@@ -764,7 +909,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
     "published_iso": "2026-11-12T16:00:00+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "335ed27105f2",
@@ -786,33 +931,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-statement-on-transition-to-ranking-member-of-the-help-committee/",
     "published_iso": "2026-11-11T18:03:00+00:00",
-    "time_ago": "8d ago"
-  },
-  {
-    "id": "4f8428731517",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.. Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
-    "published_iso": "2026-11-09T21:00:00+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "674261c90092",
@@ -836,58 +955,6 @@
     "time_ago": "13d ago"
   },
   {
-    "id": "1236cb0b4c76",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc. Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
-    "published_iso": "2026-11-05T16:00:00+00:00",
-    "time_ago": "14d ago"
-  },
-  {
-    "id": "fba941a53e33",
-    "politician": "Rep. Nancy Pelosi",
-    "initials": "NP",
-    "role": "House Democratic Leader",
-    "color": {
-      "bg": "#1e2a4a",
-      "fg": "#60a5fa"
-    },
-    "severity": "medium",
-    "content": "Working Families First. Working Families First \n\n               Costly Cuts  This week, new provisions of President Trump\u2019s Big Ugly Bill took effect, changing eligibility for SNAP and Medicaid while shifting higher administrative costs onto states. These changes threaten the food assistance and health care that millio",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [
-      "UNH",
-      "HCA",
-      "CVS"
-    ],
-    "source": "rss",
-    "platform": ".gov",
-    "url": "http://pelosi.house.gov/news/pelosi-update/working-families-first",
-    "published_iso": "2026-10-03T21:13:42+00:00",
-    "time_ago": "47d ago"
-  },
-  {
     "id": "f5506a3890fe",
     "politician": "Sen. Rand Paul",
     "initials": "RP",
@@ -907,7 +974,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-six-penny-plan-to-balance-the-federal-budget-in-five-years-3/",
     "published_iso": "2026-09-22T20:41:12+00:00",
-    "time_ago": "58d ago"
+    "time_ago": "59d ago"
   },
   {
     "id": "baf26d52584e",
@@ -935,7 +1002,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "104d ago"
+    "time_ago": "105d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -964,7 +1031,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "119d ago"
+    "time_ago": "120d ago"
   },
   {
     "id": "de38f5381391",
@@ -985,7 +1052,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "120d ago"
+    "time_ago": "121d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -1028,7 +1095,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "192d ago"
+    "time_ago": "193d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1054,7 +1121,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "198d ago"
+    "time_ago": "199d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1076,7 +1143,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "206d ago"
+    "time_ago": "207d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1100,7 +1167,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "234d ago"
+    "time_ago": "235d ago"
   },
   {
     "id": "432e035b915b",
@@ -1119,7 +1186,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "239d ago"
+    "time_ago": "240d ago"
   },
   {
     "id": "00f579ee8f55",
@@ -1140,7 +1207,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "279d ago"
+    "time_ago": "280d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1159,7 +1226,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "279d ago"
+    "time_ago": "280d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1185,7 +1252,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "301d ago"
+    "time_ago": "302d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1204,6 +1271,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "338d ago"
+    "time_ago": "339d ago"
   }
 ]
