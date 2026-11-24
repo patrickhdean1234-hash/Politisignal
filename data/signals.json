@@ -1,6 +1,6 @@
 [
   {
-    "id": "d2b555e82030",
+    "id": "34d0043c122a",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -8,20 +8,25 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "medium",
-    "content": "Raskin probes government benefits to companies affiliated with Donald Trump Jr. firm. Rep. Jamie Raskin (Md.), the top Democrat on the House Judiciary Committee, is expanding his probe into Donald Trump Jr. and an investment firm he partnered with shortly after his father was reelected.  The lawmaker sent letters to th",
+    "severity": "high",
+    "content": "Consumer sentiment surged in November: Conference Board. Consumer confidence spiked upward in November, the Conference Board reported Tuesday. The board\u2019s Consumer Confidence Index rose from 91.9 in October to 103.3 this month, a jump of 11.4 points that exceeded experts\u2019 expectations. Economists told The Wall Street J",
     "tags": [
-      "Regulation"
+      "Banking"
     ],
-    "tickers": [],
+    "tickers": [
+      "JPM",
+      "BAC",
+      "GS",
+      "XLF"
+    ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/homenews/house/6238445-house-democrats-investigate-1789-capital-links/",
-    "published_iso": "2026-11-24T09:45:00+00:00",
-    "time_ago": "23m ago"
+    "url": "https://thehill.com/business/6240686-consumer-confidence-spiked-november/",
+    "published_iso": "2026-11-24T20:04:19+00:00",
+    "time_ago": "33m ago"
   },
   {
-    "id": "47a977681112",
+    "id": "bae796c0b798",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -30,19 +35,44 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Army proceeding with lead detonation on Wednesday. The Army is going ahead with detonating lead-containing munitions in Iowa on Wednesday after President Trump threw additional uncertainty into the controversy on Monday. \u201cWe are proceeding with the controlled removal in full coordination with all state, local and feder",
+    "content": "Live updates: Huang's Nvidia return faces backlash; Iowa governor backs Army's lead detonation date. Lawmakers have expressed frustration with the Trump administration Tuesday following Nvidia co-founder Jensen Huang's reinstatement as the company\u2019s CEO \u2014 a dramatic reversal by the chipmaker\u2019s board following his resig",
+    "tags": [
+      "China",
+      "Semiconductors",
+      "Regulation"
+    ],
+    "tickers": [
+      "NVDA"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/administration/6238916-live-updates-jensen-huang-nvidia-donald-trump-administration-reconciliation-spending-bill-debate/",
+    "published_iso": "2026-11-24T19:57:38+00:00",
+    "time_ago": "40m ago"
+  },
+  {
+    "id": "9e7d5ec4b675",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "DNC holding 12 primary debates, demands pledge against dark money. Democrats need this competition.\u00a0I'm looking forward to that first debate in June",
     "tags": [
       "Taxes"
     ],
     "tickers": [],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/energy-environment/6239030-army-detonates-lead-munitions-iowa/",
-    "published_iso": "2026-11-24T04:06:29+00:00",
-    "time_ago": "6h ago"
+    "url": "https://thehill.com/opinion/lindseys-lens/6240652-dnc-announces-2028-primary-debates/",
+    "published_iso": "2026-11-24T19:44:30+00:00",
+    "time_ago": "53m ago"
   },
   {
-    "id": "0aaf45c1ae43",
+    "id": "b85a505da582",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -50,17 +80,258 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
+    "severity": "critical",
+    "content": "Zelensky seeks reinforcements from Democrats if Trump's diplomacy falters. Ukrainian President Volodymyr Zelensky is seeking reinforcement against his country\u2019s conflict with Russia from Democrats in the new year if President Trump\u2019s diplomacy falters.\u00a0 Zelensky has been vocal about pursuing tougher sanctions against R",
+    "tags": [
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/international/6240565-zelensky-seeks-democratic-reinforcements/",
+    "published_iso": "2026-11-24T19:35:47+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "afb8b36e0208",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
     "severity": "medium",
-    "content": "White House sends Congress 'anomalies' request to keep federal agencies funded. The White House is asking Congress to include billions of dollars in additional funding in a stopgap spending bill to fund federal agencies that lawmakers are expected to take up next month. The 12-page \u201canomalies\u201d request sent Monday, repo",
+    "content": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026. Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+    "tags": [],
+    "tickers": [],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+    "published_iso": "2026-11-24T19:00:00+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "19d44dfc1e54",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "groundworkcollaborative.org/work/amazon/",
+    "tags": [
+      "Big Tech"
+    ],
+    "tickers": [
+      "AMZN"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3n336hrrm7c2p",
+    "published_iso": "2026-11-24T17:33:23.953000+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "d214686c6716",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "high",
+    "content": "1 in 3 Amazon Black Friday \u201cdeals\u201d aren't real deals. \n \nAmazon's been caught pricing items the same or higher during Black Friday than the month leading up to it.\n \nWhile Americans struggle to afford the basics, Amazon is trying to trick them. That\u2019s just plain wrong.",
+    "tags": [
+      "Big Tech"
+    ],
+    "tickers": [
+      "AMZN"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3n336hrrdg22p",
+    "published_iso": "2026-11-24T17:33:23.952000+00:00",
+    "time_ago": "3h ago"
+  },
+  {
+    "id": "cd3fb49bea3b",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Safety Zone; Pasquotank River Harbor, Elizabeth City, NC. The Coast Guard is establishing a temporary safety zone for certain navigable waters on the Pasquotank River, at Elizabeth City, NC. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with an ove",
+    "tags": [],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/11/24/2026-23953/safety-zone-pasquotank-river-harbor-elizabeth-city-nc",
+    "published_iso": "2026-11-24T05:00:00+00:00",
+    "time_ago": "15h ago"
+  },
+  {
+    "id": "1a372c901387",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Amendment of Class D Airspace and Class E Airspace Over Tri-Cities, TN. This action amends Class D and Class E airspace over Tri- Cities, TN. Specifically, this action modifies the Tri-Cities Class D and Class E surface area airspace by expanding the radius and lateral boundaries to the northeast and removing the Tri-C",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/11/24/2026-23948/amendment-of-class-d-airspace-and-class-e-airspace-over-tri-cities-tn",
+    "published_iso": "2026-11-24T05:00:00+00:00",
+    "time_ago": "15h ago"
+  },
+  {
+    "id": "fbdd48a73561",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Airworthiness Directives; The Boeing Company Airplanes. The FAA is superseding Airworthiness Directive (AD) 2026-21- 08, which applied to certain The Boeing Company Model 737-700, -700C, - 800, and -900ER series airplanes. AD 2026-21-08 required a detailed inspection of the left- and right-side form-in-place (FiP) gask",
     "tags": [
       "Regulation"
     ],
+    "tickers": [
+      "BA"
+    ],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/11/24/2026-23926/airworthiness-directives-the-boeing-company-airplanes",
+    "published_iso": "2026-11-24T05:00:00+00:00",
+    "time_ago": "15h ago"
+  },
+  {
+    "id": "e40c08cc67f8",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "critical",
+    "content": "International Proof of Delivery Service. The Postal Service is revising Mailing Standards of the United States Postal Service, International Mail Manual (IMM[supreg]), to reflect changes to product features for Priority Mail International[supreg] (PMI) and to introduce International Proof of Delivery as a new internati",
+    "tags": [],
     "tickers": [],
-    "source": "thehill",
-    "platform": "The Hill",
-    "url": "https://thehill.com/homenews/administration/6238980-white-house-requests-stopgap-funding/",
-    "published_iso": "2026-11-24T03:18:42+00:00",
-    "time_ago": "6h ago"
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/11/24/2026-23917/international-proof-of-delivery-service",
+    "published_iso": "2026-11-24T05:00:00+00:00",
+    "time_ago": "15h ago"
+  },
+  {
+    "id": "ff81a0d71a84",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "IFR Altitudes; Miscellaneous Amendments. This amendment adopts miscellaneous amendments to the required IFR (instrument flight rules) altitudes and changeover points for certain Federal airways, jet routes, or direct routes for which a minimum or maximum en-route authorized IFR altitude is prescribed. This regulatory a",
+    "tags": [
+      "Regulation",
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/11/24/2026-23900/ifr-altitudes-miscellaneous-amendments",
+    "published_iso": "2026-11-24T05:00:00+00:00",
+    "time_ago": "15h ago"
+  },
+  {
+    "id": "54bddbffe1ad",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "high",
+    "content": "Denial of Rehearing Requests by Operation of Law Under the Commission's Rules of Practice and Procedure. The Federal Energy Regulatory Commission (Commission) is revising its regulations addressing the circumstances under which a request for rehearing is denied absent Commission action within a particular time frame. C",
+    "tags": [
+      "Energy",
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/11/24/2026-23884/denial-of-rehearing-requests-by-operation-of-law-under-the-commissions-rules-of-practice-and",
+    "published_iso": "2026-11-24T05:00:00+00:00",
+    "time_ago": "15h ago"
+  },
+  {
+    "id": "4ab5b92ec661",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Airworthiness Directives; Airbus Helicopters. The FAA is superseding Airworthiness Directive (AD) 2025-08-06 which applied to certain Airbus Helicopters Model SA330J helicopters. AD 2025-08-06 required repetitively inspecting for a gap between the main gearbox (MGB) oil cooling fan assembly rotor blade and the upper se",
+    "tags": [
+      "Energy",
+      "Regulation"
+    ],
+    "tickers": [
+      "XOM",
+      "CVX",
+      "COP",
+      "OXY"
+    ],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/11/24/2026-23879/airworthiness-directives-airbus-helicopters",
+    "published_iso": "2026-11-24T05:00:00+00:00",
+    "time_ago": "15h ago"
+  },
+  {
+    "id": "6fa37504fb12",
+    "politician": "Federal Register",
+    "initials": "FR",
+    "role": "Federal Regulations",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#86efac"
+    },
+    "severity": "medium",
+    "content": "Airworthiness Directives; Bell Textron Canada Limited Helicopters. The FAA is adopting a new airworthiness directive (AD) for certain Bell Textron Canada Limited (Bell) Model 429 helicopters. This AD was prompted by reports of premature wear-out of certain spherical bearings due to a quality escape of the spherical bea",
+    "tags": [],
+    "tickers": [],
+    "source": "federal_register",
+    "platform": "Fed. Register",
+    "url": "https://www.federalregister.gov/documents/2026/11/24/2026-23877/airworthiness-directives-bell-textron-canada-limited-helicopters",
+    "published_iso": "2026-11-24T05:00:00+00:00",
+    "time_ago": "15h ago"
   },
   {
     "id": "e3d1ac9db8f0",
@@ -81,33 +352,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/11/23/democrats-2028-nvidia-trump-corruption-message-01181056",
     "published_iso": "2026-11-23T23:45:51+00:00",
-    "time_ago": "10h ago"
-  },
-  {
-    "id": "b3928d06e039",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "critical",
-    "content": "Trump\u2019s illegal war in Iran war and chaotic tariffs are driving up prices just in time for the holidays.\n\nToy prices are up nearly 7% from last year.\n\nAmerican families are paying the price for Donald Trump\u2019s disastrous economic agenda.",
-    "tags": [
-      "Trade",
-      "Sanctions"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "XOM"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3n2z7q4f7tk2j",
-    "published_iso": "2026-11-23T22:50:37.790000+00:00",
-    "time_ago": "11h ago"
+    "time_ago": "20h ago"
   },
   {
     "id": "d3b642960c54",
@@ -134,135 +379,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-hails-americas-armed-forces/",
     "published_iso": "2026-11-23T19:20:12+00:00",
-    "time_ago": "14h ago"
-  },
-  {
-    "id": "d5ece3d71424",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "critical",
-    "content": "Amendment of Class E Airspace; Del Rio, TX. This action amends the Class E airspace at Del Rio, TX. This action is the result of a biennial review of the airspace associated with Laughlin Air Force Base (AFB), Del Rio, TX. This proposal also updates the name and geographic coordinates of Laughlin AFB to coincide with t",
-    "tags": [
-      "Regulation",
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23836/amendment-of-class-e-airspace-del-rio-tx",
-    "published_iso": "2026-11-23T05:00:00+00:00",
     "time_ago": "1d ago"
-  },
-  {
-    "id": "580e20426eec",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Horse Protection Amendments; Extension of Postponement of Regulations. On May 8, 2024, we published a final rule amending the horse protection regulations. The final rule was initially scheduled to go into effect on February 1, 2025, except for Sec. 11.19, which was effective on June 7, 2024. On January 28, 2025, we pu",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23818/horse-protection-amendments-extension-of-postponement-of-regulations",
-    "published_iso": "2026-11-23T05:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "7576dd83bb2f",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Extension of Import Restrictions Imposed on Archaeological and Ethnological Material of Egypt. This document amends U.S. Customs and Border Protection (CBP) regulations to reflect the extension of import restrictions on certain categories of archaeological and ethnological material from the Arab Republic of Egypt (Egyp",
-    "tags": [
-      "Trade",
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23795/extension-of-import-restrictions-imposed-on-archaeological-and-ethnological-material-of-egypt",
-    "published_iso": "2026-11-23T05:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "50b117089d2e",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "medium",
-    "content": "Miscellaneous Technical Amendments; Technical Amendment. This technical amendment contains non-substantive corrections to address typographical errors, editorial errors, and outdated or incorrect references in various parts of FAA regulations",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23786/miscellaneous-technical-amendments-technical-amendment",
-    "published_iso": "2026-11-23T05:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "0134d73df473",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act. This final rule rescinds the analysis for determining employee or independent contractor status under the Fair Labor Standards Act (FLSA or Act) set fo",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23777/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical",
-    "published_iso": "2026-11-23T05:00:00+00:00",
-    "time_ago": "1d ago"
-  },
-  {
-    "id": "5bc52567a927",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "Fact Sheet: President Donald J. Trump Protects the Executive\u2019s Privileges and Enhances Efficiencies in Federal Contracting. PROTECTING EXECUTIVE PRIVILEGES FROM CONGRESSIONAL OVERREACH TO SERVE THE AMERICAN PEOPLE:&#160;Today, President Donald J. Trump signed an Executive Order&#160;to ensure Federal contractors and su",
-    "tags": [
-      "Taxes"
-    ],
-    "tickers": [],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-protects-the-executives-privileges-and-enhances-efficiencies-in-federal-contracting/",
-    "published_iso": "2026-11-21T02:46:26+00:00",
-    "time_ago": "3d ago"
   },
   {
     "id": "a130d8066b52",
@@ -402,7 +519,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s274?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-20T19:42:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "d69e999d7a64",
@@ -421,7 +538,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s273?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-20T17:02:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "f8cda5a4c099",
@@ -440,7 +557,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s272?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-20T16:13:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "cd29f56f7525",
@@ -466,69 +583,6 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
     "published_iso": "2026-11-20T15:00:00+00:00",
-    "time_ago": "3d ago"
-  },
-  {
-    "id": "72397d7170f5",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Updates and Amendments to the Civil Service Rules. The Office of Personnel Management (OPM) is confirming the effective date of the direct final rule updating and amending obsolete and outdated provisions of the Civil Service Rules. OPM received no significant adverse comments and therefore confirms that the direct fin",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/11/20/2026-23732/updates-and-amendments-to-the-civil-service-rules",
-    "published_iso": "2026-11-20T05:00:00+00:00",
-    "time_ago": "4d ago"
-  },
-  {
-    "id": "3ad4497a426b",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "Procedures for Settling Claims. The Office of Personnel Management (OPM) confirms that the direct final rule updating the procedures for submitting certain administrative claims to OPM became effective as scheduled",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/11/20/2026-23731/procedures-for-settling-claims",
-    "published_iso": "2026-11-20T05:00:00+00:00",
-    "time_ago": "4d ago"
-  },
-  {
-    "id": "eeebaa2513e7",
-    "politician": "Federal Register",
-    "initials": "FR",
-    "role": "Federal Regulations",
-    "color": {
-      "bg": "#0a1a0a",
-      "fg": "#86efac"
-    },
-    "severity": "high",
-    "content": "FLSA Claims and Compliance. The Office of Personnel Management (OPM) confirms that the direct final rule updating provisions concerning Fair Labor Standards Act (FLSA) claims submissions to OPM became effective as scheduled",
-    "tags": [
-      "Regulation"
-    ],
-    "tickers": [],
-    "source": "federal_register",
-    "platform": "Fed. Register",
-    "url": "https://www.federalregister.gov/documents/2026/11/20/2026-23730/flsa-claims-and-compliance",
-    "published_iso": "2026-11-20T05:00:00+00:00",
     "time_ago": "4d ago"
   },
   {
@@ -556,7 +610,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
     "published_iso": "2026-11-19T16:00:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "de40b3ccfdde",
@@ -585,7 +639,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-gillibrand-colleagues-urge-treasury-to-give-state-stablecoin-issuers-equal-footing-with-federal-issuers/",
     "published_iso": "2026-11-18T19:46:16+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "88c3db4169e4",
@@ -604,7 +658,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
     "published_iso": "2026-11-18T19:00:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "7b715d923fc0",
@@ -626,7 +680,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ambassador-greer-champions-america-first-trade-policy-virtual-remarks-responsible-business-alliances",
     "published_iso": "2026-11-18T18:41:05+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "6bf391793899",
@@ -652,7 +706,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3n2jprywpkc2s",
     "published_iso": "2026-11-17T18:55:25.333000+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "54cc4ec945b2",
@@ -681,7 +735,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ambassador-greer-pens-letter-editor-wall-street-journal-how-tariffs-are-advancing-americans-long",
     "published_iso": "2026-11-16T14:58:11+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "6e2afd099272",
@@ -726,7 +780,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
     "published_iso": "2026-11-12T18:30:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "d905f181bdf8",
@@ -752,33 +806,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
     "published_iso": "2026-11-12T17:45:00+00:00",
-    "time_ago": "11d ago"
-  },
-  {
-    "id": "60feb2f302c2",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board issues enforcement action with former employee of United Community Bank. Federal Reserve Board issues enforcement action with former employee of United Community Bank",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
-    "published_iso": "2026-11-12T16:00:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "335ed27105f2",
@@ -800,7 +828,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-statement-on-transition-to-ranking-member-of-the-help-committee/",
     "published_iso": "2026-11-11T18:03:00+00:00",
-    "time_ago": "12d ago"
+    "time_ago": "13d ago"
   },
   {
     "id": "674261c90092",
@@ -871,7 +899,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "108d ago"
+    "time_ago": "109d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -900,7 +928,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "123d ago"
+    "time_ago": "124d ago"
   },
   {
     "id": "de38f5381391",
@@ -921,7 +949,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "124d ago"
+    "time_ago": "125d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -943,7 +971,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/266583-2/",
     "published_iso": "2026-07-22T12:28:35+00:00",
-    "time_ago": "124d ago"
+    "time_ago": "125d ago"
   },
   {
     "id": "79faa09fe8f6",
@@ -964,7 +992,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "196d ago"
+    "time_ago": "197d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -990,7 +1018,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "202d ago"
+    "time_ago": "203d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1012,7 +1040,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "210d ago"
+    "time_ago": "211d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1036,7 +1064,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "238d ago"
+    "time_ago": "239d ago"
   },
   {
     "id": "432e035b915b",
@@ -1055,7 +1083,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "243d ago"
+    "time_ago": "244d ago"
   },
   {
     "id": "00f579ee8f55",
@@ -1076,7 +1104,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "283d ago"
+    "time_ago": "284d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1095,7 +1123,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "283d ago"
+    "time_ago": "284d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1121,7 +1149,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "305d ago"
+    "time_ago": "306d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1140,6 +1168,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "342d ago"
+    "time_ago": "343d ago"
   }
 ]
