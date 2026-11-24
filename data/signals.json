@@ -1,151 +1,27 @@
 [
   {
-    "id": "173a712dadf7",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "id": "8428354cb642",
+    "politician": "Politico",
+    "initials": "PO",
+    "role": "Political News",
     "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
+      "bg": "#1a0a0a",
+      "fg": "#fca5a5"
     },
-    "severity": "medium",
-    "content": "Baird W Blake sold 24,239 shares of Sunstone Hotel Investors, Inc. (SHO-PH) \u00b7 $12.89/share \u00b7 $312,441 total \u00b7 Nov 23",
-    "tags": [],
-    "tickers": [],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1295810/000121359626000003/0001213596-26-000003-index.htm",
-    "published_iso": "2026-11-23T12:30:05+00:00",
-    "time_ago": "8m ago"
-  },
-  {
-    "id": "28ce92bd9069",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Ferrari Luca converted 3,681,766 shares of Bending Spoons S.P.A. (BSP) \u00b7 Nov 23",
+    "severity": "high",
+    "content": "Democratic 2028ers capitalize on Nvidia news to push anti-corruption message. Potential Democratic presidential candidates are slamming the reinstatement of Nvidia\u2019s CEO by leaning into a theme that carried them through the midterms",
     "tags": [],
     "tickers": [
-      "BSP"
+      "NVDA"
     ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2141041/000214104126000003/0002141041-26-000003-index.htm",
-    "published_iso": "2026-11-23T12:26:00+00:00",
-    "time_ago": "12m ago"
+    "source": "politico",
+    "platform": "Politico",
+    "url": "https://www.politico.com/news/2026/11/23/democrats-2028-nvidia-trump-corruption-message-01181056",
+    "published_iso": "2026-11-23T23:45:51+00:00",
+    "time_ago": "35m ago"
   },
   {
-    "id": "47cf1e5eb396",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Keizer Henry R. bought 5,000 shares of Graftech International Ltd (EAF) \u00b7 $7.50/share \u00b7 $37,500 total \u00b7 Nov 23",
-    "tags": [],
-    "tickers": [
-      "EAF"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1592177/000093114826000095/0000931148-26-000095-index.htm",
-    "published_iso": "2026-11-23T12:20:25+00:00",
-    "time_ago": "18m ago"
-  },
-  {
-    "id": "88381e7e2154",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Patarnello Francesco converted 4,619,264 shares of Bending Spoons S.P.A. (BSP) \u00b7 Nov 23",
-    "tags": [],
-    "tickers": [
-      "BSP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2141061/000214106126000003/0002141061-26-000003-index.htm",
-    "published_iso": "2026-11-23T12:12:47+00:00",
-    "time_ago": "25m ago"
-  },
-  {
-    "id": "3310bd0cbf1d",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Hornbeck Todd M bought 202,300 shares of Hornbeck Offshore Services, Inc. (HOS) \u00b7 $5.02/share \u00b7 $1,016,355 total \u00b7 Nov 23",
-    "tags": [],
-    "tickers": [
-      "HOS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1284591/000128459126000004/0001284591-26-000004-index.htm",
-    "published_iso": "2026-11-23T12:05:05+00:00",
-    "time_ago": "33m ago"
-  },
-  {
-    "id": "c7175f8d0c55",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Fink Benjamin Matthew bought 47,000 shares of Hornbeck Offshore Services, Inc. (HOS) \u00b7 $4.90/share \u00b7 $230,300 total \u00b7 Nov 23",
-    "tags": [],
-    "tickers": [
-      "HOS"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1312482/000131248226000001/0001312482-26-000001-index.htm",
-    "published_iso": "2026-11-23T12:00:05+00:00",
-    "time_ago": "38m ago"
-  },
-  {
-    "id": "f2f896323a76",
-    "politician": "SEC Insider Trades",
-    "initials": "SEC",
-    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
-    "color": {
-      "bg": "#0a0a1a",
-      "fg": "#a5b4fc"
-    },
-    "severity": "medium",
-    "content": "Danieli Matteo converted 4,048,731 shares of Bending Spoons S.P.A. (BSP) \u00b7 Nov 23",
-    "tags": [],
-    "tickers": [
-      "BSP"
-    ],
-    "source": "sec",
-    "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2141043/000214104326000006/0002141043-26-000006-index.htm",
-    "published_iso": "2026-11-23T11:56:41+00:00",
-    "time_ago": "41m ago"
-  },
-  {
-    "id": "b33c548cfd66",
+    "id": "d99bda969247",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -154,16 +30,120 @@
       "fg": "#bbf7d0"
     },
     "severity": "medium",
-    "content": "Democrats put campus gambling in the crosshairs. Online sportsbooks and prediction markets are expected to enter a new era of scrutiny from Democrats holding House and Senate majorities in January, with college campuses representing a potential ground zero. As betting platforms grow in popularity and profitability, cri",
+    "content": "Jensen Huang\u2019s dramatic return to Nvidia: 5 takeaways. Jensen Huang was reinstated as Nvidia\u2019s CEO on Monday morning in one of the most shocking developments seen on Wall Street in years. Jensen Huang, the chip behemoth\u2019s co-founder, had been ousted by Nvidia\u2019s board amid an admitted affair with a woman alleged to be w",
     "tags": [
-      "Taxes"
+      "China",
+      "Semiconductors",
+      "Banking"
     ],
-    "tickers": [],
+    "tickers": [
+      "NVDA"
+    ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/newsletters/keeping-score/6233954-congress-scrutinizes-college-gambling/",
-    "published_iso": "2026-11-23T11:00:00+00:00",
+    "url": "https://thehill.com/homenews/analysis/6238763-trump-drives-nvidia-ceo-return/",
+    "published_iso": "2026-11-23T23:16:19+00:00",
     "time_ago": "1h ago"
+  },
+  {
+    "id": "a0474b96928b",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Jensen's back. {beacon} Technology Technology &#8202; The Big Story  Why Nvidia's board did a 180 on Jensen Huang Jensen Huang was resinstated as Nvidia CEO on Monday, marking a drastic turn of events that left Washington and Wall Street with questions.  \u00a9 AP Photo/Jeffrey McWhorter Nvidia's board of directors unanimou",
+    "tags": [
+      "Banking"
+    ],
+    "tickers": [
+      "NVDA"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/newsletters/technology/6238707-jensens-back/",
+    "published_iso": "2026-11-23T23:02:42+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "b3928d06e039",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "critical",
+    "content": "Trump\u2019s illegal war in Iran war and chaotic tariffs are driving up prices just in time for the holidays.\n\nToy prices are up nearly 7% from last year.\n\nAmerican families are paying the price for Donald Trump\u2019s disastrous economic agenda.",
+    "tags": [
+      "Trade",
+      "Sanctions"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "XOM"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3n2z7q4f7tk2j",
+    "published_iso": "2026-11-23T22:50:37.790000+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "0ff2ca31dd2d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "critical",
+    "content": "Commerce Department adds Megaspeed to trade blacklist amid Nvidia scandal. The Commerce Department moved to add Megaspeed \u2014 the company at the center of Nvidia's national security scandal \u2014 to its trade entity blacklist on Monday, according to federal records. The move, published in the Federal Register on Monday, come",
+    "tags": [
+      "Trade",
+      "Semiconductors"
+    ],
+    "tickers": [
+      "NVDA"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/technology/6238594-commerce-blacklists-megaspeed-nvidia/",
+    "published_iso": "2026-11-23T22:45:24+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "d3b642960c54",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "critical",
+    "content": "First Lady Melania Trump Hails America\u2019s Armed Forces. Declaring precision and mental strength the foundation of global military superiority As families across American prepare to celebrate Thanksgiving, First Lady Melania Trump addressed members of America\u2019s armed forces at Joint Base Andrews, \u201cThe US military is the ",
+    "tags": [
+      "Defense",
+      "Taxes"
+    ],
+    "tickers": [
+      "LMT",
+      "RTX",
+      "NOC",
+      "GD"
+    ],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-hails-americas-armed-forces/",
+    "published_iso": "2026-11-23T19:20:12+00:00",
+    "time_ago": "5h ago"
   },
   {
     "id": "d5ece3d71424",
@@ -185,7 +165,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23836/amendment-of-class-e-airspace-del-rio-tx",
     "published_iso": "2026-11-23T05:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "580e20426eec",
@@ -206,7 +186,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23818/horse-protection-amendments-extension-of-postponement-of-regulations",
     "published_iso": "2026-11-23T05:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "7576dd83bb2f",
@@ -228,7 +208,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23795/extension-of-import-restrictions-imposed-on-archaeological-and-ethnological-material-of-egypt",
     "published_iso": "2026-11-23T05:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "50b117089d2e",
@@ -249,7 +229,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23786/miscellaneous-technical-amendments-technical-amendment",
     "published_iso": "2026-11-23T05:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "0134d73df473",
@@ -270,7 +250,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/23/2026-23777/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical",
     "published_iso": "2026-11-23T05:00:00+00:00",
-    "time_ago": "7h ago"
+    "time_ago": "19h ago"
   },
   {
     "id": "5bc52567a927",
@@ -310,7 +290,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s279?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-20T21:49:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "2d121d95dd89",
@@ -329,7 +309,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s278?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-20T21:34:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "a1f7d18eb7e4",
@@ -348,7 +328,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s277?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-20T21:19:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "ed9d896155d3",
@@ -374,7 +354,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
     "published_iso": "2026-11-20T21:15:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "10ec5301f396",
@@ -393,7 +373,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s276?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-20T21:02:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "fcb4997f4872",
@@ -412,7 +392,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s275?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-20T20:38:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "8f7fbaa5ae75",
@@ -431,7 +411,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s274?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-20T19:42:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "d69e999d7a64",
@@ -450,34 +430,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s273?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-20T17:02:00+00:00",
-    "time_ago": "2d ago"
-  },
-  {
-    "id": "3bda0ac3a9d4",
-    "politician": "White House",
-    "initials": "WH",
-    "role": "Executive Branch",
-    "color": {
-      "bg": "#1a1a2a",
-      "fg": "#e2e8f0"
-    },
-    "severity": "critical",
-    "content": "President Trump Taps Pentagon Cyber Chief Kirsten Davies as National Cyber Director. Yesterday, President Donald J. Trump named Kirsten A. Davies to lead the White House Office of the National Cyber Director. A battle-tested cyber leader and the Pentagon\u2019s Chief Information Officer, Davies will drive an America First c",
-    "tags": [
-      "Defense",
-      "Taxes"
-    ],
-    "tickers": [
-      "LMT",
-      "RTX",
-      "NOC",
-      "GD"
-    ],
-    "source": "whitehouse",
-    "platform": "White House",
-    "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/",
-    "published_iso": "2026-11-20T16:53:12+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "f8cda5a4c099",
@@ -496,7 +449,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s272?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-20T16:13:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "cd29f56f7525",
@@ -522,7 +475,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
     "published_iso": "2026-11-20T15:00:00+00:00",
-    "time_ago": "2d ago"
+    "time_ago": "3d ago"
   },
   {
     "id": "72397d7170f5",
@@ -612,7 +565,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
     "published_iso": "2026-11-19T16:00:00+00:00",
-    "time_ago": "3d ago"
+    "time_ago": "4d ago"
   },
   {
     "id": "de40b3ccfdde",
@@ -641,7 +594,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-gillibrand-colleagues-urge-treasury-to-give-state-stablecoin-issuers-equal-footing-with-federal-issuers/",
     "published_iso": "2026-11-18T19:46:16+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "88c3db4169e4",
@@ -660,7 +613,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
     "published_iso": "2026-11-18T19:00:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "7b715d923fc0",
@@ -682,7 +635,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ambassador-greer-champions-america-first-trade-policy-virtual-remarks-responsible-business-alliances",
     "published_iso": "2026-11-18T18:41:05+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "6bf391793899",
@@ -708,7 +661,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3n2jprywpkc2s",
     "published_iso": "2026-11-17T18:55:25.333000+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "54cc4ec945b2",
@@ -737,7 +690,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ambassador-greer-pens-letter-editor-wall-street-journal-how-tariffs-are-advancing-americans-long",
     "published_iso": "2026-11-16T14:58:11+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "6e2afd099272",
@@ -756,7 +709,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
     "published_iso": "2026-11-13T21:15:00+00:00",
-    "time_ago": "9d ago"
+    "time_ago": "10d ago"
   },
   {
     "id": "185361576e6b",
@@ -782,7 +735,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
     "published_iso": "2026-11-12T18:30:00+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "d905f181bdf8",
@@ -808,7 +761,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
     "published_iso": "2026-11-12T17:45:00+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "60feb2f302c2",
@@ -834,7 +787,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
     "published_iso": "2026-11-12T16:00:00+00:00",
-    "time_ago": "10d ago"
+    "time_ago": "11d ago"
   },
   {
     "id": "335ed27105f2",
@@ -856,7 +809,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-statement-on-transition-to-ranking-member-of-the-help-committee/",
     "published_iso": "2026-11-11T18:03:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "674261c90092",
@@ -877,7 +830,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/news/pelosi-update/winning-together",
     "published_iso": "2026-11-06T22:04:12+00:00",
-    "time_ago": "16d ago"
+    "time_ago": "17d ago"
   },
   {
     "id": "f5506a3890fe",
@@ -899,7 +852,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-six-penny-plan-to-balance-the-federal-budget-in-five-years-3/",
     "published_iso": "2026-09-22T20:41:12+00:00",
-    "time_ago": "61d ago"
+    "time_ago": "62d ago"
   },
   {
     "id": "baf26d52584e",
@@ -927,7 +880,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "107d ago"
+    "time_ago": "108d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -956,7 +909,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "122d ago"
+    "time_ago": "123d ago"
   },
   {
     "id": "de38f5381391",
@@ -977,7 +930,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "123d ago"
+    "time_ago": "124d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -1020,7 +973,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "195d ago"
+    "time_ago": "196d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1046,7 +999,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "201d ago"
+    "time_ago": "202d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1068,7 +1021,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "209d ago"
+    "time_ago": "210d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1092,7 +1045,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "237d ago"
+    "time_ago": "238d ago"
   },
   {
     "id": "432e035b915b",
@@ -1111,7 +1064,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "242d ago"
+    "time_ago": "243d ago"
   },
   {
     "id": "00f579ee8f55",
@@ -1132,7 +1085,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "282d ago"
+    "time_ago": "283d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1151,7 +1104,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "282d ago"
+    "time_ago": "283d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1177,7 +1130,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "304d ago"
+    "time_ago": "305d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1196,6 +1149,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "341d ago"
+    "time_ago": "342d ago"
   }
 ]
