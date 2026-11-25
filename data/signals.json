@@ -1,6 +1,27 @@
 [
   {
-    "id": "44051c881518",
+    "id": "57cad5acd56b",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "critical",
+    "content": "Rader Chris P bought 500 shares of Home Bancorp, Inc. (HBCP) \u00b7 $61.25/share \u00b7 $30,625 total \u00b7 Nov 25",
+    "tags": [],
+    "tickers": [
+      "HBCP"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1676827/000143642526000080/0001436425-26-000080-index.htm",
+    "published_iso": "2026-11-25T22:41:16+00:00",
+    "time_ago": "just now"
+  },
+  {
+    "id": "6cfc8049813f",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -9,19 +30,42 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Burnette Donald L. bought 2,000,000 shares of Kodiak Ai, Inc. (KDKRW) \u00b7 $1.11/share \u00b7 $2,213,400 total \u00b7 Nov 25",
+    "content": "Brooks Jeremy exercised options for 1,576 shares of Williams Sonoma Inc (WSM) \u00b7 Nov 25 ($168,981 across all blocks)",
     "tags": [],
     "tickers": [
-      "KDKRW"
+      "WSM"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/2080471/000208047126000003/0002080471-26-000003-index.htm",
-    "published_iso": "2026-11-25T13:30:06+00:00",
+    "url": "https://www.sec.gov/Archives/edgar/data/1946897/000071995526000250/0000719955-26-000250-index.htm",
+    "published_iso": "2026-11-25T22:39:42+00:00",
+    "time_ago": "2m ago"
+  },
+  {
+    "id": "f48f6e9acc7e",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Hinds Gregory S. bought 33,655 shares of Battalion Oil Corp (BATL) \u00b7 $0.55/share \u00b7 $18,588 total \u00b7 Nov 25",
+    "tags": [
+      "Energy"
+    ],
+    "tickers": [
+      "BATL"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1545974/000154597426000003/0001545974-26-000003-index.htm",
+    "published_iso": "2026-11-25T22:38:57+00:00",
     "time_ago": "3m ago"
   },
   {
-    "id": "68fc0c7330fb",
+    "id": "cf749f3fba12",
     "politician": "SEC Insider Trades",
     "initials": "SEC",
     "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
@@ -30,21 +74,40 @@
       "fg": "#a5b4fc"
     },
     "severity": "medium",
-    "content": "Moldovan Kristopher E. withheld (tax) 750 shares of Vistra Corp. (VST) \u00b7 $130.16/share \u00b7 $97,620 total \u00b7 Nov 25",
-    "tags": [
-      "Taxes"
-    ],
+    "content": "Moore Tyler Thomas received 100,000 shares of Soundhound Ai, Inc. (SOUNW) \u00b7 Nov 25",
+    "tags": [],
     "tickers": [
-      "VST"
+      "SOUNW"
     ],
     "source": "sec",
     "platform": "SEC Form 4",
-    "url": "https://www.sec.gov/Archives/edgar/data/1940494/000194049426000010/0001940494-26-000010-index.htm",
-    "published_iso": "2026-11-25T13:28:55+00:00",
-    "time_ago": "4m ago"
+    "url": "https://www.sec.gov/Archives/edgar/data/2087198/000208719826000005/0002087198-26-000005-index.htm",
+    "published_iso": "2026-11-25T22:38:19+00:00",
+    "time_ago": "3m ago"
   },
   {
-    "id": "fb4adaa5774e",
+    "id": "6be4a0b68956",
+    "politician": "SEC Insider Trades",
+    "initials": "SEC",
+    "role": "SEC EDGAR \u2014 Exec & Insider Stock Trades (Form 4)",
+    "color": {
+      "bg": "#0a0a1a",
+      "fg": "#a5b4fc"
+    },
+    "severity": "medium",
+    "content": "Lynch Kathleen B. sold 10,000 shares of Eastman Kodak Co (KODK) \u00b7 $8.15/share \u00b7 $81,500 total \u00b7 Nov 25",
+    "tags": [],
+    "tickers": [
+      "KODK"
+    ],
+    "source": "sec",
+    "platform": "SEC Form 4",
+    "url": "https://www.sec.gov/Archives/edgar/data/1863429/000089183926000507/0000891839-26-000507-index.htm",
+    "published_iso": "2026-11-25T22:29:40+00:00",
+    "time_ago": "12m ago"
+  },
+  {
+    "id": "9bd940a9238f",
     "politician": "The Hill",
     "initials": "TH",
     "role": "Political News",
@@ -52,19 +115,193 @@
       "bg": "#0a1a0a",
       "fg": "#bbf7d0"
     },
-    "severity": "low",
-    "content": "Trump doesn\u2019t rule out pardoning Jensen Huang. President Trump did not rule out pardoning Jensen Huang after the embattled Nvidia CEO was reinstated earlier this week. \u201cIt\u2019s always an option, I guess, but I don\u2019t think it\u2019ll be necessary,\u201d Trump said Tuesday in an interview with the New York Post. The president and mem",
+    "severity": "critical",
+    "content": "Huawei found guilty in trade secrets theft case. {beacon} Technology Technology &#8202; The Big Story  Huawei found guilty in trade secrets theft case  A federal jury found the Chinese tech giant Huawei Technologies and its subsidiaries guilty of violating U.S. sanctions on Iran, stealing American trade secrets and mon",
     "tags": [
-      "Regulation"
+      "Trade",
+      "China",
+      "Sanctions"
     ],
     "tickers": [
-      "NVDA"
+      "LMT",
+      "RTX",
+      "XOM"
     ],
     "source": "thehill",
     "platform": "The Hill",
-    "url": "https://thehill.com/policy/technology/6241952-donald-trump-nvidia-scandal-jensen-huang-pardon/",
-    "published_iso": "2026-11-25T12:51:25+00:00",
-    "time_ago": "41m ago"
+    "url": "https://thehill.com/newsletters/technology/6243978-huawei-found-guilty-in-trade-secrets-theft-case/",
+    "published_iso": "2026-11-25T22:04:12+00:00",
+    "time_ago": "38m ago"
+  },
+  {
+    "id": "e1e042207884",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "high",
+    "content": "Bottoms to be inaugurated at Atlanta\u2019s State Farm Arena. Georgia Gov.-elect Keisha Lance Bottoms (D) will be sworn into office on Jan. 12, her transition team announced Wednesday, marking the first time in U.S. history that a Black woman will serve as governor. The former Atlanta mayor will take the oath of office as G",
+    "tags": [
+      "Agriculture",
+      "Taxes"
+    ],
+    "tickers": [
+      "CORN",
+      "SOYB",
+      "DE"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/homenews/state-watch/6243872-bottoms-georgia-governor-swearing-in/",
+    "published_iso": "2026-11-25T21:53:27+00:00",
+    "time_ago": "48m ago"
+  },
+  {
+    "id": "b53147a7ae5d",
+    "politician": "The Hill",
+    "initials": "TH",
+    "role": "Political News",
+    "color": {
+      "bg": "#0a1a0a",
+      "fg": "#bbf7d0"
+    },
+    "severity": "medium",
+    "content": "Ukraine tells Putin to 'stop complaining' about oil refinery attacks. Andrii Sybiha, Ukraine\u2019s minister of foreign affairs, told Russian President Vladimir Putin to \u201cstop complaining\u201d about attacks on oil refineries following tit-for-tat strikes between the countries targeting energy facilities. \u201cIf Putin doesn\u2019t like ",
+    "tags": [
+      "Energy",
+      "Defense",
+      "Taxes",
+      "Sanctions"
+    ],
+    "tickers": [
+      "XOM",
+      "CVX",
+      "COP",
+      "OXY"
+    ],
+    "source": "thehill",
+    "platform": "The Hill",
+    "url": "https://thehill.com/policy/international/6243656-ukraine-russia-oil-refinery-attacks/",
+    "published_iso": "2026-11-25T21:11:36+00:00",
+    "time_ago": "1h ago"
+  },
+  {
+    "id": "60a95e453656",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "high",
+    "content": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions. Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "tags": [
+      "Regulation"
+    ],
+    "tickers": [],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+    "published_iso": "2026-11-25T20:00:00+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "246916caff04",
+    "politician": "Federal Reserve",
+    "initials": "FED",
+    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
+    "color": {
+      "bg": "#0a1a2a",
+      "fg": "#60a5fa"
+    },
+    "severity": "high",
+    "content": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans. Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "tags": [],
+    "tickers": [],
+    "source": "fed_reserve",
+    "platform": "Federal Reserve",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
+    "published_iso": "2026-11-25T20:00:00+00:00",
+    "time_ago": "2h ago"
+  },
+  {
+    "id": "8ce2bb1d2b17",
+    "politician": "U.S. Trade Rep.",
+    "initials": "USTR",
+    "role": "Office of the U.S. Trade Representative",
+    "color": {
+      "bg": "#1a0a1a",
+      "fg": "#d8b4fe"
+    },
+    "severity": "critical",
+    "content": "Readout of First Meeting of the Agricultural Working Group Under the Framework of the U.S.-China Board of Trade. Readout of First Meeting of the Agricultural Working Group Under the Framework of the U.S.-China Board of Trade \n  pbrouillette  \n  Wed, 11/25/2026 - 13:09 \n \n\n               BEIJING &nbsp; \u2014 This week, the ",
+    "tags": [
+      "Trade",
+      "China",
+      "Agriculture",
+      "Regulation"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM",
+      "QCOM",
+      "AAPL"
+    ],
+    "source": "ustr",
+    "platform": "USTR",
+    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/readout-first-meeting-agricultural-working-group-under-framework-us-china-board-trade",
+    "published_iso": "2026-11-25T18:09:43+00:00",
+    "time_ago": "4h ago"
+  },
+  {
+    "id": "b9df275046b6",
+    "politician": "White House",
+    "initials": "WH",
+    "role": "Executive Branch",
+    "color": {
+      "bg": "#1a1a2a",
+      "fg": "#e2e8f0"
+    },
+    "severity": "low",
+    "content": "Thanksgiving Day, 2026. As families and friends gather across our country to celebrate Thanksgiving in this 250th anniversary year of American Independence, we pledge to carry forward the spirit of faith and fellowship that marked the first Thanksgiving feast, and we renew our mission to continue ushering in the Golden",
+    "tags": [
+      "Taxes"
+    ],
+    "tickers": [],
+    "source": "whitehouse",
+    "platform": "White House",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/11/thanksgiving-day-2026/",
+    "published_iso": "2026-11-25T14:30:00+00:00",
+    "time_ago": "8h ago"
+  },
+  {
+    "id": "e87b0485d86f",
+    "politician": "Sen. Elizabeth Warren",
+    "initials": "EW",
+    "role": "Senate Banking Committee",
+    "color": {
+      "bg": "#1b3a2a",
+      "fg": "#4ade80"
+    },
+    "severity": "medium",
+    "content": "Amazon raked in even more money last year \u2013 but paid 87% LESS in federal income tax, thanks to Trump\u2019s tax cuts.\n \nThat\u2019s better than most Black Friday sales.",
+    "tags": [
+      "Big Tech",
+      "Taxes",
+      "Insider Trade"
+    ],
+    "tickers": [
+      "AMZN"
+    ],
+    "source": "bluesky",
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/warren.senate.gov/post/3n35ekv5p7k2e",
+    "published_iso": "2026-11-25T14:27:50.094000+00:00",
+    "time_ago": "8h ago"
   },
   {
     "id": "c5d96fdb4ca5",
@@ -86,7 +323,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-secures-reunification-of-nine-additional-children-with-their-families/",
     "published_iso": "2026-11-25T12:01:00+00:00",
-    "time_ago": "1h ago"
+    "time_ago": "10h ago"
   },
   {
     "id": "6d8dd80d08bf",
@@ -111,7 +348,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/video/2026/11/25/moderates-want-a-medicare-for-all-rebrand-2237528",
     "published_iso": "2026-11-25T10:45:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "7804e1c5995e",
@@ -132,7 +369,7 @@
     "platform": "Politico",
     "url": "https://www.politico.com/news/2026/11/25/rnc-gruters-crosbie-republican-party-future-01182563",
     "published_iso": "2026-11-25T10:45:00+00:00",
-    "time_ago": "2h ago"
+    "time_ago": "11h ago"
   },
   {
     "id": "f411db1a414c",
@@ -154,7 +391,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/25/2026-24018/establishment-of-class-e-airspace-trading-bay-production-airport-trading-bay-ak",
     "published_iso": "2026-11-25T05:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "4e13042acd94",
@@ -173,7 +410,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/25/2026-24013/auction-of-flexible-use-licenses-in-the-upper-c-band-for-next-generation-wireless-services-notice",
     "published_iso": "2026-11-25T05:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "13aebde042e7",
@@ -192,7 +429,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/25/2026-24010/safety-zone-brownsville-ship-channel-brownsville-tx",
     "published_iso": "2026-11-25T05:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "5d15decebe61",
@@ -214,7 +451,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/25/2026-23999/additions-to-the-entity-list",
     "published_iso": "2026-11-25T05:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "e3b3c7d61d00",
@@ -235,7 +472,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/25/2026-23997/supervisory-committee-audits-and-verifications",
     "published_iso": "2026-11-25T05:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "cb97b1290bee",
@@ -256,7 +493,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/25/2026-23996/corporate-credit-unions",
     "published_iso": "2026-11-25T05:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "99ff9bd68dea",
@@ -278,7 +515,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/25/2026-23994/thresholds-increase-for-the-major-assets-prohibition-of-the-depository-institution-management",
     "published_iso": "2026-11-25T05:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "20ba80d8a81c",
@@ -297,7 +534,7 @@
     "platform": "Fed. Register",
     "url": "https://www.federalregister.gov/documents/2026/11/25/2026-23993/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-ocean-perch-in-the-eastern-aleutian",
     "published_iso": "2026-11-25T05:00:00+00:00",
-    "time_ago": "8h ago"
+    "time_ago": "17h ago"
   },
   {
     "id": "afb8b36e0208",
@@ -316,7 +553,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
     "published_iso": "2026-11-24T19:00:00+00:00",
-    "time_ago": "18h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "19d44dfc1e54",
@@ -339,30 +576,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/warren.senate.gov/post/3n336hrrm7c2p",
     "published_iso": "2026-11-24T17:33:23.953000+00:00",
-    "time_ago": "19h ago"
-  },
-  {
-    "id": "d214686c6716",
-    "politician": "Sen. Elizabeth Warren",
-    "initials": "EW",
-    "role": "Senate Banking Committee",
-    "color": {
-      "bg": "#1b3a2a",
-      "fg": "#4ade80"
-    },
-    "severity": "high",
-    "content": "1 in 3 Amazon Black Friday \u201cdeals\u201d aren't real deals. \n \nAmazon's been caught pricing items the same or higher during Black Friday than the month leading up to it.\n \nWhile Americans struggle to afford the basics, Amazon is trying to trick them. That\u2019s just plain wrong.",
-    "tags": [
-      "Big Tech"
-    ],
-    "tickers": [
-      "AMZN"
-    ],
-    "source": "bluesky",
-    "platform": "Bluesky",
-    "url": "https://bsky.app/profile/warren.senate.gov/post/3n336hrrdg22p",
-    "published_iso": "2026-11-24T17:33:23.952000+00:00",
-    "time_ago": "19h ago"
+    "time_ago": "1d ago"
   },
   {
     "id": "e3d1ac9db8f0",
@@ -410,7 +624,7 @@
     "platform": "White House",
     "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-hails-americas-armed-forces/",
     "published_iso": "2026-11-23T19:20:12+00:00",
-    "time_ago": "1d ago"
+    "time_ago": "2d ago"
   },
   {
     "id": "cbcd38848dc7",
@@ -452,7 +666,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s279?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-20T21:49:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "2d121d95dd89",
@@ -471,7 +685,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s278?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-20T21:34:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "a1f7d18eb7e4",
@@ -490,7 +704,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s277?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-20T21:19:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "ed9d896155d3",
@@ -516,7 +730,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
     "published_iso": "2026-11-20T21:15:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "10ec5301f396",
@@ -535,7 +749,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s276?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-20T21:02:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "fcb4997f4872",
@@ -554,7 +768,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s275?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-20T20:38:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "8f7fbaa5ae75",
@@ -573,7 +787,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s274?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-20T19:42:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "d69e999d7a64",
@@ -592,7 +806,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s273?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-20T17:02:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "f8cda5a4c099",
@@ -611,7 +825,7 @@
     "platform": "GovTrack",
     "url": "https://www.govtrack.us/congress/votes/119-2026/s272?utm_campaign=govtrack_feed&utm_source=govtrack/feed&utm_medium=rss",
     "published_iso": "2026-11-20T16:13:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "cd29f56f7525",
@@ -637,7 +851,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
     "published_iso": "2026-11-20T15:00:00+00:00",
-    "time_ago": "4d ago"
+    "time_ago": "5d ago"
   },
   {
     "id": "dc4376efd31b",
@@ -664,7 +878,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
     "published_iso": "2026-11-19T16:00:00+00:00",
-    "time_ago": "5d ago"
+    "time_ago": "6d ago"
   },
   {
     "id": "de40b3ccfdde",
@@ -693,7 +907,7 @@
     "platform": ".gov",
     "url": "https://www.lummis.senate.gov/press-releases/lummis-gillibrand-colleagues-urge-treasury-to-give-state-stablecoin-issuers-equal-footing-with-federal-issuers/",
     "published_iso": "2026-11-18T19:46:16+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "88c3db4169e4",
@@ -712,7 +926,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
     "published_iso": "2026-11-18T19:00:00+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "7b715d923fc0",
@@ -734,7 +948,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ambassador-greer-champions-america-first-trade-policy-virtual-remarks-responsible-business-alliances",
     "published_iso": "2026-11-18T18:41:05+00:00",
-    "time_ago": "6d ago"
+    "time_ago": "7d ago"
   },
   {
     "id": "6bf391793899",
@@ -760,7 +974,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/khanna.house.gov/post/3n2jprywpkc2s",
     "published_iso": "2026-11-17T18:55:25.333000+00:00",
-    "time_ago": "7d ago"
+    "time_ago": "8d ago"
   },
   {
     "id": "54cc4ec945b2",
@@ -789,7 +1003,7 @@
     "platform": "USTR",
     "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ambassador-greer-pens-letter-editor-wall-street-journal-how-tariffs-are-advancing-americans-long",
     "published_iso": "2026-11-16T14:58:11+00:00",
-    "time_ago": "8d ago"
+    "time_ago": "9d ago"
   },
   {
     "id": "d8add0dd8771",
@@ -831,7 +1045,7 @@
     "platform": "Federal Reserve",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
     "published_iso": "2026-11-13T21:15:00+00:00",
-    "time_ago": "11d ago"
+    "time_ago": "12d ago"
   },
   {
     "id": "48b6ff5d4d0c",
@@ -850,58 +1064,6 @@
     "platform": "Substack",
     "url": "https://www.thebignewsletter.com/p/blocked-emboldened-state-regulators",
     "published_iso": "2026-11-13T20:31:40+00:00",
-    "time_ago": "11d ago"
-  },
-  {
-    "id": "185361576e6b",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "critical",
-    "content": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services. Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve B",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
-    "published_iso": "2026-11-12T18:30:00+00:00",
-    "time_ago": "12d ago"
-  },
-  {
-    "id": "d905f181bdf8",
-    "politician": "Federal Reserve",
-    "initials": "FED",
-    "role": "Federal Reserve \u2014 Monetary Policy & Rate Decisions",
-    "color": {
-      "bg": "#0a1a2a",
-      "fg": "#60a5fa"
-    },
-    "severity": "high",
-    "content": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027. Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-    "tags": [
-      "Banking"
-    ],
-    "tickers": [
-      "JPM",
-      "BAC",
-      "GS",
-      "XLF"
-    ],
-    "source": "fed_reserve",
-    "platform": "Federal Reserve",
-    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-    "published_iso": "2026-11-12T17:45:00+00:00",
     "time_ago": "12d ago"
   },
   {
@@ -924,7 +1086,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-statement-on-transition-to-ranking-member-of-the-help-committee/",
     "published_iso": "2026-11-11T18:03:00+00:00",
-    "time_ago": "13d ago"
+    "time_ago": "14d ago"
   },
   {
     "id": "70e31cd669b6",
@@ -966,7 +1128,7 @@
     "platform": ".gov",
     "url": "http://pelosi.house.gov/news/pelosi-update/winning-together",
     "published_iso": "2026-11-06T22:04:12+00:00",
-    "time_ago": "18d ago"
+    "time_ago": "19d ago"
   },
   {
     "id": "f5558a6c8336",
@@ -1036,7 +1198,7 @@
     "platform": "Substack",
     "url": "https://www.apricitas.io/p/how-canada-is-decoupling-from-the",
     "published_iso": "2026-10-25T17:30:53+00:00",
-    "time_ago": "30d ago"
+    "time_ago": "31d ago"
   },
   {
     "id": "f5506a3890fe",
@@ -1058,7 +1220,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-six-penny-plan-to-balance-the-federal-budget-in-five-years-3/",
     "published_iso": "2026-09-22T20:41:12+00:00",
-    "time_ago": "63d ago"
+    "time_ago": "64d ago"
   },
   {
     "id": "baf26d52584e",
@@ -1086,7 +1248,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/senator-rand-paul-offers-amendment-to-strip-half-trillion-dollar-tax-increase-from-russia-sanctions-bill/",
     "published_iso": "2026-08-07T16:35:23+00:00",
-    "time_ago": "109d ago"
+    "time_ago": "110d ago"
   },
   {
     "id": "6e187954d9ee",
@@ -1115,7 +1277,7 @@
     "platform": ".gov",
     "url": "https://www.paul.senate.gov/dr-rand-pauls-legislation-to-lower-drug-prices-unanimously-advances-out-of-committee/",
     "published_iso": "2026-07-23T16:35:29+00:00",
-    "time_ago": "124d ago"
+    "time_ago": "125d ago"
   },
   {
     "id": "de38f5381391",
@@ -1136,7 +1298,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985766",
     "published_iso": "2026-07-22T18:38:46+00:00",
-    "time_ago": "125d ago"
+    "time_ago": "126d ago"
   },
   {
     "id": "eb1d45f105fb",
@@ -1179,7 +1341,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985296",
     "published_iso": "2026-05-11T15:50:24+00:00",
-    "time_ago": "197d ago"
+    "time_ago": "198d ago"
   },
   {
     "id": "d69f39ae1ab0",
@@ -1205,7 +1367,7 @@
     "platform": "Bluesky",
     "url": "https://bsky.app/profile/sanders.senate.gov/post/3ml4exfmm5k2y",
     "published_iso": "2026-05-05T14:19:04.230000+00:00",
-    "time_ago": "203d ago"
+    "time_ago": "204d ago"
   },
   {
     "id": "4893d4c85a5a",
@@ -1227,7 +1389,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/985161",
     "published_iso": "2026-04-27T14:45:01+00:00",
-    "time_ago": "211d ago"
+    "time_ago": "212d ago"
   },
   {
     "id": "e66d09d0037b",
@@ -1251,7 +1413,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/news/featured-stories/treasury-accepting-whistleblower-tips-on-fraud-money-laundering-sanctions-violations",
     "published_iso": "2026-03-30T13:52:38+00:00",
-    "time_ago": "239d ago"
+    "time_ago": "240d ago"
   },
   {
     "id": "432e035b915b",
@@ -1270,7 +1432,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984806",
     "published_iso": "2026-03-25T18:58:27+00:00",
-    "time_ago": "244d ago"
+    "time_ago": "245d ago"
   },
   {
     "id": "c9cdd15fbd9d",
@@ -1316,7 +1478,7 @@
     "platform": "Substack",
     "url": "https://www.apricitas.io/p/the-supreme-court-ruled-against-trumps",
     "published_iso": "2026-02-21T17:41:03+00:00",
-    "time_ago": "276d ago"
+    "time_ago": "277d ago"
   },
   {
     "id": "00f579ee8f55",
@@ -1337,7 +1499,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984591",
     "published_iso": "2026-02-13T14:26:38+00:00",
-    "time_ago": "284d ago"
+    "time_ago": "285d ago"
   },
   {
     "id": "5015a64d82d2",
@@ -1356,7 +1518,7 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984586",
     "published_iso": "2026-02-13T14:16:22+00:00",
-    "time_ago": "284d ago"
+    "time_ago": "285d ago"
   },
   {
     "id": "c3776ad92a42",
@@ -1382,7 +1544,7 @@
     "platform": ".gov",
     "url": "https://www.sanders.senate.gov/advisory-sanders-to-hold-town-meeting-on-vermont-health-care-crisis-with-uvm-health-ceo/",
     "published_iso": "2026-01-22T17:09:24+00:00",
-    "time_ago": "306d ago"
+    "time_ago": "307d ago"
   },
   {
     "id": "d3ca74df7f0f",
@@ -1401,6 +1563,6 @@
     "platform": "U.S. Treasury",
     "url": "https://home.treasury.gov/node/984171",
     "published_iso": "2025-12-16T15:23:20+00:00",
-    "time_ago": "343d ago"
+    "time_ago": "344d ago"
   }
 ]
